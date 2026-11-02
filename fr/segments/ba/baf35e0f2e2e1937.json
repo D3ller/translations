@@ -1,0 +1,14 @@
+{
+  "hash": "baf35e0f2e2e1937",
+  "source": "If you want to play around with Nuxt in your browser, you can {0}try it out in one of our online sandboxes{/0}.",
+  "text": "Si vous souhaitez essayer Nuxt dans votre navigateur, vous pouvez {0}le tester dans l'un de nos bacs à sable en ligne{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous souhaitez essayer Nuxt dans votre navigateur, vous pouvez {0}le tester dans l'un de nos bacs à sable en ligne{/0}."
+  },
+  "updatedAt": "2026-11-02T08:58:30.219Z"
+}

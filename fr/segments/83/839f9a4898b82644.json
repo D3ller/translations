@@ -1,0 +1,14 @@
+{
+  "hash": "839f9a4898b82644",
+  "source": "Nuxt is a free and {0}open-source framework{/0} with an intuitive and extendable way to create type-safe, performant and production-grade full-stack web applications and websites with {1}Vue.js{/1}.",
+  "text": "Nuxt est un framework gratuit et {0}open source{/0}, offrant une manière intuitive et extensible de créer des applications web et des sites web full-stack typés, performants et prêts pour la production avec {1}Vue.js{/1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt est un framework gratuit et {0}open source{/0}, offrant une manière intuitive et extensible de créer des applications web et des sites web full-stack typés, performants et prêts pour la production avec {1}Vue.js{/1}."
+  },
+  "updatedAt": "2026-11-02T08:58:30.219Z"
+}

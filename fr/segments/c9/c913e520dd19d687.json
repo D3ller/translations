@@ -1,0 +1,14 @@
+{
+  "hash": "c913e520dd19d687",
+  "source": "Nuxt has no vendor lock-in, allowing you to deploy your application {0}**everywhere, even on the edge**{/0}.",
+  "text": "Nuxt n'impose aucune dépendance à un fournisseur (pas de vendor lock-in), ce qui vous permet de déployer votre application {0}**partout, même en edge**{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt n'impose aucune dépendance à un fournisseur (pas de vendor lock-in), ce qui vous permet de déployer votre application {0}**partout, même en edge**{/0}."
+  },
+  "updatedAt": "2026-11-02T08:58:30.219Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "c18a9dd444a7535e",
+  "source": "Nuxt's goal is to make web development intuitive and performant with a great Developer Experience in mind.",
+  "text": "L'objectif de Nuxt est de rendre le développement web intuitif et performant, avec une excellente expérience développeur en tête.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'objectif de Nuxt est de rendre le développement web intuitif et performant, avec une excellente expérience développeur en tête."
+  },
+  "updatedAt": "2026-11-02T08:58:30.219Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "5c9573fb173239c5",
+  "source": "We made everything so you can start writing {0} files from the beginning while enjoying hot module replacement in development and a performant application in production with server-side rendering by default.",
+  "text": "Nous avons tout conçu pour que vous puissiez commencer à écrire des fichiers {0} dès le départ, tout en profitant du remplacement à chaud des modules en développement et d'une application performante en production grâce au rendu côté serveur par défaut.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nous avons tout conçu pour que vous puissiez commencer à écrire des fichiers {0} dès le départ, tout en profitant du remplacement à chaud des modules en développement et d'une application performante en production grâce au rendu côté serveur par défaut."
+  },
+  "updatedAt": "2026-11-02T08:58:30.219Z"
+}
