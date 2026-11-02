@@ -1,0 +1,14 @@
+{
+  "hash": "81f928dcd2889184",
+  "source": "It's good practice to set tags here that won't change such as your site title default, language and favicon.",
+  "text": "Il est recommandé de définir ici les balises qui ne changeront pas, comme le titre par défaut de votre site, la langue et le favicon.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Il est recommandé de définir ici les balises qui ne changeront pas, comme le titre par défaut de votre site, la langue et le favicon."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

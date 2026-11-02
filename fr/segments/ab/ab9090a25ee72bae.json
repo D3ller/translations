@@ -1,0 +1,14 @@
+{
+  "hash": "ab9090a25ee72bae",
+  "source": "The {0} composable can be used in a {1} block or a {2} method of a Vue component to access the current route details.",
+  "text": "Le composable {0} peut être utilisé dans un bloc {1} ou une méthode {2} d'un composant Vue pour accéder aux détails de la route courante.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le composable {0} peut être utilisé dans un bloc {1} ou une méthode {2} d'un composant Vue pour accéder aux détails de la route courante."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

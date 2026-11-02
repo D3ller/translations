@@ -1,0 +1,14 @@
+{
+  "hash": "daaf1fbb6d77ec4d",
+  "source": "Global route middleware, which are placed in the {0} directory (with a {1} suffix) and will be automatically run on every route change.",
+  "text": "Les middleware de route globaux, qui sont placés dans le répertoire {0} (avec le suffixe {1}) et sont exécutés automatiquement à chaque changement de route.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les middleware de route globaux, qui sont placés dans le répertoire {0} (avec le suffixe {1}) et sont exécutés automatiquement à chaque changement de route."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

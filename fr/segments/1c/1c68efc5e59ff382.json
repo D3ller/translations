@@ -1,0 +1,14 @@
+{
+  "hash": "1c68efc5e59ff382",
+  "source": "valid options are: 'head' | 'bodyClose' | 'bodyOpen'",
+  "text": "les options valides sont : 'head' | 'bodyClose' | 'bodyOpen'",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "les options valides sont : 'head' | 'bodyClose' | 'bodyOpen'"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

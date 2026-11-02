@@ -1,0 +1,14 @@
+{
+  "hash": "0e0c30e5caf52367",
+  "source": "If you are also using Vue transitions like {0} and {1} (see above) to achieve the same result as the new View Transitions API, then you may wish to *disable* Vue transitions if the user's browser supports the newer, native web API. You can do this by creating {2} with the following contents:",
+  "text": "Si vous utilisez également des transitions Vue comme {0} et {1} (voir ci-dessus) pour obtenir le même résultat que la nouvelle API View Transitions, vous pouvez souhaiter *désactiver* les transitions Vue si le navigateur de l'utilisateur prend en charge cette nouvelle API web native. Vous pouvez le faire en créant {2} avec le contenu suivant :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous utilisez également des transitions Vue comme {0} et {1} (voir ci-dessus) pour obtenir le même résultat que la nouvelle API View Transitions, vous pouvez souhaiter *désactiver* les transitions Vue si le navigateur de l'utilisateur prend en charge cette nouvelle API web native. Vous pouvez le faire en créant {2} avec le contenu suivant :"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "7e321b8fd31a12bf",
+  "source": "This is an experimental option and you should refer to the Vite documentation and {0}provide feedback{/0}.",
+  "text": "Il s'agit d'une option expérimentale ; consultez la documentation de Vite et {0}donnez votre avis{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Il s'agit d'une option expérimentale ; consultez la documentation de Vite et {0}donnez votre avis{/0}."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

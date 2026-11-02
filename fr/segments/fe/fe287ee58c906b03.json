@@ -1,0 +1,14 @@
+{
+  "hash": "fe287ee58c906b03",
+  "source": "Caution: Dynamic imports are not server-side compatible",
+  "text": "Attention : les imports dynamiques ne sont pas compatibles côté serveur",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Attention : les imports dynamiques ne sont pas compatibles côté serveur"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

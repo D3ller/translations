@@ -1,0 +1,14 @@
+{
+  "hash": "6744c4b101d30368",
+  "source": "Nuxt modules provide you with a good developer experience out of the box, but remember that if your favorite tool doesn't have a module, it doesn't mean that you can't use it with Nuxt! You can configure it yourself for your own project. Depending on the tool, you might need to use a {0}Nuxt plugin{/0} and/or {1}make your own module{/1}. Share them with the {2}community{/2} if you do!",
+  "text": "Les modules Nuxt vous offrent une bonne expérience de développement dès l'installation, mais n'oubliez pas que si votre outil favori n'a pas de module, cela ne signifie pas que vous ne pouvez pas l'utiliser avec Nuxt ! Vous pouvez le configurer vous-même pour votre projet. Selon l'outil, vous devrez peut-être utiliser un {0}plugin Nuxt{/0} et/ou {1}créer votre propre module{/1}. Partagez-les avec la {2}communauté{/2} si vous le faites !",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les modules Nuxt vous offrent une bonne expérience de développement dès l'installation, mais n'oubliez pas que si votre outil favori n'a pas de module, cela ne signifie pas que vous ne pouvez pas l'utiliser avec Nuxt ! Vous pouvez le configurer vous-même pour votre projet. Selon l'outil, vous devrez peut-être utiliser un {0}plugin Nuxt{/0} et/ou {1}créer votre propre module{/1}. Partagez-les avec la {2}communauté{/2} si vous le faites !"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

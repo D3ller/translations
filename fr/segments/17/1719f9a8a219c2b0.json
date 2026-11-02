@@ -1,0 +1,14 @@
+{
+  "hash": "1719f9a8a219c2b0",
+  "source": "You can use the {0} option to provide a dynamic template for customizing the title of your site. For example, you could add the name of your site to the title of every page.",
+  "text": "Vous pouvez utiliser l'option {0} pour fournir un template dynamique afin de personnaliser le titre de votre site. Par exemple, vous pouvez ajouter le nom de votre site au titre de chaque page.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez utiliser l'option {0} pour fournir un template dynamique afin de personnaliser le titre de votre site. Par exemple, vous pouvez ajouter le nom de votre site au titre de chaque page."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

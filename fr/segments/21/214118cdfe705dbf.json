@@ -1,0 +1,14 @@
+{
+  "hash": "214118cdfe705dbf",
+  "source": "Nuxt includes the {0}ofetch{/0} library, and is auto-imported as the {1} alias globally across your application.",
+  "text": "Nuxt inclut la bibliothèque {0}ofetch{/0}, qui est importée automatiquement sous l'alias {1} de manière globale dans votre application.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt inclut la bibliothèque {0}ofetch{/0}, qui est importée automatiquement sous l'alias {1} de manière globale dans votre application."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

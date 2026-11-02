@@ -1,0 +1,14 @@
+{
+  "hash": "8709128a7325db77",
+  "source": "However, when calling {0} with a relative URL on the server, Nuxt will use {1} to proxy headers and cookies (with the exception of headers not meant to be forwarded, like {2}).",
+  "text": "Cependant, lorsque vous appelez {0} avec une URL relative sur le serveur, Nuxt utilise {1} pour relayer les en-têtes et les cookies (à l'exception des en-têtes qui ne doivent pas être transmis, comme {2}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cependant, lorsque vous appelez {0} avec une URL relative sur le serveur, Nuxt utilise {1} pour relayer les en-têtes et les cookies (à l'exception des en-têtes qui ne doivent pas être transmis, comme {2})."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

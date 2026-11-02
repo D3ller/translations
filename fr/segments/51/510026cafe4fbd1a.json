@@ -1,0 +1,14 @@
+{
+  "hash": "510026cafe4fbd1a",
+  "source": "Nuxt leverages Vue's {0} component to apply transitions between pages and layouts.",
+  "text": "Nuxt s'appuie sur le composant {0} de Vue pour appliquer des transitions entre les pages et les layouts.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt s'appuie sur le composant {0} de Vue pour appliquer des transitions entre les pages et les layouts."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

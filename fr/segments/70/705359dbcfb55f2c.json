@@ -1,0 +1,14 @@
+{
+  "hash": "705359dbcfb55f2c",
+  "source": "The Nuxt integration can be enabled with the {0} option in your configuration file:",
+  "text": "L'intégration de Nuxt peut être activée avec l'option {0} dans votre fichier de configuration :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'intégration de Nuxt peut être activée avec l'option {0} dans votre fichier de configuration :"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

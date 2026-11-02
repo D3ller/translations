@@ -1,0 +1,14 @@
+{
+  "hash": "d4ce8025181cf6d7",
+  "source": "Learn more about additional {0}JavaScript hooks{/0} available in the {1} component.",
+  "text": "En savoir plus sur les {0}hooks JavaScript{/0} supplémentaires disponibles dans le composant {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En savoir plus sur les {0}hooks JavaScript{/0} supplémentaires disponibles dans le composant {1}."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

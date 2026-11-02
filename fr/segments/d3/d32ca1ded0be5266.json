@@ -1,0 +1,14 @@
+{
+  "hash": "d32ca1ded0be5266",
+  "source": "Nuxt head tag management is powered by {0}Unhead{/0}. It provides sensible defaults, several powerful composables and numerous configuration options to manage your app's head and SEO meta tags.",
+  "text": "La gestion des balises head de Nuxt repose sur {0}Unhead{/0}. Elle fournit des valeurs par défaut pertinentes, plusieurs composables puissants et de nombreuses options de configuration pour gérer le head de votre application et ses balises meta SEO.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La gestion des balises head de Nuxt repose sur {0}Unhead{/0}. Elle fournit des valeurs par défaut pertinentes, plusieurs composables puissants et de nombreuses options de configuration pour gérer le head de votre application et ses balises meta SEO."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

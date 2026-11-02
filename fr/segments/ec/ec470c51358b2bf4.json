@@ -1,0 +1,14 @@
+{
+  "hash": "ec470c51358b2bf4",
+  "source": "Every time a dependency changes, the data will be fetched using the newly constructed URL. Combine this with {0}not-immediate{/0}, and you can wait until the reactive element changes before fetching.",
+  "text": "Chaque fois qu'une dépendance change, les données sont récupérées à partir de l'URL nouvellement construite. Combinez cela avec {0}not-immediate{/0}, et vous pouvez attendre que l'élément réactif change avant de lancer la récupération.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Chaque fois qu'une dépendance change, les données sont récupérées à partir de l'URL nouvellement construite. Combinez cela avec {0}not-immediate{/0}, et vous pouvez attendre que l'élément réactif change avant de lancer la récupération."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

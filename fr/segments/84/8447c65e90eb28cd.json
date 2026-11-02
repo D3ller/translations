@@ -1,0 +1,14 @@
+{
+  "hash": "8447c65e90eb28cd",
+  "source": "When calling {0} on the server, Nuxt will use {1} to proxy client headers and cookies (with the exception of headers not meant to be forwarded, like {2}).",
+  "text": "Lors de l'appel de {0} sur le serveur, Nuxt utilisera {1} pour relayer les en-têtes et cookies du client (à l'exception des en-têtes qui ne doivent pas être transmis, comme {2}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lors de l'appel de {0} sur le serveur, Nuxt utilisera {1} pour relayer les en-têtes et cookies du client (à l'exception des en-têtes qui ne doivent pas être transmis, comme {2})."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

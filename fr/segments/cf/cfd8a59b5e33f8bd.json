@@ -1,0 +1,14 @@
+{
+  "hash": "cfd8a59b5e33f8bd",
+  "source": "Apply transitions between pages and layouts with Vue or native browser View Transitions.",
+  "text": "Appliquez des transitions entre les pages et les layouts avec Vue ou avec les View Transitions natives du navigateur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appliquez des transitions entre les pages et les layouts avec Vue ou avec les View Transitions natives du navigateur."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

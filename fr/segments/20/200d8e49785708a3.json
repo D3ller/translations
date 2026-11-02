@@ -1,0 +1,14 @@
+{
+  "hash": "200d8e49785708a3",
+  "source": "To re-run your fetching function each time other reactive values in your application change, use the {0} option. You can use it for one or multiple *watchable* elements.",
+  "text": "Pour réexécuter votre fonction de récupération chaque fois que d'autres valeurs réactives de votre application changent, utilisez l'option {0}. Vous pouvez l'utiliser pour un ou plusieurs éléments *observables*.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour réexécuter votre fonction de récupération chaque fois que d'autres valeurs réactives de votre application changent, utilisez l'option {0}. Vous pouvez l'utiliser pour un ou plusieurs éléments *observables*."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

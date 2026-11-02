@@ -1,0 +1,14 @@
+{
+  "hash": "d0d9b24bdcdf2d0c",
+  "source": "{0}Pinceau{/0}: Adaptable styling framework",
+  "text": "{0}Pinceau{/0} : framework de style adaptable",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}Pinceau{/0} : framework de style adaptable"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

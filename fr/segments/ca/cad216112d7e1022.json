@@ -1,0 +1,14 @@
+{
+  "hash": "cad216112d7e1022",
+  "source": "where {0} is replaced with the title",
+  "text": "où {0} est remplacé par le titre",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "où {0} est remplacé par le titre"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

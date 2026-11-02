@@ -1,0 +1,14 @@
+{
+  "hash": "9cc26d3f72b9d47e",
+  "source": "The natural place to write your stylesheets is the {0} directory. You can then import your source files in your {1} (or layouts files) using your preprocessor's syntax.",
+  "text": "L'endroit naturel pour écrire vos feuilles de style est le répertoire {0}. Vous pouvez ensuite importer vos fichiers sources dans votre {1} (ou vos fichiers de layouts) en utilisant la syntaxe de votre préprocesseur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'endroit naturel pour écrire vos feuilles de style est le répertoire {0}. Vous pouvez ensuite importer vos fichiers sources dans votre {1} (ou vos fichiers de layouts) en utilisant la syntaxe de votre préprocesseur."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

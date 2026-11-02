@@ -1,0 +1,14 @@
+{
+  "hash": "e02cb610a3fd055c",
+  "source": "My form data",
+  "text": "Les données de mon formulaire",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les données de mon formulaire"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

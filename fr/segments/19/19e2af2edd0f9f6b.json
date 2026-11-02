@@ -1,0 +1,14 @@
+{
+  "hash": "19e2af2edd0f9f6b",
+  "source": "Reactivity is supported on all properties, by providing a computed value, a getter, or a reactive object.",
+  "text": "La réactivité est prise en charge sur toutes les propriétés, en fournissant une valeur calculée, un getter ou un objet réactif.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La réactivité est prise en charge sur toutes les propriétés, en fournissant une valeur calculée, un getter ou un objet réactif."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

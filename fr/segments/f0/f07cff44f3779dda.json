@@ -1,0 +1,14 @@
+{
+  "hash": "f07cff44f3779dda",
+  "source": "Both {0} and {1} don't prevent the unwanted data from being fetched initially. But they will prevent unwanted data from being added to the payload transferred from server to client.",
+  "text": "{0} et {1} n'empêchent pas la récupération initiale des données non souhaitées. Mais ils empêcheront que ces données non souhaitées soient ajoutées au payload transféré du serveur au client.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} et {1} n'empêchent pas la récupération initiale des données non souhaitées. Mais ils empêcheront que ces données non souhaitées soient ajoutées au payload transféré du serveur au client."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "7f803998035dc4ef",
+  "source": "if it starts with 'entry', remove it from the list",
+  "text": "si elle commence par 'entry', la retirer de la liste",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "si elle commence par 'entry', la retirer de la liste"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

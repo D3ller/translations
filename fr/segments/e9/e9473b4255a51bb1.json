@@ -1,0 +1,14 @@
+{
+  "hash": "e9473b4255a51bb1",
+  "source": "Array",
+  "text": "Tableau",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Tableau"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

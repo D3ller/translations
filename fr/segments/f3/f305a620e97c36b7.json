@@ -1,0 +1,14 @@
+{
+  "hash": "f305a620e97c36b7",
+  "source": "{0} is similar to {1} but offers more fine-grained control.",
+  "text": "{0} est similaire à {1} mais offre un contrôle plus fin.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est similaire à {1} mais offre un contrôle plus fin."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

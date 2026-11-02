@@ -1,0 +1,14 @@
+{
+  "hash": "7709dcd757450c3f",
+  "source": "Similar to {0}, you can apply a custom {1} to the page component using {2}:",
+  "text": "Comme pour {0}, vous pouvez appliquer un {1} personnalisé au composant de page avec {2} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Comme pour {0}, vous pouvez appliquer un {1} personnalisé au composant de page avec {2} :"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

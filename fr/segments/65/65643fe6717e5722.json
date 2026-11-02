@@ -1,0 +1,14 @@
+{
+  "hash": "65643fe6717e5722",
+  "source": "{0}Nuxt UI{/0}: A UI Library for Modern Web Apps",
+  "text": "{0}Nuxt UI{/0} : une bibliothèque d'interface pour les applications web modernes",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}Nuxt UI{/0} : une bibliothèque d'interface pour les applications web modernes"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

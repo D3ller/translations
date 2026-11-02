@@ -1,0 +1,14 @@
+{
+  "hash": "3d38e6865c6c6963",
+  "source": "Host your assets on the same domain (do not use a different subdomain)",
+  "text": "Héberger vos assets sur le même domaine (n'utilisez pas de sous-domaine différent)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Héberger vos assets sur le même domaine (n'utilisez pas de sous-domaine différent)"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

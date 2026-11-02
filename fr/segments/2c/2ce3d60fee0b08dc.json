@@ -1,0 +1,14 @@
+{
+  "hash": "2ce3d60fee0b08dc",
+  "source": "❌ This will trigger a development warning",
+  "text": "❌ Cela déclenchera un avertissement en mode développement",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "❌ Cela déclenchera un avertissement en mode développement"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

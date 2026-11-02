@@ -1,0 +1,14 @@
+{
+  "hash": "a45a0f609c842db0",
+  "source": "You can use {0}the Nuxt Google Fonts module{/0} to load Google Fonts.",
+  "text": "Vous pouvez utiliser {0}le module Nuxt Google Fonts{/0} pour charger des Google Fonts.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez utiliser {0}le module Nuxt Google Fonts{/0} pour charger des Google Fonts."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

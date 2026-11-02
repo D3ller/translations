@@ -1,0 +1,14 @@
+{
+  "hash": "862541944082613c",
+  "source": "Nuxt offers route validation via the {0} property in {1} in each page you wish to validate.",
+  "text": "Nuxt propose la validation de route via la propriété {0} dans {1} pour chaque page que vous souhaitez valider.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt propose la validation de route via la propriété {0} dans {1} pour chaque page que vous souhaitez valider."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

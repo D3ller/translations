@@ -1,0 +1,14 @@
+{
+  "hash": "588acd5de99c6bf6",
+  "source": "If you need to inject code in pre-processed files, like a {0}Sass partial{/0} with color variables, you can do so with the Vite {1}preprocessors options{/1}.",
+  "text": "Si vous avez besoin d'injecter du code dans des fichiers pré-traités, comme un {0}partial Sass{/0} contenant des variables de couleur, vous pouvez le faire avec les {1}options de préprocesseurs{/1} de Vite.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous avez besoin d'injecter du code dans des fichiers pré-traités, comme un {0}partial Sass{/0} contenant des variables de couleur, vous pouvez le faire avec les {1}options de préprocesseurs{/1} de Vite."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

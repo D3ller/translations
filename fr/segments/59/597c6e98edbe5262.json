@@ -1,0 +1,14 @@
+{
+  "hash": "597c6e98edbe5262",
+  "source": "You can use {0} to provide additional placeholders in your {1} besides the default {2}. This allows for more dynamic title generation.",
+  "text": "Vous pouvez utiliser {0} pour fournir des placeholders supplémentaires dans votre {1}, en plus du {2} par défaut. Cela permet de générer des titres de façon plus dynamique.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez utiliser {0} pour fournir des placeholders supplémentaires dans votre {1}, en plus du {2} par défaut. Cela permet de générer des titres de façon plus dynamique."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

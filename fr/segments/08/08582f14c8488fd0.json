@@ -1,0 +1,14 @@
+{
+  "hash": "08582f14c8488fd0",
+  "source": "isAuthenticated() is an example method verifying if a user is authenticated",
+  "text": "isAuthenticated() est un exemple de méthode vérifiant si un utilisateur est authentifié",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "isAuthenticated() est un exemple de méthode vérifiant si un utilisateur est authentifié"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "c123ef40922806d1",
+  "source": "LCP Advanced Optimizations",
+  "text": "Optimisations avancées du LCP",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Optimisations avancées du LCP"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

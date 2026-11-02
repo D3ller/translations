@@ -1,0 +1,14 @@
+{
+  "hash": "c2bede54d1f82c51",
+  "source": "The community and the Nuxt team have developed plenty of Nuxt modules to make the integration easier. You can discover them on the {0}modules section{/0} of the website. Here are a few modules to help you get started:",
+  "text": "La communauté et l'équipe Nuxt ont développé de nombreux modules Nuxt pour faciliter l'intégration. Vous pouvez les découvrir dans la {0}section modules{/0} du site. Voici quelques modules pour bien démarrer :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La communauté et l'équipe Nuxt ont développé de nombreux modules Nuxt pour faciliter l'intégration. Vous pouvez les découvrir dans la {0}section modules{/0} du site. Voici quelques modules pour bien démarrer :"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

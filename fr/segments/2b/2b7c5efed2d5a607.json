@@ -1,0 +1,14 @@
+{
+  "hash": "2b7c5efed2d5a607",
+  "source": "The {0} hook provides access to the {1} object, which includes a {2} property ({3}) that can be read or modified at runtime:",
+  "text": "Le hook {0} donne accès à l'objet {1}, qui inclut une propriété {2} ({3}) pouvant être lue ou modifiée à l'exécution :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le hook {0} donne accès à l'objet {1}, qui inclut une propriété {2} ({3}) pouvant être lue ou modifiée à l'exécution :"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "fd2796011abbb90b",
+  "source": "Now, if you set the title to {0} with {1} on another page of your site, the title would appear as 'My Page - Site Title' in the browser tab. You could also pass {2} to default to 'Site Title'.",
+  "text": "Désormais, si vous définissez le titre sur {0} avec {1} sur une autre page de votre site, le titre apparaîtra sous la forme « My Page - Site Title » dans l'onglet du navigateur. Vous pouvez également passer {2} pour utiliser « Site Title » par défaut.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Désormais, si vous définissez le titre sur {0} avec {1} sur une autre page de votre site, le titre apparaîtra sous la forme « My Page - Site Title » dans l'onglet du navigateur. Vous pouvez également passer {2} pour utiliser « Site Title » par défaut."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

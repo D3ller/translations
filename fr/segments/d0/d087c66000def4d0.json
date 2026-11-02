@@ -1,0 +1,14 @@
+{
+  "hash": "d087c66000def4d0",
+  "source": "For proper syntax highlighting in SFC, you can use the postcss lang attribute.",
+  "text": "Pour une coloration syntaxique correcte dans les SFC, vous pouvez utiliser l'attribut lang postcss.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour une coloration syntaxique correcte dans les SFC, vous pouvez utiliser l'attribut lang postcss."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

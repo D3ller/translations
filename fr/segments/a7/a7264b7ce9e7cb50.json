@@ -1,0 +1,14 @@
+{
+  "hash": "a7264b7ce9e7cb50",
+  "source": "You can enable page transitions to apply an automatic transition for all your {0}pages{/0}.",
+  "text": "Vous pouvez activer les transitions de page pour appliquer une transition automatique à toutes vos {0}pages{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez activer les transitions de page pour appliquer une transition automatique à toutes vos {0}pages{/0}."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "63290a28e2940eb6",
+  "source": "This way presents perfect use-cases for JavaScript animation libraries such as {0}GSAP{/0}.",
+  "text": "Cette approche convient parfaitement aux bibliothèques d'animation JavaScript telles que {0}GSAP{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cette approche convient parfaitement aux bibliothèques d'animation JavaScript telles que {0}GSAP{/0}."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

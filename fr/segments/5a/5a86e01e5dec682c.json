@@ -1,0 +1,14 @@
+{
+  "hash": "5a86e01e5dec682c",
+  "source": "When multiple components use the same key with {0} or {1}, they will share the same {2}, {3} and {4} refs. This ensures consistency across components but requires some options to be consistent.",
+  "text": "Lorsque plusieurs composants utilisent la même clé avec {0} ou {1}, ils partagent les mêmes refs {2}, {3} et {4}. Cela garantit la cohérence entre les composants, mais impose que certaines options soient cohérentes.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque plusieurs composants utilisent la même clé avec {0} ou {1}, ils partagent les mêmes refs {2}, {3} et {4}. Cela garantit la cohérence entre les composants, mais impose que certaines options soient cohérentes."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

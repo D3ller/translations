@@ -1,0 +1,14 @@
+{
+  "hash": "fe256ebe9c57e1ac",
+  "source": "Local Stylesheets",
+  "text": "Feuilles de style locales",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Feuilles de style locales"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

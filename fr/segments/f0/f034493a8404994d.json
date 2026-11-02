@@ -1,0 +1,14 @@
+{
+  "hash": "f034493a8404994d",
+  "source": "View Transition Types {0}",
+  "text": "Types de view transitions {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Types de view transitions {0}"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

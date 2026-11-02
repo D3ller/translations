@@ -1,0 +1,14 @@
+{
+  "hash": "bcf26dd9dea11311",
+  "source": "{0} generates a key from the URL, the fetch options and the location of the call in your source code. This means two {1} calls with the same URL in different components have **different** keys and will each perform their own request. To share the same data between multiple components, provide the same explicit {2} in the {3} object passed as a last argument.",
+  "text": "{0} génère une clé à partir de l'URL, des options de la requête et de l'emplacement de l'appel dans votre code source. Cela signifie que deux appels à {1} avec la même URL dans des composants différents ont des clés **différentes** et effectueront chacun leur propre requête. Pour partager les mêmes données entre plusieurs composants, fournissez la même {2} explicite dans l'objet {3} passé en dernier argument.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} génère une clé à partir de l'URL, des options de la requête et de l'emplacement de l'appel dans votre code source. Cela signifie que deux appels à {1} avec la même URL dans des composants différents ont des clés **différentes** et effectueront chacun leur propre requête. Pour partager les mêmes données entre plusieurs composants, fournissez la même {2} explicite dans l'objet {3} passé en dernier argument."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

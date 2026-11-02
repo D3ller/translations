@@ -1,0 +1,14 @@
+{
+  "hash": "cf7f76a8c622dcbe",
+  "source": "By default, data fetching composables will wait for the resolution of their asynchronous function before navigating to a new page by using Vue's Suspense. This feature can be ignored on client-side navigation with the {0} option. In that case, you will have to manually handle loading state using the {1} value.",
+  "text": "Par défaut, les composables de récupération de données attendent la résolution de leur fonction asynchrone avant de naviguer vers une nouvelle page, en utilisant Suspense de Vue. Cette fonctionnalité peut être ignorée lors de la navigation côté client avec l'option {0}. Dans ce cas, vous devrez gérer manuellement l'état de chargement à l'aide de la valeur {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par défaut, les composables de récupération de données attendent la résolution de leur fonction asynchrone avant de naviguer vers une nouvelle page, en utilisant Suspense de Vue. Cette fonctionnalité peut être ignorée lors de la navigation côté client avec l'option {0}. Dans ce cas, vous devrez gérer manuellement l'état de chargement à l'aide de la valeur {1}."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

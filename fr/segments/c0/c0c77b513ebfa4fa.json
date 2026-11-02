@@ -1,0 +1,14 @@
+{
+  "hash": "c0c77b513ebfa4fa",
+  "source": "Layout Transitions",
+  "text": "Transitions de layout",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Transitions de layout"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

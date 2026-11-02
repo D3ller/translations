@@ -1,0 +1,14 @@
+{
+  "hash": "a3f22552410353d1",
+  "source": "You can use the useHead composable to dynamically set a value in your head in your code.",
+  "text": "Vous pouvez utiliser le composable useHead pour définir dynamiquement une valeur dans votre head depuis votre code.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez utiliser le composable useHead pour définir dynamiquement une valeur dans votre head depuis votre code."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

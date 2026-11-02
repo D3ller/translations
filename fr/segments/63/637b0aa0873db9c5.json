@@ -1,0 +1,14 @@
+{
+  "hash": "637b0aa0873db9c5",
+  "source": "form input tags",
+  "text": "balises d'entrée du formulaire",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "balises d'entrée du formulaire"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

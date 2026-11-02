@@ -1,0 +1,14 @@
+{
+  "hash": "b53ad1cad130a7f0",
+  "source": "You can also use the {0} property in the Nuxt configuration. The natural place for your stylesheets is the {1}{2} directory{/1}. You can then reference its path and Nuxt will include it to all the pages of your application.",
+  "text": "Vous pouvez également utiliser la propriété {0} dans la configuration de Nuxt. L'endroit naturel pour vos feuilles de style est le {1}répertoire {2}{/1}. Vous pouvez ensuite référencer son chemin et Nuxt l'inclura dans toutes les pages de votre application.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez également utiliser la propriété {0} dans la configuration de Nuxt. L'endroit naturel pour vos feuilles de style est le {1}répertoire {2}{/1}. Vous pouvez ensuite référencer son chemin et Nuxt l'inclura dans toutes les pages de votre application."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "21245dfd55803516",
+  "source": "With the webpack builder, {0}postcss-import{/0}, {1}postcss-url{/1}, {2} and {3} are still configured for you.",
+  "text": "Avec le builder webpack, {0}postcss-import{/0}, {1}postcss-url{/1}, {2} et {3} restent configurés pour vous.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Avec le builder webpack, {0}postcss-import{/0}, {1}postcss-url{/1}, {2} et {3} restent configurés pour vous."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

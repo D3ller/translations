@@ -1,0 +1,14 @@
+{
+  "hash": "974effef0239f514",
+  "source": "If you need to duplicate tags across client-server boundaries, apply a {0} attribute on the {1} component.",
+  "text": "Si vous devez dupliquer des balises de part et d'autre de la frontière client-serveur, appliquez un attribut {0} sur le composant {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous devez dupliquer des balises de part et d'autre de la frontière client-serveur, appliquez un attribut {0} sur le composant {1}."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

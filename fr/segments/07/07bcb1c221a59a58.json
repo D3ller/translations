@@ -1,0 +1,14 @@
+{
+  "hash": "07bcb1c221a59a58",
+  "source": "number of CPUs minus 1",
+  "text": "nombre de CPU moins 1",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "nombre de CPU moins 1"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

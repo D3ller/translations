@@ -1,0 +1,14 @@
+{
+  "hash": "682955c7a40f9b3c",
+  "source": "update Nuxt defaults",
+  "text": "mettre à jour les valeurs par défaut de Nuxt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "mettre à jour les valeurs par défaut de Nuxt"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

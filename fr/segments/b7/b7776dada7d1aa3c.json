@@ -1,0 +1,14 @@
+{
+  "hash": "b7776dada7d1aa3c",
+  "source": "Moving to the about page will add the 3d rotation effect:",
+  "text": "Le passage à la page « about » ajoutera l'effet de rotation 3D :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le passage à la page « about » ajoutera l'effet de rotation 3D :"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

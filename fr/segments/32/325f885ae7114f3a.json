@@ -1,0 +1,14 @@
+{
+  "hash": "325f885ae7114f3a",
+  "source": "With the default Vite builder, no PostCSS plugins are configured out of the box. Vite resolves {0} and {1} itself, and minifies CSS as part of the build.",
+  "text": "Avec le builder Vite par défaut, aucun plugin PostCSS n'est configuré d'office. Vite résout {0} et {1} lui-même, et minifie le CSS lors du build.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Avec le builder Vite par défaut, aucun plugin PostCSS n'est configuré d'office. Vite résout {0} et {1} lui-même, et minifie le CSS lors du build."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

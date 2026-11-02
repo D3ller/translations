@@ -1,0 +1,14 @@
+{
+  "hash": "ca0c96f6206d988b",
+  "source": "We recommend taking a look at the {0} and {1} composables.",
+  "text": "Nous vous recommandons de jeter un œil aux composables {0} et {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nous vous recommandons de jeter un œil aux composables {0} et {1}."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "b24379b6fbeaf2e2",
+  "source": "If you need to style different parts of your application completely differently, you can use layouts. Use different styles for different layouts.",
+  "text": "Si vous devez styliser différentes parties de votre application de manière complètement différente, vous pouvez utiliser les layouts. Utilisez des styles différents pour des layouts différents.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous devez styliser différentes parties de votre application de manière complètement différente, vous pouvez utiliser les layouts. Utilisez des styles différents pour des layouts différents."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "e867023e23266e34",
+  "source": "Won't automatically refetch when id changes",
+  "text": "Ne relancera pas automatiquement la requête quand id change",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ne relancera pas automatiquement la requête quand id change"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

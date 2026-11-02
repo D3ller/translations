@@ -1,0 +1,14 @@
+{
+  "hash": "e36fdc5262c84831",
+  "source": "Compress your assets, ideally using Brotli",
+  "text": "Compresser vos assets, idéalement avec Brotli",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Compresser vos assets, idéalement avec Brotli"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "f2175ed3b59b302d",
+  "source": "If you want to use a function (for full control), then this cannot be set in your {0}. It is recommended instead to set it within your {1} file where it will apply to all pages on your site:",
+  "text": "Si vous souhaitez utiliser une fonction (pour un contrôle total), elle ne peut pas être définie dans votre {0}. Il est recommandé de la définir plutôt dans votre fichier {1}, où elle s'appliquera à toutes les pages de votre site :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous souhaitez utiliser une fonction (pour un contrôle total), elle ne peut pas être définie dans votre {0}. Il est recommandé de la définir plutôt dans votre fichier {1}, où elle s'appliquera à toutes les pages de votre site :"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

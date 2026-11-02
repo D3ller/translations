@@ -1,0 +1,14 @@
+{
+  "hash": "29f54d5ad1505fd1",
+  "source": "Then reference your fonts by name in your stylesheets, pages or components:",
+  "text": "Référencez ensuite vos polices par leur nom dans vos feuilles de style, pages ou composants :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Référencez ensuite vos polices par leur nom dans vos feuilles de style, pages ou composants :"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

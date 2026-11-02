@@ -1,0 +1,14 @@
+{
+  "hash": "e5d9e0a105f7a2e5",
+  "source": "You can use {0}CSS Modules{/0} with the module attribute. Access it with the injected {1} variable.",
+  "text": "Vous pouvez utiliser les {0}modules CSS{/0} avec l'attribut module. Accédez-y avec la variable injectée {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez utiliser les {0}modules CSS{/0} avec l'attribut module. Accédez-y avec la variable injectée {1}."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "29d631f0322e206c",
+  "source": "You can do the following to speed-up the download of your global CSS files:",
+  "text": "Vous pouvez faire ce qui suit pour accélérer le téléchargement de vos fichiers CSS globaux :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez faire ce qui suit pour accélérer le téléchargement de vos fichiers CSS globaux :"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

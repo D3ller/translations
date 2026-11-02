@@ -1,0 +1,14 @@
+{
+  "hash": "8dc01b5c8276a31b",
+  "source": "Route middleware does **not** run for server routes (e.g. {0}) or other server requests. To apply middleware to these requests, use {1}server middleware{/1} instead.",
+  "text": "Les middleware de route ne s'exécutent **pas** pour les routes serveur (p. ex. {0}) ni pour les autres requêtes serveur. Pour appliquer un middleware à ces requêtes, utilisez plutôt un {1}middleware serveur{/1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les middleware de route ne s'exécutent **pas** pour les routes serveur (p. ex. {0}) ni pour les autres requêtes serveur. Pour appliquer un middleware à ces requêtes, utilisez plutôt un {1}middleware serveur{/1}."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

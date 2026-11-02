@@ -1,0 +1,14 @@
+{
+  "hash": "d413f454f7e34e2e",
+  "source": "Slide left animation",
+  "text": "Animation de glissement vers la gauche",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Animation de glissement vers la gauche"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

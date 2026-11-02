@@ -1,0 +1,14 @@
+{
+  "hash": "ba81598a9dcd23eb",
+  "source": "Slide left when going to a higher ID, right otherwise",
+  "text": "Glisser vers la gauche si l'ID est plus élevé, vers la droite sinon",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Glisser vers la gauche si l'ID est plus élevé, vers la droite sinon"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

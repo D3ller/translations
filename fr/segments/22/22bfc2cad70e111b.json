@@ -1,0 +1,14 @@
+{
+  "hash": "22bfc2cad70e111b",
+  "source": "and the old data will be cleaned up if no other components use it",
+  "text": "et les anciennes données seront nettoyées si aucun autre composant ne les utilise",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "et les anciennes données seront nettoyées si aucun autre composant ne les utilise"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

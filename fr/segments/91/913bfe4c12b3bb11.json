@@ -1,0 +1,14 @@
+{
+  "hash": "913bfe4c12b3bb11",
+  "source": "For example, you can first set the current page title (this is extracted at build time via a macro, so it can't be set dynamically):",
+  "text": "Par exemple, vous pouvez d'abord définir le titre de la page actuelle (il est extrait au moment du build via une macro, il ne peut donc pas être défini dynamiquement) :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par exemple, vous pouvez d'abord définir le titre de la page actuelle (il est extrait au moment du build via une macro, il ne peut donc pas être défini dynamiquement) :"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

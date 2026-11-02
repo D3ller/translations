@@ -1,0 +1,14 @@
+{
+  "hash": "21ebc73b98dda714",
+  "source": "You can refer to the {0}Vue docs{/0} for a comprehensive reference about styling components in SFC.",
+  "text": "Vous pouvez consulter la {0}documentation de Vue{/0} pour une référence complète sur le style des composants dans les SFC.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez consulter la {0}documentation de Vue{/0} pour une référence complète sur le style des composants dans les SFC."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

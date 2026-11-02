@@ -1,0 +1,14 @@
+{
+  "hash": "f9146581ebbe2597",
+  "source": "Alternatively, you can use the {0} property of your Nuxt configuration.",
+  "text": "Vous pouvez aussi utiliser la propriété {0} de votre configuration Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez aussi utiliser la propriété {0} de votre configuration Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

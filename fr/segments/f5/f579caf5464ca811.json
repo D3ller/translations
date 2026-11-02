@@ -1,0 +1,14 @@
+{
+  "hash": "f579caf5464ca811",
+  "source": "You can also reference stylesheets that are distributed through npm. Let's use the popular {0} library as an example.",
+  "text": "Vous pouvez également référencer des feuilles de style distribuées via npm. Prenons la bibliothèque populaire {0} comme exemple.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez également référencer des feuilles de style distribuées via npm. Prenons la bibliothèque populaire {0} comme exemple."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

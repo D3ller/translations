@@ -1,0 +1,14 @@
+{
+  "hash": "50ffde731001f86f",
+  "source": "In the case of more complex URL construction, you may use a callback as a {0}computed getter{/0} that returns the URL string.",
+  "text": "Pour une construction d'URL plus complexe, vous pouvez utiliser une fonction de rappel comme {0}getter calculé{/0} qui renvoie la chaîne de l'URL.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour une construction d'URL plus complexe, vous pouvez utiliser une fonction de rappel comme {0}getter calculé{/0} qui renvoie la chaîne de l'URL."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

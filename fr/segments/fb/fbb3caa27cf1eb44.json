@@ -1,0 +1,14 @@
+{
+  "hash": "fbb3caa27cf1eb44",
+  "source": "If you need independent instances, use different keys:",
+  "text": "Si vous avez besoin d'instances indépendantes, utilisez des clés différentes :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous avez besoin d'instances indépendantes, utilisez des clés différentes :"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "e946b3c9832b4976",
+  "source": "{0}/{1}: a function that can be used to refresh the data returned by the {2} function.",
+  "text": "{0}/{1} : une fonction permettant de rafraîchir les données retournées par la fonction {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}/{1} : une fonction permettant de rafraîchir les données retournées par la fonction {2}."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

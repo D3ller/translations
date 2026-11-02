@@ -1,0 +1,14 @@
+{
+  "hash": "e6e0023a2544ac12",
+  "source": "{0}: a function that can be used to set {1} to {2} (or the value of {3} if provided), set {4} to {5}, set {6} to {7}, and mark any currently pending requests as cancelled.",
+  "text": "{0} : une fonction permettant de définir {1} à {2} (ou à la valeur de {3} si elle est fournie), de définir {4} à {5}, de définir {6} à {7} et de marquer comme annulées les requêtes actuellement en attente.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : une fonction permettant de définir {1} à {2} (ou à la valeur de {3} si elle est fournie), de définir {4} à {5}, de définir {6} à {7} et de marquer comme annulées les requêtes actuellement en attente."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

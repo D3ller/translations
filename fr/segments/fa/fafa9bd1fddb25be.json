@@ -1,0 +1,14 @@
+{
+  "hash": "fafa9bd1fddb25be",
+  "source": "If set to true, Nuxt will not apply transitions if the user's browser matches {0} (recommended). If set to {1}, Nuxt will always apply the transition and it is up to you to respect the user's preference.",
+  "text": "Si elle est définie sur true, Nuxt n'appliquera pas les transitions si le navigateur de l'utilisateur correspond à {0} (recommandé). Si elle est définie sur {1}, Nuxt appliquera toujours la transition et il vous revient de respecter la préférence de l'utilisateur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si elle est définie sur true, Nuxt n'appliquera pas les transitions si le navigateur de l'utilisateur correspond à {0} (recommandé). Si elle est définie sur {1}, Nuxt appliquera toujours la transition et il vous revient de respecter la préférence de l'utilisateur."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "f01809ac4fee56f8",
+  "source": "Note that **watching a reactive value won't change the URL fetched**. For example, this will keep fetching the same initial ID of the user because the URL is constructed at the moment the function is invoked.",
+  "text": "Notez que **l'observation d'une valeur réactive ne modifie pas l'URL appelée**. Par exemple, le code suivant continuera à récupérer l'ID initial de l'utilisateur, car l'URL est construite au moment où la fonction est invoquée.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Notez que **l'observation d'une valeur réactive ne modifie pas l'URL appelée**. Par exemple, le code suivant continuera à récupérer l'ID initial de l'utilisateur, car l'URL est construite au moment où la fonction est invoquée."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

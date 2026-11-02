@@ -1,0 +1,14 @@
+{
+  "hash": "fb7cfeaf8719077b",
+  "source": "Not awaiting has a similar user-visible effect to the {0} option (navigation is not blocked and you handle loading state yourself), but the two are not identical: {1} is an explicit flag that defers the request until the component mounts, whereas simply not awaiting starts the request during setup. Prefer {2} (or {3} / {4}) when you want non-blocking behavior, since it makes the intent explicit.",
+  "text": "Ne pas utiliser await a un effet visible par l'utilisateur similaire à celui de l'option {0} (la navigation n'est pas bloquée et vous gérez vous-même l'état de chargement), mais les deux ne sont pas identiques : {1} est un indicateur explicite qui reporte la requête jusqu'au montage du composant, alors que ne pas utiliser await lance simplement la requête pendant le setup. Privilégiez {2} (ou {3} / {4}) lorsque vous souhaitez un comportement non bloquant, car cela rend l'intention explicite.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ne pas utiliser await a un effet visible par l'utilisateur similaire à celui de l'option {0} (la navigation n'est pas bloquée et vous gérez vous-même l'état de chargement), mais les deux ne sont pas identiques : {1} est un indicateur explicite qui reporte la requête jusqu'au montage du composant, alors que ne pas utiliser await lance simplement la requête pendant le setup. Privilégiez {2} (ou {3} / {4}) lorsque vous souhaitez un comportement non bloquant, car cela rend l'intention explicite."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

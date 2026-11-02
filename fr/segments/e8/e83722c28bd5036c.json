@@ -1,0 +1,14 @@
+{
+  "hash": "e83722c28bd5036c",
+  "source": "Nuxt provides composables to handle data fetching within your application.",
+  "text": "Nuxt fournit des composables pour gérer la récupération de données dans votre application.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt fournit des composables pour gérer la récupération de données dans votre application."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "6164273bd662da5a",
+  "source": "We would recommend using {0}Fontaine{/0} to reduce your {1}CLS{/1}. If you need something more advanced, consider creating a Nuxt module to extend the build process or the Nuxt runtime.",
+  "text": "Nous recommandons d'utiliser {0}Fontaine{/0} pour réduire votre {1}CLS{/1}. Si vous avez besoin de quelque chose de plus avancé, envisagez de créer un module Nuxt pour étendre le processus de build ou le runtime de Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nous recommandons d'utiliser {0}Fontaine{/0} pour réduire votre {1}CLS{/1}. Si vous avez besoin de quelque chose de plus avancé, envisagez de créer un module Nuxt pour étendre le processus de build ou le runtime de Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

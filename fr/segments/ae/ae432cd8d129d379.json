@@ -1,0 +1,14 @@
+{
+  "hash": "ae432cd8d129d379",
+  "source": "The {0} composable function supports reactive input, allowing you to manage your head tags programmatically.",
+  "text": "Le composable {0} prend en charge les entrées réactives, ce qui vous permet de gérer vos balises head de manière programmatique.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le composable {0} prend en charge les entrées réactives, ce qui vous permet de gérer vos balises head de manière programmatique."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

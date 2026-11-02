@@ -1,0 +1,14 @@
+{
+  "hash": "36f616fe78f77cd1",
+  "source": "Sometimes you may need to compute a URL from reactive values, and refresh the data each time these change. Instead of juggling your way around, you can attach each param as a reactive value. Nuxt will automatically use the reactive value and re-fetch each time it changes.",
+  "text": "Il arrive que vous ayez besoin de calculer une URL à partir de valeurs réactives et d'actualiser les données chaque fois qu'elles changent. Plutôt que de jongler avec des solutions de contournement, vous pouvez attacher chaque paramètre sous forme de valeur réactive. Nuxt utilisera automatiquement la valeur réactive et relancera la requête à chaque changement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Il arrive que vous ayez besoin de calculer une URL à partir de valeurs réactives et d'actualiser les données chaque fois qu'elles changent. Plutôt que de jongler avec des solutions de contournement, vous pouvez attacher chaque paramètre sous forme de valeur réactive. Nuxt utilisera automatiquement la valeur réactive et relancera la requête à chaque changement."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

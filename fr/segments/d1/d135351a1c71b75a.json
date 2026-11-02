@@ -1,0 +1,14 @@
+{
+  "hash": "d135351a1c71b75a",
+  "source": "To get the cached data by key, you can use {0}",
+  "text": "Pour obtenir les données mises en cache à partir de leur clé, vous pouvez utiliser {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour obtenir les données mises en cache à partir de leur clé, vous pouvez utiliser {0}"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

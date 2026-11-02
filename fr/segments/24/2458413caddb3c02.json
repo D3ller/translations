@@ -1,0 +1,14 @@
+{
+  "hash": "2458413caddb3c02",
+  "source": "Watch a video from Vue School on minimizing payload size",
+  "text": "Regardez une vidéo de Vue School sur la réduction de la taille du payload",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Regardez une vidéo de Vue School sur la réduction de la taille du payload"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

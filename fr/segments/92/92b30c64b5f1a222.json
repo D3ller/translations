@@ -1,0 +1,14 @@
+{
+  "hash": "92b30c64b5f1a222",
+  "source": "Pass Cookies From Server-side API Calls on SSR Response",
+  "text": "Transmettre les cookies des appels d'API côté serveur dans la réponse SSR",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Transmettre les cookies des appels d'API côté serveur dans la réponse SSR"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

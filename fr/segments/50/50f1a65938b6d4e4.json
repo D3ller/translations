@@ -1,0 +1,14 @@
+{
+  "hash": "50f1a65938b6d4e4",
+  "source": "{0} and {1} use keys to prevent refetching the same data.",
+  "text": "{0} et {1} utilisent des clés pour éviter de récupérer à nouveau les mêmes données.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} et {1} utilisent des clés pour éviter de récupérer à nouveau les mêmes données."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

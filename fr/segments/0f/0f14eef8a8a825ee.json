@@ -1,0 +1,14 @@
+{
+  "hash": "0f14eef8a8a825ee",
+  "source": "Both {0} and {1} share a common set of options and patterns that we will detail in the last sections.",
+  "text": "{0} et {1} partagent un ensemble commun d'options et de modèles que nous détaillerons dans les dernières sections.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} et {1} partagent un ensemble commun d'options et de modèles que nous détaillerons dans les dernières sections."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

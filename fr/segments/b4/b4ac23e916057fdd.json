@@ -1,0 +1,14 @@
+{
+  "hash": "b4ac23e916057fdd",
+  "source": "This helps you avoid typos and common mistakes, such as using {0} instead of {1}.",
+  "text": "Cela vous aide à éviter les fautes de frappe et les erreurs courantes, comme l'utilisation de {0} au lieu de {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela vous aide à éviter les fautes de frappe et les erreurs courantes, comme l'utilisation de {0} au lieu de {1}."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

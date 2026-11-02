@@ -1,0 +1,14 @@
+{
+  "hash": "487d0432d8dbe2f4",
+  "source": "Function values for {0}, {1}, and {2} only work in {3}, not in {4} (where only static {5} is supported).",
+  "text": "Les fonctions pour {0}, {1} et {2} ne fonctionnent que dans {3}, pas dans {4} (où seul {5} statique est pris en charge).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les fonctions pour {0}, {1} et {2} ne fonctionnent que dans {3}, pas dans {4} (où seul {5} statique est pris en charge)."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

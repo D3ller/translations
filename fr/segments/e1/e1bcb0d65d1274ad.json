@@ -1,0 +1,14 @@
+{
+  "hash": "e1bcb0d65d1274ad",
+  "source": "Be very careful before proxying headers to an external API and just include headers that you need. Not all headers are safe to be bypassed and might introduce unwanted behavior. Here is a list of common headers that are NOT to be proxied:",
+  "text": "Soyez très prudent avant de transmettre des en-têtes à une API externe via un proxy, et n'incluez que ceux dont vous avez besoin. Tous les en-têtes ne peuvent pas être transmis sans risque et certains peuvent introduire un comportement indésirable. Voici une liste d'en-têtes courants qui ne doivent PAS être transmis via un proxy :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Soyez très prudent avant de transmettre des en-têtes à une API externe via un proxy, et n'incluez que ceux dont vous avez besoin. Tous les en-têtes ne peuvent pas être transmis sans risque et certains peuvent introduire un comportement indésirable. Voici une liste d'en-têtes courants qui ne doivent PAS être transmis via un proxy :"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

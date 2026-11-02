@@ -1,0 +1,14 @@
+{
+  "hash": "457c47601cd711aa",
+  "source": "You can enable this in your {0}:",
+  "text": "Vous pouvez l'activer dans votre {0} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez l'activer dans votre {0} :"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

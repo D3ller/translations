@@ -1,0 +1,14 @@
+{
+  "hash": "8ba24778829c38db",
+  "source": "Transitions",
+  "text": "Transitions",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Transitions"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

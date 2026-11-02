@@ -1,0 +1,14 @@
+{
+  "hash": "03b4c182ebe8073e",
+  "source": "To set a different transition for a page, set the {0} key in {1} of the page:",
+  "text": "Pour définir une transition différente pour une page, définissez la clé {0} dans {1} de la page :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour définir une transition différente pour une page, définissez la clé {0} dans {1} de la page :"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

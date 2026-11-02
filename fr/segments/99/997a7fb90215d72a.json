@@ -1,0 +1,14 @@
+{
+  "hash": "997a7fb90215d72a",
+  "source": "Types are set on the {0} and can be targeted in CSS using the {1} pseudo-class selector.",
+  "text": "Les types sont définis sur {0} et peuvent être ciblés en CSS à l'aide du sélecteur de pseudo-classe {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les types sont définis sur {0} et peuvent être ciblés en CSS à l'aide du sélecteur de pseudo-classe {1}."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

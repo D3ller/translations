@@ -1,0 +1,14 @@
+{
+  "hash": "3d083962bc9eb5a5",
+  "source": "Alternatively, the example below shows how to use {0} to access and send cookies to the API from a server-side request (originating on the client). Using an isomorphic {1} call, we ensure that the API endpoint has access to the same {2} header originally sent by the user's browser. This is only necessary if you aren't using {3}.",
+  "text": "Sinon, l'exemple ci-dessous montre comment utiliser {0} pour accéder aux cookies et les envoyer à l'API depuis une requête côté serveur (provenant du client). Grâce à un appel isomorphe à {1}, vous vous assurez que le point d'entrée de l'API a accès au même en-tête {2} que celui envoyé à l'origine par le navigateur de l'utilisateur. Cela n'est nécessaire que si vous n'utilisez pas {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sinon, l'exemple ci-dessous montre comment utiliser {0} pour accéder aux cookies et les envoyer à l'API depuis une requête côté serveur (provenant du client). Grâce à un appel isomorphe à {1}, vous vous assurez que le point d'entrée de l'API a accès au même en-tête {2} que celui envoyé à l'origine par le navigateur de l'utilisateur. Cela n'est nécessaire que si vous n'utilisez pas {3}."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

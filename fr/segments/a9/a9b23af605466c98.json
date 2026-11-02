@@ -1,0 +1,14 @@
+{
+  "hash": "a9b23af605466c98",
+  "source": "Global Settings",
+  "text": "Paramètres globaux",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Paramètres globaux"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

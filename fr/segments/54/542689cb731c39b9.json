@@ -1,0 +1,14 @@
+{
+  "hash": "542689cb731c39b9",
+  "source": "If all of your CSS is inlined by Nuxt, you can (experimentally) completely stop external CSS files from being referenced in your rendered HTML. You can achieve that with a hook, that you can place in a module, or in your Nuxt configuration file.",
+  "text": "Si tout votre CSS est inliné par Nuxt, vous pouvez (de manière expérimentale) empêcher complètement que des fichiers CSS externes soient référencés dans votre HTML rendu. Vous pouvez y parvenir avec un hook, que vous pouvez placer dans un module ou dans votre fichier de configuration Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si tout votre CSS est inliné par Nuxt, vous pouvez (de manière expérimentale) empêcher complètement que des fichiers CSS externes soient référencés dans votre HTML rendu. Vous pouvez y parvenir avec un hook, que vous pouvez placer dans un module ou dans votre fichier de configuration Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

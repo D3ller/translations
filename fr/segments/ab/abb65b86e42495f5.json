@@ -1,0 +1,14 @@
+{
+  "hash": "abb65b86e42495f5",
+  "source": "Always remember to take advantage of the various tools and techniques available in the Web ecosystem at large to make styling your application easier and more efficient. Whether you're using native CSS, a preprocessor, postcss, a UI library or a module, Nuxt has got you covered. Happy styling!",
+  "text": "N'oubliez jamais de tirer parti des nombreux outils et techniques disponibles dans l'écosystème du Web au sens large pour rendre le style de votre application plus simple et plus efficace. Que vous utilisiez du CSS natif, un préprocesseur, postcss, une bibliothèque d'interface ou un module, Nuxt vous couvre. Bon style !",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "N'oubliez jamais de tirer parti des nombreux outils et techniques disponibles dans l'écosystème du Web au sens large pour rendre le style de votre application plus simple et plus efficace. Que vous utilisiez du CSS natif, un préprocesseur, postcss, une bibliothèque d'interface ou un module, Nuxt vous couvre. Bon style !"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

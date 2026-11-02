@@ -1,0 +1,14 @@
+{
+  "hash": "c8d3a671a6fe42f8",
+  "source": "You can leverage Vue SFC features to style your components with class and style attributes.",
+  "text": "Vous pouvez tirer parti des fonctionnalités des SFC de Vue pour styliser vos composants avec les attributs class et style.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez tirer parti des fonctionnalités des SFC de Vue pour styliser vos composants avec les attributs class et style."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

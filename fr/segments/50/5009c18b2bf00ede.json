@@ -1,0 +1,14 @@
+{
+  "hash": "5009c18b2bf00ede",
+  "source": "Or globally in the {0}:",
+  "text": "Ou globalement dans le {0} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ou globalement dans le {0} :"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

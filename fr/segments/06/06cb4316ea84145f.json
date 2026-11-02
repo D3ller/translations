@@ -1,0 +1,14 @@
+{
+  "hash": "06cb4316ea84145f",
+  "source": "When a {0} enters the viewport on the client side, Nuxt will automatically prefetch components and payload (generated pages) of the linked pages ahead of time, resulting in faster navigation.",
+  "text": "Lorsqu'un {0} entre dans le viewport côté client, Nuxt précharge automatiquement à l'avance les composants et le payload (charge utile) (pages générées) des pages liées, ce qui accélère la navigation.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsqu'un {0} entre dans le viewport côté client, Nuxt précharge automatiquement à l'avance les composants et le payload (charge utile) (pages générées) des pages liées, ce qui accélère la navigation."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

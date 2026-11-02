@@ -1,0 +1,14 @@
+{
+  "hash": "988f1b7242a3de13",
+  "source": "Code-splitting is enabled by default and is recommended for most apps. If you have a specific reason to ship a single bundle instead, you can disable it in your {0}:",
+  "text": "Le code-splitting est activé par défaut et est recommandé pour la plupart des applications. Si vous avez une raison précise de livrer un seul bundle à la place, vous pouvez le désactiver dans votre {0} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le code-splitting est activé par défaut et est recommandé pour la plupart des applications. Si vous avez une raison précise de livrer un seul bundle à la place, vous pouvez le désactiver dans votre {0} :"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

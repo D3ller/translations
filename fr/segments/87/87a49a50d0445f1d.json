@@ -1,0 +1,14 @@
+{
+  "hash": "87a49a50d0445f1d",
+  "source": "The {0} component links pages between them. It renders an {1} tag with the {2} attribute set to the route of the page. Once the application is hydrated, page transitions are performed in JavaScript by updating the browser URL. This prevents full-page refreshes and allows for animated transitions.",
+  "text": "Le composant {0} relie les pages entre elles. Il génère une balise {1} dont l'attribut {2} est défini sur la route de la page. Une fois l'application hydratée, les transitions entre les pages sont effectuées en JavaScript en mettant à jour l'URL du navigateur. Cela évite les rechargements complets de la page et permet des transitions animées.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le composant {0} relie les pages entre elles. Il génère une balise {1} dont l'attribut {2} est défini sur la route de la page. Une fois l'application hydratée, les transitions entre les pages sont effectuées en JavaScript en mettant à jour l'URL du navigateur. Cela évite les rechargements complets de la page et permet des transitions animées."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

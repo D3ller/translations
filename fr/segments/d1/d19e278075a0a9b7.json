@@ -1,0 +1,14 @@
+{
+  "hash": "d19e278075a0a9b7",
+  "source": "This composable is a wrapper around the {0} composable and {1} utility.",
+  "text": "Ce composable est un wrapper autour du composable {0} et de l'utilitaire {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ce composable est un wrapper autour du composable {0} et de l'utilitaire {1}."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

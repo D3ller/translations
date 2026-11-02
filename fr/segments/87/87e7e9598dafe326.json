@@ -1,0 +1,14 @@
+{
+  "hash": "87e7e9598dafe326",
+  "source": "Refer to the {0}Vue docs{/0} for more information.",
+  "text": "Consultez la {0}documentation de Vue{/0} pour plus d'informations.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Consultez la {0}documentation de Vue{/0} pour plus d'informations."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

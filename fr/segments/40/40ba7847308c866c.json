@@ -1,0 +1,14 @@
+{
+  "hash": "40ba7847308c866c",
+  "source": "One core feature of Nuxt is the file system router. Every Vue file inside the {0} directory creates a corresponding URL (or route) that displays the contents of the file. By using dynamic imports for each page, Nuxt leverages code-splitting to ship the minimum amount of JavaScript for the requested route.",
+  "text": "L'une des fonctionnalités principales de Nuxt est son routeur basé sur le système de fichiers. Chaque fichier Vue présent dans le répertoire {0} crée une URL (ou route) correspondante qui affiche le contenu du fichier. En utilisant des imports dynamiques pour chaque page, Nuxt tire parti du code-splitting afin de ne livrer que le minimum de JavaScript nécessaire à la route demandée.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'une des fonctionnalités principales de Nuxt est son routeur basé sur le système de fichiers. Chaque fichier Vue présent dans le répertoire {0} crée une URL (ou route) correspondante qui affiche le contenu du fichier. En utilisant des imports dynamiques pour chaque page, Nuxt tire parti du code-splitting afin de ne livrer que le minimum de JavaScript nécessaire à la route demandée."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

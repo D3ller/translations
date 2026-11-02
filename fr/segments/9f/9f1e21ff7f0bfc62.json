@@ -1,0 +1,14 @@
+{
+  "hash": "9f1e21ff7f0bfc62",
+  "source": "Within your {0}{1} directory{/0}, you can use {2} along with {3} to set metadata based on the current route.",
+  "text": "Dans votre {0}répertoire {1}{/0}, vous pouvez utiliser {2} avec {3} pour définir des métadonnées en fonction de la route actuelle.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans votre {0}répertoire {1}{/0}, vous pouvez utiliser {2} avec {3} pour définir des métadonnées en fonction de la route actuelle."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

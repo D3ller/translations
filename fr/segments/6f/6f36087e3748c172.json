@@ -1,0 +1,14 @@
+{
+  "hash": "6f36087e3748c172",
+  "source": "The payload is a JavaScript object accessible through {0}. It is used on the client to avoid refetching the same data when the code is executed in the browser {1}during hydration{/1}.",
+  "text": "Le payload est un objet JavaScript accessible via {0}. Il est utilisé côté client pour éviter de récupérer à nouveau les mêmes données lorsque le code est exécuté dans le navigateur {1}pendant l'hydratation{/1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le payload est un objet JavaScript accessible via {0}. Il est utilisé côté client pour éviter de récupérer à nouveau les mêmes données lorsque le code est exécuté dans le navigateur {1}pendant l'hydratation{/1}."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

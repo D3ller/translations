@@ -1,0 +1,14 @@
+{
+  "hash": "287ed93c3024f863",
+  "source": "{0}Tailwind CSS{/0}: Utility-first CSS framework",
+  "text": "{0}Tailwind CSS{/0} : framework CSS utility-first",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}Tailwind CSS{/0} : framework CSS utility-first"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

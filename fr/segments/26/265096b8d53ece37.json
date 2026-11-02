@@ -1,0 +1,14 @@
+{
+  "hash": "265096b8d53ece37",
+  "source": "id is watched by default",
+  "text": "id est observé par défaut",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "id est observé par défaut"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

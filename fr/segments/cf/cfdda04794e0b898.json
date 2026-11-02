@@ -1,0 +1,14 @@
+{
+  "hash": "cfdda04794e0b898",
+  "source": "Because Nuxt uses Vue's {0} component, a page or layout you want to animate must have a **single root element**. A page or layout with multiple root elements (a fragment) cannot be animated, so the transition will not run and navigating between routes may error. Nuxt warns about this in development. Wrap the template in a single root element (for example a {1}).",
+  "text": "Comme Nuxt utilise le composant {0} de Vue, une page ou un layout que vous souhaitez animer doit avoir **un seul élément racine**. Une page ou un layout avec plusieurs éléments racines (un fragment) ne peut pas être animé : la transition ne s'exécutera pas et la navigation entre les routes peut générer une erreur. Nuxt vous avertit à ce sujet en développement. Enveloppez le template dans un seul élément racine (par exemple un {1}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Comme Nuxt utilise le composant {0} de Vue, une page ou un layout que vous souhaitez animer doit avoir **un seul élément racine**. Une page ou un layout avec plusieurs éléments racines (un fragment) ne peut pas être animé : la transition ne s'exécutera pas et la navigation entre les routes peut générer une erreur. Nuxt vous avertit à ce sujet en développement. Enveloppez le template dans un seul élément racine (par exemple un {1})."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "d494144a16314a19",
+  "source": "If you're writing local stylesheets, the natural place to put them is the {0}{1} directory{/0}.",
+  "text": "Si vous écrivez des feuilles de style locales, l'endroit naturel où les placer est le {0}répertoire {1}{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous écrivez des feuilles de style locales, l'endroit naturel où les placer est le {0}répertoire {1}{/0}."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "ed1d6e448ab9ac9d",
+  "source": "Default crossfade",
+  "text": "Fondu enchaîné par défaut",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Fondu enchaîné par défaut"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

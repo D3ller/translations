@@ -1,0 +1,14 @@
+{
+  "hash": "0e4cfe653a936341",
+  "source": "Improve your Nuxt app's SEO with powerful head config, composables and components.",
+  "text": "Améliorez le SEO de votre application Nuxt grâce à une configuration de head puissante, des composables et des composants.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Améliorez le SEO de votre application Nuxt grâce à une configuration de head puissante, des composables et des composants."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

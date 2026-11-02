@@ -1,0 +1,14 @@
+{
+  "hash": "42d709eca1cf5e5d",
+  "source": "Nuxt uses {0} under the hood, and you can refer to {1}its full documentation{/1}.",
+  "text": "Nuxt utilise {0} en interne, et vous pouvez consulter {1}sa documentation complète{/1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt utilise {0} en interne, et vous pouvez consulter {1}sa documentation complète{/1}."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

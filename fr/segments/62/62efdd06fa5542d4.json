@@ -1,0 +1,14 @@
+{
+  "hash": "62efdd06fa5542d4",
+  "source": "Third Party Libraries And Modules",
+  "text": "Bibliothèques et modules tiers",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bibliothèques et modules tiers"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

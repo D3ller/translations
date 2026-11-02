@@ -1,0 +1,14 @@
+{
+  "hash": "be8d638189d4fecc",
+  "source": "Default Tags",
+  "text": "Balises par défaut",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Balises par défaut"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

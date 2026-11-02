@@ -1,0 +1,14 @@
+{
+  "hash": "1ec45a1c0e424d1a",
+  "source": "The {0} and {1} are independent, and on the client awaiting a {2} function won't have the effect you expect. If you {3} a {4} call (for example {5} or {6}), it still blocks server rendering as usual, but on **client-side navigation** the {7} resolves immediately without waiting for the request. {8} will still be at its default value right after the {9}, and you must handle the loading state via {10}. If you actually want the navigation to wait for the data, drop the {11} option rather than relying on {12}.",
+  "text": "Le {0} et {1} sont indépendants, et côté client, utiliser await sur une fonction {2} n'aura pas l'effet attendu. Si vous utilisez {3} sur un appel {4} (par exemple {5} ou {6}), le rendu serveur reste bloqué comme d'habitude, mais lors d'une **navigation côté client**, le {7} est résolu immédiatement sans attendre la requête. {8} aura toujours sa valeur par défaut juste après le {9}, et vous devez gérer l'état de chargement via {10}. Si vous souhaitez réellement que la navigation attende les données, supprimez l'option {11} plutôt que de vous appuyer sur {12}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le {0} et {1} sont indépendants, et côté client, utiliser await sur une fonction {2} n'aura pas l'effet attendu. Si vous utilisez {3} sur un appel {4} (par exemple {5} ou {6}), le rendu serveur reste bloqué comme d'habitude, mais lors d'une **navigation côté client**, le {7} est résolu immédiatement sans attendre la requête. {8} aura toujours sa valeur par défaut juste après le {9}, et vous devez gérer l'état de chargement via {10}. Si vous souhaitez réellement que la navigation attende les données, supprimez l'option {11} plutôt que de vous appuyer sur {12}."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

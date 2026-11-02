@@ -1,0 +1,14 @@
+{
+  "hash": "bf2f1b2a1e8a1858",
+  "source": "If you need to change the URL based on a reactive value, you may want to use a {0}computed URL{/0} instead.",
+  "text": "Si vous avez besoin de modifier l'URL en fonction d'une valeur réactive, vous pouvez plutôt utiliser une {0}URL calculée{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous avez besoin de modifier l'URL en fonction d'une valeur réactive, vous pouvez plutôt utiliser une {0}URL calculée{/0}."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "1eb09dd80690027b",
+  "source": "Nuxt uses Vite by default. If you wish to use webpack instead, refer to each preprocessor loader {0}documentation{/0}.",
+  "text": "Nuxt utilise Vite par défaut. Si vous souhaitez utiliser webpack à la place, consultez la {0}documentation{/0} de chaque loader de préprocesseur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt utilise Vite par défaut. Si vous souhaitez utiliser webpack à la place, consultez la {0}documentation{/0} de chaque loader de préprocesseur."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

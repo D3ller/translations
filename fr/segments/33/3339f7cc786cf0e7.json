@@ -1,0 +1,14 @@
+{
+  "hash": "3339f7cc786cf0e7",
+  "source": "The {0} does **not** change the server-rendered HTML. During server rendering, Nuxt waits for the request to resolve before serializing the page either way ({1}, and {2} under the hood), so the fully populated result is always sent to the browser.",
+  "text": "Le {0} ne modifie **pas** le HTML rendu côté serveur. Pendant le rendu serveur, Nuxt attend que la requête soit résolue avant de sérialiser la page dans les deux cas ({1}, et {2} en interne), de sorte que le résultat entièrement renseigné est toujours envoyé au navigateur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le {0} ne modifie **pas** le HTML rendu côté serveur. Pendant le rendu serveur, Nuxt attend que la requête soit résolue avant de sérialiser la page dans les deux cas ({1}, et {2} en interne), de sorte que le résultat entièrement renseigné est toujours envoyé au navigateur."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

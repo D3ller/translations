@@ -1,0 +1,14 @@
+{
+  "hash": "511624701f6e49f9",
+  "source": "You can add the {0} to add a progress bar between page navigations.",
+  "text": "Vous pouvez ajouter {0} pour afficher une barre de progression entre les navigations de pages.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez ajouter {0} pour afficher une barre de progression entre les navigations de pages."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

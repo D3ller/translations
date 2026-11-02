@@ -1,0 +1,14 @@
+{
+  "hash": "3e1da2f98195c337",
+  "source": "Overriding view transitions on a per-page basis will only have an effect if you have enabled the {0} option.",
+  "text": "Remplacer les view transitions page par page n'aura d'effet que si vous avez activé l'option {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Remplacer les view transitions page par page n'aura d'effet que si vous avez activé l'option {0}."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "702b25a300a72bd0",
+  "source": "When you set {0}, assets in your {1} directory (including {2}) are served from that CDN. Nuxt resolves public assets against {3}, falling back to {4}. However, a static {5} link such as {6} above is a literal path and is **not** resolved against {7}. To point the favicon at the resolved location, build the {8} from runtime config with {9} in {10}:",
+  "text": "Lorsque vous définissez {0}, les assets de votre répertoire {1} (y compris {2}) sont servis depuis ce CDN. Nuxt résout les assets publics par rapport à {3}, avec {4} comme valeur de repli. Cependant, un lien statique {5} tel que {6} ci-dessus est un chemin littéral et n'est **pas** résolu par rapport à {7}. Pour faire pointer le favicon vers l'emplacement résolu, construisez le {8} à partir du runtime config avec {9} dans {10} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque vous définissez {0}, les assets de votre répertoire {1} (y compris {2}) sont servis depuis ce CDN. Nuxt résout les assets publics par rapport à {3}, avec {4} comme valeur de repli. Cependant, un lien statique {5} tel que {6} ci-dessus est un chemin littéral et n'est **pas** résolu par rapport à {7}. Pour faire pointer le favicon vers l'emplacement résolu, construisez le {8} à partir du runtime config avec {9} dans {10} :"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

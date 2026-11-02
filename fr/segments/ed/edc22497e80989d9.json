@@ -1,0 +1,14 @@
+{
+  "hash": "edc22497e80989d9",
+  "source": "The Need for {0} and {1}",
+  "text": "Pourquoi {0} et {1} sont nécessaires",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pourquoi {0} et {1} sont nécessaires"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

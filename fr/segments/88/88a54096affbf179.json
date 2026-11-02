@@ -1,0 +1,14 @@
+{
+  "hash": "88a54096affbf179",
+  "source": "only pick the fields used in your template",
+  "text": "sélectionner uniquement les champs utilisés dans votre template",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "sélectionner uniquement les champs utilisés dans votre template"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

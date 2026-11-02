@@ -1,0 +1,14 @@
+{
+  "hash": "f618304f771d786f",
+  "source": "It is possible to override the default {0} value for a page by setting the {1} key in {2} of the page:",
+  "text": "Il est possible de remplacer la valeur par défaut de {0} pour une page en définissant la clé {1} dans {2} de la page :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Il est possible de remplacer la valeur par défaut de {0} pour une page en définissant la clé {1} dans {2} de la page :"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

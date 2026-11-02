@@ -1,0 +1,14 @@
+{
+  "hash": "6bbba05bb315979d",
+  "source": "Then you can reference it directly in your pages, layouts and components:",
+  "text": "Vous pouvez ensuite la référencer directement dans vos pages, layouts et composants :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez ensuite la référencer directement dans vos pages, layouts et composants :"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

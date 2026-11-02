@@ -1,0 +1,14 @@
+{
+  "hash": "89a230ac821d014a",
+  "source": "When {0} is used in {1}, transitions can be configured with the {2} prop to activate transitions globally.",
+  "text": "Lorsque {0} est utilisé dans {1}, les transitions peuvent être configurées avec la prop {2} pour les activer globalement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque {0} est utilisé dans {1}, les transitions peuvent être configurées avec la prop {2} pour les activer globalement."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

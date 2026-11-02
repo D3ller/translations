@@ -1,0 +1,14 @@
+{
+  "hash": "fed6d499b225265a",
+  "source": "disable the input while fetching",
+  "text": "désactive le champ de saisie pendant la récupération",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "désactive le champ de saisie pendant la récupération"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

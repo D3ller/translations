@@ -1,0 +1,14 @@
+{
+  "hash": "3deb71d1d5cd8e83",
+  "source": "{0} is a wrapper around {1} that fetches data only once in {2}universal rendering{/2}.",
+  "text": "{0} est une surcouche de {1} qui ne récupère les données qu'une seule fois lors du {2}rendu universel{/2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est une surcouche de {1} qui ne récupère les données qu'une seule fois lors du {2}rendu universel{/2}."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

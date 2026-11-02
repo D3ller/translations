@@ -1,0 +1,14 @@
+{
+  "hash": "eadc0234211ce86a",
+  "source": "Refresh and execute",
+  "text": "Rafraîchir et exécuter",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Rafraîchir et exécuter"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

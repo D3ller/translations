@@ -1,0 +1,14 @@
+{
+  "hash": "a63a5baa081161a5",
+  "source": "The package can also be referenced as a string in the css property of your Nuxt configuration.",
+  "text": "Le package peut aussi être référencé sous forme de chaîne dans la propriété css de votre configuration Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le package peut aussi être référencé sous forme de chaîne dans la propriété css de votre configuration Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

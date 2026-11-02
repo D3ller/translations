@@ -1,0 +1,14 @@
+{
+  "hash": "4c05127892a773de",
+  "source": "The stylesheets will be inlined in the HTML rendered by Nuxt.",
+  "text": "Les feuilles de style seront intégrées en ligne dans le HTML rendu par Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les feuilles de style seront intégrées en ligne dans le HTML rendu par Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

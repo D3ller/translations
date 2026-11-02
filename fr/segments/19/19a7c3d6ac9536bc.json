@@ -1,0 +1,14 @@
+{
+  "hash": "19a7c3d6ac9536bc",
+  "source": "{0}UnoCSS{/0}: Instant on-demand atomic CSS engine",
+  "text": "{0}UnoCSS{/0} : moteur CSS atomique instantané et à la demande",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}UnoCSS{/0} : moteur CSS atomique instantané et à la demande"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

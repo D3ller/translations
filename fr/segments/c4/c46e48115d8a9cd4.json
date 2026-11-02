@@ -1,0 +1,14 @@
+{
+  "hash": "c46e48115d8a9cd4",
+  "source": "{0} is nearly equivalent to {1}.{2}It's developer experience sugar for the most common use case. (You can find out more about {3} at {4}.)",
+  "text": "{0} est presque équivalent à {1}.{2}C'est du confort pour les développeurs pour le cas d'usage le plus courant. (Vous pouvez en savoir plus sur {3} à l'adresse {4}.)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est presque équivalent à {1}.{2}C'est du confort pour les développeurs pour le cas d'usage le plus courant. (Vous pouvez en savoir plus sur {3} à l'adresse {4}.)"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

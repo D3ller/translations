@@ -1,0 +1,14 @@
+{
+  "hash": "aa490ed5b2612f7b",
+  "source": "To use a preprocessor like SCSS, Sass, Less or Stylus, install it first.",
+  "text": "Pour utiliser un préprocesseur comme SCSS, Sass, Less ou Stylus, installez-le d'abord.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour utiliser un préprocesseur comme SCSS, Sass, Less ou Stylus, installez-le d'abord."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

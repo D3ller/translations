@@ -1,0 +1,14 @@
+{
+  "hash": "f3524c0ecc13569f",
+  "source": "What the {0} *does* change is what happens next in your own {1}, and how client-side navigation behaves:",
+  "text": "Ce que le {0} modifie *réellement*, c'est ce qui se passe ensuite dans votre propre {1}, ainsi que le comportement de la navigation côté client :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ce que le {0} modifie *réellement*, c'est ce qui se passe ensuite dans votre propre {1}, ainsi que le comportement de la navigation côté client :"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

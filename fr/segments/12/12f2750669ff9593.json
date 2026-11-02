@@ -1,0 +1,14 @@
+{
+  "hash": "12f2750669ff9593",
+  "source": "Below are the non-reactive types used for {0}, {1} and components.",
+  "text": "Vous trouverez ci-dessous les types non réactifs utilisés pour {0}, {1} et les composants.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous trouverez ci-dessous les types non réactifs utilisés pour {0}, {1} et les composants."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

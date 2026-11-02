@@ -1,0 +1,14 @@
+{
+  "hash": "f5251aa3b5ed6352",
+  "source": "Providing an {0} property in your {1} allows you to statically customize the head for your entire app.",
+  "text": "Fournir une propriété {0} dans votre {1} vous permet de personnaliser statiquement le head de l'ensemble de votre application.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Fournir une propriété {0} dans votre {1} vous permet de personnaliser statiquement le head de l'ensemble de votre application."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

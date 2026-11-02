@@ -1,0 +1,14 @@
+{
+  "hash": "e82678080ba59d7d",
+  "source": "External stylesheets are render-blocking resources: they must be loaded and processed before the browser renders the page. Web pages that contain unnecessarily large styles take longer to render. You can read more about it on {0}web.dev{/0}.",
+  "text": "Les feuilles de style externes sont des ressources bloquantes pour le rendu : elles doivent être chargées et traitées avant que le navigateur n'affiche la page. Les pages web contenant des styles inutilement volumineux mettent plus de temps à s'afficher. Vous pouvez en savoir plus sur {0}web.dev{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les feuilles de style externes sont des ressources bloquantes pour le rendu : elles doivent être chargées et traitées avant que le navigateur n'affiche la page. Les pages web contenant des styles inutilement volumineux mettent plus de temps à s'afficher. Vous pouvez en savoir plus sur {0}web.dev{/0}."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "87f747648da58bad",
+  "source": "And then in your layout file, you might use the route's metadata you have previously set:",
+  "text": "Puis, dans votre fichier de layout, vous pouvez utiliser les métadonnées de la route que vous avez définies précédemment :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Puis, dans votre fichier de layout, vous pouvez utiliser les métadonnées de la route que vous avez définies précédemment :"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

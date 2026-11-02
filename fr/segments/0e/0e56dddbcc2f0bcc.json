@@ -1,0 +1,14 @@
+{
+  "hash": "0e56dddbcc2f0bcc",
+  "source": "You can alternatively use {0} and {1} as convenient methods to perform the same.",
+  "text": "Vous pouvez aussi utiliser {0} et {1} comme méthodes pratiques pour obtenir le même résultat.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez aussi utiliser {0} et {1} comme méthodes pratiques pour obtenir le même résultat."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

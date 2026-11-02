@@ -1,0 +1,14 @@
+{
+  "hash": "93bba1070b88edbe",
+  "source": "Nuxt ships with an experimental implementation of the {0}**View Transitions API**{/0} (see {1}MDN{/1}). This is an exciting new way to implement native browser transitions which (among other things) have the ability to transition between unrelated elements on different pages.",
+  "text": "Nuxt est fourni avec une implémentation expérimentale de l'{0}**API View Transitions**{/0} (voir {1}MDN{/1}). C'est une nouvelle façon intéressante d'implémenter des transitions natives du navigateur qui (entre autres) permettent de faire la transition entre des éléments sans rapport sur des pages différentes.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt est fourni avec une implémentation expérimentale de l'{0}**API View Transitions**{/0} (voir {1}MDN{/1}). C'est une nouvelle façon intéressante d'implémenter des transitions natives du navigateur qui (entre autres) permettent de faire la transition entre des éléments sans rapport sur des pages différentes."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

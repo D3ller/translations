@@ -1,0 +1,14 @@
+{
+  "hash": "3927997a0b5e7a84",
+  "source": "SEO and Meta",
+  "text": "SEO et métadonnées",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "SEO et métadonnées"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

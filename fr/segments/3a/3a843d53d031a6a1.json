@@ -1,0 +1,14 @@
+{
+  "hash": "3a843d53d031a6a1",
+  "source": "You can use computed refs, plain refs or getter functions as keys, allowing for dynamic data fetching that automatically updates when dependencies change:",
+  "text": "Vous pouvez utiliser des refs calculées, des refs simples ou des fonctions getter comme clés, ce qui permet une récupération de données dynamique qui se met à jour automatiquement lorsque les dépendances changent :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez utiliser des refs calculées, des refs simples ou des fonctions getter comme clés, ce qui permet une récupération de données dynamique qui se met à jour automatiquement lorsque les dépendances changent :"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

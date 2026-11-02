@@ -1,0 +1,14 @@
+{
+  "hash": "b08f9e7b4a3f8d8d",
+  "source": "Or configure types per-page using {0}. Per-page types support both static arrays and functions for dynamic behavior:",
+  "text": "Ou configurer les types page par page avec {0}. Les types par page prennent en charge les tableaux statiques comme les fonctions pour un comportement dynamique :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ou configurer les types page par page avec {0}. Les types par page prennent en charge les tableaux statiques comme les fonctions pour un comportement dynamique :"
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}

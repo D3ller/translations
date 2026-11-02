@@ -1,0 +1,14 @@
+{
+  "hash": "b204f4be3c53f708",
+  "source": "If you want to clear the data provided, for whatever reason, without needing to know the specific key to pass to {0}, you can use the {1} function provided by the composables.",
+  "text": "Si vous souhaitez effacer les données fournies, pour une raison quelconque, sans avoir besoin de connaître la clé spécifique à passer à {0}, vous pouvez utiliser la fonction {1} fournie par les composables.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous souhaitez effacer les données fournies, pour une raison quelconque, sans avoir besoin de connaître la clé spécifique à passer à {0}, vous pouvez utiliser la fonction {1} fournie par les composables."
+  },
+  "updatedAt": "2026-11-02T12:47:43.377Z"
+}
