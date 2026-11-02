@@ -1,0 +1,14 @@
+{
+  "hash": "58c1cb0c3cb59215",
+  "source": "Await a lazy import before using its URL in server-rendered markup. Vite's {0}{1} pattern{/0} does not work with SSR.",
+  "text": "Attendez (await) un import lazy avant d'utiliser son URL dans du balisage rendu côté serveur. Le {0}motif {1}{/0} de Vite ne fonctionne pas avec SSR.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Attendez (await) un import lazy avant d'utiliser son URL dans du balisage rendu côté serveur. Le {0}motif {1}{/0} de Vite ne fonctionne pas avec SSR."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

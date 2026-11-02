@@ -1,0 +1,14 @@
+{
+  "hash": "81f91d356acfcd0b",
+  "source": "The approaches below are specific to Vite, Nuxt's default builder.",
+  "text": "Les approches ci-dessous sont propres à Vite, le builder par défaut de Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les approches ci-dessous sont propres à Vite, le builder par défaut de Nuxt."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

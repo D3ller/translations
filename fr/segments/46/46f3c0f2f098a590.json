@@ -1,0 +1,14 @@
+{
+  "hash": "46f3c0f2f098a590",
+  "source": "By default, Nuxt is configured to cover most use cases. The {0} file can override or extend this default configuration.",
+  "text": "Par défaut, Nuxt est configuré pour couvrir la plupart des cas d'usage. Le fichier {0} permet de remplacer ou d'étendre cette configuration par défaut.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par défaut, Nuxt est configuré pour couvrir la plupart des cas d'usage. Le fichier {0} permet de remplacer ou d'étendre cette configuration par défaut."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

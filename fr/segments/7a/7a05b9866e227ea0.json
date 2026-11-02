@@ -1,0 +1,14 @@
+{
+  "hash": "7a05b9866e227ea0",
+  "source": "Each import has a literal path, so Vite can find both files at build time while loading only the selected module at runtime.",
+  "text": "Chaque import a un chemin littéral, de sorte que Vite peut trouver les deux fichiers au moment du build tout en ne chargeant que le module sélectionné à l'exécution.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Chaque import a un chemin littéral, de sorte que Vite peut trouver les deux fichiers au moment du build tout en ne chargeant que le module sélectionné à l'exécution."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

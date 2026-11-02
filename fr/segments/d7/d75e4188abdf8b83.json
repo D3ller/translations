@@ -1,0 +1,14 @@
+{
+  "hash": "d75e4188abdf8b83",
+  "source": "If the files do not need to be processed or hashed, put them in the {0} directory and reference them by URL:",
+  "text": "Si les fichiers n'ont pas besoin d'être traités ni de recevoir un hash, placez-les dans le répertoire {0} et référencez-les par leur URL :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si les fichiers n'ont pas besoin d'être traités ni de recevoir un hash, placez-les dans le répertoire {0} et référencez-les par leur URL :"
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

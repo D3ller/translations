@@ -1,0 +1,14 @@
+{
+  "hash": "dfeae2857a6009c8",
+  "source": "Those values should be defined in {0} and can be overridden using environment variables.",
+  "text": "Ces valeurs doivent être définies dans {0} et peuvent être remplacées à l'aide de variables d'environnement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ces valeurs doivent être définies dans {0} et peuvent être remplacées à l'aide de variables d'environnement."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

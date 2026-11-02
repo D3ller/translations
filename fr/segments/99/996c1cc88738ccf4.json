@@ -1,0 +1,14 @@
+{
+  "hash": "996c1cc88738ccf4",
+  "source": "**Zero-config TypeScript support:** write type-safe code without having to learn TypeScript with our auto-generated types and {0}.",
+  "text": "**Support de TypeScript sans configuration :** écrivez du code sûr au niveau des types sans avoir à apprendre TypeScript, grâce à nos types générés automatiquement et à {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Support de TypeScript sans configuration :** écrivez du code sûr au niveau des types sans avoir à apprendre TypeScript, grâce à nos types générés automatiquement et à {0}."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

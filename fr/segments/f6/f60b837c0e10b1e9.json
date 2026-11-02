@@ -1,0 +1,14 @@
+{
+  "hash": "f60b837c0e10b1e9",
+  "source": "Nuxt uses {0} file as the single source of truth for configurations and skips reading external configuration files. During the course of building your project, you may have a need to configure those. The following table highlights common configurations and, where applicable, how they can be configured with Nuxt.",
+  "text": "Nuxt utilise le fichier {0} comme source unique de vérité pour la configuration et ne lit pas les fichiers de configuration externes. Au cours du développement de votre projet, vous pourriez avoir besoin de les configurer. Le tableau suivant présente les configurations courantes et, le cas échéant, la manière de les configurer avec Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt utilise le fichier {0} comme source unique de vérité pour la configuration et ne lit pas les fichiers de configuration externes. Au cours du développement de votre projet, vous pourriez avoir besoin de les configurer. Le tableau suivant présente les configurations courantes et, le cas échéant, la manière de les configurer avec Nuxt."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

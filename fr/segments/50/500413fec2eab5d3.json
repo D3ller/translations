@@ -1,0 +1,14 @@
+{
+  "hash": "500413fec2eab5d3",
+  "source": "Enabling Experimental Vue Features",
+  "text": "Activer les fonctionnalités expérimentales de Vue",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Activer les fonctionnalités expérimentales de Vue"
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

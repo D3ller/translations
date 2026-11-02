@@ -1,0 +1,14 @@
+{
+  "hash": "2873e998740ec84c",
+  "source": "{0}TailwindCSS{/0}",
+  "text": "{0}TailwindCSS{/0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}TailwindCSS{/0}"
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

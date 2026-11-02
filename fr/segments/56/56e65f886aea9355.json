@@ -1,0 +1,14 @@
+{
+  "hash": "56e65f886aea9355",
+  "source": "**Data-fetching utilities:** Nuxt provides composables to handle SSR-compatible data fetching as well as different strategies.",
+  "text": "**Utilitaires de récupération de données :** Nuxt fournit des composables pour gérer la récupération de données compatible avec le SSR, ainsi que différentes stratégies.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Utilitaires de récupération de données :** Nuxt fournit des composables pour gérer la récupération de données compatible avec le SSR, ainsi que différentes stratégies."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

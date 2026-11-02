@@ -1,0 +1,14 @@
+{
+  "hash": "a2169332ced4755d",
+  "source": "Because {0} is applied at runtime, a static public path works even when the base URL is only known at deploy time (for example set via {1}), and it works whether or not the file is processed by the build. This resolution only happens for literal paths the build tool can see.",
+  "text": "Comme {0} est appliqué à l'exécution, un chemin public statique fonctionne même lorsque l'URL de base n'est connue qu'au moment du déploiement (par exemple définie via {1}), et qu'il soit ou non traité par le build. Cette résolution n'a lieu que pour les chemins littéraux que l'outil de build peut voir.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Comme {0} est appliqué à l'exécution, un chemin public statique fonctionne même lorsque l'URL de base n'est connue qu'au moment du déploiement (par exemple définie via {1}), et qu'il soit ou non traité par le build. Cette résolution n'a lieu que pour les chemins littéraux que l'outil de build peut voir."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

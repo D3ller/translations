@@ -1,0 +1,14 @@
+{
+  "hash": "758ac1b033bd8970",
+  "source": "**Terminal** - In order to run Nuxt commands",
+  "text": "**Terminal** - Pour exécuter les commandes Nuxt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Terminal** - Pour exécuter les commandes Nuxt"
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "4ba505ed8aed6a23",
+  "source": "experimental {0} migration from Vue 3.4 and Nuxt 3.9",
+  "text": "Migration de {0} expérimental depuis Vue 3.4 et Nuxt 3.9",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Migration de {0} expérimental depuis Vue 3.4 et Nuxt 3.9"
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

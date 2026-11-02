@@ -1,0 +1,14 @@
+{
+  "hash": "cee47bd2a666f8f2",
+  "source": "Use {0} key in {1}",
+  "text": "Utilisez la clé {0} dans {1}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utilisez la clé {0} dans {1}"
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

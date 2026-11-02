@@ -1,0 +1,14 @@
+{
+  "hash": "6a9576516b19f4a1",
+  "source": "The {0} directory content is served at the server root as-is.",
+  "text": "Le contenu du répertoire {0} est servi tel quel à la racine du serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le contenu du répertoire {0} est servi tel quel à la racine du serveur."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

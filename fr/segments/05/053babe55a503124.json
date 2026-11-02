@@ -1,0 +1,14 @@
+{
+  "hash": "053babe55a503124",
+  "source": "If you use webpack and need to configure {0}, you can do this using {1} key inside your {2} file. The available options are {3}defined here{/3}.",
+  "text": "Si vous utilisez webpack et devez configurer {0}, vous pouvez le faire avec la clé {1} dans votre fichier {2}. Les options disponibles sont {3}définies ici{/3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous utilisez webpack et devez configurer {0}, vous pouvez le faire avec la clé {1} dans votre fichier {2}. Les options disponibles sont {3}définies ici{/3}."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

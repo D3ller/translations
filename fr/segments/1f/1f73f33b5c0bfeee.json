@@ -1,0 +1,14 @@
+{
+  "hash": "1f73f33b5c0bfeee",
+  "source": "Only the filename can be dynamic in this example. Keeping the directory and extension in the import lets Vite find the possible files at build time.",
+  "text": "Dans cet exemple, seul le nom du fichier peut être dynamique. Conserver le répertoire et l'extension dans l'import permet à Vite de trouver les fichiers possibles au moment du build.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans cet exemple, seul le nom du fichier peut être dynamique. Conserver le répertoire et l'extension dans l'import permet à Vite de trouver les fichiers possibles au moment du build."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

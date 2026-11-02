@@ -1,0 +1,14 @@
+{
+  "hash": "3ec9bddb079ab6a7",
+  "source": "For example, referencing an image file that will be processed if a build tool is configured to handle this file extension:",
+  "text": "Par exemple, pour référencer un fichier image qui sera traité si un outil de build est configuré pour gérer cette extension de fichier :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par exemple, pour référencer un fichier image qui sera traité si un outil de build est configuré pour gérer cette extension de fichier :"
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

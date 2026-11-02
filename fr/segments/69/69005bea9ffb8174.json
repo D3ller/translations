@@ -1,0 +1,14 @@
+{
+  "hash": "69005bea9ffb8174",
+  "source": "The {0} API exposes values like environment variables to the rest of your application. By default, these keys are only available server-side. The keys within {1} and {2} (which is used by Nuxt internally) are also available client-side.",
+  "text": "L'API {0} expose des valeurs, comme des variables d'environnement, au reste de votre application. Par défaut, ces clés ne sont disponibles que côté serveur. Les clés dans {1} et {2} (utilisé en interne par Nuxt) sont également disponibles côté client.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'API {0} expose des valeurs, comme des variables d'environnement, au reste de votre application. Par défaut, ces clés ne sont disponibles que côté serveur. Les clés dans {1} et {2} (utilisé en interne par Nuxt) sont également disponibles côté client."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

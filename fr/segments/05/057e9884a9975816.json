@@ -1,0 +1,14 @@
+{
+  "hash": "057e9884a9975816",
+  "source": "Nuxt uses {0}Vite{/0} (default) or {1}webpack{/1} to build and bundle your application. The main function of these build tools is to process JavaScript files, but they can be extended through {2}plugins{/2} (for Vite) or {3}loaders{/3} (for webpack) to process other kinds of assets, like stylesheets, fonts or SVGs. This step transforms the original file, mainly for performance or caching purposes (such as stylesheet minification or browser cache invalidation).",
+  "text": "Nuxt utilise {0}Vite{/0} (par défaut) ou {1}webpack{/1} pour compiler et regrouper votre application en bundle. La fonction principale de ces outils de build est de traiter les fichiers JavaScript, mais ils peuvent être étendus à l'aide de {2}plugins{/2} (pour Vite) ou de {3}loaders{/3} (pour webpack) afin de traiter d'autres types d'assets, comme les feuilles de style, les polices ou les SVG. Cette étape transforme le fichier d'origine, principalement pour des raisons de performance ou de mise en cache (comme la minification des feuilles de style ou l'invalidation du cache du navigateur).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt utilise {0}Vite{/0} (par défaut) ou {1}webpack{/1} pour compiler et regrouper votre application en bundle. La fonction principale de ces outils de build est de traiter les fichiers JavaScript, mais ils peuvent être étendus à l'aide de {2}plugins{/2} (pour Vite) ou de {3}loaders{/3} (pour webpack) afin de traiter d'autres types d'assets, comme les feuilles de style, les polices ou les SVG. Cette étape transforme le fichier d'origine, principalement pour des raisons de performance ou de mise en cache (comme la minification des feuilles de style ou l'invalidation du cache du navigateur)."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

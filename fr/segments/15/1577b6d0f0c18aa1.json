@@ -1,0 +1,14 @@
+{
+  "hash": "1577b6d0f0c18aa1",
+  "source": "✅ Partial",
+  "text": "✅ Partielle",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "✅ Partielle"
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

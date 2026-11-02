@@ -1,0 +1,14 @@
+{
+  "hash": "4279d3041751f456",
+  "source": "You can configure fully typed, per-environment overrides in your nuxt.config",
+  "text": "Vous pouvez configurer, avec un typage complet, des surcharges par environnement dans votre nuxt.config",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez configurer, avec un typage complet, des surcharges par environnement dans votre nuxt.config"
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

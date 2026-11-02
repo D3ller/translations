@@ -1,0 +1,14 @@
+{
+  "hash": "5c4c839c814ee45e",
+  "source": "If you use Vite+, its {0} configures Vite+ commands such as {1}, {2}, and {3}. Nuxt doesn't read Vite options from this file, so configure Vite for your app with the {4} key in {5}.",
+  "text": "Si vous utilisez Vite+, son fichier {0} configure les commandes de Vite+ telles que {1}, {2} et {3}. Nuxt ne lit pas les options de Vite depuis ce fichier ; configurez donc Vite pour votre application avec la clé {4} dans {5}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous utilisez Vite+, son fichier {0} configure les commandes de Vite+ telles que {1}, {2} et {3}. Nuxt ne lit pas les options de Vite depuis ce fichier ; configurez donc Vite pour votre application avec la clé {4} dans {5}."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

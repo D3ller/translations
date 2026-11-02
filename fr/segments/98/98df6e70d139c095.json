@@ -1,0 +1,14 @@
+{
+  "hash": "98df6e70d139c095",
+  "source": "Now you'll be able to start your Nuxt app in development mode:",
+  "text": "Vous pouvez maintenant démarrer votre application Nuxt en mode développement :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez maintenant démarrer votre application Nuxt en mode développement :"
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

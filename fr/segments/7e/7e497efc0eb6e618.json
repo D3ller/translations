@@ -1,0 +1,14 @@
+{
+  "hash": "7e497efc0eb6e618",
+  "source": "Bundled Assets with Vite",
+  "text": "Assets inclus dans le bundle avec Vite",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Assets inclus dans le bundle avec Vite"
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

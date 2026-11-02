@@ -1,0 +1,14 @@
+{
+  "hash": "660617564bafe8c1",
+  "source": "**Server-side rendering out of the box:** Nuxt comes with built-in SSR capabilities, so you don't have to set up a separate server yourself.",
+  "text": "**Rendu côté serveur prêt à l'emploi :** Nuxt intègre des capacités de SSR, vous n'avez donc pas besoin de configurer vous-même un serveur distinct.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Rendu côté serveur prêt à l'emploi :** Nuxt intègre des capacités de SSR, vous n'avez donc pas besoin de configurer vous-même un serveur distinct."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

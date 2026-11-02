@@ -1,0 +1,14 @@
+{
+  "hash": "d892a0080507cc0b",
+  "source": "For a broader pattern or an explicit map of available files, use {0}:",
+  "text": "Pour un motif plus large ou une correspondance explicite des fichiers disponibles, utilisez {0} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour un motif plus large ou une correspondance explicite des fichiers disponibles, utilisez {0} :"
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

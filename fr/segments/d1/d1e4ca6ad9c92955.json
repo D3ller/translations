@@ -1,0 +1,14 @@
+{
+  "hash": "d1e4ca6ad9c92955",
+  "source": "A module system allows you to extend Nuxt with custom features and integrations with third-party services.",
+  "text": "Un système de modules vous permet d'étendre Nuxt avec des fonctionnalités personnalisées et des intégrations avec des services tiers.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un système de modules vous permet d'étendre Nuxt avec des fonctionnalités personnalisées et des intégrations avec des services tiers."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

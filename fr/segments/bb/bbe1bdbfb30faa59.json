@@ -1,0 +1,14 @@
+{
+  "hash": "bbe1bdbfb30faa59",
+  "source": "When an {0} is a static string literal in your template, the build tool rewrites it into a runtime helper that resolves the final URL. A public path such as {1} is wrapped so that your {2} is applied when the page renders, and a bundled path such as {3} additionally becomes an import that resolves to the hashed output file.",
+  "text": "Lorsqu'un {0} est un littéral de chaîne statique dans votre template, l'outil de build le réécrit en un helper d'exécution qui résout l'URL finale. Un chemin public tel que {1} est enveloppé afin que votre {2} soit appliqué lors du rendu de la page, et un chemin inclus dans le bundle tel que {3} devient en plus un import qui résout vers le fichier de sortie avec hash.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsqu'un {0} est un littéral de chaîne statique dans votre template, l'outil de build le réécrit en un helper d'exécution qui résout l'URL finale. Un chemin public tel que {1} est enveloppé afin que votre {2} soit appliqué lors du rendu de la page, et un chemin inclus dans le bundle tel que {3} devient en plus un import qui résout vers le fichier de sortie avec hash."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

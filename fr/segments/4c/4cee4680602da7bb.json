@@ -1,0 +1,14 @@
+{
+  "hash": "4cee4680602da7bb",
+  "source": "This file will often be mentioned in the documentation, for example to add custom scripts, register modules or change rendering modes.",
+  "text": "Ce fichier sera souvent mentionné dans la documentation, par exemple pour ajouter des scripts personnalisés, enregistrer des modules ou changer de mode de rendu.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ce fichier sera souvent mentionné dans la documentation, par exemple pour ajouter des scripts personnalisés, enregistrer des modules ou changer de mode de rendu."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

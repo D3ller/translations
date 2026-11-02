@@ -1,0 +1,14 @@
+{
+  "hash": "a5b3f4d6aae4b923",
+  "source": "If you're authoring layers, you can also use the {0} key to provide metadata that you or the consumers of your layer might use.",
+  "text": "Si vous créez des layers (couches), vous pouvez également utiliser la clé {0} pour fournir des métadonnées que vous ou les utilisateurs de votre layer pourrez exploiter.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous créez des layers (couches), vous pouvez également utiliser la clé {0} pour fournir des métadonnées que vous ou les utilisateurs de votre layer pourrez exploiter."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

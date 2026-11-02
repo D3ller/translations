@@ -1,0 +1,14 @@
+{
+  "hash": "91afa401eacf5034",
+  "source": "**Neovim**: When configuring the Vue TypeScript plugin, make sure {0} points to the {1} package directory, not its binary. See the {2}Neovim setup guide{/2} for a working configuration.",
+  "text": "**Neovim** : lors de la configuration du plugin Vue TypeScript, assurez-vous que {0} pointe vers le répertoire du package {1}, et non vers son binaire. Consultez le {2}guide de configuration de Neovim{/2} pour obtenir une configuration fonctionnelle.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Neovim** : lors de la configuration du plugin Vue TypeScript, assurez-vous que {0} pointe vers le répertoire du package {1}, et non vers son binaire. Consultez le {2}guide de configuration de Neovim{/2} pour obtenir une configuration fonctionnelle."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

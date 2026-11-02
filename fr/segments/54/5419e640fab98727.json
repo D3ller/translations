@@ -1,0 +1,14 @@
+{
+  "hash": "5419e640fab98727",
+  "source": "Layouts are wrapper around pages",
+  "text": "Les layouts sont des enveloppes autour des pages",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les layouts sont des enveloppes autour des pages"
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "4166b4891b1974ed",
+  "source": "**Better accessibility:** the content is immediately available on the initial page load, improving accessibility for users who rely on screen readers or other assistive technologies.",
+  "text": "**Meilleure accessibilité :** le contenu est disponible immédiatement dès le chargement initial de la page, ce qui améliore l'accessibilité pour les utilisateurs qui utilisent des lecteurs d'écran ou d'autres technologies d'assistance.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Meilleure accessibilité :** le contenu est disponible immédiatement dès le chargement initial de la page, ce qui améliore l'accessibilité pour les utilisateurs qui utilisent des lecteurs d'écran ou d'autres technologies d'assistance."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

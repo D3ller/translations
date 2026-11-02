@@ -1,0 +1,14 @@
+{
+  "hash": "c528b4966def2c3c",
+  "source": "A runtime-built public path like {0} is therefore **not** prefixed with {1}. If your application is deployed below the origin root, prefix it yourself with {2} (for example via {3}).",
+  "text": "Un chemin public construit à l'exécution comme {0} n'est donc **pas** préfixé par {1}. Si votre application est déployée sous la racine de l'origine, préfixez-le vous-même avec {2} (par exemple via {3}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un chemin public construit à l'exécution comme {0} n'est donc **pas** préfixé par {1}. Si votre application est déployée sous la racine de l'origine, préfixez-le vous-même avec {2} (par exemple via {3})."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

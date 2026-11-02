@@ -1,0 +1,14 @@
+{
+  "hash": "3a9baeab36bee447",
+  "source": "If you just want to play around with Nuxt in your browser without setting up a project, you can use this online sandbox:",
+  "text": "Si vous voulez simplement essayer Nuxt dans votre navigateur sans configurer de projet, vous pouvez utiliser ce bac à sable en ligne :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous voulez simplement essayer Nuxt dans votre navigateur sans configurer de projet, vous pouvez utiliser ce bac à sable en ligne :"
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

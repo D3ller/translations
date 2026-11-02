@@ -1,0 +1,14 @@
+{
+  "hash": "629b1285eb8303d8",
+  "source": "The {0} file is located at the root of a Nuxt project and can override or extend the application's behavior.",
+  "text": "Le fichier {0} est situé à la racine d'un projet Nuxt et permet de remplacer ou d'étendre le comportement de l'application.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le fichier {0} est situé à la racine d'un projet Nuxt et permet de remplacer ou d'étendre le comportement de l'application."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

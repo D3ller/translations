@@ -1,0 +1,14 @@
+{
+  "hash": "690e041e44fbb961",
+  "source": "For example, referencing an image file in the {0} directory, available at the static URL {1}:",
+  "text": "Par exemple, pour référencer un fichier image du répertoire {0}, disponible à l'URL statique {1} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par exemple, pour référencer un fichier image du répertoire {0}, disponible à l'URL statique {1} :"
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

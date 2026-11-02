@@ -1,0 +1,14 @@
+{
+  "hash": "9511242ba0690733",
+  "source": "Command line interface: {0}@nuxt/cli{/0}",
+  "text": "Interface en ligne de commande : {0}@nuxt/cli{/0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Interface en ligne de commande : {0}@nuxt/cli{/0}"
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

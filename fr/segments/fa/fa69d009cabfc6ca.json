@@ -1,0 +1,14 @@
+{
+  "hash": "fa69d009cabfc6ca",
+  "source": "The sections below cover how to handle each case when the path is only known at runtime.",
+  "text": "Les sections ci-dessous expliquent comment gérer chaque cas lorsque le chemin n'est connu qu'à l'exécution.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les sections ci-dessous expliquent comment gérer chaque cas lorsque le chemin n'est connu qu'à l'exécution."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

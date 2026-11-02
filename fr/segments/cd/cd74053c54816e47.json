@@ -1,0 +1,14 @@
+{
+  "hash": "cd74053c54816e47",
+  "source": "Architecture",
+  "text": "Architecture",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Architecture"
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

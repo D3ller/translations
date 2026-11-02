@@ -1,0 +1,14 @@
+{
+  "hash": "f55a069cb7170ad1",
+  "source": "Files in {0} keep their original filenames.",
+  "text": "Les fichiers de {0} conservent leurs noms de fichier d'origine.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les fichiers de {0} conservent leurs noms de fichier d'origine."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

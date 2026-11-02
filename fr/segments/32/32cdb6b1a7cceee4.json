@@ -1,0 +1,14 @@
+{
+  "hash": "32cdb6b1a7cceee4",
+  "source": "Nuxt uses conventions and an opinionated directory structure to automate repetitive tasks and allow developers to focus on pushing features. The configuration file can still customize and override its default behaviors.",
+  "text": "Nuxt utilise des conventions et une structure de répertoires opinionée pour automatiser les tâches répétitives et permettre aux développeurs de se concentrer sur le développement de fonctionnalités. Le fichier de configuration permet néanmoins de personnaliser et de surcharger ses comportements par défaut.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt utilise des conventions et une structure de répertoires opinionée pour automatiser les tâches répétitives et permettre aux développeurs de se concentrer sur le développement de fonctionnalités. Le fichier de configuration permet néanmoins de personnaliser et de surcharger ses comportements par défaut."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

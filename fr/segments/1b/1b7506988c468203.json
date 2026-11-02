@@ -1,0 +1,14 @@
+{
+  "hash": "1b7506988c468203",
+  "source": "You can have full control over the HTML template by adding a Nitro plugin that registers a hook. The callback function of the {0} hook allows you to mutate the HTML before it is sent to the client.",
+  "text": "Vous pouvez avoir un contrôle total sur le template HTML en ajoutant un plugin Nitro qui enregistre un hook. La fonction de rappel du hook {0} vous permet de modifier le HTML avant qu'il ne soit envoyé au client.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez avoir un contrôle total sur le template HTML en ajoutant un plugin Nitro qui enregistre un hook. La fonction de rappel du hook {0} vous permet de modifier le HTML avant qu'il ne soit envoyé au client."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

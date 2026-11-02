@@ -1,0 +1,14 @@
+{
+  "hash": "321ecc2a895edb10",
+  "source": "**Code splitting:** Nuxt automatically splits your code into smaller chunks, which can help reduce the initial load time of your application.",
+  "text": "**Découpage du code :** Nuxt divise automatiquement votre code en plus petits morceaux (chunks), ce qui peut aider à réduire le temps de chargement initial de votre application.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Découpage du code :** Nuxt divise automatiquement votre code en plus petits morceaux (chunks), ce qui peut aider à réduire le temps de chargement initial de votre application."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

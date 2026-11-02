@@ -1,0 +1,14 @@
+{
+  "hash": "b93d46d47e1b2796",
+  "source": "The private keys which are only available server-side",
+  "text": "Les clés privées, disponibles uniquement côté serveur",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les clés privées, disponibles uniquement côté serveur"
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

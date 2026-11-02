@@ -1,0 +1,14 @@
+{
+  "hash": "cfcd830bf5896106",
+  "source": "**Faster initial page load time:** Nuxt sends a fully rendered HTML page to the browser, which can be displayed immediately. This can provide a faster perceived page load time and a better user experience (UX), especially on slower networks or devices.",
+  "text": "**Temps de chargement initial de la page plus rapide :** Nuxt envoie au navigateur une page HTML entièrement rendue, qui peut être affichée immédiatement. Cela peut offrir un temps de chargement perçu plus rapide et une meilleure expérience utilisateur (UX), en particulier sur des réseaux ou des appareils plus lents.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Temps de chargement initial de la page plus rapide :** Nuxt envoie au navigateur une page HTML entièrement rendue, qui peut être affichée immédiatement. Cela peut offrir un temps de chargement perçu plus rapide et une meilleure expérience utilisateur (UX), en particulier sur des réseaux ou des appareils plus lents."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

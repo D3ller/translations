@@ -1,0 +1,14 @@
+{
+  "hash": "5c0e072d9af475fa",
+  "source": "Get started with Nuxt quickly with our online starters or start locally with your terminal.",
+  "text": "Démarrez rapidement avec Nuxt grâce à nos starters en ligne, ou commencez en local depuis votre terminal.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Démarrez rapidement avec Nuxt grâce à nos starters en ligne, ou commencez en local depuis votre terminal."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

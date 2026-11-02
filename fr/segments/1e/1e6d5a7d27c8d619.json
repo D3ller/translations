@@ -1,0 +1,14 @@
+{
+  "hash": "1e6d5a7d27c8d619",
+  "source": "Nuxt takes care of these and provides both frontend and backend functionality so you can focus on what matters: **creating your web application**.",
+  "text": "Nuxt s'occupe de tout cela et fournit des fonctionnalités frontend et backend afin que vous puissiez vous concentrer sur l'essentiel : **créer votre application web**.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt s'occupe de tout cela et fournit des fonctionnalités frontend et backend afin que vous puissiez vous concentrer sur l'essentiel : **créer votre application web**."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

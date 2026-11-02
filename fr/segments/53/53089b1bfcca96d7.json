@@ -1,0 +1,14 @@
+{
+  "hash": "53089b1bfcca96d7",
+  "source": "Public Directory",
+  "text": "Répertoire public",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Répertoire public"
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

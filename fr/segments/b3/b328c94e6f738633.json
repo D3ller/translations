@@ -1,0 +1,14 @@
+{
+  "hash": "b328c94e6f738633",
+  "source": "We recommend reading each concept to have a full vision of Nuxt capabilities and the scope of each package.",
+  "text": "Nous vous recommandons de lire chaque concept pour avoir une vision complète des capacités de Nuxt et du périmètre de chaque package.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nous vous recommandons de lire chaque concept pour avoir une vision complète des capacités de Nuxt et du périmètre de chaque package."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

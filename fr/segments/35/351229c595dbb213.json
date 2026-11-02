@@ -1,0 +1,14 @@
+{
+  "hash": "351229c595dbb213",
+  "source": "**Configured build tools:** we use {0}Vite{/0} by default to support hot module replacement (HMR) in development and bundling your code for production with best-practices baked-in.",
+  "text": "**Outils de build configurés :** nous utilisons {0}Vite{/0} par défaut pour prendre en charge le remplacement à chaud des modules (HMR) en développement et pour empaqueter votre code pour la production, avec les bonnes pratiques intégrées.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Outils de build configurés :** nous utilisons {0}Vite{/0} par défaut pour prendre en charge le remplacement à chaud des modules (HMR) en développement et pour empaqueter votre code pour la production, avec les bonnes pratiques intégrées."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

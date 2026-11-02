@@ -1,0 +1,14 @@
+{
+  "hash": "dd0249e25064a481",
+  "source": "Environment Variables and Private Tokens",
+  "text": "Variables d'environnement et jetons privés",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Variables d'environnement et jetons privés"
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

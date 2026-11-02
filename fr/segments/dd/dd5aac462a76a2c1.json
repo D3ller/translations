@@ -1,0 +1,14 @@
+{
+  "hash": "dd5aac462a76a2c1",
+  "source": "**Better performance on low-powered devices:** it reduces the amount of JavaScript that needs to be downloaded and executed on the client-side, which can be beneficial for low-powered devices that may struggle with processing heavy JavaScript applications.",
+  "text": "**Meilleures performances sur les appareils peu puissants :** cela réduit la quantité de JavaScript à télécharger et à exécuter côté client, ce qui peut être bénéfique pour les appareils peu puissants qui peuvent avoir du mal à exécuter des applications JavaScript lourdes.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Meilleures performances sur les appareils peu puissants :** cela réduit la quantité de JavaScript à télécharger et à exécuter côté client, ce qui peut être bénéfique pour les appareils peu puissants qui peuvent avoir du mal à exécuter des applications JavaScript lourdes."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

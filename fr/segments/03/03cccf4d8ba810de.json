@@ -1,0 +1,14 @@
+{
+  "hash": "03cccf4d8ba810de",
+  "source": "**Improved SEO:** search engines can better index SSR pages because the HTML content is available immediately, rather than requiring JavaScript to render the content on the client-side.",
+  "text": "**SEO amélioré :** les moteurs de recherche peuvent mieux indexer les pages en SSR, car le contenu HTML est disponible immédiatement, au lieu de nécessiter JavaScript pour rendre le contenu côté client.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**SEO amélioré :** les moteurs de recherche peuvent mieux indexer les pages en SSR, car le contenu HTML est disponible immédiatement, au lieu de nécessiter JavaScript pour rendre le contenu côté client."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

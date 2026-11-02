@@ -1,0 +1,14 @@
+{
+  "hash": "c8446250801201e9",
+  "source": "When the possible files are known, list their imports explicitly:",
+  "text": "Lorsque les fichiers possibles sont connus, listez explicitement leurs imports :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque les fichiers possibles sont connus, listez explicitement leurs imports :"
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

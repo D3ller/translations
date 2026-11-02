@@ -1,0 +1,14 @@
+{
+  "hash": "acdb9501fdaf8d0f",
+  "source": "If you want to create more layouts and learn how to use them in your pages, find more information in the {0}Layouts section{/0}.",
+  "text": "Si vous souhaitez créer d'autres layouts et apprendre à les utiliser dans vos pages, consultez la {0}section Layouts{/0} pour plus d'informations.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous souhaitez créer d'autres layouts et apprendre à les utiliser dans vos pages, consultez la {0}section Layouts{/0} pour plus d'informations."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

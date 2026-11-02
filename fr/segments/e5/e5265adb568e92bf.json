@@ -1,0 +1,14 @@
+{
+  "hash": "e5265adb568e92bf",
+  "source": "You can also intercept the response here.",
+  "text": "Vous pouvez également intercepter la réponse ici.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez également intercepter la réponse ici."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

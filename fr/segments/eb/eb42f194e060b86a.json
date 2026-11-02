@@ -1,0 +1,14 @@
+{
+  "hash": "eb42f194e060b86a",
+  "source": "By default, Nuxt will treat this file as the **entrypoint** and render its content for every route of the application.",
+  "text": "Par défaut, Nuxt traitera ce fichier comme le **point d'entrée** et affichera son contenu pour chaque route de l'application.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par défaut, Nuxt traitera ce fichier comme le **point d'entrée** et affichera son contenu pour chaque route de l'application."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

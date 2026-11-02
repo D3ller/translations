@@ -1,0 +1,14 @@
+{
+  "hash": "ad7a1ea5c892a6e8",
+  "source": "Server-Side Rendering",
+  "text": "Rendu côté serveur",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Rendu côté serveur"
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

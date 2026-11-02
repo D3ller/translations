@@ -1,0 +1,14 @@
+{
+  "hash": "653b523a9019efda",
+  "source": "This will be an object representation of the html template.",
+  "text": "Ce sera une représentation sous forme d'objet du template HTML.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ce sera une représentation sous forme d'objet du template HTML."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

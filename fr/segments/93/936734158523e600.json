@@ -1,0 +1,14 @@
+{
+  "hash": "936734158523e600",
+  "source": "Nuxt is configured with sensible defaults to make you productive.",
+  "text": "Nuxt est configuré avec des valeurs par défaut judicieuses pour vous rendre productif.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt est configuré avec des valeurs par défaut judicieuses pour vous rendre productif."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

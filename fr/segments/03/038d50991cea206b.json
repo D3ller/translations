@@ -1,0 +1,14 @@
+{
+  "hash": "038d50991cea206b",
+  "source": "As stated above, {0} and {1} are both used to expose variables to the rest of your application. To determine whether you should use one or the other, here are some guidelines:",
+  "text": "Comme indiqué plus haut, {0} et {1} servent tous deux à exposer des variables au reste de votre application. Pour déterminer lequel utiliser, voici quelques indications :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Comme indiqué plus haut, {0} et {1} servent tous deux à exposer des variables au reste de votre application. Pour déterminer lequel utiliser, voici quelques indications :"
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

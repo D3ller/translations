@@ -1,0 +1,14 @@
+{
+  "hash": "9a6776d6b69ea6c1",
+  "source": "Watch a video from Alexander Lichter about the env-aware nuxt.config.ts",
+  "text": "Regardez une vidéo d'Alexander Lichter sur le nuxt.config.ts adapté à l'environnement",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Regardez une vidéo d'Alexander Lichter sur le nuxt.config.ts adapté à l'environnement"
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

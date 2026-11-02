@@ -1,0 +1,14 @@
+{
+  "hash": "31d2cb21173ac58b",
+  "source": "A bound {0} whose value is assembled at runtime is opaque to the build tool, so none of that rewriting happens. The string is used exactly as written:",
+  "text": "Un {0} lié dont la valeur est assemblée à l'exécution est opaque pour l'outil de build, donc aucune de ces réécritures n'a lieu. La chaîne est utilisée exactement telle qu'elle est écrite :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un {0} lié dont la valeur est assemblée à l'exécution est opaque pour l'outil de build, donc aucune de ces réécritures n'a lieu. La chaîne est utilisée exactement telle qu'elle est écrite :"
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

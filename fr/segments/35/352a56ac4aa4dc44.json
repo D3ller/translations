@@ -1,0 +1,14 @@
+{
+  "hash": "352a56ac4aa4dc44",
+  "source": "Glob imports are lazy by default. Add {0} if the URLs must be available synchronously:",
+  "text": "Les imports glob sont paresseux (lazy) par défaut. Ajoutez {0} si les URL doivent être disponibles de manière synchrone :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les imports glob sont paresseux (lazy) par défaut. Ajoutez {0} si les URL doivent être disponibles de manière synchrone :"
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

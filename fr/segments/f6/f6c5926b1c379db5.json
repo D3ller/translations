@@ -1,0 +1,14 @@
+{
+  "hash": "f6c5926b1c379db5",
+  "source": "With Vite",
+  "text": "Avec Vite",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Avec Vite"
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

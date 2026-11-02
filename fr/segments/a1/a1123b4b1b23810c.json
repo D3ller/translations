@@ -1,0 +1,14 @@
+{
+  "hash": "a1123b4b1b23810c",
+  "source": "Play Online",
+  "text": "Essayer en ligne",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Essayer en ligne"
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

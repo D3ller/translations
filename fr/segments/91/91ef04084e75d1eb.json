@@ -1,0 +1,14 @@
+{
+  "hash": "91ef04084e75d1eb",
+  "source": "Static paths are rewritten: app.baseURL is applied at runtime, and the bundled file is hashed.",
+  "text": "Les chemins statiques sont réécrits : app.baseURL est appliqué à l'exécution, et le fichier du bundle reçoit un hash.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les chemins statiques sont réécrits : app.baseURL est appliqué à l'exécution, et le fichier du bundle reçoit un hash."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

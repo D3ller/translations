@@ -1,0 +1,14 @@
+{
+  "hash": "96c94d3ca670bfe6",
+  "source": "**Text editor** - There is no IDE requirement, but we recommend {0}Visual Studio Code{/0} with the {1}official Vue extension{/1} (previously known as Volar) or {2}WebStorm{/2}, which, along with {3}other JetBrains IDEs{/3}, offers great Nuxt support right out-of-the-box. If you use another editor, such as Neovim, you can configure {4}Vue Language Server{/4} support by following the {5}Vue Language Tools setup guides{/5}.",
+  "text": "**Éditeur de texte** - Aucun IDE n'est exigé, mais nous recommandons {0}Visual Studio Code{/0} avec l'{1}extension officielle Vue{/1} (anciennement connue sous le nom de Volar) ou {2}WebStorm{/2} qui, comme {3}les autres IDE de JetBrains{/3}, offre un excellent support de Nuxt dès l'installation. Si vous utilisez un autre éditeur, comme Neovim, vous pouvez configurer la prise en charge de {4}Vue Language Server{/4} en suivant les {5}guides de configuration de Vue Language Tools{/5}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Éditeur de texte** - Aucun IDE n'est exigé, mais nous recommandons {0}Visual Studio Code{/0} avec l'{1}extension officielle Vue{/1} (anciennement connue sous le nom de Volar) ou {2}WebStorm{/2} qui, comme {3}les autres IDE de JetBrains{/3}, offre un excellent support de Nuxt dès l'installation. Si vous utilisez un autre éditeur, comme Neovim, vous pouvez configurer la prise en charge de {4}Vue Language Server{/4} en suivant les {5}guides de configuration de Vue Language Tools{/5}."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "1b37990fc080044c",
+  "source": "**Easier caching:** pages can be cached on the server-side, which can further improve performance by reducing the amount of time it takes to generate and send the content to the client.",
+  "text": "**Mise en cache facilitée :** les pages peuvent être mises en cache côté serveur, ce qui peut améliorer encore les performances en réduisant le temps nécessaire pour générer et envoyer le contenu au client.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Mise en cache facilitée :** les pages peuvent être mises en cache côté serveur, ce qui peut améliorer encore les performances en réduisant le temps nécessaire pour générer et envoyer le contenu au client."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

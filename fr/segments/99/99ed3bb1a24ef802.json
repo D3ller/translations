@@ -1,0 +1,14 @@
+{
+  "hash": "99ed3bb1a24ef802",
+  "source": "This does not work: the path is built at runtime, so Vite never sees it as an import.",
+  "text": "Cela ne fonctionne pas : le chemin est construit à l'exécution, donc Vite ne le voit jamais comme un import.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela ne fonctionne pas : le chemin est construit à l'exécution, donc Vite ne le voit jamais comme un import."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

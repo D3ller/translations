@@ -1,0 +1,14 @@
+{
+  "hash": "7d329ad4613bcb0c",
+  "source": "The {0} directory is used as a public server for static assets publicly available at a defined URL of your application.",
+  "text": "Le répertoire {0} sert de serveur public pour les assets statiques, accessibles publiquement à une URL définie de votre application.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le répertoire {0} sert de serveur public pour les assets statiques, accessibles publiquement à une URL définie de votre application."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "b4922f09abe47548",
+  "source": "Well done! A browser window should automatically open for {0}.",
+  "text": "Bravo ! Une fenêtre de navigateur devrait s'ouvrir automatiquement sur {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bravo ! Une fenêtre de navigateur devrait s'ouvrir automatiquement sur {0}."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

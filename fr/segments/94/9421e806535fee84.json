@@ -1,0 +1,14 @@
+{
+  "hash": "9421e806535fee84",
+  "source": "The Nuxt server engine, {0}Nitro{/0}, unlocks new full-stack capabilities.",
+  "text": "Le moteur serveur de Nuxt, {0}Nitro{/0}, ouvre de nouvelles possibilités full-stack.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le moteur serveur de Nuxt, {0}Nitro{/0}, ouvre de nouvelles possibilités full-stack."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

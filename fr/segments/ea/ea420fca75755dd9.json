@@ -1,0 +1,14 @@
+{
+  "hash": "ea420fca75755dd9",
+  "source": "You can get a file in the {0} directory from your application's code or from a browser by the root URL {1}.",
+  "text": "Vous pouvez obtenir un fichier du répertoire {0} depuis le code de votre application ou depuis un navigateur via l'URL racine {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez obtenir un fichier du répertoire {0} depuis le code de votre application ou depuis un navigateur via l'URL racine {1}."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

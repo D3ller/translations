@@ -1,0 +1,14 @@
+{
+  "hash": "b59ecf54339d2b73",
+  "source": "To use pages, create an {0} file and add {1} component to the {2} (or remove {3} for default entry). You can now create more pages and their corresponding routes by adding new files in the {4} directory.",
+  "text": "Pour utiliser les pages, créez un fichier {0} et ajoutez le composant {1} dans {2} (ou supprimez {3} pour utiliser l'entrée par défaut). Vous pouvez désormais créer d'autres pages et leurs routes correspondantes en ajoutant de nouveaux fichiers dans le répertoire {4}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour utiliser les pages, créez un fichier {0} et ajoutez le composant {1} dans {2} (ou supprimez {3} pour utiliser l'entrée par défaut). Vous pouvez désormais créer d'autres pages et leurs routes correspondantes en ajoutant de nouveaux fichiers dans le répertoire {4}."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

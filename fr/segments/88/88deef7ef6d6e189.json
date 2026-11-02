@@ -1,0 +1,14 @@
+{
+  "hash": "88deef7ef6d6e189",
+  "source": "{0}: Public tokens that are determined at build time, website configuration such as theme variant, title and any project config that are not sensitive.",
+  "text": "{0} : jetons publics déterminés au moment du build, configuration du site web comme la variante de thème, le titre et toute configuration de projet non sensible.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : jetons publics déterminés au moment du build, configuration du site web comme la variante de thème, le titre et toute configuration de projet non sensible."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "7b136f65daa4e0dc",
+  "source": "You don't have to use TypeScript to build an application with Nuxt. However, it is strongly recommended to use the {0} extension for the {1} file. This way you can benefit from hints in your IDE to avoid typos and mistakes while editing your configuration.",
+  "text": "Vous n'avez pas besoin d'utiliser TypeScript pour créer une application avec Nuxt. Il est toutefois fortement recommandé d'utiliser l'extension {0} pour le fichier {1}. Ainsi, vous bénéficiez des indications de votre IDE pour éviter les fautes de frappe et les erreurs lors de la modification de votre configuration.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous n'avez pas besoin d'utiliser TypeScript pour créer une application avec Nuxt. Il est toutefois fortement recommandé d'utiliser l'extension {0} pour le fichier {1}. Ainsi, vous bénéficiez des indications de votre IDE pour éviter les fautes de frappe et les erreurs lors de la modification de votre configuration."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "5a0861013a6d84ca",
+  "source": "**Node.js** - {0} or newer (but we recommend the {1}active LTS release{/1})",
+  "text": "**Node.js** - {0} ou une version plus récente (nous recommandons toutefois la {1}version LTS active{/1})",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Node.js** - {0} ou une version plus récente (nous recommandons toutefois la {1}version LTS active{/1})"
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

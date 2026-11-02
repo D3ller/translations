@@ -1,0 +1,14 @@
+{
+  "hash": "802dcfdd930acfe4",
+  "source": "To learn more about the mechanism behind these overrides, please refer to the {0} documentation on {1}environment-specific configuration{/1}.",
+  "text": "Pour en savoir plus sur le mécanisme à l'origine de ces surcharges, consultez la documentation de {0} sur {1}la configuration spécifique à l'environnement{/1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour en savoir plus sur le mécanisme à l'origine de ces surcharges, consultez la documentation de {0} sur {1}la configuration spécifique à l'environnement{/1}."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

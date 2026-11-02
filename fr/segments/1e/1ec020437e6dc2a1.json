@@ -1,0 +1,14 @@
+{
+  "hash": "1ec020437e6dc2a1",
+  "source": "Layouts are wrappers around pages that contain a common User Interface for several pages, such as header and footer displays. Layouts are Vue files using {0} components to display the **page** content. The {1} file will be used by default. Custom layouts can be set as part of your page metadata.",
+  "text": "Les layouts sont des enveloppes autour des pages qui contiennent une interface utilisateur commune à plusieurs pages, comme l'affichage d'un en-tête et d'un pied de page. Les layouts sont des fichiers Vue qui utilisent des composants {0} pour afficher le contenu de la **page**. Le fichier {1} sera utilisé par défaut. Des layouts personnalisés peuvent être définis dans les métadonnées de votre page.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les layouts sont des enveloppes autour des pages qui contiennent une interface utilisateur commune à plusieurs pages, comme l'affichage d'un en-tête et d'un pied de page. Les layouts sont des fichiers Vue qui utilisent des composants {0} pour afficher le contenu de la **page**. Le fichier {1} sera utilisé par défaut. Des layouts personnalisés peuvent être définis dans les métadonnées de votre page."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

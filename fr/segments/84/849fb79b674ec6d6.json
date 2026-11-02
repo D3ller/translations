@@ -1,0 +1,14 @@
+{
+  "hash": "849fb79b674ec6d6",
+  "source": "Every option is described in the **Configuration Reference**.",
+  "text": "Chaque option est décrite dans la **référence de configuration**.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Chaque option est décrite dans la **référence de configuration**."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

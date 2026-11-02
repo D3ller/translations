@@ -1,0 +1,14 @@
+{
+  "hash": "7f78fad29a129460",
+  "source": "In your application's code, you can reference a file located in the {0} directory by using the {1} path.",
+  "text": "Dans le code de votre application, vous pouvez référencer un fichier situé dans le répertoire {0} en utilisant le chemin {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans le code de votre application, vous pouvez référencer un fichier situé dans le répertoire {0} en utilisant le chemin {1}."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

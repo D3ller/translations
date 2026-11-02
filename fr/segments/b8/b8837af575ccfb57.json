@@ -1,0 +1,14 @@
+{
+  "hash": "b8837af575ccfb57",
+  "source": "When many files share a directory and extension, use a {0}variable dynamic import{/0} instead of listing every file:",
+  "text": "Lorsque de nombreux fichiers partagent un même répertoire et une même extension, utilisez un {0}import dynamique avec variable{/0} plutôt que de lister chaque fichier :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque de nombreux fichiers partagent un même répertoire et une même extension, utilisez un {0}import dynamique avec variable{/0} plutôt que de lister chaque fichier :"
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

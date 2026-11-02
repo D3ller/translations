@@ -1,0 +1,14 @@
+{
+  "hash": "82165f64ff06f000",
+  "source": "This will override the value of apiSecret",
+  "text": "Cela remplacera la valeur de apiSecret",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela remplacera la valeur de apiSecret"
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

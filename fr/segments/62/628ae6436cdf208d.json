@@ -1,0 +1,14 @@
+{
+  "hash": "628ae6436cdf208d",
+  "source": "If you're using Docker or want a consistent development environment across machines, consider using a dev container. {0}Learn more about dev containers.{/0}",
+  "text": "Si vous utilisez Docker ou souhaitez disposer d'un environnement de développement cohérent d'une machine à l'autre, envisagez d'utiliser un dev container. {0}En savoir plus sur les dev containers.{/0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous utilisez Docker ou souhaitez disposer d'un environnement de développement cohérent d'une machine à l'autre, envisagez d'utiliser un dev container. {0}En savoir plus sur les dev containers.{/0}"
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

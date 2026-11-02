@@ -1,0 +1,14 @@
+{
+  "hash": "cd6597fd0167ded2",
+  "source": "Nuxt Modules Concept",
+  "text": "Concept des modules Nuxt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Concept des modules Nuxt"
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

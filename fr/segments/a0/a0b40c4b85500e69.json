@@ -1,0 +1,14 @@
+{
+  "hash": "a0b40c4b85500e69",
+  "source": "A Nuxt application can be deployed on a Node or Deno server, pre-rendered to be hosted in static environments, or deployed to serverless and edge providers.",
+  "text": "Une application Nuxt peut être déployée sur un serveur Node ou Deno, prérendue pour être hébergée dans des environnements statiques, ou déployée chez des fournisseurs serverless et edge.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une application Nuxt peut être déployée sur un serveur Node ou Deno, prérendue pour être hébergée dans des environnements statiques, ou déployée chez des fournisseurs serverless et edge."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

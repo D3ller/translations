@@ -1,0 +1,14 @@
+{
+  "hash": "03f2499ac39ec771",
+  "source": "Since Nuxt 3.9 and Vue 3.4, {0} has been moved from Vue to Vue Macros which has a {1}Nuxt integration{/1}.",
+  "text": "Depuis Nuxt 3.9 et Vue 3.4, {0} a été déplacé de Vue vers Vue Macros, qui dispose d'une {1}intégration Nuxt{/1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Depuis Nuxt 3.9 et Vue 3.4, {0} a été déplacé de Vue vers Vue Macros, qui dispose d'une {1}intégration Nuxt{/1}."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

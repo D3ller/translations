@@ -1,0 +1,14 @@
+{
+  "hash": "979b7f8d599cced5",
+  "source": "Bundlers: {0}@nuxt/vite-builder{/0}, {1}@nuxt/rspack-builder{/1} and {2}@nuxt/webpack-builder{/2}",
+  "text": "Bundlers : {0}@nuxt/vite-builder{/0}, {1}@nuxt/rspack-builder{/1} et {2}@nuxt/webpack-builder{/2}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bundlers : {0}@nuxt/vite-builder{/0}, {1}@nuxt/rspack-builder{/1} et {2}@nuxt/webpack-builder{/2}"
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

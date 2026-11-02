@@ -1,0 +1,14 @@
+{
+  "hash": "75d8918b91706e10",
+  "source": "The {0} directory contains by convention every asset that you want the build tool (Vite or webpack) to process.",
+  "text": "Le répertoire {0} contient, par convention, tous les assets que vous souhaitez faire traiter par l'outil de build (Vite ou webpack).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le répertoire {0} contient, par convention, tous les assets que vous souhaitez faire traiter par l'outil de build (Vite ou webpack)."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

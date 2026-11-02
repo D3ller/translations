@@ -1,0 +1,14 @@
+{
+  "hash": "26908061828cee78",
+  "source": "Or change directory into your new project from your terminal:",
+  "text": "Ou placez-vous dans le répertoire de votre nouveau projet depuis votre terminal :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ou placez-vous dans le répertoire de votre nouveau projet depuis votre terminal :"
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

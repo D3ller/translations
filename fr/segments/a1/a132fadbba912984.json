@@ -1,0 +1,14 @@
+{
+  "hash": "a132fadbba912984",
+  "source": "**Auto-imports:** write Vue composables and components in their respective directories and use them without having to import them with the benefits of tree-shaking and optimized JS bundles.",
+  "text": "**Imports automatiques :** écrivez des composables et des composants Vue dans leurs répertoires respectifs et utilisez-les sans avoir à les importer, avec les avantages du tree-shaking et de bundles JS optimisés.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Imports automatiques :** écrivez des composables et des composants Vue dans leurs répertoires respectifs et utilisez-les sans avoir à les importer, avec les avantages du tree-shaking et de bundles JS optimisés."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

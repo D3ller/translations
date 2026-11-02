@@ -1,0 +1,14 @@
+{
+  "hash": "2d9f844f1444a6f5",
+  "source": "In production, Nitro builds your app and server into one universal {0} directory. This output is light: minified and removed from any Node.js modules (except polyfills). You can deploy this output on any system supporting JavaScript, from Node.js, Serverless, Workers, Edge-side rendering or purely static.",
+  "text": "En production, Nitro compile votre application et votre serveur dans un seul répertoire {0} universel. Cette sortie est légère : minifiée et débarrassée de tout module Node.js (à l'exception des polyfills). Vous pouvez déployer cette sortie sur tout système prenant en charge JavaScript : Node.js, Serverless, Workers, rendu côté edge ou purement statique.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En production, Nitro compile votre application et votre serveur dans un seul répertoire {0} universel. Cette sortie est légère : minifiée et débarrassée de tout module Node.js (à l'exception des polyfills). Vous pouvez déployer cette sortie sur tout système prenant en charge JavaScript : Node.js, Serverless, Workers, rendu côté edge ou purement statique."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

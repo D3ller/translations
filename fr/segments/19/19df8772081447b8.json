@@ -1,0 +1,14 @@
+{
+  "hash": "19df8772081447b8",
+  "source": "Config File",
+  "text": "Fichier de configuration",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Fichier de configuration"
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "655fad1abff230a6",
+  "source": "Open on StackBlitz",
+  "text": "Ouvrir sur StackBlitz",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ouvrir sur StackBlitz"
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "99b5caf73cec48ac",
+  "source": "Nuxt comes with built-in server-side rendering (SSR) capabilities by default, without having to configure a server yourself, which has many benefits for web applications:",
+  "text": "Nuxt intègre par défaut des capacités de rendu côté serveur (SSR), sans que vous ayez à configurer un serveur vous-même, ce qui présente de nombreux avantages pour les applications web :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt intègre par défaut des capacités de rendu côté serveur (SSR), sans que vous ayez à configurer un serveur vous-même, ce qui présente de nombreux avantages pour les applications web :"
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

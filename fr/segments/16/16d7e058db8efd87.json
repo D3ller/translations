@@ -1,0 +1,14 @@
+{
+  "hash": "16d7e058db8efd87",
+  "source": "To select an environment when running a Nuxt CLI command, simply pass the name to the {0} flag, like so: {1}.",
+  "text": "Pour sélectionner un environnement lors de l'exécution d'une commande de la CLI Nuxt, passez simplement son nom à l'option {0}, comme ceci : {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour sélectionner un environnement lors de l'exécution d'une commande de la CLI Nuxt, passez simplement son nom à l'option {0}, comme ceci : {1}."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

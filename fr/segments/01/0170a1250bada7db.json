@@ -1,0 +1,14 @@
+{
+  "hash": "0170a1250bada7db",
+  "source": "Pages represent views for each specific route pattern. Every file in the {0} directory represents a different route displaying its content.",
+  "text": "Les pages représentent les vues de chaque modèle de route spécifique. Chaque fichier du répertoire {0} représente une route différente qui affiche son contenu.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les pages représentent les vues de chaque modèle de route spécifique. Chaque fichier du répertoire {0} représente une route différente qui affiche son contenu."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

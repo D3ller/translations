@@ -1,0 +1,14 @@
+{
+  "hash": "dc18e636721942b6",
+  "source": "Nuxt is composed of different {0}core packages{/0}:",
+  "text": "Nuxt est composé de différents {0}packages principaux{/0} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt est composé de différents {0}packages principaux{/0} :"
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

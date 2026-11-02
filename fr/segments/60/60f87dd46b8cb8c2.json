@@ -1,0 +1,14 @@
+{
+  "hash": "60f87dd46b8cb8c2",
+  "source": "Every matching asset is still included in the build output. Lazy imports load each match on demand, while an eager glob loads all matches up front and can increase the initial JavaScript size or inline small assets.",
+  "text": "Chaque asset correspondant est tout de même inclus dans la sortie du build. Les imports lazy chargent chaque correspondance à la demande, tandis qu'un glob eager charge toutes les correspondances d'emblée et peut augmenter la taille initiale du JavaScript ou intégrer les petits assets en ligne.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Chaque asset correspondant est tout de même inclus dans la sortie du build. Les imports lazy chargent chaque correspondance à la demande, tandis qu'un glob eager charge toutes les correspondances d'emblée et peut augmenter la taille initiale du JavaScript ou intégrer les petits assets en ligne."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

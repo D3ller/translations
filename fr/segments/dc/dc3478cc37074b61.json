@@ -1,0 +1,14 @@
+{
+  "hash": "dc3478cc37074b61",
+  "source": "External Configuration Files",
+  "text": "Fichiers de configuration externes",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Fichiers de configuration externes"
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

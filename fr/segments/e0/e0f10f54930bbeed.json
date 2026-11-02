@@ -1,0 +1,14 @@
+{
+  "hash": "e0f10f54930bbeed",
+  "source": "Hot module replacement",
+  "text": "Remplacement à chaud des modules",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Remplacement à chaud des modules"
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

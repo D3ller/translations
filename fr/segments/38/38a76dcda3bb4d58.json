@@ -1,0 +1,14 @@
+{
+  "hash": "38a76dcda3bb4d58",
+  "source": "**File-based routing:** define routes based on the structure of your {0}{1} directory{/0}. This can make it easier to organize your application and avoid the need for manual route configuration.",
+  "text": "**Routage basé sur les fichiers :** définissez des routes à partir de la structure de votre {0}répertoire {1}{/0}. Cela peut faciliter l'organisation de votre application et éviter d'avoir à configurer manuellement les routes.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Routage basé sur les fichiers :** définissez des routes à partir de la structure de votre {0}répertoire {1}{/0}. Cela peut faciliter l'organisation de votre application et éviter d'avoir à configurer manuellement les routes."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

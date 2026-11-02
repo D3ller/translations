@@ -1,0 +1,14 @@
+{
+  "hash": "0b55738cbd9a2988",
+  "source": "Nuxt uses two directories to handle assets like stylesheets, fonts or images.",
+  "text": "Nuxt utilise deux répertoires pour gérer les assets tels que les feuilles de style, les polices ou les images.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt utilise deux répertoires pour gérer les assets tels que les feuilles de style, les polices ou les images."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

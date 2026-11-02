@@ -1,0 +1,14 @@
+{
+  "hash": "53df55d68534f559",
+  "source": "Advanced: Extending the HTML Template",
+  "text": "Avancé : étendre le template HTML",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Avancé : étendre le template HTML"
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

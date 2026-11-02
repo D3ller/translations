@@ -1,0 +1,14 @@
+{
+  "hash": "687b980c8455b85a",
+  "source": "Components are reusable pieces of UI",
+  "text": "Les composants sont des éléments d'interface réutilisables",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les composants sont des éléments d'interface réutilisables"
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

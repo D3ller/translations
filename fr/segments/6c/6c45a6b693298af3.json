@@ -1,0 +1,14 @@
+{
+  "hash": "6c45a6b693298af3",
+  "source": "If you need to pass options to {0} or {1}, you can do this in your {2} file.",
+  "text": "Si vous devez passer des options à {0} ou à {1}, vous pouvez le faire dans votre fichier {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous devez passer des options à {0} ou à {1}, vous pouvez le faire dans votre fichier {2}."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

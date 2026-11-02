@@ -1,0 +1,14 @@
+{
+  "hash": "0afde654918ab7c9",
+  "source": "**Node.js**: Make sure to use an even numbered version (22, 24, etc.)",
+  "text": "**Node.js** : veillez à utiliser une version paire (22, 24, etc.)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Node.js** : veillez à utiliser une version paire (22, 24, etc.)"
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

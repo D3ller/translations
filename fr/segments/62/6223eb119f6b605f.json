@@ -1,0 +1,14 @@
+{
+  "hash": "6223eb119f6b605f",
+  "source": "Create a New Project",
+  "text": "Créer un nouveau projet",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Créer un nouveau projet"
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

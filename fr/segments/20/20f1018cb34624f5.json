@@ -1,0 +1,14 @@
+{
+  "hash": "20f1018cb34624f5",
+  "source": "Overall, server-side rendering can provide a faster and more efficient user experience, as well as improve search engine optimization and accessibility.",
+  "text": "Dans l'ensemble, le rendu côté serveur peut offrir une expérience utilisateur plus rapide et plus efficace, tout en améliorant le référencement et l'accessibilité.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans l'ensemble, le rendu côté serveur peut offrir une expérience utilisateur plus rapide et plus efficace, tout en améliorant le référencement et l'accessibilité."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

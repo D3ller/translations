@@ -1,0 +1,14 @@
+{
+  "hash": "f6bd0305d45d2b4c",
+  "source": "By convention, Nuxt uses the {0} directory to store these files but there is no auto-scan functionality for this directory, and you can use any other name for it.",
+  "text": "Par convention, Nuxt utilise le répertoire {0} pour stocker ces fichiers, mais ce répertoire n'est pas analysé automatiquement et vous pouvez utiliser n'importe quel autre nom.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par convention, Nuxt utilise le répertoire {0} pour stocker ces fichiers, mais ce répertoire n'est pas analysé automatiquement et vous pouvez utiliser n'importe quel autre nom."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

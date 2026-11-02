@@ -1,0 +1,14 @@
+{
+  "hash": "3fdbae2f2a4e2c3d",
+  "source": "{0}: Private or public tokens that need to be specified after build using environment variables.",
+  "text": "{0} : jetons privés ou publics qui doivent être spécifiés après le build à l'aide de variables d'environnement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : jetons privés ou publics qui doivent être spécifiés après le build à l'aide de variables d'environnement."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "93e4ca23b6a22fe0",
+  "source": "Nuxt won't serve files in the {0} directory at a static URL like {1}. If you need a static URL, use the {2} directory.",
+  "text": "Nuxt ne sert pas les fichiers du répertoire {0} à une URL statique comme {1}. Si vous avez besoin d'une URL statique, utilisez le répertoire {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt ne sert pas les fichiers du répertoire {0} à une URL statique comme {1}. Si vous avez besoin d'une URL statique, utilisez le répertoire {2}."
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}

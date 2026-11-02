@@ -1,0 +1,14 @@
+{
+  "hash": "5031ef4be4070861",
+  "source": "Pages are views tied to a specific route",
+  "text": "Les pages sont des vues associées à une route spécifique",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les pages sont des vues associées à une route spécifique"
+  },
+  "updatedAt": "2026-11-02T11:25:09.229Z"
+}
