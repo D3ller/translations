@@ -1,0 +1,14 @@
+{
+  "hash": "dea59eb626a8d9e0",
+  "source": "{0} is a third package: a standalone CLI with no dependencies, for running commands outside a project or installing globally.",
+  "text": "{0} est un troisième package : une CLI autonome, sans dépendances, pour exécuter des commandes en dehors d'un projet ou l'installer globalement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est un troisième package : une CLI autonome, sans dépendances, pour exécuter des commandes en dehors d'un projet ou l'installer globalement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

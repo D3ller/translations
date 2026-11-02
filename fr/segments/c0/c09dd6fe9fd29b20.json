@@ -1,0 +1,14 @@
+{
+  "hash": "c09dd6fe9fd29b20",
+  "source": "We use {0}ESLint{/0} for both linting and formatting with {1}.",
+  "text": "Nous utilisons {0}ESLint{/0} à la fois pour le linting et le formatage avec {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nous utilisons {0}ESLint{/0} à la fois pour le linting et le formatage avec {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

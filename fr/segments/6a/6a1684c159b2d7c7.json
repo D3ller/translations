@@ -1,0 +1,14 @@
+{
+  "hash": "6a1684c159b2d7c7",
+  "source": "This default behavior can be modified by providing different {0}. Commonly, {1} can be used for permanent redirections.",
+  "text": "Ce comportement par défaut peut être modifié en fournissant un autre {0}. En général, {1} peut être utilisé pour les redirections permanentes.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ce comportement par défaut peut être modifié en fournissant un autre {0}. En général, {1} peut être utilisé pour les redirections permanentes."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "8280a365c98c5cd5",
+  "source": "Bear in mind that if you are extending a remote source as a layer, you will not be able to access its dependencies outside of Nuxt. For example, if the remote layer depends on an eslint plugin, this will not be usable in your eslint config. That is because these dependencies will be located in a special location ({0}) that is not accessible to your package manager.",
+  "text": "Gardez à l'esprit que si vous étendez une source distante en tant que layer, vous ne pourrez pas accéder à ses dépendances en dehors de Nuxt. Par exemple, si le layer distant dépend d'un plugin eslint, celui-ci ne sera pas utilisable dans votre configuration eslint. En effet, ces dépendances se trouveront dans un emplacement spécial ({0}) qui n'est pas accessible à votre gestionnaire de packages.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Gardez à l'esprit que si vous étendez une source distante en tant que layer, vous ne pourrez pas accéder à ses dépendances en dehors de Nuxt. Par exemple, si le layer distant dépend d'un plugin eslint, celui-ci ne sera pas utilisable dans votre configuration eslint. En effet, ces dépendances se trouveront dans un emplacement spécial ({0}) qui n'est pas accessible à votre gestionnaire de packages."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "7eb62ae540e422a0",
+  "source": "Install the {0} module in your project as well as adding it to your {1} with one command:",
+  "text": "Installez le module {0} dans votre projet et ajoutez-le à votre {1} avec une seule commande :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Installez le module {0} dans votre projet et ajoutez-le à votre {1} avec une seule commande :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

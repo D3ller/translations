@@ -1,0 +1,14 @@
+{
+  "hash": "f864903617741b95",
+  "source": "{0} writes a V8 CPU profile to {1} in your project. The build timings it reports, along with {2} and {3} in your build directory, come from Nuxt's own build profiling and need Nuxt v4.4 or later.",
+  "text": "{0} écrit un profil CPU V8 dans {1} au sein de votre projet. Les durées du build qu'il rapporte, ainsi que {2} et {3} dans votre répertoire de build, proviennent du profilage de build propre à Nuxt et nécessitent Nuxt v4.4 ou une version ultérieure.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} écrit un profil CPU V8 dans {1} au sein de votre projet. Les durées du build qu'il rapporte, ainsi que {2} et {3} dans votre répertoire de build, proviennent du profilage de build propre à Nuxt et nécessitent Nuxt v4.4 ou une version ultérieure."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

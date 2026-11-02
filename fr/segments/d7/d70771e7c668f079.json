@@ -1,0 +1,14 @@
+{
+  "hash": "d70771e7c668f079",
+  "source": "You can fill that gap by adding an {0} file. Its contents are inserted directly into the HTML returned by the server, so they are visible before the Nuxt client bundle has loaded.",
+  "text": "Vous pouvez combler ce vide en ajoutant un fichier {0}. Son contenu est inséré directement dans le HTML renvoyé par le serveur ; il est donc visible avant le chargement du bundle client de Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez combler ce vide en ajoutant un fichier {0}. Son contenu est inséré directement dans le HTML renvoyé par le serveur ; il est donc visible avant le chargement du bundle client de Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

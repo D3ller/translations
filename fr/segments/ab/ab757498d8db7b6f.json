@@ -1,0 +1,14 @@
+{
+  "hash": "ab757498d8db7b6f",
+  "source": "It is not currently possible to use the {0}Vue 3 migration build{/0} with Nuxt 3.",
+  "text": "Il n'est actuellement pas possible d'utiliser le {0}build de migration de Vue 3{/0} avec Nuxt 3.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Il n'est actuellement pas possible d'utiliser le {0}build de migration de Vue 3{/0} avec Nuxt 3."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "d4c4b17658d36c07",
+  "source": "Non-paint-critical scoped styles on nested async components are fine: the brief flash only matters for above-the-fold content.",
+  "text": "Les styles scoped non critiques pour l'affichage sur des composants asynchrones imbriqués ne posent pas de problème : le bref flash n'a d'importance que pour le contenu visible sans défilement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les styles scoped non critiques pour l'affichage sur des composants asynchrones imbriqués ne posent pas de problème : le bref flash n'a d'importance que pour le contenu visible sans défilement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "18822763b7db4df7",
+  "source": "If you're working on a feature, then we ask that you **open a feature request issue first** to discuss with the maintainers whether the feature is desired - and the design of those features. This helps save time for both the maintainers and the contributors and means that features can be shipped faster. The issue **should be confirmed** by a framework team member before building out a feature in a pull request.",
+  "text": "Si vous travaillez sur une fonctionnalité, nous vous demandons d'**ouvrir d'abord une issue de demande de fonctionnalité** afin de discuter avec les mainteneurs de l'intérêt de la fonctionnalité, ainsi que de sa conception. Cela permet de gagner du temps, tant pour les mainteneurs que pour les contributeurs, et de livrer les fonctionnalités plus rapidement. L'issue **doit être confirmée** par un membre de l'équipe du framework avant de développer une fonctionnalité dans une pull request.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous travaillez sur une fonctionnalité, nous vous demandons d'**ouvrir d'abord une issue de demande de fonctionnalité** afin de discuter avec les mainteneurs de l'intérêt de la fonctionnalité, ainsi que de sa conception. Cela permet de gagner du temps, tant pour les mainteneurs que pour les contributeurs, et de livrer les fonctionnalités plus rapidement. L'issue **doit être confirmée** par un membre de l'équipe du framework avant de développer une fonctionnalité dans une pull request."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

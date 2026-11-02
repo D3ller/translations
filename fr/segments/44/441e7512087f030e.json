@@ -1,0 +1,14 @@
+{
+  "hash": "441e7512087f030e",
+  "source": "This works on both server and client",
+  "text": "Cela fonctionne à la fois côté serveur et côté client",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela fonctionne à la fois côté serveur et côté client"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

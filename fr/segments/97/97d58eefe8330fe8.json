@@ -1,0 +1,14 @@
+{
+  "hash": "97d58eefe8330fe8",
+  "source": "{0} returns the same values as {1}.",
+  "text": "{0} retourne les mêmes valeurs que {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} retourne les mêmes valeurs que {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

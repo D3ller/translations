@@ -1,0 +1,14 @@
+{
+  "hash": "36a51cc87d6753fc",
+  "source": "By default, Nuxt uses {0}, which provides standalone Nitro integration. This architecture allows for different Nitro integration patterns, such as using Nitro as a Vite plugin (with the Vite Environment API).",
+  "text": "Par défaut, Nuxt utilise {0}, qui fournit une intégration autonome de Nitro. Cette architecture permet différents modèles d'intégration de Nitro, comme l'utilisation de Nitro en tant que plugin Vite (avec l'API Vite Environment).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par défaut, Nuxt utilise {0}, qui fournit une intégration autonome de Nitro. Cette architecture permet différents modèles d'intégration de Nitro, comme l'utilisation de Nitro en tant que plugin Vite (avec l'API Vite Environment)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

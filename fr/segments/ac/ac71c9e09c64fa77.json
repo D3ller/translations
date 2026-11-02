@@ -1,0 +1,14 @@
+{
+  "hash": "ac71c9e09c64fa77",
+  "source": "The {0} directory allows you to share code that can be used in both the Vue app and the Nitro server.",
+  "text": "Le répertoire {0} vous permet de partager du code utilisable à la fois dans l'application Vue et dans le serveur Nitro.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le répertoire {0} vous permet de partager du code utilisable à la fois dans l'application Vue et dans le serveur Nitro."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

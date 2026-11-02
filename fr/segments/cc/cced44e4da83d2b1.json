@@ -1,0 +1,14 @@
+{
+  "hash": "cced44e4da83d2b1",
+  "source": "Next, we need to import and add it to our {0} file:",
+  "text": "Ensuite, importez-le et ajoutez-le à votre fichier {0} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ensuite, importez-le et ajoutez-le à votre fichier {0} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

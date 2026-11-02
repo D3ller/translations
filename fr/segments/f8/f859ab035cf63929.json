@@ -1,0 +1,14 @@
+{
+  "hash": "f859ab035cf63929",
+  "source": "{0}: Default page title",
+  "text": "{0} : titre de page par défaut",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : titre de page par défaut"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

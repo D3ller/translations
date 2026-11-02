@@ -1,0 +1,14 @@
+{
+  "hash": "f7b9bf03ac4b538e",
+  "source": "\"Using Nuxt documentation from {0}\"",
+  "text": "« Utilise la documentation de Nuxt disponible sur {0} »",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "« Utilise la documentation de Nuxt disponible sur {0} »"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

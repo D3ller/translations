@@ -1,0 +1,14 @@
+{
+  "hash": "0f76440b1611bb06",
+  "source": "The option has no effect when {0} is enabled.",
+  "text": "L'option n'a aucun effet lorsque {0} est activé.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'option n'a aucun effet lorsque {0} est activé."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "41fbaedfc8d65b66",
+  "source": "OptimizeCSSAssets plugin options.",
+  "text": "Options du plugin OptimizeCSSAssets.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Options du plugin OptimizeCSSAssets."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "30cc814f0582f19a",
+  "source": "The server's runtime hooks: renderer hooks such as {0}, and those declared on {1}.",
+  "text": "Les hooks d'exécution du serveur : les hooks du moteur de rendu tels que {0}, et ceux déclarés dans {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les hooks d'exécution du serveur : les hooks du moteur de rendu tels que {0}, et ceux déclarés dans {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

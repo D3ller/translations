@@ -1,0 +1,14 @@
+{
+  "hash": "ccbcebace4a563f2",
+  "source": "**options**: A object to pass to the route configuration. If {0} is set to {1}, it will override the existing route configuration.",
+  "text": "**options** : un objet à transmettre à la configuration de la route. Si {0} est défini sur {1}, il remplacera la configuration de route existante.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**options** : un objet à transmettre à la configuration de la route. Si {0} est défini sur {1}, il remplacera la configuration de route existante."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

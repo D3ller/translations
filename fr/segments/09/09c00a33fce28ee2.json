@@ -1,0 +1,14 @@
+{
+  "hash": "09c00a33fce28ee2",
+  "source": "E2001",
+  "text": "E2001",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "E2001"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

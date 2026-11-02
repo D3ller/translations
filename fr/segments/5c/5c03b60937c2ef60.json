@@ -1,0 +1,14 @@
+{
+  "hash": "5c03b60937c2ef60",
+  "source": "**Server-only head composables**: {0}, {1} and {2} are no longer auto-imported, {3} is ignored, Unhead's legacy plugins are no longer registered and Capo sorting is always on",
+  "text": "**Composables head réservés au serveur** : {0}, {1} et {2} ne sont plus importés automatiquement, {3} est ignoré, les plugins hérités d'Unhead ne sont plus enregistrés et le tri Capo est toujours activé",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Composables head réservés au serveur** : {0}, {1} et {2} ne sont plus importés automatiquement, {3} est ignoré, les plugins hérités d'Unhead ne sont plus enregistrés et le tri Capo est toujours activé"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

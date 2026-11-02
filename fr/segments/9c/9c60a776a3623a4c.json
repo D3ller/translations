@@ -1,0 +1,14 @@
+{
+  "hash": "9c60a776a3623a4c",
+  "source": "**Most projects will not need changes**, as this corrects the loading order to match expected behavior.",
+  "text": "**La plupart des projets n'auront pas besoin de modifications**, car cela corrige l'ordre de chargement pour qu'il corresponde au comportement attendu.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**La plupart des projets n'auront pas besoin de modifications**, car cela corrige l'ordre de chargement pour qu'il corresponde au comportement attendu."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

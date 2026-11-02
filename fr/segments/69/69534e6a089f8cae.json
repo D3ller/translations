@@ -1,0 +1,14 @@
+{
+  "hash": "69534e6a089f8cae",
+  "source": "By default, Nuxt doesn't check types when you run {0} or {1}, for performance reasons.",
+  "text": "Par défaut, Nuxt ne vérifie pas les types lorsque vous exécutez {0} ou {1}, pour des raisons de performance.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par défaut, Nuxt ne vérifie pas les types lorsque vous exécutez {0} ou {1}, pour des raisons de performance."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

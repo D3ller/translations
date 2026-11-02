@@ -1,0 +1,14 @@
+{
+  "hash": "07b55a842a7ccbd4",
+  "source": "The function name. Use {0} for default exports (the callable name will be derived from the filename in camelCase).",
+  "text": "Le nom de la fonction. Utilisez {0} pour les exports par défaut (le nom appelable sera dérivé du nom du fichier en camelCase).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le nom de la fonction. Utilisez {0} pour les exports par défaut (le nom appelable sera dérivé du nom du fichier en camelCase)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

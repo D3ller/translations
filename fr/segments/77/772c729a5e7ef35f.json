@@ -1,0 +1,14 @@
+{
+  "hash": "772c729a5e7ef35f",
+  "source": "The boundary is the shell flush:",
+  "text": "La limite est l'envoi de l'enveloppe :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La limite est l'envoi de l'enveloppe :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

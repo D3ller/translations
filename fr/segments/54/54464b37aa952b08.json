@@ -1,0 +1,14 @@
+{
+  "hash": "54464b37aa952b08",
+  "source": "Called when there is a newer version of your app detected.",
+  "text": "Appelé lorsqu'une version plus récente de votre application est détectée.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appelé lorsqu'une version plus récente de votre application est détectée."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

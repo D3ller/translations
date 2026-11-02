@@ -1,0 +1,14 @@
+{
+  "hash": "4a33762b3676942f",
+  "source": "The dev command starts a development server with hot module replacement at http://localhost:3000",
+  "text": "La commande dev démarre un serveur de développement avec remplacement à chaud des modules (HMR) sur http ://localhost:3000",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La commande dev démarre un serveur de développement avec remplacement à chaud des modules (HMR) sur http ://localhost:3000"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

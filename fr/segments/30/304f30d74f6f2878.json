@@ -1,0 +1,14 @@
+{
+  "hash": "304f30d74f6f2878",
+  "source": "You can also preload specific components or routes from your own code with {0}, {1} and {2}.",
+  "text": "Vous pouvez également précharger des composants ou des routes spécifiques depuis votre propre code avec {0}, {1} et {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez également précharger des composants ou des routes spécifiques depuis votre propre code avec {0}, {1} et {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

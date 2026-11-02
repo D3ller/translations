@@ -1,0 +1,14 @@
+{
+  "hash": "e5b22c7b7c1750bb",
+  "source": "**Changed plugin registration**: Vite plugins registered with {0} and only targeting one environment (by passing {1} or {2}) will not have their {3} or {4} hooks called.",
+  "text": "**Changement d'enregistrement des plugins** : les plugins Vite enregistrés avec {0} et ne ciblant qu'un seul environnement (en passant {1} ou {2}) n'auront pas leurs hooks {3} ou {4} appelés.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Changement d'enregistrement des plugins** : les plugins Vite enregistrés avec {0} et ne ciblant qu'un seul environnement (en passant {1} ou {2}) n'auront pas leurs hooks {3} ou {4} appelés."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

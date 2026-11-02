@@ -1,0 +1,14 @@
+{
+  "hash": "fd5dabdad8ad3fd5",
+  "source": "You can also set layouts for specific routes using the {0} property in route rules:",
+  "text": "Vous pouvez également définir des layouts pour des routes spécifiques à l'aide de la propriété {0} dans les règles de route :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez également définir des layouts pour des routes spécifiques à l'aide de la propriété {0} dans les règles de route :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

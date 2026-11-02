@@ -1,0 +1,14 @@
+{
+  "hash": "38978870e9137e3c",
+  "source": "Scanning additional local font directories",
+  "text": "Analyse de répertoires de polices locaux supplémentaires",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Analyse de répertoires de polices locaux supplémentaires"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "7a21693dc0d49fac",
+  "source": "If you use a generic font family like {0}, we will 'translate' that generic family name into one or more font families when generating fallback metrics. You can customize which families we use. (One or two works best.)",
+  "text": "Si vous utilisez une famille de polices générique comme {0}, nous « traduirons » le nom de cette famille générique en une ou plusieurs familles de polices lors de la génération des métriques de secours. Vous pouvez personnaliser les familles que nous utilisons. (Une ou deux fonctionnent le mieux.)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous utilisez une famille de polices générique comme {0}, nous « traduirons » le nom de cette famille générique en une ou plusieurs familles de polices lors de la génération des métriques de secours. Vous pouvez personnaliser les familles que nous utilisons. (Une ou deux fonctionnent le mieux.)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

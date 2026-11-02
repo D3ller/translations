@@ -1,0 +1,14 @@
+{
+  "hash": "4bc9256471a5d629",
+  "source": "You need to disable analytics or other modules in specific environments",
+  "text": "Vous devez désactiver les outils d'analyse ou d'autres modules dans des environnements spécifiques",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous devez désactiver les outils d'analyse ou d'autres modules dans des environnements spécifiques"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

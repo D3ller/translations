@@ -1,0 +1,14 @@
+{
+  "hash": "22dd9a95e181e9d6",
+  "source": "Most of the migration is handled by Nuxt internally, but there are some user-facing changes to be aware of:",
+  "text": "La majeure partie de la migration est gérée en interne par Nuxt, mais certains changements visibles pour les utilisateurs sont à connaître :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La majeure partie de la migration est gérée en interne par Nuxt, mais certains changements visibles pour les utilisateurs sont à connaître :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

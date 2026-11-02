@@ -1,0 +1,14 @@
+{
+  "hash": "f58e83b7a50f2b0b",
+  "source": "or the selected layout's props",
+  "text": "ou les props du layout sélectionné",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "ou les props du layout sélectionné"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

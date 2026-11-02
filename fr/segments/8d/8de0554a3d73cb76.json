@@ -1,0 +1,14 @@
+{
+  "hash": "8de0554a3d73cb76",
+  "source": "render <span>Hello world</span> server-side if the default slot fails to render",
+  "text": "affiche <span>Hello world</span> côté serveur si le slot par défaut ne parvient pas à s'afficher",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "affiche <span>Hello world</span> côté serveur si le slot par défaut ne parvient pas à s'afficher"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

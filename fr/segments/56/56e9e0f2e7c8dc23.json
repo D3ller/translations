@@ -1,0 +1,14 @@
+{
+  "hash": "56e9e0f2e7c8dc23",
+  "source": "Unresolved side-effect imports were silently ignored, so a typo or a deleted file could pass type-checking. Flagging them catches these mistakes and matches the TypeScript 7 default.",
+  "text": "Les imports à effet de bord non résolus étaient ignorés silencieusement, si bien qu'une faute de frappe ou un fichier supprimé pouvait passer la vérification des types. Les signaler permet d'attraper ces erreurs et correspond à la valeur par défaut de TypeScript 7.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les imports à effet de bord non résolus étaient ignorés silencieusement, si bien qu'une faute de frappe ou un fichier supprimé pouvait passer la vérification des types. Les signaler permet d'attraper ces erreurs et correspond à la valeur par défaut de TypeScript 7."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

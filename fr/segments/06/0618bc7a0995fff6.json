@@ -1,0 +1,14 @@
+{
+  "hash": "0618bc7a0995fff6",
+  "source": "executes in server and client environments",
+  "text": "s'exécute dans les environnements serveur et client",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "s'exécute dans les environnements serveur et client"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "0960f71e5be52abe",
+  "source": "By setting {0}, these two values match, and Vue will generate a component name that matches the Nuxt pattern for component naming.",
+  "text": "En définissant {0}, ces deux valeurs correspondent, et Vue génère un nom de composant qui respecte la convention de nommage des composants de Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En définissant {0}, ces deux valeurs correspondent, et Vue génère un nom de composant qui respecte la convention de nommage des composants de Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

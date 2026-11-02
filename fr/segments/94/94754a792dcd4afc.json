@@ -1,0 +1,14 @@
+{
+  "hash": "94754a792dcd4afc",
+  "source": "With Nuxt 3, Nuxt is now a build-time-only dependency, which means that modules shouldn't attempt to hook into the Nuxt runtime.",
+  "text": "Avec Nuxt 3, Nuxt n'est plus qu'une dépendance utilisée uniquement au moment du build, ce qui signifie que les modules ne doivent pas tenter de se brancher sur le runtime de Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Avec Nuxt 3, Nuxt n'est plus qu'une dépendance utilisée uniquement au moment du build, ce qui signifie que les modules ne doivent pas tenter de se brancher sur le runtime de Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

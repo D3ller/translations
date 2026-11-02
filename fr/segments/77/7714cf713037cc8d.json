@@ -1,0 +1,14 @@
+{
+  "hash": "7714cf713037cc8d",
+  "source": "This only affects the client environment",
+  "text": "Ceci n'affecte que l'environnement client",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ceci n'affecte que l'environnement client"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "a02ca24ab05cb349",
+  "source": "Time Strategy",
+  "text": "Stratégie de délai",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Stratégie de délai"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

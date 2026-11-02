@@ -1,0 +1,14 @@
+{
+  "hash": "d380011996deaa80",
+  "source": "{0}: Setup the mode, either to re-execute on navigation ({1}) or just once for the lifetime of the app ({2}). Defaults to {3}.",
+  "text": "{0} : définit le mode, soit une nouvelle exécution à chaque navigation ({1}), soit une seule fois pour toute la durée de vie de l'application ({2}). La valeur par défaut est {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : définit le mode, soit une nouvelle exécution à chaque navigation ({1}), soit une seule fois pour toute la durée de vie de l'application ({2}). La valeur par défaut est {3}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

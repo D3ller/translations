@@ -1,0 +1,14 @@
+{
+  "hash": "be0867c16b5a1d00",
+  "source": "This step is the same as the server-side execution and includes the {0} method if defined in the {1} function.",
+  "text": "Cette étape est identique à l'exécution côté serveur et inclut la méthode {0} si elle est définie dans la fonction {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cette étape est identique à l'exécution côté serveur et inclut la méthode {0} si elle est définie dans la fonction {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

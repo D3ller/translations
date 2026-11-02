@@ -1,0 +1,14 @@
+{
+  "hash": "159b298915690bd5",
+  "source": "Returns a Vue {0} representing the cookie value. Updating the ref will update the cookie (unless {1} is set). The ref is SSR-friendly and will work on both client and server.",
+  "text": "Retourne un {0} Vue représentant la valeur du cookie. La mise à jour de la ref met à jour le cookie (sauf si {1} est défini). La ref est compatible avec le SSR et fonctionne côté client comme côté serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Retourne un {0} Vue représentant la valeur du cookie. La mise à jour de la ref met à jour le cookie (sauf si {1} est défini). La ref est compatible avec le SSR et fonctionne côté client comme côté serveur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

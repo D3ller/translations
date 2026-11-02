@@ -1,0 +1,14 @@
+{
+  "hash": "a90ab2deb7894f40",
+  "source": "Install Volar following the instructions in the {0}docs{/0}.",
+  "text": "Installez Volar en suivant les instructions de la {0}documentation{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Installez Volar en suivant les instructions de la {0}documentation{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

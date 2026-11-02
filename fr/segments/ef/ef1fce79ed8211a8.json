@@ -1,0 +1,14 @@
+{
+  "hash": "ef1fce79ed8211a8",
+  "source": "**Note**: You can't reference local variables in the factory function since they are hoisted. If you need to access Vue APIs or other variables, you need to import them in your factory function.",
+  "text": "**Note** : vous ne pouvez pas référencer de variables locales dans la fonction factory, car elles sont hissées. Si vous devez accéder aux API de Vue ou à d'autres variables, vous devez les importer dans votre fonction factory.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Note** : vous ne pouvez pas référencer de variables locales dans la fonction factory, car elles sont hissées. Si vous devez accéder aux API de Vue ou à d'autres variables, vous devez les importer dans votre fonction factory."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

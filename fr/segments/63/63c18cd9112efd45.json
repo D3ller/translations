@@ -1,0 +1,14 @@
+{
+  "hash": "63c18cd9112efd45",
+  "source": "Files inside the {0} are automatically prefixed with {1} in their route.",
+  "text": "Les fichiers situés dans {0} sont automatiquement préfixés par {1} dans leur route.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les fichiers situés dans {0} sont automatiquement préfixés par {1} dans leur route."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

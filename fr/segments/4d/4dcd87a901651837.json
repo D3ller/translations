@@ -1,0 +1,14 @@
+{
+  "hash": "4dcd87a901651837",
+  "source": "Prints \"Hello name!\"",
+  "text": "Affiche « Hello name ! »",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Affiche « Hello name ! »"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

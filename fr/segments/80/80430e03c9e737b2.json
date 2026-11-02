@@ -1,0 +1,14 @@
+{
+  "hash": "80430e03c9e737b2",
+  "source": "To assist in the upgrade from Nuxt 4, module code written for Nitro v2 can keep running through a temporary compatibility layer. This guide covers what the layer does for you and how to migrate to full support for Nuxt 4 and 5",
+  "text": "Pour faciliter la migration depuis Nuxt 4, le code de module écrit pour Nitro v2 peut continuer à fonctionner grâce à une couche de compatibilité temporaire. Ce guide présente ce que fait cette couche pour vous et comment migrer vers une prise en charge complète de Nuxt 4 et 5.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour faciliter la migration depuis Nuxt 4, le code de module écrit pour Nitro v2 peut continuer à fonctionner grâce à une couche de compatibilité temporaire. Ce guide présente ce que fait cette couche pour vous et comment migrer vers une prise en charge complète de Nuxt 4 et 5."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

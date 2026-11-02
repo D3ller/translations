@@ -1,0 +1,14 @@
+{
+  "hash": "5b8742c89ff3f89b",
+  "source": "Preview mode allows you to see how your changes would be displayed on a live site without revealing them to users.",
+  "text": "Le mode prévisualisation vous permet de voir comment vos modifications s'afficheraient sur un site en production, sans les révéler aux utilisateurs.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le mode prévisualisation vous permet de voir comment vos modifications s'afficheraient sur un site en production, sans les révéler aux utilisateurs."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "0f24dd730e71bdf2",
+  "source": "ignore layout files whose name ends with -ignore.vue",
+  "text": "ignore les fichiers de layout dont le nom se termine par -ignore.vue",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "ignore les fichiers de layout dont le nom se termine par -ignore.vue"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

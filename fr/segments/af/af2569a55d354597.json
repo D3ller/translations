@@ -1,0 +1,14 @@
+{
+  "hash": "af2569a55d354597",
+  "source": "A function executed **only on the client** (called when initial Vue instance is created) to receive the data.",
+  "text": "Une fonction exécutée **uniquement sur le client** (appelée lors de la création de l'instance Vue initiale) pour recevoir les données.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une fonction exécutée **uniquement sur le client** (appelée lors de la création de l'instance Vue initiale) pour recevoir les données."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

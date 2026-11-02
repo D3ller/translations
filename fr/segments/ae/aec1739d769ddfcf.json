@@ -1,0 +1,14 @@
+{
+  "hash": "aec1739d769ddfcf",
+  "source": "For clarity, we recommend that the component's filename matches its name. So, in the example above, you could rename {0} to be {1}.",
+  "text": "Par souci de clarté, nous recommandons que le nom de fichier du composant corresponde à son nom. Ainsi, dans l'exemple ci-dessus, vous pourriez renommer {0} en {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par souci de clarté, nous recommandons que le nom de fichier du composant corresponde à son nom. Ainsi, dans l'exemple ci-dessus, vous pourriez renommer {0} en {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

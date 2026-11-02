@@ -1,0 +1,14 @@
+{
+  "hash": "429e9fa902be0135",
+  "source": "You can hook into Vue errors using {0}.",
+  "text": "Vous pouvez intercepter les erreurs Vue en utilisant {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez intercepter les erreurs Vue en utilisant {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

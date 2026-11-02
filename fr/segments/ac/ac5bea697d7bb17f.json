@@ -1,0 +1,14 @@
+{
+  "hash": "ac5bea697d7bb17f",
+  "source": "This alias ensures consistent imports across your application, regardless of the importing file's location.",
+  "text": "Cet alias garantit des imports cohérents dans toute votre application, quel que soit l'emplacement du fichier qui importe.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cet alias garantit des imports cohérents dans toute votre application, quel que soit l'emplacement du fichier qui importe."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

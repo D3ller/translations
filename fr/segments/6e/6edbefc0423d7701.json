@@ -1,0 +1,14 @@
+{
+  "hash": "6edbefc0423d7701",
+  "source": "Add {0} to the parent page component so the child route can render inside it. If you did not intend to create a nested route, restructure your {1} directory so the page no longer has child routes.",
+  "text": "Ajoutez {0} au composant de la page parente afin que la route enfant puisse s'afficher à l'intérieur. Si vous ne souhaitiez pas créer de route imbriquée, restructurez votre répertoire {1} afin que la page n'ait plus de routes enfants.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ajoutez {0} au composant de la page parente afin que la route enfant puisse s'afficher à l'intérieur. Si vous ne souhaitiez pas créer de route imbriquée, restructurez votre répertoire {1} afin que la page n'ait plus de routes enfants."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

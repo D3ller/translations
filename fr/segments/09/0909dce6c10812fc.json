@@ -1,0 +1,14 @@
+{
+  "hash": "0909dce6c10812fc",
+  "source": "{0}: Function has been called and the promise is pending",
+  "text": "{0} : la fonction a été appelée et la promesse est en attente",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : la fonction a été appelée et la promesse est en attente"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

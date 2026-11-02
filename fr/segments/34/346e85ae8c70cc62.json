@@ -1,0 +1,14 @@
+{
+  "hash": "346e85ae8c70cc62",
+  "source": "To keep downloads small, {0} loads the {1} weight range by default rather than every weight a family ships. The *configuration docs* cover how to change that, along with every other option.",
+  "text": "Pour limiter la taille des téléchargements, {0} charge par défaut la plage de graisses {1} plutôt que toutes les graisses fournies par une famille. La *documentation de configuration* explique comment modifier ce comportement, ainsi que toutes les autres options.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour limiter la taille des téléchargements, {0} charge par défaut la plage de graisses {1} plutôt que toutes les graisses fournies par une famille. La *documentation de configuration* explique comment modifier ce comportement, ainsi que toutes les autres options."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

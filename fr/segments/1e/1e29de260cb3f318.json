@@ -1,0 +1,14 @@
+{
+  "hash": "1e29de260cb3f318",
+  "source": "A {0}, streamed as the body.",
+  "text": "Un {0}, diffusé en flux comme corps de la réponse.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un {0}, diffusé en flux comme corps de la réponse."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

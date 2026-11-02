@@ -1,0 +1,14 @@
+{
+  "hash": "7c4a110460e1b567",
+  "source": "The documentation content is inside the {0} directory of the {1}nuxt/nuxt{/1} repository and written in markdown.",
+  "text": "Le contenu de la documentation se trouve dans le répertoire {0} du dépôt {1}nuxt/nuxt{/1} et est rédigé en markdown.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le contenu de la documentation se trouve dans le répertoire {0} du dépôt {1}nuxt/nuxt{/1} et est rédigé en markdown."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "d627b4e012e122dd",
+  "source": "The top level {0} configuration was a holdover from Nuxt 2. We've supported {1} for a while now, and it is the preferred way to configure prerendering in Nuxt 3+.",
+  "text": "La configuration {0} de premier niveau était un héritage de Nuxt 2. Nous prenons en charge {1} depuis un certain temps, et c'est la méthode recommandée pour configurer le prérendu dans Nuxt 3+.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La configuration {0} de premier niveau était un héritage de Nuxt 2. Nous prenons en charge {1} depuis un certain temps, et c'est la méthode recommandée pour configurer le prérendu dans Nuxt 3+."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

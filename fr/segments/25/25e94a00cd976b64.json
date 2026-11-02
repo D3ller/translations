@@ -1,0 +1,14 @@
+{
+  "hash": "25e94a00cd976b64",
+  "source": "A function that will be called with the {0} object. It should return a string or a promise that resolves to a string.",
+  "text": "Fonction qui sera appelée avec l'objet {0}. Elle doit retourner une chaîne ou une promesse qui se résout en chaîne.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Fonction qui sera appelée avec l'objet {0}. Elle doit retourner une chaîne ou une promesse qui se résout en chaîne."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

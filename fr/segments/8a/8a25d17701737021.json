@@ -1,0 +1,14 @@
+{
+  "hash": "8a25d17701737021",
+  "source": "Status of the asynchronous function call. Use it to distinguish {0}, {1}, {2}, and {3}.",
+  "text": "État de l'appel de la fonction asynchrone. Utilisez-le pour distinguer {0}, {1}, {2} et {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "État de l'appel de la fonction asynchrone. Utilisez-le pour distinguer {0}, {1}, {2} et {3}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

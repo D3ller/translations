@@ -1,0 +1,14 @@
+{
+  "hash": "a26f9b5a4c1446f7",
+  "source": "<NuxtRouteAnnouncer>",
+  "text": "<NuxtRouteAnnouncer>",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "<NuxtRouteAnnouncer>"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

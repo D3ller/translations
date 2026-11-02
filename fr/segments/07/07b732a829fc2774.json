@@ -1,0 +1,14 @@
+{
+  "hash": "07b732a829fc2774",
+  "source": "Usage of {0} is almost identical to {1} but it also allows serving modern formats like {2} when possible.",
+  "text": "L'utilisation de {0} est presque identique à celle de {1}, mais elle permet également de servir des formats modernes comme {2} lorsque c'est possible.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'utilisation de {0} est presque identique à celle de {1}, mais elle permet également de servir des formats modernes comme {2} lorsque c'est possible."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

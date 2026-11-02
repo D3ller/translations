@@ -1,0 +1,14 @@
+{
+  "hash": "101516c36ff31fb6",
+  "source": "45 minutes ago",
+  "text": "il y a 45 minutes",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "il y a 45 minutes"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

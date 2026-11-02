@@ -1,0 +1,14 @@
+{
+  "hash": "24a1c081d894e266",
+  "source": "Never hydrates the component.",
+  "text": "N'hydrate jamais le composant.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "N'hydrate jamais le composant."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

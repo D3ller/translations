@@ -1,0 +1,14 @@
+{
+  "hash": "3aabe5379dd72df8",
+  "source": "Focus Management",
+  "text": "Gestion du focus",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Gestion du focus"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

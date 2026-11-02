@@ -1,0 +1,14 @@
+{
+  "hash": "a236b60547d474e8",
+  "source": "Lazy handlers: {0}",
+  "text": "Handlers paresseux : {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Handlers paresseux : {0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

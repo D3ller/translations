@@ -1,0 +1,14 @@
+{
+  "hash": "da55b543dc7b0083",
+  "source": "These meta tags will only be added during server-side rendering",
+  "text": "Ces balises meta ne seront ajoutées que pendant le rendu côté serveur",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ces balises meta ne seront ajoutées que pendant le rendu côté serveur"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "9a2451ec921582d3",
+  "source": "This will produce {0}, {1} and {2} pages in your app. The {3} group is ignored for purposes of your URL structure.",
+  "text": "Cela produira les pages {0}, {1} et {2} dans votre application. Le groupe {3} est ignoré dans la structure de vos URL.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela produira les pages {0}, {1} et {2} dans votre application. Le groupe {3} est ignoré dans la structure de vos URL."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

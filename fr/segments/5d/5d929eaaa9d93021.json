@@ -1,0 +1,14 @@
+{
+  "hash": "5d929eaaa9d93021",
+  "source": "Tree shake code from specific builds.",
+  "text": "Élimine par tree shaking le code de certains builds spécifiques.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Élimine par tree shaking le code de certains builds spécifiques."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "628bbe3ff2886a6c",
+  "source": "A function that will be called with the {0} object. It should return a boolean indicating whether the template should be regenerated. If {1} is not provided, all templates will be regenerated.",
+  "text": "Fonction qui sera appelée avec l'objet {0}. Elle doit retourner un booléen indiquant si le template doit être régénéré. Si {1} n'est pas fourni, tous les templates seront régénérés.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Fonction qui sera appelée avec l'objet {0}. Elle doit retourner un booléen indiquant si le template doit être régénéré. Si {1} n'est pas fourni, tous les templates seront régénérés."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

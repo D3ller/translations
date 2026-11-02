@@ -1,0 +1,14 @@
+{
+  "hash": "bb17a3adc9943082",
+  "source": "Note that island responses being keyed only on name, props and context is exactly what keeps them cacheable independently of the page they appear on; this is also why they cannot see the current route (see above).",
+  "text": "Notez que le fait que les réponses des islands soient indexées uniquement par le nom, les props et le contexte est précisément ce qui les rend mettables en cache indépendamment de la page sur laquelle elles apparaissent ; c'est aussi pourquoi elles ne peuvent pas voir la route courante (voir plus haut).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Notez que le fait que les réponses des islands soient indexées uniquement par le nom, les props et le contexte est précisément ce qui les rend mettables en cache indépendamment de la page sur laquelle elles apparaissent ; c'est aussi pourquoi elles ne peuvent pas voir la route courante (voir plus haut)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

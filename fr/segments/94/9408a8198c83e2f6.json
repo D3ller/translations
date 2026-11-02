@@ -1,0 +1,14 @@
+{
+  "hash": "9408a8198c83e2f6",
+  "source": "Skip nuxt.config.ts update",
+  "text": "Ignorer la mise à jour de nuxt.config.ts",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ignorer la mise à jour de nuxt.config.ts"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

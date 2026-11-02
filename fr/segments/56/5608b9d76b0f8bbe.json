@@ -1,0 +1,14 @@
+{
+  "hash": "5608b9d76b0f8bbe",
+  "source": "If {0}, disables writing to the cookie, on both server and client. A {1} value is still returned by the composable but is never persisted to the browser.",
+  "text": "Si {0}, désactive l'écriture du cookie, côté serveur comme côté client. Une valeur {1} est tout de même retournée par le composable, mais elle n'est jamais persistée dans le navigateur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si {0}, désactive l'écriture du cookie, côté serveur comme côté client. Une valeur {1} est tout de même retournée par le composable, mais elle n'est jamais persistée dans le navigateur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

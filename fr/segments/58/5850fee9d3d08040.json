@@ -1,0 +1,14 @@
+{
+  "hash": "5850fee9d3d08040",
+  "source": "👈 run code *before* calling {0} in {1}",
+  "text": "👈 exécuter du code *avant* l'appel de {0} dans {1}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "👈 exécuter du code *avant* l'appel de {0} dans {1}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

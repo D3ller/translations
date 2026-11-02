@@ -1,0 +1,14 @@
+{
+  "hash": "21a2b387148a3b1a",
+  "source": "Nuxt modules should provide an explicit prefix for any exposed configuration, plugin, API, composable, component, or server route to avoid conflicts with other modules, Nuxt internals, or user-defined code.",
+  "text": "Les modules Nuxt doivent fournir un préfixe explicite pour toute configuration, plugin, API, composable, composant ou route serveur exposé, afin d'éviter les conflits avec d'autres modules, les éléments internes de Nuxt ou le code défini par l'utilisateur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les modules Nuxt doivent fournir un préfixe explicite pour toute configuration, plugin, API, composable, composant ou route serveur exposé, afin d'éviter les conflits avec d'autres modules, les éléments internes de Nuxt ou le code défini par l'utilisateur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

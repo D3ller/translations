@@ -1,0 +1,14 @@
+{
+  "hash": "9b7b70b893b5ff0e",
+  "source": "Within the Vue part of your Nuxt app, you will need to call {0} to access the runtime config.",
+  "text": "Dans la partie Vue de votre application Nuxt, vous devrez appeler {0} pour accéder à la runtime config.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans la partie Vue de votre application Nuxt, vous devrez appeler {0} pour accéder à la runtime config."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

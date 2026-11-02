@@ -1,0 +1,14 @@
+{
+  "hash": "26807cf490de0775",
+  "source": "Some templates take an extra flag that adds a suffix (like {0} or {1}) to the generated file name. Each value {2} and {3} accept is also a flag of its own, so {4} and {5} do the same thing.",
+  "text": "Certains templates acceptent un indicateur supplémentaire qui ajoute un suffixe (comme {0} ou {1}) au nom du fichier généré. Chaque valeur acceptée par {2} et {3} est aussi un indicateur à part entière, donc {4} et {5} produisent le même résultat.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Certains templates acceptent un indicateur supplémentaire qui ajoute un suffixe (comme {0} ou {1}) au nom du fichier généré. Chaque valeur acceptée par {2} et {3} est aussi un indicateur à part entière, donc {4} et {5} produisent le même résultat."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

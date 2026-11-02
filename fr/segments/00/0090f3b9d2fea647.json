@@ -1,0 +1,14 @@
+{
+  "hash": "0090f3b9d2fea647",
+  "source": "Components used in {0} templates are imported by a {1} entry. The same pass applies lazy hydration props such as {2}, and omits the default slot of {3} and the slots of client-only components from the server build, including when they are nested in another component's slot.",
+  "text": "Les composants utilisés dans les templates {0} sont importés par une entrée {1}. La même passe applique les props d'hydratation différée telles que {2}, et omet du build serveur le slot par défaut de {3} ainsi que les slots des composants uniquement côté client, y compris lorsqu'ils sont imbriqués dans le slot d'un autre composant.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les composants utilisés dans les templates {0} sont importés par une entrée {1}. La même passe applique les props d'hydratation différée telles que {2}, et omet du build serveur le slot par défaut de {3} ainsi que les slots des composants uniquement côté client, y compris lorsqu'ils sont imbriqués dans le slot d'un autre composant."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

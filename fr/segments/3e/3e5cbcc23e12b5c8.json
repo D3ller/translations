@@ -1,0 +1,14 @@
+{
+  "hash": "3e5cbcc23e12b5c8",
+  "source": "Selective Pre-rendering",
+  "text": "Prérendu sélectif",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Prérendu sélectif"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

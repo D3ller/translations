@@ -1,0 +1,14 @@
+{
+  "hash": "de4a4ea149e39cb3",
+  "source": "Named Route Middleware",
+  "text": "Middleware de route nommé",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Middleware de route nommé"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

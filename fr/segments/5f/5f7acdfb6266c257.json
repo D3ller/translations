@@ -1,0 +1,14 @@
+{
+  "hash": "5f7acdfb6266c257",
+  "source": "There are two key requirements:",
+  "text": "Il y a deux exigences principales :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Il y a deux exigences principales :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

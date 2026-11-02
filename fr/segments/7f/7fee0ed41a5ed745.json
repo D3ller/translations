@@ -1,0 +1,14 @@
+{
+  "hash": "7fee0ed41a5ed745",
+  "source": "In addition to Node.js servers and static hosting services, a Nuxt project can be deployed with several well-tested presets and minimal amount of configuration.",
+  "text": "En plus des serveurs Node.js et des services d'hébergement statique, un projet Nuxt peut être déployé avec plusieurs presets éprouvés et un minimum de configuration.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En plus des serveurs Node.js et des services d'hébergement statique, un projet Nuxt peut être déployé avec plusieurs presets éprouvés et un minimum de configuration."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

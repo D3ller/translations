@@ -1,0 +1,14 @@
+{
+  "hash": "40a83b937ab265aa",
+  "source": "To get the {0} of a page component, access it through {1}",
+  "text": "Pour obtenir la {0} d'un composant de page, accédez-y via {1}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour obtenir la {0} d'un composant de page, accédez-y via {1}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

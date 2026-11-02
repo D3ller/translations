@@ -1,0 +1,14 @@
+{
+  "hash": "3f95011b54180c34",
+  "source": "You are asked, defaulting to not starting.",
+  "text": "Une question vous est posée, avec l'absence de démarrage comme choix par défaut.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une question vous est posée, avec l'absence de démarrage comme choix par défaut."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

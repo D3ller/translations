@@ -1,0 +1,14 @@
+{
+  "hash": "ba2fd7f725301b63",
+  "source": "set custom layout",
+  "text": "définir un layout personnalisé",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "définir un layout personnalisé"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

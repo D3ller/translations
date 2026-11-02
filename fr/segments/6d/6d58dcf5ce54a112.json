@@ -1,0 +1,14 @@
+{
+  "hash": "6d58dcf5ce54a112",
+  "source": "Read more about prerendering, including selective prerendering and payload extraction.",
+  "text": "Découvrez-en plus sur le prérendu, notamment le prérendu sélectif et l'extraction du payload.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Découvrez-en plus sur le prérendu, notamment le prérendu sélectif et l'extraction du payload."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

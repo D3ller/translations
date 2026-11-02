@@ -1,0 +1,14 @@
+{
+  "hash": "6d944231dd6937db",
+  "source": "By default, it will also save the current {0} of your app (that is, any state you could access with {1}).",
+  "text": "Par défaut, elle sauvegarde également le {0} actuel de votre application (c'est-à-dire tout état auquel vous pouvez accéder avec {1}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par défaut, elle sauvegarde également le {0} actuel de votre application (c'est-à-dire tout état auquel vous pouvez accéder avec {1})."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "aa7a46a98f634fc6",
+  "source": "Markup shared across all pages, ex: NavBar",
+  "text": "Balisage partagé par toutes les pages, par ex. : NavBar",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Balisage partagé par toutes les pages, par ex. : NavBar"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

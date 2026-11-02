@@ -1,0 +1,14 @@
+{
+  "hash": "8114dab0eb67f5f3",
+  "source": "Vue.js Composition API (and Nuxt composables similarly) work by depending on an implicit context. During the lifecycle, Vue sets the temporary instance of the current component (and Nuxt temporary instance of nuxtApp) to a global variable and unsets it in same tick. When rendering on the server side, there are multiple requests from different users and nuxtApp running in a same global context. Because of this, Nuxt and Vue immediately unset this global instance to avoid leaking a shared reference between two users or components.",
+  "text": "L'API Composition de Vue.js (et de la même manière les composables Nuxt) repose sur un contexte implicite. Pendant le cycle de vie, Vue affecte l'instance temporaire du composant courant (et Nuxt l'instance temporaire de nuxtApp) à une variable globale, puis la désaffecte dans le même tick. Lors du rendu côté serveur, plusieurs requêtes de différents utilisateurs et plusieurs nuxtApp s'exécutent dans un même contexte global. C'est pourquoi Nuxt et Vue désaffectent immédiatement cette instance globale, afin d'éviter de divulguer une référence partagée entre deux utilisateurs ou composants.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'API Composition de Vue.js (et de la même manière les composables Nuxt) repose sur un contexte implicite. Pendant le cycle de vie, Vue affecte l'instance temporaire du composant courant (et Nuxt l'instance temporaire de nuxtApp) à une variable globale, puis la désaffecte dans le même tick. Lors du rendu côté serveur, plusieurs requêtes de différents utilisateurs et plusieurs nuxtApp s'exécutent dans un même contexte global. C'est pourquoi Nuxt et Vue désaffectent immédiatement cette instance globale, afin d'éviter de divulguer une référence partagée entre deux utilisateurs ou composants."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

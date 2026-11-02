@@ -1,0 +1,14 @@
+{
+  "hash": "28d9a0ac8ae9f7b5",
+  "source": "You can also create a global {0} file in your home directory to apply configurations globally.",
+  "text": "Vous pouvez également créer un fichier {0} global dans votre répertoire personnel afin d'appliquer des configurations de manière globale.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez également créer un fichier {0} global dans votre répertoire personnel afin d'appliquer des configurations de manière globale."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "84c9682c1cbb954f",
+  "source": "The watchers property lets you overwrite watchers configuration in your {0}.",
+  "text": "La propriété watchers vous permet de remplacer la configuration des watchers dans votre {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La propriété watchers vous permet de remplacer la configuration des watchers dans votre {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

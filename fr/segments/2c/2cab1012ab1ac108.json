@@ -1,0 +1,14 @@
+{
+  "hash": "2cab1012ab1ac108",
+  "source": "{0} namespace",
+  "text": "Espace de noms {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Espace de noms {0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

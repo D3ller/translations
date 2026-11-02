@@ -1,0 +1,14 @@
+{
+  "hash": "afbe8f7b0f0268d7",
+  "source": "Apart from the above properties, you can also set **custom** metadata. You may wish to do so in a type-safe way by {0}augmenting the type of the {1} object{/0}.",
+  "text": "En plus des propriétés ci-dessus, vous pouvez aussi définir des métadonnées **personnalisées**. Vous pouvez le faire de manière typée en {0}augmentant le type de l'objet {1}{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En plus des propriétés ci-dessus, vous pouvez aussi définir des métadonnées **personnalisées**. Vous pouvez le faire de manière typée en {0}augmentant le type de l'objet {1}{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

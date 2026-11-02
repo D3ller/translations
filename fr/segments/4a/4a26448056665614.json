@@ -1,0 +1,14 @@
+{
+  "hash": "4a26448056665614",
+  "source": "If the data comes from a user or other untrusted source, we recommend you check out {0}.",
+  "text": "Si les données proviennent d'un utilisateur ou d'une autre source non fiable, nous vous recommandons de consulter {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si les données proviennent d'un utilisateur ou d'une autre source non fiable, nous vous recommandons de consulter {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "7cf795df4a939782",
+  "source": "**{0}**: Retrieves the latest releases from Nuxt core and official modules",
+  "text": "**{0}** : récupère les dernières versions du cœur de Nuxt et des modules officiels",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** : récupère les dernières versions du cœur de Nuxt et des modules officiels"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

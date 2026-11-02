@@ -1,0 +1,14 @@
+{
+  "hash": "f9c2b7c50b5ac7f0",
+  "source": "**Review module dependencies**: Check if any modules depend on specific loading order",
+  "text": "**Vérifier les dépendances des modules** : contrôlez si certains modules dépendent d'un ordre de chargement spécifique",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Vérifier les dépendances des modules** : contrôlez si certains modules dépendent d'un ordre de chargement spécifique"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

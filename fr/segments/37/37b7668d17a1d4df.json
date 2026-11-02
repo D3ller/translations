@@ -1,0 +1,14 @@
+{
+  "hash": "37b7668d17a1d4df",
+  "source": "❌ Avoid",
+  "text": "❌ À éviter",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "❌ À éviter"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

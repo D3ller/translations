@@ -1,0 +1,14 @@
+{
+  "hash": "09697b9059df23ae",
+  "source": "Large blocks containing multiple elements can often be reduced by importing only the necessary components rather than entire modules while large standalone blocks may be better suited for lazy loading rather than being included in the main bundle.",
+  "text": "Les gros blocs contenant plusieurs éléments peuvent souvent être réduits en n'important que les composants nécessaires plutôt que des modules entiers, tandis que les gros blocs autonomes sont parfois plus adaptés à un chargement différé qu'à une inclusion dans le bundle principal.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les gros blocs contenant plusieurs éléments peuvent souvent être réduits en n'important que les composants nécessaires plutôt que des modules entiers, tandis que les gros blocs autonomes sont parfois plus adaptés à un chargement différé qu'à une inclusion dans le bundle principal."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

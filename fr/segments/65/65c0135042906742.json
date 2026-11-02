@@ -1,0 +1,14 @@
+{
+  "hash": "65c0135042906742",
+  "source": "When the dependency lives inside the {0}{1} directory{/0}, use a file path to declare the dependency:",
+  "text": "Lorsque la dépendance se trouve dans le {0}répertoire {1}{/0}, utilisez un chemin de fichier pour la déclarer :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque la dépendance se trouve dans le {0}répertoire {1}{/0}, utilisez un chemin de fichier pour la déclarer :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

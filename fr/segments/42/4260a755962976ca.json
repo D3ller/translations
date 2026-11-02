@@ -1,0 +1,14 @@
+{
+  "hash": "4260a755962976ca",
+  "source": "**Development constraints:** Server and browser environments don't provide the same APIs, and it can be tricky to write code that can run on both sides seamlessly. Fortunately, Nuxt provides guidelines and specific variables to help you determine where a piece of code is executed.",
+  "text": "**Contraintes de développement :** les environnements serveur et navigateur ne fournissent pas les mêmes API, et il peut être délicat d'écrire du code qui s'exécute sans problème des deux côtés. Heureusement, Nuxt fournit des lignes directrices et des variables spécifiques pour vous aider à déterminer où un morceau de code est exécuté.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Contraintes de développement :** les environnements serveur et navigateur ne fournissent pas les mêmes API, et il peut être délicat d'écrire du code qui s'exécute sans problème des deux côtés. Heureusement, Nuxt fournit des lignes directrices et des variables spécifiques pour vous aider à déterminer où un morceau de code est exécuté."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

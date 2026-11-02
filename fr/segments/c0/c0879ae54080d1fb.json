@@ -1,0 +1,14 @@
+{
+  "hash": "c0879ae54080d1fb",
+  "source": "... then the component's name will skip the grouping directory, resulting in:",
+  "text": "... alors le nom du composant ignorera le répertoire de regroupement, ce qui donne :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "... alors le nom du composant ignorera le répertoire de regroupement, ce qui donne :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

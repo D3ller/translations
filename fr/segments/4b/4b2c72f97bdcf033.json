@@ -1,0 +1,14 @@
+{
+  "hash": "4b2c72f97bdcf033",
+  "source": "To use these auto-imported utils and types, you must first {0}set {1} in your {2}{/0}.",
+  "text": "Pour utiliser ces utilitaires et types importés automatiquement, vous devez d'abord {0}définir {1} dans votre {2}{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour utiliser ces utilitaires et types importés automatiquement, vous devez d'abord {0}définir {1} dans votre {2}{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

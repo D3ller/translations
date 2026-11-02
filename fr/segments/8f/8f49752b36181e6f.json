@@ -1,0 +1,14 @@
+{
+  "hash": "8f49752b36181e6f",
+  "source": "We're still discussing and exploring how to ease unit and integration testing on Nuxt modules.{0}{1}{2}Check out this RFC to join the conversation{/2}.",
+  "text": "Nous continuons à discuter et à explorer comment faciliter les tests unitaires et d'intégration des modules Nuxt.{0}{1}{2}Consultez cette RFC pour participer à la discussion{/2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nous continuons à discuter et à explorer comment faciliter les tests unitaires et d'intégration des modules Nuxt.{0}{1}{2}Consultez cette RFC pour participer à la discussion{/2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

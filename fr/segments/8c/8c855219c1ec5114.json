@@ -1,0 +1,14 @@
+{
+  "hash": "8c855219c1ec5114",
+  "source": "This option enables enabling decorator syntax across your entire Nuxt/Nitro app, powered by {0}esbuild{/0}.",
+  "text": "Cette option permet d'activer la syntaxe des décorateurs dans toute votre application Nuxt/Nitro, grâce à {0}esbuild{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cette option permet d'activer la syntaxe des décorateurs dans toute votre application Nuxt/Nitro, grâce à {0}esbuild{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

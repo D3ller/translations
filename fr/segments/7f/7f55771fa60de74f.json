@@ -1,0 +1,14 @@
+{
+  "hash": "7f55771fa60de74f",
+  "source": "From small projects to large web applications, Vue keeps performing well at scale to ensure that your application keeps delivering value to your users.",
+  "text": "Des petits projets aux grandes applications web, Vue reste performant à grande échelle afin que votre application continue d'apporter de la valeur à vos utilisateurs.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Des petits projets aux grandes applications web, Vue reste performant à grande échelle afin que votre application continue d'apporter de la valeur à vos utilisateurs."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

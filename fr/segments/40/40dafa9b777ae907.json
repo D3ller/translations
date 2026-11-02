@@ -1,0 +1,14 @@
+{
+  "hash": "40dafa9b777ae907",
+  "source": "Plugins now take only one argument ({0}). You can find out more in {1}the docs{/1}.",
+  "text": "Les plugins ne prennent désormais qu'un seul argument ({0}). Vous pouvez en savoir plus dans {1}la documentation{/1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les plugins ne prennent désormais qu'un seul argument ({0}). Vous pouvez en savoir plus dans {1}la documentation{/1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

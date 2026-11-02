@@ -1,0 +1,14 @@
+{
+  "hash": "a6273fb551f223ce",
+  "source": "Playground",
+  "text": "Playground",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Playground"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

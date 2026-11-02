@@ -1,0 +1,14 @@
+{
+  "hash": "5dc95c73bf998f69",
+  "source": "Put styles that gate the initial paint in a global CSS file ({0}); these reach the shell {1}.",
+  "text": "Placez les styles qui conditionnent le premier affichage dans un fichier CSS global ({0}) ; ceux-ci atteignent le {1} du shell.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Placez les styles qui conditionnent le premier affichage dans un fichier CSS global ({0}) ; ceux-ci atteignent le {1} du shell."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

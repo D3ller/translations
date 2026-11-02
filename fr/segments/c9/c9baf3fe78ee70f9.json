@@ -1,0 +1,14 @@
+{
+  "hash": "c9baf3fe78ee70f9",
+  "source": "Every slot is interactive since the parent component is the one providing it.",
+  "text": "Chaque slot est interactif, puisque c'est le composant parent qui le fournit.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Chaque slot est interactif, puisque c'est le composant parent qui le fournit."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

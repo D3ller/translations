@@ -1,0 +1,14 @@
+{
+  "hash": "7ae205f090e6c357",
+  "source": "When making a client-side fetch request, the browser automatically sends the necessary headers. However, when making a request during server-side rendering, due to security considerations, we need to forward the headers manually.",
+  "text": "Lors d'une requête fetch côté client, le navigateur envoie automatiquement les en-têtes nécessaires. En revanche, lors d'une requête effectuée pendant le rendu côté serveur, pour des raisons de sécurité, il faut transmettre les en-têtes manuellement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lors d'une requête fetch côté client, le navigateur envoie automatiquement les en-têtes nécessaires. En revanche, lors d'une requête effectuée pendant le rendu côté serveur, pour des raisons de sécurité, il faut transmettre les en-têtes manuellement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

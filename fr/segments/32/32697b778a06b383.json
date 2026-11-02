@@ -1,0 +1,14 @@
+{
+  "hash": "32697b778a06b383",
+  "source": "**Error response format**: {0} is enabled, so page errors return the error page and server route errors return JSON, {1}regardless of the request headers{/1}",
+  "text": "**Format de réponse d'erreur** : {0} est activé, de sorte que les erreurs de page renvoient la page d'erreur et que les erreurs de route serveur renvoient du JSON, {1}quels que soient les en-têtes de la requête{/1}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Format de réponse d'erreur** : {0} est activé, de sorte que les erreurs de page renvoient la page d'erreur et que les erreurs de route serveur renvoient du JSON, {1}quels que soient les en-têtes de la requête{/1}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "ce75f12a3dc1b06a",
+  "source": "The session is unsealed once per request, so {0} may be called from as many places as you like. {1} and {2} are the same operations without the manager object.",
+  "text": "La session est descellée une seule fois par requête, donc {0} peut être appelé depuis autant d'endroits que vous le souhaitez. {1} et {2} sont les mêmes opérations, sans l'objet gestionnaire.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La session est descellée une seule fois par requête, donc {0} peut être appelé depuis autant d'endroits que vous le souhaitez. {1} et {2} sont les mêmes opérations, sans l'objet gestionnaire."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

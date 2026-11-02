@@ -1,0 +1,14 @@
+{
+  "hash": "5a5bc278cefee817",
+  "source": "Open a tunnel using {0}",
+  "text": "Ouvre un tunnel avec {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ouvre un tunnel avec {0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

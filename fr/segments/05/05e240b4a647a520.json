@@ -1,0 +1,14 @@
+{
+  "hash": "05e240b4a647a520",
+  "source": "In a Vite production build, {0} names a directory inside {1}, so the default resolves to {2}. In development, and with the webpack and rspack builders, it is a public path and defaults to {3}. See {4}where fonts are served from{/4}.",
+  "text": "Dans un build de production Vite, {0} désigne un répertoire à l'intérieur de {1}, donc la valeur par défaut correspond à {2}. En développement, ainsi qu'avec les builders webpack et rspack, il s'agit d'un chemin public dont la valeur par défaut est {3}. Voir {4}d'où les polices sont servies{/4}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans un build de production Vite, {0} désigne un répertoire à l'intérieur de {1}, donc la valeur par défaut correspond à {2}. En développement, ainsi qu'avec les builders webpack et rspack, il s'agit d'un chemin public dont la valeur par défaut est {3}. Voir {4}d'où les polices sont servies{/4}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

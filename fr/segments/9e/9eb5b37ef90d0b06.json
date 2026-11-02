@@ -1,0 +1,14 @@
+{
+  "hash": "9eb5b37ef90d0b06",
+  "source": "The return object includes the following properties:",
+  "text": "L'objet retourné inclut les propriétés suivantes :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'objet retourné inclut les propriétés suivantes :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

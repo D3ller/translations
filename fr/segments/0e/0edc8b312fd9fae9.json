@@ -1,0 +1,14 @@
+{
+  "hash": "0edc8b312fd9fae9",
+  "source": "We use the following build tools by default:",
+  "text": "Nous utilisons par défaut les outils de build suivants :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nous utilisons par défaut les outils de build suivants :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "624ee835ee1faf28",
+  "source": "{0}fontaine{/0} generates the adjusted fallback {1} rules that cut layout shift while a web font loads.",
+  "text": "{0}fontaine{/0} génère les règles {1} de repli ajustées qui réduisent le décalage de mise en page pendant le chargement d'une police web.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}fontaine{/0} génère les règles {1} de repli ajustées qui réduisent le décalage de mise en page pendant le chargement d'une police web."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

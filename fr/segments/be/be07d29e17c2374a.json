@@ -1,0 +1,14 @@
+{
+  "hash": "be07d29e17c2374a",
+  "source": "**See**: {0}esbuild loader{/0}",
+  "text": "**Voir** : {0}esbuild loader{/0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Voir** : {0}esbuild loader{/0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "d13f437e1900caf5",
+  "source": "Use the Starter Template",
+  "text": "Utiliser le template de démarrage",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utiliser le template de démarrage"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

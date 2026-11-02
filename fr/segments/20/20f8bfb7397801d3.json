@@ -1,0 +1,14 @@
+{
+  "hash": "20f8bfb7397801d3",
+  "source": "A rule defined in {0} will be applied to {1} requests.",
+  "text": "Une règle définie dans {0} sera appliquée aux requêtes {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une règle définie dans {0} sera appliquée aux requêtes {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

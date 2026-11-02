@@ -1,0 +1,14 @@
+{
+  "hash": "81bc6aa5a870042b",
+  "source": "you can choose between {0}, {1}, {2} and {3} for end-to-end test runners",
+  "text": "vous pouvez choisir entre {0}, {1}, {2} et {3} pour les exécuteurs de tests de bout en bout",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "vous pouvez choisir entre {0}, {1}, {2} et {3} pour les exécuteurs de tests de bout en bout"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

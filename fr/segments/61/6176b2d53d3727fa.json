@@ -1,0 +1,14 @@
+{
+  "hash": "6176b2d53d3727fa",
+  "source": "**Note**: Only JSON serializable options should be passed by Nuxt config. For more control, you can use an {0} file.",
+  "text": "**Remarque** : seules les options sérialisables en JSON doivent être transmises via la configuration de Nuxt. Pour plus de contrôle, vous pouvez utiliser un fichier {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Remarque** : seules les options sérialisables en JSON doivent être transmises via la configuration de Nuxt. Pour plus de contrôle, vous pouvez utiliser un fichier {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "2ba6c2b067fdbcb9",
+  "source": "By default, Nuxt recompiles a template on every watched file event because it cannot know what the template reads. If your template is built only from configuration and from which files exist, declare that so Nuxt can leave it alone when a file is edited:",
+  "text": "Par défaut, Nuxt recompile un template à chaque événement sur un fichier surveillé, car il ne peut pas savoir ce que le template lit. Si votre template est construit uniquement à partir de la configuration et de la liste des fichiers existants, déclarez-le pour que Nuxt puisse le laisser tranquille lorsqu'un fichier est modifié :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par défaut, Nuxt recompile un template à chaque événement sur un fichier surveillé, car il ne peut pas savoir ce que le template lit. Si votre template est construit uniquement à partir de la configuration et de la liste des fichiers existants, déclarez-le pour que Nuxt puisse le laisser tranquille lorsqu'un fichier est modifié :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "9dc1319d71e1a71d",
+  "source": "Lazy load the plugin - only imported when the build actually runs",
+  "text": "Charger le plugin en différé : il n'est importé que lorsque le build s'exécute réellement",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Charger le plugin en différé : il n'est importé que lorsque le build s'exécute réellement"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

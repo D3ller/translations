@@ -1,0 +1,14 @@
+{
+  "hash": "d78fd7d6953c58ce",
+  "source": "Programmatically hook to the {0} hook",
+  "text": "Se brancher au hook {0} par programmation",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Se brancher au hook {0} par programmation"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

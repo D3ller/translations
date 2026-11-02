@@ -1,0 +1,14 @@
+{
+  "hash": "46f7df52fa85f59c",
+  "source": "{0} - cancels existing requests when a new one is made",
+  "text": "{0} - annule les requêtes existantes lorsqu'une nouvelle requête est effectuée",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} - annule les requêtes existantes lorsqu'une nouvelle requête est effectuée"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

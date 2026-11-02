@@ -1,0 +1,14 @@
+{
+  "hash": "76bb4d314d01a663",
+  "source": "Since the path is resolved against the base, passing a path that already carries it is an error naming the URL that would be requested:",
+  "text": "Comme le chemin est résolu par rapport à la base, passer un chemin qui la contient déjà provoque une erreur indiquant l'URL qui serait demandée :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Comme le chemin est résolu par rapport à la base, passer un chemin qui la contient déjà provoque une erreur indiquant l'URL qui serait demandée :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

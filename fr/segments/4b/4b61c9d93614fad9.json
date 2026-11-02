@@ -1,0 +1,14 @@
+{
+  "hash": "4b61c9d93614fad9",
+  "source": "Google Antigravity",
+  "text": "Google Antigravity",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Google Antigravity"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

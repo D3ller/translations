@@ -1,0 +1,14 @@
+{
+  "hash": "4c5de32f10b09008",
+  "source": "Absolute URL, or a path resolved against the running dev server",
+  "text": "URL absolue, ou chemin résolu par rapport au serveur de développement en cours d'exécution",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "URL absolue, ou chemin résolu par rapport au serveur de développement en cours d'exécution"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "77680e40e1e52583",
+  "source": "Set the {0} value to {1}, stop all timers and intervals then reset the loading state {2} ms later. {3} accepts a {4} option to skip the interval before the state is reset, and {5} to change the loading bar color and set the error property to true.",
+  "text": "Définit la valeur de {0} à {1}, arrête tous les minuteurs et intervalles, puis réinitialise l'état de chargement {2} ms plus tard. {3} accepte une option {4} pour ignorer l'intervalle avant la réinitialisation de l'état, et {5} pour changer la couleur de la barre de chargement et définir la propriété error à true.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définit la valeur de {0} à {1}, arrête tous les minuteurs et intervalles, puis réinitialise l'état de chargement {2} ms plus tard. {3} accepte une option {4} pour ignorer l'intervalle avant la réinitialisation de l'état, et {5} pour changer la couleur de la barre de chargement et définir la propriété error à true."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

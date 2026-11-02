@@ -1,0 +1,14 @@
+{
+  "hash": "2fcf8db7309e8e1e",
+  "source": "Requests a minimal popup window instead of a new tab, with UI features decided by the browser.",
+  "text": "Demande une fenêtre popup minimale plutôt qu'un nouvel onglet, dont les fonctionnalités d'interface sont déterminées par le navigateur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Demande une fenêtre popup minimale plutôt qu'un nouvel onglet, dont les fonctionnalités d'interface sont déterminées par le navigateur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

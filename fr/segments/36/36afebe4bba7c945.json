@@ -1,0 +1,14 @@
+{
+  "hash": "36afebe4bba7c945",
+  "source": "The same lock file is how {0} and {1} find the server to talk to.",
+  "text": "Ce même fichier de verrouillage permet à {0} et {1} de trouver le serveur avec lequel communiquer.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ce même fichier de verrouillage permet à {0} et {1} de trouver le serveur avec lequel communiquer."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

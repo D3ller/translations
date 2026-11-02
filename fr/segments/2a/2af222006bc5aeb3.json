@@ -1,0 +1,14 @@
+{
+  "hash": "2af222006bc5aeb3",
+  "source": "Requests Nuxt Cannot Type",
+  "text": "Requêtes que Nuxt ne peut pas typer",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Requêtes que Nuxt ne peut pas typer"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "0b92d41b5be73538",
+  "source": "Sets the horizontal position of the new window relative to the left edge of the screen.",
+  "text": "Définit la position horizontale de la nouvelle fenêtre par rapport au bord gauche de l'écran.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définit la position horizontale de la nouvelle fenêtre par rapport au bord gauche de l'écran."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

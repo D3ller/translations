@@ -1,0 +1,14 @@
+{
+  "hash": "848e2301fbf08f82",
+  "source": "We recommend you get started with Nuxt modules using our {0}starter template{/0}:",
+  "text": "Nous vous recommandons de débuter avec les modules Nuxt en utilisant notre {0}template de démarrage{/0} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nous vous recommandons de débuter avec les modules Nuxt en utilisant notre {0}template de démarrage{/0} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

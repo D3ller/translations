@@ -1,0 +1,14 @@
+{
+  "hash": "0bdc63bbe9f0c6cb",
+  "source": "uses @nuxt/webpack-builder",
+  "text": "utilise @nuxt/webpack-builder",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "utilise @nuxt/webpack-builder"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

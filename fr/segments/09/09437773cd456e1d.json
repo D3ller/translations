@@ -1,0 +1,14 @@
+{
+  "hash": "09437773cd456e1d",
+  "source": "Allows extending default schemas.",
+  "text": "Permet d'étendre les schémas par défaut.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Permet d'étendre les schémas par défaut."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

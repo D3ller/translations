@@ -1,0 +1,14 @@
+{
+  "hash": "ca8c977be6326362",
+  "source": "The behavior is different between the client-side and server-side:",
+  "text": "Le comportement diffère entre le côté client et le côté serveur :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le comportement diffère entre le côté client et le côté serveur :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

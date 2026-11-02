@@ -1,0 +1,14 @@
+{
+  "hash": "5c60dbd77a02d044",
+  "source": "Also load the user-level and workspace-level {0} files.",
+  "text": "Charge également les fichiers {0} au niveau utilisateur et au niveau du workspace.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Charge également les fichiers {0} au niveau utilisateur et au niveau du workspace."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "6a11815992a13ab7",
+  "source": "It will handle 'smartly' making {0}direct API calls{/0} if it's running on the server, or making a client-side call to your API if it's running on the client. (It can also handle calling third-party APIs.)",
+  "text": "Elle gère « intelligemment » les {0}appels directs à l'API{/0} lorsqu'elle s'exécute côté serveur, ou effectue un appel côté client vers votre API lorsqu'elle s'exécute côté client. (Elle peut aussi gérer les appels à des API tierces.)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Elle gère « intelligemment » les {0}appels directs à l'API{/0} lorsqu'elle s'exécute côté serveur, ou effectue un appel côté client vers votre API lorsqu'elle s'exécute côté client. (Elle peut aussi gérer les appels à des API tierces.)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "d060639e0a1fb9cb",
+  "source": "{0} provides a convenient {1} composable which we'll use to check if the user is logged in, and redirect them if they are not.",
+  "text": "{0} fournit un composable {1} pratique que vous utiliserez pour vérifier si l'utilisateur est connecté et le rediriger s'il ne l'est pas.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} fournit un composable {1} pratique que vous utiliserez pour vérifier si l'utilisateur est connecté et le rediriger s'il ne l'est pas."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

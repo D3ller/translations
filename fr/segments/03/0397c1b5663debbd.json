@@ -1,0 +1,14 @@
+{
+  "hash": "0397c1b5663debbd",
+  "source": "With Nuxt, the {0} directory is optional. If it is not present, Nuxt will not include the {1}vue-router{/1} dependency. This is useful when building a landing page or an application that does not require routing.",
+  "text": "Avec Nuxt, le répertoire {0} est facultatif. S'il n'est pas présent, Nuxt n'inclura pas la dépendance {1}vue-router{/1}. C'est utile lorsque vous créez une page d'atterrissage ou une application qui ne nécessite pas de routage.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Avec Nuxt, le répertoire {0} est facultatif. S'il n'est pas présent, Nuxt n'inclura pas la dépendance {1}vue-router{/1}. C'est utile lorsque vous créez une page d'atterrissage ou une application qui ne nécessite pas de routage."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

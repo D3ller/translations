@@ -1,0 +1,14 @@
+{
+  "hash": "fef6c14b0cf2bc9b",
+  "source": "Going Deeper",
+  "text": "Aller plus loin",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Aller plus loin"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

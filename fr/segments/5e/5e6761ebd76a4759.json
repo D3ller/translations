@@ -1,0 +1,14 @@
+{
+  "hash": "5e6761ebd76a4759",
+  "source": "Process from lowest to highest priority",
+  "text": "Traiter de la priorité la plus faible à la plus élevée",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Traiter de la priorité la plus faible à la plus élevée"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

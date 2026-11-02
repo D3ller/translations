@@ -1,0 +1,14 @@
+{
+  "hash": "78b366cba25be016",
+  "source": "To add plugins in subdirectories, you can use the {0} option in {1}:",
+  "text": "Pour ajouter des plugins situés dans des sous-répertoires, vous pouvez utiliser l'option {0} dans {1} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour ajouter des plugins situés dans des sous-répertoires, vous pouvez utiliser l'option {0} dans {1} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "47d428c2fe32cc62",
+  "source": "It is not a dependency of Nuxt Fonts, as the harfbuzz WebAssembly it loads is several megabytes and only projects that subset a font need it. Where we cannot ask, such as in CI, we warn instead, and the build fails before downloading any font that needs subsetting locally.",
+  "text": "Ce n'est pas une dépendance de Nuxt Fonts, car le WebAssembly harfbuzz qu'il charge pèse plusieurs mégaoctets et seuls les projets qui créent un sous-ensemble d'une police en ont besoin. Lorsque nous ne pouvons pas poser la question, par exemple en CI, nous affichons un avertissement à la place, et le build échoue avant de télécharger toute police nécessitant un sous-ensemble en local.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ce n'est pas une dépendance de Nuxt Fonts, car le WebAssembly harfbuzz qu'il charge pèse plusieurs mégaoctets et seuls les projets qui créent un sous-ensemble d'une police en ont besoin. Lorsque nous ne pouvons pas poser la question, par exemple en CI, nous affichons un avertissement à la place, et le build échoue avant de télécharger toute police nécessitant un sous-ensemble en local."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

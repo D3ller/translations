@@ -1,0 +1,14 @@
+{
+  "hash": "2889633d9661b9f5",
+  "source": "Custom CSS variable prefixes",
+  "text": "Préfixes de variables CSS personnalisés",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Préfixes de variables CSS personnalisés"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

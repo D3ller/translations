@@ -1,0 +1,14 @@
+{
+  "hash": "3e2328e7e4316bd1",
+  "source": "because props travel as GET query parameters, island responses can also be cached by your server or CDN at the island endpoint level",
+  "text": "comme les props transitent en tant que paramètres de requête GET, les réponses des islands peuvent aussi être mises en cache par votre serveur ou votre CDN au niveau du point de terminaison des islands",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "comme les props transitent en tant que paramètres de requête GET, les réponses des islands peuvent aussi être mises en cache par votre serveur ou votre CDN au niveau du point de terminaison des islands"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

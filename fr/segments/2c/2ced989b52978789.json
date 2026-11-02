@@ -1,0 +1,14 @@
+{
+  "hash": "2ced989b52978789",
+  "source": "Regex constraints in route rule patterns, such as {0}, are matched against the percent-encoded path. The build fails if a constraint can match {1} or a character that is percent-encoded in a path, such as {2}, a space, {3}, {4} or a negated class like {5}, or if it uses a word boundary ({6} or {7}). List the characters a constraint allows instead, or use a parameter without a constraint (such as {8}) to match any value.",
+  "text": "Les contraintes regex dans les motifs des règles de route, telles que {0}, sont comparées au chemin encodé en pourcentage. Le build échoue si une contrainte peut correspondre à {1} ou à un caractère encodé en pourcentage dans un chemin, tel que {2}, une espace, {3}, {4} ou une classe négée comme {5}, ou si elle utilise une limite de mot ({6} ou {7}). Listez plutôt les caractères qu'une contrainte autorise, ou utilisez un paramètre sans contrainte (comme {8}) pour correspondre à n'importe quelle valeur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les contraintes regex dans les motifs des règles de route, telles que {0}, sont comparées au chemin encodé en pourcentage. Le build échoue si une contrainte peut correspondre à {1} ou à un caractère encodé en pourcentage dans un chemin, tel que {2}, une espace, {3}, {4} ou une classe négée comme {5}, ou si elle utilise une limite de mot ({6} ou {7}). Listez plutôt les caractères qu'une contrainte autorise, ou utilisez un paramètre sans contrainte (comme {8}) pour correspondre à n'importe quelle valeur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

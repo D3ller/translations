@@ -1,0 +1,14 @@
+{
+  "hash": "71cd6cb0509bc8a3",
+  "source": "See every difference between h3 v1 and {0}, and what to use instead.",
+  "text": "Consultez toutes les différences entre h3 v1 et {0}, ainsi que les alternatives à utiliser.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Consultez toutes les différences entre h3 v1 et {0}, ainsi que les alternatives à utiliser."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

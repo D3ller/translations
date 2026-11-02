@@ -1,0 +1,14 @@
+{
+  "hash": "09316371b1f7925f",
+  "source": "at build time the path is {0}, so fetch on the client instead",
+  "text": "au moment du build, le chemin est {0} ; effectuez donc la récupération côté client à la place",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "au moment du build, le chemin est {0} ; effectuez donc la récupération côté client à la place"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

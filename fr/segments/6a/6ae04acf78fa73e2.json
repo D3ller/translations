@@ -1,0 +1,14 @@
+{
+  "hash": "6ae04acf78fa73e2",
+  "source": "**Top-level {0} only**: Files in {1}subdirectories of {2}{/1} are no longer auto-imported",
+  "text": "**Uniquement le premier niveau de {0}** : les fichiers des {1}sous-répertoires de {2}{/1} ne sont plus importés automatiquement",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Uniquement le premier niveau de {0}** : les fichiers des {1}sous-répertoires de {2}{/1} ne sont plus importés automatiquement"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "b7801e9d49b97d3b",
+  "source": "One of the core features of Nuxt is the layers and extending support. You can extend a default Nuxt application to reuse components, utils, and configuration. The layers structure is almost identical to a standard Nuxt application which makes them easy to author and maintain.",
+  "text": "L'une des fonctionnalités principales de Nuxt est la prise en charge des layers (couches) et de l'extension. Vous pouvez étendre une application Nuxt par défaut pour réutiliser des composants, des utilitaires et de la configuration. La structure des layers est presque identique à celle d'une application Nuxt standard, ce qui les rend faciles à créer et à maintenir.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'une des fonctionnalités principales de Nuxt est la prise en charge des layers (couches) et de l'extension. Vous pouvez étendre une application Nuxt par défaut pour réutiliser des composants, des utilitaires et de la configuration. La structure des layers est presque identique à celle d'une application Nuxt standard, ce qui les rend faciles à créer et à maintenir."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

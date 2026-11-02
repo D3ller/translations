@@ -1,0 +1,14 @@
+{
+  "hash": "7061449ed087e6ef",
+  "source": "Access baseURL universally",
+  "text": "Accéder à baseURL partout",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Accéder à baseURL partout"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

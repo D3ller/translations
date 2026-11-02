@@ -1,0 +1,14 @@
+{
+  "hash": "97b3e70a135fedf4",
+  "source": "When using {0}, prefetching is controlled by your slot implementation {1}:",
+  "text": "Lorsque vous utilisez {0}, le préchargement est contrôlé par l'implémentation de votre slot {1} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque vous utilisez {0}, le préchargement est contrôlé par l'implémentation de votre slot {1} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

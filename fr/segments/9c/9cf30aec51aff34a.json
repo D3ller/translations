@@ -1,0 +1,14 @@
+{
+  "hash": "9cf30aec51aff34a",
+  "source": "JavaScript resource hints ({0} and {1} links for JS chunks)",
+  "text": "les indications de ressources JavaScript (liens {0} et {1} pour les chunks JS)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "les indications de ressources JavaScript (liens {0} et {1} pour les chunks JS)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

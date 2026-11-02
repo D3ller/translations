@@ -1,0 +1,14 @@
+{
+  "hash": "efc062efa2827624",
+  "source": "To understand a bit more about the use of manifests, take a look at {0}webpack documentation{/0}.",
+  "text": "Pour mieux comprendre l'utilisation des manifests, consultez la {0}documentation de webpack{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour mieux comprendre l'utilisation des manifests, consultez la {0}documentation de webpack{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "5cc40f4234e64db9",
+  "source": "If you want a parameter to be *optional*, you must enclose it in double square brackets - for example, {0} or {1} will match both {2} and {3}.",
+  "text": "Si vous souhaitez qu'un paramètre soit *facultatif*, vous devez l'entourer de doubles crochets, par exemple {0} ou {1} correspondra à la fois à {2} et à {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous souhaitez qu'un paramètre soit *facultatif*, vous devez l'entourer de doubles crochets, par exemple {0} ou {1} correspondra à la fois à {2} et à {3}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

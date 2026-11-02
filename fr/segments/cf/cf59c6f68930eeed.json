@@ -1,0 +1,14 @@
+{
+  "hash": "cf59c6f68930eeed",
+  "source": "Access a private variable (only available on the server)",
+  "text": "Accéder à une variable privée (disponible uniquement sur le serveur)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Accéder à une variable privée (disponible uniquement sur le serveur)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

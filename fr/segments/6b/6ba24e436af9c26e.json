@@ -1,0 +1,14 @@
+{
+  "hash": "6ba24e436af9c26e",
+  "source": "This aligns the meaning of {0} with the {1} property, which is also {2} when the request is in progress.",
+  "text": "Cela aligne la signification de {0} sur la propriété {1}, qui vaut également {2} lorsque la requête est en cours.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela aligne la signification de {0} sur la propriété {1}, qui vaut également {2} lorsque la requête est en cours."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

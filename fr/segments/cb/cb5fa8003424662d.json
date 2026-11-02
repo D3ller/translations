@@ -1,0 +1,14 @@
+{
+  "hash": "cb5fa8003424662d",
+  "source": "With {0} enabled, page components are named after their route (e.g. {1} and {2}), so you can use {3} with {4}/{5} without manually adding {6} to each page.",
+  "text": "Avec {0} activé, les composants de page sont nommés d'après leur route (par ex. {1} et {2}), ce qui vous permet d'utiliser {3} avec {4}/{5} sans ajouter manuellement {6} à chaque page.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Avec {0} activé, les composants de page sont nommés d'après leur route (par ex. {1} et {2}), ce qui vous permet d'utiliser {3} avec {4}/{5} sans ajouter manuellement {6} à chaque page."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

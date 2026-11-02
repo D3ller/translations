@@ -1,0 +1,14 @@
+{
+  "hash": "a9ecf4158016067c",
+  "source": "{0} and {1}, which were deprecated, have now been removed entirely. Follow the instructions below regarding {2}ssrRef{/2} to replace this.",
+  "text": "{0} et {1}, qui étaient dépréciés, ont désormais été entièrement supprimés. Suivez les instructions ci-dessous concernant {2}ssrRef{/2} pour les remplacer.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} et {1}, qui étaient dépréciés, ont désormais été entièrement supprimés. Suivez les instructions ci-dessous concernant {2}ssrRef{/2} pour les remplacer."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

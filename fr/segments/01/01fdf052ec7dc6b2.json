@@ -1,0 +1,14 @@
+{
+  "hash": "01fdf052ec7dc6b2",
+  "source": "Moving from a runtime Nuxt dependency to a minimal, standalone server compiled with nitropack.",
+  "text": "Passage d'une dépendance Nuxt au runtime à un serveur autonome minimal, compilé avec nitropack.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Passage d'une dépendance Nuxt au runtime à un serveur autonome minimal, compilé avec nitropack."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "64780873366dea50",
+  "source": "{0} and {1} take a validation function.",
+  "text": "{0} et {1} acceptent une fonction de validation.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} et {1} acceptent une fonction de validation."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

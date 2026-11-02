@@ -1,0 +1,14 @@
+{
+  "hash": "1ef065b7689257b4",
+  "source": "... rest of your client-only plugin",
+  "text": "... le reste de votre plugin réservé au client",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "... le reste de votre plugin réservé au client"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

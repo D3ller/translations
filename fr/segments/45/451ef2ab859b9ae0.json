@@ -1,0 +1,14 @@
+{
+  "hash": "451ef2ab859b9ae0",
+  "source": "Production builds extract all styles to real CSS files (or inline via {0}), so this only affects {1}. Validate streaming visuals against {2}.",
+  "text": "Les builds de production extraient tous les styles dans de vrais fichiers CSS (ou les inlinent via {0}) ; cela n'affecte donc que {1}. Validez le rendu visuel du streaming avec {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les builds de production extraient tous les styles dans de vrais fichiers CSS (ou les inlinent via {0}) ; cela n'affecte donc que {1}. Validez le rendu visuel du streaming avec {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

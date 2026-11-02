@@ -1,0 +1,14 @@
+{
+  "hash": "fa088a510a9e7437",
+  "source": "Turn off rendering of Nuxt scripts and JavaScript resource hints, so pages ship as pure HTML and CSS.",
+  "text": "Désactive le rendu des scripts Nuxt et des resource hints JavaScript, afin que les pages soient livrées en HTML et CSS purs.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Désactive le rendu des scripts Nuxt et des resource hints JavaScript, afin que les pages soient livrées en HTML et CSS purs."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

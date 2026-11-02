@@ -1,0 +1,14 @@
+{
+  "hash": "2a74efcc0a7f4e14",
+  "source": "Which will render to with Vue Router & Smart Prefetching",
+  "text": "Sera rendu avec Vue Router et le prefetching intelligent",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sera rendu avec Vue Router et le prefetching intelligent"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

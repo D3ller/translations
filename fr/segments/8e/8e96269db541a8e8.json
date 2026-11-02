@@ -1,0 +1,14 @@
+{
+  "hash": "8e96269db541a8e8",
+  "source": "Each of these files is configured to reference the appropriate dependencies and provide optimal type-checking for their specific context.",
+  "text": "Chacun de ces fichiers est configuré pour référencer les dépendances appropriées et offrir une vérification des types optimale pour son contexte spécifique.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Chacun de ces fichiers est configuré pour référencer les dépendances appropriées et offrir une vérification des types optimale pour son contexte spécifique."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

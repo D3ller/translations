@@ -1,0 +1,14 @@
+{
+  "hash": "7d32025d6aa3e8b6",
+  "source": "Private config that is only available on the server",
+  "text": "Configuration privée, disponible uniquement côté serveur",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Configuration privée, disponible uniquement côté serveur"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

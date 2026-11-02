@@ -1,0 +1,14 @@
+{
+  "hash": "12e63c04b419e6ff",
+  "source": "When a {0} is prefetched and the destination route has {1}payload extraction{/1} enabled (the default for prerendered and cached routes), forward any {2} hints that the destination set via {3} (or via modules like {4}'s {5}) into the current document.",
+  "text": "Lorsqu'un {0} est préchargé (prefetch) et que la route de destination a l'{1}extraction du payload (charge utile){/1} activée (comportement par défaut pour les routes prérendues et mises en cache), transmet au document courant les indications {2} définies par la destination via {3} (ou via des modules comme {5} de {4}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsqu'un {0} est préchargé (prefetch) et que la route de destination a l'{1}extraction du payload (charge utile){/1} activée (comportement par défaut pour les routes prérendues et mises en cache), transmet au document courant les indications {2} définies par la destination via {3} (ou via des modules comme {5} de {4})."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

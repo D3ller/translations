@@ -1,0 +1,14 @@
+{
+  "hash": "d02022515c3bcd97",
+  "source": "Some Nitro presets do not produce a server that can be run locally. For those, the preset's own preview command is run instead, and the command tells you what it is running.",
+  "text": "Certains presets Nitro ne produisent pas de serveur pouvant être exécuté localement. Dans ce cas, c'est la commande de prévisualisation propre au preset qui est exécutée à la place, et la commande vous indique ce qu'elle exécute.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Certains presets Nitro ne produisent pas de serveur pouvant être exécuté localement. Dans ce cas, c'est la commande de prévisualisation propre au preset qui est exécutée à la place, et la commande vous indique ce qu'elle exécute."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "24e296fc8ac2d780",
+  "source": "tsconfig.json",
+  "text": "tsconfig.json",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "tsconfig.json"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "45fd0ede19a713c7",
+  "source": "If you use {0} within your pages, make sure it is not the root element (or {1}disable layout/page transitions{/1}).",
+  "text": "Si vous utilisez {0} dans vos pages, assurez-vous qu'il n'est pas l'élément racine (ou {1}désactivez les transitions de layout/de page{/1}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous utilisez {0} dans vos pages, assurez-vous qu'il n'est pas l'élément racine (ou {1}désactivez les transitions de layout/de page{/1})."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "85991feb98681cee",
+  "source": "Configuration applied below every layer, before schema defaults.",
+  "text": "Configuration appliquée en dessous de chaque layer, avant les valeurs par défaut du schéma.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Configuration appliquée en dessous de chaque layer, avant les valeurs par défaut du schéma."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

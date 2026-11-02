@@ -1,0 +1,14 @@
+{
+  "hash": "2cf5e5dc403f7505",
+  "source": "Accessing Route in Middleware",
+  "text": "Accéder à la route dans un middleware",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Accéder à la route dans un middleware"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

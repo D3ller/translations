@@ -1,0 +1,14 @@
+{
+  "hash": "e071fd7d8301d589",
+  "source": "So in Nuxt 2, the bundler (webpack) would pull in the CJS file ('main') for the server build and use the ESM file ('module') for the client build.",
+  "text": "Ainsi, dans Nuxt 2, le bundler (webpack) récupérait le fichier CJS ('main') pour le build serveur et utilisait le fichier ESM ('module') pour le build client.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ainsi, dans Nuxt 2, le bundler (webpack) récupérait le fichier CJS ('main') pour le build serveur et utilisait le fichier ESM ('module') pour le build client."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

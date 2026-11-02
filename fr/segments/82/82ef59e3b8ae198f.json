@@ -1,0 +1,14 @@
+{
+  "hash": "82ef59e3b8ae198f",
+  "source": "Using this workaround may lead to unexpected behavior and bugs. The Vue plugin is one of many that are not available in the Nitro context.",
+  "text": "L'utilisation de cette solution de contournement peut entraîner des comportements inattendus et des bugs. Le plugin Vue fait partie des nombreux plugins qui ne sont pas disponibles dans le contexte de Nitro.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'utilisation de cette solution de contournement peut entraîner des comportements inattendus et des bugs. Le plugin Vue fait partie des nombreux plugins qui ne sont pas disponibles dans le contexte de Nitro."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "3c903df3df770762",
+  "source": "Nuxt also automatically imports components from your {0} directory, although this is configured separately from auto-importing composables and utility functions.",
+  "text": "Nuxt importe également automatiquement les composants de votre répertoire {0}, bien que cela soit configuré séparément de l'import automatique des composables et des fonctions utilitaires.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt importe également automatiquement les composants de votre répertoire {0}, bien que cela soit configuré séparément de l'import automatique des composables et des fonctions utilitaires."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

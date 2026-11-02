@@ -1,0 +1,14 @@
+{
+  "hash": "3c66bb7d6424d02f",
+  "source": "Render the interactive part on the client. You can pair the server component with a {0} component of the same name, render an interactive child with the {1} attribute (with {2} enabled), or move the listener to a client component that wraps the server component.",
+  "text": "Rendez la partie interactive côté client. Vous pouvez associer au composant serveur un composant {0} du même nom, rendre un enfant interactif avec l'attribut {1} (avec {2} activé), ou déplacer l'écouteur vers un composant client qui englobe le composant serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Rendez la partie interactive côté client. Vous pouvez associer au composant serveur un composant {0} du même nom, rendre un enfant interactif avec l'attribut {1} (avec {2} activé), ou déplacer l'écouteur vers un composant client qui englobe le composant serveur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

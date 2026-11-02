@@ -1,0 +1,14 @@
+{
+  "hash": "b9244744c71fa481",
+  "source": "The Nuxt MCP server uses HTTP transport and can be installed in different AI assistants.",
+  "text": "Le serveur MCP de Nuxt utilise le transport HTTP et peut être installé dans différents assistants IA.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le serveur MCP de Nuxt utilise le transport HTTP et peut être installé dans différents assistants IA."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

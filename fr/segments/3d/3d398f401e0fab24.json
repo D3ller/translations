@@ -1,0 +1,14 @@
+{
+  "hash": "3d398f401e0fab24",
+  "source": "nuxt dev with plain output",
+  "text": "nuxt dev avec une sortie simple",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "nuxt dev avec une sortie simple"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

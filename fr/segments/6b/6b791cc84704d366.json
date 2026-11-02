@@ -1,0 +1,14 @@
+{
+  "hash": "6b791cc84704d366",
+  "source": "This options indicates if component should render on client, server or both. By default, it will render on both client and server.",
+  "text": "Cette option indique si le composant doit être rendu côté client, côté serveur ou les deux. Par défaut, il sera rendu à la fois côté client et côté serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cette option indique si le composant doit être rendu côté client, côté serveur ou les deux. Par défaut, il sera rendu à la fois côté client et côté serveur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

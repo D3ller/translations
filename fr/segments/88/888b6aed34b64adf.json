@@ -1,0 +1,14 @@
+{
+  "hash": "888b6aed34b64adf",
+  "source": "Matching HTTP Method",
+  "text": "Correspondance avec la méthode HTTP",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Correspondance avec la méthode HTTP"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

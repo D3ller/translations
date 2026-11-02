@@ -1,0 +1,14 @@
+{
+  "hash": "894f01a8bcefb717",
+  "source": "Nuxt 4 wrapped {0} with {1} so that existing {2} and {3} chaining continued to work. That wrapper is removed, and {4} now defaults to {5}.",
+  "text": "Nuxt 4 enveloppait {0} avec {1} afin que le chaînage existant de {2} et {3} continue de fonctionner. Cette enveloppe est supprimée, et {4} vaut désormais par défaut {5}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt 4 enveloppait {0} avec {1} afin que le chaînage existant de {2} et {3} continue de fonctionner. Cette enveloppe est supprimée, et {4} vaut désormais par défaut {5}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

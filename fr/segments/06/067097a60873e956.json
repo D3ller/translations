@@ -1,0 +1,14 @@
+{
+  "hash": "067097a60873e956",
+  "source": "Fetch data from an API endpoint with an SSR-friendly composable.",
+  "text": "Récupérez des données depuis un point de terminaison d'API avec un composable compatible SSR.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Récupérez des données depuis un point de terminaison d'API avec un composable compatible SSR."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

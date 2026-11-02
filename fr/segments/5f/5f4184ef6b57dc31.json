@@ -1,0 +1,14 @@
+{
+  "hash": "5f4184ef6b57dc31",
+  "source": "Use Nuxt nightly release channel (3x or latest)",
+  "text": "Utiliser le canal de versions nightly de Nuxt (3x ou latest)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utiliser le canal de versions nightly de Nuxt (3x ou latest)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "147e7178275cdd6c",
+  "source": "You can define page aliases. They allow you to access the same page from different paths. It can be either a string or an array of strings as defined {0}in the vue-router documentation{/0}.",
+  "text": "Vous pouvez définir des alias de page. Ils vous permettent d'accéder à la même page depuis différents chemins. Il peut s'agir d'une chaîne de caractères ou d'un tableau de chaînes, comme défini {0}dans la documentation de vue-router{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez définir des alias de page. Ils vous permettent d'accéder à la même page depuis différents chemins. Il peut s'agir d'une chaîne de caractères ou d'un tableau de chaînes, comme défini {0}dans la documentation de vue-router{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

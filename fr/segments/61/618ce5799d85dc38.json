@@ -1,0 +1,14 @@
+{
+  "hash": "618ce5799d85dc38",
+  "source": "The useRoute composable returns the current route.",
+  "text": "Le composable useRoute retourne la route courante.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le composable useRoute retourne la route courante."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

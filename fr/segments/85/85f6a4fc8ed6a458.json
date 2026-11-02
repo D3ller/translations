@@ -1,0 +1,14 @@
+{
+  "hash": "85f6a4fc8ed6a458",
+  "source": "Depend on Other Modules",
+  "text": "Dépendre d'autres modules",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dépendre d'autres modules"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

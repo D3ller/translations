@@ -1,0 +1,14 @@
+{
+  "hash": "c84cd5abf00f148c",
+  "source": "Create or edit the {0} file with the following configuration:",
+  "text": "Créez ou modifiez le fichier {0} avec la configuration suivante :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Créez ou modifiez le fichier {0} avec la configuration suivante :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

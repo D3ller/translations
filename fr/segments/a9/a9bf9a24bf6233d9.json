@@ -1,0 +1,14 @@
+{
+  "hash": "a9bf9a24bf6233d9",
+  "source": "When rendering a client-only page (with {0}), we optionally render a loading screen (from {1}).",
+  "text": "Lors du rendu d'une page uniquement côté client (avec {0}), un écran de chargement (provenant de {1}) peut éventuellement être affiché.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lors du rendu d'une page uniquement côté client (avec {0}), un écran de chargement (provenant de {1}) peut éventuellement être affiché."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

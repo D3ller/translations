@@ -1,0 +1,14 @@
+{
+  "hash": "dc5b1d27a63b3b11",
+  "source": "**Note**: Modules are executed sequentially so the order is important. First, the modules defined in {0} are loaded. Then, modules found in the {1} directory are executed, and they load in alphabetical order.",
+  "text": "**Note** : les modules sont exécutés séquentiellement, l'ordre est donc important. Les modules définis dans {0} sont chargés en premier. Ensuite, les modules trouvés dans le répertoire {1} sont exécutés, et ils sont chargés dans l'ordre alphabétique.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Note** : les modules sont exécutés séquentiellement, l'ordre est donc important. Les modules définis dans {0} sont chargés en premier. Ensuite, les modules trouvés dans le répertoire {1} sont exécutés, et ils sont chargés dans l'ordre alphabétique."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

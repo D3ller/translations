@@ -1,0 +1,14 @@
+{
+  "hash": "3b7eec29018ac64e",
+  "source": "A route ending in {0} matches its base path too, so {1} serves {2} and everything below it. On a Nitro 2 host, whose router matches only the paths below the base, Nuxt registers the base path as a second route so that one registration behaves the same on both.",
+  "text": "Une route se terminant par {0} correspond aussi à son chemin de base, donc {1} sert {2} ainsi que tout ce qui se trouve en dessous. Sur un hôte Nitro 2, dont le routeur ne fait correspondre que les chemins situés sous la base, Nuxt enregistre le chemin de base comme seconde route afin qu'un seul enregistrement se comporte de la même façon sur les deux.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une route se terminant par {0} correspond aussi à son chemin de base, donc {1} sert {2} ainsi que tout ce qui se trouve en dessous. Sur un hôte Nitro 2, dont le routeur ne fait correspondre que les chemins situés sous la base, Nuxt enregistre le chemin de base comme seconde route afin qu'un seul enregistrement se comporte de la même façon sur les deux."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

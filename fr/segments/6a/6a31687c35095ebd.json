@@ -1,0 +1,14 @@
+{
+  "hash": "6a31687c35095ebd",
+  "source": "From the runtime directory",
+  "text": "Depuis le répertoire runtime",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Depuis le répertoire runtime"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

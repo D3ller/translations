@@ -1,0 +1,14 @@
+{
+  "hash": "cdf6fcc971b96c28",
+  "source": "server type context",
+  "text": "contexte de types server",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "contexte de types server"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

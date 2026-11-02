@@ -1,0 +1,14 @@
+{
+  "hash": "c2a0a64f8934f1db",
+  "source": "You can define a page as {0}server only{/0} by giving it a {1} suffix. While you will be able to navigate to the page using client-side navigation, controlled by {2}, it will be rendered with a server component automatically, meaning the code required to render the page will not be in your client-side bundle.",
+  "text": "Vous pouvez définir une page comme {0}serveur uniquement{/0} en lui donnant le suffixe {1}. Bien que vous puissiez naviguer vers cette page avec la navigation côté client, gérée par {2}, elle sera automatiquement rendue avec un composant serveur, ce qui signifie que le code nécessaire pour rendre la page ne se trouvera pas dans votre bundle côté client.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez définir une page comme {0}serveur uniquement{/0} en lui donnant le suffixe {1}. Bien que vous puissiez naviguer vers cette page avec la navigation côté client, gérée par {2}, elle sera automatiquement rendue avec un composant serveur, ce qui signifie que le code nécessaire pour rendre la page ne se trouvera pas dans votre bundle côté client."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

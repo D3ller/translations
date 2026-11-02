@@ -1,0 +1,14 @@
+{
+  "hash": "d16af2183ff51ff9",
+  "source": "Running preview was started",
+  "text": "La prévisualisation en cours a été démarrée",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La prévisualisation en cours a été démarrée"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

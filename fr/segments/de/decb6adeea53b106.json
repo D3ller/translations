@@ -1,0 +1,14 @@
+{
+  "hash": "decb6adeea53b106",
+  "source": "Use {0} only if you need comprehensive implementation details and your AI tool supports large contexts (200K+ tokens).",
+  "text": "Utilisez {0} uniquement si vous avez besoin de détails d'implémentation complets et que votre outil d'IA prend en charge les contextes volumineux (200K+ tokens).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utilisez {0} uniquement si vous avez besoin de détails d'implémentation complets et que votre outil d'IA prend en charge les contextes volumineux (200K+ tokens)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

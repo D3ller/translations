@@ -1,0 +1,14 @@
+{
+  "hash": "3a69f0fa3cee87f5",
+  "source": "You can directly override the default layout for all pages using the {0} property of {1}:",
+  "text": "Vous pouvez directement remplacer le layout par défaut pour toutes les pages en utilisant la propriété {0} de {1} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez directement remplacer le layout par défaut pour toutes les pages en utilisant la propriété {0} de {1} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "ce00d8089f05725e",
+  "source": "{0} has always been documented as defaulting to {1}, but the default was set on the wrong option and never reached the resolver, so families without an explicit {2} were resolved at weight {3} alone. The documented default now takes effect.",
+  "text": "La valeur par défaut de {0} a toujours été documentée comme étant {1}, mais elle était définie sur la mauvaise option et n'atteignait jamais le resolver ; les familles sans {2} explicite étaient donc résolues uniquement avec la graisse {3}. La valeur par défaut documentée prend désormais effet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La valeur par défaut de {0} a toujours été documentée comme étant {1}, mais elle était définie sur la mauvaise option et n'atteignait jamais le resolver ; les familles sans {2} explicite étaient donc résolues uniquement avec la graisse {3}. La valeur par défaut documentée prend désormais effet."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

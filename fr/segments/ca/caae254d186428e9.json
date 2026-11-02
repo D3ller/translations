@@ -1,0 +1,14 @@
+{
+  "hash": "caae254d186428e9",
+  "source": "You can then use {0} component as usual with your new defaults.",
+  "text": "Vous pouvez ensuite utiliser le composant {0} comme d'habitude avec vos nouvelles valeurs par défaut.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez ensuite utiliser le composant {0} comme d'habitude avec vos nouvelles valeurs par défaut."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

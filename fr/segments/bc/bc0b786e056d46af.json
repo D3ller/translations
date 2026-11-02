@@ -1,0 +1,14 @@
+{
+  "hash": "bc0b786e056d46af",
+  "source": "Because a {0} page has no client-side router, every navigation to or from one is a full-page load. Nuxt handles both directions of that for you:",
+  "text": "Comme une page {0} n'a pas de routeur côté client, toute navigation vers ou depuis une telle page est un chargement complet de la page. Nuxt gère ces deux sens pour vous :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Comme une page {0} n'a pas de routeur côté client, toute navigation vers ou depuis une telle page est un chargement complet de la page. Nuxt gère ces deux sens pour vous :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

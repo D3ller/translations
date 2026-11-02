@@ -1,0 +1,14 @@
+{
+  "hash": "7352a71f3fa9c89d",
+  "source": "Dynamic Expiration with a Getter",
+  "text": "Expiration dynamique avec un getter",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Expiration dynamique avec un getter"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

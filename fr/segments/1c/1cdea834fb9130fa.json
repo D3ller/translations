@@ -1,0 +1,14 @@
+{
+  "hash": "1cdea834fb9130fa",
+  "source": "To ensure your configuration is up to date, Nuxt will make a full restart when detecting changes in the main configuration file, the {0}, {1} and {2} dotfiles.",
+  "text": "Pour garantir que votre configuration est à jour, Nuxt effectue un redémarrage complet lorsqu'il détecte des modifications dans le fichier de configuration principal, ainsi que dans les dotfiles {0}, {1} et {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour garantir que votre configuration est à jour, Nuxt effectue un redémarrage complet lorsqu'il détecte des modifications dans le fichier de configuration principal, ainsi que dans les dotfiles {0}, {1} et {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "fc845717d5f47573",
+  "source": "The old names still work for now, with a deprecation warning.",
+  "text": "Les anciens noms fonctionnent encore pour le moment, avec un avertissement d'obsolescence.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les anciens noms fonctionnent encore pour le moment, avec un avertissement d'obsolescence."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

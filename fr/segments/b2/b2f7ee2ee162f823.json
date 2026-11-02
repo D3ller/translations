@@ -1,0 +1,14 @@
+{
+  "hash": "b2f7ee2ee162f823",
+  "source": "Loads a client-side navigation that matches no page route as a full document, so the server can respond with a file in {0}, a server route, or its 404 page. With this enabled, {1} and {2} work on click as they do on a hard load.",
+  "text": "Charge comme un document complet toute navigation côté client qui ne correspond à aucune route de page, afin que le serveur puisse répondre avec un fichier de {0}, une route serveur ou sa page 404. Lorsque cette option est activée, {1} et {2} fonctionnent au clic comme lors d'un chargement complet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Charge comme un document complet toute navigation côté client qui ne correspond à aucune route de page, afin que le serveur puisse répondre avec un fichier de {0}, une route serveur ou sa page 404. Lorsque cette option est activée, {1} et {2} fonctionnent au clic comme lors d'un chargement complet."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

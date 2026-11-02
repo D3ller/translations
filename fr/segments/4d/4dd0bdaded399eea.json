@@ -1,0 +1,14 @@
+{
+  "hash": "4dd0bdaded399eea",
+  "source": "Route groups the page belongs to, based on the folder structure. Automatically populated for pages within {0}route groups{/0}.",
+  "text": "Groupes de routes auxquels la page appartient, selon la structure des dossiers. Renseigné automatiquement pour les pages situées dans des {0}groupes de routes{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Groupes de routes auxquels la page appartient, selon la structure des dossiers. Renseigné automatiquement pour les pages situées dans des {0}groupes de routes{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

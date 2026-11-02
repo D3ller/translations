@@ -1,0 +1,14 @@
+{
+  "hash": "56da2138d903408c",
+  "source": "Use this only when the proxy already handles assets and routing for every public path. Without the rendered path, Nuxt cannot correct a genuine mismatch between the requested URL and the server-rendered route.",
+  "text": "Utilisez cette approche uniquement lorsque le proxy gère déjà les assets et le routage pour chaque chemin public. Sans le chemin rendu, Nuxt ne peut pas corriger une réelle incohérence entre l'URL demandée et la route rendue côté serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utilisez cette approche uniquement lorsque le proxy gère déjà les assets et le routage pour chaque chemin public. Sans le chemin rendu, Nuxt ne peut pas corriger une réelle incohérence entre l'URL demandée et la route rendue côté serveur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "7ec0e165ba919f5c",
+  "source": "If your builds fail intermittently with a {0} from {1}, consider {2}caching font downloads between builds{/2} or switching to a provider with stable URLs, such as {3}.",
+  "text": "Si vos builds échouent par intermittence avec un {0} provenant de {1}, envisagez de {2}mettre en cache les téléchargements de polices entre les builds{/2} ou de passer à un fournisseur avec des URL stables, comme {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vos builds échouent par intermittence avec un {0} provenant de {1}, envisagez de {2}mettre en cache les téléchargements de polices entre les builds{/2} ou de passer à un fournisseur avec des URL stables, comme {3}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

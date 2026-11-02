@@ -1,0 +1,14 @@
+{
+  "hash": "84390a2da28659a1",
+  "source": "Hooks are listeners to Nuxt events that are typically used in modules, but are also available in {0}.",
+  "text": "Les hooks sont des écouteurs d'événements Nuxt, généralement utilisés dans les modules, mais également disponibles dans {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les hooks sont des écouteurs d'événements Nuxt, généralement utilisés dans les modules, mais également disponibles dans {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

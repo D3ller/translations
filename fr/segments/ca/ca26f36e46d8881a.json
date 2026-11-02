@@ -1,0 +1,14 @@
+{
+  "hash": "ca26f36e46d8881a",
+  "source": "Everything under /blog gets prerendered as long as it",
+  "text": "Tout ce qui se trouve sous /blog est prérendu à condition qu'il",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Tout ce qui se trouve sous /blog est prérendu à condition qu'il"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

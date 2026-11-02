@@ -1,0 +1,14 @@
+{
+  "hash": "d6335c9a61293a6b",
+  "source": "Called after {0} is called when {1}experimental viewTransition support is enabled{/1}. The {2} argument is a {3} object with a {4} property ({5}) that can be read or modified.",
+  "text": "Appelé après l'appel de {0} lorsque {1}la prise en charge expérimentale de viewTransition est activée{/1}. L'argument {2} est un objet {3} avec une propriété {4} ({5}) qui peut être lue ou modifiée.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appelé après l'appel de {0} lorsque {1}la prise en charge expérimentale de viewTransition est activée{/1}. L'argument {2} est un objet {3} avec une propriété {4} ({5}) qui peut être lue ou modifiée."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

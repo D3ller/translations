@@ -1,0 +1,14 @@
+{
+  "hash": "69dcd88b359cdb24",
+  "source": "Join nuxt-modules",
+  "text": "Rejoindre nuxt-modules",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Rejoindre nuxt-modules"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

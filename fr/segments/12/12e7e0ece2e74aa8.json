@@ -1,0 +1,14 @@
+{
+  "hash": "12e7e0ece2e74aa8",
+  "source": "Server components use {0} under the hood. Rendering an island issues a request to a dedicated island endpoint, which:",
+  "text": "Les composants serveur utilisent {0} en interne. Le rendu d'une island envoie une requête à un point d'accès dédié, qui :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les composants serveur utilisent {0} en interne. Le rendu d'une island envoie une requête à un point d'accès dédié, qui :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

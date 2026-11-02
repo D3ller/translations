@@ -1,0 +1,14 @@
+{
+  "hash": "464496545b834c48",
+  "source": "Nuxt 5 includes significant improvements and changes. This guide covers what changed and how to migrate an existing Nuxt 4 application.",
+  "text": "Nuxt 5 apporte des améliorations et des changements importants. Ce guide présente ce qui a changé et comment migrer une application Nuxt 4 existante.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt 5 apporte des améliorations et des changements importants. Ce guide présente ce qui a changé et comment migrer une application Nuxt 4 existante."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

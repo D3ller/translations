@@ -1,0 +1,14 @@
+{
+  "hash": "ee1a9f5c5ec47390",
+  "source": "The skeleton of a builder that fulfils the contract for a production build:",
+  "text": "Le squelette d'un builder qui remplit le contrat pour un build de production :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le squelette d'un builder qui remplit le contrat pour un build de production :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

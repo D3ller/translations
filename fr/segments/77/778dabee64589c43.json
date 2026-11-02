@@ -1,0 +1,14 @@
+{
+  "hash": "778dabee64589c43",
+  "source": "Nuxt 3 approaches runtime config differently than Nuxt 2, using a new combined {0} option.",
+  "text": "Nuxt 3 aborde le runtime config différemment de Nuxt 2, en utilisant une nouvelle option combinée {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt 3 aborde le runtime config différemment de Nuxt 2, en utilisant une nouvelle option combinée {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

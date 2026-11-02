@@ -1,0 +1,14 @@
+{
+  "hash": "8cc50b542c199285",
+  "source": "{0} was called without a handler function. The handler is the function that performs the fetch and returns the data, so it cannot be omitted or of another type.",
+  "text": "{0} a été appelé sans fonction de gestionnaire. Le gestionnaire est la fonction qui effectue la récupération et renvoie les données ; il ne peut donc ni être omis ni être d'un autre type.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} a été appelé sans fonction de gestionnaire. Le gestionnaire est la fonction qui effectue la récupération et renvoie les données ; il ne peut donc ni être omis ni être d'un autre type."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

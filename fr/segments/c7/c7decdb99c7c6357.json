@@ -1,0 +1,14 @@
+{
+  "hash": "c7decdb99c7c6357",
+  "source": "The {0} utility can be used to update the {1} at runtime.",
+  "text": "L'utilitaire {0} permet de mettre à jour {1} à l'exécution.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'utilitaire {0} permet de mettre à jour {1} à l'exécution."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

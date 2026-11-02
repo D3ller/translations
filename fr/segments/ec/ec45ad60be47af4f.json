@@ -1,0 +1,14 @@
+{
+  "hash": "ec45ad60be47af4f",
+  "source": "Environment name used to select {0} configuration overrides. Takes precedence over {1} set in {2}.",
+  "text": "Nom de l'environnement utilisé pour sélectionner les surcharges de configuration {0}. Il est prioritaire sur {1} défini dans {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nom de l'environnement utilisé pour sélectionner les surcharges de configuration {0}. Il est prioritaire sur {1} défini dans {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

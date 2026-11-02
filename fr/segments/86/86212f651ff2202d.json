@@ -1,0 +1,14 @@
+{
+  "hash": "86212f651ff2202d",
+  "source": "Nuxt 3 ships with an optional {0} integration triggered by the existence of a {1} directory in your source directory. If you only have a single page, you may consider instead moving it to {2} for a lighter build.",
+  "text": "Nuxt 3 est livré avec une intégration {0} optionnelle, déclenchée par la présence d'un répertoire {1} dans votre répertoire source. Si vous n'avez qu'une seule page, vous pouvez plutôt envisager de la déplacer vers {2} pour obtenir un build plus léger.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt 3 est livré avec une intégration {0} optionnelle, déclenchée par la présence d'un répertoire {1} dans votre répertoire source. Si vous n'avez qu'une seule page, vous pouvez plutôt envisager de la déplacer vers {2} pour obtenir un build plus léger."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

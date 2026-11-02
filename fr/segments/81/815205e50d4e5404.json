@@ -1,0 +1,14 @@
+{
+  "hash": "815205e50d4e5404",
+  "source": "{0}: when the request has not started, such as:",
+  "text": "{0} : lorsque la requête n'a pas démarré, par exemple :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : lorsque la requête n'a pas démarré, par exemple :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

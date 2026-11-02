@@ -1,0 +1,14 @@
+{
+  "hash": "362ac2ee9eefdfd9",
+  "source": "They return values as they appear in the URL. Pass {0} to decode them.",
+  "text": "Elles retournent les valeurs telles qu'elles apparaissent dans l'URL. Passez {0} pour les décoder.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Elles retournent les valeurs telles qu'elles apparaissent dans l'URL. Passez {0} pour les décoder."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

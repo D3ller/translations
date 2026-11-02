@@ -1,0 +1,14 @@
+{
+  "hash": "ba3cd3c680649ca1",
+  "source": "Errors during the Vue rendering lifecycle (SSR & CSR)",
+  "text": "Les erreurs pendant le cycle de vie du rendu Vue (SSR et CSR)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les erreurs pendant le cycle de vie du rendu Vue (SSR et CSR)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

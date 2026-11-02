@@ -1,0 +1,14 @@
+{
+  "hash": "10affb2a5f93c375",
+  "source": "The build fails if a constraint matches an upper-case letter but not its lower-case form, such as {0}, {1} or {2}, or is a negated class that excludes only one of them, such as {3}. Use {4} or {5} instead. If {6} is {7} in {8} or is set in {9}, the check runs when the app loads instead, and the app throws an error unless {10} is {11}.",
+  "text": "Le build échoue si une contrainte correspond à une lettre majuscule mais pas à sa forme minuscule, comme {0}, {1} ou {2}, ou s'il s'agit d'une classe négée qui n'exclut que l'une des deux, comme {3}. Utilisez plutôt {4} ou {5}. Si {6} vaut {7} dans {8} ou est défini dans {9}, la vérification s'exécute plutôt au chargement de l'application, et celle-ci lève une erreur sauf si {10} vaut {11}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le build échoue si une contrainte correspond à une lettre majuscule mais pas à sa forme minuscule, comme {0}, {1} ou {2}, ou s'il s'agit d'une classe négée qui n'exclut que l'une des deux, comme {3}. Utilisez plutôt {4} ou {5}. Si {6} vaut {7} dans {8} ou est défini dans {9}, la vérification s'exécute plutôt au chargement de l'application, et celle-ci lève une erreur sauf si {10} vaut {11}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

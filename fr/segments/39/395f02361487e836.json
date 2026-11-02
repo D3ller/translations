@@ -1,0 +1,14 @@
+{
+  "hash": "395f02361487e836",
+  "source": "Use the content/ directory to create a file-based CMS for your application.",
+  "text": "Utilisez le répertoire content/ pour créer un CMS basé sur des fichiers pour votre application.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utilisez le répertoire content/ pour créer un CMS basé sur des fichiers pour votre application."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

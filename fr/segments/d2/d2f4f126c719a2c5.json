@@ -1,0 +1,14 @@
+{
+  "hash": "d2f4f126c719a2c5",
+  "source": "Default getCachedData Implementation",
+  "text": "Implémentation par défaut de getCachedData",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Implémentation par défaut de getCachedData"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

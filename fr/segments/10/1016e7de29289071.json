@@ -1,0 +1,14 @@
+{
+  "hash": "1016e7de29289071",
+  "source": "The current route matches a nested page, but the parent page component does not render {0}. Vue Router can only display a child page inside its parent's {1} outlet, so the child page is never shown.",
+  "text": "La route actuelle correspond à une page imbriquée, mais le composant de la page parente n'affiche pas {0}. Vue Router ne peut afficher une page enfant que dans l'emplacement {1} de son parent ; la page enfant n'est donc jamais affichée.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La route actuelle correspond à une page imbriquée, mais le composant de la page parente n'affiche pas {0}. Vue Router ne peut afficher une page enfant que dans l'emplacement {1} de son parent ; la page enfant n'est donc jamais affichée."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

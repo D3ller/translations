@@ -1,0 +1,14 @@
+{
+  "hash": "e532599a4790917f",
+  "source": "{0} is a built-in component that comes with Nuxt. It lets you display top-level or nested pages located in the {1} directory.",
+  "text": "{0} est un composant intégré fourni avec Nuxt. Il vous permet d'afficher des pages de premier niveau ou imbriquées situées dans le répertoire {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est un composant intégré fourni avec Nuxt. Il vous permet d'afficher des pages de premier niveau ou imbriquées situées dans le répertoire {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

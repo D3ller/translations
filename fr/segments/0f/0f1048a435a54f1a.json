@@ -1,0 +1,14 @@
+{
+  "hash": "0f1048a435a54f1a",
+  "source": "This is the recommended way to add meta tags to your site as it is XSS safe and has full TypeScript support.",
+  "text": "C'est la méthode recommandée pour ajouter des balises meta à votre site, car elle est protégée contre les failles XSS et offre une prise en charge complète de TypeScript.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "C'est la méthode recommandée pour ajouter des balises meta à votre site, car elle est protégée contre les failles XSS et offre une prise en charge complète de TypeScript."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "cc779a2e118d4350",
+  "source": "Render components only in client-side with the <ClientOnly> component.",
+  "text": "Affichez des composants uniquement côté client avec le composant <ClientOnly>.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Affichez des composants uniquement côté client avec le composant <ClientOnly>."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

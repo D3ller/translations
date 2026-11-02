@@ -1,0 +1,14 @@
+{
+  "hash": "4026e01f93315a87",
+  "source": "Assigning a new value also refreshes the cookie expiration",
+  "text": "Assigner une nouvelle valeur actualise également l'expiration du cookie",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Assigner une nouvelle valeur actualise également l'expiration du cookie"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

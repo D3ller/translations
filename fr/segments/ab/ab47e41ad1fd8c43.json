@@ -1,0 +1,14 @@
+{
+  "hash": "ab47e41ad1fd8c43",
+  "source": "{0} ({1}): The URL or request to fetch.",
+  "text": "{0} ({1}) : l'URL ou la requête à récupérer.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} ({1}) : l'URL ou la requête à récupérer."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "2c1b6f1638cc6172",
+  "source": "Before committing your changes, to verify that the code style is correct, run:",
+  "text": "Avant de valider vos modifications, pour vérifier que le style du code est correct, exécutez :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Avant de valider vos modifications, pour vérifier que le style du code est correct, exécutez :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

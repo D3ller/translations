@@ -1,0 +1,14 @@
+{
+  "hash": "4398d46df293da7d",
+  "source": "If you were passing a custom page key or keep-alive props to {0}, you will now use {1} to set these options.",
+  "text": "Si vous passiez une clé de page personnalisée ou des props keep-alive à {0}, vous utiliserez désormais {1} pour définir ces options.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous passiez une clé de page personnalisée ou des props keep-alive à {0}, vous utiliserez désormais {1} pour définir ces options."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

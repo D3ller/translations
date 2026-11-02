@@ -1,0 +1,14 @@
+{
+  "hash": "acbdcdfcd8602a29",
+  "source": "How to Contribute to the Docs",
+  "text": "Comment contribuer à la documentation",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Comment contribuer à la documentation"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

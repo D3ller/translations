@@ -1,0 +1,14 @@
+{
+  "hash": "3e64ca11c8556c81",
+  "source": "In general, please also make sure that there are no *unrelated* changes in a PR. For example, if your editor has made any changes to whitespace or formatting elsewhere in a file that you edited, please revert these so it is more obvious what your PR changes. And please avoid including multiple unrelated features or fixes in a single PR. If it is possible to separate them, it is better to have multiple PRs to review and merge separately. In general, a PR should do *one thing only*.",
+  "text": "En général, veillez également à ce qu'il n'y ait aucune modification *sans rapport* dans une PR. Par exemple, si votre éditeur a modifié des espaces ou le formatage ailleurs dans un fichier que vous avez édité, annulez ces changements pour que ce que modifie votre PR soit plus évident. Évitez aussi d'inclure plusieurs fonctionnalités ou corrections sans rapport entre elles dans une même PR. S'il est possible de les séparer, il vaut mieux avoir plusieurs PR à relire et à fusionner séparément. En général, une PR ne doit faire *qu'une seule chose*.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En général, veillez également à ce qu'il n'y ait aucune modification *sans rapport* dans une PR. Par exemple, si votre éditeur a modifié des espaces ou le formatage ailleurs dans un fichier que vous avez édité, annulez ces changements pour que ce que modifie votre PR soit plus évident. Évitez aussi d'inclure plusieurs fonctionnalités ou corrections sans rapport entre elles dans une même PR. S'il est possible de les séparer, il vaut mieux avoir plusieurs PR à relire et à fusionner séparément. En général, une PR ne doit faire *qu'une seule chose*."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

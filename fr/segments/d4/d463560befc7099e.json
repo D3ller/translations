@@ -1,0 +1,14 @@
+{
+  "hash": "d463560befc7099e",
+  "source": "{0} is useful in combination with the {1}Pinia module{/1} to call store actions.",
+  "text": "{0} est utile en combinaison avec le {1}module Pinia{/1} pour appeler des actions de store.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est utile en combinaison avec le {1}module Pinia{/1} pour appeler des actions de store."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

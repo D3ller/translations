@@ -1,0 +1,14 @@
+{
+  "hash": "2571b6f13670c724",
+  "source": "Ensuring backward and upward compatibility as long as the module is using {0} from the latest version of {1}",
+  "text": "Garantie de compatibilité ascendante et descendante tant que le module utilise {0} de la dernière version de {1}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Garantie de compatibilité ascendante et descendante tant que le module utilise {0} de la dernière version de {1}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

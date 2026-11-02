@@ -1,0 +1,14 @@
+{
+  "hash": "693092d6c2ac4711",
+  "source": "The {0} command builds Nuxt and analyzes the production bundle (experimental).",
+  "text": "La commande {0} construit Nuxt et analyse le bundle de production (expérimental).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La commande {0} construit Nuxt et analyse le bundle de production (expérimental)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

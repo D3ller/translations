@@ -1,0 +1,14 @@
+{
+  "hash": "d4861ee4ac4ed9bd",
+  "source": "pages added dynamically with {0} in a plugin. To surface this early, {1} is removed from the type of the router returned by {2} when the option is enabled.",
+  "text": "les pages ajoutées dynamiquement avec {0} dans un plugin. Pour le détecter au plus tôt, {1} est retiré du type du routeur renvoyé par {2} lorsque l'option est activée.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "les pages ajoutées dynamiquement avec {0} dans un plugin. Pour le détecter au plus tôt, {1} est retiré du type du routeur renvoyé par {2} lorsque l'option est activée."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "af2afef2c6e143c5",
+  "source": "If Strategy",
+  "text": "Stratégie conditionnelle",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Stratégie conditionnelle"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

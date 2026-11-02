@@ -1,0 +1,14 @@
+{
+  "hash": "8dfe0696bcdda7f0",
+  "source": "This applies to any composable that uses {0} internally too.",
+  "text": "Cela s'applique aussi à tout composable qui utilise {0} en interne.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela s'applique aussi à tout composable qui utilise {0} en interne."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

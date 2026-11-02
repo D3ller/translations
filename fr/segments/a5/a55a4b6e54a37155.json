@@ -1,0 +1,14 @@
+{
+  "hash": "a55a4b6e54a37155",
+  "source": "Functionality Issues",
+  "text": "Problèmes de fonctionnalité",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Problèmes de fonctionnalité"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

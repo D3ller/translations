@@ -1,0 +1,14 @@
+{
+  "hash": "cd8e063baa53a3d4",
+  "source": "**Problem**: Using client-only conditions during SSR.",
+  "text": "**Problème** : utilisation de conditions propres au client pendant SSR.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Problème** : utilisation de conditions propres au client pendant SSR."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

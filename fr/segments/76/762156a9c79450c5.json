@@ -1,0 +1,14 @@
+{
+  "hash": "762156a9c79450c5",
+  "source": "You may define a {0}custom regular expression{/0} if you have a more complex pattern than can be expressed with the file name.",
+  "text": "Vous pouvez définir une {0}expression régulière personnalisée{/0} si vous avez un motif plus complexe que ce que le nom de fichier permet d'exprimer.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez définir une {0}expression régulière personnalisée{/0} si vous avez un motif plus complexe que ce que le nom de fichier permet d'exprimer."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

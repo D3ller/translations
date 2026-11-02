@@ -1,0 +1,14 @@
+{
+  "hash": "b79c7ac82da83bd8",
+  "source": "{0} provides helpers for testing in {1}Vitest Browser Mode{/1} via {2}.",
+  "text": "{0} fournit des helpers pour tester dans le {1}mode navigateur de Vitest{/1} via {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} fournit des helpers pour tester dans le {1}mode navigateur de Vitest{/1} via {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

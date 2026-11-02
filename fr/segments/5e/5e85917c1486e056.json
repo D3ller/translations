@@ -1,0 +1,14 @@
+{
+  "hash": "5e85917c1486e056",
+  "source": "In an interactive terminal, {0} renders a pinned panel: the server URLs, startup progress, the current status and a row of shortcuts, with logs folded above it. It falls back to a plain stream of logs when the output is not a terminal, in CI, when a debugger is attached, or when the terminal is too small.",
+  "text": "Dans un terminal interactif, {0} affiche un panneau épinglé : les URL du serveur, la progression du démarrage, l'état actuel et une rangée de raccourcis, avec les logs repliés au-dessus. Il revient à un simple flux de logs lorsque la sortie n'est pas un terminal, en CI, lorsqu'un débogueur est connecté ou lorsque le terminal est trop petit.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans un terminal interactif, {0} affiche un panneau épinglé : les URL du serveur, la progression du démarrage, l'état actuel et une rangée de raccourcis, avec les logs repliés au-dessus. Il revient à un simple flux de logs lorsque la sortie n'est pas un terminal, en CI, lorsqu'un débogueur est connecté ou lorsque le terminal est trop petit."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

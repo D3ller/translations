@@ -1,0 +1,14 @@
+{
+  "hash": "2458fc01a168fb6b",
+  "source": "Now, {0} and {1} behave consistently - by only fetch data when the key changes if the data has already been fetched once.",
+  "text": "Désormais, {0} et {1} se comportent de manière cohérente : ils ne récupèrent les données lors d'un changement de clé que si les données ont déjà été récupérées une fois.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Désormais, {0} et {1} se comportent de manière cohérente : ils ne récupèrent les données lors d'un changement de clé que si les données ont déjà été récupérées une fois."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "7cb02092c41b115e",
+  "source": "Nuxt DevTools example",
+  "text": "Exemple de Nuxt DevTools",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Exemple de Nuxt DevTools"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

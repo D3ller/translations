@@ -1,0 +1,14 @@
+{
+  "hash": "d8cfe83396d8631d",
+  "source": "When accessing the same {0} from {1}, you can access the same value on the server side as well.",
+  "text": "Lorsque vous accédez au même {0} depuis {1}, vous pouvez également obtenir la même valeur côté serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque vous accédez au même {0} depuis {1}, vous pouvez également obtenir la même valeur côté serveur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

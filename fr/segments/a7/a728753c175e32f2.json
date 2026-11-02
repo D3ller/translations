@@ -1,0 +1,14 @@
+{
+  "hash": "a728753c175e32f2",
+  "source": "You can explore the generated files by opening the {0}Nuxt DevTools{/0} in development mode and navigating to the **Virtual Files** tab.",
+  "text": "Vous pouvez explorer les fichiers générés en ouvrant les {0}Nuxt DevTools{/0} en mode développement et en accédant à l'onglet **Virtual Files**.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez explorer les fichiers générés en ouvrant les {0}Nuxt DevTools{/0} en mode développement et en accédant à l'onglet **Virtual Files**."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

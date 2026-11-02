@@ -1,0 +1,14 @@
+{
+  "hash": "71026239cc746be0",
+  "source": "{0} is a built-in composable that provides a way to set data on the server side every time a new HTTP request is made and receive that data on the client side. This way {1} allows you to take full control of the hydration cycle.",
+  "text": "{0} est un composable intégré qui permet de définir des données côté serveur à chaque nouvelle requête HTTP et de recevoir ces données côté client. Ainsi, {1} vous permet de prendre le contrôle total du cycle d'hydratation.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est un composable intégré qui permet de définir des données côté serveur à chaque nouvelle requête HTTP et de recevoir ces données côté client. Ainsi, {1} vous permet de prendre le contrôle total du cycle d'hydratation."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

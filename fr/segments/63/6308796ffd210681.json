@@ -1,0 +1,14 @@
+{
+  "hash": "6308796ffd210681",
+  "source": "Learn more about available Nitro lifecycle hooks.",
+  "text": "En savoir plus sur les hooks de cycle de vie de Nitro disponibles.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En savoir plus sur les hooks de cycle de vie de Nitro disponibles."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "3d0378f02c40b93d",
+  "source": "If you want to extend a remote source from a self-hosted GitHub or GitLab instance, you need to supply its URL with the {0} or {1} environment variable - or directly configure it with {2}the {3} option{/2} in your {4}.",
+  "text": "Si vous souhaitez étendre une source distante provenant d'une instance GitHub ou GitLab auto-hébergée, vous devez fournir son URL avec la variable d'environnement {0} ou {1}, ou la configurer directement avec {2}l'option {3}{/2} dans votre {4}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous souhaitez étendre une source distante provenant d'une instance GitHub ou GitLab auto-hébergée, vous devez fournir son URL avec la variable d'environnement {0} ou {1}, ou la configurer directement avec {2}l'option {3}{/2} dans votre {4}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

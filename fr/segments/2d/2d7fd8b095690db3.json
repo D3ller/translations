@@ -1,0 +1,14 @@
+{
+  "hash": "2d7fd8b095690db3",
+  "source": "accessing runtime config here",
+  "text": "accès au runtime config ici",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "accès au runtime config ici"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

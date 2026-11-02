@@ -1,0 +1,14 @@
+{
+  "hash": "a7d9074ec87a6915",
+  "source": "You can use these 'nightly' releases to beta test new features and changes.",
+  "text": "Vous pouvez utiliser ces versions « nightly » pour tester en bêta les nouvelles fonctionnalités et les changements.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez utiliser ces versions « nightly » pour tester en bêta les nouvelles fonctionnalités et les changements."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

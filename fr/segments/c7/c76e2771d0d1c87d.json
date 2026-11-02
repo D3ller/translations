@@ -1,0 +1,14 @@
+{
+  "hash": "c76e2771d0d1c87d",
+  "source": "route middleware that redirects unknown paths to existing pages",
+  "text": "les middleware de route qui redirigent les chemins inconnus vers des pages existantes",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "les middleware de route qui redirigent les chemins inconnus vers des pages existantes"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

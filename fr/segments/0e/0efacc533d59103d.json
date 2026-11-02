@@ -1,0 +1,14 @@
+{
+  "hash": "0efacc533d59103d",
+  "source": "Passing a custom string processes only the CSS variables matching that prefix, so {0} will process {1} variables and nothing else.",
+  "text": "Passer une chaîne personnalisée ne traite que les variables CSS correspondant à ce préfixe, donc {0} traitera les variables {1} et rien d'autre.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Passer une chaîne personnalisée ne traite que les variables CSS correspondant à ce préfixe, donc {0} traitera les variables {1} et rien d'autre."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

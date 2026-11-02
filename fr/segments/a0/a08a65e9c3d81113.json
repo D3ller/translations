@@ -1,0 +1,14 @@
+{
+  "hash": "a08a65e9c3d81113",
+  "source": "Disable Composition API support",
+  "text": "Désactiver la prise en charge de la Composition API",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Désactiver la prise en charge de la Composition API"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "ceacacde9edaf1db",
+  "source": "**Nitro v3**: The server engine is {0}rewritten on h3 v2 and srvx{/0}, with a {1}compatibility layer{/1} for server code you have not migrated yet",
+  "text": "**Nitro v3** : le moteur serveur est {0}réécrit sur h3 v2 et srvx{/0}, avec une {1}couche de compatibilité{/1} pour le code serveur que vous n'avez pas encore migré",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Nitro v3** : le moteur serveur est {0}réécrit sur h3 v2 et srvx{/0}, avec une {1}couche de compatibilité{/1} pour le code serveur que vous n'avez pas encore migré"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

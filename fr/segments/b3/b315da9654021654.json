@@ -1,0 +1,14 @@
+{
+  "hash": "b315da9654021654",
+  "source": "The {0} file tells Nuxt to ignore files in your project’s root directory ({1}) during the build phase.",
+  "text": "Le fichier {0} indique à Nuxt d'ignorer des fichiers du répertoire racine de votre projet ({1}) pendant la phase de build.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le fichier {0} indique à Nuxt d'ignorer des fichiers du répertoire racine de votre projet ({1}) pendant la phase de build."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

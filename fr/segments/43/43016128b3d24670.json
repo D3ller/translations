@@ -1,0 +1,14 @@
+{
+  "hash": "43016128b3d24670",
+  "source": "Use the modules/ directory to automatically register local modules within your application.",
+  "text": "Utilisez le répertoire modules/ pour enregistrer automatiquement les modules locaux dans votre application.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utilisez le répertoire modules/ pour enregistrer automatiquement les modules locaux dans votre application."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

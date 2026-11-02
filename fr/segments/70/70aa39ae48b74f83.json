@@ -1,0 +1,14 @@
+{
+  "hash": "70aa39ae48b74f83",
+  "source": "In the docs, every function that is not explicitly imported is auto-imported by Nuxt and can be used as-is in your code. You can find a reference for auto-imported components, composables and utilities in the {0}API section{/0}.",
+  "text": "Dans la documentation, chaque fonction qui n'est pas importée explicitement est importée automatiquement par Nuxt et peut être utilisée telle quelle dans votre code. Vous trouverez une référence des composants, composables et utilitaires importés automatiquement dans la {0}section API{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans la documentation, chaque fonction qui n'est pas importée explicitement est importée automatiquement par Nuxt et peut être utilisée telle quelle dans votre code. Vous trouverez une référence des composants, composables et utilitaires importés automatiquement dans la {0}section API{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

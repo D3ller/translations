@@ -1,0 +1,14 @@
+{
+  "hash": "55ddd16d593dcdcb",
+  "source": "{0} has known limitations inside islands; see the {1}{2} documentation{/1}.",
+  "text": "{0} présente des limitations connues dans les islands ; consultez la {1}documentation {2}{/1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} présente des limitations connues dans les islands ; consultez la {1}documentation {2}{/1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

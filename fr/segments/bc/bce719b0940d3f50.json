@@ -1,0 +1,14 @@
+{
+  "hash": "bce719b0940d3f50",
+  "source": "Passing Params to Dynamic Routes",
+  "text": "Passer des paramètres aux routes dynamiques",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Passer des paramètres aux routes dynamiques"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

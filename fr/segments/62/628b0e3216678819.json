@@ -1,0 +1,14 @@
+{
+  "hash": "628b0e3216678819",
+  "source": "reloadNuxtApp will perform a hard reload of the page.",
+  "text": "reloadNuxtApp effectue un rechargement complet de la page.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "reloadNuxtApp effectue un rechargement complet de la page."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

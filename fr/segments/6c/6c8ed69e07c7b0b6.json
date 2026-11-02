@@ -1,0 +1,14 @@
+{
+  "hash": "6c8ed69e07c7b0b6",
+  "source": "Event handler, or one handler per server API. Nuxt registers the implementation the application's server can run.",
+  "text": "Gestionnaire d'événements, ou un gestionnaire par API serveur. Nuxt enregistre l'implémentation que le serveur de l'application peut exécuter.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Gestionnaire d'événements, ou un gestionnaire par API serveur. Nuxt enregistre l'implémentation que le serveur de l'application peut exécuter."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

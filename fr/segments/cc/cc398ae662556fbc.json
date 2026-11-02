@@ -1,0 +1,14 @@
+{
+  "hash": "cc398ae662556fbc",
+  "source": "{0}Lighthouse{/0} audits performance, accessibility, SEO, progressive web apps, and best practices. It runs tests on your page and generates a report. Use failing audits as a guide to improve your site.",
+  "text": "{0}Lighthouse{/0} audite les performances, l'accessibilité, le SEO, les applications web progressives et les bonnes pratiques. Il exécute des tests sur votre page et génère un rapport. Utilisez les audits en échec comme guide pour améliorer votre site.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}Lighthouse{/0} audite les performances, l'accessibilité, le SEO, les applications web progressives et les bonnes pratiques. Il exécute des tests sur votre page et génère un rapport. Utilisez les audits en échec comme guide pour améliorer votre site."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

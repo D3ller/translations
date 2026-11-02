@@ -1,0 +1,14 @@
+{
+  "hash": "c7ee21f00bf55bed",
+  "source": "Discover all Nuxt Kit utilities.",
+  "text": "Découvrez tous les utilitaires de Nuxt Kit.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Découvrez tous les utilitaires de Nuxt Kit."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

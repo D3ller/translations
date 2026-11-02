@@ -1,0 +1,14 @@
+{
+  "hash": "383c64439234ac51",
+  "source": "Avoid fetching same key more than once at a time.",
+  "text": "Évite de récupérer plusieurs fois la même clé en même temps.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Évite de récupérer plusieurs fois la même clé en même temps."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "4cd039c7fbdd4982",
+  "source": "{0} is best for components that might not always need to be hydrated.",
+  "text": "{0} convient le mieux aux composants qui n'ont pas toujours besoin d'être hydratés.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} convient le mieux aux composants qui n'ont pas toujours besoin d'être hydratés."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

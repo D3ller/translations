@@ -1,0 +1,14 @@
+{
+  "hash": "a34068d9399cd273",
+  "source": "The contract has two sides:",
+  "text": "Le contrat comporte deux côtés :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le contrat comporte deux côtés :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

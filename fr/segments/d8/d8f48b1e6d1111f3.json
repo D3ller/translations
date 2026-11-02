@@ -1,0 +1,14 @@
+{
+  "hash": "d8f48b1e6d1111f3",
+  "source": "**{0}**: Browse all Nuxt blog posts including releases and tutorials",
+  "text": "**{0}** : parcourez tous les articles du blog Nuxt, y compris les versions et les tutoriels",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** : parcourez tous les articles du blog Nuxt, y compris les versions et les tutoriels"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

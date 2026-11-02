@@ -1,0 +1,14 @@
+{
+  "hash": "5dab067c2d56bd52",
+  "source": "The function to run once your app has finished initializing and the browser is idle.",
+  "text": "La fonction à exécuter une fois que votre application a fini de s'initialiser et que le navigateur est inactif.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La fonction à exécuter une fois que votre application a fini de s'initialiser et que le navigateur est inactif."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

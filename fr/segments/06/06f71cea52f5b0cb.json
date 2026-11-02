@@ -1,0 +1,14 @@
+{
+  "hash": "06f71cea52f5b0cb",
+  "source": "Define your module options interface",
+  "text": "Définissez l'interface des options de votre module",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définissez l'interface des options de votre module"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

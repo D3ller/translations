@@ -1,0 +1,14 @@
+{
+  "hash": "56045c4232e0e076",
+  "source": "\"Follow complete Nuxt guidelines from {0}\"",
+  "text": "« Suis les directives complètes de Nuxt disponibles sur {0} »",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "« Suis les directives complètes de Nuxt disponibles sur {0} »"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

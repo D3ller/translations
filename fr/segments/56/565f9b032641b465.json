@@ -1,0 +1,14 @@
+{
+  "hash": "565f9b032641b465",
+  "source": "{0} is unaffected: its {1} and {2} options are handled through {3} rather than the Vue Options API, so it works regardless of this flag.",
+  "text": "{0} n'est pas concerné : ses options {1} et {2} sont gérées via {3} plutôt que par l'API Options de Vue, il fonctionne donc indépendamment de ce flag.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} n'est pas concerné : ses options {1} et {2} sont gérées via {3} plutôt que par l'API Options de Vue, il fonctionne donc indépendamment de ce flag."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

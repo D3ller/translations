@@ -1,0 +1,14 @@
+{
+  "hash": "1aebf2806f868a25",
+  "source": "**{0}**: The previous {1} snapshot.",
+  "text": "**{0}** : l'instantané {1} précédent.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** : l'instantané {1} précédent."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

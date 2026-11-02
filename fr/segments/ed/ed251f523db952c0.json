@@ -1,0 +1,14 @@
+{
+  "hash": "ed251f523db952c0",
+  "source": "In Nitro v3, {0} no longer requires (or accepts) an {1} argument in server routes:",
+  "text": "Dans Nitro v3, {0} n'exige plus (et n'accepte plus) d'argument {1} dans les routes serveur :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans Nitro v3, {0} n'exige plus (et n'accepte plus) d'argument {1} dans les routes serveur :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

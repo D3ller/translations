@@ -1,0 +1,14 @@
+{
+  "hash": "8e7f17ead04b2cd3",
+  "source": "Redirects legacy urls",
+  "text": "Redirige les anciennes URL",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Redirige les anciennes URL"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

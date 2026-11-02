@@ -1,0 +1,14 @@
+{
+  "hash": "be16ead4974b3669",
+  "source": "{0} (object): Configuration for the fetch request. Extends {1}unjs/ofetch{/1} options and {2}. All options can be a static value, a {3}, or a computed value.",
+  "text": "{0} (object) : configuration de la requête de récupération. Étend les options de {1}unjs/ofetch{/1} et {2}. Toutes les options peuvent être une valeur statique, un {3} ou une valeur calculée.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} (object) : configuration de la requête de récupération. Étend les options de {1}unjs/ofetch{/1} et {2}. Toutes les options peuvent être une valeur statique, un {3} ou une valeur calculée."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

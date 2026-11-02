@@ -1,0 +1,14 @@
+{
+  "hash": "f8c4bbfe5db45dcd",
+  "source": "**Vite 8**: The bundler is {0}Rolldown rather than esbuild and Rollup{/0}",
+  "text": "**Vite 8** : le bundler est {0}Rolldown plutôt qu'esbuild et Rollup{/0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Vite 8** : le bundler est {0}Rolldown plutôt qu'esbuild et Rollup{/0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "7bffa8e851c04691",
+  "source": "When their props update, this will result in a network request that will update the rendered HTML in-place.",
+  "text": "Lorsque leurs props sont mises à jour, cela entraîne une requête réseau qui met à jour le HTML rendu sur place.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque leurs props sont mises à jour, cela entraîne une requête réseau qui met à jour le HTML rendu sur place."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

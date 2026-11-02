@@ -1,0 +1,14 @@
+{
+  "hash": "3d34d9cfa422ba4e",
+  "source": "Route groups are automatically available in the route metadata as {0}. This allows you to access the group information in your components for conditional logic, styling, or other purposes.",
+  "text": "Les groupes de routes sont automatiquement disponibles dans les métadonnées de la route sous {0}. Cela vous permet d'accéder aux informations du groupe dans vos composants pour de la logique conditionnelle, du style ou d'autres usages.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les groupes de routes sont automatiquement disponibles dans les métadonnées de la route sous {0}. Cela vous permet d'accéder aux informations du groupe dans vos composants pour de la logique conditionnelle, du style ou d'autres usages."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

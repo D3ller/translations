@@ -1,0 +1,14 @@
+{
+  "hash": "2296d439720db873",
+  "source": "**Example of working code:**",
+  "text": "**Exemple de code qui fonctionne :**",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Exemple de code qui fonctionne :**"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

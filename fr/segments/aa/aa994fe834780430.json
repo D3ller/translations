@@ -1,0 +1,14 @@
+{
+  "hash": "aa994fe834780430",
+  "source": "When a function is registered, Nuxt’s compiler automatically injects a unique key as an additional argument if the function is called with fewer than the specified number of arguments. This key remains stable between server-side rendering and client hydration.",
+  "text": "Lorsqu'une fonction est enregistrée, le compilateur de Nuxt injecte automatiquement une clé unique comme argument supplémentaire si la fonction est appelée avec moins d'arguments que le nombre spécifié. Cette clé reste stable entre le rendu côté serveur et l'hydratation côté client.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsqu'une fonction est enregistrée, le compilateur de Nuxt injecte automatiquement une clé unique comme argument supplémentaire si la fonction est appelée avec moins d'arguments que le nombre spécifié. Cette clé reste stable entre le rendu côté serveur et l'hydratation côté client."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

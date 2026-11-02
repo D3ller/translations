@@ -1,0 +1,14 @@
+{
+  "hash": "e9b0b9a1adbdca7e",
+  "source": "Create a {0} with the following content:",
+  "text": "Créez un fichier {0} avec le contenu suivant :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Créez un fichier {0} avec le contenu suivant :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

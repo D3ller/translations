@@ -1,0 +1,14 @@
+{
+  "hash": "c0acda082b2ad7c4",
+  "source": "Read and write a {0}sealed session cookie{/0}.",
+  "text": "Lit et écrit un {0}cookie de session scellé{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lit et écrit un {0}cookie de session scellé{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

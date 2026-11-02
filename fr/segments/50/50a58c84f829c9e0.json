@@ -1,0 +1,14 @@
+{
+  "hash": "50a58c84f829c9e0",
+  "source": "It can be set to {0}, which will render it like this:",
+  "text": "Elle peut être définie sur {0}, ce qui l'affichera ainsi :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Elle peut être définie sur {0}, ce qui l'affichera ainsi :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

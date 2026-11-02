@@ -1,0 +1,14 @@
+{
+  "hash": "0b728ec8b08d2f7e",
+  "source": "You might encounter chunk loading errors due to a network connectivity failure or a new deployment (which invalidates your old, hashed JS chunk URLs). Nuxt provides built-in support for handling chunk loading errors by performing a hard reload when a chunk fails to load during route navigation.",
+  "text": "Vous pouvez rencontrer des erreurs de chargement de chunks en raison d'une panne de connectivité réseau ou d'un nouveau déploiement (qui invalide les anciennes URL hachées de vos chunks JS). Nuxt prend en charge nativement la gestion de ces erreurs en effectuant un rechargement complet lorsqu'un chunk ne parvient pas à se charger pendant la navigation entre routes.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez rencontrer des erreurs de chargement de chunks en raison d'une panne de connectivité réseau ou d'un nouveau déploiement (qui invalide les anciennes URL hachées de vos chunks JS). Nuxt prend en charge nativement la gestion de ces erreurs en effectuant un rechargement complet lorsqu'un chunk ne parvient pas à se charger pendant la navigation entre routes."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

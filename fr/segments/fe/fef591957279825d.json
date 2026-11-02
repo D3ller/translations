@@ -1,0 +1,14 @@
+{
+  "hash": "fef591957279825d",
+  "source": "**No migration is required** - existing projects will continue to work as before.",
+  "text": "**Aucune migration n'est nécessaire** : les projets existants continueront de fonctionner comme avant.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Aucune migration n'est nécessaire** : les projets existants continueront de fonctionner comme avant."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

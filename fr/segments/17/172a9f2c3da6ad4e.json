@@ -1,0 +1,14 @@
+{
+  "hash": "172a9f2c3da6ad4e",
+  "source": "You cannot import Vue components directly in {0}.",
+  "text": "Vous ne pouvez pas importer directement des composants Vue dans {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous ne pouvez pas importer directement des composants Vue dans {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

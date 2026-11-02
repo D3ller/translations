@@ -1,0 +1,14 @@
+{
+  "hash": "6b1a8a7d812e5ba3",
+  "source": "Reasons for Change",
+  "text": "Raisons du changement",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Raisons du changement"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

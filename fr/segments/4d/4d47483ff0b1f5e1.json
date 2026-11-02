@@ -1,0 +1,14 @@
+{
+  "hash": "4d47483ff0b1f5e1",
+  "source": "Using a Custom Regular Expression",
+  "text": "Utiliser une expression régulière personnalisée",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utiliser une expression régulière personnalisée"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "a8ce9fd772ec9b6e",
+  "source": "We have raised PRs to update modules using EJS syntax, but if you need to do this yourself, you have three backwards/forwards-compatible alternatives:",
+  "text": "Nous avons ouvert des PR pour mettre à jour les modules utilisant la syntaxe EJS, mais si vous devez le faire vous-même, vous disposez de trois alternatives compatibles avec les versions antérieures et ultérieures :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nous avons ouvert des PR pour mettre à jour les modules utilisant la syntaxe EJS, mais si vous devez le faire vous-même, vous disposez de trois alternatives compatibles avec les versions antérieures et ultérieures :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

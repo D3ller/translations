@@ -1,0 +1,14 @@
+{
+  "hash": "c8684819ba54269d",
+  "source": "This injects an import map at the top of your {0} tag:",
+  "text": "Cela injecte une import map en haut de votre balise {0} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela injecte une import map en haut de votre balise {0} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

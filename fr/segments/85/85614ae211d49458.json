@@ -1,0 +1,14 @@
+{
+  "hash": "85614ae211d49458",
+  "source": "Define anonymous or named middleware directly within {0}. Learn more about {1}route middleware{/1}.",
+  "text": "Définissez un middleware anonyme ou nommé directement dans {0}. En savoir plus sur les {1}middleware de route{/1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définissez un middleware anonyme ou nommé directement dans {0}. En savoir plus sur les {1}middleware de route{/1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

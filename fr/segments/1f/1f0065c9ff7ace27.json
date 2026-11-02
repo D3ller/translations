@@ -1,0 +1,14 @@
+{
+  "hash": "1f0065c9ff7ace27",
+  "source": "Nuxt and hydration",
+  "text": "Nuxt et l'hydratation",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt et l'hydratation"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

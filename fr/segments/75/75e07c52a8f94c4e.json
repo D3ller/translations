@@ -1,0 +1,14 @@
+{
+  "hash": "75e07c52a8f94c4e",
+  "source": "localStorage doesn't exist on the server!",
+  "text": "localStorage n'existe pas sur le serveur !",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "localStorage n'existe pas sur le serveur !"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

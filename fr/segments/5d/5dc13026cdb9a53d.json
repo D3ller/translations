@@ -1,0 +1,14 @@
+{
+  "hash": "5dc13026cdb9a53d",
+  "source": "Islands work best on pages that are reached by full page loads (content and marketing pages) or when their number per page is small. If a component needs to update frequently on the client, an island is probably the wrong tool.",
+  "text": "Les islands fonctionnent mieux sur des pages atteintes par des chargements complets de page (pages de contenu et de marketing) ou lorsque leur nombre par page est faible. Si un composant doit être mis à jour fréquemment côté client, une island n'est probablement pas le bon outil.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les islands fonctionnent mieux sur des pages atteintes par des chargements complets de page (pages de contenu et de marketing) ou lorsque leur nombre par page est faible. Si un composant doit être mis à jour fréquemment côté client, une island n'est probablement pas le bon outil."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

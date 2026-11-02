@@ -1,0 +1,14 @@
+{
+  "hash": "c302979c76b69863",
+  "source": "This change provides several benefits:",
+  "text": "Cette modification apporte plusieurs avantages :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cette modification apporte plusieurs avantages :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

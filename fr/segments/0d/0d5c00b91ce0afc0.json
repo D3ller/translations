@@ -1,0 +1,14 @@
+{
+  "hash": "0d5c00b91ce0afc0",
+  "source": "**Relative paths are resolved from your project's {0}**, not from the file declaring the dependency. A module at {1} referencing {2} must use {3}, not {4}. Using a Nuxt alias such as {5} avoids this ambiguity.",
+  "text": "**Les chemins relatifs sont résolus à partir du {0} de votre projet**, et non à partir du fichier qui déclare la dépendance. Un module situé dans {1} qui référence {2} doit utiliser {3}, et non {4}. L'utilisation d'un alias Nuxt tel que {5} évite cette ambiguïté.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Les chemins relatifs sont résolus à partir du {0} de votre projet**, et non à partir du fichier qui déclare la dépendance. Un module situé dans {1} qui référence {2} doit utiliser {3}, et non {4}. L'utilisation d'un alias Nuxt tel que {5} évite cette ambiguïté."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

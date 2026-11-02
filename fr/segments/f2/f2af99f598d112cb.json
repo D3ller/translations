@@ -1,0 +1,14 @@
+{
+  "hash": "f2af99f598d112cb",
+  "source": "you can optionally set Nuxt-specific environment options",
+  "text": "vous pouvez éventuellement définir des options d'environnement propres à Nuxt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "vous pouvez éventuellement définir des options d'environnement propres à Nuxt"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

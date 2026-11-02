@@ -1,0 +1,14 @@
+{
+  "hash": "c095340aa24ae7a8",
+  "source": "Failed to parse island response.",
+  "text": "Échec de l'analyse de la réponse de l'island.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Échec de l'analyse de la réponse de l'island."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

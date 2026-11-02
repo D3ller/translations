@@ -1,0 +1,14 @@
+{
+  "hash": "4d20ddbf44e18117",
+  "source": "Copy the server URL to the clipboard",
+  "text": "Copier l'URL du serveur dans le presse-papiers",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Copier l'URL du serveur dans le presse-papiers"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

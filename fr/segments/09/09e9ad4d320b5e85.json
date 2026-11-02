@@ -1,0 +1,14 @@
+{
+  "hash": "09e9ad4d320b5e85",
+  "source": "Scan top-level composables",
+  "text": "Analyser les composables de premier niveau",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Analyser les composables de premier niveau"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

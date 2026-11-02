@@ -1,0 +1,14 @@
+{
+  "hash": "61d8871c10517646",
+  "source": "This strategy is implemented using a {0}Function Merger{/0}, which allows defining a custom merging strategy for every key in {1} that has an array as value.",
+  "text": "Cette stratégie est implémentée à l'aide d'un {0}Function Merger{/0}, qui permet de définir une stratégie de fusion personnalisée pour chaque clé de {1} dont la valeur est un tableau.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cette stratégie est implémentée à l'aide d'un {0}Function Merger{/0}, qui permet de définir une stratégie de fusion personnalisée pour chaque clé de {1} dont la valeur est un tableau."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

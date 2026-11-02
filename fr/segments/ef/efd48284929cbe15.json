@@ -1,0 +1,14 @@
+{
+  "hash": "efd48284929cbe15",
+  "source": "✅ Works - direct function call",
+  "text": "✅ Fonctionne - appel de fonction direct",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "✅ Fonctionne - appel de fonction direct"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

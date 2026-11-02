@@ -1,0 +1,14 @@
+{
+  "hash": "a225db9775a6608e",
+  "source": "You can read more {0}about direct API calls{/0} or {1}fetching data{/1}.",
+  "text": "Vous pouvez en savoir plus {0}sur les appels directs à l'API{/0} ou sur {1}la récupération de données{/1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez en savoir plus {0}sur les appels directs à l'API{/0} ou sur {1}la récupération de données{/1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

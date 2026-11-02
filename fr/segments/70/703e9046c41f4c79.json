@@ -1,0 +1,14 @@
+{
+  "hash": "703e9046c41f4c79",
+  "source": "Prefix component name by its path.",
+  "text": "Préfixe le nom du composant avec son chemin.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Préfixe le nom du composant avec son chemin."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

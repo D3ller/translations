@@ -1,0 +1,14 @@
+{
+  "hash": "f7ae70183a44b1d9",
+  "source": "Plugins also receive {0} as the first argument for convenience.",
+  "text": "Les plugins reçoivent aussi {0} comme premier argument, par commodité.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les plugins reçoivent aussi {0} comme premier argument, par commodité."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

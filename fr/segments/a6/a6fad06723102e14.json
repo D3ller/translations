@@ -1,0 +1,14 @@
+{
+  "hash": "a6fad06723102e14",
+  "source": "Additionally, Testing Library also relies on testing globals for cleanup. You should turn these on in your {0}Vitest config{/0}.",
+  "text": "De plus, Testing Library s'appuie aussi sur les globaux de test pour le nettoyage. Vous devez les activer dans votre {0}configuration de Vitest{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "De plus, Testing Library s'appuie aussi sur les globaux de test pour le nettoyage. Vous devez les activer dans votre {0}configuration de Vitest{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

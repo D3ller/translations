@@ -1,0 +1,14 @@
+{
+  "hash": "97dfe6f5c0b50c26",
+  "source": "Redirect rule for the route. Supports named routes, objects, or string paths.",
+  "text": "Règle de redirection de la route. Prend en charge les routes nommées, les objets ou les chemins sous forme de chaîne.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Règle de redirection de la route. Prend en charge les routes nommées, les objets ou les chemins sous forme de chaîne."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

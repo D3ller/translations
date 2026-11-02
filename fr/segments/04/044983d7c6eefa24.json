@@ -1,0 +1,14 @@
+{
+  "hash": "044983d7c6eefa24",
+  "source": "**{0}**: Whether an interactive host is present. When {1}, the primitives below log to the current process streams instead.",
+  "text": "**{0}** : indique si un hôte interactif est présent. Lorsque {1}, les primitives ci-dessous écrivent dans les flux du processus courant à la place.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** : indique si un hôte interactif est présent. Lorsque {1}, les primitives ci-dessous écrivent dans les flux du processus courant à la place."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

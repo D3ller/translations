@@ -1,0 +1,14 @@
+{
+  "hash": "5300ac02e554d393",
+  "source": "{0} is a helper function for creating Nuxt plugins with enhanced functionality and type safety. This utility normalizes different plugin formats into a consistent structure that works seamlessly within Nuxt's plugin system.",
+  "text": "{0} est une fonction helper permettant de créer des plugins Nuxt avec des fonctionnalités améliorées et une meilleure sûreté de typage. Cet utilitaire normalise différents formats de plugin en une structure cohérente qui fonctionne parfaitement au sein du système de plugins de Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est une fonction helper permettant de créer des plugins Nuxt avec des fonctionnalités améliorées et une meilleure sûreté de typage. Cet utilitaire normalise différents formats de plugin en une structure cohérente qui fonctionne parfaitement au sein du système de plugins de Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

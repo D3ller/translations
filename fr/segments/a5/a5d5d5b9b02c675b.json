@@ -1,0 +1,14 @@
+{
+  "hash": "a5d5d5b9b02c675b",
+  "source": "Read more about augmenting specific type contexts from **files outside those contexts** in the Module Author Guide.",
+  "text": "Pour en savoir plus sur l'augmentation de contextes de types spécifiques à partir de **fichiers situés en dehors de ces contextes**, consultez le guide de l'auteur de modules.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour en savoir plus sur l'augmentation de contextes de types spécifiques à partir de **fichiers situés en dehors de ces contextes**, consultez le guide de l'auteur de modules."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

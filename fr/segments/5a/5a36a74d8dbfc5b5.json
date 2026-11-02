@@ -1,0 +1,14 @@
+{
+  "hash": "5a36a74d8dbfc5b5",
+  "source": "Prerender routes while analyzing",
+  "text": "Prérendre les routes pendant l'analyse",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Prérendre les routes pendant l'analyse"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

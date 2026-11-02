@@ -1,0 +1,14 @@
+{
+  "hash": "16e24b0879de3c9a",
+  "source": "Nuxt calls this instead of starting its own dev file watcher, letting",
+  "text": "Nuxt appelle ceci au lieu de démarrer son propre observateur de fichiers de développement, ce qui permet",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt appelle ceci au lieu de démarrer son propre observateur de fichiers de développement, ce qui permet"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

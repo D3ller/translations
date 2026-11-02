@@ -1,0 +1,14 @@
+{
+  "hash": "a81b3c4c5ed966d9",
+  "source": "A JSON-serializable value, sent as JSON with the status and headers set on {0}.",
+  "text": "Une valeur sérialisable en JSON, envoyée en JSON avec le statut et les en-têtes définis sur {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une valeur sérialisable en JSON, envoyée en JSON avec le statut et les en-têtes définis sur {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

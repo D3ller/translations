@@ -1,0 +1,14 @@
+{
+  "hash": "00d6c6714efe9879",
+  "source": "Reindent and syntax-highlight output (default: on for a terminal, off when piped). Use {0}/{1} to force reindenting.",
+  "text": "Réindente et colore syntaxiquement la sortie (par défaut : activé dans un terminal, désactivé lorsque la sortie est redirigée). Utilisez {0}/{1} pour forcer la réindentation.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Réindente et colore syntaxiquement la sortie (par défaut : activé dans un terminal, désactivé lorsque la sortie est redirigée). Utilisez {0}/{1} pour forcer la réindentation."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

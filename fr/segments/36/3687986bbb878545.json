@@ -1,0 +1,14 @@
+{
+  "hash": "3687986bbb878545",
+  "source": "If a plugin needs to wait for another plugin before it runs, you can add the plugin's name to the {0} array.",
+  "text": "Si un plugin doit attendre qu'un autre plugin s'exécute avant de se lancer, vous pouvez ajouter le nom de ce plugin au tableau {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si un plugin doit attendre qu'un autre plugin s'exécute avant de se lancer, vous pouvez ajouter le nom de ce plugin au tableau {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

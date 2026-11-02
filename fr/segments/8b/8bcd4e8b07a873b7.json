@@ -1,0 +1,14 @@
+{
+  "hash": "8bcd4e8b07a873b7",
+  "source": "To customize the serialization behavior, you can define a {0} function on your returned object. If you define a {1} method, Nuxt will respect the return type of the function and will not try to convert the types.",
+  "text": "Pour personnaliser le comportement de la sérialisation, vous pouvez définir une fonction {0} sur l'objet retourné. Si vous définissez une méthode {1}, Nuxt respectera le type de retour de la fonction et n'essaiera pas de convertir les types.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour personnaliser le comportement de la sérialisation, vous pouvez définir une fonction {0} sur l'objet retourné. Si vous définissez une méthode {1}, Nuxt respectera le type de retour de la fonction et n'essaiera pas de convertir les types."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

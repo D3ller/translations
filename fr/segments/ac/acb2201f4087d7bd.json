@@ -1,0 +1,14 @@
+{
+  "hash": "acb2201f4087d7bd",
+  "source": "See the full list of options in the {0}{1} documentation{/0}.",
+  "text": "Consultez la liste complète des options dans la {0}documentation de {1}{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Consultez la liste complète des options dans la {0}documentation de {1}{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

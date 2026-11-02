@@ -1,0 +1,14 @@
+{
+  "hash": "821960c9d54dad95",
+  "source": "Path to event handler.",
+  "text": "Chemin vers le gestionnaire d'événements.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Chemin vers le gestionnaire d'événements."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

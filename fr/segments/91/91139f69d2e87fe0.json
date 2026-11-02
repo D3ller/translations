@@ -1,0 +1,14 @@
+{
+  "hash": "91139f69d2e87fe0",
+  "source": "Stream server logs to the client as you are developing. These logs can be handled in the {0} hook.",
+  "text": "Diffuse les logs du serveur vers le client pendant le développement. Ces logs peuvent être gérés dans le hook {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Diffuse les logs du serveur vers le client pendant le développement. Ces logs peuvent être gérés dans le hook {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

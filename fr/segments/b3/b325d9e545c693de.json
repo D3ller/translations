@@ -1,0 +1,14 @@
+{
+  "hash": "b325d9e545c693de",
+  "source": "Resolved path to the file where the function is defined. Supports Nuxt aliases ({0}, {1}, etc.)",
+  "text": "Chemin résolu vers le fichier où la fonction est définie. Prend en charge les alias Nuxt ({0}, {1}, etc.)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Chemin résolu vers le fichier où la fonction est définie. Prend en charge les alias Nuxt ({0}, {1}, etc.)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "4e1998af8c7b5a4d",
+  "source": "This is particularly useful when you want to disable modules inherited from {0}Nuxt layers{/0}.",
+  "text": "C'est particulièrement utile lorsque vous souhaitez désactiver des modules hérités de {0}layers Nuxt (couches){/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "C'est particulièrement utile lorsque vous souhaitez désactiver des modules hérités de {0}layers Nuxt (couches){/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

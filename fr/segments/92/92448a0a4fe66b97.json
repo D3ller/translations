@@ -1,0 +1,14 @@
+{
+  "hash": "92448a0a4fe66b97",
+  "source": "Replace legacy checks in your app code, modules, and libraries:",
+  "text": "Remplacez les vérifications héritées dans le code de votre application, vos modules et vos bibliothèques :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Remplacez les vérifications héritées dans le code de votre application, vos modules et vos bibliothèques :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "8922a1695bbdeeba",
+  "source": "When {0} is set to {1}, the component also accepts properties from {2}Intl.RelativeTimeFormat{/2}:",
+  "text": "Lorsque {0} est défini sur {1}, le composant accepte également les propriétés de {2}Intl.RelativeTimeFormat{/2} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque {0} est défini sur {1}, le composant accepte également les propriétés de {2}Intl.RelativeTimeFormat{/2} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "b0d9ff3b1bd35852",
+  "source": "Common places a font stays invisible to the scan:",
+  "text": "Voici les cas courants où une police reste invisible pour l'analyse :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Voici les cas courants où une police reste invisible pour l'analyse :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

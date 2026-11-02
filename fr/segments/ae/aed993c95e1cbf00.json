@@ -1,0 +1,14 @@
+{
+  "hash": "aed993c95e1cbf00",
+  "source": "Nuxt 3 provides new options for {0}fetching data from an API{/0}.",
+  "text": "Nuxt 3 propose de nouvelles options pour {0}récupérer des données depuis une API{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt 3 propose de nouvelles options pour {0}récupérer des données depuis une API{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

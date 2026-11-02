@@ -1,0 +1,14 @@
+{
+  "hash": "24ffa813f12518dd",
+  "source": "If you were checking if {0} or {1} were {2}, you can update these checks to check for {3} instead.",
+  "text": "Si vous vérifiiez si {0} ou {1} valaient {2}, vous pouvez mettre à jour ces vérifications pour tester {3} à la place.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous vérifiiez si {0} ou {1} valaient {2}, vous pouvez mettre à jour ces vérifications pour tester {3} à la place."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

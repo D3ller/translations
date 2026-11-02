@@ -1,0 +1,14 @@
+{
+  "hash": "79b75c0899a2328d",
+  "source": "providing the route as an argument so that it can be used in middleware correctly",
+  "text": "fournir la route en argument afin de pouvoir l'utiliser correctement dans un middleware",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "fournir la route en argument afin de pouvoir l'utiliser correctement dans un middleware"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "60fed960f741f0b2",
+  "source": "You can also pass a number which serves as a max timeout.",
+  "text": "Vous pouvez également passer un nombre qui sert de délai d'expiration maximal.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez également passer un nombre qui sert de délai d'expiration maximal."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

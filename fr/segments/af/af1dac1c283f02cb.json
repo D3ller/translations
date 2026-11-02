@@ -1,0 +1,14 @@
+{
+  "hash": "af1dac1c283f02cb",
+  "source": "Tree shake composables from the server or client builds.",
+  "text": "Élimine par tree shaking les composables des builds serveur ou client.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Élimine par tree shaking les composables des builds serveur ou client."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

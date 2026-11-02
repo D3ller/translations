@@ -1,0 +1,14 @@
+{
+  "hash": "1e6efd56df4ae530",
+  "source": "The classic solution to this, is caching the current instance on first call to a local variable like {0} and use it in the next composable call but the issue is that any nested composable calls now needs to explicitly accept the instance as an argument and not depend on the implicit context of composition-api. This is design limitation with composables and not an issue per-se.",
+  "text": "La solution classique consiste à mettre en cache l'instance courante lors du premier appel dans une variable locale comme {0} et à l'utiliser dans l'appel de composable suivant. Le problème est que tout appel de composable imbriqué doit alors accepter explicitement l'instance en argument et ne plus dépendre du contexte implicite de l'API Composition. C'est une limitation de conception des composables et non un problème en soi.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La solution classique consiste à mettre en cache l'instance courante lors du premier appel dans une variable locale comme {0} et à l'utiliser dans l'appel de composable suivant. Le problème est que tout appel de composable imbriqué doit alors accepter explicitement l'instance en argument et ne plus dépendre du contexte implicite de l'API Composition. C'est une limitation de conception des composables et non un problème en soi."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

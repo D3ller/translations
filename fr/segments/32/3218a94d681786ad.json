@@ -1,0 +1,14 @@
+{
+  "hash": "3218a94d681786ad",
+  "source": "Set the layout from route middleware, or statically with {0}.",
+  "text": "Définissez le layout depuis un middleware de route, ou de manière statique avec {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définissez le layout depuis un middleware de route, ou de manière statique avec {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

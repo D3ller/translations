@@ -1,0 +1,14 @@
+{
+  "hash": "945a30510ec67ae3",
+  "source": "{0} (object): Configuration for the asynchronous function call. All options can be a static value, a {1}, or a computed value.",
+  "text": "{0} (objet) : configuration de l'appel de la fonction asynchrone. Toutes les options peuvent être une valeur statique, une {1} ou une valeur calculée.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} (objet) : configuration de l'appel de la fonction asynchrone. Toutes les options peuvent être une valeur statique, une {1} ou une valeur calculée."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "787f88ba1da353e6",
+  "source": "{0} is an SSR-friendly {1} replacement. Its value will be preserved after server-side rendering (during client-side hydration) and shared across all components using a unique key.",
+  "text": "{0} est un remplacement de {1} compatible avec le SSR. Sa valeur est conservée après le rendu côté serveur (pendant l'hydratation côté client) et partagée entre tous les composants qui utilisent une clé unique.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est un remplacement de {1} compatible avec le SSR. Sa valeur est conservée après le rendu côté serveur (pendant l'hydratation côté client) et partagée entre tous les composants qui utilisent une clé unique."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

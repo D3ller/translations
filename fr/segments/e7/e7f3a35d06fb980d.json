@@ -1,0 +1,14 @@
+{
+  "hash": "e7f3a35d06fb980d",
+  "source": "3D models",
+  "text": "Modèles 3D",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Modèles 3D"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

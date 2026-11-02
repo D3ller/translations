@@ -1,0 +1,14 @@
+{
+  "hash": "644978b8e58bf770",
+  "source": "Real-time accessibility feedback and automated testing in your browser during development (see {0}nuxt/nuxt#23255{/0}).",
+  "text": "Retours d'accessibilité en temps réel et tests automatisés dans votre navigateur pendant le développement (voir {0}nuxt/nuxt#23255{/0}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Retours d'accessibilité en temps réel et tests automatisés dans votre navigateur pendant le développement (voir {0}nuxt/nuxt#23255{/0})."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

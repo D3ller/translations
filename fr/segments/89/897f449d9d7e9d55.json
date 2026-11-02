@@ -1,0 +1,14 @@
+{
+  "hash": "897f449d9d7e9d55",
+  "source": "The {0} composable uses {1} under the hood to automatically forward the request context and headers.",
+  "text": "Le composable {0} utilise {1} en interne pour transmettre automatiquement le contexte et les en-têtes de la requête.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le composable {0} utilise {1} en interne pour transmettre automatiquement le contexte et les en-têtes de la requête."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

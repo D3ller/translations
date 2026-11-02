@@ -1,0 +1,14 @@
+{
+  "hash": "4432cffe1ce01358",
+  "source": "Components are the building blocks of your Nuxt application. They are reusable Vue instances that can be used to create a user interface. In Nuxt, components from the components directory are automatically imported by default. However, if you need to import components from an alternative directory or wish to selectively import them as needed, {0} provides the {1} and {2} methods. These utils allow you to customize the component configuration to better suit your needs.",
+  "text": "Les composants sont les éléments de base de votre application Nuxt. Ce sont des instances Vue réutilisables qui permettent de créer une interface utilisateur. Dans Nuxt, les composants du répertoire components sont importés automatiquement par défaut. Cependant, si vous devez importer des composants depuis un autre répertoire ou souhaitez les importer de façon sélective selon vos besoins, {0} fournit les méthodes {1} et {2}. Ces utilitaires vous permettent de personnaliser la configuration des composants pour mieux répondre à vos besoins.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les composants sont les éléments de base de votre application Nuxt. Ce sont des instances Vue réutilisables qui permettent de créer une interface utilisateur. Dans Nuxt, les composants du répertoire components sont importés automatiquement par défaut. Cependant, si vous devez importer des composants depuis un autre répertoire ou souhaitez les importer de façon sélective selon vos besoins, {0} fournit les méthodes {1} et {2}. Ces utilitaires vous permettent de personnaliser la configuration des composants pour mieux répondre à vos besoins."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "458b5aee0bc664c3",
+  "source": "Every Vue component created in the {0} directory of a Nuxt project will be available in your project without having to import it. If a component is not used anywhere, your production’s code will not include it.",
+  "text": "Chaque composant Vue créé dans le répertoire {0} d'un projet Nuxt sera disponible dans votre projet sans avoir à l'importer. Si un composant n'est utilisé nulle part, le code de production ne l'inclura pas.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Chaque composant Vue créé dans le répertoire {0} d'un projet Nuxt sera disponible dans votre projet sans avoir à l'importer. Si un composant n'est utilisé nulle part, le code de production ne l'inclura pas."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

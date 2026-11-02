@@ -1,0 +1,14 @@
+{
+  "hash": "aea045e20f0c1927",
+  "source": "Unused code / dependencies",
+  "text": "Code et dépendances inutilisés",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Code et dépendances inutilisés"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

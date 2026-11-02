@@ -1,0 +1,14 @@
+{
+  "hash": "213cca0f3ddafdb5",
+  "source": "After initializing the Nitro server, middleware under {0} is executed for every request. Middleware can be used for tasks such as authentication, logging, or request transformation.",
+  "text": "Après l'initialisation du serveur Nitro, les middleware présents dans {0} sont exécutés pour chaque requête. Ils peuvent servir à des tâches telles que l'authentification, la journalisation ou la transformation des requêtes.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Après l'initialisation du serveur Nitro, les middleware présents dans {0} sont exécutés pour chaque requête. Ils peuvent servir à des tâches telles que l'authentification, la journalisation ou la transformation des requêtes."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

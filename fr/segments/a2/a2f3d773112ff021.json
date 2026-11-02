@@ -1,0 +1,14 @@
+{
+  "hash": "a2f3d773112ff021",
+  "source": "Return data in a deep ref object. Defaults to {0} for improved performance (shallow ref object).",
+  "text": "Renvoie les données dans un objet ref profond. Vaut {0} par défaut pour de meilleures performances (objet ref superficiel).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Renvoie les données dans un objet ref profond. Vaut {0} par défaut pour de meilleures performances (objet ref superficiel)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

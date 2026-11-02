@@ -1,0 +1,14 @@
+{
+  "hash": "278c336acb0bc162",
+  "source": "If strategy is best for components that might not always need to be hydrated.",
+  "text": "La stratégie conditionnelle convient aux composants qui n'ont pas toujours besoin d'être hydratés.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La stratégie conditionnelle convient aux composants qui n'ont pas toujours besoin d'être hydratés."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

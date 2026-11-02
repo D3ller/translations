@@ -1,0 +1,14 @@
+{
+  "hash": "70bc43b522034987",
+  "source": "This means that when the route is server-rendered, or statically generated, you will be able to see its contents correctly, but when you navigate towards that route during client-side navigation the transition between routes will fail and you'll see that the route will not be rendered.",
+  "text": "Cela signifie que lorsque la route est rendue côté serveur ou générée statiquement, vous pourrez voir correctement son contenu, mais que lorsque vous naviguez vers cette route lors d'une navigation côté client, la transition entre les routes échouera et vous verrez que la route n'est pas rendue.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela signifie que lorsque la route est rendue côté serveur ou générée statiquement, vous pourrez voir correctement son contenu, mais que lorsque vous naviguez vers cette route lors d'une navigation côté client, la transition entre les routes échouera et vous verrez que la route n'est pas rendue."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

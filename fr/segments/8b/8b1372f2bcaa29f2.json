@@ -1,0 +1,14 @@
+{
+  "hash": "8b1372f2bcaa29f2",
+  "source": "The {0} option controls whether {1} resets state to its initial value (provided by the {2} function of {3}) instead of setting it to {4}. This defaults to {5} with {6}.",
+  "text": "L'option {0} détermine si {1} réinitialise l'état à sa valeur initiale (fournie par la fonction {2} de {3}) au lieu de le définir à {4}. La valeur par défaut est {5} avec {6}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'option {0} détermine si {1} réinitialise l'état à sa valeur initiale (fournie par la fonction {2} de {3}) au lieu de le définir à {4}. La valeur par défaut est {5} avec {6}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

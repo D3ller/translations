@@ -1,0 +1,14 @@
+{
+  "hash": "7ea563fd585f7d34",
+  "source": "Open VS Code and access the Command Palette (Ctrl/Cmd + Shift + P)",
+  "text": "Ouvrez VS Code et accédez à la palette de commandes (Ctrl/Cmd + Maj + P)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ouvrez VS Code et accédez à la palette de commandes (Ctrl/Cmd + Maj + P)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "0bcf47b68f186680",
+  "source": "The above changes should have minimal impact on your app.",
+  "text": "Les changements ci-dessus devraient avoir un impact minimal sur votre application.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les changements ci-dessus devraient avoir un impact minimal sur votre application."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "08133143795056d2",
+  "source": "The result of the asynchronous fetch.",
+  "text": "Le résultat de la récupération asynchrone.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le résultat de la récupération asynchrone."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

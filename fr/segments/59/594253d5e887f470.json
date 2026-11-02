@@ -1,0 +1,14 @@
+{
+  "hash": "594253d5e887f470",
+  "source": "The task's result is printed as JSON. A payload can be given as a single JSON object or built up from individual keys:",
+  "text": "Le résultat de la tâche est affiché en JSON. Un payload peut être fourni sous la forme d'un unique objet JSON ou construit à partir de clés individuelles :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le résultat de la tâche est affiché en JSON. Un payload peut être fourni sous la forme d'un unique objet JSON ou construit à partir de clés individuelles :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

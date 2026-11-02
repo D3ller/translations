@@ -1,0 +1,14 @@
+{
+  "hash": "d7e7b07cb16f6c7d",
+  "source": "Payload URL includes a hostname.",
+  "text": "L'URL du payload (charge utile) inclut un nom d'hôte.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'URL du payload (charge utile) inclut un nom d'hôte."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

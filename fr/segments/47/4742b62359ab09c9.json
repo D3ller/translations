@@ -1,0 +1,14 @@
+{
+  "hash": "4742b62359ab09c9",
+  "source": "A filename can declare a variable weight range as two CSS weights, separated by a space, hyphen or dot: {0}, {1} or {2} are all read as covering {3} to {4}. Both bounds have to be recognised weights (a multiple of 100 between 100 and 900) in ascending order, so {5} is still read as a single {6} weight.",
+  "text": "Un nom de fichier peut déclarer une plage de graisses variable sous la forme de deux graisses CSS, séparées par un espace, un trait d'union ou un point : {0}, {1} ou {2} sont tous lus comme couvrant de {3} à {4}. Les deux bornes doivent être des graisses reconnues (un multiple de 100 entre 100 et 900) par ordre croissant ; ainsi {5} est toujours lu comme une graisse unique {6}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un nom de fichier peut déclarer une plage de graisses variable sous la forme de deux graisses CSS, séparées par un espace, un trait d'union ou un point : {0}, {1} ou {2} sont tous lus comme couvrant de {3} à {4}. Les deux bornes doivent être des graisses reconnues (un multiple de 100 entre 100 et 900) par ordre croissant ; ainsi {5} est toujours lu comme une graisse unique {6}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

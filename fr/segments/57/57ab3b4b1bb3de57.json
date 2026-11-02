@@ -1,0 +1,14 @@
+{
+  "hash": "57ab3b4b1bb3de57",
+  "source": "Your {0} files will not be read at this point. How you do this is different for every environment.",
+  "text": "Vos fichiers {0} ne seront pas lus à ce stade. La manière de procéder diffère selon chaque environnement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vos fichiers {0} ne seront pas lus à ce stade. La manière de procéder diffère selon chaque environnement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

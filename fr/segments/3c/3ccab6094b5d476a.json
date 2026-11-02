@@ -1,0 +1,14 @@
+{
+  "hash": "3ccab6094b5d476a",
+  "source": "For local production preview purpose, we recommend using {0} since using this command, the {1} file will be loaded into {2} for convenience. Note that this command requires dependencies to be installed in the package directory.",
+  "text": "Pour prévisualiser la production en local, nous recommandons d'utiliser {0}, car avec cette commande, le fichier {1} sera chargé dans {2} par commodité. Notez que cette commande nécessite que les dépendances soient installées dans le répertoire du package.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour prévisualiser la production en local, nous recommandons d'utiliser {0}, car avec cette commande, le fichier {1} sera chargé dans {2} par commodité. Notez que cette commande nécessite que les dépendances soient installées dans le répertoire du package."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

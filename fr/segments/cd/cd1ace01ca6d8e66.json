@@ -1,0 +1,14 @@
+{
+  "hash": "cd1ace01ca6d8e66",
+  "source": "Typed API Routes",
+  "text": "Routes d'API typées",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Routes d'API typées"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

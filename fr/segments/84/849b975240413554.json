@@ -1,0 +1,14 @@
+{
+  "hash": "849b975240413554",
+  "source": "Default registry is loaded from {0}nuxt/starter/templates{/0}",
+  "text": "Le registre par défaut est chargé depuis {0}nuxt/starter/templates{/0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le registre par défaut est chargé depuis {0}nuxt/starter/templates{/0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

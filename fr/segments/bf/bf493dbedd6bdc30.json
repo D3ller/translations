@@ -1,0 +1,14 @@
+{
+  "hash": "bf493dbedd6bdc30",
+  "source": "When sending a pull request, make sure your PR's title also follows the {0}Commit Convention{/0}.",
+  "text": "Lorsque vous envoyez une pull request, assurez-vous que le titre de votre PR respecte également la {0}convention de commit{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque vous envoyez une pull request, assurez-vous que le titre de votre PR respecte également la {0}convention de commit{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

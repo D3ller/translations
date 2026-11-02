@@ -1,0 +1,14 @@
+{
+  "hash": "3c9a1214e46ba858",
+  "source": "your module, but it allows you to change the other module's configuration before it runs",
+  "text": "votre module, mais cela vous permet de modifier la configuration de l'autre module avant son exécution",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "votre module, mais cela vous permet de modifier la configuration de l'autre module avant son exécution"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "1d965e42759d6c2d",
+  "source": "**Eight built-in providers**: {0}, {1}, {2}, {3}, {4}, {5}, {6} and {7}, plus any {8}provider{/8} you write.",
+  "text": "**Huit providers intégrés** : {0}, {1}, {2}, {3}, {4}, {5}, {6} et {7}, ainsi que tout {8}provider{/8} que vous écrivez.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Huit providers intégrés** : {0}, {1}, {2}, {3}, {4}, {5}, {6} et {7}, ainsi que tout {8}provider{/8} que vous écrivez."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

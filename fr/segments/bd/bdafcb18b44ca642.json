@@ -1,0 +1,14 @@
+{
+  "hash": "bdafcb18b44ca642",
+  "source": "Reserved runtimeConfig.app namespace",
+  "text": "Espace de noms runtimeConfig.app réservé",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Espace de noms runtimeConfig.app réservé"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

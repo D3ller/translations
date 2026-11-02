@@ -1,0 +1,14 @@
+{
+  "hash": "5e688790f1cce27b",
+  "source": "{0}, {1}, {2}, {3} and {4} are always normalized to arrays, so interceptors from the caller and from other addons are preserved.",
+  "text": "{0}, {1}, {2}, {3} et {4} sont toujours normalisés en tableaux, de sorte que les intercepteurs de l'appelant et ceux des autres addons sont préservés.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}, {1}, {2}, {3} et {4} sont toujours normalisés en tableaux, de sorte que les intercepteurs de l'appelant et ceux des autres addons sont préservés."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

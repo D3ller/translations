@@ -1,0 +1,14 @@
+{
+  "hash": "1750df04874deb48",
+  "source": "The package manager ({0} or {1} or {2} or {3} or {4}) creates this directory to store the dependencies of your project.",
+  "text": "Le gestionnaire de packages ({0} ou {1} ou {2} ou {3} ou {4}) crée ce répertoire pour stocker les dépendances de votre projet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le gestionnaire de packages ({0} ou {1} ou {2} ou {3} ou {4}) crée ce répertoire pour stocker les dépendances de votre projet."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

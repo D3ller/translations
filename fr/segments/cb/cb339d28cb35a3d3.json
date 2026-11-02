@@ -1,0 +1,14 @@
+{
+  "hash": "cb339d28cb35a3d3",
+  "source": "watch and rebuild routes template list when one of the pages changes",
+  "text": "surveiller et reconstruire la liste des routes du template lorsqu'une des pages change",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "surveiller et reconstruire la liste des routes du template lorsqu'une des pages change"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

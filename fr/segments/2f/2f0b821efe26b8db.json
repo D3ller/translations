@@ -1,0 +1,14 @@
+{
+  "hash": "2f0b821efe26b8db",
+  "source": "Selective Hydration with {0}",
+  "text": "Hydratation sélective avec {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Hydratation sélective avec {0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

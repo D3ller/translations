@@ -1,0 +1,14 @@
+{
+  "hash": "0a1d8c93d9fa174d",
+  "source": "It can be enabled with the {0} option in your configuration file",
+  "text": "Vous pouvez l'activer avec l'option {0} dans votre fichier de configuration",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez l'activer avec l'option {0} dans votre fichier de configuration"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "6728ab21e39229df",
+  "source": "Scroll Behavior for hash links",
+  "text": "Comportement de défilement pour les liens hash",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Comportement de défilement pour les liens hash"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

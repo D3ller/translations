@@ -1,0 +1,14 @@
+{
+  "hash": "32a361944d9a5acd",
+  "source": "You can override a layer's alias by specifying it in the options next to the layer source.",
+  "text": "Vous pouvez remplacer l'alias d'un layer en le spécifiant dans les options, à côté de la source du layer.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez remplacer l'alias d'un layer en le spécifiant dans les options, à côté de la source du layer."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

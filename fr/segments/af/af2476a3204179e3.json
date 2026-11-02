@@ -1,0 +1,14 @@
+{
+  "hash": "af2476a3204179e3",
+  "source": "Return data in a deep ref object.",
+  "text": "Retourne les données dans un objet ref profond.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Retourne les données dans un objet ref profond."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

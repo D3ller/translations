@@ -1,0 +1,14 @@
+{
+  "hash": "8ce507a434c3b6be",
+  "source": "In the table below, there is a quick comparison between 3 versions of Nuxt:",
+  "text": "Le tableau ci-dessous présente une comparaison rapide entre 3 versions de Nuxt :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le tableau ci-dessous présente une comparaison rapide entre 3 versions de Nuxt :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

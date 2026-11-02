@@ -1,0 +1,14 @@
+{
+  "hash": "3baa31d313b80913",
+  "source": "\"Get the introduction documentation\"",
+  "text": "« Récupère la documentation d'introduction »",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "« Récupère la documentation d'introduction »"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

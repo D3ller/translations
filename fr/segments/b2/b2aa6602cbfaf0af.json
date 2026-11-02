@@ -1,0 +1,14 @@
+{
+  "hash": "b2aa6602cbfaf0af",
+  "source": "Possible breaking change: {0} receives the nuxt app but cannot access the component instance. If the code in your {1} tries to access the data object through {2} or {3}, you will need to migrate to the {4} composable.",
+  "text": "Rupture de compatibilité possible : {0} reçoit l'application nuxt mais ne peut pas accéder à l'instance du composant. Si le code de votre {1} tente d'accéder à l'objet data via {2} ou {3}, vous devrez migrer vers le composable {4}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Rupture de compatibilité possible : {0} reçoit l'application nuxt mais ne peut pas accéder à l'instance du composant. Si le code de votre {1} tente d'accéder à l'objet data via {2} ou {3}, vous devrez migrer vers le composable {4}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

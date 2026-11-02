@@ -1,0 +1,14 @@
+{
+  "hash": "84b4414a2e7df468",
+  "source": "Specify named or default export. If not provided, it will be set to {0}.",
+  "text": "Spécifie l'export nommé ou par défaut. S'il n'est pas fourni, il sera défini à {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Spécifie l'export nommé ou par défaut. S'il n'est pas fourni, il sera défini à {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

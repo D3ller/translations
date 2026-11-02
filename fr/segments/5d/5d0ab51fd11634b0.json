@@ -1,0 +1,14 @@
+{
+  "hash": "5d0ab51fd11634b0",
+  "source": "There are multiple ways to extend the TypeScript configuration of the user's project from your module.",
+  "text": "Il existe plusieurs façons d'étendre la configuration TypeScript du projet de l'utilisateur depuis votre module.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Il existe plusieurs façons d'étendre la configuration TypeScript du projet de l'utilisateur depuis votre module."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

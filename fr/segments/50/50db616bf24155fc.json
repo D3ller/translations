@@ -1,0 +1,14 @@
+{
+  "hash": "50db616bf24155fc",
+  "source": "Functions to inject a key for.",
+  "text": "Fonctions pour lesquelles injecter une clé.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Fonctions pour lesquelles injecter une clé."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

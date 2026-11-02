@@ -1,0 +1,14 @@
+{
+  "hash": "d313c0309775b7c3",
+  "source": "If you return your helpers from the plugin, they will be typed automatically; you'll find them typed for the return of {0} and within your templates.",
+  "text": "Si vous retournez vos helpers depuis le plugin, ils seront typés automatiquement ; vous les trouverez typés dans le retour de {0} et dans vos templates.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous retournez vos helpers depuis le plugin, ils seront typés automatiquement ; vous les trouverez typés dans le retour de {0} et dans vos templates."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

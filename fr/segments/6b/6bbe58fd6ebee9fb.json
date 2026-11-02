@@ -1,0 +1,14 @@
+{
+  "hash": "6bbe58fd6ebee9fb",
+  "source": "Nuxt Kit provides utilities to resolve paths from the Nuxt root directory or a custom base.",
+  "text": "Nuxt Kit fournit des utilitaires pour résoudre des chemins à partir du répertoire racine de Nuxt ou d'une base personnalisée.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt Kit fournit des utilitaires pour résoudre des chemins à partir du répertoire racine de Nuxt ou d'une base personnalisée."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

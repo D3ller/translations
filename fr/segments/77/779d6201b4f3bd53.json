@@ -1,0 +1,14 @@
+{
+  "hash": "779d6201b4f3bd53",
+  "source": "The <NuxtErrorBoundary> component handles client-side errors happening in its default slot.",
+  "text": "Le composant <NuxtErrorBoundary> gère les erreurs côté client survenant dans son slot par défaut.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le composant <NuxtErrorBoundary> gère les erreurs côté client survenant dans son slot par défaut."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

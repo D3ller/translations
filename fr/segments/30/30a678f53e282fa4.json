@@ -1,0 +1,14 @@
+{
+  "hash": "30a678f53e282fa4",
+  "source": "--- Vue internal ---",
+  "text": "--- Interne à Vue ---",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "--- Interne à Vue ---"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

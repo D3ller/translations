@@ -1,0 +1,14 @@
+{
+  "hash": "b87d981a5f3f9b93",
+  "source": "Replace {0} configuration with the corresponding {1} options:",
+  "text": "Remplacez la configuration {0} par les options {1} correspondantes :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Remplacez la configuration {0} par les options {1} correspondantes :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

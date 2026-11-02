@@ -1,0 +1,14 @@
+{
+  "hash": "9f51d28ed8dc5ae3",
+  "source": "This will generate fallbacks for local versions of Helvetica and Arial, adjusted to match Roboto's metrics.",
+  "text": "Cela générera des polices de repli pour les versions locales de Helvetica et Arial, ajustées pour correspondre aux métriques de Roboto.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela générera des polices de repli pour les versions locales de Helvetica et Arial, ajustées pour correspondre aux métriques de Roboto."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

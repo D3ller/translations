@@ -1,0 +1,14 @@
+{
+  "hash": "127096ad358cc2f5",
+  "source": "If you need to customize your {0}, this will override the auto-generated path aliases. Instead, we recommend that you add any path aliases you need to the {1} property within your {2}, where they will get picked up and added to the auto-generated {3}.",
+  "text": "Si vous personnalisez votre {0}, cela écrasera les alias de chemin générés automatiquement. Nous vous recommandons plutôt d'ajouter les alias de chemin dont vous avez besoin à la propriété {1} de votre {2} : ils seront alors pris en compte et ajoutés au {3} généré automatiquement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous personnalisez votre {0}, cela écrasera les alias de chemin générés automatiquement. Nous vous recommandons plutôt d'ajouter les alias de chemin dont vous avez besoin à la propriété {1} de votre {2} : ils seront alors pris en compte et ajoutés au {3} généré automatiquement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

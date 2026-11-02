@@ -1,0 +1,14 @@
+{
+  "hash": "caa2cae3175e3f0b",
+  "source": "This is particularly useful for modules that need to inject global meta tags, stylesheets, or scripts into the application head.",
+  "text": "Cela est particulièrement utile pour les modules qui doivent injecter des balises meta, des feuilles de style ou des scripts globaux dans le head de l'application.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela est particulièrement utile pour les modules qui doivent injecter des balises meta, des feuilles de style ou des scripts globaux dans le head de l'application."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

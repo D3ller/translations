@@ -1,0 +1,14 @@
+{
+  "hash": "5d43a2992de0dc8d",
+  "source": "For example, if you pass a key that never changes, the {0} component will be rendered only once - when it is first mounted.",
+  "text": "Par exemple, si vous passez une clé qui ne change jamais, le composant {0} ne sera rendu qu'une seule fois, lors de son premier montage.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par exemple, si vous passez une clé qui ne change jamais, le composant {0} ne sera rendu qu'une seule fois, lors de son premier montage."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

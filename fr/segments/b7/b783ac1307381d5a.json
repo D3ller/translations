@@ -1,0 +1,14 @@
+{
+  "hash": "b783ac1307381d5a",
+  "source": "This opens the way to multi-app patterns ({0}) and enables us to focus on a single way to access Nuxt app data - {1}.",
+  "text": "Cela ouvre la voie aux schémas multi-applications ({0}) et nous permet de nous concentrer sur une seule manière d'accéder aux données de l'application Nuxt : {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela ouvre la voie aux schémas multi-applications ({0}) et nous permet de nous concentrer sur une seule manière d'accéder aux données de l'application Nuxt : {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

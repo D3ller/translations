@@ -1,0 +1,14 @@
+{
+  "hash": "660f68812bcf891b",
+  "source": "If you have a {0} directory, the {1} file is optional. Nuxt will automatically include a default {2}, but you can still add your own to customize the structure and content as needed.",
+  "text": "Si vous avez un répertoire {0}, le fichier {1} est facultatif. Nuxt inclura automatiquement un {2} par défaut, mais vous pouvez toujours ajouter le vôtre pour personnaliser la structure et le contenu selon vos besoins.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous avez un répertoire {0}, le fichier {1} est facultatif. Nuxt inclura automatiquement un {2} par défaut, mais vous pouvez toujours ajouter le vôtre pour personnaliser la structure et le contenu selon vos besoins."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

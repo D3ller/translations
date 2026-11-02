@@ -1,0 +1,14 @@
+{
+  "hash": "d5815b269c8571e0",
+  "source": "Headers that are **not meant to be forwarded** will **not be included** in the request. These headers include, for example: {0}, {1}, {2}, {3}, {4}, {5}, {6}",
+  "text": "Les en-têtes qui **ne sont pas destinés à être transmis** **ne seront pas inclus** dans la requête. Ces en-têtes comprennent, par exemple : {0}, {1}, {2}, {3}, {4}, {5}, {6}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les en-têtes qui **ne sont pas destinés à être transmis** **ne seront pas inclus** dans la requête. Ces en-têtes comprennent, par exemple : {0}, {1}, {2}, {3}, {4}, {5}, {6}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

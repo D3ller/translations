@@ -1,0 +1,14 @@
+{
+  "hash": "2045231d0c83e111",
+  "source": "{0} is the event in the shape your configured {1}server builder{/1} provides. With the default {2}, that is h3's {3}.",
+  "text": "{0} est l'événement sous la forme fournie par le {1}server builder{/1} que vous avez configuré. Avec {2} par défaut, il s'agit du {3} de h3.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est l'événement sous la forme fournie par le {1}server builder{/1} que vous avez configuré. Avec {2} par défaut, il s'agit du {3} de h3."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

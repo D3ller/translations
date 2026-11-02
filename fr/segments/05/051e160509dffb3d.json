@@ -1,0 +1,14 @@
+{
+  "hash": "051e160509dffb3d",
+  "source": "Route middleware are navigation guards that receive the current route and the next route as arguments.",
+  "text": "Les middleware de route sont des guards de navigation qui reçoivent la route actuelle et la route suivante en arguments.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les middleware de route sont des guards de navigation qui reçoivent la route actuelle et la route suivante en arguments."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

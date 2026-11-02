@@ -1,0 +1,14 @@
+{
+  "hash": "ef8349659660472b",
+  "source": "This feature only works with Nuxt auto-imports and {0} imports. Explicitly importing these components from their real paths does not convert them into client-only components.",
+  "text": "Cette fonctionnalité ne fonctionne qu'avec les imports automatiques de Nuxt et les imports {0}. Importer explicitement ces composants depuis leurs chemins réels ne les convertit pas en composants client uniquement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cette fonctionnalité ne fonctionne qu'avec les imports automatiques de Nuxt et les imports {0}. Importer explicitement ces composants depuis leurs chemins réels ne les convertit pas en composants client uniquement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

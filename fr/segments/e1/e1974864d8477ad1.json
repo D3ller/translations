@@ -1,0 +1,14 @@
+{
+  "hash": "e1974864d8477ad1",
+  "source": "In Nuxt, you can get started with debugging your application directly in the browser as well as in your IDE.",
+  "text": "Dans Nuxt, vous pouvez commencer à déboguer votre application directement dans le navigateur ainsi que dans votre IDE.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans Nuxt, vous pouvez commencer à déboguer votre application directement dans le navigateur ainsi que dans votre IDE."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

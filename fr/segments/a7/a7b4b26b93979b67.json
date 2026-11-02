@@ -1,0 +1,14 @@
+{
+  "hash": "a7b4b26b93979b67",
+  "source": "This enables early access to the experimental multi-app support. You can follow the {0}tracker issue #21635{/0} to see the progress of multi-app support in Nuxt.",
+  "text": "Cette option active l'accès anticipé au support multi-application expérimental. Vous pouvez suivre l'{0}issue de suivi n°21635{/0} pour voir l'avancement du support multi-application dans Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cette option active l'accès anticipé au support multi-application expérimental. Vous pouvez suivre l'{0}issue de suivi n°21635{/0} pour voir l'avancement du support multi-application dans Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

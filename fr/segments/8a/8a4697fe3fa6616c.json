@@ -1,0 +1,14 @@
+{
+  "hash": "8a4697fe3fa6616c",
+  "source": "To typecheck the {0} files, install {1} as a {2}. To typecheck {3} files, also install {4}.",
+  "text": "Pour vérifier les types des fichiers {0}, installez {1} en tant que {2}. Pour vérifier les types des fichiers {3}, installez également {4}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour vérifier les types des fichiers {0}, installez {1} en tant que {2}. Pour vérifier les types des fichiers {3}, installez également {4}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "c6b2224bab390e78",
+  "source": "It’s important to use the {0} composable from Nuxt rather than the one from {1} to avoid synchronization issues during page navigation. Importing {2} directly from {3} bypasses Nuxt's implementation.",
+  "text": "Il est important d'utiliser le composable {0} de Nuxt plutôt que celui de {1} afin d'éviter les problèmes de synchronisation pendant la navigation entre les pages. Importer {2} directement depuis {3} contourne l'implémentation de Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Il est important d'utiliser le composable {0} de Nuxt plutôt que celui de {1} afin d'éviter les problèmes de synchronisation pendant la navigation entre les pages. Importer {2} directement depuis {3} contourne l'implémentation de Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

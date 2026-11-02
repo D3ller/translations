@@ -1,0 +1,14 @@
+{
+  "hash": "cbd3d75fdaeddec3",
+  "source": "What Nuxt does change is navigation. Once your app has hydrated, it routes on the client, so the document is never reloaded and the browser no longer announces a new page or resets focus for you. Nuxt ships with features that fill some of that gap, and a few conventions cover the rest. This guide outlines best practices for handling that.",
+  "text": "Ce que Nuxt change, en revanche, c'est la navigation. Une fois votre application hydratée, elle effectue le routage côté client : le document n'est donc jamais rechargé et le navigateur n'annonce plus de nouvelle page ni ne réinitialise le focus à votre place. Nuxt propose des fonctionnalités qui comblent une partie de ce manque, et quelques conventions couvrent le reste. Ce guide présente les bonnes pratiques pour y répondre.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ce que Nuxt change, en revanche, c'est la navigation. Une fois votre application hydratée, elle effectue le routage côté client : le document n'est donc jamais rechargé et le navigateur n'annonce plus de nouvelle page ni ne réinitialise le focus à votre place. Nuxt propose des fonctionnalités qui comblent une partie de ce manque, et quelques conventions couvrent le reste. Ce guide présente les bonnes pratiques pour y répondre."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

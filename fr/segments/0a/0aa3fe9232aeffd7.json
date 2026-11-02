@@ -1,0 +1,14 @@
+{
+  "hash": "0aa3fe9232aeffd7",
+  "source": "{0} is equivalent to {1} with {2} option set. See {3} for full type definitions.",
+  "text": "{0} équivaut à {1} avec l'option {2} définie. Consultez {3} pour les définitions de types complètes.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} équivaut à {1} avec l'option {2} définie. Consultez {3} pour les définitions de types complètes."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "80496f66b4da135a",
+  "source": "We also provide first-class support for testing Nuxt within {0}the Playwright test runner{/0}.",
+  "text": "Nous offrons également une prise en charge de premier plan pour tester Nuxt avec {0}le lanceur de tests de Playwright{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nous offrons également une prise en charge de premier plan pour tester Nuxt avec {0}le lanceur de tests de Playwright{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "c445ee47c38b081e",
+  "source": "Plugins now have a different format, and take only one argument ({0}).",
+  "text": "Les plugins ont désormais un format différent et ne prennent qu'un seul argument ({0}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les plugins ont désormais un format différent et ne prennent qu'un seul argument ({0})."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

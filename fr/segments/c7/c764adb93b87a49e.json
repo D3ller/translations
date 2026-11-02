@@ -1,0 +1,14 @@
+{
+  "hash": "c764adb93b87a49e",
+  "source": "Nuxt allows programmatic navigation through the {0} utility method. Using this utility method, you will be able to programmatically navigate the user in your app. This is great for taking input from the user and navigating them dynamically throughout your application. In this example, we have a simple method called {1} that gets called when the user submits a search form.",
+  "text": "Nuxt permet la navigation programmatique grâce à la méthode utilitaire {0}. Avec cette méthode, vous pouvez naviguer par programmation l'utilisateur dans votre application. C'est idéal pour récupérer une saisie de l'utilisateur et le faire naviguer dynamiquement dans votre application. Dans cet exemple, vous avez une méthode simple appelée {1} qui est appelée lorsque l'utilisateur soumet un formulaire de recherche.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt permet la navigation programmatique grâce à la méthode utilitaire {0}. Avec cette méthode, vous pouvez naviguer par programmation l'utilisateur dans votre application. C'est idéal pour récupérer une saisie de l'utilisateur et le faire naviguer dynamiquement dans votre application. Dans cet exemple, vous avez une méthode simple appelée {1} qui est appelée lorsque l'utilisateur soumet un formulaire de recherche."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

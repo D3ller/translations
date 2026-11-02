@@ -1,0 +1,14 @@
+{
+  "hash": "f1b75d4555bb591c",
+  "source": "Call the macro only at the top level of a page component's {0}. It cannot be used inside composables, conditionals, or non-page components.",
+  "text": "Appelez la macro uniquement au niveau racine du {0} d'un composant de page. Elle ne peut pas être utilisée dans des composables, des conditions ou des composants qui ne sont pas des pages.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appelez la macro uniquement au niveau racine du {0} d'un composant de page. Elle ne peut pas être utilisée dans des composables, des conditions ou des composants qui ne sont pas des pages."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

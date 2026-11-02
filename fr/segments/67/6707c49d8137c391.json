@@ -1,0 +1,14 @@
+{
+  "hash": "6707c49d8137c391",
+  "source": "{0} returns {1} when it answered a preflight request.",
+  "text": "{0} retourne {1} lorsqu'il a répondu à une requête preflight.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} retourne {1} lorsqu'il a répondu à une requête preflight."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

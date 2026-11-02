@@ -1,0 +1,14 @@
+{
+  "hash": "513792fbe8a0a37e",
+  "source": "please note that this is an area that is likely to change",
+  "text": "veuillez noter que cette partie est susceptible de changer",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "veuillez noter que cette partie est susceptible de changer"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

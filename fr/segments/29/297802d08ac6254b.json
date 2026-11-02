@@ -1,0 +1,14 @@
+{
+  "hash": "297802d08ac6254b",
+  "source": "Feel free to augment this default test strategy to better suit your needs.",
+  "text": "N'hésitez pas à enrichir cette stratégie de test par défaut pour mieux répondre à vos besoins.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "N'hésitez pas à enrichir cette stratégie de test par défaut pour mieux répondre à vos besoins."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

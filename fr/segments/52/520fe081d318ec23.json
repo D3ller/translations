@@ -1,0 +1,14 @@
+{
+  "hash": "520fe081d318ec23",
+  "source": "{0}: avoid fetching same key more than once at a time (defaults to {1}). Possible options:",
+  "text": "{0} : évite de récupérer la même clé plus d'une fois à la fois (par défaut : {1}). Options possibles :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : évite de récupérer la même clé plus d'une fois à la fois (par défaut : {1}). Options possibles :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "89e16592497226b6",
+  "source": "In development, the cause chain is exposed to your {0}error page{/0} via the {1} property of the error, serialized as {2} (primitive causes are passed through as-is; other values are omitted). In production, causes are never included in error responses or in the error page payload.",
+  "text": "En développement, la chaîne de causes est exposée à votre {0}page d'erreur{/0} via la propriété {1} de l'erreur, sérialisée sous la forme {2} (les causes primitives sont transmises telles quelles ; les autres valeurs sont omises). En production, les causes ne sont jamais incluses dans les réponses d'erreur ni dans le payload (charge utile) de la page d'erreur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En développement, la chaîne de causes est exposée à votre {0}page d'erreur{/0} via la propriété {1} de l'erreur, sérialisée sous la forme {2} (les causes primitives sont transmises telles quelles ; les autres valeurs sont omises). En production, les causes ne sont jamais incluses dans les réponses d'erreur ni dans le payload (charge utile) de la page d'erreur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "4d8c58ff0b749c84",
+  "source": "When running the command, it will:",
+  "text": "Lorsque vous exécutez la commande, elle va :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque vous exécutez la commande, elle va :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "566d8a2a84e3e5dd",
+  "source": "{0}: Configuration applied on top of {1}, taking precedence over user configuration.",
+  "text": "{0} : configuration appliquée par-dessus {1}, qui est prioritaire sur la configuration de l'utilisateur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : configuration appliquée par-dessus {1}, qui est prioritaire sur la configuration de l'utilisateur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

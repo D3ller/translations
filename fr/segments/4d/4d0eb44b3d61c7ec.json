@@ -1,0 +1,14 @@
+{
+  "hash": "4d0eb44b3d61c7ec",
+  "source": "Function to return cached data. See below for default.",
+  "text": "Fonction renvoyant les données en cache. Voir ci-dessous pour la valeur par défaut.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Fonction renvoyant les données en cache. Voir ci-dessous pour la valeur par défaut."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

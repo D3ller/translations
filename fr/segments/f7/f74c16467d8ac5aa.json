@@ -1,0 +1,14 @@
+{
+  "hash": "f74c16467d8ac5aa",
+  "source": "Directory structure",
+  "text": "Structure des répertoires",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Structure des répertoires"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

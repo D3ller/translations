@@ -1,0 +1,14 @@
+{
+  "hash": "e5cca306cec38825",
+  "source": "Nuxt no longer provides a Vuex integration. Instead, the official Vue recommendation is to use {0}, which has built-in Nuxt support via a {1}Nuxt module{/1}. {2}Find out more about pinia here{/2}.",
+  "text": "Nuxt ne fournit plus d'intégration de Vuex. À la place, la recommandation officielle de Vue est d'utiliser {0}, qui bénéficie d'une prise en charge native de Nuxt via un {1}module Nuxt{/1}. {2}En savoir plus sur pinia ici{/2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt ne fournit plus d'intégration de Vuex. À la place, la recommandation officielle de Vue est d'utiliser {0}, qui bénéficie d'une prise en charge native de Nuxt via un {1}module Nuxt{/1}. {2}En savoir plus sur pinia ici{/2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

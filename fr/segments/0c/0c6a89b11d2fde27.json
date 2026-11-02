@@ -1,0 +1,14 @@
+{
+  "hash": "0c6a89b11d2fde27",
+  "source": "A provider can be asynchronous, and Nuxt reads it lazily, when the server build resolves the module it backs. That lets your builder register a provider early, before the client build has finished, and return the finalized value once the data exists.",
+  "text": "Un fournisseur peut être asynchrone, et Nuxt le lit de manière différée, lorsque le build serveur résout le module qu'il alimente. Cela permet à votre builder d'enregistrer un fournisseur tôt, avant la fin du build client, et de retourner la valeur finale une fois les données disponibles.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un fournisseur peut être asynchrone, et Nuxt le lit de manière différée, lorsque le build serveur résout le module qu'il alimente. Cela permet à votre builder d'enregistrer un fournisseur tôt, avant la fin du build client, et de retourner la valeur finale une fois les données disponibles."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

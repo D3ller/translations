@@ -1,0 +1,14 @@
+{
+  "hash": "0647e9640b68b61d",
+  "source": "For end-to-end testing, we support {0}Vitest{/0}, {1}Jest{/1}, {2}Cucumber{/2} and {3}Playwright{/3} as test runners.",
+  "text": "Pour les tests de bout en bout, nous prenons en charge {0}Vitest{/0}, {1}Jest{/1}, {2}Cucumber{/2} et {3}Playwright{/3} comme lanceurs de tests.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour les tests de bout en bout, nous prenons en charge {0}Vitest{/0}, {1}Jest{/1}, {2}Cucumber{/2} et {3}Playwright{/3} comme lanceurs de tests."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "2f6053e3ad1b50af",
+  "source": "Specifies the working directory (default: {0})",
+  "text": "Spécifie le répertoire de travail (par défaut : {0})",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Spécifie le répertoire de travail (par défaut : {0})"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

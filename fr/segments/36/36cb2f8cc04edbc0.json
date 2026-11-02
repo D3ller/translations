@@ -1,0 +1,14 @@
+{
+  "hash": "36cb2f8cc04edbc0",
+  "source": "We also added a logout button to clear the session and redirect the user to the login page.",
+  "text": "Nous avons également ajouté un bouton de déconnexion pour effacer la session et rediriger l'utilisateur vers la page de connexion.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nous avons également ajouté un bouton de déconnexion pour effacer la session et rediriger l'utilisateur vers la page de connexion."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

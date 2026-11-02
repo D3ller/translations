@@ -1,0 +1,14 @@
+{
+  "hash": "18b845d8a90796d2",
+  "source": "Every path is a function, because a server builder may only resolve it while initializing. Call them from a hook that runs after the server builder has run.",
+  "text": "Chaque chemin est une fonction, car un server builder peut ne le résoudre que pendant son initialisation. Appelez-les depuis un hook exécuté après le server builder.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Chaque chemin est une fonction, car un server builder peut ne le résoudre que pendant son initialisation. Appelez-les depuis un hook exécuté après le server builder."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

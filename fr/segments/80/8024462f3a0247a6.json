@@ -1,0 +1,14 @@
+{
+  "hash": "8024462f3a0247a6",
+  "source": "Enabling this allows components to compile templates at runtime (for example, string {0} options or templates supplied via data).",
+  "text": "Activer cette option permet aux composants de compiler des templates à l'exécution (par exemple, les options {0} sous forme de chaîne ou les templates fournis via des données).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Activer cette option permet aux composants de compiler des templates à l'exécution (par exemple, les options {0} sous forme de chaîne ou les templates fournis via des données)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

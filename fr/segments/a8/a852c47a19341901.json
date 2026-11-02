@@ -1,0 +1,14 @@
+{
+  "hash": "a852c47a19341901",
+  "source": "Navigate to your project's {0} folder or create one if it doesn't exist",
+  "text": "Accédez au dossier {0} de votre projet ou créez-le s'il n'existe pas",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Accédez au dossier {0} de votre projet ou créez-le s'il n'existe pas"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

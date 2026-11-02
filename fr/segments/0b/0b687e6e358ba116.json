@@ -1,0 +1,14 @@
+{
+  "hash": "0b687e6e358ba116",
+  "source": "Legacy Handler or Middleware",
+  "text": "Gestionnaire ou middleware hérité",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Gestionnaire ou middleware hérité"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

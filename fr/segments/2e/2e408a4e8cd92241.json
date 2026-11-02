@@ -1,0 +1,14 @@
+{
+  "hash": "2e408a4e8cd92241",
+  "source": "Server Component Context",
+  "text": "Contexte d'un composant serveur",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Contexte d'un composant serveur"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "5409b734b28332cc",
+  "source": "If your module depends on other modules, you can specify them using the {0} option:",
+  "text": "Si votre module dépend d'autres modules, vous pouvez les spécifier à l'aide de l'option {0} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si votre module dépend d'autres modules, vous pouvez les spécifier à l'aide de l'option {0} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

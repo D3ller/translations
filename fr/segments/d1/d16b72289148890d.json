@@ -1,0 +1,14 @@
+{
+  "hash": "d16b72289148890d",
+  "source": "Current Limitations",
+  "text": "Limitations actuelles",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Limitations actuelles"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

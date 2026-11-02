@@ -1,0 +1,14 @@
+{
+  "hash": "ae80057daa41cd51",
+  "source": "If you are using the Nuxt module for that package, it is likely that the module has already configured auto-imports for that package.",
+  "text": "Si vous utilisez le module Nuxt de ce package, il est probable que le module ait déjà configuré les imports automatiques pour ce package.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous utilisez le module Nuxt de ce package, il est probable que le module ait déjà configuré les imports automatiques pour ce package."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "fb27395892a94d69",
+  "source": "Custom metadata for the route. Can be used in layouts, middlewares, or navigation guards.",
+  "text": "Métadonnées personnalisées de la route. Peuvent être utilisées dans les layouts, les middlewares ou les guards de navigation.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Métadonnées personnalisées de la route. Peuvent être utilisées dans les layouts, les middlewares ou les guards de navigation."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

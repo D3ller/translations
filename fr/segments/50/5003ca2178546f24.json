@@ -1,0 +1,14 @@
+{
+  "hash": "5003ca2178546f24",
+  "source": "Please report an issue if you are doing so, as we do not plan to keep this as configurable.",
+  "text": "Merci de signaler un problème si vous faites cela, car nous ne prévoyons pas de conserver cette option configurable.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Merci de signaler un problème si vous faites cela, car nous ne prévoyons pas de conserver cette option configurable."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

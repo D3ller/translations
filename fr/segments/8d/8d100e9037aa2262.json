@@ -1,0 +1,14 @@
+{
+  "hash": "8d100e9037aa2262",
+  "source": "If you are using nested routes, the page metadata from all these routes will be merged into a single object. For more on route meta, see the {0}vue-router docs{/0}.",
+  "text": "Si vous utilisez des routes imbriquées, les métadonnées de page de toutes ces routes seront fusionnées en un seul objet. Pour en savoir plus sur les métadonnées de route, consultez la {0}documentation de vue-router{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous utilisez des routes imbriquées, les métadonnées de page de toutes ces routes seront fusionnées en un seul objet. Pour en savoir plus sur les métadonnées de route, consultez la {0}documentation de vue-router{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

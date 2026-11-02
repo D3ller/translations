@@ -1,0 +1,14 @@
+{
+  "hash": "834aea7ffa54043b",
+  "source": "While it's possible to use Vite plugins in the Nitro config as a workaround, this approach is not recommended:",
+  "text": "Bien qu'il soit possible d'utiliser des plugins Vite dans la configuration de Nitro comme solution de contournement, cette approche n'est pas recommandée :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bien qu'il soit possible d'utiliser des plugins Vite dans la configuration de Nitro comme solution de contournement, cette approche n'est pas recommandée :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "57955a31072ed347",
+  "source": "In addition to the Nuxt framework, there are modules that are vital for the ecosystem. Their status will be updated below.",
+  "text": "En plus du framework Nuxt, certains modules sont essentiels à l'écosystème. Leur état sera mis à jour ci-dessous.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En plus du framework Nuxt, certains modules sont essentiels à l'écosystème. Leur état sera mis à jour ci-dessous."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

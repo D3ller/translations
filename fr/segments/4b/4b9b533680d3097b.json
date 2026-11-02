@@ -1,0 +1,14 @@
+{
+  "hash": "4b9b533680d3097b",
+  "source": "The route to match. End it in {0} to match the paths below it as well. On a {1} v2 host, a route without {2} also matches the paths below it. If an empty string is used, the handler is registered as middleware.",
+  "text": "La route à faire correspondre. Terminez-la par {0} pour faire également correspondre les chemins situés en dessous. Sur un hôte {1} v2, une route sans {2} correspond aussi aux chemins situés en dessous. Si une chaîne vide est utilisée, le gestionnaire est enregistré comme middleware.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La route à faire correspondre. Terminez-la par {0} pour faire également correspondre les chemins situés en dessous. Sur un hôte {1} v2, une route sans {2} correspond aussi aux chemins situés en dessous. Si une chaîne vide est utilisée, le gestionnaire est enregistré comme middleware."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

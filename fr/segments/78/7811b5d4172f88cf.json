@@ -1,0 +1,14 @@
+{
+  "hash": "7811b5d4172f88cf",
+  "source": "Lifecycle hooks run before the main {0} function, and if a hook throws an error, it's logged but doesn't stop the build process.",
+  "text": "Les lifecycle hooks s'exécutent avant la fonction {0} principale ; si un hook lève une erreur, elle est consignée dans les logs mais n'interrompt pas le processus de build.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les lifecycle hooks s'exécutent avant la fonction {0} principale ; si un hook lève une erreur, elle est consignée dans les logs mais n'interrompt pas le processus de build."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

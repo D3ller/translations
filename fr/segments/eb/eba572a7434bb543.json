@@ -1,0 +1,14 @@
+{
+  "hash": "eba572a7434bb543",
+  "source": "Resolvable path for the current file.",
+  "text": "Chemin résolvable du fichier actuel.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Chemin résolvable du fichier actuel."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

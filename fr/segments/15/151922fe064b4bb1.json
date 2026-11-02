@@ -1,0 +1,14 @@
+{
+  "hash": "151922fe064b4bb1",
+  "source": "Shared directory ({0} by default)",
+  "text": "Répertoire partagé ({0} par défaut)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Répertoire partagé ({0} par défaut)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

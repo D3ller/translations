@@ -1,0 +1,14 @@
+{
+  "hash": "dd489e4178daea4b",
+  "source": "When you pass a path, {0} waits for your Nuxt app to finish hydrating before it resolves. On later navigations, pass {1} to {2} to wait for hydration again.",
+  "text": "Lorsque vous passez un chemin, {0} attend que votre application Nuxt ait terminé son hydratation avant de se résoudre. Lors des navigations suivantes, passez {1} à {2} pour attendre à nouveau l'hydratation.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque vous passez un chemin, {0} attend que votre application Nuxt ait terminé son hydratation avant de se résoudre. Lors des navigations suivantes, passez {1} à {2} pour attendre à nouveau l'hydratation."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

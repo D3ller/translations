@@ -1,0 +1,14 @@
+{
+  "hash": "8be764732d1ac2f4",
+  "source": "{0}: does not generate any sourcemaps",
+  "text": "{0} : ne génère aucune sourcemap",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : ne génère aucune sourcemap"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

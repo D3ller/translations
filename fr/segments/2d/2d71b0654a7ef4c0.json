@@ -1,0 +1,14 @@
+{
+  "hash": "2d71b0654a7ef4c0",
+  "source": "Working of the Nitro crawler:",
+  "text": "Fonctionnement du crawler de Nitro :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Fonctionnement du crawler de Nitro :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "8497ba2f15da286e",
+  "source": "{0}: The function to run once. It can be asynchronous.",
+  "text": "{0} : la fonction à exécuter une seule fois. Elle peut être asynchrone.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : la fonction à exécuter une seule fois. Elle peut être asynchrone."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

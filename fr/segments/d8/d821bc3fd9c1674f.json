@@ -1,0 +1,14 @@
+{
+  "hash": "d821bc3fd9c1674f",
+  "source": "Learn more about {0} usage.",
+  "text": "En savoir plus sur l'utilisation de {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En savoir plus sur l'utilisation de {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

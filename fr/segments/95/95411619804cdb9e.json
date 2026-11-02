@@ -1,0 +1,14 @@
+{
+  "hash": "95411619804cdb9e",
+  "source": "The {0}BCP 47 language tag{/0} for formatting (e.g., 'en-US', 'fr-FR', 'ja-JP'):",
+  "text": "La {0}balise de langue BCP 47{/0} utilisée pour le formatage (par exemple, 'en-US', 'fr-FR', 'ja-JP') :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La {0}balise de langue BCP 47{/0} utilisée pour le formatage (par exemple, 'en-US', 'fr-FR', 'ja-JP') :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

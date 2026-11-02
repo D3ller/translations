@@ -1,0 +1,14 @@
+{
+  "hash": "dc6474d42ed2a0a3",
+  "source": "When you run your tests within the Nuxt environment, they will be running in a {0} or {1} environment. Before your tests run, a global Nuxt app will be initialized (including, for example, running any plugins or code you've defined in your {2}).",
+  "text": "Lorsque vous exécutez vos tests dans l'environnement Nuxt, ils s'exécutent dans un environnement {0} ou {1}. Avant le lancement de vos tests, une application Nuxt globale est initialisée (ce qui inclut, par exemple, l'exécution des plugins ou du code que vous avez définis dans votre {2}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque vous exécutez vos tests dans l'environnement Nuxt, ils s'exécutent dans un environnement {0} ou {1}. Avant le lancement de vos tests, une application Nuxt globale est initialisée (ce qui inclut, par exemple, l'exécution des plugins ou du code que vous avez définis dans votre {2})."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

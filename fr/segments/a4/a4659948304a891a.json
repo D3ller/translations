@@ -1,0 +1,14 @@
+{
+  "hash": "a4659948304a891a",
+  "source": "{0}Harlem{/0} - immutable global state management",
+  "text": "{0}Harlem{/0} : gestion d'état global immuable",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}Harlem{/0} : gestion d'état global immuable"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

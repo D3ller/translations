@@ -1,0 +1,14 @@
+{
+  "hash": "72fd7f153fb2b04e",
+  "source": "Preloading fonts by subset",
+  "text": "Préchargement des polices par sous-ensemble",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Préchargement des polices par sous-ensemble"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

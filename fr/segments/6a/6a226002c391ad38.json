@@ -1,0 +1,14 @@
+{
+  "hash": "6a226002c391ad38",
+  "source": "{0}Understanding WCAG 2.1{/0}",
+  "text": "{0}Comprendre les WCAG 2.1{/0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}Comprendre les WCAG 2.1{/0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

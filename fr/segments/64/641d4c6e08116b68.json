@@ -1,0 +1,14 @@
+{
+  "hash": "641d4c6e08116b68",
+  "source": "In addition, there are some route rules (for example, {0}, {1}, and {2}) that are Nuxt specific to change the behavior when rendering your pages to HTML.",
+  "text": "De plus, certaines règles de route (par exemple {0}, {1} et {2}) sont spécifiques à Nuxt et modifient le comportement lors du rendu de vos pages en HTML.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "De plus, certaines règles de route (par exemple {0}, {1} et {2}) sont spécifiques à Nuxt et modifient le comportement lors du rendu de vos pages en HTML."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

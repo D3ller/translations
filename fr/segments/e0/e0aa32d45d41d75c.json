@@ -1,0 +1,14 @@
+{
+  "hash": "e0aa32d45d41d75c",
+  "source": "Enable Nuxt 3 compatible useHead",
+  "text": "Activer useHead compatible avec Nuxt 3",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Activer useHead compatible avec Nuxt 3"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

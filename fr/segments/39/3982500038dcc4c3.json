@@ -1,0 +1,14 @@
+{
+  "hash": "3982500038dcc4c3",
+  "source": "Public runtime config is accessible in Vue templates with {0}.",
+  "text": "La runtime config publique est accessible dans les templates Vue avec {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La runtime config publique est accessible dans les templates Vue avec {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

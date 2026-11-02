@@ -1,0 +1,14 @@
+{
+  "hash": "595299b371b0168e",
+  "source": "Or add the server directly to {0}:",
+  "text": "Ou ajoutez le serveur directement dans {0} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ou ajoutez le serveur directement dans {0} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

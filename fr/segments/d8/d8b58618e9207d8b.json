@@ -1,0 +1,14 @@
+{
+  "hash": "d8b58618e9207d8b",
+  "source": "Initialize git repository",
+  "text": "Initialiser un dépôt git",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Initialiser un dépôt git"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

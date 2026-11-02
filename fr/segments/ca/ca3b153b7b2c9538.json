@@ -1,0 +1,14 @@
+{
+  "hash": "ca3b153b7b2c9538",
+  "source": "More customizable than {0}: all files matching glob patterns specified inside the {1} array will be ignored in building.",
+  "text": "Plus personnalisable que {0} : tous les fichiers correspondant aux motifs glob spécifiés dans le tableau {1} seront ignorés lors du build.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Plus personnalisable que {0} : tous les fichiers correspondant aux motifs glob spécifiés dans le tableau {1} seront ignorés lors du build."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

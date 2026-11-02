@@ -1,0 +1,14 @@
+{
+  "hash": "232798c4fcdbbf50",
+  "source": "Set {0} explicitly to go back to a single weight:",
+  "text": "Définissez {0} explicitement pour revenir à une seule graisse :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définissez {0} explicitement pour revenir à une seule graisse :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

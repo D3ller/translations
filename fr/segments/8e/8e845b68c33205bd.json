@@ -1,0 +1,14 @@
+{
+  "hash": "8e845b68c33205bd",
+  "source": "a {0} inside an SVG, whether served from {1} or imported as an asset",
+  "text": "un {0} dans un SVG, qu'il soit servi depuis {1} ou importé comme asset",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "un {0} dans un SVG, qu'il soit servi depuis {1} ou importé comme asset"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

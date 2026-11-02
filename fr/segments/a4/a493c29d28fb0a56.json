@@ -1,0 +1,14 @@
+{
+  "hash": "a493c29d28fb0a56",
+  "source": "Unless {0} is {1}, Nuxt matches {2}route rules{/2} by lower-casing both the request path and the rule pattern. Regex constraints in the pattern are kept as written, so they must be written for lower-case letters: {3} matches {4}.",
+  "text": "Sauf si {0} vaut {1}, Nuxt fait correspondre les {2}règles de route{/2} en passant en minuscules à la fois le chemin de la requête et le motif de la règle. Les contraintes regex du motif sont conservées telles qu'écrites, elles doivent donc être écrites pour des lettres minuscules : {3} correspond à {4}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sauf si {0} vaut {1}, Nuxt fait correspondre les {2}règles de route{/2} en passant en minuscules à la fois le chemin de la requête et le motif de la règle. Les contraintes regex du motif sont conservées telles qu'écrites, elles doivent donc être écrites pour des lettres minuscules : {3} correspond à {4}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "08ada6d34c4121e8",
+  "source": "the element(s) is hovered over by the pointer.",
+  "text": "le ou les éléments sont survolés par le pointeur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "le ou les éléments sont survolés par le pointeur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

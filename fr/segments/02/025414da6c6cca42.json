@@ -1,0 +1,14 @@
+{
+  "hash": "025414da6c6cca42",
+  "source": "Scan Page Meta After Resolution",
+  "text": "Analyse des métadonnées de page après la résolution",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Analyse des métadonnées de page après la résolution"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

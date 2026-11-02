@@ -1,0 +1,14 @@
+{
+  "hash": "a3a494c5b156da37",
+  "source": "**Assets** – Displays file sizes (e.g., images) without transformations.",
+  "text": "**Assets** – Affiche la taille des fichiers (p. ex. les images) sans transformations.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Assets** – Affiche la taille des fichiers (p. ex. les images) sans transformations."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

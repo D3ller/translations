@@ -1,0 +1,14 @@
+{
+  "hash": "534b53ecbe2e6538",
+  "source": "Define the workspace directory of your application.",
+  "text": "Définit le répertoire de travail (workspace) de votre application.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définit le répertoire de travail (workspace) de votre application."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

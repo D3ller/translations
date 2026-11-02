@@ -1,0 +1,14 @@
+{
+  "hash": "245bb047dbaaf58c",
+  "source": "During SSR data is fetched twice, once on the server and once on the client.",
+  "text": "Pendant le SSR, les données sont récupérées deux fois : une fois sur le serveur et une fois sur le client.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pendant le SSR, les données sont récupérées deux fois : une fois sur le serveur et une fois sur le client."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

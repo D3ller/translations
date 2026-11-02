@@ -1,0 +1,14 @@
+{
+  "hash": "582de51596204a36",
+  "source": "**{0}** - Contains a structured overview of all documentation pages and their links (\\~5K tokens)",
+  "text": "**{0}** : contient une vue d'ensemble structurée de toutes les pages de la documentation et de leurs liens (\\~5K tokens)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** : contient une vue d'ensemble structurée de toutes les pages de la documentation et de leurs liens (\\~5K tokens)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

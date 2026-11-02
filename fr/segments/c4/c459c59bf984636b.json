@@ -1,0 +1,14 @@
+{
+  "hash": "c459c59bf984636b",
+  "source": "preloadComponents",
+  "text": "preloadComponents",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "preloadComponents"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

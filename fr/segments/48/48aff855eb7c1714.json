@@ -1,0 +1,14 @@
+{
+  "hash": "48aff855eb7c1714",
+  "source": "No Prettier",
+  "text": "Pas de Prettier",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pas de Prettier"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

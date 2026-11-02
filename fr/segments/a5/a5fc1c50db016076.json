@@ -1,0 +1,14 @@
+{
+  "hash": "a5fc1c50db016076",
+  "source": "Modules should follow the {0}Nuxt module template{/0}. See {1}module guide{/1} for more information.",
+  "text": "Les modules doivent suivre le {0}template de module Nuxt{/0}. Consultez le {1}guide des modules{/1} pour plus d'informations.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les modules doivent suivre le {0}template de module Nuxt{/0}. Consultez le {1}guide des modules{/1} pour plus d'informations."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "865d826139b86bdd",
+  "source": "Figure Out What the Cause Might Be",
+  "text": "Déterminez quelle peut être la cause",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Déterminez quelle peut être la cause"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

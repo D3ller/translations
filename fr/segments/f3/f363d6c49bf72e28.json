@@ -1,0 +1,14 @@
+{
+  "hash": "f363d6c49bf72e28",
+  "source": "By default ({0}), the template is rendered alongside the Nuxt app root, wrapped in a loader element:",
+  "text": "Par défaut ({0}), le template est rendu à côté de la racine de l'application Nuxt, encapsulé dans un élément de chargement :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par défaut ({0}), le template est rendu à côté de la racine de l'application Nuxt, encapsulé dans un élément de chargement :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

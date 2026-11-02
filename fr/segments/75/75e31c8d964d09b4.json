@@ -1,0 +1,14 @@
+{
+  "hash": "75e31c8d964d09b4",
+  "source": "You can use {0} component to activate the {1} layout on {2} or {3}.",
+  "text": "Vous pouvez utiliser le composant {0} pour activer le layout {1} sur {2} ou {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez utiliser le composant {0} pour activer le layout {1} sur {2} ou {3}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

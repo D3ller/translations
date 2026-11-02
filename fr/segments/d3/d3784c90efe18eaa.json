@@ -1,0 +1,14 @@
+{
+  "hash": "d3784c90efe18eaa",
+  "source": "Server components are still marked experimental. You can follow the roadmap on GitHub.",
+  "text": "Les composants serveur sont toujours considérés comme expérimentaux. Vous pouvez suivre la feuille de route sur GitHub.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les composants serveur sont toujours considérés comme expérimentaux. Vous pouvez suivre la feuille de route sur GitHub."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

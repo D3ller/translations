@@ -1,0 +1,14 @@
+{
+  "hash": "3b99e0d3fa81ec8a",
+  "source": "you can access the fully resolved vite configuration here",
+  "text": "vous pouvez accéder ici à la configuration vite entièrement résolue",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "vous pouvez accéder ici à la configuration vite entièrement résolue"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

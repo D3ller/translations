@@ -1,0 +1,14 @@
+{
+  "hash": "b023f7d5f89a0d36",
+  "source": "Print request and response headers to stderr",
+  "text": "Affiche les en-têtes de la requête et de la réponse sur stderr",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Affiche les en-têtes de la requête et de la réponse sur stderr"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

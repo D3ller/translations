@@ -1,0 +1,14 @@
+{
+  "hash": "5e5621c0dd5944f1",
+  "source": "{0} inside an island reflects the island's own request, not the page the user is on. If an island needs route information, pass it in explicitly, either as props or via the {1} prop on {2} (read inside the island from {3})",
+  "text": "{0} à l'intérieur d'une island reflète la requête propre à l'island, et non la page sur laquelle se trouve l'utilisateur. Si une island a besoin d'informations de route, transmettez-les explicitement, soit sous forme de props, soit via la prop {1} de {2} (à lire dans l'island depuis {3})",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} à l'intérieur d'une island reflète la requête propre à l'island, et non la page sur laquelle se trouve l'utilisateur. Si une island a besoin d'informations de route, transmettez-les explicitement, soit sous forme de props, soit via la prop {1} de {2} (à lire dans l'island depuis {3})"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

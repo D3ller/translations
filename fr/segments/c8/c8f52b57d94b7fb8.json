@@ -1,0 +1,14 @@
+{
+  "hash": "c8f52b57d94b7fb8",
+  "source": "The {0} rule and any preload hints come from a single stylesheet loaded on every page. Font fallback metrics work by rewriting the {1} declaration that uses the family, so they're generated wherever Nuxt Fonts can see the family being used in your CSS, and not for the usage it can't see.",
+  "text": "La règle {0} et les indications de préchargement proviennent d'une seule feuille de style chargée sur chaque page. Les métriques de police de secours fonctionnent en réécrivant la déclaration {1} qui utilise la famille ; elles sont donc générées partout où Nuxt Fonts peut voir la famille utilisée dans votre CSS, et non pour les usages qu'il ne peut pas voir.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La règle {0} et les indications de préchargement proviennent d'une seule feuille de style chargée sur chaque page. Les métriques de police de secours fonctionnent en réécrivant la déclaration {1} qui utilise la famille ; elles sont donc générées partout où Nuxt Fonts peut voir la famille utilisée dans votre CSS, et non pour les usages qu'il ne peut pas voir."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

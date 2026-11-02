@@ -1,0 +1,14 @@
+{
+  "hash": "2fbc099dc3b4f2da",
+  "source": "{0} is only for Nuxt-environment tests. End-to-end tests should be configured as a regular {1} project.",
+  "text": "{0} est réservé aux tests de l'environnement Nuxt. Les tests de bout en bout doivent être configurés comme un projet {1} classique.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est réservé aux tests de l'environnement Nuxt. Les tests de bout en bout doivent être configurés comme un projet {1} classique."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "6b534ed4ac7dbd85",
+  "source": "{0} exposes the following properties that you can use to extend and customize your app and share state, data and variables.",
+  "text": "{0} expose les propriétés suivantes que vous pouvez utiliser pour étendre et personnaliser votre application, et pour partager de l'état, des données et des variables.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} expose les propriétés suivantes que vous pouvez utiliser pour étendre et personnaliser votre application, et pour partager de l'état, des données et des variables."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

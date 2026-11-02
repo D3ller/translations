@@ -1,0 +1,14 @@
+{
+  "hash": "1133e05f86de9885",
+  "source": "{0}Unhead{/0}, used to generate {1} tags, has been updated to version 2. While mostly compatible it includes several breaking changes for lower-level APIs.",
+  "text": "{0}Unhead{/0}, utilisé pour générer les balises {1}, a été mis à jour vers la version 2. Bien que globalement compatible, il comporte plusieurs changements majeurs pour les API de plus bas niveau.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}Unhead{/0}, utilisé pour générer les balises {1}, a été mis à jour vers la version 2. Bien que globalement compatible, il comporte plusieurs changements majeurs pour les API de plus bas niveau."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

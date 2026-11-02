@@ -1,0 +1,14 @@
+{
+  "hash": "4000d5a6cca4cd67",
+  "source": "trying to access runtime config outside a composable",
+  "text": "tentative d'accès au runtime config en dehors d'un composable",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "tentative d'accès au runtime config en dehors d'un composable"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

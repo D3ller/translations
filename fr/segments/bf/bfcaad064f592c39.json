@@ -1,0 +1,14 @@
+{
+  "hash": "bfcaad064f592c39",
+  "source": "A range is expanded to the characters it covers, so keep them tight. Ranges covering more than 65,536 codepoints in total are ignored with a warning.",
+  "text": "Une plage est développée en l'ensemble des caractères qu'elle couvre, veillez donc à les limiter. Les plages couvrant plus de 65 536 points de code au total sont ignorées avec un avertissement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une plage est développée en l'ensemble des caractères qu'elle couvre, veillez donc à les limiter. Les plages couvrant plus de 65 536 points de code au total sont ignorées avec un avertissement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

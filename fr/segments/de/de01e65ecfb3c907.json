@@ -1,0 +1,14 @@
+{
+  "hash": "de01e65ecfb3c907",
+  "source": "If you wish to reference environment variables within your Nuxt 3 app, you will need to use runtime config.",
+  "text": "Si vous souhaitez référencer des variables d'environnement dans votre application Nuxt 3, vous devrez utiliser le runtime config.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous souhaitez référencer des variables d'environnement dans votre application Nuxt 3, vous devrez utiliser le runtime config."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

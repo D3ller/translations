@@ -1,0 +1,14 @@
+{
+  "hash": "5681e01cfa73d2c1",
+  "source": "the git documentation",
+  "text": "la documentation de git",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "la documentation de git"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

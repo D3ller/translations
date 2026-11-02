@@ -1,0 +1,14 @@
+{
+  "hash": "4fd38bb796011500",
+  "source": "We'll do our best to follow our {0}internal issue decision making flowchart{/0} when responding to issues.",
+  "text": "Nous ferons de notre mieux pour suivre notre {0}organigramme interne de prise de décision sur les issues{/0} lorsque nous répondons aux issues.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nous ferons de notre mieux pour suivre notre {0}organigramme interne de prise de décision sur les issues{/0} lorsque nous répondons aux issues."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

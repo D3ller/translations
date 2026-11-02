@@ -1,0 +1,14 @@
+{
+  "hash": "b8cb579d3c625807",
+  "source": "Resolve an {0} entry to a layer yourself. Return a nullish value to fall back to the default resolution for that source.",
+  "text": "Résout vous-même une entrée {0} en layer. Retournez une valeur nullish pour revenir à la résolution par défaut pour cette source.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Résout vous-même une entrée {0} en layer. Retournez une valeur nullish pour revenir à la résolution par défaut pour cette source."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

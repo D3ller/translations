@@ -1,0 +1,14 @@
+{
+  "hash": "74035d81b79b0aef",
+  "source": "How to use this module?",
+  "text": "Comment utiliser ce module ?",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Comment utiliser ce module ?"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

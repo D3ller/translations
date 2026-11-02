@@ -1,0 +1,14 @@
+{
+  "hash": "06588f1c4b41ec60",
+  "source": "Types that are only used in one context can live next to that context instead: {0} is auto-imported in the Vue app only, and {1} is auto-imported in the Nitro server only. Use {2} when a type is needed in both.",
+  "text": "Les types utilisés dans un seul contexte peuvent se trouver à côté de ce contexte : {0} est importé automatiquement uniquement dans l'application Vue, et {1} uniquement dans le serveur Nitro. Utilisez {2} lorsqu'un type est nécessaire dans les deux.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les types utilisés dans un seul contexte peuvent se trouver à côté de ce contexte : {0} est importé automatiquement uniquement dans l'application Vue, et {1} uniquement dans le serveur Nitro. Utilisez {2} lorsqu'un type est nécessaire dans les deux."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

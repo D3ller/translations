@@ -1,0 +1,14 @@
+{
+  "hash": "4b436126a72c8780",
+  "source": "Read more about the format of {0}.",
+  "text": "En savoir plus sur le format de {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En savoir plus sur le format de {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

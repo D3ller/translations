@@ -1,0 +1,14 @@
+{
+  "hash": "550bea65f583a1b7",
+  "source": "Use {0} instead. It reports each family as it is resolved, with the URL every font file is served from and a {1} to read its contents, so there is no need to reconstruct paths from the asset context. The old hook still works.",
+  "text": "Utilisez plutôt {0}. Ce hook signale chaque famille au fur et à mesure de sa résolution, avec l'URL à partir de laquelle chaque fichier de police est servi et un {1} pour en lire le contenu, ce qui évite de reconstruire les chemins à partir du contexte des assets. L'ancien hook fonctionne toujours.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utilisez plutôt {0}. Ce hook signale chaque famille au fur et à mesure de sa résolution, avec l'URL à partir de laquelle chaque fichier de police est servi et un {1} pour en lire le contenu, ce qui évite de reconstruire les chemins à partir du contexte des assets. L'ancien hook fonctionne toujours."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

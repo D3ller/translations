@@ -1,0 +1,14 @@
+{
+  "hash": "4ae09c8f7833ec58",
+  "source": "This ensures consistent behavior between {0} and {1}, and prevents unexpected fetches. If you have set {2}, then you must call {3} or {4} or data will never be fetched in {5} or {6}.",
+  "text": "Cela garantit un comportement cohérent entre {0} et {1}, et évite les récupérations inattendues. Si vous avez défini {2}, vous devez appeler {3} ou {4}, sinon les données ne seront jamais récupérées dans {5} ou {6}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela garantit un comportement cohérent entre {0} et {1}, et évite les récupérations inattendues. Si vous avez défini {2}, vous devez appeler {3} ou {4}, sinon les données ne seront jamais récupérées dans {5} ou {6}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

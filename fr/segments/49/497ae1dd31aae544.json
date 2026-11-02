@@ -1,0 +1,14 @@
+{
+  "hash": "497ae1dd31aae544",
+  "source": "{0}: Provide a function which returns cached data. An {1} return value will trigger a fetch. By default, this is:",
+  "text": "{0} : fournissez une fonction qui retourne les données en cache. Une valeur de retour {1} déclenchera une récupération. Par défaut, il s'agit de :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : fournissez une fonction qui retourne les données en cache. Une valeur de retour {1} déclenchera une récupération. Par défaut, il s'agit de :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

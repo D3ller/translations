@@ -1,0 +1,14 @@
+{
+  "hash": "5d06e887b53d52e4",
+  "source": "Static hosts need an HTML shell for client-side routes and missing paths. Nuxt emits two SPA fallbacks for that:",
+  "text": "Les hébergeurs statiques ont besoin d'une coquille HTML pour les routes côté client et les chemins introuvables. Nuxt génère pour cela deux fichiers de repli SPA :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les hébergeurs statiques ont besoin d'une coquille HTML pour les routes côté client et les chemins introuvables. Nuxt génère pour cela deux fichiers de repli SPA :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

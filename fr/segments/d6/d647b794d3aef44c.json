@@ -1,0 +1,14 @@
+{
+  "hash": "d647b794d3aef44c",
+  "source": "Enables SSR streaming to dramatically improve Time to First Byte (TTFB). When enabled, the server sends the HTML shell (including {0}, styles, preload hints, and entry scripts) immediately, then streams the rendered body content progressively using Vue's {1}.",
+  "text": "Active le streaming SSR pour améliorer considérablement le Time to First Byte (TTFB). Lorsqu'il est activé, le serveur envoie immédiatement l'enveloppe HTML (y compris {0}, les styles, les indications de préchargement et les scripts d'entrée), puis diffuse progressivement le contenu rendu du body avec {1} de Vue.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Active le streaming SSR pour améliorer considérablement le Time to First Byte (TTFB). Lorsqu'il est activé, le serveur envoie immédiatement l'enveloppe HTML (y compris {0}, les styles, les indications de préchargement et les scripts d'entrée), puis diffuse progressivement le contenu rendu du body avec {1} de Vue."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

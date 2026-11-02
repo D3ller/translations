@@ -1,0 +1,14 @@
+{
+  "hash": "d94a419c4dd6b154",
+  "source": "The new configuration provides better type safety and IntelliSense for projects that opt in, while maintaining full backward compatibility for existing setups.",
+  "text": "La nouvelle configuration offre une meilleure sécurité des types et un meilleur IntelliSense pour les projets qui l'adoptent, tout en conservant une compatibilité ascendante complète pour les configurations existantes.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La nouvelle configuration offre une meilleure sécurité des types et un meilleur IntelliSense pour les projets qui l'adoptent, tout en conservant une compatibilité ascendante complète pour les configurations existantes."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

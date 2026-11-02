@@ -1,0 +1,14 @@
+{
+  "hash": "1dc4e3f46eb9ad48",
+  "source": "Otherwise, there is nothing you need to do. However, if you want, you can remove your explicit imports from {0} and rely on Nuxt Bridge auto-importing them for you.",
+  "text": "Sinon, vous n'avez rien à faire. Cependant, si vous le souhaitez, vous pouvez supprimer vos imports explicites depuis {0} et laisser Nuxt Bridge les importer automatiquement pour vous.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sinon, vous n'avez rien à faire. Cependant, si vous le souhaitez, vous pouvez supprimer vos imports explicites depuis {0} et laisser Nuxt Bridge les importer automatiquement pour vous."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

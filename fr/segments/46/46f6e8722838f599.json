@@ -1,0 +1,14 @@
+{
+  "hash": "46f6e8722838f599",
+  "source": "About route rules configurations, you can get more detail in {0}Hybrid Rendering > Route Rules{/0}.",
+  "text": "Pour plus de détails sur les configurations de règles de route, consultez {0}Rendu hybride > Règles de route{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour plus de détails sur les configurations de règles de route, consultez {0}Rendu hybride > Règles de route{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

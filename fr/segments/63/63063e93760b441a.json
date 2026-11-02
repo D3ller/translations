@@ -1,0 +1,14 @@
+{
+  "hash": "63063e93760b441a",
+  "source": "The plain output offers a smaller set of shortcuts: {0} to restart, {1} to open, {2} to show the URLs, {3} for a QR code, {4} to copy the URL, {5} to clear the console, {6} for help and {7} to quit.",
+  "text": "La sortie simple propose un ensemble réduit de raccourcis : {0} pour redémarrer, {1} pour ouvrir, {2} pour afficher les URL, {3} pour un code QR, {4} pour copier l'URL, {5} pour effacer la console, {6} pour l'aide et {7} pour quitter.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La sortie simple propose un ensemble réduit de raccourcis : {0} pour redémarrer, {1} pour ouvrir, {2} pour afficher les URL, {3} pour un code QR, {4} pour copier l'URL, {5} pour effacer la console, {6} pour l'aide et {7} pour quitter."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

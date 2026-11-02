@@ -1,0 +1,14 @@
+{
+  "hash": "ff031ffc1cc2b87b",
+  "source": "If you want to store class instances with {0} that are not supported by Nuxt, you can use {1} to add a custom serializer and deserializer for your classes.",
+  "text": "Si vous souhaitez stocker avec {0} des instances de classe qui ne sont pas prises en charge par Nuxt, vous pouvez utiliser {1} pour ajouter un sérialiseur et un désérialiseur personnalisés pour vos classes.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous souhaitez stocker avec {0} des instances de classe qui ne sont pas prises en charge par Nuxt, vous pouvez utiliser {1} pour ajouter un sérialiseur et un désérialiseur personnalisés pour vos classes."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "a72aa4138bc5d393",
+  "source": "Nuxt provides a runtime config API to expose configuration and secrets within your application.",
+  "text": "Nuxt fournit une API de runtime config pour exposer la configuration et les secrets au sein de votre application.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt fournit une API de runtime config pour exposer la configuration et les secrets au sein de votre application."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

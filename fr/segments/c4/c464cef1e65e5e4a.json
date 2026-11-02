@@ -1,0 +1,14 @@
+{
+  "hash": "c464cef1e65e5e4a",
+  "source": "Configuration that will be merged into Vite's configuration for the server build.",
+  "text": "Configuration qui sera fusionnée dans la configuration de Vite pour le build serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Configuration qui sera fusionnée dans la configuration de Vite pour le build serveur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

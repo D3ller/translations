@@ -1,0 +1,14 @@
+{
+  "hash": "9028892ec198ca88",
+  "source": "By default, the workload gets distributed to the workers with the round robin strategy.",
+  "text": "Par défaut, la charge de travail est répartie entre les workers selon la stratégie round robin.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par défaut, la charge de travail est répartie entre les workers selon la stratégie round robin."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

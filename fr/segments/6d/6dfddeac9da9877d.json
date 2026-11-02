@@ -1,0 +1,14 @@
+{
+  "hash": "6dfddeac9da9877d",
+  "source": "A renderer owns everything it reads, so a bundle may create several. A module that renders something other than a route, such as an island handler, should render against the same loaded artifacts as the page renderer: create the state once with {0} from {1}, hand it to {2}, and render from it directly elsewhere.",
+  "text": "Un renderer possède tout ce qu'il lit, de sorte qu'un bundle peut en créer plusieurs. Un module qui effectue le rendu d'autre chose qu'une route, comme un handler d'îlot, doit effectuer son rendu à partir des mêmes artefacts chargés que le renderer de pages : créez l'état une seule fois avec {0} depuis {1}, transmettez-le à {2}, puis effectuez le rendu directement à partir de celui-ci ailleurs.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un renderer possède tout ce qu'il lit, de sorte qu'un bundle peut en créer plusieurs. Un module qui effectue le rendu d'autre chose qu'une route, comme un handler d'îlot, doit effectuer son rendu à partir des mêmes artefacts chargés que le renderer de pages : créez l'état une seule fois avec {0} depuis {1}, transmettez-le à {2}, puis effectuez le rendu directement à partir de celui-ci ailleurs."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

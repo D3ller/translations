@@ -1,0 +1,14 @@
+{
+  "hash": "21a8e285c367f906",
+  "source": "**{0}** are text replacements for {1}, {2}, {3}, and {4} (and potentially other values). Apply them via a replacement transform. If you don't, unused branches stay in the bundle, and payload extraction and prerender caches will be disabled without any error.",
+  "text": "**{0}** sont des remplacements de texte pour {1}, {2}, {3} et {4} (et potentiellement d'autres valeurs). Appliquez-les via une transformation de remplacement. Sinon, les branches inutilisées restent dans le bundle, et l'extraction du payload (charge utile) et les caches de prérendu seront désactivés sans aucune erreur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** sont des remplacements de texte pour {1}, {2}, {3} et {4} (et potentiellement d'autres valeurs). Appliquez-les via une transformation de remplacement. Sinon, les branches inutilisées restent dans le bundle, et l'extraction du payload (charge utile) et les caches de prérendu seront désactivés sans aucune erreur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

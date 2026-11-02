@@ -1,0 +1,14 @@
+{
+  "hash": "b71cda651245d4a3",
+  "source": "When linking to other documentation pages, use relative paths without the domain or a version segment: {0} rather than {1} or {2}. {3}nuxt.com{/3} inserts the version segment of the branch the page was built from, so the same link resolves correctly on every version and docs changes can be cherry-picked between branches unchanged.",
+  "text": "Lorsque vous faites un lien vers d'autres pages de la documentation, utilisez des chemins relatifs sans le domaine ni segment de version : {0} plutôt que {1} ou {2}. {3}nuxt.com{/3} insère le segment de version de la branche à partir de laquelle la page a été construite, de sorte que le même lien fonctionne correctement sur toutes les versions et que les modifications de la documentation peuvent être cherry-pickées d'une branche à l'autre sans changement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque vous faites un lien vers d'autres pages de la documentation, utilisez des chemins relatifs sans le domaine ni segment de version : {0} plutôt que {1} ou {2}. {3}nuxt.com{/3} insère le segment de version de la branche à partir de laquelle la page a été construite, de sorte que le même lien fonctionne correctement sur toutes les versions et que les modifications de la documentation peuvent être cherry-pickées d'une branche à l'autre sans changement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

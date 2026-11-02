@@ -1,0 +1,14 @@
+{
+  "hash": "3a40c81dd6bc7653",
+  "source": "When importing using global aliases (such as {0} and {1}) in a layer components and composables, note that these aliases are resolved relative to the user's project paths. As a workaround, you can **use relative paths** to import them, or use named layer aliases.",
+  "text": "Lorsque vous importez avec des alias globaux (tels que {0} et {1}) dans les composants et composables d'un layer, notez que ces alias sont résolus par rapport aux chemins du projet de l'utilisateur. Pour contourner ce problème, vous pouvez **utiliser des chemins relatifs** pour les importer, ou utiliser des alias de layer nommés.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque vous importez avec des alias globaux (tels que {0} et {1}) dans les composants et composables d'un layer, notez que ces alias sont résolus par rapport aux chemins du projet de l'utilisateur. Pour contourner ce problème, vous pouvez **utiliser des chemins relatifs** pour les importer, ou utiliser des alias de layer nommés."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

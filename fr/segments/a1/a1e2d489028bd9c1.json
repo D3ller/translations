@@ -1,0 +1,14 @@
+{
+  "hash": "a1e2d489028bd9c1",
+  "source": "Passphrase for the TLS key or keystore",
+  "text": "Phrase secrète de la clé TLS ou du keystore",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Phrase secrète de la clé TLS ou du keystore"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

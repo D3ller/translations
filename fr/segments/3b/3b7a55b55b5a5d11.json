@@ -1,0 +1,14 @@
+{
+  "hash": "3b7a55b55b5a5d11",
+  "source": "Nuxt automatically shares payload *data* between pages that are prerendered. This can result in a significant performance improvement when prerendering sites that use {0} or {1} and fetch the same data in different pages.",
+  "text": "Nuxt partage automatiquement les *données* du payload (charge utile) entre les pages prérendues. Cela peut entraîner une amélioration significative des performances lors du prérendu de sites qui utilisent {0} ou {1} et récupèrent les mêmes données dans différentes pages.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt partage automatiquement les *données* du payload (charge utile) entre les pages prérendues. Cela peut entraîner une amélioration significative des performances lors du prérendu de sites qui utilisent {0} ou {1} et récupèrent les mêmes données dans différentes pages."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

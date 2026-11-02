@@ -1,0 +1,14 @@
+{
+  "hash": "545eddfcbe369a6f",
+  "source": "Prefetching component downloads the code in the background, this is based on the assumption that the component will likely be used for rendering, enabling the component to load instantly if and when the user requests it. The component is downloaded and cached for anticipated future use without the user making an explicit request for it.",
+  "text": "Le préchargement (prefetch) d'un composant télécharge son code en arrière-plan. Cela repose sur l'hypothèse que le composant sera probablement utilisé pour le rendu, ce qui lui permet de se charger instantanément si et quand l'utilisateur le demande. Le composant est téléchargé et mis en cache en vue d'une utilisation future anticipée, sans que l'utilisateur en ait fait la demande explicite.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le préchargement (prefetch) d'un composant télécharge son code en arrière-plan. Cela repose sur l'hypothèse que le composant sera probablement utilisé pour le rendu, ce qui lui permet de se charger instantanément si et quand l'utilisateur le demande. Le composant est téléchargé et mis en cache en vue d'une utilisation future anticipée, sans que l'utilisateur en ait fait la demande explicite."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

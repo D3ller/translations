@@ -1,0 +1,14 @@
+{
+  "hash": "7fb701fe5e6db673",
+  "source": "checkOutdatedBuildInterval",
+  "text": "checkOutdatedBuildInterval",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "checkOutdatedBuildInterval"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

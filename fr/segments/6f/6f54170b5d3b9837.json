@@ -1,0 +1,14 @@
+{
+  "hash": "6f54170b5d3b9837",
+  "source": "**Case-sensitive routing**: Page routes {0}match URL casing exactly{/0}, consistent with Nitro",
+  "text": "**Routage sensible à la casse** : les routes de pages {0}respectent exactement la casse des URL{/0}, comme Nitro",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Routage sensible à la casse** : les routes de pages {0}respectent exactement la casse des URL{/0}, comme Nitro"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

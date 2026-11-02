@@ -1,0 +1,14 @@
+{
+  "hash": "39443690a070390d",
+  "source": "Nitro is internally using {0}h3{/0}, a minimal H(TTP) framework built for high performance and portability.",
+  "text": "Nitro utilise en interne {0}h3{/0}, un framework H(TTP) minimaliste conçu pour la haute performance et la portabilité.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nitro utilise en interne {0}h3{/0}, un framework H(TTP) minimaliste conçu pour la haute performance et la portabilité."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

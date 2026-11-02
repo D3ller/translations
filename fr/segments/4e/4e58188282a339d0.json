@@ -1,0 +1,14 @@
+{
+  "hash": "4e58188282a339d0",
+  "source": "{0}: Granular control of which prefetch strategies to apply by default.",
+  "text": "{0} : contrôle précis des stratégies de préchargement à appliquer par défaut.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : contrôle précis des stratégies de préchargement à appliquer par défaut."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

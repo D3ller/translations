@@ -1,0 +1,14 @@
+{
+  "hash": "a97132565b6ce4a6",
+  "source": "Configure {0}webpack optimization{/0}.",
+  "text": "Configure l'{0}optimisation de webpack{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Configure l'{0}optimisation de webpack{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "182be4736584ba37",
+  "source": "Nuxt has a powerful feature called {0} which allows you to define a set of rules to customize how each route of your Nuxt app is rendered (and more). Nuxt compiles the rules, and the default server builder (Nitro) applies the server-side ones.",
+  "text": "Nuxt dispose d'une fonctionnalité puissante appelée {0}, qui vous permet de définir un ensemble de règles pour personnaliser le rendu de chaque route de votre application Nuxt (et plus encore). Nuxt compile les règles, et le builder serveur par défaut (Nitro) applique celles côté serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt dispose d'une fonctionnalité puissante appelée {0}, qui vous permet de définir un ensemble de règles pour personnaliser le rendu de chaque route de votre application Nuxt (et plus encore). Nuxt compile les règles, et le builder serveur par défaut (Nitro) applique celles côté serveur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

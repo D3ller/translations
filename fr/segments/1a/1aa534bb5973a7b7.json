@@ -1,0 +1,14 @@
+{
+  "hash": "1aa534bb5973a7b7",
+  "source": "Remove a key with",
+  "text": "Supprimer une clé avec",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Supprimer une clé avec"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

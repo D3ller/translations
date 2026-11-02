@@ -1,0 +1,14 @@
+{
+  "hash": "0cbcae24e4b7fb05",
+  "source": "When Nuxt 3 users add your module, you will not have access to the module container ({0}) so you will need to use utilities from {1} to access the container functionality.",
+  "text": "Lorsque des utilisateurs de Nuxt 3 ajoutent votre module, vous n'aurez pas accès au conteneur de module ({0}) ; vous devrez donc utiliser les utilitaires de {1} pour accéder aux fonctionnalités du conteneur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque des utilisateurs de Nuxt 3 ajoutent votre module, vous n'aurez pas accès au conteneur de module ({0}) ; vous devrez donc utiliser les utilitaires de {1} pour accéder aux fonctionnalités du conteneur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "a2529e22a03a53c8",
+  "source": "Template refs cannot reference elements inside a server component from the parent ({0}).",
+  "text": "Les refs de template ne peuvent pas référencer des éléments à l'intérieur d'un composant serveur depuis le parent ({0}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les refs de template ne peuvent pas référencer des éléments à l'intérieur d'un composant serveur depuis le parent ({0})."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

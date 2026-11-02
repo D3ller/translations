@@ -1,0 +1,14 @@
+{
+  "hash": "9f83e97ddcc02009",
+  "source": "Custom Directives on Vue Docs",
+  "text": "Directives personnalisées dans la documentation de Vue",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Directives personnalisées dans la documentation de Vue"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

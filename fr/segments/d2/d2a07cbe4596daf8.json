@@ -1,0 +1,14 @@
+{
+  "hash": "d2a07cbe4596daf8",
+  "source": "**Typed {0}**: {1} and {2} are typed from {3}generated route types{/3} rather than nitro's {4}",
+  "text": "**{0} typé** : {1} et {2} sont typés à partir des {3}types de routes générés{/3} plutôt que de {4} de Nitro",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0} typé** : {1} et {2} sont typés à partir des {3}types de routes générés{/3} plutôt que de {4} de Nitro"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

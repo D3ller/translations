@@ -1,0 +1,14 @@
+{
+  "hash": "db7b528320294594",
+  "source": "The shared directory for code used by both client and server",
+  "text": "Le répertoire shared pour le code utilisé à la fois par le client et par le serveur",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le répertoire shared pour le code utilisé à la fois par le client et par le serveur"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

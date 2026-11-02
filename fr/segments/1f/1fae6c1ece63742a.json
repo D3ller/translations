@@ -1,0 +1,14 @@
+{
+  "hash": "1fae6c1ece63742a",
+  "source": "Call {0} in the setup function of a Vue component (e.g., in {1}) or in a plugin. It only has an effect when called on the server and will not be included in your client build.",
+  "text": "Appelez {0} dans la fonction setup d'un composant Vue (par exemple, dans {1}) ou dans un plugin. Il n'a d'effet que lorsqu'il est appelé sur le serveur et ne sera pas inclus dans votre build client.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appelez {0} dans la fonction setup d'un composant Vue (par exemple, dans {1}) ou dans un plugin. Il n'a d'effet que lorsqu'il est appelé sur le serveur et ne sera pas inclus dans votre build client."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

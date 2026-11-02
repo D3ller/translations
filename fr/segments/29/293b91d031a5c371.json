@@ -1,0 +1,14 @@
+{
+  "hash": "293b91d031a5c371",
+  "source": "Type hints and automated type inference",
+  "text": "Indications de types et inférence de types automatisée",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Indications de types et inférence de types automatisée"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

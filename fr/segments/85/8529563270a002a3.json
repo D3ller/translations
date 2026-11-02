@@ -1,0 +1,14 @@
+{
+  "hash": "8529563270a002a3",
+  "source": "Hard-replaces {0}, {1} and {2} to tree-shake bundle.",
+  "text": "Remplace de manière forcée {0}, {1} et {2} afin d'éliminer le code inutilisé (tree-shaking) du bundle.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Remplace de manière forcée {0}, {1} et {2} afin d'éliminer le code inutilisé (tree-shaking) du bundle."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

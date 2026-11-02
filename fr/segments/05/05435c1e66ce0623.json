@@ -1,0 +1,14 @@
+{
+  "hash": "05435c1e66ce0623",
+  "source": "**4. Install {0} if you still need it.**",
+  "text": "**4. Installez {0} si vous en avez encore besoin.**",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**4. Installez {0} si vous en avez encore besoin.**"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "05bc503efc68583c",
+  "source": "If you want framework-specific functions like {0} to remain auto-imported but wish to disable auto-imports for your own code (e.g., custom composables), you can set the {1} option to {2} in your {3} file:",
+  "text": "Si vous souhaitez que les fonctions propres au framework, comme {0}, restent importées automatiquement tout en désactivant les imports automatiques pour votre propre code (par ex. des composables personnalisés), vous pouvez définir l'option {1} à {2} dans votre fichier {3} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous souhaitez que les fonctions propres au framework, comme {0}, restent importées automatiquement tout en désactivant les imports automatiques pour votre propre code (par ex. des composables personnalisés), vous pouvez définir l'option {1} à {2} dans votre fichier {3} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

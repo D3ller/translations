@@ -1,0 +1,14 @@
+{
+  "hash": "7017c82fed568ba6",
+  "source": "An unrecognised command is matched against the ones that exist, and an unrecognised flag against the ones the command declares. In an interactive terminal you are offered the correction to run instead; otherwise it is reported as a warning, so a misspelled flag no longer looks like a flag that simply had no effect.",
+  "text": "Une commande non reconnue est comparée à celles qui existent, et une option non reconnue à celles que déclare la commande. Dans un terminal interactif, la correction vous est proposée à l'exécution ; sinon, elle est signalée par un avertissement, de sorte qu'une option mal orthographiée ne ressemble plus à une option qui n'aurait simplement eu aucun effet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une commande non reconnue est comparée à celles qui existent, et une option non reconnue à celles que déclare la commande. Dans un terminal interactif, la correction vous est proposée à l'exécution ; sinon, elle est signalée par un avertissement, de sorte qu'une option mal orthographiée ne ressemble plus à une option qui n'aurait simplement eu aucun effet."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

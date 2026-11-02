@@ -1,0 +1,14 @@
+{
+  "hash": "c545a30ace90f7ae",
+  "source": "Configuration that will be merged into Vite's configuration for the client (browser) build.",
+  "text": "Configuration qui sera fusionnée dans la configuration de Vite pour le build client (navigateur).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Configuration qui sera fusionnée dans la configuration de Vite pour le build client (navigateur)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

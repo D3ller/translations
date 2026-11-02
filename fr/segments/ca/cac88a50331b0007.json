@@ -1,0 +1,14 @@
+{
+  "hash": "cac88a50331b0007",
+  "source": "Run the handler before route handlers. Return nothing to pass the request to the next handler. On a {0} v2 host, every dev handler runs as middleware.",
+  "text": "Exécute le gestionnaire avant les gestionnaires de routes. Ne retournez rien pour transmettre la requête au gestionnaire suivant. Sur un hôte {0} v2, chaque gestionnaire de développement s'exécute comme middleware.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Exécute le gestionnaire avant les gestionnaires de routes. Ne retournez rien pour transmettre la requête au gestionnaire suivant. Sur un hôte {0} v2, chaque gestionnaire de développement s'exécute comme middleware."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

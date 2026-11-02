@@ -1,0 +1,14 @@
+{
+  "hash": "ed405ae631e46a6f",
+  "source": "or specify the target to mock",
+  "text": "ou spécifier la cible à mocker",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "ou spécifier la cible à mocker"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

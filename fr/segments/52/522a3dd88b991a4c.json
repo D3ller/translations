@@ -1,0 +1,14 @@
+{
+  "hash": "522a3dd88b991a4c",
+  "source": "Alternatively, reference the directories in {0} (e.g. {1}) to order them from {2} without renaming, with the first entry taking the highest priority.",
+  "text": "Vous pouvez aussi référencer les répertoires dans {0} (par ex. {1}) pour les ordonner à partir de {2} sans les renommer, la première entrée ayant la priorité la plus élevée.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez aussi référencer les répertoires dans {0} (par ex. {1}) pour les ordonner à partir de {2} sans les renommer, la première entrée ayant la priorité la plus élevée."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

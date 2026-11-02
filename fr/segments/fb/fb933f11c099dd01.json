@@ -1,0 +1,14 @@
+{
+  "hash": "fb933f11c099dd01",
+  "source": "Nuxt provides a way to perform {0} fetching within the Options API. You must wrap your component definition within {1} for this to work.",
+  "text": "Nuxt permet d'effectuer la récupération de {0} avec l'Options API. Vous devez envelopper la définition de votre composant dans {1} pour que cela fonctionne.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt permet d'effectuer la récupération de {0} avec l'Options API. Vous devez envelopper la définition de votre composant dans {1} pour que cela fonctionne."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

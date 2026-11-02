@@ -1,0 +1,14 @@
+{
+  "hash": "64dcb9652f3fa3d9",
+  "source": "If you want to extend a private remote source, you need to add the environment variable {0} to provide a token.",
+  "text": "Si vous souhaitez étendre une source distante privée, vous devez ajouter la variable d'environnement {0} pour fournir un token.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous souhaitez étendre une source distante privée, vous devez ajouter la variable d'environnement {0} pour fournir un token."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

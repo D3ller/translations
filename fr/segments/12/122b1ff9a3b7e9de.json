@@ -1,0 +1,14 @@
+{
+  "hash": "122b1ff9a3b7e9de",
+  "source": "Let user signup with email & password using {0}password hashing{/0}",
+  "text": "Permettre aux utilisateurs de s'inscrire avec e-mail et mot de passe grâce au {0}hachage de mot de passe{/0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Permettre aux utilisateurs de s'inscrire avec e-mail et mot de passe grâce au {0}hachage de mot de passe{/0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

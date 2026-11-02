@@ -1,0 +1,14 @@
+{
+  "hash": "5dba782da6527902",
+  "source": "If you're writing code that needs to access resolved Vite configuration, you should use the {0} and {1} hooks *within* your Vite plugin, rather than using Nuxt's {2}, {3} and {4}.",
+  "text": "Si vous écrivez du code qui doit accéder à la configuration Vite résolue, utilisez les hooks {0} et {1} *au sein* de votre plugin Vite, plutôt que {2}, {3} et {4} de Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous écrivez du code qui doit accéder à la configuration Vite résolue, utilisez les hooks {0} et {1} *au sein* de votre plugin Vite, plutôt que {2}, {3} et {4} de Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "625f29c9fa2a70b9",
+  "source": "Better performance",
+  "text": "De meilleures performances",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "De meilleures performances"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

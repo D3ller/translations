@@ -1,0 +1,14 @@
+{
+  "hash": "568c56a8c92b14d8",
+  "source": "Uses comment nodes ({0}) instead of {1} elements as placeholders for client-only components during server-side rendering.",
+  "text": "Utilise des nœuds de commentaire ({0}) à la place des éléments {1} comme espaces réservés pour les composants client uniquement pendant le rendu côté serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utilise des nœuds de commentaire ({0}) à la place des éléments {1} comme espaces réservés pour les composants client uniquement pendant le rendu côté serveur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

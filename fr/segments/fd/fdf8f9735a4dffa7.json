@@ -1,0 +1,14 @@
+{
+  "hash": "fdf8f9735a4dffa7",
+  "source": "Idle Strategy",
+  "text": "Stratégie d'inactivité",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Stratégie d'inactivité"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

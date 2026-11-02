@@ -1,0 +1,14 @@
+{
+  "hash": "255a7e026af15f57",
+  "source": "{0}: Array of script tag objects",
+  "text": "{0} : tableau d'objets de balises script",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : tableau d'objets de balises script"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "b1443451dc515f70",
+  "source": "The build timings, {0} and {1} come from Nuxt's own build profiling, which needs Nuxt v4.4 or later. On an earlier version the CPU profile is still written.",
+  "text": "Les durées de build, {0} et {1} proviennent du profilage de build propre à Nuxt, qui nécessite Nuxt v4.4 ou une version ultérieure. Avec une version antérieure, le profil CPU est tout de même écrit.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les durées de build, {0} et {1} proviennent du profilage de build propre à Nuxt, qui nécessite Nuxt v4.4 ou une version ultérieure. Avec une version antérieure, le profil CPU est tout de même écrit."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

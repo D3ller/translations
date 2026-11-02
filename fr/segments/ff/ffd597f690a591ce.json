@@ -1,0 +1,14 @@
+{
+  "hash": "ffd597f690a591ce",
+  "source": "Nitro is an open source TypeScript framework to build ultra-fast web servers. Nuxt uses Nitro as its server engine. You can use {0} to access the Nitro instance, {1} to add a server handler, {2} to add a server handler to be used only in development mode, {3} to add a plugin to extend Nitro's runtime behavior, and {4} to add routes to be prerendered by Nitro.",
+  "text": "Nitro est un framework TypeScript open source pour créer des serveurs web ultra-rapides. Nuxt utilise Nitro comme moteur de serveur. Vous pouvez utiliser {0} pour accéder à l'instance Nitro, {1} pour ajouter un gestionnaire de serveur, {2} pour ajouter un gestionnaire de serveur utilisé uniquement en mode développement, {3} pour ajouter un plugin qui étend le comportement d'exécution de Nitro, et {4} pour ajouter des routes à prérendre avec Nitro.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nitro est un framework TypeScript open source pour créer des serveurs web ultra-rapides. Nuxt utilise Nitro comme moteur de serveur. Vous pouvez utiliser {0} pour accéder à l'instance Nitro, {1} pour ajouter un gestionnaire de serveur, {2} pour ajouter un gestionnaire de serveur utilisé uniquement en mode développement, {3} pour ajouter un plugin qui étend le comportement d'exécution de Nitro, et {4} pour ajouter des routes à prérendre avec Nitro."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

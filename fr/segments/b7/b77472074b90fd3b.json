@@ -1,0 +1,14 @@
+{
+  "hash": "b77472074b90fd3b",
+  "source": "You can of course opt for any test structure, but each test file should match exactly one project. In particular, keeping Nuxt-environment tests separate from end-to-end tests is important for test stability.",
+  "text": "Vous pouvez bien sûr opter pour n'importe quelle structure de tests, mais chaque fichier de test doit correspondre à exactement un projet. En particulier, il est important pour la stabilité des tests de séparer les tests de l'environnement Nuxt des tests de bout en bout.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez bien sûr opter pour n'importe quelle structure de tests, mais chaque fichier de test doit correspondre à exactement un projet. En particulier, il est important pour la stabilité des tests de séparer les tests de l'environnement Nuxt des tests de bout en bout."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

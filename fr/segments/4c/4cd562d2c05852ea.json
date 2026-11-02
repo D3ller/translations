@@ -1,0 +1,14 @@
+{
+  "hash": "4cd562d2c05852ea",
+  "source": "With the option on, a typo and a method the route does not answer are both errors:",
+  "text": "Lorsque l'option est activée, une faute de frappe et une méthode à laquelle la route ne répond pas sont toutes deux des erreurs :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque l'option est activée, une faute de frappe et une méthode à laquelle la route ne répond pas sont toutes deux des erreurs :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

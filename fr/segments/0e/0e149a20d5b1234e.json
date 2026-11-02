@@ -1,0 +1,14 @@
+{
+  "hash": "0e149a20d5b1234e",
+  "source": "Learn more about testing Nuxt 5.",
+  "text": "En savoir plus sur le test de Nuxt 5.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En savoir plus sur le test de Nuxt 5."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

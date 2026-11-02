@@ -1,0 +1,14 @@
+{
+  "hash": "679b3f2013a16caf",
+  "source": "By default, all your pages should be in one {0} directory at the root of your project.",
+  "text": "Par défaut, toutes vos pages doivent se trouver dans un seul répertoire {0} à la racine de votre projet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par défaut, toutes vos pages doivent se trouver dans un seul répertoire {0} à la racine de votre projet."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

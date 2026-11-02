@@ -1,0 +1,14 @@
+{
+  "hash": "55e0e6127ab01818",
+  "source": "Custom options stay in the merged options object, so they are also passed to {0} along with the request options, and {1} ignores keys it does not recognize.",
+  "text": "Les options personnalisées restent dans l'objet d'options fusionné ; elles sont donc aussi transmises à {0} avec les options de la requête, et {1} ignore les clés qu'il ne reconnaît pas.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les options personnalisées restent dans l'objet d'options fusionné ; elles sont donc aussi transmises à {0} avec les options de la requête, et {1} ignore les clés qu'il ne reconnaît pas."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

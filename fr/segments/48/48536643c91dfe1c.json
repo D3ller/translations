@@ -1,0 +1,14 @@
+{
+  "hash": "48536643c91dfe1c",
+  "source": "files ending in {0} - these are expected to use CJS syntax",
+  "text": "les fichiers se terminant par {0} : ils sont censés utiliser la syntaxe CJS",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "les fichiers se terminant par {0} : ils sont censés utiliser la syntaxe CJS"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

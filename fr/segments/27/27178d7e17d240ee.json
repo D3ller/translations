@@ -1,0 +1,14 @@
+{
+  "hash": "27178d7e17d240ee",
+  "source": "Restart the dev server",
+  "text": "Redémarrer le serveur de développement",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Redémarrer le serveur de développement"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

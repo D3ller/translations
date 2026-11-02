@@ -1,0 +1,14 @@
+{
+  "hash": "3794ae36cb095547",
+  "source": "If you rely on the {0} property, ensure that your logic accounts for the new behavior where {1} will only be {2} when the status is also pending.",
+  "text": "Si vous vous appuyez sur la propriété {0}, assurez-vous que votre logique tient compte du nouveau comportement : {1} ne vaudra {2} que lorsque le statut est également en attente.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous vous appuyez sur la propriété {0}, assurez-vous que votre logique tient compte du nouveau comportement : {1} ne vaudra {2} que lorsque le statut est également en attente."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

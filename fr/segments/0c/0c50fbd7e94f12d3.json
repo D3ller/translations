@@ -1,0 +1,14 @@
+{
+  "hash": "0c50fbd7e94f12d3",
+  "source": "This means your project files will override any layer, and {0} will override anything in {1}.",
+  "text": "Cela signifie que les fichiers de votre projet remplaceront ceux de n'importe quel layer, et que {0} remplacera tout ce qui se trouve dans {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela signifie que les fichiers de votre projet remplaceront ceux de n'importe quel layer, et que {0} remplacera tout ce qui se trouve dans {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

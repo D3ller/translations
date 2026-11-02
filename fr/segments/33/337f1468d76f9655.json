@@ -1,0 +1,14 @@
+{
+  "hash": "337f1468d76f9655",
+  "source": "Defaults to 'silent' when running in CI or when a TTY is not available. This option is then used as 'silent' in Vite and 'none' in webpack",
+  "text": "Par défaut « silent » lors d'une exécution en CI ou lorsqu'un TTY n'est pas disponible. Cette option est alors utilisée comme « silent » dans Vite et « none » dans webpack",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par défaut « silent » lors d'une exécution en CI ou lorsqu'un TTY n'est pas disponible. Cette option est alors utilisée comme « silent » dans Vite et « none » dans webpack"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "32aea34dc6694e64",
+  "source": "Test Environments",
+  "text": "Environnements de test",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Environnements de test"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

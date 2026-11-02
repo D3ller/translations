@@ -1,0 +1,14 @@
+{
+  "hash": "9d2408f4e02686ad",
+  "source": "The Vite Environment API provides:",
+  "text": "L'API Vite Environment offre :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'API Vite Environment offre :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

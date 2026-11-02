@@ -1,0 +1,14 @@
+{
+  "hash": "a99d65cf3eea944a",
+  "source": "Errors are set in state using {0}. The {1} composable will reset this state and calls the {2} hook with the provided options.",
+  "text": "Les erreurs sont stockées dans l'état à l'aide de {0}. Le composable {1} réinitialise cet état et appelle le hook {2} avec les options fournies.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les erreurs sont stockées dans l'état à l'aide de {0}. Le composable {1} réinitialise cet état et appelle le hook {2} avec les options fournies."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

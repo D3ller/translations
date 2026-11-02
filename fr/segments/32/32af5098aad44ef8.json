@@ -1,0 +1,14 @@
+{
+  "hash": "32af5098aad44ef8",
+  "source": "If a path inside {0} is awkward to cache, move it with the {1} option.",
+  "text": "Si un chemin situé dans {0} est difficile à mettre en cache, déplacez-le avec l'option {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si un chemin situé dans {0} est difficile à mettre en cache, déplacez-le avec l'option {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

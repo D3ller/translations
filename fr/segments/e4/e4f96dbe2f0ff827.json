@@ -1,0 +1,14 @@
+{
+  "hash": "e4f96dbe2f0ff827",
+  "source": "Whether to fallback to the original path if the resolved path does not exist instead of returning the normalized input path.",
+  "text": "Indique s'il faut se rabattre sur le chemin d'origine si le chemin résolu n'existe pas, au lieu de retourner le chemin d'entrée normalisé.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Indique s'il faut se rabattre sur le chemin d'origine si le chemin résolu n'existe pas, au lieu de retourner le chemin d'entrée normalisé."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

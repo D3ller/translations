@@ -1,0 +1,14 @@
+{
+  "hash": "cb98d6258c70a4cf",
+  "source": "The configuration path is relative to {0} (default is current working directory). Setting this field may be necessary if your project is organized as a yarn workspace-styled mono-repository.",
+  "text": "Le chemin de configuration est relatif à {0} (par défaut, le répertoire de travail courant). Il peut être nécessaire de définir ce champ si votre projet est organisé comme un mono-repository de type workspace yarn.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le chemin de configuration est relatif à {0} (par défaut, le répertoire de travail courant). Il peut être nécessaire de définir ce champ si votre projet est organisé comme un mono-repository de type workspace yarn."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

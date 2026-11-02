@@ -1,0 +1,14 @@
+{
+  "hash": "06db9036cf33ce11",
+  "source": "{0} accepts CSS keywords as well as numbers, and the {1}{2} provider{/1} recognises them in filenames, so {3} is picked up as weight {4}. Remote providers still expect numeric weights.",
+  "text": "{0} accepte les mots-clés CSS en plus des nombres, et {1}le fournisseur {2}{/1} les reconnaît dans les noms de fichiers, si bien que {3} est interprété comme la graisse {4}. Les fournisseurs distants attendent toujours des graisses numériques.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} accepte les mots-clés CSS en plus des nombres, et {1}le fournisseur {2}{/1} les reconnaît dans les noms de fichiers, si bien que {3} est interprété comme la graisse {4}. Les fournisseurs distants attendent toujours des graisses numériques."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

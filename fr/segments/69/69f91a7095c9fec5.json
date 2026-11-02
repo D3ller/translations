@@ -1,0 +1,14 @@
+{
+  "hash": "69f91a7095c9fec5",
+  "source": "Streaming is automatically disabled for bot and crawler user agents (such as Googlebot, Bingbot, etc.) to ensure search engines receive fully-rendered HTML for SEO safety. The default pattern matches indexing crawlers only; Lighthouse and other audit tools deliberately fall outside it so synthetic measurements reflect the same streamed response real users get.",
+  "text": "Le streaming est automatiquement désactivé pour les user agents de bots et de crawlers (comme Googlebot, Bingbot, etc.) afin que les moteurs de recherche reçoivent un HTML entièrement rendu, par sécurité pour le SEO. Le motif par défaut ne correspond qu'aux crawlers d'indexation ; Lighthouse et les autres outils d'audit en sont volontairement exclus, de sorte que les mesures synthétiques reflètent la même réponse streamée que celle reçue par les vrais utilisateurs.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le streaming est automatiquement désactivé pour les user agents de bots et de crawlers (comme Googlebot, Bingbot, etc.) afin que les moteurs de recherche reçoivent un HTML entièrement rendu, par sécurité pour le SEO. Le motif par défaut ne correspond qu'aux crawlers d'indexation ; Lighthouse et les autres outils d'audit en sont volontairement exclus, de sorte que les mesures synthétiques reflètent la même réponse streamée que celle reçue par les vrais utilisateurs."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

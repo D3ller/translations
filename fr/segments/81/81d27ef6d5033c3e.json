@@ -1,0 +1,14 @@
+{
+  "hash": "81d27ef6d5033c3e",
+  "source": "Weight",
+  "text": "Graisse",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Graisse"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

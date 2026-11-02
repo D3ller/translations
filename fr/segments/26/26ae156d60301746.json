@@ -1,0 +1,14 @@
+{
+  "hash": "26ae156d60301746",
+  "source": "Nuxt provides a powerful event system powered by hookable.",
+  "text": "Nuxt fournit un puissant système d'événements propulsé par hookable.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt fournit un puissant système d'événements propulsé par hookable."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

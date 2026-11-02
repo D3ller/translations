@@ -1,0 +1,14 @@
+{
+  "hash": "9789c583791df6f3",
+  "source": "If you filter {0} by component name, update {1}/{2} to the route names. To keep the filename-based names:",
+  "text": "Si vous filtrez {0} par nom de composant, mettez à jour {1}/{2} avec les noms de route. Pour conserver les noms basés sur le nom de fichier :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous filtrez {0} par nom de composant, mettez à jour {1}/{2} avec les noms de route. Pour conserver les noms basés sur le nom de fichier :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

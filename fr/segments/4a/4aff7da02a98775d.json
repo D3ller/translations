@@ -1,0 +1,14 @@
+{
+  "hash": "4aff7da02a98775d",
+  "source": "Layout Props from Page Meta",
+  "text": "Props de layout issues de la page meta",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Props de layout issues de la page meta"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

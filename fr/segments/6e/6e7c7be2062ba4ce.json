@@ -1,0 +1,14 @@
+{
+  "hash": "6e7c7be2062ba4ce",
+  "source": "What a Builder Does",
+  "text": "Ce que fait un builder",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ce que fait un builder"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "5d7733443f2f9ecf",
+  "source": "The validate hook in Nuxt 3 only accepts a single argument, the {0}. Just as in Nuxt 2, you can return a boolean value. If you return false and another match can't be found, this will mean a 404. You can also directly return an object with {1}/{2} to respond immediately with an error (other matches will not be checked).",
+  "text": "Le hook validate de Nuxt 3 n'accepte qu'un seul argument, le {0}. Comme dans Nuxt 2, vous pouvez retourner une valeur booléenne. Si vous retournez false et qu'aucune autre correspondance n'est trouvée, cela donnera une erreur 404. Vous pouvez aussi retourner directement un objet avec {1}/{2} pour répondre immédiatement par une erreur (les autres correspondances ne seront pas vérifiées).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le hook validate de Nuxt 3 n'accepte qu'un seul argument, le {0}. Comme dans Nuxt 2, vous pouvez retourner une valeur booléenne. Si vous retournez false et qu'aucune autre correspondance n'est trouvée, cela donnera une erreur 404. Vous pouvez aussi retourner directement un objet avec {1}/{2} pour répondre immédiatement par une erreur (les autres correspondances ne seront pas vérifiées)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

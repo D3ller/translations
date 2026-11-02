@@ -1,0 +1,14 @@
+{
+  "hash": "c1c7c62ba768bddb",
+  "source": "Understanding the lifecycle of Nuxt applications can help you gain deeper insights into how the framework operates, especially for both server-side and client-side rendering.",
+  "text": "Comprendre le cycle de vie des applications Nuxt vous aide à mieux saisir le fonctionnement du framework, notamment pour le rendu côté serveur et côté client.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Comprendre le cycle de vie des applications Nuxt vous aide à mieux saisir le fonctionnement du framework, notamment pour le rendu côté serveur et côté client."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "cb119f2daeaf9203",
+  "source": "define middleware as a function",
+  "text": "définir le middleware sous forme de fonction",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "définir le middleware sous forme de fonction"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

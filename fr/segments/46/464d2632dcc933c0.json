@@ -1,0 +1,14 @@
+{
+  "hash": "464d2632dcc933c0",
+  "source": "Click on \"Edit Config\". This will open the local Claude directory.",
+  "text": "Cliquez sur « Edit Config ». Cela ouvrira le répertoire local de Claude.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cliquez sur « Edit Config ». Cela ouvrira le répertoire local de Claude."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

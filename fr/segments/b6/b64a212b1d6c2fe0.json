@@ -1,0 +1,14 @@
+{
+  "hash": "b64a212b1d6c2fe0",
+  "source": "{0} lets navigation continue while it fetches data. Check {1} and {2} in your component's template before using the result.",
+  "text": "{0} laisse la navigation se poursuivre pendant qu'il récupère les données. Vérifiez {1} et {2} dans le template de votre composant avant d'utiliser le résultat.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} laisse la navigation se poursuivre pendant qu'il récupère les données. Vérifiez {1} et {2} dans le template de votre composant avant d'utiliser le résultat."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

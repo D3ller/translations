@@ -1,0 +1,14 @@
+{
+  "hash": "a906130bf06d369f",
+  "source": "And then in a runtime file",
+  "text": "Puis, dans un fichier runtime",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Puis, dans un fichier runtime"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

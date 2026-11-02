@@ -1,0 +1,14 @@
+{
+  "hash": "35c55c805647a089",
+  "source": "The {0} and {1} might be useful for the hosting provider you are using.",
+  "text": "Les {0} et {1} peuvent être utiles pour l'hébergeur que vous utilisez.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les {0} et {1} peuvent être utiles pour l'hébergeur que vous utilisez."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

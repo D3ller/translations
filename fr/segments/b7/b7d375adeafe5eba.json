@@ -1,0 +1,14 @@
+{
+  "hash": "b7d375adeafe5eba",
+  "source": "These utils are only available within the Vue part of your app.{0}Only {1} are auto-imported in the {2} directory.",
+  "text": "Ces utilitaires ne sont disponibles que dans la partie Vue de votre application.{0}Seuls les {1} sont importés automatiquement dans le répertoire {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ces utilitaires ne sont disponibles que dans la partie Vue de votre application.{0}Seuls les {1} sont importés automatiquement dans le répertoire {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

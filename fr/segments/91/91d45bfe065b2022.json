@@ -1,0 +1,14 @@
+{
+  "hash": "91d45bfe065b2022",
+  "source": "Concretely, a builder is responsible for:",
+  "text": "Concrètement, un builder est responsable de :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Concrètement, un builder est responsable de :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

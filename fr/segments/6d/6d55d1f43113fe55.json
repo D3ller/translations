@@ -1,0 +1,14 @@
+{
+  "hash": "6d55d1f43113fe55",
+  "source": "Wait for Copilot to create a pull request",
+  "text": "Attendez que Copilot crée une pull request",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Attendez que Copilot crée une pull request"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

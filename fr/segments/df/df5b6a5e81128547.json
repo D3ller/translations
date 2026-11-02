@@ -1,0 +1,14 @@
+{
+  "hash": "df5b6a5e81128547",
+  "source": "Serve the app from a forked child process (on by default wherever the runtime supports it)",
+  "text": "Sert l'application depuis un processus enfant forké (activé par défaut partout où l'environnement d'exécution le permet)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sert l'application depuis un processus enfant forké (activé par défaut partout où l'environnement d'exécution le permet)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

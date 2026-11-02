@@ -1,0 +1,14 @@
+{
+  "hash": "f4ca6a633cb65c81",
+  "source": "Never stop a dev server already running on this project",
+  "text": "N'arrête jamais un serveur de développement déjà en cours d'exécution sur ce projet",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "N'arrête jamais un serveur de développement déjà en cours d'exécution sur ce projet"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

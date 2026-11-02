@@ -1,0 +1,14 @@
+{
+  "hash": "59f5045a998a722d",
+  "source": "As of Nuxt v3.3, the {0} file is shared with Nitro, which results in the following limitations:",
+  "text": "Depuis Nuxt v3.3, le fichier {0} est partagé avec Nitro, ce qui entraîne les limitations suivantes :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Depuis Nuxt v3.3, le fichier {0} est partagé avec Nitro, ce qui entraîne les limitations suivantes :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "0abdd4c9260e8bc6",
+  "source": "This happens with a directory structure like the following, when {0} does not contain {1}:",
+  "text": "Cela se produit avec une structure de répertoires comme la suivante, lorsque {0} ne contient pas {1} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela se produit avec une structure de répertoires comme la suivante, lorsque {0} ne contient pas {1} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "0bd4d041d9b882f6",
+  "source": "Discover the main concepts behind Nuxt, from auto-import, hybrid rendering to its TypeScript support.",
+  "text": "Découvrez les principaux concepts de Nuxt, de l'import automatique et du rendu hybride jusqu'à sa prise en charge de TypeScript.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Découvrez les principaux concepts de Nuxt, de l'import automatique et du rendu hybride jusqu'à sa prise en charge de TypeScript."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

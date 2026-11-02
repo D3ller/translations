@@ -1,0 +1,14 @@
+{
+  "hash": "d0241a64bf8099ca",
+  "source": "This function has been removed, but its use cases can be met by using {0} or {1} within {2}. You can also run any custom code within the {3} function of a layout.",
+  "text": "Cette fonction a été supprimée, mais ses cas d'usage peuvent être couverts en utilisant {0} ou {1} dans {2}. Vous pouvez également exécuter du code personnalisé dans la fonction {3} d'un layout.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cette fonction a été supprimée, mais ses cas d'usage peuvent être couverts en utilisant {0} ou {1} dans {2}. Vous pouvez également exécuter du code personnalisé dans la fonction {3} d'un layout."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

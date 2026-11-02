@@ -1,0 +1,14 @@
+{
+  "hash": "3642a66d7d174994",
+  "source": "In the following example, we call an API via {0} using a dynamic page parameter - {1} - as part of the URL.",
+  "text": "Dans l'exemple suivant, nous appelons une API via {0} en utilisant un paramètre de page dynamique - {1} - dans l'URL.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans l'exemple suivant, nous appelons une API via {0} en utilisant un paramètre de page dynamique - {1} - dans l'URL."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

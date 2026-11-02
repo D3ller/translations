@@ -1,0 +1,14 @@
+{
+  "hash": "70dd5038540bc4d6",
+  "source": "the window width is greater than or equal to 768px.",
+  "text": "la largeur de la fenêtre est supérieure ou égale à 768px.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "la largeur de la fenêtre est supérieure ou égale à 768px."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

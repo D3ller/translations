@@ -1,0 +1,14 @@
+{
+  "hash": "9564da6347cf22fc",
+  "source": "This will be reactive when you change title/description above",
+  "text": "Ceci sera réactif lorsque vous modifierez le titre ou la description ci-dessus",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ceci sera réactif lorsque vous modifierez le titre ou la description ci-dessus"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

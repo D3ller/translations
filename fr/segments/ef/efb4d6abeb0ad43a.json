@@ -1,0 +1,14 @@
+{
+  "hash": "efb4d6abeb0ad43a",
+  "source": "**Client-side payload extraction**: {0} becomes {1}, inlining the payload in the HTML of a prerendered page",
+  "text": "**Extraction du payload (charge utile) côté client** : {0} devient {1}, ce qui intègre le payload dans le HTML d'une page prérendue",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Extraction du payload (charge utile) côté client** : {0} devient {1}, ce qui intègre le payload dans le HTML d'une page prérendue"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "8802ad4e2512a2b8",
+  "source": "Code in the {0} directory cannot import any Vue or Nitro code.",
+  "text": "Le code du répertoire {0} ne peut importer aucun code Vue ou Nitro.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le code du répertoire {0} ne peut importer aucun code Vue ou Nitro."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

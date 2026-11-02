@@ -1,0 +1,14 @@
+{
+  "hash": "d2ce30d563f40b08",
+  "source": "For example, if you want to augment types for the {0} context, the augmentation file should be placed in the {1} directory.",
+  "text": "Par exemple, si vous souhaitez augmenter les types du contexte {0}, le fichier d'augmentation doit être placé dans le répertoire {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par exemple, si vous souhaitez augmenter les types du contexte {0}, le fichier d'augmentation doit être placé dans le répertoire {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

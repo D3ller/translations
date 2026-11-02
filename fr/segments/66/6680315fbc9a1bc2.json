@@ -1,0 +1,14 @@
+{
+  "hash": "6680315fbc9a1bc2",
+  "source": "In Nuxt 2 you might use {0} or {1} to fetch your data - or just the polyfilled global {2}.",
+  "text": "Dans Nuxt 2, vous pouviez utiliser {0} ou {1} pour récupérer vos données, ou simplement le {2} global polyfillé.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans Nuxt 2, vous pouviez utiliser {0} ou {1} pour récupérer vos données, ou simplement le {2} global polyfillé."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

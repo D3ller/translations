@@ -1,0 +1,14 @@
+{
+  "hash": "2c060b12e27967bf",
+  "source": "Setup Nuxt with this fixture inside your test file",
+  "text": "Configurez Nuxt avec cette fixture dans votre fichier de test",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Configurez Nuxt avec cette fixture dans votre fichier de test"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

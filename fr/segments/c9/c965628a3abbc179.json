@@ -1,0 +1,14 @@
+{
+  "hash": "c965628a3abbc179",
+  "source": "Generates the virtual application (templates, route table, plugins) into the {0} virtual file system.",
+  "text": "Génère l'application virtuelle (templates, table des routes, plugins) dans le système de fichiers virtuel {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Génère l'application virtuelle (templates, table des routes, plugins) dans le système de fichiers virtuel {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

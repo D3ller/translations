@@ -1,0 +1,14 @@
+{
+  "hash": "2e50101e3620a050",
+  "source": "Without this flag, code after {0} continues to run, which can result in later code (including subsequent {1} calls) overriding the redirect or attempting to render a page with missing data. With this flag enabled, a successful navigation stops execution of the rest of your setup code and the component renders a placeholder comment while the navigation proceeds.",
+  "text": "Sans cet indicateur, le code situé après {0} continue de s'exécuter, ce qui peut conduire du code ultérieur (y compris des appels {1} suivants) à écraser la redirection ou à tenter d'afficher une page avec des données manquantes. Avec cet indicateur activé, une navigation réussie interrompt l'exécution du reste de votre code setup et le composant affiche un commentaire de substitution pendant que la navigation se poursuit.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sans cet indicateur, le code situé après {0} continue de s'exécuter, ce qui peut conduire du code ultérieur (y compris des appels {1} suivants) à écraser la redirection ou à tenter d'afficher une page avec des données manquantes. Avec cet indicateur activé, une navigation réussie interrompt l'exécution du reste de votre code setup et le composant affiche un commentaire de substitution pendant que la navigation se poursuit."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

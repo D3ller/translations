@@ -1,0 +1,14 @@
+{
+  "hash": "2aeac767643e1216",
+  "source": "We chose to build Nuxt on top of Vue for these reasons:",
+  "text": "Nous avons choisi de construire Nuxt sur Vue pour les raisons suivantes :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nous avons choisi de construire Nuxt sur Vue pour les raisons suivantes :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

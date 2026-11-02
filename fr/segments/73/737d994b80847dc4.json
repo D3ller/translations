@@ -1,0 +1,14 @@
+{
+  "hash": "737d994b80847dc4",
+  "source": "The {0} property is intended for short, HTTP-compliant status texts (e.g., \"Not Found\"). It should only contain horizontal tabs, spaces, and visible ASCII characters ({1}).",
+  "text": "La propriété {0} est destinée à des textes d'état courts et conformes à HTTP (par exemple, « Not Found »). Elle ne doit contenir que des tabulations horizontales, des espaces et des caractères ASCII visibles ({1}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La propriété {0} est destinée à des textes d'état courts et conformes à HTTP (par exemple, « Not Found »). Elle ne doit contenir que des tabulations horizontales, des espaces et des caractères ASCII visibles ({1})."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

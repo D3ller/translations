@@ -1,0 +1,14 @@
+{
+  "hash": "ab51267dff23c1e1",
+  "source": "Pass an object with any of {0}, {1} and {2} to preload every font face that matches all of the given values.",
+  "text": "Passez un objet contenant l'une des propriétés {0}, {1} et {2} pour précharger chaque police correspondant à toutes les valeurs indiquées.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Passez un objet contenant l'une des propriétés {0}, {1} et {2} pour précharger chaque police correspondant à toutes les valeurs indiquées."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

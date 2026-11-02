@@ -1,0 +1,14 @@
+{
+  "hash": "536f495584694f9a",
+  "source": "... or as a route object with query parameters",
+  "text": "... ou sous forme d'objet de route avec des paramètres de requête",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "... ou sous forme d'objet de route avec des paramètres de requête"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "ecc384f0037e971c",
+  "source": "There are two types of Nuxt modules:",
+  "text": "Il existe deux types de modules Nuxt :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Il existe deux types de modules Nuxt :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

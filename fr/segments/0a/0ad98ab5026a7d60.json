@@ -1,0 +1,14 @@
+{
+  "hash": "0ad98ab5026a7d60",
+  "source": "See the full Vite 8 migration guide for all breaking changes and migration steps.",
+  "text": "Consultez le guide de migration complet de Vite 8 pour tous les changements majeurs et les étapes de migration.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Consultez le guide de migration complet de Vite 8 pour tous les changements majeurs et les étapes de migration."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

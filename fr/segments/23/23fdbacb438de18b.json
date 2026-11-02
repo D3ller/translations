@@ -1,0 +1,14 @@
+{
+  "hash": "23fdbacb438de18b",
+  "source": "Import config files with a custom loader rather than the default one, for example to load TypeScript config without Nuxt reaching for {0}.",
+  "text": "Importe les fichiers de configuration avec un loader personnalisé plutôt que celui par défaut, par exemple pour charger une configuration TypeScript sans que Nuxt ait recours à {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Importe les fichiers de configuration avec un loader personnalisé plutôt que celui par défaut, par exemple pour charger une configuration TypeScript sans que Nuxt ait recours à {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

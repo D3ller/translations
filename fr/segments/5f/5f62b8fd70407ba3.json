@@ -1,0 +1,14 @@
+{
+  "hash": "5f62b8fd70407ba3",
+  "source": "When defined in a plugin, it overrides any existing middleware of the same name located in the {0} directory.",
+  "text": "Lorsqu'il est défini dans un plugin, il remplace tout middleware existant du même nom situé dans le répertoire {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsqu'il est défini dans un plugin, il remplace tout middleware existant du même nom situé dans le répertoire {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

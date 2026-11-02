@@ -1,0 +1,14 @@
+{
+  "hash": "e2cf8ee6d595bd3a",
+  "source": "This file should be added to your {0} file to avoid pushing secrets to your repository.",
+  "text": "Ajoutez ce fichier à votre fichier {0} pour éviter de pousser des secrets vers votre dépôt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ajoutez ce fichier à votre fichier {0} pour éviter de pousser des secrets vers votre dépôt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

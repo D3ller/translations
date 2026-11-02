@@ -1,0 +1,14 @@
+{
+  "hash": "11718065d9f559ff",
+  "source": "By enabling this option a mixin will be injected to keep the {0} template object in sync with Nuxt's managed {1}.",
+  "text": "En activant cette option, un mixin sera injecté pour garder l'objet {0} du template synchronisé avec le {1} géré par Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En activant cette option, un mixin sera injecté pour garder l'objet {0} du template synchronisé avec le {1} géré par Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

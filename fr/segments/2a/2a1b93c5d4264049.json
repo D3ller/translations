@@ -1,0 +1,14 @@
+{
+  "hash": "2a1b93c5d4264049",
+  "source": "{0}: control state preservation of pages rendered with the {1} component.",
+  "text": "{0} : contrôle la préservation de l'état des pages rendues avec le composant {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : contrôle la préservation de l'état des pages rendues avec le composant {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

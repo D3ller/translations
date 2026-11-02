@@ -1,0 +1,14 @@
+{
+  "hash": "40b55168df955c9c",
+  "source": "This was a type-helper stub function that is now removed.",
+  "text": "Il s'agissait d'une fonction factice servant de helper de typage, qui est désormais supprimée.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Il s'agissait d'une fonction factice servant de helper de typage, qui est désormais supprimée."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

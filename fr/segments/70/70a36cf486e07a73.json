@@ -1,0 +1,14 @@
+{
+  "hash": "70a36cf486e07a73",
+  "source": "{0}: If an invalid layout is passed to the {1} prop, no layout will be rendered. Specify a {2} layout to be rendered in this scenario. It **must** match the name of the corresponding layout file in the {3} directory.",
+  "text": "{0} : si un layout invalide est passé à la prop {1}, aucun layout ne sera affiché. Spécifiez un layout {2} à afficher dans ce cas. Il **doit** correspondre au nom du fichier de layout correspondant dans le répertoire {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : si un layout invalide est passé à la prop {1}, aucun layout ne sera affiché. Spécifiez un layout {2} à afficher dans ce cas. Il **doit** correspondre au nom du fichier de layout correspondant dans le répertoire {3}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "9ca72f71eedb5b17",
+  "source": "Route Rules",
+  "text": "Règles de route",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Règles de route"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

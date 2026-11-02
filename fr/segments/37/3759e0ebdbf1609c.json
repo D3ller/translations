@@ -1,0 +1,14 @@
+{
+  "hash": "3759e0ebdbf1609c",
+  "source": "Nuxt provides utilities to give you control over preloading components.",
+  "text": "Nuxt fournit des utilitaires pour vous donner le contrôle du préchargement des composants.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt fournit des utilitaires pour vous donner le contrôle du préchargement des composants."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

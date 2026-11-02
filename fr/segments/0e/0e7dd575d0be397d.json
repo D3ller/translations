@@ -1,0 +1,14 @@
+{
+  "hash": "0e7dd575d0be397d",
+  "source": "3. Interact with the fixture using utilities from {0}",
+  "text": "3. Interagir avec la fixture à l'aide des utilitaires de {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "3. Interagir avec la fixture à l'aide des utilitaires de {0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "8fe9684613741cec",
+  "source": "the {0} hook with {1}: runtime, per request (e.g. for routes that conditionally set a 404).",
+  "text": "le hook {0} avec {1} : à l'exécution, par requête (par exemple pour les routes qui définissent conditionnellement une 404).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "le hook {0} avec {1} : à l'exécution, par requête (par exemple pour les routes qui définissent conditionnellement une 404)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

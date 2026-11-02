@@ -1,0 +1,14 @@
+{
+  "hash": "b4140404749c533e",
+  "source": "Conditionally add dependencies based on Nuxt config",
+  "text": "Ajouter des dépendances de façon conditionnelle selon la configuration de Nuxt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ajouter des dépendances de façon conditionnelle selon la configuration de Nuxt"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "fc197e7f3e0b47b6",
+  "source": "Explore all available App hooks.",
+  "text": "Découvrez tous les hooks d'application disponibles.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Découvrez tous les hooks d'application disponibles."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

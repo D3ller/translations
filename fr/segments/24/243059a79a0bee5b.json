@@ -1,0 +1,14 @@
+{
+  "hash": "243059a79a0bee5b",
+  "source": "for what this file should look like",
+  "text": "sur ce à quoi ce fichier doit ressembler",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "sur ce à quoi ce fichier doit ressembler"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

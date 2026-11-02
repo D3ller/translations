@@ -1,0 +1,14 @@
+{
+  "hash": "6045a29b799c1854",
+  "source": "The path to reload (defaulting to the current path). If this is different from the current window location it will trigger a navigation and add an entry in the browser history.",
+  "text": "Le chemin à recharger (par défaut, le chemin actuel). S'il diffère de l'emplacement actuel de la fenêtre, cela déclenche une navigation et ajoute une entrée dans l'historique du navigateur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le chemin à recharger (par défaut, le chemin actuel). S'il diffère de l'emplacement actuel de la fenêtre, cela déclenche une navigation et ajoute une entrée dans l'historique du navigateur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

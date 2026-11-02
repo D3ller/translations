@@ -1,0 +1,14 @@
+{
+  "hash": "6ab2d53aa02ac3f1",
+  "source": "**Preferred: move the layer into {0}.** Every major package manager understands git URLs, so a remote layer can be a normal dependency. This puts it in your lockfile, pins it to an exact commit, and installs it alongside everything else:",
+  "text": "**Recommandé : déplacez le layer dans {0}.** Tous les principaux gestionnaires de packages comprennent les URL git, de sorte qu'un layer distant peut être une dépendance normale. Cela l'ajoute à votre lockfile, l'épingle à un commit exact et l'installe avec le reste :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Recommandé : déplacez le layer dans {0}.** Tous les principaux gestionnaires de packages comprennent les URL git, de sorte qu'un layer distant peut être une dépendance normale. Cela l'ajoute à votre lockfile, l'épingle à un commit exact et l'installe avec le reste :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

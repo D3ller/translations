@@ -1,0 +1,14 @@
+{
+  "hash": "6df8c7f56edc19c5",
+  "source": "Default font format is now {0} only",
+  "text": "Le format de police par défaut est désormais uniquement {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le format de police par défaut est désormais uniquement {0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

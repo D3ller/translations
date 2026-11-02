@@ -1,0 +1,14 @@
+{
+  "hash": "df576fb9f67ea017",
+  "source": "Removed props: {0}, {1}, {2}, {3}.",
+  "text": "Props supprimées : {0}, {1}, {2}, {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Props supprimées : {0}, {1}, {2}, {3}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

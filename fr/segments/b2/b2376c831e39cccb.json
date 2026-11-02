@@ -1,0 +1,14 @@
+{
+  "hash": "b2376c831e39cccb",
+  "source": "In this example, we leverage the {0}Pinia module{/0} to create a global store and use it across the app.",
+  "text": "Dans cet exemple, vous exploitez le {0}module Pinia{/0} pour créer un store global et l'utiliser dans toute l'application.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans cet exemple, vous exploitez le {0}module Pinia{/0} pour créer un store global et l'utiliser dans toute l'application."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "5eb2139e8b1213ed",
+  "source": "Alternatively, Nuxt will prompt you to install it automatically the first time a JSX/TSX file is processed during development.",
+  "text": "Sinon, Nuxt vous proposera de l'installer automatiquement la première fois qu'un fichier JSX/TSX est traité pendant le développement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sinon, Nuxt vous proposera de l'installer automatiquement la première fois qu'un fichier JSX/TSX est traité pendant le développement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

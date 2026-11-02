@@ -1,0 +1,14 @@
+{
+  "hash": "15881c4ec1e345e3",
+  "source": "If you have any local modules pointing to a directory you should update this to point to the entry file:",
+  "text": "Si vous avez des modules locaux qui pointent vers un répertoire, vous devez les mettre à jour pour qu'ils pointent vers le fichier d'entrée :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous avez des modules locaux qui pointent vers un répertoire, vous devez les mettre à jour pour qu'ils pointent vers le fichier d'entrée :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

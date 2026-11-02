@@ -1,0 +1,14 @@
+{
+  "hash": "0e5f8b42f791ccbe",
+  "source": "Ensure that page component names match their route names. This sets the {0} property on page components so that Vue's {1} can correctly identify them by name.",
+  "text": "Garantit que les noms des composants de page correspondent aux noms de leurs routes. Cela définit la propriété {0} sur les composants de page afin que le {1} de Vue puisse les identifier correctement par leur nom.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Garantit que les noms des composants de page correspondent aux noms de leurs routes. Cela définit la propriété {0} sur les composants de page afin que le {1} de Vue puisse les identifier correctement par leur nom."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

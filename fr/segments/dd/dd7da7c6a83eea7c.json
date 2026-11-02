@@ -1,0 +1,14 @@
+{
+  "hash": "dd7da7c6a83eea7c",
+  "source": "**Global (whole page):** Add {0} in the frontmatter (without the \"v\" prefix). The docs layout renders the version badge automatically from this field, displaying it as {1} (e.g. {2}, {3}).",
+  "text": "**Global (page entière) :** ajoutez {0} dans le frontmatter (sans le préfixe « v »). Le layout de la documentation affiche automatiquement le badge de version à partir de ce champ, sous la forme {1} (par ex. {2}, {3}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Global (page entière) :** ajoutez {0} dans le frontmatter (sans le préfixe « v »). Le layout de la documentation affiche automatiquement le badge de version à partir de ce champ, sous la forme {1} (par ex. {2}, {3})."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

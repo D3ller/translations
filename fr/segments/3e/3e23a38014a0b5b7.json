@@ -1,0 +1,14 @@
+{
+  "hash": "3e23a38014a0b5b7",
+  "source": "Modules defined in the {0} array in {1}",
+  "text": "Les modules définis dans le tableau {0} de {1}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les modules définis dans le tableau {0} de {1}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

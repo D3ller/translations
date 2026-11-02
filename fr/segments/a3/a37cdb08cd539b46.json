@@ -1,0 +1,14 @@
+{
+  "hash": "a37cdb08cd539b46",
+  "source": "Works for both streaming (pre-shell) and buffered (post-render) paths.",
+  "text": "Fonctionne à la fois pour le chemin en streaming (avant le shell) et le chemin avec buffer (après le rendu).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Fonctionne à la fois pour le chemin en streaming (avant le shell) et le chemin avec buffer (après le rendu)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

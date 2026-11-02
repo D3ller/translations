@@ -1,0 +1,14 @@
+{
+  "hash": "412fb654ea3e1c8c",
+  "source": "Hookable v6's {0} is 20-40x faster because it avoids creating a {1} when one is not needed. This benefits applications with many hook call sites.",
+  "text": "Le {0} de Hookable v6 est 20 à 40 fois plus rapide, car il évite de créer un {1} lorsque ce n'est pas nécessaire. Cela profite aux applications comportant de nombreux points d'appel de hooks.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le {0} de Hookable v6 est 20 à 40 fois plus rapide, car il évite de créer un {1} lorsque ce n'est pas nécessaire. Cela profite aux applications comportant de nombreux points d'appel de hooks."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

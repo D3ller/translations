@@ -1,0 +1,14 @@
+{
+  "hash": "74a854a45278a678",
+  "source": "Open the logs at the last error",
+  "text": "Ouvrir les logs à la dernière erreur",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ouvrir les logs à la dernière erreur"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

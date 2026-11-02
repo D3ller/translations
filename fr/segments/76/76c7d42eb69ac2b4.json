@@ -1,0 +1,14 @@
+{
+  "hash": "76c7d42eb69ac2b4",
+  "source": "**Unit tests**: Place regular unit tests in {0} - these run in a Node environment for speed",
+  "text": "**Tests unitaires** : placez les tests unitaires classiques dans {0} ; ils s'exécutent dans un environnement Node pour plus de rapidité",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Tests unitaires** : placez les tests unitaires classiques dans {0} ; ils s'exécutent dans un environnement Node pour plus de rapidité"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

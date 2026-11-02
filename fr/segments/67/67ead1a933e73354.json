@@ -1,0 +1,14 @@
+{
+  "hash": "67ead1a933e73354",
+  "source": "A payload URL was requested with a full URL that includes a hostname. Payloads are always served from the same origin as the app, so a URL with a hostname points outside the app and is rejected.",
+  "text": "Un payload a été demandé avec une URL complète qui inclut un nom d'hôte. Les payloads sont toujours servis depuis la même origine que l'application ; une URL avec un nom d'hôte pointe donc en dehors de l'application et est rejetée.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un payload a été demandé avec une URL complète qui inclut un nom d'hôte. Les payloads sont toujours servis depuis la même origine que l'application ; une URL avec un nom d'hôte pointe donc en dehors de l'application et est rejetée."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "570edce77795a188",
+  "source": "Defines whether to enable experimental features. All of them are {0} by default.",
+  "text": "Définit s'il faut activer les fonctionnalités expérimentales. Toutes sont {0} par défaut.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définit s'il faut activer les fonctionnalités expérimentales. Toutes sont {0} par défaut."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

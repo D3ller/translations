@@ -1,0 +1,14 @@
+{
+  "hash": "69462135e19d802d",
+  "source": "This option allows bypassing reload loop protection entirely, forcing a reload even if one has occurred within the previously specified TTL.",
+  "text": "Cette option permet de contourner entièrement la protection contre les boucles de rechargement, en forçant un rechargement même si un autre a eu lieu pendant le TTL précédemment indiqué.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cette option permet de contourner entièrement la protection contre les boucles de rechargement, en forçant un rechargement même si un autre a eu lieu pendant le TTL précédemment indiqué."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

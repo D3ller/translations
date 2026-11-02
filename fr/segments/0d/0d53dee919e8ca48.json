@@ -1,0 +1,14 @@
+{
+  "hash": "0d53dee919e8ca48",
+  "source": "Learn how to migrate from Nuxt 2 to Nuxt 3 pages and layouts.",
+  "text": "Apprenez à migrer les pages et les layouts de Nuxt 2 vers Nuxt 3.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Apprenez à migrer les pages et les layouts de Nuxt 2 vers Nuxt 3."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

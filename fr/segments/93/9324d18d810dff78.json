@@ -1,0 +1,14 @@
+{
+  "hash": "9324d18d810dff78",
+  "source": "{0} and {1} are typed from the routes known to your server, so a response is automatically typed based on its handler's return type.",
+  "text": "{0} et {1} sont typés à partir des routes connues de votre serveur, de sorte qu'une réponse est automatiquement typée selon le type de retour de son handler.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} et {1} sont typés à partir des routes connues de votre serveur, de sorte qu'une réponse est automatiquement typée selon le type de retour de son handler."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

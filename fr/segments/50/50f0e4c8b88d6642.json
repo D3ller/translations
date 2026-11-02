@@ -1,0 +1,14 @@
+{
+  "hash": "50f0e4c8b88d6642",
+  "source": "{0} (boolean) - Indicates if response is server-side-rendered.",
+  "text": "{0} (boolean) - Indique si la réponse a été générée par rendu côté serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} (boolean) - Indique si la réponse a été générée par rendu côté serveur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

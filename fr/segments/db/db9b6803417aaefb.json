@@ -1,0 +1,14 @@
+{
+  "hash": "db9b6803417aaefb",
+  "source": "Turn on {0} only if you need to ship before you've finished. Then set one switch to {1} at a time and fix what breaks, until you can remove the option.",
+  "text": "Activez {0} uniquement si vous devez livrer avant d'avoir terminé. Passez ensuite un réglage à la fois à {1} et corrigez ce qui casse, jusqu'à pouvoir supprimer l'option.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Activez {0} uniquement si vous devez livrer avant d'avoir terminé. Passez ensuite un réglage à la fois à {1} et corrigez ce qui casse, jusqu'à pouvoir supprimer l'option."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

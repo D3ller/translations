@@ -1,0 +1,14 @@
+{
+  "hash": "7ff36fb941da8707",
+  "source": "\"I can't figure out how to (...).\"",
+  "text": "« Je n'arrive pas à comprendre comment (...). »",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "« Je n'arrive pas à comprendre comment (...). »"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

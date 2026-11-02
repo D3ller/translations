@@ -1,0 +1,14 @@
+{
+  "hash": "3d827193f2a0cbc4",
+  "source": "Skip dependency uninstall",
+  "text": "Ignorer la désinstallation des dépendances",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ignorer la désinstallation des dépendances"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

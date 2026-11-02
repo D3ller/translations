@@ -1,0 +1,14 @@
+{
+  "hash": "798dd2f1eae3e89b",
+  "source": "Nuxt Kit provides a set of utilities to help you create and use plugins. You can add plugins or plugin templates to your module using these functions.",
+  "text": "Nuxt Kit fournit un ensemble d'utilitaires pour vous aider à créer et à utiliser des plugins. Vous pouvez ajouter des plugins ou des templates de plugin à votre module grâce à ces fonctions.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt Kit fournit un ensemble d'utilitaires pour vous aider à créer et à utiliser des plugins. Vous pouvez ajouter des plugins ou des templates de plugin à votre module grâce à ces fonctions."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

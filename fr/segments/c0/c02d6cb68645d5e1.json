@@ -1,0 +1,14 @@
+{
+  "hash": "c02d6cb68645d5e1",
+  "source": "**Deprecated environment-specific {0}**: The {1} and {2} options in {3} are deprecated and will show warnings when used.",
+  "text": "**Options spécifiques à l'environnement dépréciées dans {0}** : les options {1} et {2} de {3} sont dépréciées et afficheront des avertissements lorsqu'elles sont utilisées.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Options spécifiques à l'environnement dépréciées dans {0}** : les options {1} et {2} de {3} sont dépréciées et afficheront des avertissements lorsqu'elles sont utilisées."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

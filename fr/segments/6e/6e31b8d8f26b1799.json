@@ -1,0 +1,14 @@
+{
+  "hash": "6e31b8d8f26b1799",
+  "source": "Nuxt uses the .nuxt/ directory in development to generate your Vue application.",
+  "text": "Nuxt utilise le répertoire .nuxt/ en développement pour générer votre application Vue.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt utilise le répertoire .nuxt/ en développement pour générer votre application Vue."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

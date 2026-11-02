@@ -1,0 +1,14 @@
+{
+  "hash": "a5cdfa9612d90910",
+  "source": "**Includes fonts in build** – Bundles fonts with your project, hashing file names and setting long-lived cache headers.",
+  "text": "**Inclut les polices dans le build** – Intègre les polices à votre projet, en hachant les noms de fichiers et en définissant des en-têtes de cache de longue durée.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Inclut les polices dans le build** – Intègre les polices à votre projet, en hachant les noms de fichiers et en définissant des en-têtes de cache de longue durée."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

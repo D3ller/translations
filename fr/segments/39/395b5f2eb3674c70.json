@@ -1,0 +1,14 @@
+{
+  "hash": "395b5f2eb3674c70",
+  "source": "Get the command a user should run to add dependencies to their project, using the package manager detected from {0} and falling back to {1}. Use it whenever you print an install instruction, so the command matches the project's package manager.",
+  "text": "Obtenez la commande qu'un utilisateur doit exécuter pour ajouter des dépendances à son projet, en utilisant le gestionnaire de packages détecté à partir de {0} et en se rabattant sur {1}. Utilisez-la chaque fois que vous affichez une instruction d'installation, afin que la commande corresponde au gestionnaire de packages du projet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Obtenez la commande qu'un utilisateur doit exécuter pour ajouter des dépendances à son projet, en utilisant le gestionnaire de packages détecté à partir de {0} et en se rabattant sur {1}. Utilisez-la chaque fois que vous affichez une instruction d'installation, afin que la commande corresponde au gestionnaire de packages du projet."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

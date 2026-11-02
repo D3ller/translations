@@ -1,0 +1,14 @@
+{
+  "hash": "5173678254e7f7d5",
+  "source": "Middleware wraps the execution of the request handler. Call {0} to continue the chain (and get the resolved data), or throw to abort. Middleware from the first addon is the outermost wrapper:",
+  "text": "Un middleware enveloppe l'exécution du gestionnaire de requête. Appelez {0} pour poursuivre la chaîne (et obtenir les données résolues), ou levez une erreur pour l'interrompre. Le middleware du premier addon est l'enveloppe la plus externe :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un middleware enveloppe l'exécution du gestionnaire de requête. Appelez {0} pour poursuivre la chaîne (et obtenir les données résolues), ou levez une erreur pour l'interrompre. Le middleware du premier addon est l'enveloppe la plus externe :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "feae32eb6946fd17",
+  "source": "If it is unset, it will use the {0} file in the {1} directory of one of your layers, if it exists.",
+  "text": "S'il n'est pas défini, le fichier {0} du répertoire {1} de l'un de vos layers (couches) sera utilisé, s'il existe.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "S'il n'est pas défini, le fichier {0} du répertoire {1} de l'un de vos layers (couches) sera utilisé, s'il existe."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "329eda5efb4e8ed9",
+  "source": "Named Views {0}",
+  "text": "Vues nommées {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vues nommées {0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "4b3b79c3169720e1",
+  "source": "**Some built-in components inspect their slot content** and cannot read Vapor slot children. {0} skips its attribute-forwarding fallthrough, and {1}, server components, and the head components that read text children (such as {2}, {3} and {4}) warn if you pass a Vapor slot. Pass the value directly instead (for example, a string to {5}).",
+  "text": "**Certains composants intégrés inspectent le contenu de leurs slots** et ne peuvent pas lire les enfants d'un slot Vapor. {0} ignore son repli de transmission des attributs, et {1}, les composants serveur ainsi que les composants de head qui lisent des enfants textuels (comme {2}, {3} et {4}) émettent un avertissement si vous passez un slot Vapor. Passez plutôt la valeur directement (par exemple, une chaîne de caractères à {5}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Certains composants intégrés inspectent le contenu de leurs slots** et ne peuvent pas lire les enfants d'un slot Vapor. {0} ignore son repli de transmission des attributs, et {1}, les composants serveur ainsi que les composants de head qui lisent des enfants textuels (comme {2}, {3} et {4}) émettent un avertissement si vous passez un slot Vapor. Passez plutôt la valeur directement (par exemple, une chaîne de caractères à {5})."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

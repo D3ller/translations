@@ -1,0 +1,14 @@
+{
+  "hash": "754a3347181c40e2",
+  "source": "rendering your Vue app into HTML",
+  "text": "votre application Vue est rendue en HTML",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "votre application Vue est rendue en HTML"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

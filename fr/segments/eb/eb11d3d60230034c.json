@@ -1,0 +1,14 @@
+{
+  "hash": "eb11d3d60230034c",
+  "source": "Learn more about asset injection in {0}the recipes section{/0}.",
+  "text": "Pour en savoir plus sur l'injection de ressources, consultez {0}la section des recettes{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour en savoir plus sur l'injection de ressources, consultez {0}la section des recettes{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

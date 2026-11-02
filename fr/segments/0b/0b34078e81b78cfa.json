@@ -1,0 +1,14 @@
+{
+  "hash": "0b34078e81b78cfa",
+  "source": "It is not always necessary to hydrate (or make interactive) all the components of your site on the initial load. Using lazy hydration, you can control when components can have their code loaded, which can improve the time-to-interactive metric for your app. Nuxt allows you to control when components become interactive with lazy hydration (added in Nuxt v3.16).",
+  "text": "Il n'est pas toujours nécessaire d'hydrater (ou de rendre interactifs) tous les composants de votre site au chargement initial. Avec l'hydratation différée, vous pouvez contrôler quand le code des composants est chargé, ce qui peut améliorer la métrique de time-to-interactive de votre application. Nuxt vous permet de contrôler quand les composants deviennent interactifs grâce à l'hydratation différée (ajoutée dans Nuxt v3.16).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Il n'est pas toujours nécessaire d'hydrater (ou de rendre interactifs) tous les composants de votre site au chargement initial. Avec l'hydratation différée, vous pouvez contrôler quand le code des composants est chargé, ce qui peut améliorer la métrique de time-to-interactive de votre application. Nuxt vous permet de contrôler quand les composants deviennent interactifs grâce à l'hydratation différée (ajoutée dans Nuxt v3.16)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

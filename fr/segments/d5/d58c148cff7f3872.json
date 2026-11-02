@@ -1,0 +1,14 @@
+{
+  "hash": "d58c148cff7f3872",
+  "source": "Default: {0} or {1} on windows",
+  "text": "Par défaut : {0} ou {1} sous Windows",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par défaut : {0} ou {1} sous Windows"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

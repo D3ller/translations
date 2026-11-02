@@ -1,0 +1,14 @@
+{
+  "hash": "33523d9b59002eea",
+  "source": "constructor parameter properties ({0}) with an explicit assignment",
+  "text": "les propriétés de paramètres de constructeur ({0}) par une affectation explicite",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "les propriétés de paramètres de constructeur ({0}) par une affectation explicite"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

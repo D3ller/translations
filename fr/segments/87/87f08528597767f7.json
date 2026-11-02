@@ -1,0 +1,14 @@
+{
+  "hash": "87f08528597767f7",
+  "source": "Feel free to use AI tools to generate code or explore ideas",
+  "text": "N'hésitez pas à utiliser des outils d'IA pour générer du code ou explorer des idées",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "N'hésitez pas à utiliser des outils d'IA pour générer du code ou explorer des idées"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

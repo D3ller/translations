@@ -1,0 +1,14 @@
+{
+  "hash": "25bc25129fa5864e",
+  "source": "This diagnostic is reported when that recovery itself fails: the head tags registered after the shell, or the closing tags, could not be rendered. The browser then receives a blank or partially rendered page rather than your error page.",
+  "text": "Ce diagnostic est signalé lorsque cette récupération échoue elle-même : les balises du head enregistrées après le shell, ou les balises de fermeture, n'ont pas pu être rendues. Le navigateur reçoit alors une page vide ou partiellement rendue au lieu de votre page d'erreur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ce diagnostic est signalé lorsque cette récupération échoue elle-même : les balises du head enregistrées après le shell, ou les balises de fermeture, n'ont pas pu être rendues. Le navigateur reçoit alors une page vide ou partiellement rendue au lieu de votre page d'erreur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

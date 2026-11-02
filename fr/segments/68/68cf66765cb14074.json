@@ -1,0 +1,14 @@
+{
+  "hash": "68cf66765cb14074",
+  "source": "Typing Runtime Config and Events",
+  "text": "Typer le runtime config et les événements",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Typer le runtime config et les événements"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

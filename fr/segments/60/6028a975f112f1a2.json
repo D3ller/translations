@@ -1,0 +1,14 @@
+{
+  "hash": "6028a975f112f1a2",
+  "source": "Defines the styles that should be downloaded for a font.",
+  "text": "Définit les styles qui doivent être téléchargés pour une police.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définit les styles qui doivent être téléchargés pour une police."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

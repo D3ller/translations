@@ -1,0 +1,14 @@
+{
+  "hash": "53d3b8fe5c510c2f",
+  "source": "Disables Vue server renderer endpoint within Nitro.",
+  "text": "Désactive le point de terminaison du moteur de rendu serveur de Vue dans Nitro.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Désactive le point de terminaison du moteur de rendu serveur de Vue dans Nitro."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "7e5bd9709faa5959",
+  "source": "Force offline mode",
+  "text": "Forcer le mode hors ligne",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Forcer le mode hors ligne"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

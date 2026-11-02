@@ -1,0 +1,14 @@
+{
+  "hash": "6c3080b75f7f86fd",
+  "source": "Add tests into the {0} directory and run pnpm test to make sure they pass.",
+  "text": "Ajoutez des tests dans le répertoire {0} et exécutez pnpm test pour vous assurer qu'ils passent.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ajoutez des tests dans le répertoire {0} et exécutez pnpm test pour vous assurer qu'ils passent."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "dd69f6e9170a40ff",
+  "source": "**Example**: Show a practical example.",
+  "text": "**Example** : présentez un exemple pratique.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Example** : présentez un exemple pratique."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

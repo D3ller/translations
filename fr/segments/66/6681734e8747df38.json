@@ -1,0 +1,14 @@
+{
+  "hash": "6681734e8747df38",
+  "source": "Vitest Browser Mode",
+  "text": "Mode navigateur de Vitest",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mode navigateur de Vitest"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

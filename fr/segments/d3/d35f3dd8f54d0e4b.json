@@ -1,0 +1,14 @@
+{
+  "hash": "d35f3dd8f54d0e4b",
+  "source": "Named route middleware is defined by providing a string as the first argument and a function as the second:",
+  "text": "Un middleware de route nommé est défini en fournissant une chaîne de caractères en premier argument et une fonction en second :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un middleware de route nommé est défini en fournissant une chaîne de caractères en premier argument et une fonction en second :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "9c5127937008dcd7",
+  "source": "You can install the latest Nuxt Kit by adding it to the {0} section of your {1}. However, please consider always explicitly installing the {2} package even if it is already installed by Nuxt.",
+  "text": "Vous pouvez installer la dernière version de Nuxt Kit en l'ajoutant à la section {0} de votre {1}. Cependant, pensez à toujours installer explicitement le package {2}, même s'il est déjà installé par Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez installer la dernière version de Nuxt Kit en l'ajoutant à la section {0} de votre {1}. Cependant, pensez à toujours installer explicitement le package {2}, même s'il est déjà installé par Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

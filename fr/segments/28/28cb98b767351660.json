@@ -1,0 +1,14 @@
+{
+  "hash": "28cb98b767351660",
+  "source": "Called after {0} is called when {1}experimental viewTransition support is enabled{/1}.",
+  "text": "Appelé après {0} lorsque {1}la prise en charge expérimentale de viewTransition est activée{/1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appelé après {0} lorsque {1}la prise en charge expérimentale de viewTransition est activée{/1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

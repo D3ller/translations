@@ -1,0 +1,14 @@
+{
+  "hash": "9a11bd50946431c0",
+  "source": "Layouts are enabled by adding {0} to your {1}:",
+  "text": "Les layouts sont activés en ajoutant {0} à votre {1} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les layouts sont activés en ajoutant {0} à votre {1} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

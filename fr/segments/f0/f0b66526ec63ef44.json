@@ -1,0 +1,14 @@
+{
+  "hash": "f0b66526ec63ef44",
+  "source": "Vue SSR on CodeSandbox",
+  "text": "Vue SSR sur CodeSandbox",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vue SSR sur CodeSandbox"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

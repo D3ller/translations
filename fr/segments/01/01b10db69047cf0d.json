@@ -1,0 +1,14 @@
+{
+  "hash": "01b10db69047cf0d",
+  "source": "The {0} command runs {1} to check types throughout your app.",
+  "text": "La commande {0} exécute {1} pour vérifier les types dans toute votre application.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La commande {0} exécute {1} pour vérifier les types dans toute votre application."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

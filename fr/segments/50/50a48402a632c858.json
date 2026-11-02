@@ -1,0 +1,14 @@
+{
+  "hash": "50a48402a632c858",
+  "source": "**You can still write your config in TypeScript.** Nuxt 5 requires Node {0}, {1} or later, where type stripping is on by default, so {2} and TypeScript modules load natively. Two things the runtime does not do, which {3} used to paper over, are guess file extensions and compile TypeScript syntax that emits code.",
+  "text": "**Vous pouvez toujours écrire votre configuration en TypeScript.** Nuxt 5 requiert Node {0}, {1} ou une version ultérieure, où le type stripping est activé par défaut ; {2} et les modules TypeScript se chargent donc nativement. Le runtime ne fait pas deux choses que {3} compensait auparavant : deviner les extensions de fichier et compiler la syntaxe TypeScript qui émet du code.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Vous pouvez toujours écrire votre configuration en TypeScript.** Nuxt 5 requiert Node {0}, {1} ou une version ultérieure, où le type stripping est activé par défaut ; {2} et les modules TypeScript se chargent donc nativement. Le runtime ne fait pas deux choses que {3} compensait auparavant : deviner les extensions de fichier et compiler la syntaxe TypeScript qui émet du code."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

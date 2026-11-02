@@ -1,0 +1,14 @@
+{
+  "hash": "4125c9bc289bb2c7",
+  "source": "Define route rules at the page level using {0}.",
+  "text": "Définissez des règles de route au niveau de la page avec {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définissez des règles de route au niveau de la page avec {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

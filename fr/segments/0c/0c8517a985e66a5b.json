@@ -1,0 +1,14 @@
+{
+  "hash": "0c8517a985e66a5b",
+  "source": "Standalone server components",
+  "text": "Composants serveur autonomes",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Composants serveur autonomes"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

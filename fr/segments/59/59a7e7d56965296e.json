@@ -1,0 +1,14 @@
+{
+  "hash": "59a7e7d56965296e",
+  "source": "Define Your Module",
+  "text": "Définir votre module",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définir votre module"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

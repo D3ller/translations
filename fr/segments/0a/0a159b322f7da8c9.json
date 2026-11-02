@@ -1,0 +1,14 @@
+{
+  "hash": "0a159b322f7da8c9",
+  "source": "Rollback the data if the request failed.",
+  "text": "Restaurez les données si la requête a échoué.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Restaurez les données si la requête a échoué."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

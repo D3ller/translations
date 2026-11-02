@@ -1,0 +1,14 @@
+{
+  "hash": "95a7235e9bd3ab74",
+  "source": "{0}: the loading screen shown while a client-side rendered ({1}) page initializes",
+  "text": "{0} : l'écran de chargement affiché pendant l'initialisation d'une page rendue côté client ({1})",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : l'écran de chargement affiché pendant l'initialisation d'une page rendue côté client ({1})"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

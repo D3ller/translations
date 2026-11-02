@@ -1,0 +1,14 @@
+{
+  "hash": "19dcf5e8c31044e2",
+  "source": "Errors during Nitro server lifecycle ({0} directory)",
+  "text": "Les erreurs pendant le cycle de vie du serveur Nitro (répertoire {0})",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les erreurs pendant le cycle de vie du serveur Nitro (répertoire {0})"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

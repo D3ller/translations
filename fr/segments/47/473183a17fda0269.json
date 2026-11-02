@@ -1,0 +1,14 @@
+{
+  "hash": "473183a17fda0269",
+  "source": "Learn what the session helpers cover.",
+  "text": "Découvrez ce que couvrent les helpers de session.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Découvrez ce que couvrent les helpers de session."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

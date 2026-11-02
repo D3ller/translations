@@ -1,0 +1,14 @@
+{
+  "hash": "dc40d3668e9b906a",
+  "source": "The object form of {0} needs {1} in your module's {2}, which is what the {3}module starter{/3} sets up. If {4} is only a {5} and left external when you build, or is a {6}, the application's version runs instead, and a version older than 4.6 fails on the object {7}.",
+  "text": "La forme objet de {0} nécessite {1} dans le {2} de votre module, ce que configure le {3}starter de module{/3}. Si {4} n'est qu'une {5} et reste externe lors du build, ou s'il s'agit d'une {6}, c'est la version de l'application qui s'exécute, et une version antérieure à 4.6 échoue sur la forme objet de {7}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La forme objet de {0} nécessite {1} dans le {2} de votre module, ce que configure le {3}starter de module{/3}. Si {4} n'est qu'une {5} et reste externe lors du build, ou s'il s'agit d'une {6}, c'est la version de l'application qui s'exécute, et une version antérieure à 4.6 échoue sur la forme objet de {7}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

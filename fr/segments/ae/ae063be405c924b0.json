@@ -1,0 +1,14 @@
+{
+  "hash": "ae063be405c924b0",
+  "source": "Plugin configuration",
+  "text": "Configuration du plugin",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Configuration du plugin"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

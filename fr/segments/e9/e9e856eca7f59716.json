@@ -1,0 +1,14 @@
+{
+  "hash": "e9e856eca7f59716",
+  "source": "**Builder file watcher**: Nuxt {0}reuses the builder's own watcher{/0} in development instead of starting a second one",
+  "text": "**Observateur de fichiers du builder** : Nuxt {0}réutilise l'observateur propre au builder{/0} en développement au lieu d'en démarrer un second",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Observateur de fichiers du builder** : Nuxt {0}réutilise l'observateur propre au builder{/0} en développement au lieu d'en démarrer un second"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

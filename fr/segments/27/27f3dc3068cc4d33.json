@@ -1,0 +1,14 @@
+{
+  "hash": "27f3dc3068cc4d33",
+  "source": "To access runtime config, we can use {0} composable:",
+  "text": "Pour accéder au runtime config, vous pouvez utiliser le composable {0} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour accéder au runtime config, vous pouvez utiliser le composable {0} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

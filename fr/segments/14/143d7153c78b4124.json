@@ -1,0 +1,14 @@
+{
+  "hash": "143d7153c78b4124",
+  "source": "You can enable support for processing CSS variables for font family names.",
+  "text": "Vous pouvez activer la prise en charge du traitement des variables CSS pour les noms de familles de polices.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez activer la prise en charge du traitement des variables CSS pour les noms de familles de polices."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

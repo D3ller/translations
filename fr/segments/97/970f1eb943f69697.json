@@ -1,0 +1,14 @@
+{
+  "hash": "970f1eb943f69697",
+  "source": "Some route rules ({0}, {1} and {2}) also affect client-side behavior.",
+  "text": "Certaines règles de route ({0}, {1} et {2}) affectent aussi le comportement côté client.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Certaines règles de route ({0}, {1} et {2}) affectent aussi le comportement côté client."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "b1aab157be74b8e7",
+  "source": "**Non-async {0}**: {1} may return {2} instead of always returning a {3}",
+  "text": "**{0} non asynchrone** : {1} peut renvoyer {2} au lieu de toujours renvoyer une {3}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0} non asynchrone** : {1} peut renvoyer {2} au lieu de toujours renvoyer une {3}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

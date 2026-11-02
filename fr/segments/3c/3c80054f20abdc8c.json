@@ -1,0 +1,14 @@
+{
+  "hash": "3c80054f20abdc8c",
+  "source": "Nuxt supports postcss out of the box.",
+  "text": "Nuxt prend en charge postcss dès l'installation.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt prend en charge postcss dès l'installation."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

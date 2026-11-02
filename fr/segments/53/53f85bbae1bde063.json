@@ -1,0 +1,14 @@
+{
+  "hash": "53f85bbae1bde063",
+  "source": "Although it is called an 'error page' it's not a route and shouldn't be placed in your {0} directory. For the same reason, you shouldn't use {1} within this page. That being said, you can still use layouts in the error file, by utilizing the {2} component and specifying the name of the layout.",
+  "text": "Bien qu'elle soit appelée « page d'erreur », il ne s'agit pas d'une route et elle ne doit pas être placée dans votre répertoire {0}. Pour la même raison, vous ne devez pas utiliser {1} dans cette page. Cela dit, vous pouvez tout de même utiliser des layouts dans le fichier d'erreur, en utilisant le composant {2} et en précisant le nom du layout.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bien qu'elle soit appelée « page d'erreur », il ne s'agit pas d'une route et elle ne doit pas être placée dans votre répertoire {0}. Pour la même raison, vous ne devez pas utiliser {1} dans cette page. Cela dit, vous pouvez tout de même utiliser des layouts dans le fichier d'erreur, en utilisant le composant {2} et en précisant le nom du layout."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

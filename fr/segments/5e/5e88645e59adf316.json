@@ -1,0 +1,14 @@
+{
+  "hash": "5e88645e59adf316",
+  "source": "Define the server directory of your Nuxt application, where Nitro routes, middleware and plugins are kept.",
+  "text": "Définit le répertoire serveur de votre application Nuxt, où sont conservés les routes, middleware et plugins de Nitro.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définit le répertoire serveur de votre application Nuxt, où sont conservés les routes, middleware et plugins de Nitro."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

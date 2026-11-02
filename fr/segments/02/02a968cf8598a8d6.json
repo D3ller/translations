@@ -1,0 +1,14 @@
+{
+  "hash": "02a968cf8598a8d6",
+  "source": "By default, Nuxt loads plugins sequentially. You can define a plugin as {0} so Nuxt won't wait until the end of the plugin's execution before loading the next plugin.",
+  "text": "Par défaut, Nuxt charge les plugins de manière séquentielle. Vous pouvez définir un plugin comme {0} afin que Nuxt n'attende pas la fin de l'exécution du plugin avant de charger le suivant.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par défaut, Nuxt charge les plugins de manière séquentielle. Vous pouvez définir un plugin comme {0} afin que Nuxt n'attende pas la fin de l'exécution du plugin avant de charger le suivant."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

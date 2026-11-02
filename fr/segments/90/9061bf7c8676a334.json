@@ -1,0 +1,14 @@
+{
+  "hash": "9061bf7c8676a334",
+  "source": "Nuxt generates {0} alongside HTML for:",
+  "text": "Nuxt génère {0} à côté du HTML pour :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt génère {0} à côté du HTML pour :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

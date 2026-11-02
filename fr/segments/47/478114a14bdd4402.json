@@ -1,0 +1,14 @@
+{
+  "hash": "478114a14bdd4402",
+  "source": "The available format values are: {0}, {1}, {2}, {3}, {4}.",
+  "text": "Les valeurs de format disponibles sont : {0}, {1}, {2}, {3}, {4}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les valeurs de format disponibles sont : {0}, {1}, {2}, {3}, {4}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

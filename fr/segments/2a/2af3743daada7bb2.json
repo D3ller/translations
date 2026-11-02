@@ -1,0 +1,14 @@
+{
+  "hash": "2af3743daada7bb2",
+  "source": "**{0}**: Starts a long-running task, rendered on the host's status surface where available. Finish it with {1}, or change its label with {2}.",
+  "text": "**{0}** : démarre une tâche de longue durée, affichée sur la zone d'état de l'hôte lorsqu'elle est disponible. Terminez-la avec {1}, ou modifiez son libellé avec {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** : démarre une tâche de longue durée, affichée sur la zone d'état de l'hôte lorsqu'elle est disponible. Terminez-la avec {1}, ou modifiez son libellé avec {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

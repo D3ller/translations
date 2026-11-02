@@ -1,0 +1,14 @@
+{
+  "hash": "7537e1d20554e7a3",
+  "source": "TypeScript Support in Tests",
+  "text": "Prise en charge de TypeScript dans les tests",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Prise en charge de TypeScript dans les tests"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

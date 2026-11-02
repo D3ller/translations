@@ -1,0 +1,14 @@
+{
+  "hash": "f0ad6a0c461100ec",
+  "source": "Browse the Nuxt Kit builder utilities used to register bundler plugins and build outputs.",
+  "text": "Parcourez les utilitaires de builder de Nuxt Kit utilisés pour enregistrer des plugins de bundler et des sorties de build.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Parcourez les utilitaires de builder de Nuxt Kit utilisés pour enregistrer des plugins de bundler et des sorties de build."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

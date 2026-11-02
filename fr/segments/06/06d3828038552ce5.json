@@ -1,0 +1,14 @@
+{
+  "hash": "06d3828038552ce5",
+  "source": "Configuration that sets defaults but respects user settings",
+  "text": "Configuration qui définit des valeurs par défaut tout en respectant les paramètres de l'utilisateur",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Configuration qui définit des valeurs par défaut tout en respectant les paramètres de l'utilisateur"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

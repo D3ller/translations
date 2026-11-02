@@ -1,0 +1,14 @@
+{
+  "hash": "8fbd5f56eb00f120",
+  "source": "{0} is removed too, which is covered in {1}its own section{/1}.",
+  "text": "{0} est également supprimé, ce qui est traité dans {1}sa propre section{/1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est également supprimé, ce qui est traité dans {1}sa propre section{/1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

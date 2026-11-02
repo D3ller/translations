@@ -1,0 +1,14 @@
+{
+  "hash": "dc7824ee010e0238",
+  "source": "The following names are recognised, both in filenames and in the {0} you configure. Hyphenated and unhyphenated spellings are equivalent, so {1} and {2} both resolve to {3}.",
+  "text": "Les noms suivants sont reconnus, aussi bien dans les noms de fichiers que dans les {0} que vous configurez. Les orthographes avec et sans trait d'union sont équivalentes, donc {1} et {2} correspondent tous deux à {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les noms suivants sont reconnus, aussi bien dans les noms de fichiers que dans les {0} que vous configurez. Les orthographes avec et sans trait d'union sont équivalentes, donc {1} et {2} correspondent tous deux à {3}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

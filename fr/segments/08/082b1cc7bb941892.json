@@ -1,0 +1,14 @@
+{
+  "hash": "082b1cc7bb941892",
+  "source": "By default, when {0} is enabled, it will call {1} to re-fetch all data from the server.",
+  "text": "Par défaut, lorsque {0} est activé, il appelle {1} pour récupérer à nouveau toutes les données depuis le serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par défaut, lorsque {0} est activé, il appelle {1} pour récupérer à nouveau toutes les données depuis le serveur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

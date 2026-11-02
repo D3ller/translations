@@ -1,0 +1,14 @@
+{
+  "hash": "9f682781c4f3361c",
+  "source": "You can use the {0} method provided from the {1} to register your components directory in your Nuxt module.",
+  "text": "Vous pouvez utiliser la méthode {0} fournie par {1} pour enregistrer votre répertoire de composants dans votre module Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez utiliser la méthode {0} fournie par {1} pour enregistrer votre répertoire de composants dans votre module Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

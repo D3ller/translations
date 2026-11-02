@@ -1,0 +1,14 @@
+{
+  "hash": "5ec062badbeb5812",
+  "source": "Move any manual route augmentation from {0} to {1}:",
+  "text": "Déplacez toute augmentation manuelle de routes de {0} vers {1} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Déplacez toute augmentation manuelle de routes de {0} vers {1} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

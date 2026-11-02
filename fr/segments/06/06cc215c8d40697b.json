@@ -1,0 +1,14 @@
+{
+  "hash": "06cc215c8d40697b",
+  "source": "**Direct reference**: Mention the LLMs.txt URLs when asking questions",
+  "text": "**Référence directe** : mentionnez les URL LLMs.txt lorsque vous posez des questions",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Référence directe** : mentionnez les URL LLMs.txt lorsque vous posez des questions"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

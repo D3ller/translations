@@ -1,0 +1,14 @@
+{
+  "hash": "9e301c8ee19b2fb3",
+  "source": "Since {0}Nuxt v3.4{/0}, it is possible to define your own reducer/reviver for types that are not supported by Nuxt.",
+  "text": "Depuis {0}Nuxt v3.4{/0}, il est possible de définir votre propre reducer/reviver pour les types qui ne sont pas pris en charge par Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Depuis {0}Nuxt v3.4{/0}, il est possible de définir votre propre reducer/reviver pour les types qui ne sont pas pris en charge par Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

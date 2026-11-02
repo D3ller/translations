@@ -1,0 +1,14 @@
+{
+  "hash": "51056a36cb3c91a3",
+  "source": "Startup Errors",
+  "text": "Erreurs de démarrage",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erreurs de démarrage"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

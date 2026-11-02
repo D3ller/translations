@@ -1,0 +1,14 @@
+{
+  "hash": "321ff7203d03ee00",
+  "source": "Run it without a module name to pick from the modules compatible with your Nuxt version.",
+  "text": "Exécutez-la sans nom de module pour choisir parmi les modules compatibles avec votre version de Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Exécutez-la sans nom de module pour choisir parmi les modules compatibles avec votre version de Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

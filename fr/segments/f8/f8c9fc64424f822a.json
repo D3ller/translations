@@ -1,0 +1,14 @@
+{
+  "hash": "f8c9fc64424f822a",
+  "source": "Nitro Server Errors",
+  "text": "Erreurs du serveur Nitro",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erreurs du serveur Nitro"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

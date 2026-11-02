@@ -1,0 +1,14 @@
+{
+  "hash": "cb95bd71dc0d4cd0",
+  "source": "In the meantime, you can tell Nuxt not to try to import these libraries by adding them to {0}:",
+  "text": "En attendant, vous pouvez indiquer à Nuxt de ne pas essayer d'importer ces bibliothèques en les ajoutant à {0} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En attendant, vous pouvez indiquer à Nuxt de ne pas essayer d'importer ces bibliothèques en les ajoutant à {0} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

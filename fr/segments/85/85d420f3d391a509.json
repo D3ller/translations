@@ -1,0 +1,14 @@
+{
+  "hash": "85d420f3d391a509",
+  "source": "Open Windsurf and navigate to \"Settings\" > \"Windsurf Settings\" > \"Cascade\"",
+  "text": "Ouvrez Windsurf et accédez à « Settings » > « Windsurf Settings » > « Cascade »",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ouvrez Windsurf et accédez à « Settings » > « Windsurf Settings » > « Cascade »"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

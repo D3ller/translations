@@ -1,0 +1,14 @@
+{
+  "hash": "b2b7ccfa8dde9130",
+  "source": "The content will not be included in production builds.",
+  "text": "Le contenu ne sera pas inclus dans les builds de production.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le contenu ne sera pas inclus dans les builds de production."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

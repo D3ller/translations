@@ -1,0 +1,14 @@
+{
+  "hash": "25936c14ac872c1e",
+  "source": "**{0}**: Consola configuration options.",
+  "text": "**{0}** : options de configuration de Consola.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** : options de configuration de Consola."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

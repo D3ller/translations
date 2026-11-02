@@ -1,0 +1,14 @@
+{
+  "hash": "e4d2f569e613391b",
+  "source": "Environment variable values are automatically cast to their JavaScript type using {0}. For example, {1} becomes the number {2}. To keep a value a string, the environment variable value itself must contain literal double quotes: in a {3} file, write {4}; when setting the variable directly (in a shell, Dockerfile, or hosting dashboard), make sure the quotes are part of the value and not stripped by the shell (for example {5}).",
+  "text": "Les valeurs des variables d'environnement sont automatiquement converties vers leur type JavaScript à l'aide de {0}. Par exemple, {1} devient le nombre {2}. Pour conserver une valeur sous forme de chaîne, la valeur de la variable d'environnement elle-même doit contenir des guillemets doubles littéraux : dans un fichier {3}, écrivez {4} ; lorsque vous définissez la variable directement (dans un shell, un Dockerfile ou un tableau de bord d'hébergement), assurez-vous que les guillemets font partie de la valeur et ne sont pas supprimés par le shell (par exemple {5}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les valeurs des variables d'environnement sont automatiquement converties vers leur type JavaScript à l'aide de {0}. Par exemple, {1} devient le nombre {2}. Pour conserver une valeur sous forme de chaîne, la valeur de la variable d'environnement elle-même doit contenir des guillemets doubles littéraux : dans un fichier {3}, écrivez {4} ; lorsque vous définissez la variable directement (dans un shell, un Dockerfile ou un tableau de bord d'hébergement), assurez-vous que les guillemets font partie de la valeur et ne sont pas supprimés par le shell (par exemple {5})."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

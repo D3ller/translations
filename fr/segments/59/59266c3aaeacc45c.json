@@ -1,0 +1,14 @@
+{
+  "hash": "59266c3aaeacc45c",
+  "source": "It provides both lab and field data about a page. Lab data is useful for debugging issues, as it is collected in a controlled environment while field data is useful for capturing true, real-world user experience.",
+  "text": "Il fournit à la fois des données de laboratoire et des données de terrain sur une page. Les données de laboratoire sont utiles pour déboguer les problèmes, car elles sont collectées dans un environnement contrôlé, tandis que les données de terrain sont utiles pour saisir l'expérience utilisateur réelle.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Il fournit à la fois des données de laboratoire et des données de terrain sur une page. Les données de laboratoire sont utiles pour déboguer les problèmes, car elles sont collectées dans un environnement contrôlé, tandis que les données de terrain sont utiles pour saisir l'expérience utilisateur réelle."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

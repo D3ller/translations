@@ -1,0 +1,14 @@
+{
+  "hash": "620913c9e2c64dac",
+  "source": "**{0}**: Asks the user a question, borrowing the terminal for as long as the prompt is open. Takes the same options as {1}.",
+  "text": "**{0}** : pose une question à l'utilisateur, en empruntant le terminal tant que l'invite reste ouverte. Accepte les mêmes options que {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** : pose une question à l'utilisateur, en empruntant le terminal tant que l'invite reste ouverte. Accepte les mêmes options que {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

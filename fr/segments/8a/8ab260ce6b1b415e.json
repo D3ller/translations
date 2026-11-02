@@ -1,0 +1,14 @@
+{
+  "hash": "8ab260ce6b1b415e",
+  "source": "Watch a video from Alexander Lichter about Building a plain SPA with Nuxt",
+  "text": "Regardez une vidéo d'Alexander Lichter sur la création d'une SPA simple avec Nuxt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Regardez une vidéo d'Alexander Lichter sur la création d'une SPA simple avec Nuxt"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

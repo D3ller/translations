@@ -1,0 +1,14 @@
+{
+  "hash": "05f96c4a8cc77fc0",
+  "source": "{0}Nuxt Scripts{/0} lets you load third-party scripts with better performance, privacy, security and DX.",
+  "text": "{0}Nuxt Scripts{/0} vous permet de charger des scripts tiers avec de meilleures performances, une meilleure confidentialité, une meilleure sécurité et une meilleure DX.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}Nuxt Scripts{/0} vous permet de charger des scripts tiers avec de meilleures performances, une meilleure confidentialité, une meilleure sécurité et une meilleure DX."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

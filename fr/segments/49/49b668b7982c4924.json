@@ -1,0 +1,14 @@
+{
+  "hash": "49b668b7982c4924",
+  "source": "In a real app you would probably not redirect every route to {0}",
+  "text": "Dans une vraie application, vous ne redirigeriez probablement pas toutes les routes vers {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans une vraie application, vous ne redirigeriez probablement pas toutes les routes vers {0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

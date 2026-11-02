@@ -1,0 +1,14 @@
+{
+  "hash": "cbc23cfd431b0b67",
+  "source": "does not run if the component unmounts first",
+  "text": "ne s'exécute pas si le composant est démonté auparavant",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "ne s'exécute pas si le composant est démonté auparavant"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

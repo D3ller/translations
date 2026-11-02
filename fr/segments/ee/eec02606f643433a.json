@@ -1,0 +1,14 @@
+{
+  "hash": "eec02606f643433a",
+  "source": "Policy when triggering an execution more than once at a time.",
+  "text": "Politique à appliquer lorsqu'une exécution est déclenchée plusieurs fois simultanément.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Politique à appliquer lorsqu'une exécution est déclenchée plusieurs fois simultanément."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

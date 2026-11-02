@@ -1,0 +1,14 @@
+{
+  "hash": "24f47f9f6fbbffe0",
+  "source": "Authentication is an extremely common requirement in web apps. This recipe will show you how to implement basic user registration and authentication in your Nuxt app.",
+  "text": "L'authentification est une exigence extrêmement courante dans les applications web. Cette recette vous montrera comment implémenter une inscription et une authentification de base des utilisateurs dans votre application Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'authentification est une exigence extrêmement courante dans les applications web. Cette recette vous montrera comment implémenter une inscription et une authentification de base des utilisateurs dans votre application Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

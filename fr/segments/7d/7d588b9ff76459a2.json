@@ -1,0 +1,14 @@
+{
+  "hash": "7d588b9ff76459a2",
+  "source": "Barrier that gates whether the request may run. While {0}, every execution is blocked (initial fetch, {1}/{2}, and watch triggers), and switching {3} → {4} cancels any in-flight request without clearing {5}. Re-enabling does not refetch on its own.",
+  "text": "Barrière qui détermine si la requête peut s'exécuter. Tant que {0}, toute exécution est bloquée (récupération initiale, {1}/{2} et déclenchements de la surveillance), et passer de {3} à {4} annule toute requête en cours sans vider {5}. Réactiver la barrière ne relance pas la requête de lui-même.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Barrière qui détermine si la requête peut s'exécuter. Tant que {0}, toute exécution est bloquée (récupération initiale, {1}/{2} et déclenchements de la surveillance), et passer de {3} à {4} annule toute requête en cours sans vider {5}. Réactiver la barrière ne relance pas la requête de lui-même."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

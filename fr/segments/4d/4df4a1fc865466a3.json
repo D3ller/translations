@@ -1,0 +1,14 @@
+{
+  "hash": "4df4a1fc865466a3",
+  "source": "{0} also accepts custom props that you may need to pass further down the hierarchy.",
+  "text": "{0} accepte également des props personnalisées que vous pourriez avoir besoin de transmettre plus bas dans la hiérarchie.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} accepte également des props personnalisées que vous pourriez avoir besoin de transmettre plus bas dans la hiérarchie."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

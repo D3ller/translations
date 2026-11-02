@@ -1,0 +1,14 @@
+{
+  "hash": "396aff666af1706b",
+  "source": "Called before writing the given schema.",
+  "text": "Appelé avant l'écriture du schéma donné.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appelé avant l'écriture du schéma donné."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

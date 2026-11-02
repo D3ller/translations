@@ -1,0 +1,14 @@
+{
+  "hash": "9c870aa6e5e93270",
+  "source": "How it works",
+  "text": "Comment ça fonctionne",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Comment ça fonctionne"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

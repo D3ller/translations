@@ -1,0 +1,14 @@
+{
+  "hash": "8b735c66001db6a3",
+  "source": "Auto-discovered modules from the {0} directory",
+  "text": "Les modules découverts automatiquement dans le répertoire {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les modules découverts automatiquement dans le répertoire {0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

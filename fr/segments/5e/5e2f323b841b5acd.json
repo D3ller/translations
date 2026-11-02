@@ -1,0 +1,14 @@
+{
+  "hash": "5e2f323b841b5acd",
+  "source": "The {0} function returns an object with the following properties:",
+  "text": "La fonction {0} retourne un objet avec les propriétés suivantes :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La fonction {0} retourne un objet avec les propriétés suivantes :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

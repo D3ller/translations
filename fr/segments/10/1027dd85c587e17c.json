@@ -1,0 +1,14 @@
+{
+  "hash": "1027dd85c587e17c",
+  "source": "The generated route set carries the {0}, {1} and {2} a handler validates as well as its response, typed as it arrives over the wire, so a resolving call is typed more tightly than before:",
+  "text": "L'ensemble de routes généré porte les {0}, {1} et {2} qu'un handler valide ainsi que sa réponse, typée telle qu'elle arrive sur le réseau, de sorte qu'un appel qui aboutit est typé plus strictement qu'auparavant :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'ensemble de routes généré porte les {0}, {1} et {2} qu'un handler valide ainsi que sa réponse, typée telle qu'elle arrive sur le réseau, de sorte qu'un appel qui aboutit est typé plus strictement qu'auparavant :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

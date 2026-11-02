@@ -1,0 +1,14 @@
+{
+  "hash": "f34589bf08a13951",
+  "source": "New Middleware Format",
+  "text": "Nouveau format des middleware",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nouveau format des middleware"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

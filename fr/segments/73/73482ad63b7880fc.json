@@ -1,0 +1,14 @@
+{
+  "hash": "73482ad63b7880fc",
+  "source": "Router Config",
+  "text": "Configuration du routeur",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Configuration du routeur"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

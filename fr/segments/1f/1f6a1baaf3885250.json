@@ -1,0 +1,14 @@
+{
+  "hash": "1f6a1baaf3885250",
+  "source": "Both scripted and script-free pages emit a declarative {0}speculation rules{/0} tag so supporting browsers prefetch and prerender the target before the user follows a link. This runs no JavaScript on the page itself, and the rules are scoped to your page routes, so a link to a server route such as {1} is never speculatively fetched.",
+  "text": "Les pages avec et sans script émettent toutes deux une balise déclarative de {0}speculation rules{/0} afin que les navigateurs compatibles préchargent et prérendent la cible avant que l'utilisateur ne suive un lien. Cela n'exécute aucun JavaScript sur la page elle-même, et les règles sont limitées à vos routes de pages, de sorte qu'un lien vers une route serveur telle que {1} n'est jamais récupéré de façon spéculative.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les pages avec et sans script émettent toutes deux une balise déclarative de {0}speculation rules{/0} afin que les navigateurs compatibles préchargent et prérendent la cible avant que l'utilisateur ne suive un lien. Cela n'exécute aucun JavaScript sur la page elle-même, et les règles sont limitées à vos routes de pages, de sorte qu'un lien vers une route serveur telle que {1} n'est jamais récupéré de façon spéculative."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

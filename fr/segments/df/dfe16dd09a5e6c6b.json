@@ -1,0 +1,14 @@
+{
+  "hash": "dfe16dd09a5e6c6b",
+  "source": "We recommend {0} as a package manager for modules, libraries and apps.",
+  "text": "Nous recommandons {0} comme gestionnaire de packages pour les modules, les bibliothèques et les applications.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nous recommandons {0} comme gestionnaire de packages pour les modules, les bibliothèques et les applications."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

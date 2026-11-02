@@ -1,0 +1,14 @@
+{
+  "hash": "0b718f1c916046f8",
+  "source": "*Share your code.* People probably won't be able to help if they just see an error message or a screenshot - but that all changes if you share your code in a copy/pasteable format - preferably in the form of a minimal reproduction like a CodeSandbox.",
+  "text": "*Partagez votre code.* Les gens ne pourront probablement pas vous aider s'ils voient seulement un message d'erreur ou une capture d'écran, mais tout change si vous partagez votre code dans un format copiable-collable, de préférence sous la forme d'une reproduction minimale, par exemple sur CodeSandbox.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "*Partagez votre code.* Les gens ne pourront probablement pas vous aider s'ils voient seulement un message d'erreur ou une capture d'écran, mais tout change si vous partagez votre code dans un format copiable-collable, de préférence sous la forme d'une reproduction minimale, par exemple sur CodeSandbox."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

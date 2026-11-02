@@ -1,0 +1,14 @@
+{
+  "hash": "ac096284de199dca",
+  "source": "This allows more granular control over plugin order and should only be used by advanced users. **It overrides the value of {0} and is used to sort plugins.**",
+  "text": "Cela permet un contrôle plus fin de l'ordre des plugins et ne doit être utilisé que par des utilisateurs avancés. **Cela remplace la valeur de {0} et sert à trier les plugins.**",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela permet un contrôle plus fin de l'ordre des plugins et ne doit être utilisé que par des utilisateurs avancés. **Cela remplace la valeur de {0} et sert à trier les plugins.**"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "ca38e420a938c7a8",
+  "source": "{0} and {1} generate these files automatically. If you use {2} with route rules to prerender selected routes, add the fallback page explicitly:",
+  "text": "{0} et {1} génèrent ces fichiers automatiquement. Si vous utilisez {2} avec des règles de route pour prérendre certaines routes, ajoutez explicitement la page de repli :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} et {1} génèrent ces fichiers automatiquement. Si vous utilisez {2} avec des règles de route pour prérendre certaines routes, ajoutez explicitement la page de repli :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

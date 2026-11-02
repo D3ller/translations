@@ -1,0 +1,14 @@
+{
+  "hash": "b82b0a6f906cb85c",
+  "source": "**{0} is not present in Nitro 3.** For a route of the app, use {1} from {2}. You can also use {3} or import {4} from {5}.",
+  "text": "**{0} n'est pas présent dans Nitro 3.** Pour une route de l'application, utilisez {1} depuis {2}. Vous pouvez aussi utiliser {3} ou importer {4} depuis {5}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0} n'est pas présent dans Nitro 3.** Pour une route de l'application, utilisez {1} depuis {2}. Vous pouvez aussi utiliser {3} ou importer {4} depuis {5}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

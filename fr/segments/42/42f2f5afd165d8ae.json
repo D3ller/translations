@@ -1,0 +1,14 @@
+{
+  "hash": "42f2f5afd165d8ae",
+  "source": "With these options enabled, {0} and {1} are type errors.",
+  "text": "Lorsque ces options sont activées, {0} et {1} sont des erreurs de type.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque ces options sont activées, {0} et {1} sont des erreurs de type."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

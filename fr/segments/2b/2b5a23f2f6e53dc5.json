@@ -1,0 +1,14 @@
+{
+  "hash": "2b5a23f2f6e53dc5",
+  "source": "Note that the \"DateTime\" string is the type identifier and must",
+  "text": "Notez que la chaîne \"DateTime\" est l'identifiant du type et doit",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Notez que la chaîne \"DateTime\" est l'identifiant du type et doit"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

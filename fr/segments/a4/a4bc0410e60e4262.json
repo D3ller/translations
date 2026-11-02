@@ -1,0 +1,14 @@
+{
+  "hash": "a4bc0410e60e4262",
+  "source": "As long as the number of arguments passed to the function is less than {0}, an additional magic string will be injected as the last argument. This key is stable between SSR and client-side hydration. You will need to take steps to handle this additional key. The key is unique based on the location of the function being invoked within the file.",
+  "text": "Tant que le nombre d'arguments passés à la fonction est inférieur à {0}, une chaîne magique supplémentaire sera injectée comme dernier argument. Cette clé est stable entre le SSR et l'hydratation côté client. Vous devrez prendre des mesures pour gérer cette clé supplémentaire. La clé est unique selon l'emplacement de la fonction appelée dans le fichier.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Tant que le nombre d'arguments passés à la fonction est inférieur à {0}, une chaîne magique supplémentaire sera injectée comme dernier argument. Cette clé est stable entre le SSR et l'hydratation côté client. Vous devrez prendre des mesures pour gérer cette clé supplémentaire. La clé est unique selon l'emplacement de la fonction appelée dans le fichier."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

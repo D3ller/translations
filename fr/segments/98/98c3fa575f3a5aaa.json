@@ -1,0 +1,14 @@
+{
+  "hash": "98c3fa575f3a5aaa",
+  "source": "**{0}**: A callback function that will be called with the webpack configuration object.",
+  "text": "**{0}** : une fonction de rappel qui sera appelée avec l'objet de configuration de webpack.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** : une fonction de rappel qui sera appelée avec l'objet de configuration de webpack."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

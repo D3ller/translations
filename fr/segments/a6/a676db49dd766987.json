@@ -1,0 +1,14 @@
+{
+  "hash": "a676db49dd766987",
+  "source": "Dev server listening port",
+  "text": "Port d'écoute du serveur de développement",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Port d'écoute du serveur de développement"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

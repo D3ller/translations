@@ -1,0 +1,14 @@
+{
+  "hash": "9dd4b20906fe7567",
+  "source": "the element(s) is 100px away from entering the viewport.",
+  "text": "le ou les éléments sont à 100px de l'entrée dans le viewport.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "le ou les éléments sont à 100px de l'entrée dans le viewport."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

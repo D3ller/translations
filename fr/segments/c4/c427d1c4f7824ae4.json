@@ -1,0 +1,14 @@
+{
+  "hash": "c427d1c4f7824ae4",
+  "source": "{0}: Keep the fallback content if it failed to render server-side.",
+  "text": "{0} : conserve le contenu de secours si son rendu a échoué côté serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : conserve le contenu de secours si son rendu a échoué côté serveur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

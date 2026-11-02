@@ -1,0 +1,14 @@
+{
+  "hash": "950785d79c229781",
+  "source": "Cached Route Rules Ignore Query Parameters",
+  "text": "Les règles de route avec cache ignorent les paramètres de requête",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les règles de route avec cache ignorent les paramètres de requête"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

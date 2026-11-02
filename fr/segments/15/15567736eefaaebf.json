@@ -1,0 +1,14 @@
+{
+  "hash": "15567736eefaaebf",
+  "source": "Overriding a Layout on a Per-page Basis",
+  "text": "Remplacer un layout page par page",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Remplacer un layout page par page"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

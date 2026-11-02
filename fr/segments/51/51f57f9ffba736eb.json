@@ -1,0 +1,14 @@
+{
+  "hash": "51f57f9ffba736eb",
+  "source": "**Server route and server middleware errors** return JSON, even for a browser navigation. This includes server middleware that throws for a page route, such as an authentication check.",
+  "text": "**Les erreurs de route serveur et de middleware serveur** renvoient du JSON, même pour une navigation dans le navigateur. Cela inclut les middleware serveur qui lèvent une erreur pour une route de page, comme une vérification d'authentification.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Les erreurs de route serveur et de middleware serveur** renvoient du JSON, même pour une navigation dans le navigateur. Cela inclut les middleware serveur qui lèvent une erreur pour une route de page, comme une vérification d'authentification."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

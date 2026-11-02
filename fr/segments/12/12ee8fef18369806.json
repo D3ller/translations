@@ -1,0 +1,14 @@
+{
+  "hash": "12ee8fef18369806",
+  "source": "With Nuxt 3, you can perform this data fetching using composables in your {0} method or {1} tag:",
+  "text": "Avec Nuxt 3, vous pouvez effectuer cette récupération de données à l'aide de composables dans votre méthode {0} ou votre balise {1} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Avec Nuxt 3, vous pouvez effectuer cette récupération de données à l'aide de composables dans votre méthode {0} ou votre balise {1} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

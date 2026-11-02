@@ -1,0 +1,14 @@
+{
+  "hash": "302a6b8df65d3697",
+  "source": "Props a component does not declare fall through as attributes onto its single root element, so an island whose root is a polymorphic component (e.g. from {0} / {1}) can receive attributes you did not bind. Set {2} on such islands, or declare the props you accept. As with any Vue component, fall-through attributes include event handler attributes such as {3} or {4}, which the browser runs as JavaScript, so don't spread an object you don't control (such as {5}) onto a server component or into the {6} of {7}.",
+  "text": "Les props qu'un composant ne déclare pas sont transmises comme attributs à son unique élément racine ; une island dont la racine est un composant polymorphe (par exemple issu de {0} / {1}) peut donc recevoir des attributs que vous n'avez pas liés. Définissez {2} sur ces islands, ou déclarez les props que vous acceptez. Comme pour tout composant Vue, les attributs transmis incluent les attributs de gestionnaires d'événements tels que {3} ou {4}, que le navigateur exécute comme du JavaScript ; ne répartissez donc pas un objet que vous ne contrôlez pas (comme {5}) sur un composant serveur ou dans le {6} de {7}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les props qu'un composant ne déclare pas sont transmises comme attributs à son unique élément racine ; une island dont la racine est un composant polymorphe (par exemple issu de {0} / {1}) peut donc recevoir des attributs que vous n'avez pas liés. Définissez {2} sur ces islands, ou déclarez les props que vous acceptez. Comme pour tout composant Vue, les attributs transmis incluent les attributs de gestionnaires d'événements tels que {3} ou {4}, que le navigateur exécute comme du JavaScript ; ne répartissez donc pas un objet que vous ne contrôlez pas (comme {5}) sur un composant serveur ou dans le {6} de {7}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

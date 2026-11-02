@@ -1,0 +1,14 @@
+{
+  "hash": "42d2759f5e2fb302",
+  "source": "Add a config file from each layer that has one",
+  "text": "Ajouter un fichier de configuration de chaque layer qui en possède un",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ajouter un fichier de configuration de chaque layer qui en possède un"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

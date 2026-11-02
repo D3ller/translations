@@ -1,0 +1,14 @@
+{
+  "hash": "80217477c80b90d5",
+  "source": "{0}: An object accepting head metadata properties to customize the page's {1} section. All properties support reactive values ({2}, {3}, {4}) or can be a function returning the metadata object.",
+  "text": "{0} : un objet acceptant des propriétés de métadonnées du head pour personnaliser la section {1} de la page. Toutes les propriétés prennent en charge des valeurs réactives ({2}, {3}, {4}) ou peuvent être une fonction retournant l'objet de métadonnées.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : un objet acceptant des propriétés de métadonnées du head pour personnaliser la section {1} de la page. Toutes les propriétés prennent en charge des valeurs réactives ({2}, {3}, {4}) ou peuvent être une fonction retournant l'objet de métadonnées."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "d2fd6bb7ce81a9ab",
+  "source": "Server components (and islands) must have a single root element. (HTML comments are considered elements as well.)",
+  "text": "Les composants serveur (et les islands) doivent avoir un seul élément racine. (Les commentaires HTML sont également considérés comme des éléments.)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les composants serveur (et les islands) doivent avoir un seul élément racine. (Les commentaires HTML sont également considérés comme des éléments.)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

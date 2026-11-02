@@ -1,0 +1,14 @@
+{
+  "hash": "06e7c7819e47aa57",
+  "source": "Use the utils/ directory to auto-import your utility functions throughout your application.",
+  "text": "Utilisez le répertoire utils/ pour importer automatiquement vos fonctions utilitaires dans toute votre application.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utilisez le répertoire utils/ pour importer automatiquement vos fonctions utilitaires dans toute votre application."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

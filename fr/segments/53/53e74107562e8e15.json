@@ -1,0 +1,14 @@
+{
+  "hash": "53e74107562e8e15",
+  "source": "Pascal case component name. If not provided, it will be generated from the component name.",
+  "text": "Nom du composant en PascalCase. S'il n'est pas fourni, il sera généré à partir du nom du composant.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nom du composant en PascalCase. S'il n'est pas fourni, il sera généré à partir du nom du composant."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

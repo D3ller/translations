@@ -1,0 +1,14 @@
+{
+  "hash": "26677273f73b61de",
+  "source": "{0}: Prefetches when the link becomes visible in the viewport. Monitors the element's intersection with the viewport using the {1}Intersection Observer API{/1}. Prefetching is triggered when the element is scrolled into view.",
+  "text": "{0} : précharge lorsque le lien devient visible dans la fenêtre d'affichage. Surveille l'intersection de l'élément avec la fenêtre d'affichage grâce à l'{1}API Intersection Observer{/1}. Le préchargement est déclenché lorsque l'élément défile dans la zone visible.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : précharge lorsque le lien devient visible dans la fenêtre d'affichage. Surveille l'intersection de l'élément avec la fenêtre d'affichage grâce à l'{1}API Intersection Observer{/1}. Le préchargement est déclenché lorsque l'élément défile dans la zone visible."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

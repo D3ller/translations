@@ -1,0 +1,14 @@
+{
+  "hash": "905b2e79f51ce26d",
+  "source": "You can then use the helper in your components:",
+  "text": "Vous pouvez ensuite utiliser le helper dans vos composants :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez ensuite utiliser le helper dans vos composants :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

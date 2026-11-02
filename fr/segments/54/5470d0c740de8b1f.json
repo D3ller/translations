@@ -1,0 +1,14 @@
+{
+  "hash": "5470d0c740de8b1f",
+  "source": "**Production FOUC for nested async components:** the renderer inlines route CSS in a chunk sent straight after the shell. It can only inline the styles for components whose modules are already registered at that point: the page, the layout, and any async component placed directly inside a {0} boundary (Vue instantiates those eagerly when render begins).",
+  "text": "**FOUC en production pour les composants asynchrones imbriqués :** le moteur de rendu inline le CSS de la route dans un chunk envoyé juste après le shell. Il ne peut inliner que les styles des composants dont les modules sont déjà enregistrés à ce moment-là : la page, le layout et tout composant asynchrone placé directement à l'intérieur d'une frontière {0} (Vue les instancie immédiatement au début du rendu).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**FOUC en production pour les composants asynchrones imbriqués :** le moteur de rendu inline le CSS de la route dans un chunk envoyé juste après le shell. Il ne peut inliner que les styles des composants dont les modules sont déjà enregistrés à ce moment-là : la page, le layout et tout composant asynchrone placé directement à l'intérieur d'une frontière {0} (Vue les instancie immédiatement au début du rendu)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

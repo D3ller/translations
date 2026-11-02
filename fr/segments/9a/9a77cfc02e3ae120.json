@@ -1,0 +1,14 @@
+{
+  "hash": "9a77cfc02e3ae120",
+  "source": "When using {0} within route middleware, you must **return its result** to ensure the middleware execution flow works correctly.",
+  "text": "Lorsque vous utilisez {0} dans un middleware de route, vous devez **retourner son résultat** afin que le flux d'exécution du middleware fonctionne correctement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque vous utilisez {0} dans un middleware de route, vous devez **retourner son résultat** afin que le flux d'exécution du middleware fonctionne correctement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

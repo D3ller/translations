@@ -1,0 +1,14 @@
+{
+  "hash": "86ac38829da50436",
+  "source": "Let's create a {0} API route that will accept a POST request with the email and password in the request body.",
+  "text": "Créez une route d'API {0} qui acceptera une requête POST avec l'e-mail et le mot de passe dans le corps de la requête.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Créez une route d'API {0} qui acceptera une requête POST avec l'e-mail et le mot de passe dans le corps de la requête."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

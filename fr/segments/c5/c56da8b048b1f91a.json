@@ -1,0 +1,14 @@
+{
+  "hash": "c56da8b048b1f91a",
+  "source": "An object accepting the following page metadata:",
+  "text": "Un objet acceptant les métadonnées de page suivantes :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un objet acceptant les métadonnées de page suivantes :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

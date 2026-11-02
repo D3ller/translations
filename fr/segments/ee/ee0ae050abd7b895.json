@@ -1,0 +1,14 @@
+{
+  "hash": "ee0ae050abd7b895",
+  "source": "Providers that can instance a font server-side, such as Google Fonts, serve the file already resolved at those values. Otherwise the axis is applied to the downloaded file with {0}, which needs a glyph list to subset to: either the family's {1}, or the characters the face's {2} declares. Without either, the file is emitted untouched and a {3} descriptor renders the font at the requested values instead.",
+  "text": "Les fournisseurs capables d'instancier une police côté serveur, comme Google Fonts, servent le fichier déjà résolu à ces valeurs. Sinon, l'axe est appliqué au fichier téléchargé avec {0}, ce qui nécessite une liste de glyphes pour créer le sous-ensemble : soit le {1} de la famille, soit les caractères que le {2} de la face déclare. Sans l'un ni l'autre, le fichier est émis tel quel et un descripteur {3} affiche à la place la police aux valeurs demandées.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les fournisseurs capables d'instancier une police côté serveur, comme Google Fonts, servent le fichier déjà résolu à ces valeurs. Sinon, l'axe est appliqué au fichier téléchargé avec {0}, ce qui nécessite une liste de glyphes pour créer le sous-ensemble : soit le {1} de la famille, soit les caractères que le {2} de la face déclare. Sans l'un ni l'autre, le fichier est émis tel quel et un descripteur {3} affiche à la place la police aux valeurs demandées."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

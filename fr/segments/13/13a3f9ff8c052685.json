@@ -1,0 +1,14 @@
+{
+  "hash": "13a3f9ff8c052685",
+  "source": "With webpack and rspack, our CSS transform runs immediately before {0}, so it sees your styles after any preprocessor (such as Sass) and PostCSS have run. A family named through a preprocessor variable is still detected, but a {1} value produced by a later loader in the chain is not.",
+  "text": "Avec webpack et rspack, notre transformation CSS s'exécute juste avant {0}, elle voit donc vos styles après tout préprocesseur (comme Sass) et PostCSS. Une famille nommée via une variable de préprocesseur est toujours détectée, mais une valeur {1} produite par un loader ultérieur dans la chaîne ne l'est pas.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Avec webpack et rspack, notre transformation CSS s'exécute juste avant {0}, elle voit donc vos styles après tout préprocesseur (comme Sass) et PostCSS. Une famille nommée via une variable de préprocesseur est toujours détectée, mais une valeur {1} produite par un loader ultérieur dans la chaîne ne l'est pas."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

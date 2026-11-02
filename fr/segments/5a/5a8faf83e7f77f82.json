@@ -1,0 +1,14 @@
+{
+  "hash": "5a8faf83e7f77f82",
+  "source": "Or you can disable a built-in provider",
+  "text": "Ou vous pouvez désactiver un fournisseur intégré",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ou vous pouvez désactiver un fournisseur intégré"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

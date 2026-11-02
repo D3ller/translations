@@ -1,0 +1,14 @@
+{
+  "hash": "a07a8a6f8daa38f5",
+  "source": "A {0} is no longer required. Without one, the session is sealed with a secret derived from {1}, which {2} sets:",
+  "text": "Un {0} n'est plus requis. Sans lui, la session est scellée avec un secret dérivé de {1}, que {2} définit :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un {0} n'est plus requis. Sans lui, la session est scellée avec un secret dérivé de {1}, que {2} définit :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

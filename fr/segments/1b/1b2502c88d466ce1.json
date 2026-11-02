@@ -1,0 +1,14 @@
+{
+  "hash": "1b2502c88d466ce1",
+  "source": "And you can directly return {0}, {1}, {2} or even a {3}.",
+  "text": "Et vous pouvez retourner directement {0}, {1}, {2} ou même un {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Et vous pouvez retourner directement {0}, {1}, {2} ou même un {3}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

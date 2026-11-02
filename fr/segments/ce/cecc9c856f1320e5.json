@@ -1,0 +1,14 @@
+{
+  "hash": "cecc9c856f1320e5",
+  "source": "Vue exposes Reactivity APIs like {0} or {1}, as well as lifecycle hooks and helpers that are auto-imported by Nuxt.",
+  "text": "Vue expose des API de réactivité comme {0} ou {1}, ainsi que des hooks de cycle de vie et des helpers qui sont importés automatiquement par Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vue expose des API de réactivité comme {0} ou {1}, ainsi que des hooks de cycle de vie et des helpers qui sont importés automatiquement par Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

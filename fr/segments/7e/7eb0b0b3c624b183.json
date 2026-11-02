@@ -1,0 +1,14 @@
+{
+  "hash": "7eb0b0b3c624b183",
+  "source": "Registers a Nuxt plugin and adds it to the plugins array.",
+  "text": "Enregistre un plugin Nuxt et l'ajoute au tableau des plugins.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Enregistre un plugin Nuxt et l'ajoute au tableau des plugins."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

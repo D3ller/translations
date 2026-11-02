@@ -1,0 +1,14 @@
+{
+  "hash": "a35a6379a2772719",
+  "source": "Each entry in {0} accepts the following fields:",
+  "text": "Chaque entrée de {0} accepte les champs suivants :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Chaque entrée de {0} accepte les champs suivants :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

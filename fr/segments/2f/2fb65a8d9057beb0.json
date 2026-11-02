@@ -1,0 +1,14 @@
+{
+  "hash": "2fb65a8d9057beb0",
+  "source": "Within the {0}Nuxt context{/0} you can use {1} to show an error.",
+  "text": "Dans le {0}contexte Nuxt{/0}, vous pouvez utiliser {1} pour afficher une erreur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans le {0}contexte Nuxt{/0}, vous pouvez utiliser {1} pour afficher une erreur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

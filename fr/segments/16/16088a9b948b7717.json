@@ -1,0 +1,14 @@
+{
+  "hash": "16088a9b948b7717",
+  "source": "{0} will always set the target to {1}",
+  "text": "{0} définira toujours la cible sur {1}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} définira toujours la cible sur {1}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

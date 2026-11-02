@@ -1,0 +1,14 @@
+{
+  "hash": "9486f6a28156b927",
+  "source": "Learn how the build output contract works.",
+  "text": "Découvrez comment fonctionne le contrat de sortie de build.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Découvrez comment fonctionne le contrat de sortie de build."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

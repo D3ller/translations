@@ -1,0 +1,14 @@
+{
+  "hash": "527639b751d58903",
+  "source": "If {0}, disables writing to the cookie.",
+  "text": "Si {0}, désactive l'écriture dans le cookie.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si {0}, désactive l'écriture dans le cookie."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

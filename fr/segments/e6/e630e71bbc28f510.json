@@ -1,0 +1,14 @@
+{
+  "hash": "e630e71bbc28f510",
+  "source": "**In the Connectors tab, Create a new connector:**",
+  "text": "**Dans l'onglet Connectors, créez un nouveau connecteur :**",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Dans l'onglet Connectors, créez un nouveau connecteur :**"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

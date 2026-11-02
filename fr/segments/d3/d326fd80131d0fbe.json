@@ -1,0 +1,14 @@
+{
+  "hash": "d326fd80131d0fbe",
+  "source": "For advanced use-cases, you can declare the type of injected properties like this:",
+  "text": "Pour les cas d'usage avancés, vous pouvez déclarer le type des propriétés injectées comme ceci :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour les cas d'usage avancés, vous pouvez déclarer le type des propriétés injectées comme ceci :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

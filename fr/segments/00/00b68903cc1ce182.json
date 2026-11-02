@@ -1,0 +1,14 @@
+{
+  "hash": "00b68903cc1ce182",
+  "source": "{0} - Registers a global custom directive if passing both a name string and a directive definition, or retrieves an already registered one if only the name is passed{1}(example){/1}.",
+  "text": "{0} - Enregistre une directive personnalisée globale si vous passez à la fois un nom (chaîne) et une définition de directive, ou récupère une directive déjà enregistrée si seul le nom est passé {1}(exemple){/1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} - Enregistre une directive personnalisée globale si vous passez à la fois un nom (chaîne) et une définition de directive, ou récupère une directive déjà enregistrée si seul le nom est passé {1}(exemple){/1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

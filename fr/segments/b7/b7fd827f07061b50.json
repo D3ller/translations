@@ -1,0 +1,14 @@
+{
+  "hash": "b7fd827f07061b50",
+  "source": "By default, {0} blocks navigation until its async handler is resolved. {1} allows navigation to proceed immediately, with data being fetched in the background.",
+  "text": "Par défaut, {0} bloque la navigation jusqu'à ce que son gestionnaire asynchrone soit résolu. {1} permet à la navigation de se poursuivre immédiatement, les données étant récupérées en arrière-plan.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par défaut, {0} bloque la navigation jusqu'à ce que son gestionnaire asynchrone soit résolu. {1} permet à la navigation de se poursuivre immédiatement, les données étant récupérées en arrière-plan."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

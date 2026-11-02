@@ -1,0 +1,14 @@
+{
+  "hash": "8bbec1b6b57c1d41",
+  "source": "Learn how to migrate from Nuxt 2 to Nuxt Bridge new plugins and middleware.",
+  "text": "Découvrez comment migrer de Nuxt 2 vers Nuxt Bridge avec les nouveaux plugins et middleware.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Découvrez comment migrer de Nuxt 2 vers Nuxt Bridge avec les nouveaux plugins et middleware."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

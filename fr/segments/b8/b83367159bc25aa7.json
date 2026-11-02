@@ -1,0 +1,14 @@
+{
+  "hash": "b83367159bc25aa7",
+  "source": "Compare two {0} snapshots (as provided to {1}) and return the differences between them. This is useful when you watch config files yourself and need to know which keys changed before deciding whether to restart.",
+  "text": "Compare deux instantanés {0} (tels que fournis à {1}) et retourne les différences entre eux. C'est utile lorsque vous surveillez vous-même les fichiers de configuration et que vous devez savoir quelles clés ont changé avant de décider de redémarrer ou non.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Compare deux instantanés {0} (tels que fournis à {1}) et retourne les différences entre eux. C'est utile lorsque vous surveillez vous-même les fichiers de configuration et que vous devez savoir quelles clés ont changé avant de décider de redémarrer ou non."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

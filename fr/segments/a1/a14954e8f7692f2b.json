@@ -1,0 +1,14 @@
+{
+  "hash": "a14954e8f7692f2b",
+  "source": "Default to an empty string, automatically set at runtime using process.env.NUXT_API_KEY",
+  "text": "Chaîne vide par défaut, définie automatiquement à l'exécution à partir de process.env.NUXT_API_KEY",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Chaîne vide par défaut, définie automatiquement à l'exécution à partir de process.env.NUXT_API_KEY"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

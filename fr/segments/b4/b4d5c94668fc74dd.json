@@ -1,0 +1,14 @@
+{
+  "hash": "b4d5c94668fc74dd",
+  "source": "Layouts is used to be a wrapper around your pages. It can be used to wrap your pages with common components, for example, a header and a footer. Layouts can be registered using {0} utility.",
+  "text": "Les layouts servent d'enveloppe autour de vos pages. Ils peuvent être utilisés pour entourer vos pages de composants communs, par exemple un en-tête et un pied de page. Les layouts peuvent être enregistrés à l'aide de l'utilitaire {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les layouts servent d'enveloppe autour de vos pages. Ils peuvent être utilisés pour entourer vos pages de composants communs, par exemple un en-tête et un pied de page. Les layouts peuvent être enregistrés à l'aide de l'utilitaire {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

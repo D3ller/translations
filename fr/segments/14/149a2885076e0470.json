@@ -1,0 +1,14 @@
+{
+  "hash": "149a2885076e0470",
+  "source": "We use {0}Conventional Commits{/0} for commit messages, which {1}allows a changelog to be auto-generated{/1} based on the commits. Please read the guide through if you aren't familiar with it already.",
+  "text": "Nous utilisons {0}Conventional Commits{/0} pour les messages de commit, ce qui {1}permet de générer automatiquement un changelog{/1} à partir des commits. Veuillez lire le guide si vous n'y êtes pas encore familier.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nous utilisons {0}Conventional Commits{/0} pour les messages de commit, ce qui {1}permet de générer automatiquement un changelog{/1} à partir des commits. Veuillez lire le guide si vous n'y êtes pas encore familier."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

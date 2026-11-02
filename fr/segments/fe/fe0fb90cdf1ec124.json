@@ -1,0 +1,14 @@
+{
+  "hash": "fe0fb90cdf1ec124",
+  "source": "If you're using the simple setup with {0} by default, you can opt *out* of the {1}Nuxt environment{/1} per test file as needed.",
+  "text": "Si vous utilisez la configuration simple avec {0} par défaut, vous pouvez *désactiver* l'{1}environnement Nuxt{/1} pour chaque fichier de test selon vos besoins.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous utilisez la configuration simple avec {0} par défaut, vous pouvez *désactiver* l'{1}environnement Nuxt{/1} pour chaque fichier de test selon vos besoins."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

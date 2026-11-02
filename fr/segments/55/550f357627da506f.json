@@ -1,0 +1,14 @@
+{
+  "hash": "550f357627da506f",
+  "source": "The root directory of a Nuxt application is the directory that contains the {0} file. This file is used to configure the Nuxt application.",
+  "text": "Le répertoire racine d'une application Nuxt est le répertoire qui contient le fichier {0}. Ce fichier sert à configurer l'application Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le répertoire racine d'une application Nuxt est le répertoire qui contient le fichier {0}. Ce fichier sert à configurer l'application Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

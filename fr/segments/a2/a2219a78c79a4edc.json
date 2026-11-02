@@ -1,0 +1,14 @@
+{
+  "hash": "a2219a78c79a4edc",
+  "source": "{0}: If provided, a URL to use as the test target instead of building and running a new server. Useful for running \"real\" end-to-end tests against a deployed version of your application, or against an already running local server (which may provide a significant reduction in test execution timings). See the {1}target host end-to-end example below{/1}.",
+  "text": "{0} : si fournie, une URL à utiliser comme cible de test au lieu de construire et d'exécuter un nouveau serveur. Utile pour exécuter de « vrais » tests de bout en bout sur une version déployée de votre application, ou sur un serveur local déjà en cours d'exécution (ce qui peut réduire sensiblement les temps d'exécution des tests). Consultez l'{1}exemple de test de bout en bout avec hôte cible ci-dessous{/1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : si fournie, une URL à utiliser comme cible de test au lieu de construire et d'exécuter un nouveau serveur. Utile pour exécuter de « vrais » tests de bout en bout sur une version déployée de votre application, ou sur un serveur local déjà en cours d'exécution (ce qui peut réduire sensiblement les temps d'exécution des tests). Consultez l'{1}exemple de test de bout en bout avec hôte cible ci-dessous{/1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

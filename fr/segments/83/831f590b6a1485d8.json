@@ -1,0 +1,14 @@
+{
+  "hash": "831f590b6a1485d8",
+  "source": "Because only the first family in a {0} list is resolved, a stack such as {1} doesn't load {2} either. Put the family you want resolved first.",
+  "text": "Comme seule la première famille d'une liste {0} est résolue, une pile telle que {1} ne charge pas non plus {2}. Placez en premier la famille que vous souhaitez voir résolue.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Comme seule la première famille d'une liste {0} est résolue, une pile telle que {1} ne charge pas non plus {2}. Placez en premier la famille que vous souhaitez voir résolue."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

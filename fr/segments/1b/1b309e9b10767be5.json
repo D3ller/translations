@@ -1,0 +1,14 @@
+{
+  "hash": "1b309e9b10767be5",
+  "source": "The default is {0}, or {1} when {2} is set. It is forced to {3} when {4} is set.",
+  "text": "La valeur par défaut est {0}, ou {1} lorsque {2} est défini. Elle est forcée à {3} lorsque {4} est défini.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La valeur par défaut est {0}, ou {1} lorsque {2} est défini. Elle est forcée à {3} lorsque {4} est défini."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

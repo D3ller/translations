@@ -1,0 +1,14 @@
+{
+  "hash": "72aa933cbfa122c0",
+  "source": "Default: {0} ({1} if a {2} is provided)",
+  "text": "Par défaut : {0} ({1} si un {2} est fourni)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par défaut : {0} ({1} si un {2} est fourni)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

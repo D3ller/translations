@@ -1,0 +1,14 @@
+{
+  "hash": "12936d7c6880274e",
+  "source": "Creates the {0} context and runs modules, populating {1} and the build hooks.",
+  "text": "Crée le contexte {0} et exécute les modules, ce qui alimente {1} et les hooks de build.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Crée le contexte {0} et exécute les modules, ce qui alimente {1} et les hooks de build."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

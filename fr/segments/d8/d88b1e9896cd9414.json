@@ -1,0 +1,14 @@
+{
+  "hash": "d88b1e9896cd9414",
+  "source": "Nuxt's {0}configuration{/0} and {1}hooks{/1} systems make it possible to customize every aspect of Nuxt and add any integration you might need (Vue plugins, CMS, server routes, components, logging, etc.).",
+  "text": "Les systèmes de {0}configuration{/0} et de {1}hooks{/1} de Nuxt permettent de personnaliser chaque aspect de Nuxt et d'ajouter toutes les intégrations dont vous pourriez avoir besoin (plugins Vue, CMS, routes serveur, composants, journalisation, etc.).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les systèmes de {0}configuration{/0} et de {1}hooks{/1} de Nuxt permettent de personnaliser chaque aspect de Nuxt et d'ajouter toutes les intégrations dont vous pourriez avoir besoin (plugins Vue, CMS, routes serveur, composants, journalisation, etc.)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

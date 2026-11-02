@@ -1,0 +1,14 @@
+{
+  "hash": "03851074cb6042b3",
+  "source": "When using {0}, potentially dangerous attributes like {1} in scripts or {2} in meta tags are automatically stripped out to prevent XSS attacks. Use this composable whenever you're working with user-generated content.",
+  "text": "Lorsque vous utilisez {0}, les attributs potentiellement dangereux comme {1} dans les scripts ou {2} dans les balises meta sont automatiquement supprimés afin de prévenir les attaques XSS. Utilisez ce composable chaque fois que vous travaillez avec du contenu généré par les utilisateurs.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque vous utilisez {0}, les attributs potentiellement dangereux comme {1} dans les scripts ou {2} dans les balises meta sont automatiquement supprimés afin de prévenir les attaques XSS. Utilisez ce composable chaque fois que vous travaillez avec du contenu généré par les utilisateurs."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

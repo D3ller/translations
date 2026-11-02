@@ -1,0 +1,14 @@
+{
+  "hash": "661b5c44817c097d",
+  "source": "Both endpoints and middleware can be defined like this:",
+  "text": "Les endpoints comme les middleware peuvent être définis ainsi :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les endpoints comme les middleware peuvent être définis ainsi :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

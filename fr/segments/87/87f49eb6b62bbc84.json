@@ -1,0 +1,14 @@
+{
+  "hash": "87f49eb6b62bbc84",
+  "source": "Missing Unhead instance.",
+  "text": "Instance Unhead manquante.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Instance Unhead manquante."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

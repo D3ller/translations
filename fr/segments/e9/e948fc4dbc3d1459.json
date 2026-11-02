@@ -1,0 +1,14 @@
+{
+  "hash": "e948fc4dbc3d1459",
+  "source": "The contract is declared by the {0} interface in {1}:",
+  "text": "Le contrat est déclaré par l'interface {0} dans {1} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le contrat est déclaré par l'interface {0} dans {1} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

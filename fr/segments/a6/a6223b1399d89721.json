@@ -1,0 +1,14 @@
+{
+  "hash": "a6223b1399d89721",
+  "source": "Customize PostCSS Loader. same options as {0}{1} options{/0}",
+  "text": "Personnalise PostCSS Loader. Mêmes options que les {0}options de {1}{/0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Personnalise PostCSS Loader. Mêmes options que les {0}options de {1}{/0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

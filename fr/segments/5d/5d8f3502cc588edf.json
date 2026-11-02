@@ -1,0 +1,14 @@
+{
+  "hash": "5d8f3502cc588edf",
+  "source": "{0}Runtime Config{/0}",
+  "text": "{0}Runtime config{/0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}Runtime config{/0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

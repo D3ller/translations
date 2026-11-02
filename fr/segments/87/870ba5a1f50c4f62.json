@@ -1,0 +1,14 @@
+{
+  "hash": "870ba5a1f50c4f62",
+  "source": "{0} - Redirects to the given route",
+  "text": "{0} - Redirige vers la route donnée",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} - Redirige vers la route donnée"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

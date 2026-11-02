@@ -1,0 +1,14 @@
+{
+  "hash": "c7a5e7d7c0574fca",
+  "source": "Casing of common tool names is checked automatically by {0}case police{/0} when you run {1}.",
+  "text": "La casse des noms d'outils courants est vérifiée automatiquement par {0}case police{/0} lorsque vous exécutez {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La casse des noms d'outils courants est vérifiée automatiquement par {0}case police{/0} lorsque vous exécutez {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

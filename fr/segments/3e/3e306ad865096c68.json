@@ -1,0 +1,14 @@
+{
+  "hash": "3e306ad865096c68",
+  "source": "Use Core {0} Libraries",
+  "text": "Utiliser les bibliothèques {0} principales",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utiliser les bibliothèques {0} principales"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "4107f4ba30fccb3a",
+  "source": "Auto-generated Types",
+  "text": "Types générés automatiquement",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Types générés automatiquement"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

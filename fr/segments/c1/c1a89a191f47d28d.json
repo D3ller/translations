@@ -1,0 +1,14 @@
+{
+  "hash": "c1a89a191f47d28d",
+  "source": "the page is a parent shell rendering a child that is still server-rendered",
+  "text": "la page est une enveloppe parente qui rend un enfant toujours rendu côté serveur",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "la page est une enveloppe parente qui rend un enfant toujours rendu côté serveur"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

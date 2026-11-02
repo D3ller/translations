@@ -1,0 +1,14 @@
+{
+  "hash": "8093752307975ed9",
+  "source": "{0} - Shared code between app and server",
+  "text": "{0} : code partagé entre l'application et le serveur",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : code partagé entre l'application et le serveur"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

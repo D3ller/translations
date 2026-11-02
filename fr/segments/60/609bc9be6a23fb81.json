@@ -1,0 +1,14 @@
+{
+  "hash": "609bc9be6a23fb81",
+  "source": "{0}: A unique key ensuring that data fetching is properly de-duplicated across requests. If you do not provide a key, then a key that is unique to the file and line number of the instance of {1} will be generated for you.",
+  "text": "{0} : une clé unique garantissant que la récupération de données est correctement dédupliquée entre les requêtes. Si vous ne fournissez pas de clé, une clé unique propre au fichier et au numéro de ligne de l'instance de {1} sera générée pour vous.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : une clé unique garantissant que la récupération de données est correctement dédupliquée entre les requêtes. Si vous ne fournissez pas de clé, une clé unique propre au fichier et au numéro de ligne de l'instance de {1} sera générée pour vous."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

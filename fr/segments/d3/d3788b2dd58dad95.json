@@ -1,0 +1,14 @@
+{
+  "hash": "d3788b2dd58dad95",
+  "source": "Your own server code is not covered by default, because the errors you get are what show you where the work is. When {0} is off, {1} lists the files in your {2} directory that import from {3}, use h3 v1 helpers, or read {4}. If you want to ship the upgrade before doing that work, turn on {5}:",
+  "text": "Votre propre code serveur n'est pas pris en charge par défaut, car les erreurs que vous obtenez vous montrent où se trouve le travail à faire. Lorsque {0} est désactivé, {1} liste les fichiers de votre répertoire {2} qui importent depuis {3}, utilisent les helpers h3 v1 ou lisent {4}. Si vous souhaitez livrer la mise à niveau avant de faire ce travail, activez {5} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Votre propre code serveur n'est pas pris en charge par défaut, car les erreurs que vous obtenez vous montrent où se trouve le travail à faire. Lorsque {0} est désactivé, {1} liste les fichiers de votre répertoire {2} qui importent depuis {3}, utilisent les helpers h3 v1 ou lisent {4}. Si vous souhaitez livrer la mise à niveau avant de faire ce travail, activez {5} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

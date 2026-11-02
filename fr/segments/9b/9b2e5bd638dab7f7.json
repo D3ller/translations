@@ -1,0 +1,14 @@
+{
+  "hash": "9b2e5bd638dab7f7",
+  "source": "{0} is a wrapper around {1} from Vue Router. It should be used instead of {2} because the former takes additional care of internal states. Otherwise, {3} may return incorrect paths.",
+  "text": "{0} est une enveloppe autour de {1} de Vue Router. Il doit être utilisé à la place de {2}, car le premier prend en charge des états internes supplémentaires. Sinon, {3} peut renvoyer des chemins incorrects.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est une enveloppe autour de {1} de Vue Router. Il doit être utilisé à la place de {2}, car le premier prend en charge des états internes supplémentaires. Sinon, {3} peut renvoyer des chemins incorrects."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

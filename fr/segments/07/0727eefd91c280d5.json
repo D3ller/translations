@@ -1,0 +1,14 @@
+{
+  "hash": "0727eefd91c280d5",
+  "source": "A family reduced to a set of {0} is not split into named subsets, so it is not excluded by a {1} filter.",
+  "text": "Une famille réduite à un ensemble de {0} n'est pas découpée en sous-ensembles nommés, elle n'est donc pas exclue par un filtre {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une famille réduite à un ensemble de {0} n'est pas découpée en sous-ensembles nommés, elle n'est donc pas exclue par un filtre {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

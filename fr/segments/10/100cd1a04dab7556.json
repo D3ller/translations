@@ -1,0 +1,14 @@
+{
+  "hash": "100cd1a04dab7556",
+  "source": "Nuxt on StackBlitz",
+  "text": "Nuxt sur StackBlitz",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt sur StackBlitz"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

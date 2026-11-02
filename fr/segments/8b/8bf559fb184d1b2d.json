@@ -1,0 +1,14 @@
+{
+  "hash": "8bf559fb184d1b2d",
+  "source": "Setting HTML Attributes",
+  "text": "Définir des attributs HTML",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définir des attributs HTML"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

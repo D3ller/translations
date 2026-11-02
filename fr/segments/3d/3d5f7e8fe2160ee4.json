@@ -1,0 +1,14 @@
+{
+  "hash": "3d5f7e8fe2160ee4",
+  "source": "Media Query Strategy",
+  "text": "Stratégie de media query",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Stratégie de media query"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

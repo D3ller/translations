@@ -1,0 +1,14 @@
+{
+  "hash": "b769fafb8cefedc0",
+  "source": "To get started, add {0} to your project:",
+  "text": "Pour commencer, ajoutez {0} à votre projet :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour commencer, ajoutez {0} à votre projet :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

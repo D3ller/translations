@@ -1,0 +1,14 @@
+{
+  "hash": "468eb925db690617",
+  "source": "Handle 'pending' and 'error' states directly within your component's template",
+  "text": "Gérez les états 'pending' et 'error' directement dans le template de votre composant",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Gérez les états 'pending' et 'error' directement dans le template de votre composant"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

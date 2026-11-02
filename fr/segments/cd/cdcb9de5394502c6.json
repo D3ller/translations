@@ -1,0 +1,14 @@
+{
+  "hash": "cdcb9de5394502c6",
+  "source": "This file contains the recommended basic TypeScript configuration for your project, including resolved aliases injected by Nuxt or modules you are using, so you can get full type support and path auto-complete for aliases like {0} or {1}.",
+  "text": "Ce fichier contient la configuration TypeScript de base recommandée pour votre projet, y compris les alias résolus injectés par Nuxt ou par les modules que vous utilisez, afin que vous bénéficiez d'une prise en charge complète des types et de l'autocomplétion des chemins pour des alias comme {0} ou {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ce fichier contient la configuration TypeScript de base recommandée pour votre projet, y compris les alias résolus injectés par Nuxt ou par les modules que vous utilisez, afin que vous bénéficiez d'une prise en charge complète des types et de l'autocomplétion des chemins pour des alias comme {0} ou {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

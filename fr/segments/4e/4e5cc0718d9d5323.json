@@ -1,0 +1,14 @@
+{
+  "hash": "4e5cc0718d9d5323",
+  "source": "Note that Nuxt Fonts will only generate CSS for the first font in a {0} declaration. Subsequent fonts in the list will be used to generate metrics for font fallbacks.",
+  "text": "Notez que Nuxt Fonts ne générera du CSS que pour la première police d'une déclaration {0}. Les polices suivantes de la liste serviront à générer les métriques des polices de secours.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Notez que Nuxt Fonts ne générera du CSS que pour la première police d'une déclaration {0}. Les polices suivantes de la liste serviront à générer les métriques des polices de secours."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

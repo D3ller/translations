@@ -1,0 +1,14 @@
+{
+  "hash": "c325a93cb9a2d184",
+  "source": "One of the most valuable roles in open source is taking the time to report bugs helpfully.",
+  "text": "L'un des rôles les plus précieux dans l'open source consiste à prendre le temps de signaler les bugs de manière utile.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'un des rôles les plus précieux dans l'open source consiste à prendre le temps de signaler les bugs de manière utile."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

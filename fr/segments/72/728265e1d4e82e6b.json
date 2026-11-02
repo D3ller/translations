@@ -1,0 +1,14 @@
+{
+  "hash": "728265e1d4e82e6b",
+  "source": "Stricter Side-Effect Imports",
+  "text": "Imports à effet de bord plus stricts",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Imports à effet de bord plus stricts"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

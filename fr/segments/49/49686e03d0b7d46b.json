@@ -1,0 +1,14 @@
+{
+  "hash": "49686e03d0b7d46b",
+  "source": "The layouts directory for Vue layout components",
+  "text": "Le répertoire layouts pour les composants Vue de layout",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le répertoire layouts pour les composants Vue de layout"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "12979f876fcdd684",
+  "source": "{0} is a compiler macro. It must be used as an **exported** declaration in the {1} directory (or any directory scanned by the Nuxt compiler). Nuxt automatically injects de-duplication keys at build time.",
+  "text": "{0} est une macro de compilation. Elle doit être utilisée comme déclaration **exportée** dans le répertoire {1} (ou dans tout répertoire analysé par le compilateur de Nuxt). Nuxt injecte automatiquement des clés de dédoublonnage au moment du build.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est une macro de compilation. Elle doit être utilisée comme déclaration **exportée** dans le répertoire {1} (ou dans tout répertoire analysé par le compilateur de Nuxt). Nuxt injecte automatiquement des clés de dédoublonnage au moment du build."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

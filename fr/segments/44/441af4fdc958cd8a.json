@@ -1,0 +1,14 @@
+{
+  "hash": "441af4fdc958cd8a",
+  "source": "**definition**: A module definition object or a module function. The module definition object should contain the following properties:",
+  "text": "**definition** : un objet de définition de module ou une fonction de module. L'objet de définition de module doit contenir les propriétés suivantes :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**definition** : un objet de définition de module ou une fonction de module. L'objet de définition de module doit contenir les propriétés suivantes :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

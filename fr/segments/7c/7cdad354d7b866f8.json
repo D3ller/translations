@@ -1,0 +1,14 @@
+{
+  "hash": "7cdad354d7b866f8",
+  "source": "If your issue concerns Vue or Vite, please try to reproduce it first with the Vue SSR starter.",
+  "text": "Si votre problème concerne Vue ou Vite, essayez d'abord de le reproduire avec le starter Vue SSR.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si votre problème concerne Vue ou Vite, essayez d'abord de le reproduire avec le starter Vue SSR."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

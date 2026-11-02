@@ -1,0 +1,14 @@
+{
+  "hash": "31c8e1706fc17157",
+  "source": "{0} is a helper subpath import you can use when defining local modules",
+  "text": "{0} est un import de sous-chemin helper que vous pouvez utiliser lors de la définition de modules locaux",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est un import de sous-chemin helper que vous pouvez utiliser lors de la définition de modules locaux"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

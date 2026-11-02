@@ -1,0 +1,14 @@
+{
+  "hash": "71af6d6ac4de8f0c",
+  "source": "The {0} option is no longer accepted by {1} or {2}. It was an alias for {3}.",
+  "text": "L'option {0} n'est plus acceptée par {1} ni {2}. Il s'agissait d'un alias de {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'option {0} n'est plus acceptée par {1} ni {2}. Il s'agissait d'un alias de {3}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

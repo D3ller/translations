@@ -1,0 +1,14 @@
+{
+  "hash": "05d51b9802f57a55",
+  "source": "A maximum of 10 cache tarballs are kept.",
+  "text": "Un maximum de 10 archives tarball de cache sont conservées.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un maximum de 10 archives tarball de cache sont conservées."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

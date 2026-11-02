@@ -1,0 +1,14 @@
+{
+  "hash": "463816d07097e1a7",
+  "source": "Reading",
+  "text": "Lecture",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lecture"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "5235ce34dead3183",
+  "source": "The returned composable's signature includes any custom options and return-value extensions contributed by the {0}addons{/0}.",
+  "text": "La signature du composable retourné inclut les options personnalisées et les extensions de la valeur de retour apportées par les {0}addons{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La signature du composable retourné inclut les options personnalisées et les extensions de la valeur de retour apportées par les {0}addons{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "44ea6b441f9be2d2",
+  "source": "Delete cached data, error status and pending promises of useAsyncData and useFetch.",
+  "text": "Supprime les données en cache, l'état d'erreur et les promesses en attente de useAsyncData et useFetch.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Supprime les données en cache, l'état d'erreur et les promesses en attente de useAsyncData et useFetch."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

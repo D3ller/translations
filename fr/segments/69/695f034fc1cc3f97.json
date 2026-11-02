@@ -1,0 +1,14 @@
+{
+  "hash": "695f034fc1cc3f97",
+  "source": "To globally invalidate cached state, see {0} util.",
+  "text": "Pour invalider globalement l'état mis en cache, consultez l'utilitaire {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour invalider globalement l'état mis en cache, consultez l'utilitaire {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

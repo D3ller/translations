@@ -1,0 +1,14 @@
+{
+  "hash": "35324f7b2d6acd34",
+  "source": "When prerendering a client-rendered app, Nuxt will generate {0}, {1} and {2} files by default. However, if you need to prevent any (or all) of these files from being generated in your build, you can use the {3} hook from {4}Nitro{/4}.",
+  "text": "Lors du prérendu d'une application rendue côté client, Nuxt génère par défaut les fichiers {0}, {1} et {2}. Cependant, si vous devez empêcher la génération de certains de ces fichiers (ou de tous) dans votre build, vous pouvez utiliser le hook {3} de {4}Nitro{/4}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lors du prérendu d'une application rendue côté client, Nuxt génère par défaut les fichiers {0}, {1} et {2}. Cependant, si vous devez empêcher la génération de certains de ces fichiers (ou de tous) dans votre build, vous pouvez utiliser le hook {3} de {4}Nitro{/4}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

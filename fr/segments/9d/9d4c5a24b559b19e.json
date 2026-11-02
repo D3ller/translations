@@ -1,0 +1,14 @@
+{
+  "hash": "9d4c5a24b559b19e",
+  "source": "Use useRequestHeaders to access the incoming request headers.",
+  "text": "Utilisez useRequestHeaders pour accéder aux en-têtes de la requête entrante.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utilisez useRequestHeaders pour accéder aux en-têtes de la requête entrante."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

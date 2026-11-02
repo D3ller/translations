@@ -1,0 +1,14 @@
+{
+  "hash": "09be571717bbf021",
+  "source": "You can use this composable in your components, pages, or plugins to access or react to the current Nuxt error.",
+  "text": "Vous pouvez utiliser ce composable dans vos composants, vos pages ou vos plugins pour accéder à l'erreur Nuxt actuelle ou réagir à celle-ci.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez utiliser ce composable dans vos composants, vos pages ou vos plugins pour accéder à l'erreur Nuxt actuelle ou réagir à celle-ci."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

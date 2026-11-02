@@ -1,0 +1,14 @@
+{
+  "hash": "60f6f6824f4e6a4f",
+  "source": "A path that only matches as the prefix of a route is reported: with only {0}, a link to {1} has no page to render.",
+  "text": "Un chemin qui ne correspond qu'en tant que préfixe d'une route est signalé : avec uniquement {0}, un lien vers {1} n'a aucune page à afficher.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un chemin qui ne correspond qu'en tant que préfixe d'une route est signalé : avec uniquement {0}, un lien vers {1} n'a aucune page à afficher."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

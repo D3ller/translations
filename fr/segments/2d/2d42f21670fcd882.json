@@ -1,0 +1,14 @@
+{
+  "hash": "2d42f21670fcd882",
+  "source": "If you prerender your app with the {0} or {1} commands, then you will not be able to use any server endpoints as no server will be included in your output folder. If you need server functionality, use {2} instead.",
+  "text": "Si vous prérendez votre application avec les commandes {0} ou {1}, vous ne pourrez utiliser aucun endpoint serveur, car aucun serveur ne sera inclus dans votre dossier de sortie. Si vous avez besoin de fonctionnalités serveur, utilisez plutôt {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous prérendez votre application avec les commandes {0} ou {1}, vous ne pourrez utiliser aucun endpoint serveur, car aucun serveur ne sera inclus dans votre dossier de sortie. Si vous avez besoin de fonctionnalités serveur, utilisez plutôt {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

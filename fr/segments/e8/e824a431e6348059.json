@@ -1,0 +1,14 @@
+{
+  "hash": "e824a431e6348059",
+  "source": "The {0} option replaces the deprecated {1} function.",
+  "text": "L'option {0} remplace la fonction obsolète {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'option {0} remplace la fonction obsolète {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

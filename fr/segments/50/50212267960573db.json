@@ -1,0 +1,14 @@
+{
+  "hash": "50212267960573db",
+  "source": "Here is a brief example of how you might access the Vite config from a project; you could implement a similar approach to get the webpack configuration.",
+  "text": "Voici un bref exemple de la manière dont vous pouvez accéder à la configuration Vite depuis un projet ; vous pourriez adopter une approche similaire pour obtenir la configuration webpack.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Voici un bref exemple de la manière dont vous pouvez accéder à la configuration Vite depuis un projet ; vous pourriez adopter une approche similaire pour obtenir la configuration webpack."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

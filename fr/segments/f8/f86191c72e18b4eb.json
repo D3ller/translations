@@ -1,0 +1,14 @@
+{
+  "hash": "f86191c72e18b4eb",
+  "source": "processing {0} and {1} hooks",
+  "text": "le traitement des hooks {0} et {1}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "le traitement des hooks {0} et {1}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

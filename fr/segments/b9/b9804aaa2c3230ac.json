@@ -1,0 +1,14 @@
+{
+  "hash": "b9804aaa2c3230ac",
+  "source": "When enabled, {0} components and {1} wrappers render an HTML comment on the server instead of an empty {2}. This fixes a Vue hydration issue where scoped styles may not be applied when the placeholder {3} and the actual component root share the same tag name.",
+  "text": "Lorsque cette option est activée, les composants {0} et les wrappers {1} génèrent un commentaire HTML sur le serveur au lieu d'un {2} vide. Cela corrige un problème d'hydratation de Vue où les styles scopés peuvent ne pas être appliqués lorsque le {3} servant d'espace réservé et la racine du composant réel partagent le même nom de balise.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque cette option est activée, les composants {0} et les wrappers {1} génèrent un commentaire HTML sur le serveur au lieu d'un {2} vide. Cela corrige un problème d'hydratation de Vue où les styles scopés peuvent ne pas être appliqués lorsque le {3} servant d'espace réservé et la racine du composant réel partagent le même nom de balise."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

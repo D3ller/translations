@@ -1,0 +1,14 @@
+{
+  "hash": "d758d84d2fa33c6f",
+  "source": "TypeScript 6 deprecates {0}, and it is no longer required when using {1}. Removing the option also keeps Nuxt's generated aliases anchored consistently to the generated configuration that contains them.",
+  "text": "TypeScript 6 déprécie {0}, et cette option n'est plus nécessaire lorsque vous utilisez {1}. La supprimer permet aussi de garder les alias générés par Nuxt ancrés de manière cohérente à la configuration générée qui les contient.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "TypeScript 6 déprécie {0}, et cette option n'est plus nécessaire lorsque vous utilisez {1}. La supprimer permet aussi de garder les alias générés par Nuxt ancrés de manière cohérente à la configuration générée qui les contient."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

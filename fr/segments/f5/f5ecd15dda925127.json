@@ -1,0 +1,14 @@
+{
+  "hash": "f5ecd15dda925127",
+  "source": "Enable the {0} option in your Nuxt config:",
+  "text": "Activez l'option {0} dans votre configuration Nuxt :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Activez l'option {0} dans votre configuration Nuxt :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

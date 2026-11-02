@@ -1,0 +1,14 @@
+{
+  "hash": "67d9abe545196f8b",
+  "source": "Then call {0} wherever you used the replaced global.",
+  "text": "Appelez ensuite {0} partout où vous utilisiez la variable globale remplacée.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appelez ensuite {0} partout où vous utilisiez la variable globale remplacée."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

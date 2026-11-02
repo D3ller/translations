@@ -1,0 +1,14 @@
+{
+  "hash": "f9aeed22c5bfb2ca",
+  "source": "Defaults throughout your Nuxt configuration then change to opt in to Nuxt 5 behavior. On Nuxt 4 this covers:",
+  "text": "Les valeurs par défaut de toute votre configuration Nuxt changent alors pour adopter le comportement de Nuxt 5. Sur Nuxt 4, cela couvre :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les valeurs par défaut de toute votre configuration Nuxt changent alors pour adopter le comportement de Nuxt 5. Sur Nuxt 4, cela couvre :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

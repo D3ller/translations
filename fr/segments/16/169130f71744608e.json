@@ -1,0 +1,14 @@
+{
+  "hash": "169130f71744608e",
+  "source": "Form Validation",
+  "text": "Validation de formulaire",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Validation de formulaire"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

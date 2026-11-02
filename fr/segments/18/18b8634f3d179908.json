@@ -1,0 +1,14 @@
+{
+  "hash": "18b8634f3d179908",
+  "source": "Once a day the CLI checks in the background whether a newer Nuxt release exists and, if so, prints a short nudge to run {0} once the command has finished. The {1} dist-tag is read from the registry configured in your {2} and cached in your user-level {3}.",
+  "text": "Une fois par jour, la CLI vérifie en arrière-plan si une version plus récente de Nuxt existe et, le cas échéant, affiche une courte invitation à exécuter {0} une fois la commande terminée. Le dist-tag {1} est lu depuis le registre configuré dans votre {2} et mis en cache dans votre {3} au niveau utilisateur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une fois par jour, la CLI vérifie en arrière-plan si une version plus récente de Nuxt existe et, le cas échéant, affiche une courte invitation à exécuter {0} une fois la commande terminée. Le dist-tag {1} est lu depuis le registre configuré dans votre {2} et mis en cache dans votre {3} au niveau utilisateur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

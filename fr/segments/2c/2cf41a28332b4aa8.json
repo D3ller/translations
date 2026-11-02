@@ -1,0 +1,14 @@
+{
+  "hash": "2cf41a28332b4aa8",
+  "source": "If {0}, the cookie expiration will be refreshed on every explicit write (e.g. {1}), even if the value itself hasn’t changed. Note: the expiration is not refreshed automatically; you must assign to {2} to trigger it.",
+  "text": "Si {0}, l'expiration du cookie sera actualisée à chaque écriture explicite (p. ex. {1}), même si la valeur elle-même n'a pas changé. Note : l'expiration n'est pas actualisée automatiquement ; vous devez affecter une valeur à {2} pour la déclencher.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si {0}, l'expiration du cookie sera actualisée à chaque écriture explicite (p. ex. {1}), même si la valeur elle-même n'a pas changé. Note : l'expiration n'est pas actualisée automatiquement ; vous devez affecter une valeur à {2} pour la déclencher."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

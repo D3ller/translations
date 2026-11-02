@@ -1,0 +1,14 @@
+{
+  "hash": "275b0be49b748f60",
+  "source": "version installed, Nuxt will throw an error on startup.",
+  "text": "installée, Nuxt lèvera une erreur au démarrage.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "installée, Nuxt lèvera une erreur au démarrage."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "781359567ab68699",
+  "source": "Called before initializing Nitro, allowing customization of Nitro's configuration.",
+  "text": "Appelé avant l'initialisation de Nitro, pour permettre de personnaliser sa configuration.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appelé avant l'initialisation de Nitro, pour permettre de personnaliser sa configuration."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

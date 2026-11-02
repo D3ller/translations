@@ -1,0 +1,14 @@
+{
+  "hash": "42b4555633c04eda",
+  "source": "We aim for a tone that is friendly and professional. Write directly to the reader (\"you\"), be concise, and assume good faith: readers come from many different backgrounds and levels of experience, so avoid language that could make anyone feel talked down to. It's fine to be warm - the docs can have personality - but clarity always comes first.",
+  "text": "Nous visons un ton à la fois amical et professionnel. Adressez-vous directement au lecteur (« vous »), soyez concis et partez du principe de la bonne foi : les lecteurs viennent d'horizons et de niveaux d'expérience très variés, évitez donc tout langage pouvant donner à quelqu'un l'impression d'être pris de haut. Il est tout à fait possible d'être chaleureux – la documentation peut avoir de la personnalité – mais la clarté passe toujours en premier.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nous visons un ton à la fois amical et professionnel. Adressez-vous directement au lecteur (« vous »), soyez concis et partez du principe de la bonne foi : les lecteurs viennent d'horizons et de niveaux d'expérience très variés, évitez donc tout langage pouvant donner à quelqu'un l'impression d'être pris de haut. Il est tout à fait possible d'être chaleureux – la documentation peut avoir de la personnalité – mais la clarté passe toujours en premier."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

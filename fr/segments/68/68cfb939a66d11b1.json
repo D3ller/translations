@@ -1,0 +1,14 @@
+{
+  "hash": "68cfb939a66d11b1",
+  "source": "Behind the scenes, {0} performs a number of tasks in {1}, {2}, {3} and {4} to set up the Nuxt test environment correctly.",
+  "text": "En coulisses, {0} effectue un certain nombre de tâches dans {1}, {2}, {3} et {4} afin de configurer correctement l'environnement de test Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En coulisses, {0} effectue un certain nombre de tâches dans {1}, {2}, {3} et {4} afin de configurer correctement l'environnement de test Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

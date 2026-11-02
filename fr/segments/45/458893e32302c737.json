@@ -1,0 +1,14 @@
+{
+  "hash": "458893e32302c737",
+  "source": "First, it will run your test suite by:",
+  "text": "Tout d'abord, il exécute votre suite de tests en :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Tout d'abord, il exécute votre suite de tests en :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "9e111a3f2e20c84b",
+  "source": "Some templates support additional modifier flags to add a suffix (like {0} or {1}) to their name.",
+  "text": "Certains templates prennent en charge des options de modification supplémentaires pour ajouter un suffixe (comme {0} ou {1}) à leur nom.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Certains templates prennent en charge des options de modification supplémentaires pour ajouter un suffixe (comme {0} ou {1}) à leur nom."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

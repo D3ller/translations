@@ -1,0 +1,14 @@
+{
+  "hash": "a1b6985bb011f87a",
+  "source": "This warning is reported unless {0} is disabled. {1} is not reported: a server component emits {2} when it fails to load.",
+  "text": "Cet avertissement est signalé sauf si {0} est désactivé. {1} n'est pas signalé : un composant serveur émet {2} lorsqu'il ne parvient pas à se charger.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cet avertissement est signalé sauf si {0} est désactivé. {1} n'est pas signalé : un composant serveur émet {2} lorsqu'il ne parvient pas à se charger."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "c6a61b991180ad21",
+  "source": "Now you can proceed to publish the module to npm, either publicly or privately.",
+  "text": "Vous pouvez maintenant publier le module sur npm, publiquement ou en privé.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez maintenant publier le module sur npm, publiquement ou en privé."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

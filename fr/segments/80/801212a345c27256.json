@@ -1,0 +1,14 @@
+{
+  "hash": "801212a345c27256",
+  "source": "When developing, you may face hydration issues. Don't ignore those warnings.",
+  "text": "Pendant le développement, vous pouvez rencontrer des problèmes d'hydratation. N'ignorez pas ces avertissements.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pendant le développement, vous pouvez rencontrer des problèmes d'hydratation. N'ignorez pas ces avertissements."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

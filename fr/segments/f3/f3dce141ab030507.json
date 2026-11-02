@@ -1,0 +1,14 @@
+{
+  "hash": "f3dce141ab030507",
+  "source": "{0} is a helper function for defining type safe Vue components using options API similar to {1}. {2} wrapper also adds support for {3} and {4} component options.",
+  "text": "{0} est une fonction helper permettant de définir des composants Vue avec un typage sûr en utilisant l'options API, de manière similaire à {1}. Le wrapper {2} ajoute également la prise en charge des options de composant {3} et {4}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est une fonction helper permettant de définir des composants Vue avec un typage sûr en utilisant l'options API, de manière similaire à {1}. Le wrapper {2} ajoute également la prise en charge des options de composant {3} et {4}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

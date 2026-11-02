@@ -1,0 +1,14 @@
+{
+  "hash": "2a42d1e20f68a108",
+  "source": "3\\. Dev Containers CLI",
+  "text": "3\\. CLI Dev Containers",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "3\\. CLI Dev Containers"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

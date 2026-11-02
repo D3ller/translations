@@ -1,0 +1,14 @@
+{
+  "hash": "4e4434d65a289921",
+  "source": "{0} returns the preflight {1} to return from the handler, or {2}: {3}.",
+  "text": "{0} renvoie la {1} preflight à retourner depuis le handler, ou {2} : {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} renvoie la {1} preflight à retourner depuis le handler, ou {2} : {3}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

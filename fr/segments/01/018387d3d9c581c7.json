@@ -1,0 +1,14 @@
+{
+  "hash": "018387d3d9c581c7",
+  "source": "First, remove the plugin where you are manually registering the Composition API. Nuxt Bridge will handle this for you.",
+  "text": "Commencez par supprimer le plugin dans lequel vous enregistrez manuellement la Composition API. Nuxt Bridge s'en charge pour vous.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Commencez par supprimer le plugin dans lequel vous enregistrez manuellement la Composition API. Nuxt Bridge s'en charge pour vous."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

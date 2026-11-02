@@ -1,0 +1,14 @@
+{
+  "hash": "763a26a6145ded76",
+  "source": "Read more about lazy hydration.",
+  "text": "En savoir plus sur l'hydratation différée.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En savoir plus sur l'hydratation différée."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

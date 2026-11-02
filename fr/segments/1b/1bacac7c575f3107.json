@@ -1,0 +1,14 @@
+{
+  "hash": "1bacac7c575f3107",
+  "source": "Nuxt layers provide a powerful way to share and extend functionality across projects. When working with layers in modules, you often need to access directory paths from each layer. Nuxt Kit provides the {0} utility to access resolved directory paths for all layers in your Nuxt application.",
+  "text": "Les layers (couches) de Nuxt offrent un moyen puissant de partager et d'étendre des fonctionnalités entre plusieurs projets. Lorsque vous travaillez avec des layers dans des modules, vous avez souvent besoin d'accéder aux chemins des répertoires de chaque layer. Nuxt Kit fournit l'utilitaire {0} pour accéder aux chemins de répertoires résolus de tous les layers de votre application Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les layers (couches) de Nuxt offrent un moyen puissant de partager et d'étendre des fonctionnalités entre plusieurs projets. Lorsque vous travaillez avec des layers dans des modules, vous avez souvent besoin d'accéder aux chemins des répertoires de chaque layer. Nuxt Kit fournit l'utilitaire {0} pour accéder aux chemins de répertoires résolus de tous les layers de votre application Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

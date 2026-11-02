@@ -1,0 +1,14 @@
+{
+  "hash": "74f330110a410171",
+  "source": "We can use {0} to easily set a response header on a per-page basis.",
+  "text": "Vous pouvez utiliser {0} pour définir facilement un en-tête de réponse page par page.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez utiliser {0} pour définir facilement un en-tête de réponse page par page."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

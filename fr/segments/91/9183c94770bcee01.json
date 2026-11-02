@@ -1,0 +1,14 @@
+{
+  "hash": "9183c94770bcee01",
+  "source": "Cross-platform support for Node.js, browsers, service workers and more.",
+  "text": "Prise en charge multiplateforme de Node.js, des navigateurs, des service workers et plus encore.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Prise en charge multiplateforme de Node.js, des navigateurs, des service workers et plus encore."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

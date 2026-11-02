@@ -1,0 +1,14 @@
+{
+  "hash": "f816beeb39bba147",
+  "source": "Nuxt tries to automatically generate a typescript interface from provided runtime config using {0}unjs/untyped{/0}.",
+  "text": "Nuxt essaie de générer automatiquement une interface TypeScript à partir de la runtime config fournie en utilisant {0}unjs/untyped{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt essaie de générer automatiquement une interface TypeScript à partir de la runtime config fournie en utilisant {0}unjs/untyped{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

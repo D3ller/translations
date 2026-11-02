@@ -1,0 +1,14 @@
+{
+  "hash": "c90afcfc07d627ed",
+  "source": "For more advanced configurations, use {0}.",
+  "text": "Pour des configurations plus avancées, utilisez {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour des configurations plus avancées, utilisez {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

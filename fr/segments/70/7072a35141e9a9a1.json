@@ -1,0 +1,14 @@
+{
+  "hash": "7072a35141e9a9a1",
+  "source": "A minimal Nuxt layer directory should contain a {0} file to indicate it is a layer.",
+  "text": "Un répertoire de layer Nuxt minimal doit contenir un fichier {0} pour indiquer qu'il s'agit d'un layer.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un répertoire de layer Nuxt minimal doit contenir un fichier {0} pour indiquer qu'il s'agit d'un layer."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

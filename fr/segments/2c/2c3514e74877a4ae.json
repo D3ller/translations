@@ -1,0 +1,14 @@
+{
+  "hash": "2c3514e74877a4ae",
+  "source": "{0} provides helpers for two different test environments:",
+  "text": "{0} fournit des helpers pour deux environnements de test différents :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} fournit des helpers pour deux environnements de test différents :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "5b11525dcd098817",
+  "source": "**{0}**: The value for that key: a (possibly async) function returning the module body as a string, read lazily when the server build resolves the corresponding {1} import.",
+  "text": "**{0}** : la valeur associée à cette clé, c'est-à-dire une fonction (éventuellement asynchrone) qui retourne le corps du module sous forme de chaîne, lue de manière différée lorsque le build serveur résout l'import {1} correspondant.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** : la valeur associée à cette clé, c'est-à-dire une fonction (éventuellement asynchrone) qui retourne le corps du module sous forme de chaîne, lue de manière différée lorsque le build serveur résout l'import {1} correspondant."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "e424f2d8beeee136",
+  "source": "{0} now defaults to {1} outside of dev mode, so rather than producing a build with a missing font, the build fails when no provider can serve a family, when a font file cannot be downloaded after retries, or when you set {2} on a family and that provider does not contain it.",
+  "text": "{0} vaut désormais {1} par défaut en dehors du mode dev ; ainsi, plutôt que de produire un build avec une police manquante, le build échoue lorsqu'aucun fournisseur ne peut servir une famille, lorsqu'un fichier de police ne peut pas être téléchargé après plusieurs tentatives, ou lorsque vous définissez {2} sur une famille et que ce fournisseur ne la contient pas.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} vaut désormais {1} par défaut en dehors du mode dev ; ainsi, plutôt que de produire un build avec une police manquante, le build échoue lorsqu'aucun fournisseur ne peut servir une famille, lorsqu'un fichier de police ne peut pas être téléchargé après plusieurs tentatives, ou lorsque vous définissez {2} sur une famille et que ce fournisseur ne la contient pas."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

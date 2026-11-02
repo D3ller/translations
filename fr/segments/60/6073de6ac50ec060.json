@@ -1,0 +1,14 @@
+{
+  "hash": "6073de6ac50ec060",
+  "source": "{0}Node.js in native ESM mode{/0}, {1}typescript with {2} enabled{/1} and bundlers such as webpack, provide a compatibility mechanism so that we can default import such library. This mechanism is often referred to as \"interop require default\":",
+  "text": "{0}Node.js en mode ESM natif{/0}, {1}TypeScript avec {2} activé{/1} et les bundlers tels que webpack fournissent un mécanisme de compatibilité qui permet d'importer par défaut une telle bibliothèque. Ce mécanisme est souvent appelé « interop require default » :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}Node.js en mode ESM natif{/0}, {1}TypeScript avec {2} activé{/1} et les bundlers tels que webpack fournissent un mécanisme de compatibilité qui permet d'importer par défaut une telle bibliothèque. Ce mécanisme est souvent appelé « interop require default » :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

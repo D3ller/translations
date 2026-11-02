@@ -1,0 +1,14 @@
+{
+  "hash": "37bc622ea06c93a1",
+  "source": "{0} exposes data and state variables from server side to client side. The following keys will be available on the client after they have been passed from the server side:",
+  "text": "{0} expose des données et des variables d'état du côté serveur vers le côté client. Les clés suivantes sont disponibles sur le client après avoir été transmises depuis le serveur :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} expose des données et des variables d'état du côté serveur vers le côté client. Les clés suivantes sont disponibles sur le client après avoir été transmises depuis le serveur :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

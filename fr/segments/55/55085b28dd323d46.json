@@ -1,0 +1,14 @@
+{
+  "hash": "55085b28dd323d46",
+  "source": "On a large app the prefetched set can grow past what a page actually needs. A public page and the signed-in app often share an entry chunk, so a prerendered public page can prefetch chunks that only the signed-in app uses, spending bandwidth on chunks the visitor never loads.",
+  "text": "Dans une grande application, l'ensemble préchargé peut dépasser ce dont une page a réellement besoin. Une page publique et l'application connectée partagent souvent un chunk d'entrée, si bien qu'une page publique prérendue peut précharger des chunks que seule l'application connectée utilise, gaspillant de la bande passante pour des chunks que le visiteur ne charge jamais.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans une grande application, l'ensemble préchargé peut dépasser ce dont une page a réellement besoin. Une page publique et l'application connectée partagent souvent un chunk d'entrée, si bien qu'une page publique prérendue peut précharger des chunks que seule l'application connectée utilise, gaspillant de la bande passante pour des chunks que le visiteur ne charge jamais."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

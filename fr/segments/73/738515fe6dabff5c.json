@@ -1,0 +1,14 @@
+{
+  "hash": "738515fe6dabff5c",
+  "source": "When you {0} a module rather than {1} it, Node.js resolves it differently. For example, when you import {2}, Node.js will look for the {3} entry in that library's {4}, or fall back to the {5} entry if {6} is not defined.",
+  "text": "Lorsque vous utilisez {0} sur un module plutôt que {1}, Node.js le résout différemment. Par exemple, lorsque vous importez {2}, Node.js recherche l'entrée {3} dans le {4} de cette bibliothèque, ou se rabat sur l'entrée {5} si {6} n'est pas défini.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque vous utilisez {0} sur un module plutôt que {1}, Node.js le résout différemment. Par exemple, lorsque vous importez {2}, Node.js recherche l'entrée {3} dans le {4} de cette bibliothèque, ou se rabat sur l'entrée {5} si {6} n'est pas défini."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

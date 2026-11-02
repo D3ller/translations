@@ -1,0 +1,14 @@
+{
+  "hash": "9c7338c4c07c128b",
+  "source": "This would be unsafe in a dynamic page (e.g. {0}) because the route slug makes a difference",
+  "text": "Ce serait risqué dans une page dynamique (par ex. {0}) car le slug de la route a une incidence",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ce serait risqué dans une page dynamique (par ex. {0}) car le slug de la route a une incidence"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

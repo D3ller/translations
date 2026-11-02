@@ -1,0 +1,14 @@
+{
+  "hash": "482cb59efd44344e",
+  "source": "This is similar to using {0} with external content - the remote server can inject any HTML, including potentially malicious content. **Only use {1} with servers you fully trust and control.**",
+  "text": "C'est comparable à l'utilisation de {0} avec du contenu externe : le serveur distant peut injecter n'importe quel HTML, y compris du contenu potentiellement malveillant. **N'utilisez {1} qu'avec des serveurs auxquels vous faites entièrement confiance et que vous contrôlez.**",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "C'est comparable à l'utilisation de {0} avec du contenu externe : le serveur distant peut injecter n'importe quel HTML, y compris du contenu potentiellement malveillant. **N'utilisez {1} qu'avec des serveurs auxquels vous faites entièrement confiance et que vous contrôlez.**"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

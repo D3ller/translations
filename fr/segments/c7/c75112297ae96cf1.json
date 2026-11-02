@@ -1,0 +1,14 @@
+{
+  "hash": "c75112297ae96cf1",
+  "source": "If your server build bundles the files the app build wrote, rather than inlining module bodies, you need to know where those files are. Ask the build description:",
+  "text": "Si votre build serveur inclut dans son bundle les fichiers écrits par le build de l'application, au lieu d'intégrer directement le corps des modules, vous devez savoir où se trouvent ces fichiers. Interrogez la description du build :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si votre build serveur inclut dans son bundle les fichiers écrits par le build de l'application, au lieu d'intégrer directement le corps des modules, vous devez savoir où se trouvent ces fichiers. Interrogez la description du build :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

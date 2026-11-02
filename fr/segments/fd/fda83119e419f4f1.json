@@ -1,0 +1,14 @@
+{
+  "hash": "fda83119e419f4f1",
+  "source": "{0} now defaults to {1}, so page routes match URLs case-sensitively, consistent with Nitro. For example, {2} no longer matches {3}.",
+  "text": "{0} vaut désormais {1} par défaut : les routes des pages correspondent donc aux URL en tenant compte de la casse, comme Nitro. Par exemple, {2} ne correspond plus à {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} vaut désormais {1} par défaut : les routes des pages correspondent donc aux URL en tenant compte de la casse, comme Nitro. Par exemple, {2} ne correspond plus à {3}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

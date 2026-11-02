@@ -1,0 +1,14 @@
+{
+  "hash": "e1c99559b56a753f",
+  "source": "Running commands",
+  "text": "Exécution des commandes",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Exécution des commandes"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

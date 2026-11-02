@@ -1,0 +1,14 @@
+{
+  "hash": "0c817863a8869fca",
+  "source": "Nuxt provides a layouts framework to extract common UI patterns into reusable layouts.",
+  "text": "Nuxt fournit un système de layouts permettant d'extraire les motifs d'interface courants dans des layouts réutilisables.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt fournit un système de layouts permettant d'extraire les motifs d'interface courants dans des layouts réutilisables."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

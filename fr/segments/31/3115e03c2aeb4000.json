@@ -1,0 +1,14 @@
+{
+  "hash": "3115e03c2aeb4000",
+  "source": "Use the {0} filename convention to declare a named view alongside the default route file:",
+  "text": "Utilisez la convention de nommage de fichier {0} pour déclarer une vue nommée à côté du fichier de route par défaut :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utilisez la convention de nommage de fichier {0} pour déclarer une vue nommée à côté du fichier de route par défaut :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

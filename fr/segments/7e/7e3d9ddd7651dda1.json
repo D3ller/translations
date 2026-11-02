@@ -1,0 +1,14 @@
+{
+  "hash": "7e3d9ddd7651dda1",
+  "source": "At the moment, it prints out hook names and timings on the server, and logs hook arguments as well in the browser. You can also set this to an object to enable specific debug options.",
+  "text": "Pour le moment, cela affiche les noms des hooks et leurs durées côté serveur, et consigne également les arguments des hooks dans le navigateur. Vous pouvez aussi définir cette option sur un objet pour activer des options de débogage spécifiques.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour le moment, cela affiche les noms des hooks et leurs durées côté serveur, et consigne également les arguments des hooks dans le navigateur. Vous pouvez aussi définir cette option sur un objet pour activer des options de débogage spécifiques."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

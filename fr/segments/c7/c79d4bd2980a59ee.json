@@ -1,0 +1,14 @@
+{
+  "hash": "c79d4bd2980a59ee",
+  "source": "We are still working on Nitro v3 integration so you should expect further changes, as well as additional work to make migration more straightforward.",
+  "text": "Nous travaillons encore sur l'intégration de Nitro v3 : d'autres changements sont donc à prévoir, ainsi que du travail supplémentaire pour simplifier la migration.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nous travaillons encore sur l'intégration de Nitro v3 : d'autres changements sont donc à prévoir, ainsi que du travail supplémentaire pour simplifier la migration."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

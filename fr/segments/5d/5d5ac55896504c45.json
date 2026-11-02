@@ -1,0 +1,14 @@
+{
+  "hash": "5d5ac55896504c45",
+  "source": "**{0}**: Lists all available Nuxt documentation pages with their categories and basic information. Supports version filtering (3.x, 4.x, or all)",
+  "text": "**{0}** : liste toutes les pages de documentation Nuxt disponibles avec leurs catégories et des informations de base. Prend en charge le filtrage par version (3.x, 4.x ou toutes)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** : liste toutes les pages de documentation Nuxt disponibles avec leurs catégories et des informations de base. Prend en charge le filtrage par version (3.x, 4.x ou toutes)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

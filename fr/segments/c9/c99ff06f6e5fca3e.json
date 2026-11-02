@@ -1,0 +1,14 @@
+{
+  "hash": "c99ff06f6e5fca3e",
+  "source": "Reduce the differences with Nuxt 3 and reduce the burden of migration to Nuxt 3.",
+  "text": "Réduisez les différences avec Nuxt 3 et allégez la charge de la migration vers Nuxt 3.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Réduisez les différences avec Nuxt 3 et allégez la charge de la migration vers Nuxt 3."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

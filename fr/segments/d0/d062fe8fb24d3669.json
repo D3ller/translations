@@ -1,0 +1,14 @@
+{
+  "hash": "d062fe8fb24d3669",
+  "source": "The {0}{1} provider{/0} resolves {2} when {3} is installed.",
+  "text": "Le {0}fournisseur {1}{/0} résout {2} lorsque {3} est installé.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le {0}fournisseur {1}{/0} résout {2} lorsque {3} est installé."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "d310107ae6e78dee",
+  "source": "Have {0} installed as a dependency",
+  "text": "Avoir {0} installé comme dépendance",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Avoir {0} installé comme dépendance"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

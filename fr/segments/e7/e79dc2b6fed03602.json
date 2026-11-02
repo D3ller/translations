@@ -1,0 +1,14 @@
+{
+  "hash": "e79dc2b6fed03602",
+  "source": "{0}: The type of browser to launch - either {1}, {2} or {3}",
+  "text": "{0} : le type de navigateur à lancer, soit {1}, {2} ou {3}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : le type de navigateur à lancer, soit {1}, {2} ou {3}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "3968aea6108fcf5d",
+  "source": "Loads only the required chunks to render the request for optimal cold start timing{0}",
+  "text": "Ne charge que les chunks nécessaires au rendu de la requête pour un temps de démarrage à froid optimal{0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ne charge que les chunks nécessaires au rendu de la requête pour un temps de démarrage à froid optimal{0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "07d11aa2ec67e3e7",
+  "source": "There's nothing to change on your side, but a build that silently shipped no web fonts now downloads them and serves them from {0}. See {1}builder support{/1}.",
+  "text": "Vous n'avez rien à modifier de votre côté, mais un build qui n'embarquait silencieusement aucune police web les télécharge désormais et les sert depuis {0}. Consultez {1}la prise en charge des builders{/1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous n'avez rien à modifier de votre côté, mais un build qui n'embarquait silencieusement aucune police web les télécharge désormais et les sert depuis {0}. Consultez {1}la prise en charge des builders{/1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "5b09db76e48e7aa2",
+  "source": "Here are some common patterns used by module authors.",
+  "text": "Voici quelques schémas courants utilisés par les auteurs de modules.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Voici quelques schémas courants utilisés par les auteurs de modules."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

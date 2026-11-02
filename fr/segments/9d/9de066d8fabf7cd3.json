@@ -1,0 +1,14 @@
+{
+  "hash": "9de066d8fabf7cd3",
+  "source": "Specify build-time log level",
+  "text": "Spécifiez le niveau de journalisation au moment du build",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Spécifiez le niveau de journalisation au moment du build"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

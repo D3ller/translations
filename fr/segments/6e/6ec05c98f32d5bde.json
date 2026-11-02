@@ -1,0 +1,14 @@
+{
+  "hash": "6ec05c98f32d5bde",
+  "source": "addRouteMiddleware() is a helper function to dynamically add middleware in your application.",
+  "text": "addRouteMiddleware() est une fonction helper permettant d'ajouter dynamiquement un middleware dans votre application.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "addRouteMiddleware() est une fonction helper permettant d'ajouter dynamiquement un middleware dans votre application."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

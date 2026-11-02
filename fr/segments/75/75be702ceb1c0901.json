@@ -1,0 +1,14 @@
+{
+  "hash": "75be702ceb1c0901",
+  "source": "This also means that when you need to access public runtime config, it's behind a property called {0}. If you use public runtime config, you'll need to update your code.",
+  "text": "Cela signifie également que lorsque vous avez besoin d'accéder au runtime config public, il se trouve derrière une propriété appelée {0}. Si vous utilisez le runtime config public, vous devrez mettre à jour votre code.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela signifie également que lorsque vous avez besoin d'accéder au runtime config public, il se trouve derrière une propriété appelée {0}. Si vous utilisez le runtime config public, vous devrez mettre à jour votre code."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

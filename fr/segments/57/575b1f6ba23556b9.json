@@ -1,0 +1,14 @@
+{
+  "hash": "575b1f6ba23556b9",
+  "source": "Nuxt uses a custom merging strategy for the {0} within {1}the layers{/1} of your application.",
+  "text": "Nuxt utilise une stratégie de fusion personnalisée pour {0} au sein des {1}layers (couches){/1} de votre application.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt utilise une stratégie de fusion personnalisée pour {0} au sein des {1}layers (couches){/1} de votre application."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

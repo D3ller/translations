@@ -1,0 +1,14 @@
+{
+  "hash": "de956bb4bf1486fe",
+  "source": "Removal of Legacy {0} Support",
+  "text": "Suppression de la prise en charge héritée de {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Suppression de la prise en charge héritée de {0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

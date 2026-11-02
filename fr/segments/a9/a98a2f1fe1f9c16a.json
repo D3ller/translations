@@ -1,0 +1,14 @@
+{
+  "hash": "a98a2f1fe1f9c16a",
+  "source": "Server routes can use dynamic parameters within brackets in the file name like {0} and be accessed via {1}.",
+  "text": "Les routes serveur peuvent utiliser des paramètres dynamiques entre crochets dans le nom du fichier, comme {0}, et être appelées via {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les routes serveur peuvent utiliser des paramètres dynamiques entre crochets dans le nom du fichier, comme {0}, et être appelées via {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

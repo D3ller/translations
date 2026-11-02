@@ -1,0 +1,14 @@
+{
+  "hash": "7223fb8e57371b97",
+  "source": "Remove the {0} key in your {1}.",
+  "text": "Supprimez la clé {0} dans votre {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Supprimez la clé {0} dans votre {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

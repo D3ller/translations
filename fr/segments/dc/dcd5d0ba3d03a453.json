@@ -1,0 +1,14 @@
+{
+  "hash": "dcd5d0ba3d03a453",
+  "source": "Default values for view transitions.",
+  "text": "Valeurs par défaut des transitions de vue.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Valeurs par défaut des transitions de vue."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

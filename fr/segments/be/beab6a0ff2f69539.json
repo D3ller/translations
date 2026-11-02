@@ -1,0 +1,14 @@
+{
+  "hash": "beab6a0ff2f69539",
+  "source": "Check out {0}the h3 docs{/0} for more information.",
+  "text": "Consultez {0}la documentation de h3{/0} pour plus d'informations.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Consultez {0}la documentation de h3{/0} pour plus d'informations."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

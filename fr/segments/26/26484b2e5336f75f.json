@@ -1,0 +1,14 @@
+{
+  "hash": "26484b2e5336f75f",
+  "source": "You can call this function at any point on client-side, or (on server side) directly within middleware, plugins or {0} functions. It will trigger a full-screen error page which you can clear with {1}.",
+  "text": "Vous pouvez appeler cette fonction à tout moment côté client, ou (côté serveur) directement dans un middleware, des plugins ou des fonctions {0}. Elle déclenche une page d'erreur plein écran que vous pouvez effacer avec {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez appeler cette fonction à tout moment côté client, ou (côté serveur) directement dans un middleware, des plugins ou des fonctions {0}. Elle déclenche une page d'erreur plein écran que vous pouvez effacer avec {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

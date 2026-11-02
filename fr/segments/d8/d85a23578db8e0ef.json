@@ -1,0 +1,14 @@
+{
+  "hash": "d85a23578db8e0ef",
+  "source": "Route middleware run within the Vue part of your Nuxt app. Despite the similar name, they are completely different from {0}server middleware{/0}, which are run in the Nitro server part of your app.",
+  "text": "Les middleware de route s'exécutent dans la partie Vue de votre application Nuxt. Malgré la similarité des noms, ils sont complètement différents des {0}middleware serveur{/0}, qui s'exécutent dans la partie serveur Nitro de votre application.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les middleware de route s'exécutent dans la partie Vue de votre application Nuxt. Malgré la similarité des noms, ils sont complètement différents des {0}middleware serveur{/0}, qui s'exécutent dans la partie serveur Nitro de votre application."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

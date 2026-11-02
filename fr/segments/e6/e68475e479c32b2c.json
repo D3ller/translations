@@ -1,0 +1,14 @@
+{
+  "hash": "e68475e479c32b2c",
+  "source": "This can be set to a different value at runtime by setting the {0} environment variable.",
+  "text": "Cette valeur peut être modifiée à l'exécution en définissant la variable d'environnement {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cette valeur peut être modifiée à l'exécution en définissant la variable d'environnement {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

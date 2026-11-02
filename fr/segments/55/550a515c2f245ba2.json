@@ -1,0 +1,14 @@
+{
+  "hash": "550a515c2f245ba2",
+  "source": "Request header in {0} form. Can be repeated.",
+  "text": "En-tête de requête sous la forme {0}. Peut être répété.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En-tête de requête sous la forme {0}. Peut être répété."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

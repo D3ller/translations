@@ -1,0 +1,14 @@
+{
+  "hash": "8a14c4f2abdbf656",
+  "source": "If you rely on the placeholder {0} to inherit attributes ({1}, {2}, etc.) for layout purposes (e.g., reserving space to prevent layout shift), wrap the component in {3} with a {4} slot instead:",
+  "text": "Si vous vous appuyez sur le {0} de remplacement pour hériter d'attributs ({1}, {2}, etc.) à des fins de mise en page (par exemple, réserver de l'espace pour éviter un décalage de mise en page), enveloppez plutôt le composant dans {3} avec un slot {4} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous vous appuyez sur le {0} de remplacement pour hériter d'attributs ({1}, {2}, etc.) à des fins de mise en page (par exemple, réserver de l'espace pour éviter un décalage de mise en page), enveloppez plutôt le composant dans {3} avec un slot {4} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

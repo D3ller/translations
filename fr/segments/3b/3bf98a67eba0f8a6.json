@@ -1,0 +1,14 @@
+{
+  "hash": "3bf98a67eba0f8a6",
+  "source": "Adding other test directories",
+  "text": "Ajouter d'autres répertoires de tests",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ajouter d'autres répertoires de tests"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

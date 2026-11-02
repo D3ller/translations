@@ -1,0 +1,14 @@
+{
+  "hash": "671d4cc600d369cb",
+  "source": "Nuxt Bridge also provides a Nuxt 3-compatible meta implementation that can be accessed with the {0} composable.",
+  "text": "Nuxt Bridge fournit également une implémentation des meta compatible avec Nuxt 3, accessible avec le composable {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt Bridge fournit également une implémentation des meta compatible avec Nuxt 3, accessible avec le composable {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

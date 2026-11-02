@@ -1,0 +1,14 @@
+{
+  "hash": "e5e0df33fa3b278e",
+  "source": "Note that this will override any middleware set in {0} in the page",
+  "text": "Notez que cela écrasera tout middleware défini dans {0} dans la page",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Notez que cela écrasera tout middleware défini dans {0} dans la page"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

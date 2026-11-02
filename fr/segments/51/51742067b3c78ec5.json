@@ -1,0 +1,14 @@
+{
+  "hash": "51742067b3c78ec5",
+  "source": "Need a custom {0} with pre-defined defaults? Use {1} to create a fully typed custom composable. See the {2}custom useFetch recipe{/2} for details.",
+  "text": "Besoin d'un {0} personnalisé avec des valeurs par défaut prédéfinies ? Utilisez {1} pour créer un composable personnalisé entièrement typé. Consultez la {2}recette useFetch personnalisé{/2} pour plus de détails.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Besoin d'un {0} personnalisé avec des valeurs par défaut prédéfinies ? Utilisez {1} pour créer un composable personnalisé entièrement typé. Consultez la {2}recette useFetch personnalisé{/2} pour plus de détails."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

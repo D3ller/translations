@@ -1,0 +1,14 @@
+{
+  "hash": "50251f2071f2873d",
+  "source": "Create resolver to resolve relative paths",
+  "text": "Créer un resolver pour résoudre les chemins relatifs",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Créer un resolver pour résoudre les chemins relatifs"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

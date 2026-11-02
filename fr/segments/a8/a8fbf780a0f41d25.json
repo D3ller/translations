@@ -1,0 +1,14 @@
+{
+  "hash": "a8fbf780a0f41d25",
+  "source": "{0} reduces every font file we emit to the characters needed to render the text you give it, which can dramatically cut the bytes shipped for icon fonts and single-language sites.",
+  "text": "{0} réduit chaque fichier de police que nous générons aux seuls caractères nécessaires pour afficher le texte que vous fournissez, ce qui peut réduire considérablement le poids des polices d'icônes et des sites monolingues.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} réduit chaque fichier de police que nous générons aux seuls caractères nécessaires pour afficher le texte que vous fournissez, ce qui peut réduire considérablement le poids des polices d'icônes et des sites monolingues."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

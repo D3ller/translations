@@ -1,0 +1,14 @@
+{
+  "hash": "6b535cdba8507bb9",
+  "source": "On Nuxt 5 the same names are auto-imported from {0}, so explicit imports written on Nuxt 4.6 keep working unchanged.",
+  "text": "Sur Nuxt 5, les mêmes noms sont importés automatiquement depuis {0}, de sorte que les imports explicites écrits sur Nuxt 4.6 continuent de fonctionner sans modification.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sur Nuxt 5, les mêmes noms sont importés automatiquement depuis {0}, de sorte que les imports explicites écrits sur Nuxt 4.6 continuent de fonctionner sans modification."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

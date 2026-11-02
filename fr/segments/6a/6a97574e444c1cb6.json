@@ -1,0 +1,14 @@
+{
+  "hash": "6a97574e444c1cb6",
+  "source": "If you have explicit imports in server code, update them:",
+  "text": "Si vous avez des imports explicites dans le code serveur, mettez-les à jour :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous avez des imports explicites dans le code serveur, mettez-les à jour :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

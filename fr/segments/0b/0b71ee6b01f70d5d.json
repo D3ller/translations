@@ -1,0 +1,14 @@
+{
+  "hash": "0b71ee6b01f70d5d",
+  "source": "nuxt build",
+  "text": "nuxt build",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "nuxt build"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

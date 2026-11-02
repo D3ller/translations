@@ -1,0 +1,14 @@
+{
+  "hash": "fbd2edfb95bc68ce",
+  "source": "In this case, the component name would be {0}, as far as Vue is concerned. If you wanted to use {1} with it, or identify it in the Vue DevTools, you would need to use this name.",
+  "text": "Dans ce cas, le nom du composant serait {0}, du point de vue de Vue. Si vous vouliez utiliser {1} avec lui, ou l'identifier dans les Vue DevTools, vous deviez utiliser ce nom.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans ce cas, le nom du composant serait {0}, du point de vue de Vue. Si vous vouliez utiliser {1} avec lui, ou l'identifier dans les Vue DevTools, vous deviez utiliser ce nom."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

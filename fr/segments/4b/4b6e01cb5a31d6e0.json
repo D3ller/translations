@@ -1,0 +1,14 @@
+{
+  "hash": "4b6e01cb5a31d6e0",
+  "source": "**{0}**. Serve this for unmatched paths when you want the client router to handle the URL.",
+  "text": "**{0}** : servez-le pour les chemins sans correspondance lorsque vous souhaitez que le routeur côté client gère l'URL.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** : servez-le pour les chemins sans correspondance lorsque vous souhaitez que le routeur côté client gère l'URL."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

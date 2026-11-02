@@ -1,0 +1,14 @@
+{
+  "hash": "dba2c4f5c187e837",
+  "source": "**If your plugin provides a {0} or {1}, it will not be unwrapped in a component {2}.**{3}This is due to how Vue works with refs that aren't top-level to the template. You can read more about it {4}in the Vue documentation{/4}.",
+  "text": "**Si votre plugin fournit un {0} ou un {1}, il ne sera pas déballé dans le {2} d'un composant.**{3}Cela est dû à la façon dont Vue gère les refs qui ne sont pas au premier niveau du template. Vous pouvez en lire plus à ce sujet {4}dans la documentation de Vue{/4}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Si votre plugin fournit un {0} ou un {1}, il ne sera pas déballé dans le {2} d'un composant.**{3}Cela est dû à la façon dont Vue gère les refs qui ne sont pas au premier niveau du template. Vous pouvez en lire plus à ce sujet {4}dans la documentation de Vue{/4}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

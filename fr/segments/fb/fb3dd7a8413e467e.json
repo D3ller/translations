@@ -1,0 +1,14 @@
+{
+  "hash": "fb3dd7a8413e467e",
+  "source": "{0}: The {1}Vite{/1} bundler for Nuxt, published as {2}.",
+  "text": "{0} : le bundler {1}Vite{/1} pour Nuxt, publié sous le nom {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : le bundler {1}Vite{/1} pour Nuxt, publié sous le nom {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

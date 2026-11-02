@@ -1,0 +1,14 @@
+{
+  "hash": "9e96fa3ed828169c",
+  "source": "The {0} command scaffolds a file into the right directory for your project's structure. It replaces {1}, which still runs but is deprecated.",
+  "text": "La commande {0} génère un fichier dans le répertoire adapté à la structure de votre projet. Elle remplace {1}, qui fonctionne toujours mais est obsolète.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La commande {0} génère un fichier dans le répertoire adapté à la structure de votre projet. Elle remplace {1}, qui fonctionne toujours mais est obsolète."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

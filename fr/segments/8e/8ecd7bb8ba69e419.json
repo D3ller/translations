@@ -1,0 +1,14 @@
+{
+  "hash": "8ecd7bb8ba69e419",
+  "source": "**Inspect** – Lists all files used in the Vue app with their size and evaluation time.",
+  "text": "**Inspect** – Liste tous les fichiers utilisés dans l'application Vue avec leur taille et leur temps d'évaluation.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Inspect** – Liste tous les fichiers utilisés dans l'application Vue avec leur taille et leur temps d'évaluation."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

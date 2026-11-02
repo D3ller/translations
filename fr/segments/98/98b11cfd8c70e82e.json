@@ -1,0 +1,14 @@
+{
+  "hash": "98b11cfd8c70e82e",
+  "source": "Authoring a builder is an advanced topic. Most apps never need a custom builder; if you only want to influence the bundle, a {0}module{/0} that registers bundler plugins is usually the right tool.",
+  "text": "Créer un builder est un sujet avancé. La plupart des applications n'ont jamais besoin d'un builder personnalisé ; si vous souhaitez seulement influencer le bundle, un {0}module{/0} qui enregistre des plugins de bundler est généralement le bon outil.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Créer un builder est un sujet avancé. La plupart des applications n'ont jamais besoin d'un builder personnalisé ; si vous souhaitez seulement influencer le bundle, un {0}module{/0} qui enregistre des plugins de bundler est généralement le bon outil."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

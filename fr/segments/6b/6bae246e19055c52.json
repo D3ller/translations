@@ -1,0 +1,14 @@
+{
+  "hash": "6bae246e19055c52",
+  "source": "The App Builder's Development Server",
+  "text": "Le serveur de développement du builder d'application",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le serveur de développement du builder d'application"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

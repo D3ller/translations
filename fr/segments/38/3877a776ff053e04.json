@@ -1,0 +1,14 @@
+{
+  "hash": "3877a776ff053e04",
+  "source": "Server Directory",
+  "text": "Répertoire server",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Répertoire server"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

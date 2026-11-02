@@ -1,0 +1,14 @@
+{
+  "hash": "dcce109f5edba698",
+  "source": "You can look at {0} and {1} to see how Nuxt has resolved your components and composable auto-imports.",
+  "text": "Vous pouvez consulter {0} et {1} pour voir comment Nuxt a résolu les imports automatiques de vos composants et de vos composables.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez consulter {0} et {1} pour voir comment Nuxt a résolu les imports automatiques de vos composants et de vos composables."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

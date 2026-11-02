@@ -1,0 +1,14 @@
+{
+  "hash": "9c5bda68ccaa9469",
+  "source": "Dev, Build and Generate Time",
+  "text": "Au moment du développement, du build et de la génération",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Au moment du développement, du build et de la génération"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

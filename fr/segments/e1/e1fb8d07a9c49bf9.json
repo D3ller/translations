@@ -1,0 +1,14 @@
+{
+  "hash": "e1fb8d07a9c49bf9",
+  "source": "prerenderRoutes",
+  "text": "prerenderRoutes",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "prerenderRoutes"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

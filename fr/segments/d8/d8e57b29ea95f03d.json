@@ -1,0 +1,14 @@
+{
+  "hash": "d8e57b29ea95f03d",
+  "source": "**Tasks.** {0} and {1} come from {2}.",
+  "text": "**Tâches.** {0} et {1} proviennent de {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Tâches.** {0} et {1} proviennent de {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

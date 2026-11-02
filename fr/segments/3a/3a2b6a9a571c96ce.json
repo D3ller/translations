@@ -1,0 +1,14 @@
+{
+  "hash": "3a2b6a9a571c96ce",
+  "source": "The Nuxt MCP server provides the following tools organized by category:",
+  "text": "Le serveur MCP de Nuxt fournit les outils suivants, organisés par catégorie :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le serveur MCP de Nuxt fournit les outils suivants, organisés par catégorie :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

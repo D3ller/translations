@@ -1,0 +1,14 @@
+{
+  "hash": "2b645fe2adba4c7f",
+  "source": "The reactivity model of Vue, where a change in data automatically triggers a change in the interface.",
+  "text": "Le modèle de réactivité de Vue, où un changement dans les données déclenche automatiquement un changement dans l'interface.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le modèle de réactivité de Vue, où un changement dans les données déclenche automatiquement un changement dans l'interface."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "b37ccf8507e6f8f7",
+  "source": "useAsyncData provides access to data that resolves asynchronously in an SSR-friendly composable.",
+  "text": "useAsyncData donne accès à des données résolues de manière asynchrone, dans un composable compatible avec le SSR.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "useAsyncData donne accès à des données résolues de manière asynchrone, dans un composable compatible avec le SSR."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

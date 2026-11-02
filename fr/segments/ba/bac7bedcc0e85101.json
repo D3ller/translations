@@ -1,0 +1,14 @@
+{
+  "hash": "bac7bedcc0e85101",
+  "source": "Do not import Vue app code (components, composables, or other app-only utilities) in your server routes or utilities, and do not import server-only code in your app.",
+  "text": "N'importez pas de code d'application Vue (composants, composables ou autres utilitaires propres à l'application) dans vos routes serveur ou vos utilitaires, et n'importez pas de code réservé au serveur dans votre application.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "N'importez pas de code d'application Vue (composants, composables ou autres utilitaires propres à l'application) dans vos routes serveur ou vos utilitaires, et n'importez pas de code réservé au serveur dans votre application."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

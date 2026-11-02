@@ -1,0 +1,14 @@
+{
+  "hash": "9145d71cb4b8cdeb",
+  "source": "Watch Vue School video about using Nuxt lifecycle hooks in modules.",
+  "text": "Regardez la vidéo de Vue School sur l'utilisation des hooks de cycle de vie de Nuxt dans les modules.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Regardez la vidéo de Vue School sur l'utilisation des hooks de cycle de vie de Nuxt dans les modules."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

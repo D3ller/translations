@@ -1,0 +1,14 @@
+{
+  "hash": "b4372ed3c1ac3aba",
+  "source": "All delayed hydration components emit a {0} event when they are hydrated.",
+  "text": "Tous les composants à hydratation différée émettent un événement {0} lorsqu'ils sont hydratés.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Tous les composants à hydratation différée émettent un événement {0} lorsqu'ils sont hydratés."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

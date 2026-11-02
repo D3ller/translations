@@ -1,0 +1,14 @@
+{
+  "hash": "cd87dcbd24f6ade8",
+  "source": "When defining a Nuxt module, you can set a {0} to specify how users should configure the module in their {1}.",
+  "text": "Lorsque vous définissez un module Nuxt, vous pouvez définir une {0} pour indiquer comment les utilisateurs doivent configurer le module dans leur {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque vous définissez un module Nuxt, vous pouvez définir une {0} pour indiquer comment les utilisateurs doivent configurer le module dans leur {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

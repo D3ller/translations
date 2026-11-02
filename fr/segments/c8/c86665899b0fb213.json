@@ -1,0 +1,14 @@
+{
+  "hash": "c86665899b0fb213",
+  "source": "**Value providers** ({0}, {1}, {2}, {3}, {4}) are functions returning the **module body as a string**. The string is inlined verbatim into the server bundle, so it must not depend on the file's location on disk. {5}, for example, returns a body that re-exports the built SSR entry by absolute specifier:",
+  "text": "**Les fournisseurs de valeur** ({0}, {1}, {2}, {3}, {4}) sont des fonctions qui retournent le **corps du module sous forme de chaîne**. La chaîne est insérée telle quelle dans le bundle serveur, elle ne doit donc pas dépendre de l'emplacement du fichier sur le disque. {5}, par exemple, retourne un corps qui réexporte l'entrée SSR compilée via un spécificateur absolu :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Les fournisseurs de valeur** ({0}, {1}, {2}, {3}, {4}) sont des fonctions qui retournent le **corps du module sous forme de chaîne**. La chaîne est insérée telle quelle dans le bundle serveur, elle ne doit donc pas dépendre de l'emplacement du fichier sur le disque. {5}, par exemple, retourne un corps qui réexporte l'entrée SSR compilée via un spécificateur absolu :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

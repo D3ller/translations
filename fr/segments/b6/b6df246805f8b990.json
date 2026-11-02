@@ -1,0 +1,14 @@
+{
+  "hash": "b6df246805f8b990",
+  "source": "shared compiler options for every generated tsconfig",
+  "text": "options du compilateur partagées par tous les tsconfig générés",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "options du compilateur partagées par tous les tsconfig générés"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

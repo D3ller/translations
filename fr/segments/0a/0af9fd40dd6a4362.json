@@ -1,0 +1,14 @@
+{
+  "hash": "0af9fd40dd6a4362",
+  "source": "This {0} composable uses {1} under the hood (rather than {2}) to manipulate your {3}.",
+  "text": "Ce composable {0} utilise {1} en interne (plutôt que {2}) pour manipuler votre {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ce composable {0} utilise {1} en interne (plutôt que {2}) pour manipuler votre {3}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

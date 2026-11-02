@@ -1,0 +1,14 @@
+{
+  "hash": "090161b61bf598f3",
+  "source": "Use the plain family name unless you're serving the font yourself:",
+  "text": "Utilisez le simple nom de la famille, sauf si vous servez la police vous-même :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utilisez le simple nom de la famille, sauf si vous servez la police vous-même :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

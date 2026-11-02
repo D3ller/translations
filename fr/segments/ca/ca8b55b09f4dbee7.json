@@ -1,0 +1,14 @@
+{
+  "hash": "ca8b55b09f4dbee7",
+  "source": "In the browser during client-side navigation, {0} will behave just like regular {1}.",
+  "text": "Dans le navigateur, lors d'une navigation côté client, {0} se comportera exactement comme {1} classique.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans le navigateur, lors d'une navigation côté client, {0} se comportera exactement comme {1} classique."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "af15541412856092",
+  "source": "You might also want to add a type declaration to the user's project (for example, to augment a Nuxt interface or provide a global type of your own). For this, Nuxt provides the {0} utility that both writes a template to the disk and adds a reference to it in the generated {1} file.",
+  "text": "Vous pouvez aussi vouloir ajouter une déclaration de type au projet de l'utilisateur (par exemple, pour augmenter une interface de Nuxt ou fournir votre propre type global). Pour cela, Nuxt fournit l'utilitaire {0}, qui écrit un template sur le disque et ajoute une référence à celui-ci dans le fichier {1} généré.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez aussi vouloir ajouter une déclaration de type au projet de l'utilisateur (par exemple, pour augmenter une interface de Nuxt ou fournir votre propre type global). Pour cela, Nuxt fournit l'utilitaire {0}, qui écrit un template sur le disque et ajoute une référence à celui-ci dans le fichier {1} généré."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

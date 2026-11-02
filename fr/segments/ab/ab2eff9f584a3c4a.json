@@ -1,0 +1,14 @@
+{
+  "hash": "ab2eff9f584a3c4a",
+  "source": "Learn how to write a dev server handler for each server API, and which paths each one matches.",
+  "text": "Découvrez comment écrire un handler de serveur de développement pour chaque API serveur, et quels chemins chacun fait correspondre.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Découvrez comment écrire un handler de serveur de développement pour chaque API serveur, et quels chemins chacun fait correspondre."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

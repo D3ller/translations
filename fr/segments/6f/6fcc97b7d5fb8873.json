@@ -1,0 +1,14 @@
+{
+  "hash": "6fcc97b7d5fb8873",
+  "source": "Your Nuxt app will be available at {0}.",
+  "text": "Votre application Nuxt sera disponible à l'adresse {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Votre application Nuxt sera disponible à l'adresse {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

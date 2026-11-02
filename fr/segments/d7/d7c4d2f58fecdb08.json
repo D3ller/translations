@@ -1,0 +1,14 @@
+{
+  "hash": "d7c4d2f58fecdb08",
+  "source": "It is subject to the same specification as {0} and {1} files, in which each line is a glob pattern indicating which files should be ignored.",
+  "text": "Il suit la même spécification que les fichiers {0} et {1}, dans lesquels chaque ligne est un motif glob indiquant quels fichiers doivent être ignorés.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Il suit la même spécification que les fichiers {0} et {1}, dans lesquels chaque ligne est un motif glob indiquant quels fichiers doivent être ignorés."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

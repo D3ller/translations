@@ -1,0 +1,14 @@
+{
+  "hash": "afe4e615e72d872b",
+  "source": "The {0}Nuxt kit{/0} provides a few ways {1}to add routes{/1}:",
+  "text": "Le {0}Nuxt kit{/0} propose plusieurs moyens {1}d'ajouter des routes{/1} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le {0}Nuxt kit{/0} propose plusieurs moyens {1}d'ajouter des routes{/1} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

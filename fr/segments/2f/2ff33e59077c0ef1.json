@@ -1,0 +1,14 @@
+{
+  "hash": "2ff33e59077c0ef1",
+  "source": "This directory is interesting if you want to learn more about the files Nuxt generates based on your directory structure.",
+  "text": "Ce répertoire est intéressant si vous souhaitez en savoir plus sur les fichiers que Nuxt génère à partir de la structure de vos répertoires.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ce répertoire est intéressant si vous souhaitez en savoir plus sur les fichiers que Nuxt génère à partir de la structure de vos répertoires."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

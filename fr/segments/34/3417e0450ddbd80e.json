@@ -1,0 +1,14 @@
+{
+  "hash": "3417e0450ddbd80e",
+  "source": "Print a QR code for the public URL (enabled by default when one is available)",
+  "text": "Affiche un QR code pour l'URL publique (activé par défaut lorsqu'une URL est disponible)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Affiche un QR code pour l'URL publique (activé par défaut lorsqu'une URL est disponible)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

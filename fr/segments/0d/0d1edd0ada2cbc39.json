@@ -1,0 +1,14 @@
+{
+  "hash": "0d1edd0ada2cbc39",
+  "source": "You can explicitly set the desired preset in the {0} file:",
+  "text": "Vous pouvez définir explicitement le preset souhaité dans le fichier {0} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez définir explicitement le preset souhaité dans le fichier {0} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "975098ac21a20a67",
+  "source": "The data returned from the {0} function on the server is stored in {1} under the unique key provided as the first parameter to {2}. During hydration, this data is then retrieved on the client, preventing redundant computations or API calls.",
+  "text": "Les données retournées par la fonction {0} sur le serveur sont stockées dans {1} sous la clé unique fournie en premier paramètre à {2}. Pendant l'hydratation, ces données sont ensuite récupérées côté client, ce qui évite les calculs ou appels d'API redondants.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les données retournées par la fonction {0} sur le serveur sont stockées dans {1} sous la clé unique fournie en premier paramètre à {2}. Pendant l'hydratation, ces données sont ensuite récupérées côté client, ce qui évite les calculs ou appels d'API redondants."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

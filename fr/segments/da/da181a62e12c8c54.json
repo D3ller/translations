@@ -1,0 +1,14 @@
+{
+  "hash": "da181a62e12c8c54",
+  "source": "As next steps, you can:",
+  "text": "Pour aller plus loin, vous pouvez :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour aller plus loin, vous pouvez :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

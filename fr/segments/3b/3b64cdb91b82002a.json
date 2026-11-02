@@ -1,0 +1,14 @@
+{
+  "hash": "3b64cdb91b82002a",
+  "source": "**Solution**: Use {0} component or handle it client-side:",
+  "text": "**Solution** : utilisez le composant {0} ou gérez cela côté client :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Solution** : utilisez le composant {0} ou gérez cela côté client :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

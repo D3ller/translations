@@ -1,0 +1,14 @@
+{
+  "hash": "f1cbddba2405f1d6",
+  "source": "Nuxt currently uses {0} to manage your meta tags, but implementation details may change.",
+  "text": "Nuxt utilise actuellement {0} pour gérer vos balises meta, mais les détails d'implémentation peuvent changer.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt utilise actuellement {0} pour gérer vos balises meta, mais les détails d'implémentation peuvent changer."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

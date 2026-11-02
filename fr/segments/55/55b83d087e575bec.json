@@ -1,0 +1,14 @@
+{
+  "hash": "55b83d087e575bec",
+  "source": "the build output directory",
+  "text": "le répertoire de sortie du build",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "le répertoire de sortie du build"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

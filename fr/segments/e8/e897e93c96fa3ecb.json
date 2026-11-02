@@ -1,0 +1,14 @@
+{
+  "hash": "e897e93c96fa3ecb",
+  "source": "Changing the island component props triggers a refetch of the island component to re-render it again.",
+  "text": "Modifier les props du composant island déclenche une nouvelle requête afin de le rendre à nouveau.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Modifier les props du composant island déclenche une nouvelle requête afin de le rendre à nouveau."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

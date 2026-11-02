@@ -1,0 +1,14 @@
+{
+  "hash": "7617ef8b766b7420",
+  "source": "Lazy Hydration for the Rest",
+  "text": "Hydratation différée pour le reste",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Hydratation différée pour le reste"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "ab251f277de27117",
+  "source": "Create your Custom MCP Connector:",
+  "text": "Créez votre connecteur MCP personnalisé :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Créez votre connecteur MCP personnalisé :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

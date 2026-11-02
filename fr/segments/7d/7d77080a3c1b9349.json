@@ -1,0 +1,14 @@
+{
+  "hash": "7d77080a3c1b9349",
+  "source": "Nuxt supports Vapor Mode in **interop mode**: your application is still rendered with the Virtual DOM, and you opt individual components or pages into Vapor by writing them as Vapor single-file components. This lets you adopt Vapor incrementally, and the rest of Nuxt (routing, {0}, layouts, and most built-in components) keeps working unchanged.",
+  "text": "Nuxt prend en charge Vapor Mode en **mode interop** : votre application est toujours rendue avec le Virtual DOM, et vous choisissez d'utiliser Vapor pour certains composants ou pages en les écrivant sous forme de composants monofichiers Vapor. Cela vous permet d'adopter Vapor progressivement, et le reste de Nuxt (routage, {0}, layouts et la plupart des composants intégrés) continue de fonctionner sans changement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt prend en charge Vapor Mode en **mode interop** : votre application est toujours rendue avec le Virtual DOM, et vous choisissez d'utiliser Vapor pour certains composants ou pages en les écrivant sous forme de composants monofichiers Vapor. Cela vous permet d'adopter Vapor progressivement, et le reste de Nuxt (routage, {0}, layouts et la plupart des composants intégrés) continue de fonctionner sans changement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

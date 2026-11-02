@@ -1,0 +1,14 @@
+{
+  "hash": "7c3370e13a8d3fdd",
+  "source": "The info command logs information about the current or specified Nuxt project.",
+  "text": "La commande info affiche des informations sur le projet Nuxt actuel ou spécifié.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La commande info affiche des informations sur le projet Nuxt actuel ou spécifié."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

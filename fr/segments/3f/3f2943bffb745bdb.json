@@ -1,0 +1,14 @@
+{
+  "hash": "3f2943bffb745bdb",
+  "source": "Get the HTML of a server-rendered page.",
+  "text": "Récupère le HTML d'une page rendue côté serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Récupère le HTML d'une page rendue côté serveur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

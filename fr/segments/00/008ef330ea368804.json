@@ -1,0 +1,14 @@
+{
+  "hash": "008ef330ea368804",
+  "source": "Themed button (overrides base)",
+  "text": "Bouton thématisé (remplace la base)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bouton thématisé (remplace la base)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

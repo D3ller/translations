@@ -1,0 +1,14 @@
+{
+  "hash": "a05899245fb24bc8",
+  "source": "Use auto-imported {0}Reactivity functions{/0} from Vue and Nuxt {1}built-in composables{/1}.",
+  "text": "Utilisez les {0}fonctions de réactivité{/0} de Vue importées automatiquement et les {1}composables intégrés{/1} de Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utilisez les {0}fonctions de réactivité{/0} de Vue importées automatiquement et les {1}composables intégrés{/1} de Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

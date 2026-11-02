@@ -1,0 +1,14 @@
+{
+  "hash": "5ae46031e9900c2d",
+  "source": "Use {0} when you need to generate plugin code dynamically at build time. This allows you to generate different plugin contents based on the options passed to it. For example, Nuxt internally uses this function to generate Vue app configurations.",
+  "text": "Utilisez {0} lorsque vous devez générer du code de plugin dynamiquement au moment du build. Cela vous permet de générer des contenus de plugin différents selon les options qui lui sont transmises. Par exemple, Nuxt utilise en interne cette fonction pour générer les configurations de l'application Vue.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utilisez {0} lorsque vous devez générer du code de plugin dynamiquement au moment du build. Cela vous permet de générer des contenus de plugin différents selon les options qui lui sont transmises. Par exemple, Nuxt utilise en interne cette fonction pour générer les configurations de l'application Vue."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

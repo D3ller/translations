@@ -1,0 +1,14 @@
+{
+  "hash": "d36be7c998c3ea16",
+  "source": "Module specifier to import from.",
+  "text": "Spécificateur du module depuis lequel importer.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Spécificateur du module depuis lequel importer."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

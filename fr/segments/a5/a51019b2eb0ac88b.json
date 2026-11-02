@@ -1,0 +1,14 @@
+{
+  "hash": "a51019b2eb0ac88b",
+  "source": "The {0} command upgrades Nuxt to the latest version. It updates the version in your {1}, reinstalls dependencies with your package manager and removes the build cache.",
+  "text": "La commande {0} met à jour Nuxt vers la dernière version. Elle met à jour la version dans votre {1}, réinstalle les dépendances avec votre gestionnaire de packages et supprime le cache de build.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La commande {0} met à jour Nuxt vers la dernière version. Elle met à jour la version dans votre {1}, réinstalle les dépendances avec votre gestionnaire de packages et supprime le cache de build."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

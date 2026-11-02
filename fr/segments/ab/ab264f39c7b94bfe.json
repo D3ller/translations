@@ -1,0 +1,14 @@
+{
+  "hash": "ab264f39c7b94bfe",
+  "source": "Plan for existing sessions ending: users are signed out once, on the deploy that upgrades them.",
+  "text": "Prévoyez la fin des sessions existantes : les utilisateurs sont déconnectés une fois, lors du déploiement qui les met à niveau.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Prévoyez la fin des sessions existantes : les utilisateurs sont déconnectés une fois, lors du déploiement qui les met à niveau."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

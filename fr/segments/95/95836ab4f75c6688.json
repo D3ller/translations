@@ -1,0 +1,14 @@
+{
+  "hash": "95836ab4f75c6688",
+  "source": "no server: skip anything that would only run there",
+  "text": "pas de serveur : ignorer tout ce qui ne s'exécuterait que là",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "pas de serveur : ignorer tout ce qui ne s'exécuterait que là"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

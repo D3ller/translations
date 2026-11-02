@@ -1,0 +1,14 @@
+{
+  "hash": "e66e4f93e740cca4",
+  "source": "If it is a path, it is resolved relative to {0}.",
+  "text": "S'il s'agit d'un chemin, il est résolu par rapport à {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "S'il s'agit d'un chemin, il est résolu par rapport à {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

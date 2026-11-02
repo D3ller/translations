@@ -1,0 +1,14 @@
+{
+  "hash": "9d117c553896f82b",
+  "source": "{0}: Allows custom control of when to prefetch links. Possible options are {1} and {2} (default). You can also pass an object for full control, for example: {3}. This prop is only used when {4} is enabled (default) and {5} is not set.",
+  "text": "{0} : permet de contrôler de façon personnalisée le moment du préchargement des liens. Les options possibles sont {1} et {2} (par défaut). Vous pouvez aussi passer un objet pour un contrôle total, par exemple : {3}. Cette prop n'est utilisée que lorsque {4} est activé (par défaut) et que {5} n'est pas défini.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : permet de contrôler de façon personnalisée le moment du préchargement des liens. Les options possibles sont {1} et {2} (par défaut). Vous pouvez aussi passer un objet pour un contrôle total, par exemple : {3}. Cette prop n'est utilisée que lorsque {4} est activé (par défaut) et que {5} n'est pas défini."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "7594cf6998fc07ec",
+  "source": "{0}: Function returned a value",
+  "text": "{0} : la fonction a retourné une valeur",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : la fonction a retourné une valeur"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

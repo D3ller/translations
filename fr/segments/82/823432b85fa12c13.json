@@ -1,0 +1,14 @@
+{
+  "hash": "823432b85fa12c13",
+  "source": "A few practical consequences to be aware of:",
+  "text": "Voici quelques conséquences pratiques à connaître :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Voici quelques conséquences pratiques à connaître :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

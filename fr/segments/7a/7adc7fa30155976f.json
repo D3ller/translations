@@ -1,0 +1,14 @@
+{
+  "hash": "7adc7fa30155976f",
+  "source": "This should not be set directly as it will always be overridden by the dev server with the full URL (for module and internal use).",
+  "text": "Cette option ne doit pas être définie directement, car elle sera toujours remplacée par le serveur de développement avec l'URL complète (pour un usage par les modules et en interne).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cette option ne doit pas être définie directement, car elle sera toujours remplacée par le serveur de développement avec l'URL complète (pour un usage par les modules et en interne)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

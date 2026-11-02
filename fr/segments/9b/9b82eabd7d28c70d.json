@@ -1,0 +1,14 @@
+{
+  "hash": "9b82eabd7d28c70d",
+  "source": "{0} - Prerenders routes at build time and includes them in your build as static assets",
+  "text": "{0} - Pré-rend les routes au moment du build et les inclut dans votre build en tant qu'assets statiques",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} - Pré-rend les routes au moment du build et les inclut dans votre build en tant qu'assets statiques"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

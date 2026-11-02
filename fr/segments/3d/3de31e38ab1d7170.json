@@ -1,0 +1,14 @@
+{
+  "hash": "3de31e38ab1d7170",
+  "source": "Generate a {0} shim.",
+  "text": "Génère un shim {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Génère un shim {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

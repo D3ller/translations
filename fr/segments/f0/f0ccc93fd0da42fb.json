@@ -1,0 +1,14 @@
+{
+  "hash": "f0ccc93fd0da42fb",
+  "source": "Middleware now takes only two arguments ({0}, {1}). You can find out more in {2}the docs{/2}.",
+  "text": "Les middleware ne prennent désormais que deux arguments ({0}, {1}). Vous pouvez en savoir plus dans {2}la documentation{/2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les middleware ne prennent désormais que deux arguments ({0}, {1}). Vous pouvez en savoir plus dans {2}la documentation{/2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

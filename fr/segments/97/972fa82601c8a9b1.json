@@ -1,0 +1,14 @@
+{
+  "hash": "972fa82601c8a9b1",
+  "source": "This only has an effect when **experimental** support for View Transitions is {0}enabled in your nuxt.config file{/0}. This can be overridden with {1} on an individual page.",
+  "text": "Cela n'a d'effet que lorsque la prise en charge **expérimentale** des View Transitions est {0}activée dans votre fichier nuxt.config{/0}. Elle peut être remplacée par {1} sur une page donnée.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela n'a d'effet que lorsque la prise en charge **expérimentale** des View Transitions est {0}activée dans votre fichier nuxt.config{/0}. Elle peut être remplacée par {1} sur une page donnée."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

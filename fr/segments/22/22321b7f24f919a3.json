@@ -1,0 +1,14 @@
+{
+  "hash": "22321b7f24f919a3",
+  "source": "**Auto-scanned layers** from {0} directory - sorted alphabetically (Z has higher priority than A)",
+  "text": "**Les layers analysés automatiquement** depuis le répertoire {0} : triés par ordre alphabétique (Z a une priorité plus élevée que A)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Les layers analysés automatiquement** depuis le répertoire {0} : triés par ordre alphabétique (Z a une priorité plus élevée que A)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

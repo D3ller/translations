@@ -1,0 +1,14 @@
+{
+  "hash": "461054da159fd441",
+  "source": "By default, Nuxt adds a {0}V8 explicit compile hint{/0} ({1}) to the top of the entry, layout and page chunks emitted by Vite, as well as the chunks they statically import.",
+  "text": "Par défaut, Nuxt ajoute un {0}compile hint explicite V8{/0} ({1}) en haut des chunks d'entrée, de layout et de page émis par Vite, ainsi que des chunks qu'ils importent statiquement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par défaut, Nuxt ajoute un {0}compile hint explicite V8{/0} ({1}) en haut des chunks d'entrée, de layout et de page émis par Vite, ainsi que des chunks qu'ils importent statiquement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

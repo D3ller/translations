@@ -1,0 +1,14 @@
+{
+  "hash": "b3a559d414202987",
+  "source": "an app with many islands per page makes many requests per navigation",
+  "text": "une application avec de nombreuses islands par page effectue de nombreuses requêtes à chaque navigation",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "une application avec de nombreuses islands par page effectue de nombreuses requêtes à chaque navigation"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "7f0e84e4629178a7",
+  "source": "It comes with several features we can use to measure performance of Nuxt apps:",
+  "text": "Ils proposent plusieurs fonctionnalités que vous pouvez utiliser pour mesurer les performances des applications Nuxt :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ils proposent plusieurs fonctionnalités que vous pouvez utiliser pour mesurer les performances des applications Nuxt :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

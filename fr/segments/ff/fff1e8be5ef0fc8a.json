@@ -1,0 +1,14 @@
+{
+  "hash": "fff1e8be5ef0fc8a",
+  "source": "only in server side",
+  "text": "uniquement côté serveur",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "uniquement côté serveur"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

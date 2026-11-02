@@ -1,0 +1,14 @@
+{
+  "hash": "aa7dc9e874e71d44",
+  "source": "setResponseStatus sets the status (and optionally the statusText) of the response.",
+  "text": "setResponseStatus définit le statut (et, facultativement, le statusText) de la réponse.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "setResponseStatus définit le statut (et, facultativement, le statusText) de la réponse."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

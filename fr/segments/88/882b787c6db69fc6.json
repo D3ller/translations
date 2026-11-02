@@ -1,0 +1,14 @@
+{
+  "hash": "882b787c6db69fc6",
+  "source": "{0} to force the interactive UI on, {1} to opt out",
+  "text": "{0} pour forcer l'activation de l'interface interactive, {1} pour la désactiver",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} pour forcer l'activation de l'interface interactive, {1} pour la désactiver"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

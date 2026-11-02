@@ -1,0 +1,14 @@
+{
+  "hash": "970718d003ecec1d",
+  "source": "When you need to announce something else, or to change how urgently it is announced, use {0}:",
+  "text": "Lorsque vous devez annoncer autre chose, ou modifier l'urgence de l'annonce, utilisez {0} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque vous devez annoncer autre chose, ou modifier l'urgence de l'annonce, utilisez {0} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

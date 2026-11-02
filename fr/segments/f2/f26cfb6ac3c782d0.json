@@ -1,0 +1,14 @@
+{
+  "hash": "f26cfb6ac3c782d0",
+  "source": "Only files in the {0} and {1} directories will be auto-imported. Files nested within subdirectories of these directories will not be auto-imported unless you add these directories to {2} and {3}.",
+  "text": "Seuls les fichiers des répertoires {0} et {1} seront importés automatiquement. Les fichiers imbriqués dans des sous-répertoires de ces répertoires ne seront pas importés automatiquement, sauf si vous ajoutez ces sous-répertoires à {2} et {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Seuls les fichiers des répertoires {0} et {1} seront importés automatiquement. Les fichiers imbriqués dans des sous-répertoires de ces répertoires ne seront pas importés automatiquement, sauf si vous ajoutez ces sous-répertoires à {2} et {3}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

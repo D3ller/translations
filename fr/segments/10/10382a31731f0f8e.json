@@ -1,0 +1,14 @@
+{
+  "hash": "10382a31731f0f8e",
+  "source": "For files nested in a folder within utils",
+  "text": "Pour les fichiers imbriqués dans un dossier au sein de utils",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour les fichiers imbriqués dans un dossier au sein de utils"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "cdba794b105734d4",
+  "source": "{0} is also supported, and {1} has its own script which completes starter template names.",
+  "text": "{0} est également pris en charge, et {1} dispose de son propre script qui complète les noms des templates de démarrage.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est également pris en charge, et {1} dispose de son propre script qui complète les noms des templates de démarrage."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

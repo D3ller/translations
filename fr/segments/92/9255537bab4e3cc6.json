@@ -1,0 +1,14 @@
+{
+  "hash": "9255537bab4e3cc6",
+  "source": "By default, any file with an extension specified in the {0}extensions key of {1}{/0} is treated as a component. If you need to restrict the file extensions that should be registered as components, you can use the extended form of the components directory declaration and its {2} key:",
+  "text": "Par défaut, tout fichier dont l'extension est spécifiée dans la clé {0}extensions de {1}{/0} est traité comme un composant. Si vous devez restreindre les extensions de fichier à enregistrer comme composants, vous pouvez utiliser la forme étendue de la déclaration du répertoire de composants et sa clé {2} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par défaut, tout fichier dont l'extension est spécifiée dans la clé {0}extensions de {1}{/0} est traité comme un composant. Si vous devez restreindre les extensions de fichier à enregistrer comme composants, vous pouvez utiliser la forme étendue de la déclaration du répertoire de composants et sa clé {2} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "3dfd9b1ce356de5c",
+  "source": "**Unit tests** in {0} run in the Node environment.",
+  "text": "Les **tests unitaires** dans {0} s'exécutent dans l'environnement Node.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les **tests unitaires** dans {0} s'exécutent dans l'environnement Node."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

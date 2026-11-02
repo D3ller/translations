@@ -1,0 +1,14 @@
+{
+  "hash": "5ea981853e76c437",
+  "source": "This warning is reported unless {0} is disabled. Only static, absolute paths are checked: links with a bound {1}, external URLs, relative paths, hash-only and query-only links, and links with the {2} prop are not. Dynamic route segments and catch-all routes match any value, and paths that a route rule redirects are accepted.",
+  "text": "Cet avertissement est émis, sauf si {0} est désactivé. Seuls les chemins statiques et absolus sont vérifiés : les liens avec un {1} dynamique, les URL externes, les chemins relatifs, les liens contenant uniquement un hash ou uniquement une query, ainsi que les liens avec la prop {2} ne le sont pas. Les segments de route dynamiques et les routes catch-all correspondent à n'importe quelle valeur, et les chemins qu'une règle de route redirige sont acceptés.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cet avertissement est émis, sauf si {0} est désactivé. Seuls les chemins statiques et absolus sont vérifiés : les liens avec un {1} dynamique, les URL externes, les chemins relatifs, les liens contenant uniquement un hash ou uniquement une query, ainsi que les liens avec la prop {2} ne le sont pas. Les segments de route dynamiques et les routes catch-all correspondent à n'importe quelle valeur, et les chemins qu'une règle de route redirige sont acceptés."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

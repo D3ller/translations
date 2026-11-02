@@ -1,0 +1,14 @@
+{
+  "hash": "0277895282fc7fb7",
+  "source": "Server components (also called island components) invert this. A server component is rendered on the server, its HTML is embedded in the page, and none of its JavaScript is sent to the client. Its dependencies (a markdown parser, a highlighting library) stay on the server too.",
+  "text": "Les composants serveur (aussi appelés composants island) inversent ce principe. Un composant serveur est rendu sur le serveur, son HTML est intégré à la page et aucun de son JavaScript n'est envoyé au client. Ses dépendances (un parseur markdown, une bibliothèque de coloration syntaxique) restent elles aussi sur le serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les composants serveur (aussi appelés composants island) inversent ce principe. Un composant serveur est rendu sur le serveur, son HTML est intégré à la page et aucun de son JavaScript n'est envoyé au client. Ses dépendances (un parseur markdown, une bibliothèque de coloration syntaxique) restent elles aussi sur le serveur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

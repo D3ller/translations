@@ -1,0 +1,14 @@
+{
+  "hash": "b5e0b3f49a384fee",
+  "source": "You can prefix layer directories with numbers to control the order:",
+  "text": "Vous pouvez préfixer les répertoires de layers avec des numéros pour contrôler l'ordre :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez préfixer les répertoires de layers avec des numéros pour contrôler l'ordre :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "92ab5880b93ee623",
+  "source": "Error Format Depends on Where the Error Is Thrown",
+  "text": "Le format d'erreur dépend de l'endroit où l'erreur est levée",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le format d'erreur dépend de l'endroit où l'erreur est levée"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

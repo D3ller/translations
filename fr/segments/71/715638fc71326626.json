@@ -1,0 +1,14 @@
+{
+  "hash": "715638fc71326626",
+  "source": "{0} adds route details into an array of routes and it is useful while building {1}Nuxt plugins{/1} while {2} on the other hand, triggers a new navigation immediately and it is useful in pages, Vue components and composable.",
+  "text": "{0} ajoute les détails d'une route dans un tableau de routes et est utile lors de la création de {1}plugins Nuxt{/1}, alors que {2}, à l'inverse, déclenche immédiatement une nouvelle navigation et est utile dans les pages, les composants Vue et les composables.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} ajoute les détails d'une route dans un tableau de routes et est utile lors de la création de {1}plugins Nuxt{/1}, alors que {2}, à l'inverse, déclenche immédiatement une nouvelle navigation et est utile dans les pages, les composants Vue et les composables."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

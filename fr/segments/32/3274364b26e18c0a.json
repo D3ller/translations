@@ -1,0 +1,14 @@
+{
+  "hash": "3274364b26e18c0a",
+  "source": "For routes that have no client-side interactivity at all, combine {0} and {1} in {2}:",
+  "text": "Pour les routes qui n'ont aucune interactivité côté client, combinez {0} et {1} dans {2} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour les routes qui n'ont aucune interactivité côté client, combinez {0} et {1} dans {2} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

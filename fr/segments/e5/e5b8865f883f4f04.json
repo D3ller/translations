@@ -1,0 +1,14 @@
+{
+  "hash": "e5b8865f883f4f04",
+  "source": "The option has no effect with other app builders, which keep Nitro's own pipeline. Setting it to {0} there logs a warning.",
+  "text": "L'option n'a aucun effet avec les autres builders d'application, qui conservent le pipeline propre à Nitro. La définir à {0} dans ce cas affiche un avertissement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'option n'a aucun effet avec les autres builders d'application, qui conservent le pipeline propre à Nitro. La définir à {0} dans ce cas affiche un avertissement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

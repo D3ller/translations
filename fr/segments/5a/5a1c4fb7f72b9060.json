@@ -1,0 +1,14 @@
+{
+  "hash": "5a1c4fb7f72b9060",
+  "source": "{0}: Go back in history if possible, same as {1}.",
+  "text": "{0} : revient en arrière dans l'historique si possible, comme {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : revient en arrière dans l'historique si possible, comme {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

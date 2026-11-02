@@ -1,0 +1,14 @@
+{
+  "hash": "e597874780f05e99",
+  "source": "Most of those helpers take the event as it is:",
+  "text": "La plupart de ces helpers prennent l'événement tel quel :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La plupart de ces helpers prennent l'événement tel quel :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "e40c63be5ea65784",
+  "source": "Nuxt 3 adopts a minimal friction approach, meaning wherever possible components and composables are auto-imported.",
+  "text": "Nuxt 3 adopte une approche à friction minimale : dans la mesure du possible, les composants et les composables sont importés automatiquement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt 3 adopte une approche à friction minimale : dans la mesure du possible, les composants et les composables sont importés automatiquement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

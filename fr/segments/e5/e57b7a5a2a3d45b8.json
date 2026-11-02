@@ -1,0 +1,14 @@
+{
+  "hash": "e57b7a5a2a3d45b8",
+  "source": "They take a {0}Standard Schema{/0} or a function.",
+  "text": "Ils acceptent un {0}Standard Schema{/0} ou une fonction.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ils acceptent un {0}Standard Schema{/0} ou une fonction."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

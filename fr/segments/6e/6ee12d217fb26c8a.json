@@ -1,0 +1,14 @@
+{
+  "hash": "6ee12d217fb26c8a",
+  "source": "This generates different plugin code depending on the provided configuration.",
+  "text": "Cela génère un code de plugin différent selon la configuration fournie.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela génère un code de plugin différent selon la configuration fournie."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "ba4b2426a3dad0e0",
+  "source": "You can set a default value for this property {0}in your {1}{/0}.",
+  "text": "Vous pouvez définir une valeur par défaut pour cette propriété {0}dans votre {1}{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez définir une valeur par défaut pour cette propriété {0}dans votre {1}{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

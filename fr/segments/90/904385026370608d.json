@@ -1,0 +1,14 @@
+{
+  "hash": "904385026370608d",
+  "source": "{0}This{/0} command of {1} allows you to analyze the production bundle of your Nuxt application. It leverages {2} (similar to {3}) to generate a visual representation of your application's bundle, making it easier to identify which components take up the most space.",
+  "text": "{0}Cette{/0} commande de {1} vous permet d'analyser le bundle de production de votre application Nuxt. Elle s'appuie sur {2} (similaire à {3}) pour générer une représentation visuelle du bundle de votre application, ce qui facilite l'identification des composants qui occupent le plus d'espace.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}Cette{/0} commande de {1} vous permet d'analyser le bundle de production de votre application Nuxt. Elle s'appuie sur {2} (similaire à {3}) pour générer une représentation visuelle du bundle de votre application, ce qui facilite l'identification des composants qui occupent le plus d'espace."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "b9cd0b0804a9781a",
+  "source": "Remove {0} and {1}: Nuxt 2 has built-in runtime support",
+  "text": "Supprimez {0} et {1} : Nuxt 2 dispose d'une prise en charge intégrée à l'exécution",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Supprimez {0} et {1} : Nuxt 2 dispose d'une prise en charge intégrée à l'exécution"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

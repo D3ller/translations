@@ -1,0 +1,14 @@
+{
+  "hash": "5f763cb1956cab82",
+  "source": "Understand Module Structure",
+  "text": "Comprendre la structure d'un module",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Comprendre la structure d'un module"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

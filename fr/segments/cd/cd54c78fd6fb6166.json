@@ -1,0 +1,14 @@
+{
+  "hash": "cd54c78fd6fb6166",
+  "source": "**IDE type-safety** - {0} and the rest of your app are running in two entirely different contexts with different global imports available, and making sure {1} isn't *inside* the same folder as the rest of your app is a big first step to ensuring you get good auto-completes in your IDE.",
+  "text": "**Sécurité des types dans l'IDE** : {0} et le reste de votre application s'exécutent dans deux contextes entièrement différents, avec des imports globaux différents. S'assurer que {1} ne se trouve pas *dans* le même dossier que le reste de votre application est une grande première étape pour obtenir de bonnes complétions automatiques dans votre IDE.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Sécurité des types dans l'IDE** : {0} et le reste de votre application s'exécutent dans deux contextes entièrement différents, avec des imports globaux différents. S'assurer que {1} ne se trouve pas *dans* le même dossier que le reste de votre application est une grande première étape pour obtenir de bonnes complétions automatiques dans votre IDE."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

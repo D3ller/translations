@@ -1,0 +1,14 @@
+{
+  "hash": "30063239c6c22d70",
+  "source": "In some cases, you may also need to manually alias the library to the CJS version, for example:",
+  "text": "Dans certains cas, vous pouvez aussi avoir besoin de créer manuellement un alias de la bibliothèque vers la version CJS, par exemple :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans certains cas, vous pouvez aussi avoir besoin de créer manuellement un alias de la bibliothèque vers la version CJS, par exemple :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

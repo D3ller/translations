@@ -1,0 +1,14 @@
+{
+  "hash": "1a70ba9af9ed84f8",
+  "source": "It is normally enabled by CLI argument {0}.",
+  "text": "Il est normalement activé par l'argument CLI {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Il est normalement activé par l'argument CLI {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

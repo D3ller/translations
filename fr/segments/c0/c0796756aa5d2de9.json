@@ -1,0 +1,14 @@
+{
+  "hash": "c0796756aa5d2de9",
+  "source": "Consider creating an {0} file and including any logic that needs to run once at the top-level of your app. You can check out {1}an example here{/1}.",
+  "text": "Envisagez de créer un fichier {0} et d'y inclure toute logique qui doit s'exécuter une seule fois au niveau supérieur de votre application. Vous pouvez consulter {1}un exemple ici{/1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Envisagez de créer un fichier {0} et d'y inclure toute logique qui doit s'exécuter une seule fois au niveau supérieur de votre application. Vous pouvez consulter {1}un exemple ici{/1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "49e373e463039fc8",
+  "source": "The {0} composable is used to access the current cached value of data-fetching composables such as {1}, {2}, {3}, and {4}. By providing the key used during the data fetch, you can retrieve the cached data and use it as needed.",
+  "text": "Le composable {0} permet d'accéder à la valeur actuellement en cache des composables de récupération de données tels que {1}, {2}, {3} et {4}. En fournissant la clé utilisée lors de la récupération des données, vous pouvez obtenir les données en cache et les utiliser selon vos besoins.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le composable {0} permet d'accéder à la valeur actuellement en cache des composables de récupération de données tels que {1}, {2}, {3} et {4}. En fournissant la clé utilisée lors de la récupération des données, vous pouvez obtenir les données en cache et les utiliser selon vos besoins."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

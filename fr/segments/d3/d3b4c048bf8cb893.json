@@ -1,0 +1,14 @@
+{
+  "hash": "d3b4c048bf8cb893",
+  "source": "Not part of {0}. Use {1} and {2}.",
+  "text": "Ne fait pas partie de {0}. Utilisez {1} et {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ne fait pas partie de {0}. Utilisez {1} et {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

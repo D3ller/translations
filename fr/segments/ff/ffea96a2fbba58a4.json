@@ -1,0 +1,14 @@
+{
+  "hash": "ffea96a2fbba58a4",
+  "source": "the Nuxt entry {0} tags",
+  "text": "les balises {0} d'entrée de Nuxt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "les balises {0} d'entrée de Nuxt"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

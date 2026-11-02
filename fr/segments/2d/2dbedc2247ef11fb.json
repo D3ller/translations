@@ -1,0 +1,14 @@
+{
+  "hash": "2dbedc2247ef11fb",
+  "source": "Caveats and Best Practices",
+  "text": "Précautions et bonnes pratiques",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Précautions et bonnes pratiques"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

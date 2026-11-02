@@ -1,0 +1,14 @@
+{
+  "hash": "2f206c8c5c8138a2",
+  "source": "Some parts of a static page still benefit from being components with real logic behind them: rendered markdown, syntax-highlighted code, CMS content. Use {0}server components{/0} for these. They render on the server, and their dependencies never reach the client bundle:",
+  "text": "Certaines parties d'une page statique gagnent tout de même à être des composants avec une vraie logique derrière : markdown rendu, code avec coloration syntaxique, contenu de CMS. Utilisez des {0}composants serveur{/0} pour cela. Ils sont rendus sur le serveur, et leurs dépendances n'atteignent jamais le bundle client :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Certaines parties d'une page statique gagnent tout de même à être des composants avec une vraie logique derrière : markdown rendu, code avec coloration syntaxique, contenu de CMS. Utilisez des {0}composants serveur{/0} pour cela. Ils sont rendus sur le serveur, et leurs dépendances n'atteignent jamais le bundle client :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

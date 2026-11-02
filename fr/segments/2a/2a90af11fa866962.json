@@ -1,0 +1,14 @@
+{
+  "hash": "2a90af11fa866962",
+  "source": "Nuxt Fonts exposes hooks for module authors to extend functionality.",
+  "text": "Nuxt Fonts expose des hooks permettant aux auteurs de modules d'étendre ses fonctionnalités.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt Fonts expose des hooks permettant aux auteurs de modules d'étendre ses fonctionnalités."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

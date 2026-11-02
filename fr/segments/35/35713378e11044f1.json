@@ -1,0 +1,14 @@
+{
+  "hash": "35713378e11044f1",
+  "source": "At build-time, it is possible to access the resolved Nuxt {0}runtime config{/0}.",
+  "text": "Au moment du build, il est possible d'accéder au {0}runtime config{/0} résolu de Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Au moment du build, il est possible d'accéder au {0}runtime config{/0} résolu de Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

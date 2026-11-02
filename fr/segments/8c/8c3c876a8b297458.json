@@ -1,0 +1,14 @@
+{
+  "hash": "8c3c876a8b297458",
+  "source": "You can then use {0} anywhere, including in places Nuxt Fonts never scans.",
+  "text": "Vous pouvez ensuite utiliser {0} n'importe où, y compris dans des endroits que Nuxt Fonts n'analyse jamais.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez ensuite utiliser {0} n'importe où, y compris dans des endroits que Nuxt Fonts n'analyse jamais."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

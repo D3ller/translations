@@ -1,0 +1,14 @@
+{
+  "hash": "ec6d43dd2d8af91c",
+  "source": "Port to listen on (use {0} environment variable to override)",
+  "text": "Port d'écoute (utilisez la variable d'environnement {0} pour le remplacer)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Port d'écoute (utilisez la variable d'environnement {0} pour le remplacer)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

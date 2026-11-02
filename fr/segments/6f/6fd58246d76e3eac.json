@@ -1,0 +1,14 @@
+{
+  "hash": "6fd58246d76e3eac",
+  "source": "For more information, see the {0}Route Validation documentation{/0}.",
+  "text": "Pour plus d'informations, consultez la {0}documentation sur la validation de route{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour plus d'informations, consultez la {0}documentation sur la validation de route{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

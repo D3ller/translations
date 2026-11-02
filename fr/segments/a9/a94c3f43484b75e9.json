@@ -1,0 +1,14 @@
+{
+  "hash": "a94c3f43484b75e9",
+  "source": "The {0} directory in Nuxt does not provide any additional reactivity capabilities to your code. Instead, any reactivity within composables is achieved using Vue's Composition API mechanisms, such as ref and reactive. Note that reactive code is also not limited to the boundaries of the {1} directory. You are free to employ reactivity features wherever they're needed in your application.",
+  "text": "Le répertoire {0} de Nuxt n'apporte aucune capacité de réactivité supplémentaire à votre code. La réactivité au sein des composables repose sur les mécanismes de l'API de composition de Vue, tels que ref et reactive. Notez que le code réactif n'est pas non plus limité aux frontières du répertoire {1}. Vous pouvez utiliser les fonctionnalités de réactivité partout où votre application en a besoin.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le répertoire {0} de Nuxt n'apporte aucune capacité de réactivité supplémentaire à votre code. La réactivité au sein des composables repose sur les mécanismes de l'API de composition de Vue, tels que ref et reactive. Notez que le code réactif n'est pas non plus limité aux frontières du répertoire {1}. Vous pouvez utiliser les fonctionnalités de réactivité partout où votre application en a besoin."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

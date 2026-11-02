@@ -1,0 +1,14 @@
+{
+  "hash": "c1f2ebee399816c8",
+  "source": "Note that {0} doesn't return anything. You should use {1} or {2} if you want to do data fetching during SSR.",
+  "text": "Notez que {0} ne retourne rien. Vous devez utiliser {1} ou {2} si vous souhaitez effectuer de la récupération de données pendant le SSR.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Notez que {0} ne retourne rien. Vous devez utiliser {1} ou {2} si vous souhaitez effectuer de la récupération de données pendant le SSR."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

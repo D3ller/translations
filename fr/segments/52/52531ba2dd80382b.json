@@ -1,0 +1,14 @@
+{
+  "hash": "52531ba2dd80382b",
+  "source": "Hydrates the component when it becomes visible in the viewport.",
+  "text": "Hydrate le composant lorsqu'il devient visible dans le viewport.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Hydrate le composant lorsqu'il devient visible dans le viewport."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

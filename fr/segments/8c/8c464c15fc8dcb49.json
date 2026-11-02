@@ -1,0 +1,14 @@
+{
+  "hash": "8c464c15fc8dcb49",
+  "source": "When new data is fetched, anything depending on {0} will still be reactive because the entire object is replaced. But if your code changes a property *within* that data structure, this will not trigger any reactivity in your app.",
+  "text": "Lorsque de nouvelles données sont récupérées, tout ce qui dépend de {0} reste réactif, car l'objet entier est remplacé. En revanche, si votre code modifie une propriété *à l'intérieur* de cette structure de données, cela ne déclenchera aucune réactivité dans votre application.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque de nouvelles données sont récupérées, tout ce qui dépend de {0} reste réactif, car l'objet entier est remplacé. En revanche, si votre code modifie une propriété *à l'intérieur* de cette structure de données, cela ne déclenchera aucune réactivité dans votre application."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

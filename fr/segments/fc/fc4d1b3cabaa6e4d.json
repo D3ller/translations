@@ -1,0 +1,14 @@
+{
+  "hash": "fc4d1b3cabaa6e4d",
+  "source": "Nitro development-only server handlers.",
+  "text": "Handlers serveur Nitro réservés au développement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Handlers serveur Nitro réservés au développement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

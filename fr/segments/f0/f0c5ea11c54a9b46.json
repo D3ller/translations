@@ -1,0 +1,14 @@
+{
+  "hash": "f0c5ea11c54a9b46",
+  "source": "However, if you are a module author using the {0} hook and wishing to remain backwards/forwards compatible, you can use the following code to ensure that your code works the same in both Nuxt v3 and Nuxt v4:",
+  "text": "Toutefois, si vous êtes auteur de module, que vous utilisez le hook {0} et souhaitez rester compatible avec les versions antérieures et ultérieures, vous pouvez utiliser le code suivant pour vous assurer que votre code fonctionne de la même manière dans Nuxt v3 et Nuxt v4 :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Toutefois, si vous êtes auteur de module, que vous utilisez le hook {0} et souhaitez rester compatible avec les versions antérieures et ultérieures, vous pouvez utiliser le code suivant pour vous assurer que votre code fonctionne de la même manière dans Nuxt v3 et Nuxt v4 :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

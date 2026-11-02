@@ -1,0 +1,14 @@
+{
+  "hash": "96d48859b1d99132",
+  "source": "The environment to use when resolving configuration overrides (default is {0} when building, and {1} when running the dev server)",
+  "text": "L'environnement à utiliser lors de la résolution des surcharges de configuration (par défaut {0} lors du build, et {1} lors de l'exécution du serveur de développement)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'environnement à utiliser lors de la résolution des surcharges de configuration (par défaut {0} lors du build, et {1} lors de l'exécution du serveur de développement)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

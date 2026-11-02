@@ -1,0 +1,14 @@
+{
+  "hash": "e265383425f48b27",
+  "source": "schedule a background task without blocking the response",
+  "text": "planifier une tâche en arrière-plan sans bloquer la réponse",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "planifier une tâche en arrière-plan sans bloquer la réponse"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

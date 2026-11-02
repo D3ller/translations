@@ -1,0 +1,14 @@
+{
+  "hash": "04b5fdf3597cbc6a",
+  "source": "{0} has been removed. There is no current replacement. Feel free to raise a discussion if you have a use case for this.",
+  "text": "{0} a été supprimé. Il n'existe actuellement aucun remplaçant. N'hésitez pas à ouvrir une discussion si vous avez un cas d'usage pour cela.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} a été supprimé. Il n'existe actuellement aucun remplaçant. N'hésitez pas à ouvrir une discussion si vous avez un cas d'usage pour cela."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "b3cb1a4094506f19",
+  "source": "Nested {0} Files Are No Longer Auto-Imported",
+  "text": "Les fichiers imbriqués de {0} ne sont plus importés automatiquement",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les fichiers imbriqués de {0} ne sont plus importés automatiquement"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

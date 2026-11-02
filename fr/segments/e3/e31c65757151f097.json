@@ -1,0 +1,14 @@
+{
+  "hash": "e31c65757151f097",
+  "source": "Files marked as variable without a range ({0}, {1}, or a camel-cased {2} / {3}) are treated as covering the full {4} to {5} range. The marker is also treated as part of the family name, so {6} matches both {7} and {8}, and {9} matches both {10} and {11}.",
+  "text": "Les fichiers marqués comme variables sans plage ({0}, {1}, ou {2} / {3} en camel case) sont considérés comme couvrant toute la plage de {4} à {5}. Le marqueur est également considéré comme faisant partie du nom de la famille, de sorte que {6} correspond à la fois à {7} et à {8}, et que {9} correspond à la fois à {10} et à {11}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les fichiers marqués comme variables sans plage ({0}, {1}, ou {2} / {3} en camel case) sont considérés comme couvrant toute la plage de {4} à {5}. Le marqueur est également considéré comme faisant partie du nom de la famille, de sorte que {6} correspond à la fois à {7} et à {8}, et que {9} correspond à la fois à {10} et à {11}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

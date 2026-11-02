@@ -1,0 +1,14 @@
+{
+  "hash": "d96ad55e5db4b30f",
+  "source": "This will be translated to:",
+  "text": "Cela sera traduit en :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela sera traduit en :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

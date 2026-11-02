@@ -1,0 +1,14 @@
+{
+  "hash": "02f315b9670cf7c3",
+  "source": "If set to {0}, the type will be added to the Nitro context.",
+  "text": "Si la valeur est {0}, le type sera ajouté au contexte Nitro.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si la valeur est {0}, le type sera ajouté au contexte Nitro."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

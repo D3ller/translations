@@ -1,0 +1,14 @@
+{
+  "hash": "cda7940d4469aabd",
+  "source": "Pages are only automatically registered for prerendering if you have not disabled {0} and you have at least one page in your {1} list. See the {2}prerendering guide{/2}.",
+  "text": "Les pages ne sont enregistrées automatiquement pour le prérendu que si vous n'avez pas désactivé {0} et que vous avez au moins une page dans votre liste {1}. Consultez le {2}guide du prérendu{/2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les pages ne sont enregistrées automatiquement pour le prérendu que si vous n'avez pas désactivé {0} et que vous avez au moins une page dans votre liste {1}. Consultez le {2}guide du prérendu{/2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

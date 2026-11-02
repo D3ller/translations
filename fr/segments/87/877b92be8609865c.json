@@ -1,0 +1,14 @@
+{
+  "hash": "877b92be8609865c",
+  "source": "It's a good practice to make a minimal reproduction with your module and {0}StackBlitz{/0} that you add to your module readme.",
+  "text": "C'est une bonne pratique de créer une reproduction minimale avec votre module et {0}StackBlitz{/0}, puis de l'ajouter au readme de votre module.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "C'est une bonne pratique de créer une reproduction minimale avec votre module et {0}StackBlitz{/0}, puis de l'ajouter au readme de votre module."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

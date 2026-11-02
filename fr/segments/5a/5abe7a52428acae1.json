@@ -1,0 +1,14 @@
+{
+  "hash": "5abe7a52428acae1",
+  "source": "server-side rendering but not hydration",
+  "text": "le rendu côté serveur, mais pas l'hydratation",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "le rendu côté serveur, mais pas l'hydratation"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

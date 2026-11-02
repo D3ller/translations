@@ -1,0 +1,14 @@
+{
+  "hash": "5c91d66bbe007d96",
+  "source": "The location of a font file is an implementation detail rather than a stable URL contract, so this may change again. If you have hard-coded {0} anywhere (a CDN rule, a CSP directive, a cache header, a test), point it at your build assets directory instead. Fonts are still served from {1} in development and with the webpack and rspack builders; see {2}where fonts are served from{/2}.",
+  "text": "L'emplacement d'un fichier de police est un détail d'implémentation plutôt qu'un contrat d'URL stable ; il pourrait donc encore changer. Si vous avez codé {0} en dur quelque part (règle de CDN, directive CSP, en-tête de cache, test), faites plutôt pointer vers votre répertoire d'assets de build. Les polices sont toujours servies depuis {1} en développement et avec les builders webpack et rspack ; consultez {2}d'où les polices sont servies{/2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'emplacement d'un fichier de police est un détail d'implémentation plutôt qu'un contrat d'URL stable ; il pourrait donc encore changer. Si vous avez codé {0} en dur quelque part (règle de CDN, directive CSP, en-tête de cache, test), faites plutôt pointer vers votre répertoire d'assets de build. Les polices sont toujours servies depuis {1} en développement et avec les builders webpack et rspack ; consultez {2}d'où les polices sont servies{/2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "c6b68f50001115f8",
+  "source": "With webpack and Rspack, scoped {0} styles in server component slots can fail because server and client builds may generate different scope IDs ({1}).",
+  "text": "Avec webpack et Rspack, les styles {0} scoped dans les slots de composants serveur peuvent échouer, car les builds serveur et client peuvent générer des identifiants de portée différents ({1}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Avec webpack et Rspack, les styles {0} scoped dans les slots de composants serveur peuvent échouer, car les builds serveur et client peuvent générer des identifiants de portée différents ({1})."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

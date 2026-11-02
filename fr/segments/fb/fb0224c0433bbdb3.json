@@ -1,0 +1,14 @@
+{
+  "hash": "fb0224c0433bbdb3",
+  "source": "Fully interactive widgets inside islands (components marked with {0}, or interactive island slots) do **not** work on a {1} route. Island teleports are relocated into place by a small inline script before hydration; with scripts disabled, that relocation cannot run and nothing hydrates. If a page needs even one interactive widget, keep scripts on that route and use lazy hydration instead.",
+  "text": "Les widgets entièrement interactifs à l'intérieur des îlots (composants marqués avec {0}, ou slots d'îlot interactifs) ne fonctionnent **pas** sur une route {1}. Les téléportations d'îlots sont replacées par un petit script inline avant l'hydratation ; lorsque les scripts sont désactivés, ce repositionnement ne peut pas s'exécuter et rien n'est hydraté. Si une page a besoin ne serait-ce que d'un seul widget interactif, conservez les scripts sur cette route et utilisez plutôt l'hydratation différée.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les widgets entièrement interactifs à l'intérieur des îlots (composants marqués avec {0}, ou slots d'îlot interactifs) ne fonctionnent **pas** sur une route {1}. Les téléportations d'îlots sont replacées par un petit script inline avant l'hydratation ; lorsque les scripts sont désactivés, ce repositionnement ne peut pas s'exécuter et rien n'est hydraté. Si une page a besoin ne serait-ce que d'un seul widget interactif, conservez les scripts sur cette route et utilisez plutôt l'hydratation différée."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "f751a8f48c256990",
+  "source": "The format for defining dynamic routes in Nuxt 3 is slightly different from Nuxt 2, so you may need to rename some of the files within {0}.",
+  "text": "Le format de définition des routes dynamiques dans Nuxt 3 est légèrement différent de celui de Nuxt 2, vous devrez donc peut-être renommer certains fichiers dans {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le format de définition des routes dynamiques dans Nuxt 3 est légèrement différent de celui de Nuxt 2, vous devrez donc peut-être renommer certains fichiers dans {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

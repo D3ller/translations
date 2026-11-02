@@ -1,0 +1,14 @@
+{
+  "hash": "f107d69a0fe7def0",
+  "source": "Learn more about available properties of {0} in the **{1}Vue Router docs{/1}**.",
+  "text": "Pour en savoir plus sur les propriétés disponibles de {0}, consultez la **{1}documentation de Vue Router{/1}**.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour en savoir plus sur les propriétés disponibles de {0}, consultez la **{1}documentation de Vue Router{/1}**."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "53e4231259b2e01f",
+  "source": "{0}/{1} does not cross the island boundary, so injecting from the page into a standalone server component does not work ({2}).",
+  "text": "{0}/{1} ne traverse pas la frontière de l'island ; injecter depuis la page dans un composant serveur autonome ne fonctionne donc pas ({2}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}/{1} ne traverse pas la frontière de l'island ; injecter depuis la page dans un composant serveur autonome ne fonctionne donc pas ({2})."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

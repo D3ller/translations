@@ -1,0 +1,14 @@
+{
+  "hash": "391955789fa719a3",
+  "source": "{0} allows you to mock Nuxt's auto import functionality. For example, to mock {1}, you can do so like this:",
+  "text": "{0} vous permet de mocker la fonctionnalité d'import automatique de Nuxt. Par exemple, pour mocker {1}, vous pouvez procéder ainsi :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} vous permet de mocker la fonctionnalité d'import automatique de Nuxt. Par exemple, pour mocker {1}, vous pouvez procéder ainsi :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

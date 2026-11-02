@@ -1,0 +1,14 @@
+{
+  "hash": "a1c5dbf395765733",
+  "source": "In server, you can now access config.apiSecret, in addition to config.public",
+  "text": "Côté serveur, vous pouvez désormais accéder à config.apiSecret, en plus de config.public",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Côté serveur, vous pouvez désormais accéder à config.apiSecret, en plus de config.public"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

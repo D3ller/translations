@@ -1,0 +1,14 @@
+{
+  "hash": "cccdb80b13187312",
+  "source": "If you have set {0}, the path returned on the server is relative to it, so {1} is served as {2}. On the client, {3} reads {4}, which includes the base URL.",
+  "text": "Si vous avez défini {0}, le chemin renvoyé côté serveur est relatif à celui-ci, donc {1} est servi sous la forme {2}. Côté client, {3} lit {4}, qui inclut l'URL de base.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous avez défini {0}, le chemin renvoyé côté serveur est relatif à celui-ci, donc {1} est servi sous la forme {2}. Côté client, {3} lit {4}, qui inclut l'URL de base."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

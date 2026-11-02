@@ -1,0 +1,14 @@
+{
+  "hash": "83bb97d81c8ddc15",
+  "source": "Any environment variables set within {0} file are accessed using {1} in the Nuxt app during **development** and **build/generate**.",
+  "text": "Toutes les variables d'environnement définies dans le fichier {0} sont accessibles via {1} dans l'application Nuxt pendant le **développement** et le **build/generate**.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Toutes les variables d'environnement définies dans le fichier {0} sont accessibles via {1} dans l'application Nuxt pendant le **développement** et le **build/generate**."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

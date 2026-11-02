@@ -1,0 +1,14 @@
+{
+  "hash": "522d52e640b696f3",
+  "source": "{0}: a function that can be used to alter {1} function result after resolving",
+  "text": "{0} : une fonction permettant de modifier le résultat de la fonction {1} après sa résolution",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : une fonction permettant de modifier le résultat de la fonction {1} après sa résolution"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

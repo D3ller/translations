@@ -1,0 +1,14 @@
+{
+  "hash": "7e63eee177fb2afd",
+  "source": "Nuxt modules are now build-time-only, and the {0} property used in Nuxt 2 is deprecated in favor of {1}.",
+  "text": "Les modules Nuxt ne s'exécutent désormais qu'au moment du build, et la propriété {0} utilisée dans Nuxt 2 est dépréciée au profit de {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les modules Nuxt ne s'exécutent désormais qu'au moment du build, et la propriété {0} utilisée dans Nuxt 2 est dépréciée au profit de {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "0771fbb21efbf38f",
+  "source": "Add imports to the server. It makes your imports available in Nitro without the need to import them manually.",
+  "text": "Ajoute des imports au serveur. Vos imports deviennent disponibles dans Nitro sans qu'il soit nécessaire de les importer manuellement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ajoute des imports au serveur. Vos imports deviennent disponibles dans Nitro sans qu'il soit nécessaire de les importer manuellement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

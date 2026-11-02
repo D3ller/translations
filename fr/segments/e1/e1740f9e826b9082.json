@@ -1,0 +1,14 @@
+{
+  "hash": "e1740f9e826b9082",
+  "source": "Navigating to and from Script-Free Routes",
+  "text": "Naviguer vers et depuis des routes sans script",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Naviguer vers et depuis des routes sans script"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

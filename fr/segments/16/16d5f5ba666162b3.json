@@ -1,0 +1,14 @@
+{
+  "hash": "16d5f5ba666162b3",
+  "source": "triggers a refetch: /api/search?q=new%20search",
+  "text": "déclenche une nouvelle récupération : /api/search?q=new%20search",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "déclenche une nouvelle récupération : /api/search?q=new%20search"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

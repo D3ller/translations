@@ -1,0 +1,14 @@
+{
+  "hash": "600c8cbc1a62f914",
+  "source": "Calling {0} mounts the Vue application to the DOM. If the application uses SSR or SSG mode, Vue performs a hydration step to make the client-side application interactive. During hydration, Vue recreates the application (excluding {1}Server Components{/1}), matches each component to its corresponding DOM nodes, and attaches DOM event listeners.",
+  "text": "L'appel de {0} monte l'application Vue dans le DOM. Si l'application utilise le mode SSR ou SSG, Vue effectue une étape d'hydratation pour rendre l'application côté client interactive. Pendant l'hydratation, Vue recrée l'application (à l'exclusion des {1}composants serveur{/1}), associe chaque composant à ses nœuds DOM correspondants et attache les écouteurs d'événements DOM.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'appel de {0} monte l'application Vue dans le DOM. Si l'application utilise le mode SSR ou SSG, Vue effectue une étape d'hydratation pour rendre l'application côté client interactive. Pendant l'hydratation, Vue recrée l'application (à l'exclusion des {1}composants serveur{/1}), associe chaque composant à ses nœuds DOM correspondants et attache les écouteurs d'événements DOM."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

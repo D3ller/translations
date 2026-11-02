@@ -1,0 +1,14 @@
+{
+  "hash": "039faa1b8cc2ea54",
+  "source": "Note: layerDirs[0] is the user layer (highest priority)",
+  "text": "Remarque : layerDirs[0] est le layer de l'utilisateur (priorité la plus élevée)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Remarque : layerDirs[0] est le layer de l'utilisateur (priorité la plus élevée)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

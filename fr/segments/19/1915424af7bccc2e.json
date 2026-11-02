@@ -1,0 +1,14 @@
+{
+  "hash": "1915424af7bccc2e",
+  "source": "Called before sending the response.",
+  "text": "Appelé avant l'envoi de la réponse.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appelé avant l'envoi de la réponse."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "6b8651aac095a5ea",
+  "source": "Within the script chunks emitted by Vite, imports will be from {0}. This means that changes to the entry will not invalidate chunks which are otherwise unchanged.",
+  "text": "Dans les chunks de script émis par Vite, les imports proviendront de {0}. Cela signifie que les modifications apportées à l'entrée n'invalideront pas les chunks qui, par ailleurs, restent inchangés.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans les chunks de script émis par Vite, les imports proviendront de {0}. Cela signifie que les modifications apportées à l'entrée n'invalideront pas les chunks qui, par ailleurs, restent inchangés."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

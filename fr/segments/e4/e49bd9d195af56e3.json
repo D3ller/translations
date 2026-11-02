@@ -1,0 +1,14 @@
+{
+  "hash": "e49bd9d195af56e3",
+  "source": "The dev server is found through the {0} file it writes into your {1}build directory{/1}, so the command only works while {2} is running for that project. Pass an absolute URL to talk to any other server.",
+  "text": "Le serveur de développement est trouvé grâce au fichier {0} qu'il écrit dans votre {1}répertoire de build{/1}, donc la commande ne fonctionne que lorsque {2} est en cours d'exécution pour ce projet. Passez une URL absolue pour contacter n'importe quel autre serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le serveur de développement est trouvé grâce au fichier {0} qu'il écrit dans votre {1}répertoire de build{/1}, donc la commande ne fonctionne que lorsque {2} est en cours d'exécution pour ce projet. Passez une URL absolue pour contacter n'importe quel autre serveur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

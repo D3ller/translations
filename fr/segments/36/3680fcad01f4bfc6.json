@@ -1,0 +1,14 @@
+{
+  "hash": "3680fcad01f4bfc6",
+  "source": "Fonts",
+  "text": "Polices",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Polices"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "231c54436dec600e",
+  "source": "Exposing types and using TypeScript to develop modules benefits users even when not using TypeScript directly.",
+  "text": "Exposer des types et utiliser TypeScript pour développer des modules profite aux utilisateurs, même lorsqu'ils n'utilisent pas TypeScript directement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Exposer des types et utiliser TypeScript pour développer des modules profite aux utilisateurs, même lorsqu'ils n'utilisent pas TypeScript directement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

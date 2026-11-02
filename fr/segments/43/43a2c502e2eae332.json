@@ -1,0 +1,14 @@
+{
+  "hash": "43a2c502e2eae332",
+  "source": "Check {0}Discussions{/0} and {1}RFCs{/1} for more upcoming features and ideas.",
+  "text": "Consultez les {0}Discussions{/0} et les {1}RFC{/1} pour découvrir d'autres fonctionnalités et idées à venir.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Consultez les {0}Discussions{/0} et les {1}RFC{/1} pour découvrir d'autres fonctionnalités et idées à venir."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

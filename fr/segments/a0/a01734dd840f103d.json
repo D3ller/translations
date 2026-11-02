@@ -1,0 +1,14 @@
+{
+  "hash": "a01734dd840f103d",
+  "source": "Use a different value for each environment, but keep it stable across deployments and server instances within that environment. Changing the value invalidates any sessions or signatures that depend on it.",
+  "text": "Utilisez une valeur différente pour chaque environnement, mais gardez-la stable d'un déploiement à l'autre et entre les instances de serveur au sein d'un même environnement. Modifier la valeur invalide toutes les sessions ou signatures qui en dépendent.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utilisez une valeur différente pour chaque environnement, mais gardez-la stable d'un déploiement à l'autre et entre les instances de serveur au sein d'un même environnement. Modifier la valeur invalide toutes les sessions ou signatures qui en dépendent."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

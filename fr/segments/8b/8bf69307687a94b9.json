@@ -1,0 +1,14 @@
+{
+  "hash": "8bf69307687a94b9",
+  "source": "Publish & Share Your Module",
+  "text": "Publiez et partagez votre module",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Publiez et partagez votre module"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

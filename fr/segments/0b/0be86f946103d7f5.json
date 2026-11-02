@@ -1,0 +1,14 @@
+{
+  "hash": "0be86f946103d7f5",
+  "source": "Nuxt Image: Performance and Status",
+  "text": "Nuxt Image : performances et état d'avancement",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt Image : performances et état d'avancement"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "42b4b584d0ec6391",
+  "source": "The name of the middleware.",
+  "text": "Le nom du middleware.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le nom du middleware."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

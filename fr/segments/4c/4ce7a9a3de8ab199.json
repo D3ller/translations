@@ -1,0 +1,14 @@
+{
+  "hash": "4ce7a9a3de8ab199",
+  "source": "The Nuxt MCP server provides guided prompts for common workflows:",
+  "text": "Le serveur MCP de Nuxt fournit des prompts guidés pour les workflows courants :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le serveur MCP de Nuxt fournit des prompts guidés pour les workflows courants :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

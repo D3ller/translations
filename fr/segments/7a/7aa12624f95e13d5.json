@@ -1,0 +1,14 @@
+{
+  "hash": "7aa12624f95e13d5",
+  "source": "Pushing a git tag representing the newly published version to your git remote origin",
+  "text": "Poussant un tag git représentant la nouvelle version publiée vers votre dépôt distant git origin",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Poussant un tag git représentant la nouvelle version publiée vers votre dépôt distant git origin"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

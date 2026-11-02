@@ -1,0 +1,14 @@
+{
+  "hash": "1b30b6420708bb83",
+  "source": "Watch Learn Vue video about Nuxt Server Components",
+  "text": "Regardez la vidéo de Learn Vue sur les composants serveur de Nuxt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Regardez la vidéo de Learn Vue sur les composants serveur de Nuxt"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

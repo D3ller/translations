@@ -1,0 +1,14 @@
+{
+  "hash": "b5cfd42716b823b3",
+  "source": "You can extend the generated tsconfig files with shared options using this option. {0} apply to all generated tsconfigs ({1}, {2}, {3} and {4}), while {5}, {6} and {7} apply only to {8} (and the legacy {9}). Two groups of {10} are exceptions: DOM- and Vue-specific options (such as {11}, {12} and {13}) apply only to {14}, and {15}, {16} and {17} are managed by Nuxt per context, so they cannot be set globally for the {18}, {19} and {20} tsconfigs. Use {21}, {22}, {23} or {24} for context-specific overrides; they take precedence over this option.",
+  "text": "Vous pouvez étendre les fichiers tsconfig générés avec des options partagées grâce à cette option. {0} s'appliquent à tous les tsconfig générés ({1}, {2}, {3} et {4}), tandis que {5}, {6} et {7} s'appliquent uniquement à {8} (et à l'ancien {9}). Deux groupes de {10} font exception : les options spécifiques au DOM et à Vue (comme {11}, {12} et {13}) s'appliquent uniquement à {14}, et {15}, {16} et {17} sont gérées par Nuxt selon le contexte, elles ne peuvent donc pas être définies globalement pour les tsconfig {18}, {19} et {20}. Utilisez {21}, {22}, {23} ou {24} pour des surcharges propres à un contexte ; elles ont priorité sur cette option.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez étendre les fichiers tsconfig générés avec des options partagées grâce à cette option. {0} s'appliquent à tous les tsconfig générés ({1}, {2}, {3} et {4}), tandis que {5}, {6} et {7} s'appliquent uniquement à {8} (et à l'ancien {9}). Deux groupes de {10} font exception : les options spécifiques au DOM et à Vue (comme {11}, {12} et {13}) s'appliquent uniquement à {14}, et {15}, {16} et {17} sont gérées par Nuxt selon le contexte, elles ne peuvent donc pas être définies globalement pour les tsconfig {18}, {19} et {20}. Utilisez {21}, {22}, {23} ou {24} pour des surcharges propres à un contexte ; elles ont priorité sur cette option."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

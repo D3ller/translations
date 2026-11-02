@@ -1,0 +1,14 @@
+{
+  "hash": "faa597b5fb1e12d1",
+  "source": "Called before configuring the webpack compiler.",
+  "text": "Appelé avant la configuration du compilateur webpack.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appelé avant la configuration du compilateur webpack."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

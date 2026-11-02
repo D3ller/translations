@@ -1,0 +1,14 @@
+{
+  "hash": "5f2e66e6539797d0",
+  "source": "Prompts",
+  "text": "Prompts",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Prompts"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

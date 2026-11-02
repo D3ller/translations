@@ -1,0 +1,14 @@
+{
+  "hash": "0fe7a052ee0875d0",
+  "source": "Middleware handlers should not return anything (nor close or respond to the request) and only inspect or extend the request context or throw an error.",
+  "text": "Les handlers de middleware ne doivent rien retourner (ni clore la requête ni y répondre) et doivent seulement inspecter ou étendre le contexte de la requête, ou lever une erreur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les handlers de middleware ne doivent rien retourner (ni clore la requête ni y répondre) et doivent seulement inspecter ou étendre le contexte de la requête, ou lever une erreur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "b422198155d4962d",
+  "source": "This option is intended for internal use and the API is not finalized. Please open an issue before relying on the current implementation.",
+  "text": "Cette option est destinée à un usage interne et l'API n'est pas finalisée. Veuillez ouvrir une issue avant de vous appuyer sur l'implémentation actuelle.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cette option est destinée à un usage interne et l'API n'est pas finalisée. Veuillez ouvrir une issue avant de vous appuyer sur l'implémentation actuelle."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

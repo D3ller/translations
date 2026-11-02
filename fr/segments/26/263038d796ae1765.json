@@ -1,0 +1,14 @@
+{
+  "hash": "263038d796ae1765",
+  "source": "New Directory Structure",
+  "text": "Nouvelle structure de répertoires",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nouvelle structure de répertoires"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

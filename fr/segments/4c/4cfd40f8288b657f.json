@@ -1,0 +1,14 @@
+{
+  "hash": "4cfd40f8288b657f",
+  "source": "Nuxt lands commits, improvements, and bug fixes every day. You can opt in to test them earlier before the next release.",
+  "text": "Nuxt intègre chaque jour des commits, des améliorations et des corrections de bugs. Vous pouvez choisir de les tester plus tôt, avant la prochaine version.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt intègre chaque jour des commits, des améliorations et des corrections de bugs. Vous pouvez choisir de les tester plus tôt, avant la prochaine version."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

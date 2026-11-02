@@ -1,0 +1,14 @@
+{
+  "hash": "d1ac364aa0306d8c",
+  "source": "Base for resolving paths from. Default is Nuxt rootDir.",
+  "text": "Base à partir de laquelle résoudre les chemins. Par défaut, le rootDir de Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Base à partir de laquelle résoudre les chemins. Par défaut, le rootDir de Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "5eca56d12ed7857a",
+  "source": "a path parameter, matched positionally",
+  "text": "un paramètre de chemin, associé par position",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "un paramètre de chemin, associé par position"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

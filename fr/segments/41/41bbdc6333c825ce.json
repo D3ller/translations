@@ -1,0 +1,14 @@
+{
+  "hash": "41bbdc6333c825ce",
+  "source": "Async Configuration",
+  "text": "Configuration asynchrone",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Configuration asynchrone"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

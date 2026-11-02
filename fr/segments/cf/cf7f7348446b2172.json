@@ -1,0 +1,14 @@
+{
+  "hash": "cf7f7348446b2172",
+  "source": "Lifecycle hook called when the module is first installed. Requires {0} and {1} to be defined.",
+  "text": "Hook de cycle de vie appelé lors de la première installation du module. Nécessite que {0} et {1} soient définis.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Hook de cycle de vie appelé lors de la première installation du module. Nécessite que {0} et {1} soient définis."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

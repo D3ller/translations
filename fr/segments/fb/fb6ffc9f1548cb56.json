@@ -1,0 +1,14 @@
+{
+  "hash": "fb6ffc9f1548cb56",
+  "source": "Path to the component.",
+  "text": "Chemin vers le composant.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Chemin vers le composant."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

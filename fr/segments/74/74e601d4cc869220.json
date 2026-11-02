@@ -1,0 +1,14 @@
+{
+  "hash": "74e601d4cc869220",
+  "source": "{0}: Specify the runner for the test suite. Currently, {1}Vitest{/1} is recommended.",
+  "text": "{0} : indique le lanceur à utiliser pour la suite de tests. Actuellement, {1}Vitest{/1} est recommandé.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : indique le lanceur à utiliser pour la suite de tests. Actuellement, {1}Vitest{/1} est recommandé."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

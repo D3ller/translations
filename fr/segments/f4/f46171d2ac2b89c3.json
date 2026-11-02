@@ -1,0 +1,14 @@
+{
+  "hash": "f46171d2ac2b89c3",
+  "source": "or, better, simply tell vite your desired target",
+  "text": "ou, mieux, indiquez simplement à vite la cible souhaitée",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "ou, mieux, indiquez simplement à vite la cible souhaitée"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "76a89a196773d75f",
+  "source": "Called when the Vite server is created.",
+  "text": "Appelé lorsque le serveur Vite est créé.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appelé lorsque le serveur Vite est créé."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

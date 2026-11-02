@@ -1,0 +1,14 @@
+{
+  "hash": "52773df8b87ae07a",
+  "source": "If you need to spy on component setup state, you can set the {0} option to {1} and access the return value of the setup via {2}.",
+  "text": "Si vous avez besoin d'espionner l'état du setup d'un composant, vous pouvez définir l'option {0} à {1} et accéder à la valeur de retour du setup via {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous avez besoin d'espionner l'état du setup d'un composant, vous pouvez définir l'option {0} à {1} et accéder à la valeur de retour du setup via {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

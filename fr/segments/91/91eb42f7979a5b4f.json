@@ -1,0 +1,14 @@
+{
+  "hash": "91eb42f7979a5b4f",
+  "source": "the Vue/Nuxt compiler loses context here because of the try/catch block.",
+  "text": "le compilateur Vue/Nuxt perd le contexte ici à cause du bloc try/catch.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "le compilateur Vue/Nuxt perd le contexte ici à cause du bloc try/catch."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

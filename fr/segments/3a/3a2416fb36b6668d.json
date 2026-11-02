@@ -1,0 +1,14 @@
+{
+  "hash": "3a2416fb36b6668d",
+  "source": "Font failures fail production builds",
+  "text": "Les échecs liés aux polices font échouer les builds de production",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les échecs liés aux polices font échouer les builds de production"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

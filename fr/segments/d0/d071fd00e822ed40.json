@@ -1,0 +1,14 @@
+{
+  "hash": "d071fd00e822ed40",
+  "source": "This feature is available from Nuxt >= 3.5",
+  "text": "Cette fonctionnalité est disponible à partir de Nuxt >= 3.5",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cette fonctionnalité est disponible à partir de Nuxt >= 3.5"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

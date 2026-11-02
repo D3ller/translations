@@ -1,0 +1,14 @@
+{
+  "hash": "1e6fa91c3922a6a0",
+  "source": "When no file covers the whole of a requested range, the endpoints of that range are looked up as static weights instead, so a project shipping {0} and {1} resolves the default {2} as two separate {3} rules.",
+  "text": "Lorsqu'aucun fichier ne couvre l'ensemble d'une plage demandée, les extrémités de cette plage sont recherchées comme des graisses statiques, de sorte qu'un projet fournissant {0} et {1} résout la valeur par défaut {2} en deux règles {3} distinctes.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsqu'aucun fichier ne couvre l'ensemble d'une plage demandée, les extrémités de cette plage sont recherchées comme des graisses statiques, de sorte qu'un projet fournissant {0} et {1} résout la valeur par défaut {2} en deux règles {3} distinctes."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

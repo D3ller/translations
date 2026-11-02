@@ -1,0 +1,14 @@
+{
+  "hash": "21977fb5af633ea4",
+  "source": "**{0}**: A base path to resolve from. It can be a string or a URL.",
+  "text": "**{0}** : un chemin de base à partir duquel résoudre. Il peut s'agir d'une chaîne de caractères ou d'une URL.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** : un chemin de base à partir duquel résoudre. Il peut s'agir d'une chaîne de caractères ou d'une URL."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

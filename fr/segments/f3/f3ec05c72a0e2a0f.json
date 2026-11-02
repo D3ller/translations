@@ -1,0 +1,14 @@
+{
+  "hash": "f3ec05c72a0e2a0f",
+  "source": "If your module should provide other kinds of assets, they can also be injected. Here's a simple example module injecting a stylesheet through Nuxt's {0} array.",
+  "text": "Si votre module doit fournir d'autres types de ressources, elles peuvent aussi être injectées. Voici un exemple simple de module qui injecte une feuille de style via le tableau {0} de Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si votre module doit fournir d'autres types de ressources, elles peuvent aussi être injectées. Voici un exemple simple de module qui injecte une feuille de style via le tableau {0} de Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

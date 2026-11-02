@@ -1,0 +1,14 @@
+{
+  "hash": "6085b19aff298a4b",
+  "source": "Both packages were installed for every project to run a pass most projects do not configure, and browser support for the properties {0} prefixes has moved on since the default was set.",
+  "text": "Les deux packages étaient installés pour chaque projet afin d'exécuter une passe que la plupart des projets ne configurent pas, et la prise en charge par les navigateurs des propriétés que {0} préfixe a évolué depuis la définition de la valeur par défaut.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les deux packages étaient installés pour chaque projet afin d'exécuter une passe que la plupart des projets ne configurent pas, et la prise en charge par les navigateurs des propriétés que {0} préfixe a évolué depuis la définition de la valeur par défaut."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

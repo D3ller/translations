@@ -1,0 +1,14 @@
+{
+  "hash": "5901a66b6a432b86",
+  "source": "Enable the legacy compatibility mode for {0} module. This applies the following changes: - Disables Capo.js sorting - Adds the {1}: supports {2}, {3}, {4}, {5} - Adds the {6}: supports promises as input",
+  "text": "Active le mode de compatibilité legacy pour le module {0}. Cela applique les changements suivants : - Désactive le tri de Capo.js - Ajoute le {1} : prend en charge {2}, {3}, {4}, {5} - Ajoute le {6} : prend en charge les promesses en entrée",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Active le mode de compatibilité legacy pour le module {0}. Cela applique les changements suivants : - Désactive le tri de Capo.js - Ajoute le {1} : prend en charge {2}, {3}, {4}, {5} - Ajoute le {6} : prend en charge les promesses en entrée"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

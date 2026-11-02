@@ -1,0 +1,14 @@
+{
+  "hash": "d4488048539bf88e",
+  "source": "If a relative path is specified, it will be relative to the {0}.",
+  "text": "Si un chemin relatif est indiqué, il sera relatif à {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si un chemin relatif est indiqué, il sera relatif à {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "cb802614f725450d",
+  "source": "Dev Server Handlers",
+  "text": "Handlers du serveur de développement",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Handlers du serveur de développement"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

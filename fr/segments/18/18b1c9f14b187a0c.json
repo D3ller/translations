@@ -1,0 +1,14 @@
+{
+  "hash": "18b1c9f14b187a0c",
+  "source": "As with other scripts, feel free to fine-tune the default {0} script in your {1} to better suit your needs.",
+  "text": "Comme pour les autres scripts, n'hésitez pas à ajuster le script {0} par défaut dans votre {1} pour mieux répondre à vos besoins.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Comme pour les autres scripts, n'hésitez pas à ajuster le script {0} par défaut dans votre {1} pour mieux répondre à vos besoins."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

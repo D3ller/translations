@@ -1,0 +1,14 @@
+{
+  "hash": "b4e26e26d8d7293f",
+  "source": "This is useful for enforcing settings like authentication headers or a specific base URL that should not be changed by the caller.",
+  "text": "C'est utile pour imposer des paramètres tels que des en-têtes d'authentification ou une URL de base spécifique que l'appelant ne doit pas pouvoir modifier.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "C'est utile pour imposer des paramètres tels que des en-têtes d'authentification ou une URL de base spécifique que l'appelant ne doit pas pouvoir modifier."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

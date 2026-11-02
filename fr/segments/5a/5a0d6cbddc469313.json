@@ -1,0 +1,14 @@
+{
+  "hash": "5a0d6cbddc469313",
+  "source": "{0}, modules and build hooks run in the CLI process instead, which gets its own inspector on the next port ({1} by default). Add {2} as a target in {3} (**Configure...**) or point your editor at it.",
+  "text": "{0}, les modules et les hooks de build s'exécutent plutôt dans le processus de la CLI, qui dispose de son propre inspecteur sur le port suivant ({1} par défaut). Ajoutez {2} comme cible dans {3} (**Configure...**) ou pointez votre éditeur dessus.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}, les modules et les hooks de build s'exécutent plutôt dans le processus de la CLI, qui dispose de son propre inspecteur sur le port suivant ({1} par défaut). Ajoutez {2} comme cible dans {3} (**Configure...**) ou pointez votre éditeur dessus."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

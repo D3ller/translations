@@ -1,0 +1,14 @@
+{
+  "hash": "41ee808f885735ac",
+  "source": "This will build your site, stand up a nuxt instance, and, by default, prerender the root page {0} along with any of your site's pages it links to, any of your site's pages they link to, and so on.",
+  "text": "Cela construira votre site, démarrera une instance nuxt et, par défaut, prérendra la page racine {0} ainsi que toutes les pages de votre site vers lesquelles elle pointe, toutes les pages de votre site vers lesquelles celles-ci pointent, et ainsi de suite.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela construira votre site, démarrera une instance nuxt et, par défaut, prérendra la page racine {0} ainsi que toutes les pages de votre site vers lesquelles elle pointe, toutes les pages de votre site vers lesquelles celles-ci pointent, et ainsi de suite."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

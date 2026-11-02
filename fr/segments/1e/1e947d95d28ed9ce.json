@@ -1,0 +1,14 @@
+{
+  "hash": "1e947d95d28ed9ce",
+  "source": "{0}: custom {1} container to render into (use this option instead of {2} {3}).",
+  "text": "{0} : conteneur {1} personnalisé dans lequel effectuer le rendu (utilisez cette option à la place de {2} {3}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : conteneur {1} personnalisé dans lequel effectuer le rendu (utilisez cette option à la place de {2} {3})."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

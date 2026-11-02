@@ -1,0 +1,14 @@
+{
+  "hash": "c07b5bb566e66010",
+  "source": "The maximum number of milliseconds to wait for the browser to become idle once your app is ready. It is passed to {0}. Without it, the callback may be delayed for several seconds if the browser does not schedule an idle period, which can happen in headless browsers.",
+  "text": "Le nombre maximal de millisecondes à attendre que le navigateur devienne inactif une fois que votre application est prête. Il est transmis à {0}. Sans cette option, le callback peut être retardé de plusieurs secondes si le navigateur ne planifie pas de période d'inactivité, ce qui peut arriver dans les navigateurs headless.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le nombre maximal de millisecondes à attendre que le navigateur devienne inactif une fois que votre application est prête. Il est transmis à {0}. Sans cette option, le callback peut être retardé de plusieurs secondes si le navigateur ne planifie pas de période d'inactivité, ce qui peut arriver dans les navigateurs headless."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

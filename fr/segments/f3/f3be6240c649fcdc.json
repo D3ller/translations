@@ -1,0 +1,14 @@
+{
+  "hash": "f3be6240c649fcdc",
+  "source": "Sessions Come From {0}",
+  "text": "Les sessions proviennent de {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les sessions proviennent de {0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

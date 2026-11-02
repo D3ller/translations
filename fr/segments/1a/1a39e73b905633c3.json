@@ -1,0 +1,14 @@
+{
+  "hash": "1a39e73b905633c3",
+  "source": "Shorthand sugar to register Nuxt hooks",
+  "text": "Raccourci pour enregistrer des hooks Nuxt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Raccourci pour enregistrer des hooks Nuxt"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

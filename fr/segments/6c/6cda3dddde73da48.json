@@ -1,0 +1,14 @@
+{
+  "hash": "6cda3dddde73da48",
+  "source": "When consuming SSE via POST request, you need to handle the connection manually. Here's how you can do it:",
+  "text": "Lorsque vous consommez des SSE via une requête POST, vous devez gérer la connexion manuellement. Voici comment procéder :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque vous consommez des SSE via une requête POST, vous devez gérer la connexion manuellement. Voici comment procéder :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

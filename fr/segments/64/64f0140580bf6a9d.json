@@ -1,0 +1,14 @@
+{
+  "hash": "64f0140580bf6a9d",
+  "source": "You can change the default behavior on a project-wide basis (not recommended):",
+  "text": "Vous pouvez modifier le comportement par défaut à l'échelle du projet (déconseillé) :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez modifier le comportement par défaut à l'échelle du projet (déconseillé) :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "0a2fd05d9d67294f",
+  "source": "Passing Props to Layouts",
+  "text": "Transmettre des props aux layouts",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Transmettre des props aux layouts"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

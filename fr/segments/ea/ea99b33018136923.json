@@ -1,0 +1,14 @@
+{
+  "hash": "ea99b33018136923",
+  "source": "{0} is a drop-in replacement for both Vue Router's {1} component and HTML's {2} tag. It intelligently determines whether the link is *internal* or *external* and renders it accordingly with available optimizations (prefetching, default attributes, etc.)",
+  "text": "{0} remplace directement à la fois le composant {1} de Vue Router et la balise {2} du HTML. Il détermine intelligemment si le lien est *interne* ou *externe* et l'affiche en conséquence avec les optimisations disponibles (prefetching, attributs par défaut, etc.)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} remplace directement à la fois le composant {1} de Vue Router et la balise {2} du HTML. Il détermine intelligemment si le lien est *interne* ou *externe* et l'affiche en conséquence avec les optimisations disponibles (prefetching, attributs par défaut, etc.)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

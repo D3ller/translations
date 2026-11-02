@@ -1,0 +1,14 @@
+{
+  "hash": "42c5684981194721",
+  "source": "Use IntelliSense to learn about possible attributes.",
+  "text": "Utilisez IntelliSense pour en savoir plus sur les attributs possibles.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utilisez IntelliSense pour en savoir plus sur les attributs possibles."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "223f2f77dd5ea888",
+  "source": "For a long time module authors have been producing ESM-syntax builds but using conventions like {0} or {1}, which they have added to the {2} field in their {3}. This hasn't been a problem until now because they have only been used by bundlers like webpack, which don't especially care about the file extension.",
+  "text": "Pendant longtemps, les auteurs de modules ont produit des builds en syntaxe ESM tout en utilisant des conventions comme {0} ou {1}, qu'ils ont ajoutées au champ {2} de leur {3}. Cela n'a pas posé de problème jusqu'à présent, car ces fichiers n'étaient utilisés que par des bundlers comme webpack, qui ne se soucient pas particulièrement de l'extension du fichier.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pendant longtemps, les auteurs de modules ont produit des builds en syntaxe ESM tout en utilisant des conventions comme {0} ou {1}, qu'ils ont ajoutées au champ {2} de leur {3}. Cela n'a pas posé de problème jusqu'à présent, car ces fichiers n'étaient utilisés que par des bundlers comme webpack, qui ne se soucient pas particulièrement de l'extension du fichier."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

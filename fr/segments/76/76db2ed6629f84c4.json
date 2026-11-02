@@ -1,0 +1,14 @@
+{
+  "hash": "76db2ed6629f84c4",
+  "source": "The {0} module provides the {1} utility function to help make sure that users are logged in and have an active session.",
+  "text": "Le module {0} fournit la fonction utilitaire {1} pour vous aider à vous assurer que les utilisateurs sont connectés et disposent d'une session active.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le module {0} fournit la fonction utilitaire {1} pour vous aider à vous assurer que les utilisateurs sont connectés et disposent d'une session active."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

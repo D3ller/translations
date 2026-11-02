@@ -1,0 +1,14 @@
+{
+  "hash": "23a042ac77f80987",
+  "source": "If you relied on code after a successful {0} running, move it before the navigation. To keep the previous behavior:",
+  "text": "Si vous comptiez sur l'exécution du code placé après un {0} réussi, déplacez-le avant la navigation. Pour conserver le comportement précédent :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous comptiez sur l'exécution du code placé après un {0} réussi, déplacez-le avant la navigation. Pour conserver le comportement précédent :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

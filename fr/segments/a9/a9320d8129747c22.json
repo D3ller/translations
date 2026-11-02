@@ -1,0 +1,14 @@
+{
+  "hash": "a9320d8129747c22",
+  "source": "Ignore patterns that will be run against specified path.",
+  "text": "Motifs d'exclusion qui seront exécutés sur le chemin spécifié.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Motifs d'exclusion qui seront exécutés sur le chemin spécifié."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

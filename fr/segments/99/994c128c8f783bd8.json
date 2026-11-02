@@ -1,0 +1,14 @@
+{
+  "hash": "994c128c8f783bd8",
+  "source": "Use your projects' {0} globs to choose the environment for a test file, rather than a {1} comment. The comment changes the environment without adding or removing the Nuxt Vite plugins configured by {2}.",
+  "text": "Utilisez les globs {0} de vos projets pour choisir l'environnement d'un fichier de test, plutôt qu'un commentaire {1}. Ce commentaire modifie l'environnement sans ajouter ni retirer les plugins Vite de Nuxt configurés par {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utilisez les globs {0} de vos projets pour choisir l'environnement d'un fichier de test, plutôt qu'un commentaire {1}. Ce commentaire modifie l'environnement sans ajouter ni retirer les plugins Vite de Nuxt configurés par {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

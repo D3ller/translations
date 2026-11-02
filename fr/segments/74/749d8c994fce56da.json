@@ -1,0 +1,14 @@
+{
+  "hash": "749d8c994fce56da",
+  "source": "{0} now defaults to {1}, so Nuxt reuses the active builder's file watcher (Vite's {2}, for example) instead of starting a second one. If the builder provides no watcher, Nuxt falls back to its previous selection.",
+  "text": "{0} vaut désormais {1} par défaut : Nuxt réutilise donc l'observateur de fichiers du builder actif (le {2} de Vite, par exemple) au lieu d'en démarrer un second. Si le builder ne fournit aucun observateur, Nuxt revient à sa sélection précédente.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} vaut désormais {1} par défaut : Nuxt réutilise donc l'observateur de fichiers du builder actif (le {2} de Vite, par exemple) au lieu d'en démarrer un second. Si le builder ne fournit aucun observateur, Nuxt revient à sa sélection précédente."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

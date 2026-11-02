@@ -1,0 +1,14 @@
+{
+  "hash": "7bb4cffdb54f10d5",
+  "source": "Relative Time Formatting Props",
+  "text": "Props de formatage du temps relatif",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Props de formatage du temps relatif"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

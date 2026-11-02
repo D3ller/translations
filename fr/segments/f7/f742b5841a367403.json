@@ -1,0 +1,14 @@
+{
+  "hash": "f742b5841a367403",
+  "source": "You can render it inside the app root instead by setting the experimental {0} option to {1}. In that case, it is removed as soon as Vue mounts the app, so the screen may be blank until the first page is ready to render.",
+  "text": "Vous pouvez plutôt le rendre à l'intérieur de la racine de l'application en définissant l'option expérimentale {0} sur {1}. Dans ce cas, il est retiré dès que Vue monte l'application, de sorte que l'écran peut rester vide jusqu'à ce que la première page soit prête à être rendue.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez plutôt le rendre à l'intérieur de la racine de l'application en définissant l'option expérimentale {0} sur {1}. Dans ce cas, il est retiré dès que Vue monte l'application, de sorte que l'écran peut rester vide jusqu'à ce que la première page soit prête à être rendue."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

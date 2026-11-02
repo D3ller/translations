@@ -1,0 +1,14 @@
+{
+  "hash": "43923e1e60fa267d",
+  "source": "Uses built-in provider to optimize local and remote images",
+  "text": "Utilise un provider intégré pour optimiser les images locales et distantes",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utilise un provider intégré pour optimiser les images locales et distantes"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

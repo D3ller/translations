@@ -1,0 +1,14 @@
+{
+  "hash": "0756102f5bba0a99",
+  "source": "{0}: Under the hood, Nuxt test utils uses {1} to carry out browser testing. If this option is set, a browser will be launched and can be controlled in the subsequent test suite.",
+  "text": "{0} : en interne, Nuxt test utils utilise {1} pour effectuer les tests dans le navigateur. Si cette option est définie, un navigateur sera lancé et pourra être piloté dans la suite de tests suivante.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : en interne, Nuxt test utils utilise {1} pour effectuer les tests dans le navigateur. Si cette option est définie, un navigateur sera lancé et pourra être piloté dans la suite de tests suivante."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

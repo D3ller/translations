@@ -1,0 +1,14 @@
+{
+  "hash": "520651eb6ef63220",
+  "source": "{0}Visual Studio Code{/0} with the {1}Dev Containers extension{/1}",
+  "text": "{0}Visual Studio Code{/0} avec l'{1}extension Dev Containers{/1}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}Visual Studio Code{/0} avec l'{1}extension Dev Containers{/1}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

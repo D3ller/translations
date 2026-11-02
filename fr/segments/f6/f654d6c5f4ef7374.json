@@ -1,0 +1,14 @@
+{
+  "hash": "f654d6c5f4ef7374",
+  "source": "Called before {0} writes TypeScript configuration files ({1}, {2}, etc.) and {3}, allowing addition of custom references and declarations in {4}, or directly modifying the options in generated configurations",
+  "text": "Appelé avant que {0} n'écrive les fichiers de configuration TypeScript ({1}, {2}, etc.) et {3}, ce qui permet d'ajouter des références et déclarations personnalisées dans {4}, ou de modifier directement les options des configurations générées",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appelé avant que {0} n'écrive les fichiers de configuration TypeScript ({1}, {2}, etc.) et {3}, ce qui permet d'ajouter des références et déclarations personnalisées dans {4}, ou de modifier directement les options des configurations générées"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "424c7c1e192a8d06",
+  "source": "Using Nitro gives Nuxt superpowers:",
+  "text": "Utiliser Nitro donne des super-pouvoirs à Nuxt :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utiliser Nitro donne des super-pouvoirs à Nuxt :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

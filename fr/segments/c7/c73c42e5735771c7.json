@@ -1,0 +1,14 @@
+{
+  "hash": "c73c42e5735771c7",
+  "source": "Overrides the preload behaviour for this font family. The option is used wherever the family is preloaded, which is every route it is used on unless a route rule names the family, in which case it is preloaded on the routes that match the rule, with the option the rule gives for it, and on no others.",
+  "text": "Remplace le comportement de préchargement pour cette famille de polices. L'option est utilisée partout où la famille est préchargée, c'est-à-dire sur chaque route où elle est utilisée, sauf si une règle de route nomme la famille ; dans ce cas, elle est préchargée sur les routes qui correspondent à la règle, avec l'option que la règle lui attribue, et sur aucune autre.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Remplace le comportement de préchargement pour cette famille de polices. L'option est utilisée partout où la famille est préchargée, c'est-à-dire sur chaque route où elle est utilisée, sauf si une règle de route nomme la famille ; dans ce cas, elle est préchargée sur les routes qui correspondent à la règle, avec l'option que la règle lui attribue, et sur aucune autre."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

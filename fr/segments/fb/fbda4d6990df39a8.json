@@ -1,0 +1,14 @@
+{
+  "hash": "fbda4d6990df39a8",
+  "source": "In this example, we use {0} component to link to another page of the application.",
+  "text": "Dans cet exemple, vous utilisez le composant {0} pour créer un lien vers une autre page de l'application.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans cet exemple, vous utilisez le composant {0} pour créer un lien vers une autre page de l'application."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

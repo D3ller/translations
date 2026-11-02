@@ -1,0 +1,14 @@
+{
+  "hash": "b293b1bd3d39b51b",
+  "source": "Refresh all or specific asyncData instances in Nuxt",
+  "text": "Rafraîchissez toutes les instances asyncData, ou certaines d'entre elles, dans Nuxt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Rafraîchissez toutes les instances asyncData, ou certaines d'entre elles, dans Nuxt"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

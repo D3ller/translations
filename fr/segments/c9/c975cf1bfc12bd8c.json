@@ -1,0 +1,14 @@
+{
+  "hash": "c975cf1bfc12bd8c",
+  "source": "To stop a chunk from being prefetched, set {0} to {1} on its manifest entry in the {2} hook:",
+  "text": "Pour empêcher le prefetch d'un chunk, définissez {0} à {1} sur son entrée du manifest dans le hook {2} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour empêcher le prefetch d'un chunk, définissez {0} à {1} sur son entrée du manifest dans le hook {2} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "d10d3bf215079739",
+  "source": "You can use {0} key in {1} to directly set {2}Nitro configuration{/2}.",
+  "text": "Vous pouvez utiliser la clé {0} dans {1} pour définir directement la {2}configuration de Nitro{/2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez utiliser la clé {0} dans {1} pour définir directement la {2}configuration de Nitro{/2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

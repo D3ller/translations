@@ -1,0 +1,14 @@
+{
+  "hash": "7a6f24d7eeea2224",
+  "source": "Working with AI: {0}",
+  "text": "Travailler avec l'IA : {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Travailler avec l'IA : {0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

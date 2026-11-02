@@ -1,0 +1,14 @@
+{
+  "hash": "355e7ee37594dc77",
+  "source": "However, the {0} can be updated at runtime by setting the {1} as an environment variable.",
+  "text": "Cependant, {0} peut être mis à jour au runtime en définissant {1} comme variable d'environnement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cependant, {0} peut être mis à jour au runtime en définissant {1} comme variable d'environnement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

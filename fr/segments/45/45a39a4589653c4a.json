@@ -1,0 +1,14 @@
+{
+  "hash": "45a39a4589653c4a",
+  "source": "Create utility and composable library using {0} and {1} directories",
+  "text": "Créer une bibliothèque d'utilitaires et de composables avec les répertoires {0} et {1}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Créer une bibliothèque d'utilitaires et de composables avec les répertoires {0} et {1}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

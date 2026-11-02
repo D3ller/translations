@@ -1,0 +1,14 @@
+{
+  "hash": "1766c75dbd129516",
+  "source": "You can set a name for the catch-all route by using {0} and access it via {1}.",
+  "text": "Vous pouvez définir un nom pour la route fourre-tout en utilisant {0} et y accéder via {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez définir un nom pour la route fourre-tout en utilisant {0} et y accéder via {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

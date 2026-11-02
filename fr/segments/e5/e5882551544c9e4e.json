@@ -1,0 +1,14 @@
+{
+  "hash": "e5882551544c9e4e",
+  "source": "or decide for each font face",
+  "text": "ou décider pour chaque police",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "ou décider pour chaque police"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "23a9a36c83eb322d",
+  "source": "The onBeforeRouteUpdate composable allows registering a route guard within a component.",
+  "text": "Le composable onBeforeRouteUpdate permet d'enregistrer un garde de navigation (route guard) dans un composant.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le composable onBeforeRouteUpdate permet d'enregistrer un garde de navigation (route guard) dans un composant."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

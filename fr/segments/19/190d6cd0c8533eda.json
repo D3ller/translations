@@ -1,0 +1,14 @@
+{
+  "hash": "190d6cd0c8533eda",
+  "source": "Universal Router Instance",
+  "text": "Instance de routeur universelle",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Instance de routeur universelle"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

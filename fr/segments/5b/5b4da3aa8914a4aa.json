@@ -1,0 +1,14 @@
+{
+  "hash": "5b4da3aa8914a4aa",
+  "source": "This flag is off by default because, combined with {0} (the {1} default), it could trigger a lot of cross-route prefetches at once. Enable it once you are confident the destination preloads are worth forwarding for the links your users typically encounter.",
+  "text": "Cet indicateur est désactivé par défaut car, combiné à {0} (la valeur par défaut de {1}), il pourrait déclencher en une seule fois de nombreux prefetch entre routes. Activez-le lorsque vous êtes certain que les préchargements de destination valent la peine d'être transmis pour les liens que vos utilisateurs rencontrent habituellement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cet indicateur est désactivé par défaut car, combiné à {0} (la valeur par défaut de {1}), il pourrait déclencher en une seule fois de nombreux prefetch entre routes. Activez-le lorsque vous êtes certain que les préchargements de destination valent la peine d'être transmis pour les liens que vos utilisateurs rencontrent habituellement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

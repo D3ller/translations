@@ -1,0 +1,14 @@
+{
+  "hash": "86d8ee6963ec4f88",
+  "source": "By default Nuxt infers this based on your {0} option (defaulting to 'vite') but you can either turn off builder environment types (with {1}) to handle this fully yourself, or opt for a 'shared' option. The 'shared' option is advised for module authors, who will want to support multiple possible builders.",
+  "text": "Par défaut, Nuxt le déduit de votre option {0} (par défaut 'vite'), mais vous pouvez soit désactiver les types d'environnement du builder (avec {1}) pour tout gérer vous-même, soit opter pour l'option 'shared'. L'option 'shared' est conseillée aux auteurs de modules, qui souhaitent prendre en charge plusieurs builders possibles.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par défaut, Nuxt le déduit de votre option {0} (par défaut 'vite'), mais vous pouvez soit désactiver les types d'environnement du builder (avec {1}) pour tout gérer vous-même, soit opter pour l'option 'shared'. L'option 'shared' est conseillée aux auteurs de modules, qui souhaitent prendre en charge plusieurs builders possibles."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

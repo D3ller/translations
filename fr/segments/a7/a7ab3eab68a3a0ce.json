@@ -1,0 +1,14 @@
+{
+  "hash": "a7ab3eab68a3a0ce",
+  "source": "Nuxt recognizes the three official app builder specifiers ({0}, {1}, {2}) by name for builder-specific behavior elsewhere in the build. A custom builder works through the generic contract described below, and is treated as the legacy (non-Vite-environment) path.",
+  "text": "Nuxt reconnaît par leur nom les trois spécificateurs d'app builders officiels ({0}, {1}, {2}) pour appliquer des comportements propres à chaque builder ailleurs dans le build. Un builder personnalisé fonctionne via le contrat générique décrit ci-dessous et est traité comme le chemin historique (hors environnements Vite).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt reconnaît par leur nom les trois spécificateurs d'app builders officiels ({0}, {1}, {2}) pour appliquer des comportements propres à chaque builder ailleurs dans le build. Un builder personnalisé fonctionne via le contrat générique décrit ci-dessous et est traité comme le chemin historique (hors environnements Vite)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

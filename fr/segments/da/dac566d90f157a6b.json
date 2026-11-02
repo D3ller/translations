@@ -1,0 +1,14 @@
+{
+  "hash": "dac566d90f157a6b",
+  "source": "If we mark a PR as 'pending', that means we likely have another task to do in reviewing the PR - it's an internal note-to-self, and not necessarily a reflection on whether the PR is a good idea or not. We will do our best to explain via a comment the reason for the pending status.",
+  "text": "Si nous marquons une PR comme « pending », cela signifie que nous avons probablement une autre tâche à effectuer pour la relire : il s'agit d'une note interne, et pas nécessairement d'un jugement sur la pertinence de la PR. Nous ferons de notre mieux pour expliquer, via un commentaire, la raison de ce statut.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si nous marquons une PR comme « pending », cela signifie que nous avons probablement une autre tâche à effectuer pour la relire : il s'agit d'une note interne, et pas nécessairement d'un jugement sur la pertinence de la PR. Nous ferons de notre mieux pour expliquer, via un commentaire, la raison de ce statut."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

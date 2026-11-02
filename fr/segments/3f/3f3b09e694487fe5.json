@@ -1,0 +1,14 @@
+{
+  "hash": "3f3b09e694487fe5",
+  "source": "In the **MCP configuration** section, add the following configuration:",
+  "text": "Dans la section **MCP configuration**, ajoutez la configuration suivante :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans la section **MCP configuration**, ajoutez la configuration suivante :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

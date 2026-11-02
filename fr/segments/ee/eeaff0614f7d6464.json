@@ -1,0 +1,14 @@
+{
+  "hash": "eeaff0614f7d6464",
+  "source": "Normally, Vue.js composables are bound to the current component instance while plugins are only bound to {0} instance.",
+  "text": "Normalement, les composables Vue.js sont liés à l'instance du composant courant, alors que les plugins sont uniquement liés à l'instance {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Normalement, les composables Vue.js sont liés à l'instance du composant courant, alors que les plugins sont uniquement liés à l'instance {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

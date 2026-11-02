@@ -1,0 +1,14 @@
+{
+  "hash": "a83a86d26e7c102d",
+  "source": "Search, add and remove modules in your Nuxt application with the command line.",
+  "text": "Recherchez, ajoutez et supprimez des modules dans votre application Nuxt en ligne de commande.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Recherchez, ajoutez et supprimez des modules dans votre application Nuxt en ligne de commande."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "590cc0f1d23c6833",
+  "source": "On a large app the prefetched set can grow past what a page actually needs. A public page and the signed-in app often share an entry chunk, so a prerendered public page can prefetch chunks that only the signed-in app uses. Prefetch hints have low download priority, but in volume they can still compete with the blocking stylesheet and delay first paint on a slow connection.",
+  "text": "Sur une grosse application, l'ensemble des ressources préchargées peut dépasser ce dont une page a réellement besoin. Une page publique et l'application connectée partagent souvent un chunk d'entrée, de sorte qu'une page publique pré-rendue peut précharger des chunks que seule l'application connectée utilise. Les indications de prefetch ont une priorité de téléchargement faible, mais en grand nombre elles peuvent tout de même entrer en concurrence avec la feuille de style bloquante et retarder le premier affichage sur une connexion lente.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sur une grosse application, l'ensemble des ressources préchargées peut dépasser ce dont une page a réellement besoin. Une page publique et l'application connectée partagent souvent un chunk d'entrée, de sorte qu'une page publique pré-rendue peut précharger des chunks que seule l'application connectée utilise. Les indications de prefetch ont une priorité de téléchargement faible, mais en grand nombre elles peuvent tout de même entrer en concurrence avec la feuille de style bloquante et retarder le premier affichage sur une connexion lente."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

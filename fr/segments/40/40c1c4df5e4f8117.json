@@ -1,0 +1,14 @@
+{
+  "hash": "40c1c4df5e4f8117",
+  "source": "Make sure to check before using anything dependent on Nuxt plugins, such as {0} or {1}, as if a plugin threw an error, then it won't be re-run until you clear the error.",
+  "text": "Veillez à vérifier avant d'utiliser tout ce qui dépend des plugins Nuxt, comme {0} ou {1}, car si un plugin a levé une erreur, il ne sera pas réexécuté tant que vous n'aurez pas effacé l'erreur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Veillez à vérifier avant d'utiliser tout ce qui dépend des plugins Nuxt, comme {0} ou {1}, car si un plugin a levé une erreur, il ne sera pas réexécuté tant que vous n'aurez pas effacé l'erreur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

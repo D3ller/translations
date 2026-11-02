@@ -1,0 +1,14 @@
+{
+  "hash": "32b9a64e227fefb3",
+  "source": "**Vue Options API disabled**: the Options API is compiled out of the client bundle to reduce its size",
+  "text": "**Options API de Vue désactivée** : l'Options API est retirée à la compilation du bundle client afin de réduire sa taille",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Options API de Vue désactivée** : l'Options API est retirée à la compilation du bundle client afin de réduire sa taille"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

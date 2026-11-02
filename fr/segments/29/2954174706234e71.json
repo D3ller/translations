@@ -1,0 +1,14 @@
+{
+  "hash": "2954174706234e71",
+  "source": "If you only need the router instance within your template, use {0}:",
+  "text": "Si vous avez uniquement besoin de l'instance du routeur dans votre template, utilisez {0} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous avez uniquement besoin de l'instance du routeur dans votre template, utilisez {0} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

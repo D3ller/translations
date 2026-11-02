@@ -1,0 +1,14 @@
+{
+  "hash": "7785180c102193a7",
+  "source": "Workaround the type conversion",
+  "text": "Contourner la conversion de type",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Contourner la conversion de type"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "a1839bc7f013c970",
+  "source": "Make examples copy-pasteable. Include the necessary imports and avoid placeholders such as {0} in the middle of code that a reader would paste into their project. A reader should be able to copy an example into their project and have it work with minimal changes.",
+  "text": "Rendez les exemples copiables-collables. Incluez les imports nécessaires et évitez les espaces réservés tels que {0} au milieu d'un code qu'un lecteur collerait dans son projet. Un lecteur doit pouvoir copier un exemple dans son projet et le faire fonctionner avec un minimum de modifications.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Rendez les exemples copiables-collables. Incluez les imports nécessaires et évitez les espaces réservés tels que {0} au milieu d'un code qu'un lecteur collerait dans son projet. Un lecteur doit pouvoir copier un exemple dans son projet et le faire fonctionner avec un minimum de modifications."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

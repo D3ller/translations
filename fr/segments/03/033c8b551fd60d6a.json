@@ -1,0 +1,14 @@
+{
+  "hash": "033c8b551fd60d6a",
+  "source": "Whether to call the function on the server.",
+  "text": "Indique s'il faut appeler la fonction sur le serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Indique s'il faut appeler la fonction sur le serveur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

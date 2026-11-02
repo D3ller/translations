@@ -1,0 +1,14 @@
+{
+  "hash": "858b9f0b4d74ab6b",
+  "source": "If you're using a custom {0} wrapper, do not await it in the composable as that can cause unexpected behavior. See recipe for custom async data fetcher.",
+  "text": "Si vous utilisez un wrapper {0} personnalisé, ne l'attendez pas avec await dans le composable, car cela peut provoquer un comportement inattendu. Consultez la recette sur le récupérateur de données asynchrones personnalisé.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous utilisez un wrapper {0} personnalisé, ne l'attendez pas avec await dans le composable, car cela peut provoquer un comportement inattendu. Consultez la recette sur le récupérateur de données asynchrones personnalisé."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

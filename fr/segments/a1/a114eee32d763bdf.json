@@ -1,0 +1,14 @@
+{
+  "hash": "a114eee32d763bdf",
+  "source": "Learn about the **layers/ directory** to organize and share reusable code, components, composables, and configurations across your Nuxt application.",
+  "text": "Découvrez le **répertoire layers/** pour organiser et partager du code réutilisable, des composants, des composables et des configurations dans votre application Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Découvrez le **répertoire layers/** pour organiser et partager du code réutilisable, des composants, des composables et des configurations dans votre application Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

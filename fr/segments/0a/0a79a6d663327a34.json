@@ -1,0 +1,14 @@
+{
+  "hash": "0a79a6d663327a34",
+  "source": "For more examples see {0}Vue Router's Matching Syntax{/0}.",
+  "text": "Pour plus d'exemples, consultez la {0}syntaxe de correspondance de Vue Router{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour plus d'exemples, consultez la {0}syntaxe de correspondance de Vue Router{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

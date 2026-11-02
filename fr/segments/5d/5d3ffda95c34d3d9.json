@@ -1,0 +1,14 @@
+{
+  "hash": "5d3ffda95c34d3d9",
+  "source": "Register hooks that execute when Nitro shuts down.",
+  "text": "Enregistrer des hooks exécutés à l'arrêt de Nitro.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Enregistrer des hooks exécutés à l'arrêt de Nitro."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

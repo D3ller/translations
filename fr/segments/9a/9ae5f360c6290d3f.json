@@ -1,0 +1,14 @@
+{
+  "hash": "9ae5f360c6290d3f",
+  "source": "Optimistic Updates",
+  "text": "Mises à jour optimistes",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mises à jour optimistes"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "2fd317917310a9d9",
+  "source": "which nuxt will respect",
+  "text": "que nuxt respectera",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "que nuxt respectera"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

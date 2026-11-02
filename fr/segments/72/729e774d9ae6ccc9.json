@@ -1,0 +1,14 @@
+{
+  "hash": "729e774d9ae6ccc9",
+  "source": "Allows extending Vite default context.",
+  "text": "Permet d'étendre le contexte par défaut de Vite.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Permet d'étendre le contexte par défaut de Vite."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

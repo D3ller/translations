@@ -1,0 +1,14 @@
+{
+  "hash": "623c107a0e1e7174",
+  "source": "❌ Won't work - dynamic property access",
+  "text": "❌ Ne fonctionne pas - accès dynamique à une propriété",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "❌ Ne fonctionne pas - accès dynamique à une propriété"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "007fa623cb6817b1",
+  "source": "The .nuxtrc file allows you to define nuxt configurations in a flat syntax.",
+  "text": "Le fichier .nuxtrc vous permet de définir la configuration de Nuxt avec une syntaxe à plat.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le fichier .nuxtrc vous permet de définir la configuration de Nuxt avec une syntaxe à plat."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

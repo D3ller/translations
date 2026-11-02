@@ -1,0 +1,14 @@
+{
+  "hash": "ee0ea976ad14816f",
+  "source": "The example below shows how to set a public API base URL and a secret API token that is only accessible on the server.",
+  "text": "L'exemple ci-dessous montre comment définir une URL de base d'API publique et un jeton d'API secret accessible uniquement sur le serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'exemple ci-dessous montre comment définir une URL de base d'API publique et un jeton d'API secret accessible uniquement sur le serveur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

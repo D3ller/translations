@@ -1,0 +1,14 @@
+{
+  "hash": "642e322bc8ac6212",
+  "source": "a directory, resolved relative to your project root",
+  "text": "un répertoire, résolu par rapport à la racine de votre projet",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "un répertoire, résolu par rapport à la racine de votre projet"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

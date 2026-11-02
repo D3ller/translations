@@ -1,0 +1,14 @@
+{
+  "hash": "d7944e3ffad0842d",
+  "source": "You can define a page as {0}client only{/0} by giving it a {1} suffix. None of the content of this page will be rendered on the server.",
+  "text": "Vous pouvez définir une page comme {0}client uniquement{/0} en lui donnant le suffixe {1}. Aucun contenu de cette page ne sera rendu sur le serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez définir une page comme {0}client uniquement{/0} en lui donnant le suffixe {1}. Aucun contenu de cette page ne sera rendu sur le serveur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

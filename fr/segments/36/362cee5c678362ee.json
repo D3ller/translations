@@ -1,0 +1,14 @@
+{
+  "hash": "362cee5c678362ee",
+  "source": "{0} is generated during server-side rendering and it is only available on the server side.",
+  "text": "{0} est généré pendant le rendu côté serveur et n'est disponible que côté serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est généré pendant le rendu côté serveur et n'est disponible que côté serveur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "3abb7e9280580f97",
+  "source": "Please note the layout name is normalized to kebab-case, so if your layout file is named {0}, it will become {1} when passed as a {2} property to {3}.",
+  "text": "Notez que le nom du layout est normalisé en kebab-case : si votre fichier de layout s'appelle {0}, il deviendra {1} lorsqu'il est passé en tant que propriété {2} à {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Notez que le nom du layout est normalisé en kebab-case : si votre fichier de layout s'appelle {0}, il deviendra {1} lorsqu'il est passé en tant que propriété {2} à {3}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

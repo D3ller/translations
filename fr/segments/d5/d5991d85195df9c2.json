@@ -1,0 +1,14 @@
+{
+  "hash": "d5991d85195df9c2",
+  "source": "Nuxt A11y releases.",
+  "text": "Versions de Nuxt A11y.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Versions de Nuxt A11y."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

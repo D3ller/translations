@@ -1,0 +1,14 @@
+{
+  "hash": "1c226e59ad0a52c9",
+  "source": "This kind of plugin runs very early in the Nuxt lifecycle, before we revive the payload.",
+  "text": "Ce type de plugin s'exécute très tôt dans le cycle de vie de Nuxt, avant la restauration du payload.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ce type de plugin s'exécute très tôt dans le cycle de vie de Nuxt, avant la restauration du payload."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

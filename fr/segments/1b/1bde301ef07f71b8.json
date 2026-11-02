@@ -1,0 +1,14 @@
+{
+  "hash": "1bde301ef07f71b8",
+  "source": "The {0} object provides the following fields:",
+  "text": "L'objet {0} fournit les champs suivants :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'objet {0} fournit les champs suivants :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

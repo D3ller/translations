@@ -1,0 +1,14 @@
+{
+  "hash": "884195405feab4cc",
+  "source": "The plugins directory for Nuxt plugins",
+  "text": "Le répertoire plugins pour les plugins Nuxt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le répertoire plugins pour les plugins Nuxt"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

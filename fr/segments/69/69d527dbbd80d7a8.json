@@ -1,0 +1,14 @@
+{
+  "hash": "69d527dbbd80d7a8",
+  "source": "After rendering the Vue application to HTML, Nuxt calls the {0} hook.",
+  "text": "Après le rendu de l'application Vue en HTML, Nuxt appelle le hook {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Après le rendu de l'application Vue en HTML, Nuxt appelle le hook {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

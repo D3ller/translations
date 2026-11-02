@@ -1,0 +1,14 @@
+{
+  "hash": "a5b38aa1e802e322",
+  "source": "Payloads are serialized with {0}devalue{/0}, so custom types (such as class instances) need payload plugins with custom reducers and revivers to survive the round trip.",
+  "text": "Les payloads sont sérialisés avec {0}devalue{/0} ; les types personnalisés (comme les instances de classe) nécessitent donc des plugins de payload avec des reducers et revivers personnalisés pour survivre à l'aller-retour.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les payloads sont sérialisés avec {0}devalue{/0} ; les types personnalisés (comme les instances de classe) nécessitent donc des plugins de payload avec des reducers et revivers personnalisés pour survivre à l'aller-retour."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "d39d88e407574bca",
+  "source": "Any prop change on a lazily hydrated component will trigger hydration immediately. (e.g., changing a prop on a component with {0} will cause it to hydrate)",
+  "text": "Toute modification de prop sur un composant à hydratation différée déclenchera immédiatement l'hydratation. (par exemple, modifier une prop sur un composant avec {0} provoquera son hydratation)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Toute modification de prop sur un composant à hydratation différée déclenchera immédiatement l'hydratation. (par exemple, modifier une prop sur un composant avec {0} provoquera son hydratation)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

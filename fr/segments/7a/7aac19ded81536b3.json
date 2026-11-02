@@ -1,0 +1,14 @@
+{
+  "hash": "7aac19ded81536b3",
+  "source": "But in order to auto-import it, you would need to use {0}.",
+  "text": "Mais pour l'importer automatiquement, vous devriez utiliser {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mais pour l'importer automatiquement, vous devriez utiliser {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

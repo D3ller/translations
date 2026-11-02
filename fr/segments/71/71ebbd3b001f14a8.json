@@ -1,0 +1,14 @@
+{
+  "hash": "71ebbd3b001f14a8",
+  "source": "{0}fontless{/0} is the same resolve-and-inject pipeline as a Vite plugin, for projects that aren't built on Nuxt.",
+  "text": "{0}fontless{/0} est le même pipeline de résolution et d'injection, sous forme de plugin Vite, pour les projets qui ne sont pas construits sur Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}fontless{/0} est le même pipeline de résolution et d'injection, sous forme de plugin Vite, pour les projets qui ne sont pas construits sur Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "1b4bfcb82b5d61f4",
+  "source": "Components inside {0} are rendered only after being mounted. To access the rendered elements in the DOM, you can watch a template ref:",
+  "text": "Les composants à l'intérieur de {0} ne sont affichés qu'après avoir été montés. Pour accéder aux éléments affichés dans le DOM, vous pouvez observer une template ref :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les composants à l'intérieur de {0} ne sont affichés qu'après avoir été montés. Pour accéder aux éléments affichés dans le DOM, vous pouvez observer une template ref :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

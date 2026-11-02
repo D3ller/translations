@@ -1,0 +1,14 @@
+{
+  "hash": "83fd7d6921b2c667",
+  "source": "Learn what the surface covers, and what it means for module authors.",
+  "text": "Découvrez ce que couvre cette surface et ce que cela implique pour les auteurs de modules.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Découvrez ce que couvre cette surface et ce que cela implique pour les auteurs de modules."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

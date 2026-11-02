@@ -1,0 +1,14 @@
+{
+  "hash": "ccdb387c5cd723e8",
+  "source": "{0}: Add a new route to the router instance. {1} can be provided to add new route as the child of an existing route.",
+  "text": "{0} : ajoute une nouvelle route à l'instance du routeur. {1} peut être fourni pour ajouter la nouvelle route comme enfant d'une route existante.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : ajoute une nouvelle route à l'instance du routeur. {1} peut être fourni pour ajouter la nouvelle route comme enfant d'une route existante."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

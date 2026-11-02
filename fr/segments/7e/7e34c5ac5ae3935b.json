@@ -1,0 +1,14 @@
+{
+  "hash": "7e34c5ac5ae3935b",
+  "source": "That you probably don't want both enabled!",
+  "text": "Vous ne voudrez probablement pas activer les deux !",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous ne voudrez probablement pas activer les deux !"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

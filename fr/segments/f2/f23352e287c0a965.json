@@ -1,0 +1,14 @@
+{
+  "hash": "f23352e287c0a965",
+  "source": "Array of plugin names this plugin depends on. Ensures proper execution order.",
+  "text": "Tableau des noms des plugins dont ce plugin dépend. Garantit un ordre d'exécution correct.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Tableau des noms des plugins dont ce plugin dépend. Garantit un ordre d'exécution correct."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

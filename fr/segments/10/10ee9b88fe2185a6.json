@@ -1,0 +1,14 @@
+{
+  "hash": "10ee9b88fe2185a6",
+  "source": "Use the {0}{1} command{/0} to build and pre-render your application using the {2}Nitro{/2} crawler. This command is similar to {3} with the {4} option set to {5}, or running {6}.",
+  "text": "Utilisez la {0}commande {1}{/0} pour construire et prérendre votre application à l'aide du robot d'exploration de {2}Nitro{/2}. Cette commande est similaire à {3} avec l'option {4} définie sur {5}, ou à l'exécution de {6}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utilisez la {0}commande {1}{/0} pour construire et prérendre votre application à l'aide du robot d'exploration de {2}Nitro{/2}. Cette commande est similaire à {3} avec l'option {4} définie sur {5}, ou à l'exécution de {6}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

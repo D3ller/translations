@@ -1,0 +1,14 @@
+{
+  "hash": "177f44f3ebfc3edb",
+  "source": "Named font weights",
+  "text": "Graisses de police nommées",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Graisses de police nommées"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "fdb060adab1c2534",
+  "source": "Click the ellipsis button (**...**) at the top right, then click **Copilot** in the sidebar",
+  "text": "Cliquez sur le bouton de points de suspension (**...**) en haut à droite, puis sur **Copilot** dans la barre latérale",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cliquez sur le bouton de points de suspension (**...**) en haut à droite, puis sur **Copilot** dans la barre latérale"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "6a0f78dab346fe4a",
+  "source": "The most common way to provide configuration is by using environment variables.",
+  "text": "La façon la plus courante de fournir la configuration est d'utiliser des variables d'environnement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La façon la plus courante de fournir la configuration est d'utiliser des variables d'environnement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

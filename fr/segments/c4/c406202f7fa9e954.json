@@ -1,0 +1,14 @@
+{
+  "hash": "c406202f7fa9e954",
+  "source": "{0} might be used by module authors who are declaring what valid *input* options are when setting app config. This will not affect the type of {1}.",
+  "text": "{0} peut être utilisé par les auteurs de modules qui déclarent quelles options *d'entrée* sont valides lors de la définition de l'app config. Cela n'affectera pas le type de {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} peut être utilisé par les auteurs de modules qui déclarent quelles options *d'entrée* sont valides lors de la définition de l'app config. Cela n'affectera pas le type de {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

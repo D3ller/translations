@@ -1,0 +1,14 @@
+{
+  "hash": "1f423703378887b4",
+  "source": "Breaking changes for devtools might not reflect on the version of Nuxt.",
+  "text": "Les changements majeurs concernant les devtools ne sont pas forcément reflétés dans la version de Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les changements majeurs concernant les devtools ne sont pas forcément reflétés dans la version de Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

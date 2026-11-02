@@ -1,0 +1,14 @@
+{
+  "hash": "7f88a24c343feabd",
+  "source": "Getting Help",
+  "text": "Obtenir de l'aide",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Obtenir de l'aide"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

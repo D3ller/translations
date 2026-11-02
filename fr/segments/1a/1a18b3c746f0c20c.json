@@ -1,0 +1,14 @@
+{
+  "hash": "1a18b3c746f0c20c",
+  "source": "Font injection now works with {0} and {1}. Previously our CSS transform ran after {2} had already turned your stylesheets into JavaScript modules, so no {3} rule was ever injected, and a family declared with {4} failed the client build.",
+  "text": "L'injection de polices fonctionne désormais avec {0} et {1}. Auparavant, notre transformation CSS s'exécutait après que {2} avait déjà converti vos feuilles de style en modules JavaScript, si bien qu'aucune règle {3} n'était injectée, et qu'une famille déclarée avec {4} faisait échouer le build client.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'injection de polices fonctionne désormais avec {0} et {1}. Auparavant, notre transformation CSS s'exécutait après que {2} avait déjà converti vos feuilles de style en modules JavaScript, si bien qu'aucune règle {3} n'était injectée, et qu'une famille déclarée avec {4} faisait échouer le build client."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

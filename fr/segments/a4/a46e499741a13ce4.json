@@ -1,0 +1,14 @@
+{
+  "hash": "a46e499741a13ce4",
+  "source": "Generates responsive sizes when providing {0} option",
+  "text": "Génère des tailles adaptatives lorsque l'option {0} est fournie",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Génère des tailles adaptatives lorsque l'option {0} est fournie"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

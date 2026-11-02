@@ -1,0 +1,14 @@
+{
+  "hash": "6f7f14be2bdc8f72",
+  "source": "Bridge is a forward-compatibility layer that allows you to experience many of the new Nuxt 3 features by simply installing and enabling a Nuxt module.",
+  "text": "Bridge est une couche de compatibilité ascendante qui vous permet de profiter de nombreuses nouvelles fonctionnalités de Nuxt 3 en installant et en activant simplement un module Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bridge est une couche de compatibilité ascendante qui vous permet de profiter de nombreuses nouvelles fonctionnalités de Nuxt 3 en installant et en activant simplement un module Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

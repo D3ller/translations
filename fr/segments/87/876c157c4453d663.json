@@ -1,0 +1,14 @@
+{
+  "hash": "876c157c4453d663",
+  "source": "Clears the captured server log lines. Useful between requests when you want to assert only on the logs produced by a specific operation.",
+  "text": "Efface les lignes de log du serveur capturées. Utile entre deux requêtes lorsque vous souhaitez vérifier uniquement les logs produits par une opération précise.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Efface les lignes de log du serveur capturées. Utile entre deux requêtes lorsque vous souhaitez vérifier uniquement les logs produits par une opération précise."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

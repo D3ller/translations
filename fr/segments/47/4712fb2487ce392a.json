@@ -1,0 +1,14 @@
+{
+  "hash": "4712fb2487ce392a",
+  "source": "Array of script objects. Each element is mapped to a {0} tag, where object properties correspond to HTML attributes.",
+  "text": "Tableau d'objets script. Chaque élément est converti en une balise {0}, où les propriétés de l'objet correspondent aux attributs HTML.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Tableau d'objets script. Chaque élément est converti en une balise {0}, où les propriétés de l'objet correspondent aux attributs HTML."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

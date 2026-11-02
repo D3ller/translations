@@ -1,0 +1,14 @@
+{
+  "hash": "69c30155035d0a1b",
+  "source": "The port and host can also be set via {0}, {1}, {2}, {3}, {4} or {5} environment variables.",
+  "text": "Le port et l'hôte peuvent également être définis via les variables d'environnement {0}, {1}, {2}, {3}, {4} ou {5}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le port et l'hôte peuvent également être définis via les variables d'environnement {0}, {1}, {2}, {3}, {4} ou {5}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

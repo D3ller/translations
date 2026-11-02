@@ -1,0 +1,14 @@
+{
+  "hash": "ea06e863bc555e97",
+  "source": "{0}: the root component of your Nuxt application",
+  "text": "{0} : le composant racine de votre application Nuxt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : le composant racine de votre application Nuxt"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

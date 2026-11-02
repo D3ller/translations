@@ -1,0 +1,14 @@
+{
+  "hash": "c53b8cd063a3eec2",
+  "source": "When working with Nuxt, you might be making the frontend and fetching an external API, and you might want to set some default options for fetching from your API.",
+  "text": "Lorsque vous travaillez avec Nuxt, vous pouvez développer le frontend et récupérer des données depuis une API externe, et vous pouvez vouloir définir des options par défaut pour les appels à cette API.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque vous travaillez avec Nuxt, vous pouvez développer le frontend et récupérer des données depuis une API externe, et vous pouvez vouloir définir des options par défaut pour les appels à cette API."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

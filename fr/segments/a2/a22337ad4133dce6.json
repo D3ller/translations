@@ -1,0 +1,14 @@
+{
+  "hash": "a22337ad4133dce6",
+  "source": "{0} meant **do not *cancel* existing requests in favour of this new one**. But passing {1} within the options of {2} means **do not make any new requests if there is an existing pending request.** (See {3}PR{/3}.)",
+  "text": "{0} signifiait **ne pas *annuler* les requêtes existantes au profit de la nouvelle**. Mais passer {1} dans les options de {2} signifie **ne faire aucune nouvelle requête s'il existe déjà une requête en attente.** (Voir la {3}PR{/3}.)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} signifiait **ne pas *annuler* les requêtes existantes au profit de la nouvelle**. Mais passer {1} dans les options de {2} signifie **ne faire aucune nouvelle requête s'il existe déjà une requête en attente.** (Voir la {3}PR{/3}.)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "6587190a465d5faa",
+  "source": "You can read more about Nitro plugins in the {0}Nitro documentation{/0}.",
+  "text": "Vous pouvez en savoir plus sur les plugins Nitro dans la {0}documentation de Nitro{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez en savoir plus sur les plugins Nitro dans la {0}documentation de Nitro{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

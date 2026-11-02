@@ -1,0 +1,14 @@
+{
+  "hash": "821e9f25b9b846df",
+  "source": "Add directories to be scanned by Nitro. It will check for subdirectories, which will be registered just like the {0} folder is.",
+  "text": "Ajoute des répertoires à analyser par Nitro. Il vérifiera les sous-répertoires, qui seront enregistrés exactement comme l'est le dossier {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ajoute des répertoires à analyser par Nitro. Il vérifiera les sous-répertoires, qui seront enregistrés exactement comme l'est le dossier {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

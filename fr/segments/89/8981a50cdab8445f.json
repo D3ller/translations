@@ -1,0 +1,14 @@
+{
+  "hash": "8981a50cdab8445f",
+  "source": "Rendering an error page is an entirely separate page load, meaning any registered middleware will run again. You can use {0} in middleware to check if an error is being handled.",
+  "text": "Le rendu d'une page d'erreur est un chargement de page entièrement distinct, ce qui signifie que tout middleware enregistré sera exécuté à nouveau. Vous pouvez utiliser {0} dans un middleware pour vérifier si une erreur est en cours de traitement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le rendu d'une page d'erreur est un chargement de page entièrement distinct, ce qui signifie que tout middleware enregistré sera exécuté à nouveau. Vous pouvez utiliser {0} dans un middleware pour vérifier si une erreur est en cours de traitement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

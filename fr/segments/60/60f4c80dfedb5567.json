@@ -1,0 +1,14 @@
+{
+  "hash": "60f4c80dfedb5567",
+  "source": "What Is LLMs.txt?",
+  "text": "Qu'est-ce que LLMs.txt ?",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Qu'est-ce que LLMs.txt ?"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

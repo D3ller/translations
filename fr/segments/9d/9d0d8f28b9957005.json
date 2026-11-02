@@ -1,0 +1,14 @@
+{
+  "hash": "9d0d8f28b9957005",
+  "source": "Supporting Nuxt versions \\<4.6 takes one more step, because those projects have no {0} to resolve. You can instead register the portable file and the one you ship today side by side, and Nuxt will pick whichever the application can run.",
+  "text": "Prendre en charge les versions de Nuxt \\<4.6 demande une étape supplémentaire, car ces projets n'ont pas de {0} à résoudre. Vous pouvez à la place enregistrer côte à côte le fichier portable et celui que vous livrez aujourd'hui, et Nuxt choisira celui que l'application peut exécuter.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Prendre en charge les versions de Nuxt \\<4.6 demande une étape supplémentaire, car ces projets n'ont pas de {0} à résoudre. Vous pouvez à la place enregistrer côte à côte le fichier portable et celui que vous livrez aujourd'hui, et Nuxt choisira celui que l'application peut exécuter."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

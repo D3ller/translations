@@ -1,0 +1,14 @@
+{
+  "hash": "d5b334e23084e6b0",
+  "source": "You can use this function to create an error object with additional metadata. It is usable in both the Vue and Nitro portions of your app, and is meant to be thrown.",
+  "text": "Vous pouvez utiliser cette fonction pour créer un objet d'erreur avec des métadonnées supplémentaires. Elle est utilisable à la fois dans les parties Vue et Nitro de votre application, et est destinée à être lancée (throw).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez utiliser cette fonction pour créer un objet d'erreur avec des métadonnées supplémentaires. Elle est utilisable à la fois dans les parties Vue et Nitro de votre application, et est destinée à être lancée (throw)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "bdb9eae53b63e442",
+  "source": "**Node-resolution config types**: The generated {0} tsconfig describes {1}how the runtime loads {2} and modules{/1}",
+  "text": "**Types de configuration de résolution Node** : le tsconfig {0} généré décrit {1}comment le runtime charge {2} et les modules{/1}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Types de configuration de résolution Node** : le tsconfig {0} généré décrit {1}comment le runtime charge {2} et les modules{/1}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

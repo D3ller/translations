@@ -1,0 +1,14 @@
+{
+  "hash": "e025cdbb0f6e25b9",
+  "source": "{0} - For code shared between app and server contexts (like types and non-environment specific utilities)",
+  "text": "{0} - Pour le code partagé entre les contextes de l'application et du serveur (comme les types et les utilitaires non spécifiques à un environnement)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} - Pour le code partagé entre les contextes de l'application et du serveur (comme les types et les utilitaires non spécifiques à un environnement)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

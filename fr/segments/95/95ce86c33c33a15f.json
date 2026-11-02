@@ -1,0 +1,14 @@
+{
+  "hash": "95ce86c33c33a15f",
+  "source": "Which builder types to include for your project.",
+  "text": "Les types de builder à inclure pour votre projet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les types de builder à inclure pour votre projet."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

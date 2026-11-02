@@ -1,0 +1,14 @@
+{
+  "hash": "9dc318501510d7fe",
+  "source": "Instead, write the handler against the web {0} and {1}, read configuration from {2} in {3}, and adapt it to each server API:",
+  "text": "Écrivez plutôt le handler en vous appuyant sur les {0} et {1} web, lisez la configuration depuis {2} dans {3}, et adaptez-le à chaque API serveur :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Écrivez plutôt le handler en vous appuyant sur les {0} et {1} web, lisez la configuration depuis {2} dans {3}, et adaptez-le à chaque API serveur :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

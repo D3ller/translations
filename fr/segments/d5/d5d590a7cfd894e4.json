@@ -1,0 +1,14 @@
+{
+  "hash": "d5d590a7cfd894e4",
+  "source": "By default we preload the highest priority font face for a family, as long as it has a remote or local URL and does not define a {0} (in other words, subsetted fonts like those from Google Fonts are not preloaded).",
+  "text": "Par défaut, nous préchargeons la face de police de plus haute priorité pour une famille, tant qu'elle possède une URL distante ou locale et ne définit pas de {0} (autrement dit, les polices en sous-ensembles comme celles de Google Fonts ne sont pas préchargées).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par défaut, nous préchargeons la face de police de plus haute priorité pour une famille, tant qu'elle possède une URL distante ou locale et ne définit pas de {0} (autrement dit, les polices en sous-ensembles comme celles de Google Fonts ne sont pas préchargées)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

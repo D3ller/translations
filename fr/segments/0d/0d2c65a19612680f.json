@@ -1,0 +1,14 @@
+{
+  "hash": "0d2c65a19612680f",
+  "source": "Sets the message with {0}. Use for urgent updates that should interrupt the screen reader immediately.",
+  "text": "Définit le message avec {0}. À utiliser pour les mises à jour urgentes qui doivent interrompre immédiatement le lecteur d'écran.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définit le message avec {0}. À utiliser pour les mises à jour urgentes qui doivent interrompre immédiatement le lecteur d'écran."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

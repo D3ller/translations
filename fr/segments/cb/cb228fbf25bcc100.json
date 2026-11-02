@@ -1,0 +1,14 @@
+{
+  "hash": "cb228fbf25bcc100",
+  "source": "The keys come in two shapes:",
+  "text": "Les clés se présentent sous deux formes :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les clés se présentent sous deux formes :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

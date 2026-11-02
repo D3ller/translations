@@ -1,0 +1,14 @@
+{
+  "hash": "efe0b71e4efb7aa1",
+  "source": "See the full Nitro v3 migration guide for all breaking changes.",
+  "text": "Consultez le guide de migration complet de Nitro v3 pour tous les changements majeurs.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Consultez le guide de migration complet de Nitro v3 pour tous les changements majeurs."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

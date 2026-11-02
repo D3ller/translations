@@ -1,0 +1,14 @@
+{
+  "hash": "748f26ce8f75fb5e",
+  "source": "Every commit on {0} is published to the nightly channel:",
+  "text": "Chaque commit sur {0} est publié sur le canal nightly :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Chaque commit sur {0} est publié sur le canal nightly :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

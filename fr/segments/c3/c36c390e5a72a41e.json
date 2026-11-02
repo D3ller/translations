@@ -1,0 +1,14 @@
+{
+  "hash": "c36c390e5a72a41e",
+  "source": "Addons run in the order of the {0} array, with middleware from the first addon as the outermost wrapper. Listing the same addon object more than once runs it only once.",
+  "text": "Les addons s'exécutent dans l'ordre du tableau {0}, le middleware du premier addon étant l'enveloppe la plus externe. Lister plusieurs fois le même objet addon ne l'exécute qu'une seule fois.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les addons s'exécutent dans l'ordre du tableau {0}, le middleware du premier addon étant l'enveloppe la plus externe. Lister plusieurs fois le même objet addon ne l'exécute qu'une seule fois."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

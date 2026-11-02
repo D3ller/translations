@@ -1,0 +1,14 @@
+{
+  "hash": "9e41ea8d07e97e48",
+  "source": "Chromium and Safari log a {0} warning for each forwarded image hint on a route the user never visits. Forwarded image requests also carry no {1} header, so they count as ordinary traffic against image CDN quotas, rate limits and analytics.",
+  "text": "Chromium et Safari affichent un avertissement {0} pour chaque indication d'image transmise sur une route que l'utilisateur ne visite jamais. Les requêtes d'images transmises ne portent pas non plus d'en-tête {1}, elles comptent donc comme du trafic ordinaire dans les quotas des CDN d'images, les limites de débit et les statistiques.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Chromium et Safari affichent un avertissement {0} pour chaque indication d'image transmise sur une route que l'utilisateur ne visite jamais. Les requêtes d'images transmises ne portent pas non plus d'en-tête {1}, elles comptent donc comme du trafic ordinaire dans les quotas des CDN d'images, les limites de débit et les statistiques."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

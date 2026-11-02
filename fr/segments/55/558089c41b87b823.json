@@ -1,0 +1,14 @@
+{
+  "hash": "558089c41b87b823",
+  "source": "This would output something like: \"April 22, 2025, 08:30 AM\"",
+  "text": "Cela afficherait quelque chose comme : « April 22, 2025, 08:30 AM »",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela afficherait quelque chose comme : « April 22, 2025, 08:30 AM »"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

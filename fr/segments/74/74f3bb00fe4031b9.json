@@ -1,0 +1,14 @@
+{
+  "hash": "74f3bb00fe4031b9",
+  "source": "Open the MCP store via the \"...\" dropdown at the top of the editor's agent panel.",
+  "text": "Ouvrez le store MCP via le menu déroulant « ... » en haut du panneau d'agent de l'éditeur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ouvrez le store MCP via le menu déroulant « ... » en haut du panneau d'agent de l'éditeur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

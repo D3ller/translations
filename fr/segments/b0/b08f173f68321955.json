@@ -1,0 +1,14 @@
+{
+  "hash": "b08f173f68321955",
+  "source": "**{0} from {1}**: On the server, the Nitro helper changed from {2} to {3}, which returns {4}.",
+  "text": "**{0} depuis {1}** : côté serveur, le helper de Nitro est passé de {2} à {3}, qui renvoie {4}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0} depuis {1}** : côté serveur, le helper de Nitro est passé de {2} à {3}, qui renvoie {4}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

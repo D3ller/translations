@@ -1,0 +1,14 @@
+{
+  "hash": "21b6e2d87dd75e0e",
+  "source": "Nuxt {0}automatically generates{/0} multiple TypeScript configuration files ({1}, {2}, {3} and {4}) that include recommended basic TypeScript configuration for your project, references to {5}auto-imports{/5}, {6}API route types{/6}, path aliases, and more.",
+  "text": "Nuxt {0}génère automatiquement{/0} plusieurs fichiers de configuration TypeScript ({1}, {2}, {3} et {4}) qui incluent la configuration TypeScript de base recommandée pour votre projet, des références aux {5}imports automatiques{/5}, aux {6}types des routes d'API{/6}, aux alias de chemin, et plus encore.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt {0}génère automatiquement{/0} plusieurs fichiers de configuration TypeScript ({1}, {2}, {3} et {4}) qui incluent la configuration TypeScript de base recommandée pour votre projet, des références aux {5}imports automatiques{/5}, aux {6}types des routes d'API{/6}, aux alias de chemin, et plus encore."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

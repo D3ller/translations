@@ -1,0 +1,14 @@
+{
+  "hash": "cc6cffe5d05449ca",
+  "source": "A provider can be asynchronous and is read lazily, when the server build resolves the corresponding {0} import. This lets a builder register the provider early (for example before the client build has finished) and have it return the finalised value once the data exists.",
+  "text": "Un fournisseur peut être asynchrone et est lu de manière différée, lorsque le build serveur résout l'import {0} correspondant. Cela permet à un builder d'enregistrer le fournisseur tôt (par exemple avant la fin du build client) et de lui faire retourner la valeur finale une fois que les données existent.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un fournisseur peut être asynchrone et est lu de manière différée, lorsque le build serveur résout l'import {0} correspondant. Cela permet à un builder d'enregistrer le fournisseur tôt (par exemple avant la fin du build client) et de lui faire retourner la valeur finale une fois que les données existent."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "531c681443c2554d",
+  "source": "We value clear, human communication over perfect grammar or spelling",
+  "text": "Nous privilégions une communication claire et humaine à une grammaire ou une orthographe parfaites",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nous privilégions une communication claire et humaine à une grammaire ou une orthographe parfaites"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

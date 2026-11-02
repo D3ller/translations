@@ -1,0 +1,14 @@
+{
+  "hash": "5ac54f3235f76366",
+  "source": "Treating props as untrusted includes their size: validate or clamp numeric and array props before using them to drive a {0} or other work that grows with their value. Nuxt caps numeric {1} sources at 10,000 iterations in island renders, but only as a safety net, not as validation.",
+  "text": "Considérer les props comme non fiables inclut aussi leur taille : validez ou limitez les props numériques et les tableaux avant de les utiliser pour piloter un {0} ou tout autre traitement dont le coût croît avec leur valeur. Nuxt plafonne les sources {1} numériques à 10,000 itérations dans les rendus d'islands, mais uniquement comme filet de sécurité, pas comme validation.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Considérer les props comme non fiables inclut aussi leur taille : validez ou limitez les props numériques et les tableaux avant de les utiliser pour piloter un {0} ou tout autre traitement dont le coût croît avec leur valeur. Nuxt plafonne les sources {1} numériques à 10,000 itérations dans les rendus d'islands, mais uniquement comme filet de sécurité, pas comme validation."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

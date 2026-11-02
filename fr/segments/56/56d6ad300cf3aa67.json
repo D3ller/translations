@@ -1,0 +1,14 @@
+{
+  "hash": "56d6ad300cf3aa67",
+  "source": "Debugging",
+  "text": "Débogage",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Débogage"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

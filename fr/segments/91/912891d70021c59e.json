@@ -1,0 +1,14 @@
+{
+  "hash": "912891d70021c59e",
+  "source": "Returns a {0} containing the current Nuxt error (or {1} if there is no error). The error object is reactive and will update automatically when the error state changes.",
+  "text": "Renvoie un {0} contenant l'erreur Nuxt actuelle (ou {1} s'il n'y a pas d'erreur). L'objet d'erreur est réactif et se met à jour automatiquement lorsque l'état de l'erreur change.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Renvoie un {0} contenant l'erreur Nuxt actuelle (ou {1} s'il n'y a pas d'erreur). L'objet d'erreur est réactif et se met à jour automatiquement lorsque l'état de l'erreur change."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

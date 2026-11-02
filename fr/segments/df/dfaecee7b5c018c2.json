@@ -1,0 +1,14 @@
+{
+  "hash": "dfaecee7b5c018c2",
+  "source": "{0} is the preferred way to make HTTP calls in Nuxt instead of {1}@nuxt/http{/1} and {2}@nuxtjs/axios{/2} that are made for Nuxt 2.",
+  "text": "{0} est la méthode à privilégier pour effectuer des appels HTTP dans Nuxt, plutôt que {1}@nuxt/http{/1} et {2}@nuxtjs/axios{/2}, qui sont conçus pour Nuxt 2.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est la méthode à privilégier pour effectuer des appels HTTP dans Nuxt, plutôt que {1}@nuxt/http{/1} et {2}@nuxtjs/axios{/2}, qui sont conçus pour Nuxt 2."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

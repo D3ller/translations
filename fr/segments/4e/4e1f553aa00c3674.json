@@ -1,0 +1,14 @@
+{
+  "hash": "4e1f553aa00c3674",
+  "source": "{0}: the initial route, or {1} to skip the initial route change (default {2}).",
+  "text": "{0} : la route initiale, ou {1} pour ignorer le changement de route initial (par défaut {2}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : la route initiale, ou {1} pour ignorer le changement de route initial (par défaut {2})."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

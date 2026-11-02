@@ -1,0 +1,14 @@
+{
+  "hash": "0139867f710b4570",
+  "source": "Example of a Nuxt application with hybrid rendering deployed on Vercel.",
+  "text": "Exemple d'application Nuxt avec rendu hybride déployée sur Vercel.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Exemple d'application Nuxt avec rendu hybride déployée sur Vercel."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

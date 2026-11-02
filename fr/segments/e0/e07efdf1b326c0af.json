@@ -1,0 +1,14 @@
+{
+  "hash": "e07efdf1b326c0af",
+  "source": "With ES modules you can obtain some metadata from the code that imports or compiles your ES-module. This is done through {0}, which is an object that provides your code with this information. Throughout the Nuxt documentation you may see snippets that use this already to figure out whether the code is currently running on the client or server side.",
+  "text": "Avec les modules ES, vous pouvez obtenir des métadonnées à partir du code qui importe ou compile votre module ES. Cela se fait via {0}, un objet qui fournit ces informations à votre code. Dans la documentation de Nuxt, vous pouvez voir des extraits qui l'utilisent déjà pour déterminer si le code s'exécute actuellement côté client ou côté serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Avec les modules ES, vous pouvez obtenir des métadonnées à partir du code qui importe ou compile votre module ES. Cela se fait via {0}, un objet qui fournit ces informations à votre code. Dans la documentation de Nuxt, vous pouvez voir des extraits qui l'utilisent déjà pour déterminer si le code s'exécute actuellement côté client ou côté serveur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

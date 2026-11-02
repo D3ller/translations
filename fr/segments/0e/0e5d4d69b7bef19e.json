@@ -1,0 +1,14 @@
+{
+  "hash": "0e5d4d69b7bef19e",
+  "source": "Defines the name of the font that should be given the option. This is required for every item in the {0} array.",
+  "text": "Définit le nom de la police à laquelle l'option doit être appliquée. Cette propriété est obligatoire pour chaque élément du tableau {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définit le nom de la police à laquelle l'option doit être appliquée. Cette propriété est obligatoire pour chaque élément du tableau {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "623870fbe7dad477",
+  "source": "Combining with a Custom {0}",
+  "text": "Combiner avec un {0} personnalisé",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Combiner avec un {0} personnalisé"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

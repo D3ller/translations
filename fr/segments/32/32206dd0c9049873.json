@@ -1,0 +1,14 @@
+{
+  "hash": "32206dd0c9049873",
+  "source": "{0} and {1} will always run when the key changes if {2} or if it has been already triggered.",
+  "text": "{0} et {1} s'exécuteront toujours lorsque la clé change si {2} ou s'ils ont déjà été déclenchés.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} et {1} s'exécuteront toujours lorsque la clé change si {2} ou s'ils ont déjà été déclenchés."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

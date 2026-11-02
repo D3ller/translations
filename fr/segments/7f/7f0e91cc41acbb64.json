@@ -1,0 +1,14 @@
+{
+  "hash": "7f0e91cc41acbb64",
+  "source": "For more examples about writing Vue code without hydration mismatch, see {0}the Vue docs{/0}.",
+  "text": "Pour plus d'exemples sur l'écriture de code Vue sans erreur d'hydratation, consultez {0}la documentation de Vue{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour plus d'exemples sur l'écriture de code Vue sans erreur d'hydratation, consultez {0}la documentation de Vue{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

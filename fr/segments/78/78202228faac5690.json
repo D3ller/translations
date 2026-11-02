@@ -1,0 +1,14 @@
+{
+  "hash": "78202228faac5690",
+  "source": "{0}PM2{/0} (Process Manager 2) is a fast and easy solution for hosting your Nuxt application on your server or VM.",
+  "text": "{0}PM2{/0} (Process Manager 2) est une solution rapide et simple pour héberger votre application Nuxt sur votre serveur ou votre VM.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}PM2{/0} (Process Manager 2) est une solution rapide et simple pour héberger votre application Nuxt sur votre serveur ou votre VM."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

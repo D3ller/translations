@@ -1,0 +1,14 @@
+{
+  "hash": "c1c8d1db4b08f679",
+  "source": "You only need to do this one time, after Node.js is installed on your computer.",
+  "text": "Vous n'avez besoin de le faire qu'une seule fois, après l'installation de Node.js sur votre ordinateur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous n'avez besoin de le faire qu'une seule fois, après l'installation de Node.js sur votre ordinateur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

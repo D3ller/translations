@@ -1,0 +1,14 @@
+{
+  "hash": "e73971c912301420",
+  "source": "hydrate only when scrolled into view",
+  "text": "hydrater uniquement lorsque le composant apparaît à l'écran lors du défilement",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "hydrater uniquement lorsque le composant apparaît à l'écran lors du défilement"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

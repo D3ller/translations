@@ -1,0 +1,14 @@
+{
+  "hash": "f6b9a6735bb73542",
+  "source": "{0} — end-to-end tests against a running app",
+  "text": "{0} : tests de bout en bout sur une application en cours d'exécution",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : tests de bout en bout sur une application en cours d'exécution"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

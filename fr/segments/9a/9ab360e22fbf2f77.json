@@ -1,0 +1,14 @@
+{
+  "hash": "9ab360e22fbf2f77",
+  "source": "{0}: route location that has all of its components resolved.",
+  "text": "{0} : emplacement de route dont tous les composants sont résolus.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : emplacement de route dont tous les composants sont résolus."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

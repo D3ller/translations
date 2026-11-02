@@ -1,0 +1,14 @@
+{
+  "hash": "4f8f17dc5b10f03c",
+  "source": "Development server with hot module reloading.",
+  "text": "Serveur de développement avec rechargement à chaud des modules.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Serveur de développement avec rechargement à chaud des modules."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "3a129319ba8b86d5",
+  "source": "{0} - The payload is extracted to a separate {1} file for both the initial render and client-side navigation. The HTML is smaller and the payload file can be cached by a CDN, at the cost of one extra request on first load.",
+  "text": "{0} - Le payload est extrait dans un fichier {1} distinct, à la fois pour le rendu initial et pour la navigation côté client. Le HTML est plus léger et le fichier de payload peut être mis en cache par un CDN, au prix d'une requête supplémentaire au premier chargement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} - Le payload est extrait dans un fichier {1} distinct, à la fois pour le rendu initial et pour la navigation côté client. Le HTML est plus léger et le fichier de payload peut être mis en cache par un CDN, au prix d'une requête supplémentaire au premier chargement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

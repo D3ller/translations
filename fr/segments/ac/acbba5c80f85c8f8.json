@@ -1,0 +1,14 @@
+{
+  "hash": "acbba5c80f85c8f8",
+  "source": "Here's the skeleton of an app builder that fulfills the contract for a production build:",
+  "text": "Voici le squelette d'un builder d'application qui respecte le contrat pour un build de production :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Voici le squelette d'un builder d'application qui respecte le contrat pour un build de production :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

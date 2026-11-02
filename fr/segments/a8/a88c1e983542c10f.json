@@ -1,0 +1,14 @@
+{
+  "hash": "a88c1e983542c10f",
+  "source": "Records mutations to {0} in module context, helping to debug configuration changes made by modules during the Nuxt initialization phase.",
+  "text": "Enregistre les mutations de {0} dans le contexte du module, ce qui aide à déboguer les modifications de configuration effectuées par les modules pendant la phase d'initialisation de Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Enregistre les mutations de {0} dans le contexte du module, ce qui aide à déboguer les modifications de configuration effectuées par les modules pendant la phase d'initialisation de Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

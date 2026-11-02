@@ -1,0 +1,14 @@
+{
+  "hash": "08f75980c28f2a73",
+  "source": "To facilitate the upgrade process, we have collaborated with the {0}Codemod{/0} team to automate many migration steps with some open-source codemods.",
+  "text": "Pour faciliter la mise à niveau, nous avons collaboré avec l'équipe de {0}Codemod{/0} afin d'automatiser de nombreuses étapes de migration grâce à des codemods open source.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour faciliter la mise à niveau, nous avons collaboré avec l'équipe de {0}Codemod{/0} afin d'automatiser de nombreuses étapes de migration grâce à des codemods open source."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

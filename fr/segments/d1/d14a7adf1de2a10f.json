@@ -1,0 +1,14 @@
+{
+  "hash": "d14a7adf1de2a10f",
+  "source": "In Docker builds, {0} lives inside the build container. You need a cache mount or a persistent volume for it to survive:",
+  "text": "Dans les builds Docker, {0} se trouve à l'intérieur du conteneur de build. Il vous faut un cache mount ou un volume persistant pour qu'il survive :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans les builds Docker, {0} se trouve à l'intérieur du conteneur de build. Il vous faut un cache mount ou un volume persistant pour qu'il survive :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "4a4a9aad35c39282",
+  "source": "**Proxies and caches font requests.** Rather than using the original source URLs (to remote servers), we generate rewrites under our own asset directory. When accessed by your browser, we download the font from the remote server and cache it locally.",
+  "text": "**Utilise un proxy et met en cache les requêtes de polices.** Plutôt que d'utiliser les URL sources d'origine (vers des serveurs distants), nous générons des réécritures dans notre propre répertoire d'assets. Lorsque votre navigateur y accède, nous téléchargeons la police depuis le serveur distant et la mettons en cache localement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Utilise un proxy et met en cache les requêtes de polices.** Plutôt que d'utiliser les URL sources d'origine (vers des serveurs distants), nous générons des réécritures dans notre propre répertoire d'assets. Lorsque votre navigateur y accède, nous téléchargeons la police depuis le serveur distant et la mettons en cache localement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

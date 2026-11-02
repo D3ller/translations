@@ -1,0 +1,14 @@
+{
+  "hash": "9d003ec167ddb74c",
+  "source": "**Resolves fonts** – Looks for font files in public/, then checks web providers like Google, Bunny, and Fontshare.",
+  "text": "**Résout les polices** – Recherche les fichiers de police dans public/, puis consulte les fournisseurs web comme Google, Bunny et Fontshare.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Résout les polices** – Recherche les fichiers de police dans public/, puis consulte les fournisseurs web comme Google, Bunny et Fontshare."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

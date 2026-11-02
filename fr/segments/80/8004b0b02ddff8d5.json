@@ -1,0 +1,14 @@
+{
+  "hash": "8004b0b02ddff8d5",
+  "source": "Read about the URL instance properties on the MDN documentation.",
+  "text": "Consultez les propriétés de l'instance URL dans la documentation MDN.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Consultez les propriétés de l'instance URL dans la documentation MDN."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

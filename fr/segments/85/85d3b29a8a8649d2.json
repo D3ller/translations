@@ -1,0 +1,14 @@
+{
+  "hash": "85d3b29a8a8649d2",
+  "source": "**Usage**: Explain how to use the API and cover common use cases.",
+  "text": "**Usage** : expliquez comment utiliser l'API et couvrez les cas d'utilisation courants.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Usage** : expliquez comment utiliser l'API et couvrez les cas d'utilisation courants."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

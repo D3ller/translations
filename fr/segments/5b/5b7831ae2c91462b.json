@@ -1,0 +1,14 @@
+{
+  "hash": "5b7831ae2c91462b",
+  "source": "You can disable a module by setting its config key to {0} in your Nuxt config. This is particularly useful when you want to disable modules inherited from layers.",
+  "text": "Vous pouvez désactiver un module en définissant sa clé de configuration sur {0} dans votre configuration Nuxt. C'est particulièrement utile lorsque vous souhaitez désactiver des modules hérités de layers (couches).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez désactiver un module en définissant sa clé de configuration sur {0} dans votre configuration Nuxt. C'est particulièrement utile lorsque vous souhaitez désactiver des modules hérités de layers (couches)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

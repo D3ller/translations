@@ -1,0 +1,14 @@
+{
+  "hash": "5a0fe533ee1aca3b",
+  "source": "If it returns {0} or {1}, Nuxt will fall back to the default routes (useful to modify input array).",
+  "text": "Si elle renvoie {0} ou {1}, Nuxt utilisera les routes par défaut (utile pour modifier le tableau d'entrée).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si elle renvoie {0} ou {1}, Nuxt utilisera les routes par défaut (utile pour modifier le tableau d'entrée)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

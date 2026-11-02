@@ -1,0 +1,14 @@
+{
+  "hash": "4b3117345639f0dc",
+  "source": "{0} accepts all the same options as {1}, including {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {10}, and more.",
+  "text": "{0} accepte les mêmes options que {1}, notamment {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {10}, et bien d'autres.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} accepte les mêmes options que {1}, notamment {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {10}, et bien d'autres."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

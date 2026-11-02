@@ -1,0 +1,14 @@
+{
+  "hash": "dcb90dba4453452a",
+  "source": "{0} receives the nuxt app but cannot access the component instance",
+  "text": "{0} reçoit l'application nuxt mais ne peut pas accéder à l'instance du composant",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} reçoit l'application nuxt mais ne peut pas accéder à l'instance du composant"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

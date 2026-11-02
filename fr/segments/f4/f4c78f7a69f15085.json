@@ -1,0 +1,14 @@
+{
+  "hash": "f4c78f7a69f15085",
+  "source": "A string or an array of strings with the path to the directory to import from.",
+  "text": "Une chaîne de caractères ou un tableau de chaînes contenant le chemin du répertoire à partir duquel importer.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une chaîne de caractères ou un tableau de chaînes contenant le chemin du répertoire à partir duquel importer."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

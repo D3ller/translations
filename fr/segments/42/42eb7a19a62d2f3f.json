@@ -1,0 +1,14 @@
+{
+  "hash": "42eb7a19a62d2f3f",
+  "source": "This feature only applies to production builds with the Vite builder.",
+  "text": "Cette fonctionnalité ne s'applique qu'aux builds de production avec le builder Vite.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cette fonctionnalité ne s'applique qu'aux builds de production avec le builder Vite."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

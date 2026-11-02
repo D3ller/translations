@@ -1,0 +1,14 @@
+{
+  "hash": "8b377c9dd2debb93",
+  "source": "Imagine a directory structure like this:",
+  "text": "Imaginez une structure de répertoires comme celle-ci :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Imaginez une structure de répertoires comme celle-ci :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

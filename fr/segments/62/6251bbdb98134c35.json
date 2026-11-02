@@ -1,0 +1,14 @@
+{
+  "hash": "6251bbdb98134c35",
+  "source": "Reduces every font file that is emitted to the glyphs needed to render these characters. Accepts a string of text, an array of characters, or {0} values, and can be overridden for a single font with {1}.",
+  "text": "Réduit chaque fichier de police émis aux glyphes nécessaires pour afficher ces caractères. Accepte une chaîne de texte, un tableau de caractères ou des valeurs {0}, et peut être remplacé pour une seule police avec {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Réduit chaque fichier de police émis aux glyphes nécessaires pour afficher ces caractères. Accepte une chaîne de texte, un tableau de caractères ou des valeurs {0}, et peut être remplacé pour une seule police avec {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

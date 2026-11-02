@@ -1,0 +1,14 @@
+{
+  "hash": "1e276a209cb392d1",
+  "source": "Use two levels:",
+  "text": "Utilisez deux niveaux :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utilisez deux niveaux :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

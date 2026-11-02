@@ -1,0 +1,14 @@
+{
+  "hash": "615169e4b6bd4109",
+  "source": "Customize the default error page by adding {0} in the source directory of your application, alongside {1}.",
+  "text": "Personnalisez la page d'erreur par défaut en ajoutant {0} dans le répertoire source de votre application, à côté de {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Personnalisez la page d'erreur par défaut en ajoutant {0} dans le répertoire source de votre application, à côté de {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

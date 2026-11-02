@@ -1,0 +1,14 @@
+{
+  "hash": "6e3b72b6701e4be3",
+  "source": "Create a Minimal Reproduction",
+  "text": "Créez une reproduction minimale",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Créez une reproduction minimale"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

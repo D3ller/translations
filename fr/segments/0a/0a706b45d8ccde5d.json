@@ -1,0 +1,14 @@
+{
+  "hash": "0a706b45d8ccde5d",
+  "source": "If the user is not authenticated",
+  "text": "Si l'utilisateur n'est pas authentifié",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si l'utilisateur n'est pas authentifié"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

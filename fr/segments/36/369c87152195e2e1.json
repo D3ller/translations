@@ -1,0 +1,14 @@
+{
+  "hash": "369c87152195e2e1",
+  "source": "Learn more in **Nuxt Content** documentation.",
+  "text": "Pour en savoir plus, consultez la documentation de **Nuxt Content**.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour en savoir plus, consultez la documentation de **Nuxt Content**."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

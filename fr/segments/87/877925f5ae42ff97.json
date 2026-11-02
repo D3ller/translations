@@ -1,0 +1,14 @@
+{
+  "hash": "877925f5ae42ff97",
+  "source": "Even if you can't fix the underlying code, reporting a bug well can enable someone else with a bit more familiarity with the codebase to spot a pattern or make a quick fix.",
+  "text": "Même si vous ne pouvez pas corriger le code sous-jacent, signaler correctement un bug peut permettre à quelqu'un qui connaît un peu mieux la base de code de repérer un motif ou d'apporter une correction rapide.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Même si vous ne pouvez pas corriger le code sous-jacent, signaler correctement un bug peut permettre à quelqu'un qui connaît un peu mieux la base de code de repérer un motif ou d'apporter une correction rapide."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "9523b17d47524985",
+  "source": "Watch Vue School video about altering Nuxt configuration.",
+  "text": "Regardez la vidéo de Vue School sur la modification de la configuration de Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Regardez la vidéo de Vue School sur la modification de la configuration de Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

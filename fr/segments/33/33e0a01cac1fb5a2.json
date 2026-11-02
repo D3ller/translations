@@ -1,0 +1,14 @@
+{
+  "hash": "33e0a01cac1fb5a2",
+  "source": "It is normal to ask which parts of a Vue file runs on the server and/or the client in universal rendering mode.",
+  "text": "Il est normal de se demander quelles parties d'un fichier Vue s'exécutent sur le serveur et/ou sur le client en mode de rendu universel.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Il est normal de se demander quelles parties d'un fichier Vue s'exécutent sur le serveur et/ou sur le client en mode de rendu universel."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

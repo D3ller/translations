@@ -1,0 +1,14 @@
+{
+  "hash": "05377f43b962c9d7",
+  "source": "This pattern is useful for creating base layers with defaults that can be progressively overridden by more specific layers.",
+  "text": "Ce modèle est utile pour créer des layers de base avec des valeurs par défaut qui peuvent être progressivement remplacées par des layers plus spécifiques.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ce modèle est utile pour créer des layers de base avec des valeurs par défaut qui peuvent être progressivement remplacées par des layers plus spécifiques."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

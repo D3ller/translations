@@ -1,0 +1,14 @@
+{
+  "hash": "a8450a5e3a812473",
+  "source": "{0}: add functions throughout your application that can be used in your server code.",
+  "text": "{0} : ajoute des fonctions dans toute votre application qui peuvent être utilisées dans votre code serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : ajoute des fonctions dans toute votre application qui peuvent être utilisées dans votre code serveur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

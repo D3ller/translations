@@ -1,0 +1,14 @@
+{
+  "hash": "6284ab7ef90e73e2",
+  "source": "In the {0} portion of your app, you can use {1} without any import.",
+  "text": "Dans la partie {0} de votre application, vous pouvez utiliser {1} sans aucun import.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans la partie {0} de votre application, vous pouvez utiliser {1} sans aucun import."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

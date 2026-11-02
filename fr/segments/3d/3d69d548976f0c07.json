@@ -1,0 +1,14 @@
+{
+  "hash": "3d69d548976f0c07",
+  "source": "It is possible to pass configure the Vue app globally. Only serializable options may be set in your {0}. All other options should be set at runtime in a Nuxt plugin.",
+  "text": "Il est possible de configurer l'application Vue de manière globale. Seules les options sérialisables peuvent être définies dans votre {0}. Toutes les autres options doivent être définies à l'exécution dans un plugin Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Il est possible de configurer l'application Vue de manière globale. Seules les options sérialisables peuvent être définies dans votre {0}. Toutes les autres options doivent être définies à l'exécution dans un plugin Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

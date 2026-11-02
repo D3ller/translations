@@ -1,0 +1,14 @@
+{
+  "hash": "a45d0c532cb6aa90",
+  "source": "If you need to access the component state with {0}, you should migrate to using {1} .",
+  "text": "Si vous devez accéder à l'état du composant avec {0}, vous devez migrer vers {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous devez accéder à l'état du composant avec {0}, vous devez migrer vers {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

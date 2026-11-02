@@ -1,0 +1,14 @@
+{
+  "hash": "1432b8d86332dc08",
+  "source": "When publishing the layer as a private npm package, you need to make sure you log in, to authenticate with npm to download the node module.",
+  "text": "Lorsque vous publiez le layer en tant que package npm privé, assurez-vous de vous connecter afin de vous authentifier auprès de npm pour télécharger le module Node.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque vous publiez le layer en tant que package npm privé, assurez-vous de vous connecter afin de vous authentifier auprès de npm pour télécharger le module Node."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

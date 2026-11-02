@@ -1,0 +1,14 @@
+{
+  "hash": "c7db23115c9bc650",
+  "source": "extend tsconfig.node.json",
+  "text": "étendre tsconfig.node.json",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "étendre tsconfig.node.json"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

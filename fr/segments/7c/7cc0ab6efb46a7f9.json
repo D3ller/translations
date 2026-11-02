@@ -1,0 +1,14 @@
+{
+  "hash": "7cc0ab6efb46a7f9",
+  "source": "Add module with inline-options",
+  "text": "Ajouter un module avec des options en ligne",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ajouter un module avec des options en ligne"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

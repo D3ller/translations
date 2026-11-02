@@ -1,0 +1,14 @@
+{
+  "hash": "e6e1a689b0a67300",
+  "source": "Once configured, you can ask your AI assistant questions like:",
+  "text": "Une fois la configuration terminée, vous pouvez poser à votre assistant IA des questions comme :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une fois la configuration terminée, vous pouvez poser à votre assistant IA des questions comme :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "35b927df2542a623",
+  "source": "For more information on how to use this composable, see {0}the docs{/0}.",
+  "text": "Pour plus d'informations sur l'utilisation de ce composable, consultez {0}la documentation{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour plus d'informations sur l'utilisation de ce composable, consultez {0}la documentation{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "e31e5e155f9a29d2",
+  "source": "Using a new experimental feature, it is possible to enable native async context support using {0}Node.js {1}{/0} and new unctx support to make async context available **natively** to **any nested async composable** without needing a transform or manual passing/calling with context.",
+  "text": "Grâce à une nouvelle fonctionnalité expérimentale, il est possible d'activer la prise en charge native du contexte asynchrone avec {0}Node.js {1}{/0} et la nouvelle prise en charge d'unctx, afin de rendre le contexte asynchrone disponible **nativement** pour **tout composable asynchrone imbriqué**, sans transformation ni passage/appel manuel avec le contexte.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Grâce à une nouvelle fonctionnalité expérimentale, il est possible d'activer la prise en charge native du contexte asynchrone avec {0}Node.js {1}{/0} et la nouvelle prise en charge d'unctx, afin de rendre le contexte asynchrone disponible **nativement** pour **tout composable asynchrone imbriqué**, sans transformation ni passage/appel manuel avec le contexte."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "5b61ea6524d69250",
+  "source": "**{0}**: Retrieves deployment provider details and instructions by path",
+  "text": "**{0}** : récupère les détails et les instructions d'un fournisseur de déploiement à partir de son chemin",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** : récupère les détails et les instructions d'un fournisseur de déploiement à partir de son chemin"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

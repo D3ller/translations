@@ -1,0 +1,14 @@
+{
+  "hash": "8981f52e12ff43fe",
+  "source": "Running Tests",
+  "text": "Exécuter les tests",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Exécuter les tests"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

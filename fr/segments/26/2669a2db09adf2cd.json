@@ -1,0 +1,14 @@
+{
+  "hash": "2669a2db09adf2cd",
+  "source": "Routing is case-sensitive by default to match Nitro. Set {0} to {1} to opt out. {2} can only be set in {3}: the build fails if a {4} file sets it.",
+  "text": "Le routage est sensible à la casse par défaut afin de correspondre à Nitro. Définissez {0} à {1} pour le désactiver. {2} ne peut être défini que dans {3} : le build échoue si un fichier {4} le définit.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le routage est sensible à la casse par défaut afin de correspondre à Nitro. Définissez {0} à {1} pour le désactiver. {2} ne peut être défini que dans {3} : le build échoue si un fichier {4} le définit."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "37a8277a4e19e02e",
+  "source": "{0} is now a drop-in replacement for *all* links, even external ones. You can read more about it, and how to extend it to provide your own link component.",
+  "text": "{0} est désormais un remplacement direct pour *tous* les liens, même externes. Vous pouvez en lire plus à ce sujet, ainsi que sur la manière de l'étendre pour fournir votre propre composant de lien.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est désormais un remplacement direct pour *tous* les liens, même externes. Vous pouvez en lire plus à ce sujet, ainsi que sur la manière de l'étendre pour fournir votre propre composant de lien."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

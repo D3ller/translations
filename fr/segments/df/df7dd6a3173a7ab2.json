@@ -1,0 +1,14 @@
+{
+  "hash": "df7dd6a3173a7ab2",
+  "source": "A preview records itself in {0}, so a second {1} for the same project deals with the one already running the way {2} deals with a running dev server:",
+  "text": "Une prévisualisation s'enregistre dans {0}, de sorte qu'une seconde commande {1} pour le même projet traite celle déjà en cours comme {2} traite un serveur de développement en cours d'exécution :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une prévisualisation s'enregistre dans {0}, de sorte qu'une seconde commande {1} pour le même projet traite celle déjà en cours comme {2} traite un serveur de développement en cours d'exécution :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

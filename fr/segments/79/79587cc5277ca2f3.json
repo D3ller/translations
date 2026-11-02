@@ -1,0 +1,14 @@
+{
+  "hash": "79587cc5277ca2f3",
+  "source": "For this reason, most of your previous {0} configuration in {1} will now be ignored, including any custom babel configuration.",
+  "text": "Pour cette raison, la plupart de votre ancienne configuration {0} dans {1} sera désormais ignorée, y compris toute configuration babel personnalisée.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour cette raison, la plupart de votre ancienne configuration {0} dans {1} sera désormais ignorée, y compris toute configuration babel personnalisée."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

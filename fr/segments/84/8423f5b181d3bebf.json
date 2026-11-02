@@ -1,0 +1,14 @@
+{
+  "hash": "8423f5b181d3bebf",
+  "source": "Nitro v3 dropped typed fetch, and the old implementation did not scale past about 300 routes. The new generated route types cost the same to check whatever the route count, and carry enough information to type the request as well as the response. {0} is dropped so the name is free for named route parameters later.",
+  "text": "Nitro v3 a abandonné le fetch typé, et l'ancienne implémentation ne passait pas à l'échelle au-delà d'environ 300 routes. Les nouveaux types de routes générés ont le même coût de vérification quel que soit le nombre de routes, et contiennent assez d'informations pour typer la requête en plus de la réponse. {0} est supprimé afin que ce nom soit libre pour les paramètres de route nommés par la suite.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nitro v3 a abandonné le fetch typé, et l'ancienne implémentation ne passait pas à l'échelle au-delà d'environ 300 routes. Les nouveaux types de routes générés ont le même coût de vérification quel que soit le nombre de routes, et contiennent assez d'informations pour typer la requête en plus de la réponse. {0} est supprimé afin que ce nom soit libre pour les paramètres de route nommés par la suite."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "f3ad9ecb8c95aa47",
+  "source": "Configuration that will be passed directly to Vite.",
+  "text": "Configuration qui sera transmise directement à Vite.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Configuration qui sera transmise directement à Vite."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

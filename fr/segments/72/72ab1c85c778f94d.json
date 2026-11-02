@@ -1,0 +1,14 @@
+{
+  "hash": "72ab1c85c778f94d",
+  "source": "An app builder that runs inside Nitro's Vite environment ({0}) has {1}, {2}, {3} and {4} read after the server bundle is emitted, and spliced into it. Those bodies must take the form {5}, optionally followed by {6} lines; a re-export such as {7} is rejected. An app builder that builds separately, as the example below does, isn't subject to this.",
+  "text": "Un builder d'application qui s'exécute dans l'environnement Vite de Nitro ({0}) voit {1}, {2}, {3} et {4} lus après l'émission du bundle serveur, puis insérés dedans. Ces corps doivent avoir la forme {5}, éventuellement suivie de lignes {6} ; une réexportation telle que {7} est rejetée. Un builder d'application qui compile séparément, comme dans l'exemple ci-dessous, n'est pas concerné.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un builder d'application qui s'exécute dans l'environnement Vite de Nitro ({0}) voit {1}, {2}, {3} et {4} lus après l'émission du bundle serveur, puis insérés dedans. Ces corps doivent avoir la forme {5}, éventuellement suivie de lignes {6} ; une réexportation telle que {7} est rejetée. Un builder d'application qui compile séparément, comme dans l'exemple ci-dessous, n'est pas concerné."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

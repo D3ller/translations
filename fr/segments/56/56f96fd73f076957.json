@@ -1,0 +1,14 @@
+{
+  "hash": "56f96fd73f076957",
+  "source": "If no errors are thrown, a status code of {0} will be returned.",
+  "text": "Si aucune erreur n'est levée, un code de statut {0} sera renvoyé.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si aucune erreur n'est levée, un code de statut {0} sera renvoyé."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

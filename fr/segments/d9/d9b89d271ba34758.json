@@ -1,0 +1,14 @@
+{
+  "hash": "d9b89d271ba34758",
+  "source": "{0} and other {1} composables do not track the current page route inside a server (island) component. The island is rendered in its own isolated Vue app keyed only on its props (and any explicit context), which is what keeps islands cacheable independently of the page they are rendered on. Inside an island, {2} will reflect the island's own request, not the page the user is on.",
+  "text": "{0} et les autres composables {1} ne suivent pas la route de la page actuelle à l'intérieur d'un composant serveur (île). L'île est rendue dans sa propre application Vue isolée, indexée uniquement sur ses props (et tout contexte explicite), ce qui permet de mettre les îles en cache indépendamment de la page sur laquelle elles sont rendues. À l'intérieur d'une île, {2} reflétera la requête propre à l'île, et non la page sur laquelle se trouve l'utilisateur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} et les autres composables {1} ne suivent pas la route de la page actuelle à l'intérieur d'un composant serveur (île). L'île est rendue dans sa propre application Vue isolée, indexée uniquement sur ses props (et tout contexte explicite), ce qui permet de mettre les îles en cache indépendamment de la page sur laquelle elles sont rendues. À l'intérieur d'une île, {2} reflétera la requête propre à l'île, et non la page sur laquelle se trouve l'utilisateur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

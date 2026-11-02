@@ -1,0 +1,14 @@
+{
+  "hash": "d3beca39f76d6d37",
+  "source": "You can also set this to {0} to watch all files in your source directory.",
+  "text": "Vous pouvez aussi la définir à {0} pour surveiller tous les fichiers de votre répertoire source.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez aussi la définir à {0} pour surveiller tous les fichiers de votre répertoire source."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

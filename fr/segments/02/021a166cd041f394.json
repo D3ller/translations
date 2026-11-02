@@ -1,0 +1,14 @@
+{
+  "hash": "021a166cd041f394",
+  "source": "Helper functions for body parsing, cookie handling, redirects, headers and more",
+  "text": "Des fonctions helper pour l'analyse du corps de la requête, la gestion des cookies, les redirections, les en-têtes et plus encore",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Des fonctions helper pour l'analyse du corps de la requête, la gestion des cookies, les redirections, les en-têtes et plus encore"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "7f19be8a3074ea13",
+  "source": "Add the server using the CLI command:",
+  "text": "Ajoutez le serveur à l'aide de la commande CLI :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ajoutez le serveur à l'aide de la commande CLI :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

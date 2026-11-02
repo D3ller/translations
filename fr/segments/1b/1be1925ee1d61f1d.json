@@ -1,0 +1,14 @@
+{
+  "hash": "1be1925ee1d61f1d",
+  "source": "**You can opt to make your entire library ESM-only**.",
+  "text": "**Vous pouvez choisir de rendre toute votre bibliothèque exclusivement ESM**.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Vous pouvez choisir de rendre toute votre bibliothèque exclusivement ESM**."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "c2044261c056188a",
+  "source": "The default {0} weight range is applied",
+  "text": "La plage de graisses par défaut de {0} est appliquée",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La plage de graisses par défaut de {0} est appliquée"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

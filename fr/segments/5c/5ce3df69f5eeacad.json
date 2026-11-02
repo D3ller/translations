@@ -1,0 +1,14 @@
+{
+  "hash": "5ce3df69f5eeacad",
+  "source": "Note that all components, pages, composables and other files that would be normally placed in your {0} directory need to be in {1}. This ensures they can be type-checked properly.",
+  "text": "Notez que tous les composants, pages, composables et autres fichiers qui seraient normalement placés dans votre répertoire {0} doivent se trouver dans {1}. Cela garantit que leurs types peuvent être vérifiés correctement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Notez que tous les composants, pages, composables et autres fichiers qui seraient normalement placés dans votre répertoire {0} doivent se trouver dans {1}. Cela garantit que leurs types peuvent être vérifiés correctement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

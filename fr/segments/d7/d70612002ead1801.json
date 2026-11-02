@@ -1,0 +1,14 @@
+{
+  "hash": "d70612002ead1801",
+  "source": "Connect with other Nuxt enthusiasts.",
+  "text": "Entrez en contact avec d'autres passionnés de Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Entrez en contact avec d'autres passionnés de Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

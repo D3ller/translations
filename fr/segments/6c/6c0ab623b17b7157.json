@@ -1,0 +1,14 @@
+{
+  "hash": "6c0ab623b17b7157",
+  "source": "The {0} method accepts a promise that will be awaited before the handler terminates, ensuring the task is completed even if the server would otherwise terminate the handler right after the response is sent. This integrates with runtime providers to leverage their native capabilities for handling asynchronous operations after the response is sent.",
+  "text": "La méthode {0} accepte une promesse qui sera attendue avant la fin du gestionnaire, ce qui garantit que la tâche est terminée même si le serveur mettrait autrement fin au gestionnaire juste après l'envoi de la réponse. Elle s'intègre aux fournisseurs d'exécution afin d'exploiter leurs capacités natives de gestion des opérations asynchrones après l'envoi de la réponse.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La méthode {0} accepte une promesse qui sera attendue avant la fin du gestionnaire, ce qui garantit que la tâche est terminée même si le serveur mettrait autrement fin au gestionnaire juste après l'envoi de la réponse. Elle s'intègre aux fournisseurs d'exécution afin d'exploiter leurs capacités natives de gestion des opérations asynchrones après l'envoi de la réponse."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

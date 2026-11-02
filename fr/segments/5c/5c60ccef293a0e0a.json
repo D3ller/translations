@@ -1,0 +1,14 @@
+{
+  "hash": "5c60ccef293a0e0a",
+  "source": "Hybrid rendering",
+  "text": "Un rendu hybride",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un rendu hybride"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

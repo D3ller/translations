@@ -1,0 +1,14 @@
+{
+  "hash": "2cfd37dc50889250",
+  "source": "Skip npm install",
+  "text": "Ignorer l'installation npm",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ignorer l'installation npm"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

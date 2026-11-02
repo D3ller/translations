@@ -1,0 +1,14 @@
+{
+  "hash": "a0a22439f7455280",
+  "source": "Breaking changes and migration steps when upgrading to the latest version of @nuxt/fonts.",
+  "text": "Changements majeurs et étapes de migration lors de la mise à niveau vers la dernière version de @nuxt/fonts.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Changements majeurs et étapes de migration lors de la mise à niveau vers la dernière version de @nuxt/fonts."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

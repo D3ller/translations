@@ -1,0 +1,14 @@
+{
+  "hash": "fe8764cb51d7d133",
+  "source": "Let's create an example of a {0} route that only authenticated users can access.",
+  "text": "Créons un exemple de route {0} accessible uniquement aux utilisateurs authentifiés.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Créons un exemple de route {0} accessible uniquement aux utilisateurs authentifiés."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

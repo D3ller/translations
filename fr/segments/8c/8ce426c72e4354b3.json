@@ -1,0 +1,14 @@
+{
+  "hash": "8ce426c72e4354b3",
+  "source": "Alternatively, {0} can be passed as a {1} value via {2} from the {3} section of your Vue component in the {4} directory.",
+  "text": "Vous pouvez aussi passer {0} comme valeur de {1} via {2} depuis la section {3} de votre composant Vue dans le répertoire {4}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez aussi passer {0} comme valeur de {1} via {2} depuis la section {3} de votre composant Vue dans le répertoire {4}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

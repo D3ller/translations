@@ -1,0 +1,14 @@
+{
+  "hash": "8a401eb95726b759",
+  "source": "**Workaround**: set a distinct {0} on the island's Vue app from a server plugin, based on the island context id:",
+  "text": "**Contournement** : définissez un {0} distinct sur l'application Vue de l'island depuis un plugin serveur, à partir de l'id de contexte de l'island :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Contournement** : définissez un {0} distinct sur l'application Vue de l'island depuis un plugin serveur, à partir de l'id de contexte de l'island :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

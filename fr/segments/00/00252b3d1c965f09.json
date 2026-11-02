@@ -1,0 +1,14 @@
+{
+  "hash": "00252b3d1c965f09",
+  "source": "Chooses the values a variable font is shipped at, for every family. Each OpenType axis tag takes an array of values: a number or string, such as {0}, pins the axis to a single value, and a {1} pair or {2} object, such as {3}, narrows it to an inclusive range. This can be overridden for a single font with {4}.",
+  "text": "Choisit les valeurs auxquelles une police variable est livrée, pour chaque famille. Chaque tag d'axe OpenType accepte un tableau de valeurs : un nombre ou une chaîne, comme {0}, fixe l'axe à une seule valeur, et une paire {1} ou un objet {2}, comme {3}, le restreint à une plage inclusive. Cela peut être remplacé pour une seule police avec {4}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Choisit les valeurs auxquelles une police variable est livrée, pour chaque famille. Chaque tag d'axe OpenType accepte un tableau de valeurs : un nombre ou une chaîne, comme {0}, fixe l'axe à une seule valeur, et une paire {1} ou un objet {2}, comme {3}, le restreint à une plage inclusive. Cela peut être remplacé pour une seule police avec {4}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

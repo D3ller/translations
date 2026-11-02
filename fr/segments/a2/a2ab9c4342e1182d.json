@@ -1,0 +1,14 @@
+{
+  "hash": "a2ab9c4342e1182d",
+  "source": "If your code checks for {0} after clearing state, check for the initial value instead. To keep the previous behavior:",
+  "text": "Si votre code vérifie {0} après la réinitialisation de l'état, vérifiez plutôt la valeur initiale. Pour conserver le comportement précédent :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si votre code vérifie {0} après la réinitialisation de l'état, vérifiez plutôt la valeur initiale. Pour conserver le comportement précédent :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

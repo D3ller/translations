@@ -1,0 +1,14 @@
+{
+  "hash": "16156fc9ea9471f4",
+  "source": "Will first clear any side effects for previous input.",
+  "text": "Commencera par nettoyer les effets de bord de la valeur précédente.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Commencera par nettoyer les effets de bord de la valeur précédente."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "bcf9e73f93c94f3d",
+  "source": "The {0} composable is a wrapper around the {1} composable that restricts the input to only allow safe values. This is the recommended way to manage head data when working with user input, as it prevents XSS attacks by sanitizing potentially dangerous attributes.",
+  "text": "Le composable {0} est une surcouche du composable {1} qui limite les entrées aux seules valeurs sûres. C'est la méthode recommandée pour gérer les données head lorsque vous travaillez avec des saisies utilisateur, car il prévient les attaques XSS en assainissant les attributs potentiellement dangereux.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le composable {0} est une surcouche du composable {1} qui limite les entrées aux seules valeurs sûres. C'est la méthode recommandée pour gérer les données head lorsque vous travaillez avec des saisies utilisateur, car il prévient les attaques XSS en assainissant les attributs potentiellement dangereux."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

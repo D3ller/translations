@@ -1,0 +1,14 @@
+{
+  "hash": "09f08db54ae4be91",
+  "source": "Nuxt supports multiple server runtimes. Nuxt 3 and 4 target Nitro v2 ({0}) which uses {1} v1; Nuxt 5 defaults to Nitro v3 ({2}) which uses {3} v2. And it's also possible for users to use a custom server runtime based on Web APIs which is compatible everywhere ({4}).",
+  "text": "Nuxt prend en charge plusieurs runtimes serveur. Nuxt 3 et 4 ciblent Nitro v2 ({0}), qui utilise {1} v1 ; Nuxt 5 utilise par défaut Nitro v3 ({2}), qui utilise {3} v2. Les utilisateurs peuvent également choisir un runtime serveur personnalisé basé sur les API Web, compatible partout ({4}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt prend en charge plusieurs runtimes serveur. Nuxt 3 et 4 ciblent Nitro v2 ({0}), qui utilise {1} v1 ; Nuxt 5 utilise par défaut Nitro v3 ({2}), qui utilise {3} v2. Les utilisateurs peuvent également choisir un runtime serveur personnalisé basé sur les API Web, compatible partout ({4})."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

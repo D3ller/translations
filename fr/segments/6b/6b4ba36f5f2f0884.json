@@ -1,0 +1,14 @@
+{
+  "hash": "6b4ba36f5f2f0884",
+  "source": "preloadRouteComponents",
+  "text": "preloadRouteComponents",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "preloadRouteComponents"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

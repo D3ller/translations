@@ -1,0 +1,14 @@
+{
+  "hash": "7f638f1c5cc7ffc5",
+  "source": "True when running the Nuxt dev server.",
+  "text": "Vaut true lorsque le serveur de développement Nuxt est en cours d'exécution.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vaut true lorsque le serveur de développement Nuxt est en cours d'exécution."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

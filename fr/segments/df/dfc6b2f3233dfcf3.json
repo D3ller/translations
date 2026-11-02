@@ -1,0 +1,14 @@
+{
+  "hash": "dfc6b2f3233dfcf3",
+  "source": "{0} will perform a hard reload of your app, re-requesting a page and its dependencies from the server.",
+  "text": "{0} effectue un rechargement complet de votre application, en redemandant au serveur une page et ses dépendances.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} effectue un rechargement complet de votre application, en redemandant au serveur une page et ses dépendances."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

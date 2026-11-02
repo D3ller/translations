@@ -1,0 +1,14 @@
+{
+  "hash": "c20497c74dcd170d",
+  "source": "redirect the user to the login screen if they're not authenticated",
+  "text": "rediriger l'utilisateur vers l'écran de connexion s'il n'est pas authentifié",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "rediriger l'utilisateur vers l'écran de connexion s'il n'est pas authentifié"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "d7a239a25bb5f8ba",
+  "source": "event will be undefined in the browser",
+  "text": "event sera undefined dans le navigateur",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "event sera undefined dans le navigateur"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

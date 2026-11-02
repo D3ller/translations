@@ -1,0 +1,14 @@
+{
+  "hash": "9d0229b75ffa25fa",
+  "source": "Create global route middleware",
+  "text": "Crée un middleware de route global",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Crée un middleware de route global"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

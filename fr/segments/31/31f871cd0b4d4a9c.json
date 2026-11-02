@@ -1,0 +1,14 @@
+{
+  "hash": "31f871cd0b4d4a9c",
+  "source": "With no {0}, the session is sealed with a secret derived from the application's {1}, so {2} is the only thing to set. Pass a {3} of at least 32 characters to seal with a secret of your own instead. Set {4} (in seconds) to expire both the cookie and the sealed value, {5} to change the cookie name from {6}, and {7} to override any cookie attribute.",
+  "text": "Sans {0}, la session est scellée avec un secret dérivé de {1} de l'application, donc {2} est la seule chose à définir. Passez un {3} d'au moins 32 caractères pour sceller avec votre propre secret. Définissez {4} (en secondes) pour faire expirer à la fois le cookie et la valeur scellée, {5} pour changer le nom du cookie par rapport à {6}, et {7} pour remplacer n'importe quel attribut du cookie.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sans {0}, la session est scellée avec un secret dérivé de {1} de l'application, donc {2} est la seule chose à définir. Passez un {3} d'au moins 32 caractères pour sceller avec votre propre secret. Définissez {4} (en secondes) pour faire expirer à la fois le cookie et la valeur scellée, {5} pour changer le nom du cookie par rapport à {6}, et {7} pour remplacer n'importe quel attribut du cookie."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

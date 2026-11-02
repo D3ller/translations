@@ -1,0 +1,14 @@
+{
+  "hash": "86f33967a11119cf",
+  "source": "Exposing",
+  "text": "Exposition",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Exposition"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

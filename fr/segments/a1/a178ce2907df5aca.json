@@ -1,0 +1,14 @@
+{
+  "hash": "a178ce2907df5aca",
+  "source": "A composable which returns the loading state of the page. Used by {0} and controllable. It hooks into {1} and {2} to change its state.",
+  "text": "Un composable qui retourne l'état de chargement de la page. Utilisé par {0} et contrôlable. Il se branche sur {1} et {2} pour modifier son état.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un composable qui retourne l'état de chargement de la page. Utilisé par {0} et contrôlable. Il se branche sur {1} et {2} pour modifier son état."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

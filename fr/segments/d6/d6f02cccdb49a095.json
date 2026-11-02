@@ -1,0 +1,14 @@
+{
+  "hash": "d6f02cccdb49a095",
+  "source": "Creating Custom Events",
+  "text": "Créer des événements personnalisés",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Créer des événements personnalisés"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

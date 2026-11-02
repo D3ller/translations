@@ -1,0 +1,14 @@
+{
+  "hash": "c395ecab4147ce04",
+  "source": "The {0} directory allows you to organize and share reusable code, components, composables, and configurations. Layers within this directory are automatically registered in your project.",
+  "text": "Le répertoire {0} vous permet d'organiser et de partager du code réutilisable, des composants, des composables et des configurations. Les layers (couches) de ce répertoire sont automatiquement enregistrés dans votre projet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le répertoire {0} vous permet d'organiser et de partager du code réutilisable, des composants, des composables et des configurations. Les layers (couches) de ce répertoire sont automatiquement enregistrés dans votre projet."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

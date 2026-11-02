@@ -1,0 +1,14 @@
+{
+  "hash": "13486e45935c52e3",
+  "source": "In this case, {0} will be executed but not returned, which may lead to unexpected behavior.",
+  "text": "Dans ce cas, {0} sera exécuté mais son résultat ne sera pas retourné, ce qui peut entraîner un comportement inattendu.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans ce cas, {0} sera exécuté mais son résultat ne sera pas retourné, ce qui peut entraîner un comportement inattendu."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

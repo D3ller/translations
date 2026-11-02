@@ -1,0 +1,14 @@
+{
+  "hash": "f595cf22f1cae8de",
+  "source": "The {0} function should return {1} if the parameters are valid.",
+  "text": "La fonction {0} doit renvoyer {1} si les paramètres sont valides.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La fonction {0} doit renvoyer {1} si les paramètres sont valides."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

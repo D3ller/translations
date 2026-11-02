@@ -1,0 +1,14 @@
+{
+  "hash": "16ccb050ffdf976e",
+  "source": "{0} uses its first argument as a key if it is a string. If the first argument is the handler function that performs the query, then a key that is unique to the file name and line number of the instance of {1} will be generated for you.",
+  "text": "{0} utilise son premier argument comme clé s'il s'agit d'une chaîne de caractères. Si le premier argument est la fonction handler qui exécute la requête, une clé propre au nom du fichier et au numéro de ligne de l'instance de {1} sera alors générée pour vous.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} utilise son premier argument comme clé s'il s'agit d'une chaîne de caractères. Si le premier argument est la fonction handler qui exécute la requête, une clé propre au nom du fichier et au numéro de ligne de l'instance de {1} sera alors générée pour vous."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

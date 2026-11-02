@@ -1,0 +1,14 @@
+{
+  "hash": "9ac7ec5f8374b749",
+  "source": "Watch a video from Alexander Lichter showing how to opt in to Nuxt 4's breaking changes already",
+  "text": "Regardez une vidéo d'Alexander Lichter montrant comment activer dès maintenant les changements majeurs de Nuxt 4",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Regardez une vidéo d'Alexander Lichter montrant comment activer dès maintenant les changements majeurs de Nuxt 4"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

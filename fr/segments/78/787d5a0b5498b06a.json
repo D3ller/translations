@@ -1,0 +1,14 @@
+{
+  "hash": "787d5a0b5498b06a",
+  "source": "{0} was pulled into every Nuxt install to load a handful of files, most of which the runtime can now load unaided. Removing it makes a default install smaller.",
+  "text": "{0} était intégré à chaque installation de Nuxt pour charger une poignée de fichiers, dont la plupart peuvent désormais être chargés par le runtime seul. Le supprimer allège l'installation par défaut.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} était intégré à chaque installation de Nuxt pour charger une poignée de fichiers, dont la plupart peuvent désormais être chargés par le runtime seul. Le supprimer allège l'installation par défaut."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

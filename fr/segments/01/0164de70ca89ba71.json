@@ -1,0 +1,14 @@
+{
+  "hash": "0164de70ca89ba71",
+  "source": "Move {0} to {1}. See {2}the error handling docs{/2}. If you want to ensure that this page uses a layout, you can use {3} directly within {4}:",
+  "text": "Déplacez {0} vers {1}. Consultez {2}la documentation sur la gestion des erreurs{/2}. Si vous voulez vous assurer que cette page utilise un layout, vous pouvez utiliser {3} directement dans {4} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Déplacez {0} vers {1}. Consultez {2}la documentation sur la gestion des erreurs{/2}. Si vous voulez vous assurer que cette page utilise un layout, vous pouvez utiliser {3} directement dans {4} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "aa3cb6afbbf1fdac",
+  "source": "True when rendering HTML on the server in the prerender stage of your build.",
+  "text": "Vaut true lorsque le HTML est rendu côté serveur pendant l'étape de prérendu de votre build.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vaut true lorsque le HTML est rendu côté serveur pendant l'étape de prérendu de votre build."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

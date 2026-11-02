@@ -1,0 +1,14 @@
+{
+  "hash": "fed9b162e0261599",
+  "source": "By default, neither the headers from the incoming request nor the request context are forwarded when making fetch requests in server routes. You can use {0} to forward the request context and headers when making fetch requests in server routes.",
+  "text": "Par défaut, ni les en-têtes de la requête entrante ni le contexte de la requête ne sont transmis lors des requêtes fetch dans les routes serveur. Vous pouvez utiliser {0} pour transmettre le contexte et les en-têtes de la requête lors des requêtes fetch dans les routes serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par défaut, ni les en-têtes de la requête entrante ni le contexte de la requête ne sont transmis lors des requêtes fetch dans les routes serveur. Vous pouvez utiliser {0} pour transmettre le contexte et les en-têtes de la requête lors des requêtes fetch dans les routes serveur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "d383ed32e67e5256",
+  "source": "a more specific rule re-enables SSR somewhere below the client-only one ({0} with {1})",
+  "text": "une règle plus spécifique réactive le SSR quelque part sous la règle client uniquement ({0} avec {1})",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "une règle plus spécifique réactive le SSR quelque part sous la règle client uniquement ({0} avec {1})"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

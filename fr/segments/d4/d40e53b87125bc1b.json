@@ -1,0 +1,14 @@
+{
+  "hash": "d40e53b87125bc1b",
+  "source": "It is also possible to run on every navigation while still avoiding the initial server/client double execution. For this, it is possible to use the {0} mode {1}:",
+  "text": "Il est également possible d'exécuter le code à chaque navigation tout en évitant la double exécution initiale serveur/client. Pour cela, vous pouvez utiliser le mode {0} {1} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Il est également possible d'exécuter le code à chaque navigation tout en évitant la double exécution initiale serveur/client. Pour cela, vous pouvez utiliser le mode {0} {1} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

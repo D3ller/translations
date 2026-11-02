@@ -1,0 +1,14 @@
+{
+  "hash": "89d5fed52c417db8",
+  "source": "**{0}** - Use for external dependencies (npm packages, remote repositories) or layers outside your project directory",
+  "text": "**{0}** - À utiliser pour les dépendances externes (packages npm, dépôts distants) ou les layers situées en dehors du répertoire de votre projet",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** - À utiliser pour les dépendances externes (packages npm, dépôts distants) ou les layers situées en dehors du répertoire de votre projet"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "837945775c220415",
+  "source": "If your Nuxt-environment tests live outside {0}, see {1}TypeScript Support in Tests{/1} to add them to the TypeScript context.",
+  "text": "Si vos tests de l'environnement Nuxt se trouvent en dehors de {0}, consultez {1}Prise en charge de TypeScript dans les tests{/1} pour les ajouter au contexte TypeScript.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vos tests de l'environnement Nuxt se trouvent en dehors de {0}, consultez {1}Prise en charge de TypeScript dans les tests{/1} pour les ajouter au contexte TypeScript."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

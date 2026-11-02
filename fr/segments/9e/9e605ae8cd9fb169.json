@@ -1,0 +1,14 @@
+{
+  "hash": "9e605ae8cd9fb169",
+  "source": "Runtime config allows passing dynamic config and environment variables to the Nuxt app context.",
+  "text": "Le runtime config permet de transmettre une configuration dynamique et des variables d'environnement au contexte de l'application Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le runtime config permet de transmettre une configuration dynamique et des variables d'environnement au contexte de l'application Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

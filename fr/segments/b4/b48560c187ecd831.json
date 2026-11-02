@@ -1,0 +1,14 @@
+{
+  "hash": "b48560c187ecd831",
+  "source": "Nuxt CLI has built-in {0} support via {1}c12{/1} in development mode and when running {2} and {3}.",
+  "text": "Nuxt CLI intègre la prise en charge de {0} via {1}c12{/1} en mode développement et lors de l'exécution de {2} et {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt CLI intègre la prise en charge de {0} via {1}c12{/1} en mode développement et lors de l'exécution de {2} et {3}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

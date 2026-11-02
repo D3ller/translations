@@ -1,0 +1,14 @@
+{
+  "hash": "d94c628952ceff07",
+  "source": "Linking to a Cross-App URL",
+  "text": "Créer un lien vers une URL d'une autre application",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Créer un lien vers une URL d'une autre application"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

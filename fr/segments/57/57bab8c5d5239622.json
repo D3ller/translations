@@ -1,0 +1,14 @@
+{
+  "hash": "57bab8c5d5239622",
+  "source": "You can provide a custom builder by passing an object with a {0} function:",
+  "text": "Vous pouvez fournir un builder personnalisé en passant un objet avec une fonction {0} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez fournir un builder personnalisé en passant un objet avec une fonction {0} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

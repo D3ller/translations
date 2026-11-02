@@ -1,0 +1,14 @@
+{
+  "hash": "60aa9110db7ffc43",
+  "source": "**Performance**: TypeScript can more efficiently check code with properly scoped configurations.",
+  "text": "**Performance** : TypeScript peut vérifier le code plus efficacement grâce à des configurations correctement délimitées.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Performance** : TypeScript peut vérifier le code plus efficacement grâce à des configurations correctement délimitées."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

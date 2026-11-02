@@ -1,0 +1,14 @@
+{
+  "hash": "fbee5b19206edd63",
+  "source": "A file may import from both {0} and {1}. It then runs only on Nitro v3, so a module registers it as its {2} variant.",
+  "text": "Un fichier peut importer à la fois depuis {0} et {1}. Il ne s'exécute alors que sur Nitro v3, de sorte qu'un module l'enregistre comme sa variante {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un fichier peut importer à la fois depuis {0} et {1}. Il ne s'exécute alors que sur Nitro v3, de sorte qu'un module l'enregistre comme sa variante {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

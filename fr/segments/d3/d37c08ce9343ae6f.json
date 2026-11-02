@@ -1,0 +1,14 @@
+{
+  "hash": "d37c08ce9343ae6f",
+  "source": "creates an 'island context' that you can access via {0} inside the island",
+  "text": "crée un « contexte d'island » auquel vous pouvez accéder via {0} à l'intérieur de l'island",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "crée un « contexte d'island » auquel vous pouvez accéder via {0} à l'intérieur de l'island"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

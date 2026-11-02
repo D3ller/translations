@@ -1,0 +1,14 @@
+{
+  "hash": "fd8f6e768f1756bf",
+  "source": "Read more about how islands are rendered, the isolated island context, selective hydration with {0}, slots, caching and current limitations in the dedicated server components guide.",
+  "text": "Pour en savoir plus sur le rendu des islands, le contexte d'island isolé, l'hydratation sélective avec {0}, les slots, la mise en cache et les limitations actuelles, consultez le guide dédié aux composants serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour en savoir plus sur le rendu des islands, le contexte d'island isolé, l'hydratation sélective avec {0}, les slots, la mise en cache et les limitations actuelles, consultez le guide dédié aux composants serveur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

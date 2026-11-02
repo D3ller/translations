@@ -1,0 +1,14 @@
+{
+  "hash": "571c5bba775304a1",
+  "source": "Resolve main (app.vue)",
+  "text": "Résoudre main (app.vue)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Résoudre main (app.vue)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

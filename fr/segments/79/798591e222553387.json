@@ -1,0 +1,14 @@
+{
+  "hash": "798591e222553387",
+  "source": "Based on History API",
+  "text": "Basé sur l'API History",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Basé sur l'API History"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "b569f8f6531c79e8",
+  "source": "The <NuxtWelcome> component greets users in new projects made from the starter template.",
+  "text": "Le composant <NuxtWelcome> accueille les utilisateurs dans les nouveaux projets créés à partir du template starter.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le composant <NuxtWelcome> accueille les utilisateurs dans les nouveaux projets créés à partir du template starter."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "17c550b2337dba9f",
+  "source": "The Nuxt {0} hook now emits a path which is absolute rather than relative to your project {1}.",
+  "text": "Le hook Nuxt {0} émet désormais un chemin absolu plutôt que relatif à la {1} de votre projet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le hook Nuxt {0} émet désormais un chemin absolu plutôt que relatif à la {1} de votre projet."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

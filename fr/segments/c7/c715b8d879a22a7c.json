@@ -1,0 +1,14 @@
+{
+  "hash": "c715b8d879a22a7c",
+  "source": "Run a given function or block of code once during SSR or CSR.",
+  "text": "Exécute une fonction ou un bloc de code donné une seule fois pendant le SSR ou le CSR.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Exécute une fonction ou un bloc de code donné une seule fois pendant le SSR ou le CSR."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

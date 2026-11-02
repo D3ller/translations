@@ -1,0 +1,14 @@
+{
+  "hash": "d4e18dd1a8e8f752",
+  "source": "Send JSON response",
+  "text": "Envoyer la réponse JSON",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Envoyer la réponse JSON"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

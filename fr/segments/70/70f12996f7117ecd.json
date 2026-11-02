@@ -1,0 +1,14 @@
+{
+  "hash": "70f12996f7117ecd",
+  "source": "In **development**, it sets up a dev server, starts a watching build, assigns {0}, and keeps running.",
+  "text": "En **développement**, il configure un serveur de développement, démarre un build en mode watch, assigne {0} et continue de s'exécuter.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En **développement**, il configure un serveur de développement, démarre un build en mode watch, assigne {0} et continue de s'exécuter."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

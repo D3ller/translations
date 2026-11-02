@@ -1,0 +1,14 @@
+{
+  "hash": "0a69eb7310d168fa",
+  "source": "It can reduce INP when navigating on prerendered routes.",
+  "text": "Cela peut réduire l'INP lors de la navigation sur des routes prérendues.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela peut réduire l'INP lors de la navigation sur des routes prérendues."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

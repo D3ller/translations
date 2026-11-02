@@ -1,0 +1,14 @@
+{
+  "hash": "bee5693551936dd6",
+  "source": "You can also use {0} inside a directory for structuring your code differently, this is useful to create API namespaces.",
+  "text": "Vous pouvez également utiliser {0} dans un répertoire pour structurer votre code différemment, ce qui est utile pour créer des espaces de noms d'API.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez également utiliser {0} dans un répertoire pour structurer votre code différemment, ce qui est utile pour créer des espaces de noms d'API."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

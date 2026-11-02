@@ -1,0 +1,14 @@
+{
+  "hash": "2ddc0d4a1c29b4d4",
+  "source": "Nuxt Fonts reads the CSS Tailwind generates, so a font is only picked up if it ends up there. A {0} theme variable that is never used by a utility (and is declared with {1}) is removed by Tailwind before Nuxt Fonts sees it. Use the utility at least once, declare it with {2}, or set the font in {3} with {4}.",
+  "text": "Nuxt Fonts lit le CSS généré par Tailwind, donc une police n'est détectée que si elle s'y retrouve. Une variable de thème {0} qu'aucun utilitaire n'utilise (et qui est déclarée avec {1}) est supprimée par Tailwind avant que Nuxt Fonts ne la voie. Utilisez l'utilitaire au moins une fois, déclarez-la avec {2}, ou définissez la police dans {3} avec {4}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt Fonts lit le CSS généré par Tailwind, donc une police n'est détectée que si elle s'y retrouve. Une variable de thème {0} qu'aucun utilitaire n'utilise (et qui est déclarée avec {1}) est supprimée par Tailwind avant que Nuxt Fonts ne la voie. Utilisez l'utilitaire au moins une fois, déclarez-la avec {2}, ou définissez la police dans {3} avec {4}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

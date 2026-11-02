@@ -1,0 +1,14 @@
+{
+  "hash": "b70b6f6583630ad1",
+  "source": "👈 run code *after* creating the {0} instance",
+  "text": "👈 exécute du code *après* la création de l'instance {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "👈 exécute du code *après* la création de l'instance {0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

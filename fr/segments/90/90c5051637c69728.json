@@ -1,0 +1,14 @@
+{
+  "hash": "90c5051637c69728",
+  "source": "Listening to Hydration Events",
+  "text": "Écouter les événements d'hydratation",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Écouter les événements d'hydratation"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "76b545c3455de9ba",
+  "source": "Nitro plugins are executed only once when the server starts. In a serverless environment, the server boots on each incoming request, and so do the Nitro plugins. However, they are not awaited.",
+  "text": "Les plugins Nitro ne sont exécutés qu'une seule fois, au démarrage du serveur. Dans un environnement serverless, le serveur démarre à chaque requête entrante, et les plugins Nitro aussi. Cependant, ils ne sont pas attendus.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les plugins Nitro ne sont exécutés qu'une seule fois, au démarrage du serveur. Dans un environnement serverless, le serveur démarre à chaque requête entrante, et les plugins Nitro aussi. Cependant, ils ne sont pas attendus."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

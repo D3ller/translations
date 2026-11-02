@@ -1,0 +1,14 @@
+{
+  "hash": "1e02ebda082086a2",
+  "source": "Server components can either be used on their own or paired with a {0}client component{/0}.",
+  "text": "Les composants serveur peuvent être utilisés seuls ou associés à un {0}composant client{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les composants serveur peuvent être utilisés seuls ou associés à un {0}composant client{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

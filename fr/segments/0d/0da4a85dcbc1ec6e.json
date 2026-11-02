@@ -1,0 +1,14 @@
+{
+  "hash": "0da4a85dcbc1ec6e",
+  "source": "{0} Is Deprecated in Server Code, in Favor of {1}",
+  "text": "{0} est obsolète dans le code serveur au profit de {1}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est obsolète dans le code serveur au profit de {1}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

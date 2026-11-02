@@ -1,0 +1,14 @@
+{
+  "hash": "f477084c5c98daf5",
+  "source": "Declare it in a {0} file your app compiles - {1} is visible to both app and server code - and the route is resolved at the call site, though it does not appear in editor completions.",
+  "text": "Déclarez-la dans un fichier {0} compilé par votre application ({1} est visible à la fois du code de l'application et du code serveur) : la route est alors résolue à l'endroit de l'appel, même si elle n'apparaît pas dans les suggestions de l'éditeur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Déclarez-la dans un fichier {0} compilé par votre application ({1} est visible à la fois du code de l'application et du code serveur) : la route est alors résolue à l'endroit de l'appel, même si elle n'apparaît pas dans les suggestions de l'éditeur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "b17c334128dd0340",
+  "source": "**Faster builds**: TypeScript can skip rebuilding unchanged projects",
+  "text": "**Builds plus rapides** : TypeScript peut éviter de recompiler les projets inchangés",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Builds plus rapides** : TypeScript peut éviter de recompiler les projets inchangés"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

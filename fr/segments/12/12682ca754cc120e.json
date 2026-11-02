@@ -1,0 +1,14 @@
+{
+  "hash": "12682ca754cc120e",
+  "source": "Only the three official builder specifiers ({0}, {1}, {2}) are recognised by name for builder-specific behaviour elsewhere in Nuxt. A custom builder still works through the generic contract described below.",
+  "text": "Seuls les trois spécificateurs de builders officiels ({0}, {1}, {2}) sont reconnus par leur nom pour les comportements propres à un builder ailleurs dans Nuxt. Un builder personnalisé fonctionne tout de même grâce au contrat générique décrit ci-dessous.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Seuls les trois spécificateurs de builders officiels ({0}, {1}, {2}) sont reconnus par leur nom pour les comportements propres à un builder ailleurs dans Nuxt. Un builder personnalisé fonctionne tout de même grâce au contrat générique décrit ci-dessous."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

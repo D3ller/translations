@@ -1,0 +1,14 @@
+{
+  "hash": "3838e6ce1bc9298a",
+  "source": "You can provide an optional path to redirect to (for example, if you want to navigate to a 'safe' page).",
+  "text": "Vous pouvez fournir un chemin de redirection facultatif (par exemple, pour naviguer vers une page « sûre »).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez fournir un chemin de redirection facultatif (par exemple, pour naviguer vers une page « sûre »)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

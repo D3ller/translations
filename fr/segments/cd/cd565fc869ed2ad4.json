@@ -1,0 +1,14 @@
+{
+  "hash": "cd565fc869ed2ad4",
+  "source": "The middleware directory, each file of which will be auto-registered as a Nuxt middleware.",
+  "text": "Le répertoire middleware, dont chaque fichier sera enregistré automatiquement comme un middleware Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le répertoire middleware, dont chaque fichier sera enregistré automatiquement comme un middleware Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

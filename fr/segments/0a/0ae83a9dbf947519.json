@@ -1,0 +1,14 @@
+{
+  "hash": "0ae83a9dbf947519",
+  "source": "If you want to override page metadata, do that in {0} rather than in {1}.",
+  "text": "Si vous souhaitez remplacer les métadonnées de page, faites-le dans {0} plutôt que dans {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous souhaitez remplacer les métadonnées de page, faites-le dans {0} plutôt que dans {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

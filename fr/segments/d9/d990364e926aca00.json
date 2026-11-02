@@ -1,0 +1,14 @@
+{
+  "hash": "d990364e926aca00",
+  "source": "Returning a value from middleware will terminate the request and send the returned value as the response. This behavior should generally be avoided to ensure proper request handling!",
+  "text": "Renvoyer une valeur depuis un middleware met fin à la requête et envoie cette valeur comme réponse. Il est généralement préférable d'éviter ce comportement afin de garantir un traitement correct des requêtes !",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Renvoyer une valeur depuis un middleware met fin à la requête et envoie cette valeur comme réponse. Il est généralement préférable d'éviter ce comportement afin de garantir un traitement correct des requêtes !"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

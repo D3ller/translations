@@ -1,0 +1,14 @@
+{
+  "hash": "df8988d3f1568232",
+  "source": "A common use-case for end-to-end testing is running the tests against a deployed application running in the same environment typically used for Production.",
+  "text": "Un cas d'usage courant des tests de bout en bout consiste à exécuter les tests sur une application déployée, dans le même environnement que celui généralement utilisé en production.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un cas d'usage courant des tests de bout en bout consiste à exécuter les tests sur une application déployée, dans le même environnement que celui généralement utilisé en production."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "d7a8ed5374e65da8",
+  "source": "{0}: generates sourcemaps but does not include references in the final bundle",
+  "text": "{0} : génère des sourcemaps mais n'inclut pas de références dans le bundle final",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : génère des sourcemaps mais n'inclut pas de références dans le bundle final"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

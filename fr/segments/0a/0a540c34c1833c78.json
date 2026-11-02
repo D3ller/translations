@@ -1,0 +1,14 @@
+{
+  "hash": "0a540c34c1833c78",
+  "source": "In development, Nuxt generates a random secret and stores it in {0} only when {1} is unset, so features that depend on it work without any setup. A configured value is always used as is. Nuxt logs a warning the first time a derived secret is used with the generated value. Builds never generate one: set {2} in every environment you deploy to.",
+  "text": "En développement, Nuxt génère un secret aléatoire et le stocke dans {0} uniquement lorsque {1} n'est pas défini, afin que les fonctionnalités qui en dépendent fonctionnent sans configuration. Une valeur configurée est toujours utilisée telle quelle. Nuxt affiche un avertissement la première fois qu'un secret dérivé est utilisé avec la valeur générée. Les builds n'en génèrent jamais : définissez {2} dans chaque environnement sur lequel vous déployez.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En développement, Nuxt génère un secret aléatoire et le stocke dans {0} uniquement lorsque {1} n'est pas défini, afin que les fonctionnalités qui en dépendent fonctionnent sans configuration. Une valeur configurée est toujours utilisée telle quelle. Nuxt affiche un avertissement la première fois qu'un secret dérivé est utilisé avec la valeur générée. Les builds n'en génèrent jamais : définissez {2} dans chaque environnement sur lequel vous déployez."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

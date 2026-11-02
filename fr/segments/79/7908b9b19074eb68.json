@@ -1,0 +1,14 @@
+{
+  "hash": "7908b9b19074eb68",
+  "source": "Removal of {0} object",
+  "text": "Suppression de l'objet {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Suppression de l'objet {0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

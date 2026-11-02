@@ -1,0 +1,14 @@
+{
+  "hash": "f6390f04b1e07360",
+  "source": "This allows us to support watching paths which are outside your {0}, and offers better support for layers and other more complex patterns.",
+  "text": "Cela nous permet de prendre en charge la surveillance de chemins situés en dehors de votre {0}, et offre une meilleure prise en charge des layers (couches) et d'autres schémas plus complexes.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela nous permet de prendre en charge la surveillance de chemins situés en dehors de votre {0}, et offre une meilleure prise en charge des layers (couches) et d'autres schémas plus complexes."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

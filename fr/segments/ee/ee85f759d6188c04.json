@@ -1,0 +1,14 @@
+{
+  "hash": "ee85f759d6188c04",
+  "source": "Automatic parsing of JSON responses (with access to raw response if needed)",
+  "text": "Analyse automatique des réponses JSON (avec accès à la réponse brute si nécessaire)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Analyse automatique des réponses JSON (avec accès à la réponse brute si nécessaire)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "93e6cb25e4bd2725",
+  "source": "Sometimes, you might call a composable that uses {0} internally, which can trigger this warning even if there is no direct call in your middleware. This leads to the **same issue as above**, so you should structure your functions to accept the route as an argument instead when they are used in middleware.",
+  "text": "Parfois, vous pouvez appeler un composable qui utilise {0} en interne, ce qui peut déclencher cet avertissement même s'il n'y a aucun appel direct dans votre middleware. Cela mène au **même problème que ci-dessus** ; vous devriez donc structurer vos fonctions pour qu'elles acceptent la route en argument lorsqu'elles sont utilisées dans un middleware.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Parfois, vous pouvez appeler un composable qui utilise {0} en interne, ce qui peut déclencher cet avertissement même s'il n'y a aucun appel direct dans votre middleware. Cela mène au **même problème que ci-dessus** ; vous devriez donc structurer vos fonctions pour qu'elles acceptent la route en argument lorsqu'elles sont utilisées dans un middleware."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

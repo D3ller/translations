@@ -1,0 +1,14 @@
+{
+  "hash": "e7962f3d7f2b0a0a",
+  "source": "example to add a global route middleware",
+  "text": "exemple pour ajouter un middleware de route global",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "exemple pour ajouter un middleware de route global"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

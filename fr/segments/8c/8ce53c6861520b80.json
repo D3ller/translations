@@ -1,0 +1,14 @@
+{
+  "hash": "8ce53c6861520b80",
+  "source": "{0} - only the routes your server builder reports are accepted, for the methods they answer.",
+  "text": "{0} : seules les routes signalées par votre builder de serveur sont acceptées, pour les méthodes auxquelles elles répondent.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : seules les routes signalées par votre builder de serveur sont acceptées, pour les méthodes auxquelles elles répondent."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

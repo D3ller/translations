@@ -1,0 +1,14 @@
+{
+  "hash": "52895e4f2d7de12f",
+  "source": "Read {0} whenever your bundler needs the module body. Nuxt calls it lazily and may call it more than once, so you can register a module before its value exists and still get the final value. If you need a specific build artifact at a specific point in your own build, {1} tells you which {2}build output{/2} key backs that module; it's absent for modules Nuxt generates itself.",
+  "text": "Lisez {0} chaque fois que votre bundler a besoin du corps du module. Nuxt l'appelle de manière différée et peut l'appeler plusieurs fois, ce qui vous permet d'enregistrer un module avant que sa valeur n'existe tout en obtenant la valeur finale. Si vous avez besoin d'un artefact de build précis à un moment précis de votre propre build, {1} indique quelle clé de la {2}sortie du build{/2} correspond à ce module ; elle est absente pour les modules que Nuxt génère lui-même.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lisez {0} chaque fois que votre bundler a besoin du corps du module. Nuxt l'appelle de manière différée et peut l'appeler plusieurs fois, ce qui vous permet d'enregistrer un module avant que sa valeur n'existe tout en obtenant la valeur finale. Si vous avez besoin d'un artefact de build précis à un moment précis de votre propre build, {1} indique quelle clé de la {2}sortie du build{/2} correspond à ce module ; elle est absente pour les modules que Nuxt génère lui-même."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

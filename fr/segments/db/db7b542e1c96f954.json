@@ -1,0 +1,14 @@
+{
+  "hash": "db7b542e1c96f954",
+  "source": "Because some composables have been removed and don't yet have a replacement, this will be a slightly more complicated process.",
+  "text": "Comme certains composables ont été supprimés et n'ont pas encore de remplaçant, ce processus sera un peu plus compliqué.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Comme certains composables ont été supprimés et n'ont pas encore de remplaçant, ce processus sera un peu plus compliqué."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

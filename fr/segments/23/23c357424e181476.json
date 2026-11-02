@@ -1,0 +1,14 @@
+{
+  "hash": "23c357424e181476",
+  "source": "You can also opt the route out of streaming, so an error is rendered as a normal error response instead of being recovered mid-stream:",
+  "text": "Vous pouvez aussi désactiver le streaming pour cette route, afin qu'une erreur soit rendue comme une réponse d'erreur normale au lieu d'être récupérée en cours de flux :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez aussi désactiver le streaming pour cette route, afin qu'une erreur soit rendue comme une réponse d'erreur normale au lieu d'être récupérée en cours de flux :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

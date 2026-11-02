@@ -1,0 +1,14 @@
+{
+  "hash": "be3811f0c38382c9",
+  "source": "Many cloud service providers, such as Vercel, Netlify, and AWS, provide interfaces for setting environment variables via their dashboards, CLI tools or configuration files.",
+  "text": "De nombreux fournisseurs de services cloud, comme Vercel, Netlify et AWS, proposent des interfaces pour définir les variables d'environnement via leurs tableaux de bord, leurs outils CLI ou des fichiers de configuration.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "De nombreux fournisseurs de services cloud, comme Vercel, Netlify et AWS, proposent des interfaces pour définir les variables d'environnement via leurs tableaux de bord, leurs outils CLI ou des fichiers de configuration."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

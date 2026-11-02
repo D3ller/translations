@@ -1,0 +1,14 @@
+{
+  "hash": "c3b9633144564fb1",
+  "source": "Nuxt now generates separate TypeScript configurations for different contexts to provide better type-checking experiences:",
+  "text": "Nuxt génère désormais des configurations TypeScript distinctes pour différents contextes afin d'offrir une meilleure expérience de vérification des types :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt génère désormais des configurations TypeScript distinctes pour différents contextes afin d'offrir une meilleure expérience de vérification des types :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

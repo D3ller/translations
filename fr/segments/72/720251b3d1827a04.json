@@ -1,0 +1,14 @@
+{
+  "hash": "720251b3d1827a04",
+  "source": "You can publish Nuxt layers as an npm package that contains the files and dependencies you want to extend. This allows you to share your config with others, use it in multiple projects or use it privately.",
+  "text": "Vous pouvez publier des layers Nuxt sous forme de package npm contenant les fichiers et les dépendances que vous souhaitez étendre. Cela vous permet de partager votre configuration avec d'autres personnes, de l'utiliser dans plusieurs projets ou de la garder privée.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez publier des layers Nuxt sous forme de package npm contenant les fichiers et les dépendances que vous souhaitez étendre. Cela vous permet de partager votre configuration avec d'autres personnes, de l'utiliser dans plusieurs projets ou de la garder privée."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

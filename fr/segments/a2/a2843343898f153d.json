@@ -1,0 +1,14 @@
+{
+  "hash": "a2843343898f153d",
+  "source": "You can hook into the underlying indicator instance using {0}the {1} composable{/0}, which will allow you to trigger start/finish events yourself.",
+  "text": "Vous pouvez vous brancher sur l'instance sous-jacente de l'indicateur grâce au {0}composable {1}{/0}, ce qui vous permet de déclencher vous-même les événements de début et de fin.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez vous brancher sur l'instance sous-jacente de l'indicateur grâce au {0}composable {1}{/0}, ce qui vous permet de déclencher vous-même les événements de début et de fin."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "d15e376daa0ba56b",
+  "source": "While building Nuxt, we created a new server engine: {0}Nitro{/0}.",
+  "text": "Lors du développement de Nuxt, nous avons créé un nouveau moteur de serveur : {0}Nitro{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lors du développement de Nuxt, nous avons créé un nouveau moteur de serveur : {0}Nitro{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

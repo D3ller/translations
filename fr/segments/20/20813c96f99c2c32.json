@@ -1,0 +1,14 @@
+{
+  "hash": "20813c96f99c2c32",
+  "source": "When preview mode is disabled, the composable will attach a callback to call {0} to run after a subsequent router navigation.",
+  "text": "Lorsque le mode prévisualisation est désactivé, le composable attache un callback qui appelle {0} afin de l'exécuter après une navigation ultérieure du routeur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque le mode prévisualisation est désactivé, le composable attache un callback qui appelle {0} afin de l'exécuter après une navigation ultérieure du routeur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

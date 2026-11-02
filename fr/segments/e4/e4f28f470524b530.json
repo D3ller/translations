@@ -1,0 +1,14 @@
+{
+  "hash": "e4f28f470524b530",
+  "source": "Restart your terminal session or reload the CLI. The Nuxt MCP server tools will now be available for use.",
+  "text": "Redémarrez votre session de terminal ou rechargez la CLI. Les outils du serveur MCP de Nuxt seront alors disponibles.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Redémarrez votre session de terminal ou rechargez la CLI. Les outils du serveur MCP de Nuxt seront alors disponibles."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

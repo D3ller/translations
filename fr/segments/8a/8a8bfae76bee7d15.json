@@ -1,0 +1,14 @@
+{
+  "hash": "8a8bfae76bee7d15",
+  "source": "Within the template of a Vue component, you can access the route using {0}.",
+  "text": "Dans le template d'un composant Vue, vous pouvez accéder à la route en utilisant {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans le template d'un composant Vue, vous pouvez accéder à la route en utilisant {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

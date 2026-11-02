@@ -1,0 +1,14 @@
+{
+  "hash": "7baec38dfaf12a62",
+  "source": "**If a composable depends on the Vue.js lifecycle, it won't work.**{0}",
+  "text": "**Si un composable dépend du cycle de vie de Vue.js, il ne fonctionnera pas.**{0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Si un composable dépend du cycle de vie de Vue.js, il ne fonctionnera pas.**{0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

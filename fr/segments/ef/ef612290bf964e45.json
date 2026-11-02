@@ -1,0 +1,14 @@
+{
+  "hash": "ef612290bf964e45",
+  "source": "Client-side rendering is a good choice for heavily interactive **web applications** that don't need indexing or whose users visit frequently. It can leverage browser caching to skip the download phase on subsequent visits, such as **SaaS, back-office applications, or online games**.",
+  "text": "Le rendu côté client est un bon choix pour les **applications web** très interactives qui n'ont pas besoin d'être indexées ou dont les utilisateurs reviennent fréquemment. Il peut tirer parti du cache du navigateur pour éviter la phase de téléchargement lors des visites suivantes, par exemple pour les **SaaS, les applications de back-office ou les jeux en ligne**.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le rendu côté client est un bon choix pour les **applications web** très interactives qui n'ont pas besoin d'être indexées ou dont les utilisateurs reviennent fréquemment. Il peut tirer parti du cache du navigateur pour éviter la phase de téléchargement lors des visites suivantes, par exemple pour les **SaaS, les applications de back-office ou les jeux en ligne**."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

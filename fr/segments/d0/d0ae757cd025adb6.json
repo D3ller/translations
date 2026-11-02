@@ -1,0 +1,14 @@
+{
+  "hash": "d0ae757cd025adb6",
+  "source": "A name that would resolve outside the project is refused, so pass a path relative to the project without leading slashes or {0} segments.",
+  "text": "Un nom qui se résoudrait en dehors du projet est refusé : indiquez donc un chemin relatif au projet, sans barres obliques initiales ni segments {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un nom qui se résoudrait en dehors du projet est refusé : indiquez donc un chemin relatif au projet, sans barres obliques initiales ni segments {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

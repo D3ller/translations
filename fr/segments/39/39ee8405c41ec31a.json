@@ -1,0 +1,14 @@
+{
+  "hash": "39ee8405c41ec31a",
+  "source": "For now, you need to define the compatibility version in each layer that opts into Nuxt 4 behavior. This will not be required after Nuxt 4 is released.",
+  "text": "Pour l'instant, vous devez définir la version de compatibilité dans chaque layer (couche) qui adopte le comportement de Nuxt 4. Cela ne sera plus nécessaire après la sortie de Nuxt 4.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour l'instant, vous devez définir la version de compatibilité dans chaque layer (couche) qui adopte le comportement de Nuxt 4. Cela ne sera plus nécessaire après la sortie de Nuxt 4."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

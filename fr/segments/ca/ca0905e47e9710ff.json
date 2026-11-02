@@ -1,0 +1,14 @@
+{
+  "hash": "ca0905e47e9710ff",
+  "source": "When you see a large block in the visualization, it often signals an opportunity for optimization—whether by splitting it into smaller parts, implementing lazy loading, or replacing it with a more efficient alternative, especially for third-party libraries.",
+  "text": "Lorsque vous voyez un gros bloc dans la visualisation, cela signale souvent une opportunité d'optimisation : le découper en parties plus petites, mettre en place un chargement différé (lazy loading) ou le remplacer par une alternative plus efficace, notamment pour les bibliothèques tierces.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque vous voyez un gros bloc dans la visualisation, cela signale souvent une opportunité d'optimisation : le découper en parties plus petites, mettre en place un chargement différé (lazy loading) ou le remplacer par une alternative plus efficace, notamment pour les bibliothèques tierces."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

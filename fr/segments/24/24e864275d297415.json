@@ -1,0 +1,14 @@
+{
+  "hash": "24e864275d297415",
+  "source": "A function executed **only on the server** (called when SSR rendering is done) to set the initial value.",
+  "text": "Une fonction exécutée **uniquement sur le serveur** (appelée une fois le rendu SSR terminé) pour définir la valeur initiale.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une fonction exécutée **uniquement sur le serveur** (appelée une fois le rendu SSR terminé) pour définir la valeur initiale."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

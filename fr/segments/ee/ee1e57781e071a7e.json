@@ -1,0 +1,14 @@
+{
+  "hash": "ee1e57781e071a7e",
+  "source": "{0}: use Vue plugins and more at the creation of your Nuxt application",
+  "text": "{0} : utilisez des plugins Vue et plus encore à la création de votre application Nuxt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : utilisez des plugins Vue et plus encore à la création de votre application Nuxt"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

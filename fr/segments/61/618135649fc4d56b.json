@@ -1,0 +1,14 @@
+{
+  "hash": "618135649fc4d56b",
+  "source": "Compared with Nuxt 4:",
+  "text": "Par rapport à Nuxt 4 :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par rapport à Nuxt 4 :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

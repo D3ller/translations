@@ -1,0 +1,14 @@
+{
+  "hash": "7486acec58c23b61",
+  "source": "State Management",
+  "text": "Gestion d'état",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Gestion d'état"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

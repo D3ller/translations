@@ -1,0 +1,14 @@
+{
+  "hash": "1459dee9e5d4847f",
+  "source": "Mount driver",
+  "text": "Monter le driver",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Monter le driver"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

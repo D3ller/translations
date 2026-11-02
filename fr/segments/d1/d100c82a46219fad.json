@@ -1,0 +1,14 @@
+{
+  "hash": "d100c82a46219fad",
+  "source": "Set to {0} to disable.",
+  "text": "Définissez sur {0} pour désactiver.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définissez sur {0} pour désactiver."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

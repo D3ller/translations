@@ -1,0 +1,14 @@
+{
+  "hash": "65bf89cc386bc282",
+  "source": "Use the composables/ directory to auto-import your Vue composables into your application.",
+  "text": "Utilisez le répertoire composables/ pour importer automatiquement vos composables Vue dans votre application.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utilisez le répertoire composables/ pour importer automatiquement vos composables Vue dans votre application."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

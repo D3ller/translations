@@ -1,0 +1,14 @@
+{
+  "hash": "e741ab47ac46ac7d",
+  "source": "We recommend publishing your layer's contents as an npm package (public or private, for example via {0}GitHub Packages{/0}) rather than relying on a remote layer.",
+  "text": "Nous recommandons de publier le contenu de votre layer sous forme de package npm (public ou privé, par exemple via {0}GitHub Packages{/0}) plutôt que de vous appuyer sur un layer distant.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nous recommandons de publier le contenu de votre layer sous forme de package npm (public ou privé, par exemple via {0}GitHub Packages{/0}) plutôt que de vous appuyer sur un layer distant."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

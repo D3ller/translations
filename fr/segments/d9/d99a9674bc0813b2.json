@@ -1,0 +1,14 @@
+{
+  "hash": "d99a9674bc0813b2",
+  "source": "An explicit {0} option always takes precedence. If the same key is shared with components that do hydrate, keep the {1} option consistent across calls (Nuxt warns about mismatches in development).",
+  "text": "Une option {0} explicite est toujours prioritaire. Si la même clé est partagée avec des composants qui s'hydratent, gardez l'option {1} cohérente entre les appels (Nuxt signale les incohérences en développement).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une option {0} explicite est toujours prioritaire. Si la même clé est partagée avec des composants qui s'hydratent, gardez l'option {1} cohérente entre les appels (Nuxt signale les incohérences en développement)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

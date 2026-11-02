@@ -1,0 +1,14 @@
+{
+  "hash": "2201183ae58ae1f7",
+  "source": "Nuxt automatically includes your module's directories in the appropriate type contexts. To augment types from your module, all you need to do is place the type declaration file in the appropriate directory based on the augmented type context. Alternatively, you can {0}extend the TypeScript configuration{/0} to augment from an arbitrary location.",
+  "text": "Nuxt inclut automatiquement les répertoires de votre module dans les contextes de types appropriés. Pour augmenter les types depuis votre module, il vous suffit de placer le fichier de déclaration de types dans le répertoire approprié selon le contexte de types à augmenter. Vous pouvez aussi {0}étendre la configuration TypeScript{/0} pour augmenter les types depuis un emplacement arbitraire.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt inclut automatiquement les répertoires de votre module dans les contextes de types appropriés. Pour augmenter les types depuis votre module, il vous suffit de placer le fichier de déclaration de types dans le répertoire approprié selon le contexte de types à augmenter. Vous pouvez aussi {0}étendre la configuration TypeScript{/0} pour augmenter les types depuis un emplacement arbitraire."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

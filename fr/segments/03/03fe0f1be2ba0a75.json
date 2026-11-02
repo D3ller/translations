@@ -1,0 +1,14 @@
+{
+  "hash": "03fe0f1be2ba0a75",
+  "source": "**Layer modules first** (in extend order - deeper layers first)",
+  "text": "**Modules des layers en premier** (dans l'ordre d'extension : les layers les plus profonds d'abord)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Modules des layers en premier** (dans l'ordre d'extension : les layers les plus profonds d'abord)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

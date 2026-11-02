@@ -1,0 +1,14 @@
+{
+  "hash": "9f5ba5560952660a",
+  "source": "**No configuration to start**: add the module and keep writing CSS. Every option is a default you can change, not a step you have to take.",
+  "text": "**Aucune configuration pour démarrer** : ajoutez le module et continuez à écrire du CSS. Chaque option est une valeur par défaut que vous pouvez modifier, et non une étape obligatoire.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Aucune configuration pour démarrer** : ajoutez le module et continuez à écrire du CSS. Chaque option est une valeur par défaut que vous pouvez modifier, et non une étape obligatoire."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

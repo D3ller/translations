@@ -1,0 +1,14 @@
+{
+  "hash": "a7f14ad588cd00df",
+  "source": "Props a component does not declare fall through as attributes onto its single root element, so an island whose root is a polymorphic component (e.g. from {0} / {1}) can receive attributes you did not bind. Set {2} on such islands, or declare the props you accept.",
+  "text": "Les props qu'un composant ne déclare pas sont transmises en tant qu'attributs à son unique élément racine ; une island dont la racine est un composant polymorphe (par ex. issu de {0} / {1}) peut donc recevoir des attributs que vous n'avez pas liés. Définissez {2} sur ces islands, ou déclarez les props que vous acceptez.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les props qu'un composant ne déclare pas sont transmises en tant qu'attributs à son unique élément racine ; une island dont la racine est un composant polymorphe (par ex. issu de {0} / {1}) peut donc recevoir des attributs que vous n'avez pas liés. Définissez {2} sur ces islands, ou déclarez les props que vous acceptez."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "38454bbb13984580",
+  "source": "This is useful in situations where you have a plugin that depends on another plugin.",
+  "text": "C'est utile lorsque vous avez un plugin qui dépend d'un autre plugin.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "C'est utile lorsque vous avez un plugin qui dépend d'un autre plugin."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

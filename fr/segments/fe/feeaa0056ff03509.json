@@ -1,0 +1,14 @@
+{
+  "hash": "feeaa0056ff03509",
+  "source": "A skip link as the first tab stop of your app is the conventional fix, and it helps on the initial page load too:",
+  "text": "Un lien d'évitement placé comme premier arrêt de tabulation de votre application est la solution classique, et il est aussi utile lors du chargement initial de la page :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un lien d'évitement placé comme premier arrêt de tabulation de votre application est la solution classique, et il est aussi utile lors du chargement initial de la page :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

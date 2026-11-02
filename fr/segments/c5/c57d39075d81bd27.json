@@ -1,0 +1,14 @@
+{
+  "hash": "c57d39075d81bd27",
+  "source": "You can set minimizer to a customized array of plugins.",
+  "text": "Vous pouvez définir minimizer sur un tableau personnalisé de plugins.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez définir minimizer sur un tableau personnalisé de plugins."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

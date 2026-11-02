@@ -1,0 +1,14 @@
+{
+  "hash": "68203390406e9d1e",
+  "source": "Overwrite default array value by using a merger function",
+  "text": "Remplacez la valeur de tableau par défaut en utilisant une fonction de fusion",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Remplacez la valeur de tableau par défaut en utilisant une fonction de fusion"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

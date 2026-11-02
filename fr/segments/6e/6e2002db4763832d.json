@@ -1,0 +1,14 @@
+{
+  "hash": "6e2002db4763832d",
+  "source": "You can also use a dynamic key based on the current route:",
+  "text": "Vous pouvez aussi utiliser une clé dynamique basée sur la route actuelle :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez aussi utiliser une clé dynamique basée sur la route actuelle :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

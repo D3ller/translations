@@ -1,0 +1,14 @@
+{
+  "hash": "9adb7d25c587d0f7",
+  "source": "the project root: where a target's own config file lives",
+  "text": "la racine du projet : l'emplacement du fichier de configuration propre à une cible",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "la racine du projet : l'emplacement du fichier de configuration propre à une cible"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

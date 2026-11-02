@@ -1,0 +1,14 @@
+{
+  "hash": "e7c0d4b9192787cb",
+  "source": "This function will clear the currently handled Nuxt error. It also takes an optional path to redirect to (for example, if you want to navigate to a 'safe' page).",
+  "text": "Cette fonction efface l'erreur Nuxt en cours de traitement. Elle accepte également un chemin de redirection facultatif (par exemple, si vous souhaitez naviguer vers une page « sûre »).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cette fonction efface l'erreur Nuxt en cours de traitement. Elle accepte également un chemin de redirection facultatif (par exemple, si vous souhaitez naviguer vers une page « sûre »)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

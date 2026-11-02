@@ -1,0 +1,14 @@
+{
+  "hash": "99d8a08689f45246",
+  "source": "Enable Layouts",
+  "text": "Activer les layouts",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Activer les layouts"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

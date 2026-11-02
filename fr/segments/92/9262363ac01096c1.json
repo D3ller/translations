@@ -1,0 +1,14 @@
+{
+  "hash": "9262363ac01096c1",
+  "source": "This respects the layer priority system",
+  "text": "Cela respecte le système de priorité des layers",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela respecte le système de priorité des layers"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

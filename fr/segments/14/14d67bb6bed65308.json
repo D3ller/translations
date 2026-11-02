@@ -1,0 +1,14 @@
+{
+  "hash": "14d67bb6bed65308",
+  "source": "This will cause hydration mismatch!",
+  "text": "Cela provoquera une erreur de correspondance d'hydratation !",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela provoquera une erreur de correspondance d'hydratation !"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

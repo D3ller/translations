@@ -1,0 +1,14 @@
+{
+  "hash": "c44dabe29f7233ff",
+  "source": "The onNuxtReady composable allows running a callback after your app has finished initializing.",
+  "text": "Le composable onNuxtReady permet d'exécuter un callback une fois que votre application a fini de s'initialiser.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le composable onNuxtReady permet d'exécuter un callback une fois que votre application a fini de s'initialiser."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

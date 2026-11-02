@@ -1,0 +1,14 @@
+{
+  "hash": "b66bff89efabcde1",
+  "source": "If your titles come from route metadata rather than from the page itself, you can read {0} values from {1} in a layout.",
+  "text": "Si vos titres proviennent des métadonnées de route plutôt que de la page elle-même, vous pouvez lire les valeurs de {0} depuis {1} dans un layout.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vos titres proviennent des métadonnées de route plutôt que de la page elle-même, vous pouvez lire les valeurs de {0} depuis {1} dans un layout."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "3c9d0491969d15c9",
+  "source": "You should avoid code that produces side effects that need cleanup in root scope of {0}. An example of such side effects is setting up timers with {1}. In client-side only code we may setup a timer and then tear it down in {2} or {3}. However, because the unmount hooks will never be called during SSR, the timers will stay around forever. To avoid this, move your side-effect code into {4} instead.",
+  "text": "Vous devez éviter le code qui produit des effets de bord nécessitant un nettoyage dans la portée racine de {0}. Un exemple de tels effets de bord est la mise en place de minuteurs avec {1}. Dans du code exécuté uniquement côté client, vous pouvez mettre en place un minuteur puis le supprimer dans {2} ou {3}. Cependant, comme les hooks de démontage ne sont jamais appelés pendant le SSR, les minuteurs resteront actifs indéfiniment. Pour éviter cela, déplacez plutôt votre code à effets de bord dans {4}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous devez éviter le code qui produit des effets de bord nécessitant un nettoyage dans la portée racine de {0}. Un exemple de tels effets de bord est la mise en place de minuteurs avec {1}. Dans du code exécuté uniquement côté client, vous pouvez mettre en place un minuteur puis le supprimer dans {2} ou {3}. Cependant, comme les hooks de démontage ne sont jamais appelés pendant le SSR, les minuteurs resteront actifs indéfiniment. Pour éviter cela, déplacez plutôt votre code à effets de bord dans {4}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

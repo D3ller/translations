@@ -1,0 +1,14 @@
+{
+  "hash": "e68ddd72f2f54bb6",
+  "source": "The sections below highlight changes that are most relevant to Nuxt application developers and module authors. You don't have to make all of them before you upgrade: see {0}Nitro v2 Compatibility{/0} for the layer that keeps older server code running in the meantime.",
+  "text": "Les sections ci-dessous présentent les changements les plus pertinents pour les développeurs d'applications Nuxt et les auteurs de modules. Vous n'avez pas à tous les effectuer avant de mettre à niveau : consultez {0}Compatibilité avec Nitro v2{/0} pour découvrir le layer (couche) qui maintient l'ancien code serveur en état de marche en attendant.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les sections ci-dessous présentent les changements les plus pertinents pour les développeurs d'applications Nuxt et les auteurs de modules. Vous n'avez pas à tous les effectuer avant de mettre à niveau : consultez {0}Compatibilité avec Nitro v2{/0} pour découvrir le layer (couche) qui maintient l'ancien code serveur en état de marche en attendant."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

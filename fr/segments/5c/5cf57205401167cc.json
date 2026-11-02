@@ -1,0 +1,14 @@
+{
+  "hash": "5cf57205401167cc",
+  "source": "where the client declares the routes it serves",
+  "text": "où le client déclare les routes qu'il sert",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "où le client déclare les routes qu'il sert"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

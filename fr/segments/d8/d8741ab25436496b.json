@@ -1,0 +1,14 @@
+{
+  "hash": "d8741ab25436496b",
+  "source": "We'll do our best to follow {0}our PR decision making flowchart{/0} when responding and reviewing to pull requests.",
+  "text": "Nous ferons de notre mieux pour suivre {0}notre organigramme de décision des PR{/0} lorsque nous répondrons aux pull requests et les relirons.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nous ferons de notre mieux pour suivre {0}notre organigramme de décision des PR{/0} lorsque nous répondrons aux pull requests et les relirons."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

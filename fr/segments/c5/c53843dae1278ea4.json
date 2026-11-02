@@ -1,0 +1,14 @@
+{
+  "hash": "c53843dae1278ea4",
+  "source": "**Storage.** {0} comes from {1}, and so does the driver configuration behind it.",
+  "text": "**Stockage.** {0} provient de {1}, tout comme la configuration des drivers qui se trouve derrière.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Stockage.** {0} provient de {1}, tout comme la configuration des drivers qui se trouve derrière."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

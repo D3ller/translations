@@ -1,0 +1,14 @@
+{
+  "hash": "914a7da25ef4ac61",
+  "source": "Currently Nuxt's built-in lazy hydration only works in single-file components (SFCs), and requires you to define the prop in the template (rather than spreading an object of props via {0}). It also does not work with direct imports from {1}.",
+  "text": "Actuellement, l'hydratation différée intégrée de Nuxt ne fonctionne que dans les composants monofichiers (SFC) et exige que vous définissiez la prop dans le template (plutôt que de répartir un objet de props via {0}). Elle ne fonctionne pas non plus avec les imports directs depuis {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Actuellement, l'hydratation différée intégrée de Nuxt ne fonctionne que dans les composants monofichiers (SFC) et exige que vous définissiez la prop dans le template (plutôt que de répartir un objet de props via {0}). Elle ne fonctionne pas non plus avec les imports directs depuis {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

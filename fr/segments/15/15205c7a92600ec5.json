@@ -1,0 +1,14 @@
+{
+  "hash": "15205c7a92600ec5",
+  "source": "Global families are injected into a single stylesheet loaded on every page, so keep the list short: every visitor downloads the CSS for each one.",
+  "text": "Les familles globales sont injectées dans une feuille de style unique chargée sur chaque page ; gardez donc la liste courte : chaque visiteur télécharge le CSS de chacune d'elles.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les familles globales sont injectées dans une feuille de style unique chargée sur chaque page ; gardez donc la liste courte : chaque visiteur télécharge le CSS de chacune d'elles."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "4171f328581088b5",
+  "source": "In production builds, the Vue runtime is bundled and emitted as the {0} and {1} packages in the server output.",
+  "text": "Dans les builds de production, le runtime de Vue est inclus dans le bundle et émis sous la forme des packages {0} et {1} dans la sortie serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans les builds de production, le runtime de Vue est inclus dans le bundle et émis sous la forme des packages {0} et {1} dans la sortie serveur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

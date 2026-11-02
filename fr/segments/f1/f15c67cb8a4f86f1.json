@@ -1,0 +1,14 @@
+{
+  "hash": "f15c67cb8a4f86f1",
+  "source": "Builder-specific types, such as {0} for {1} or the full Nitro config in the {2} hook, come from the generated {3}. Without it, they resolve to builder-agnostic types ({4} and a reduced Nitro config). Type utilities that accept an event against {5} to support any server builder.",
+  "text": "Les types spécifiques au builder, tels que {0} pour {1} ou la configuration Nitro complète dans le hook {2}, proviennent du {3} généré. Sans lui, ils se résolvent en types indépendants du builder ({4} et une configuration Nitro réduite). Typez les utilitaires qui acceptent un événement avec {5} pour prendre en charge n'importe quel builder serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les types spécifiques au builder, tels que {0} pour {1} ou la configuration Nitro complète dans le hook {2}, proviennent du {3} généré. Sans lui, ils se résolvent en types indépendants du builder ({4} et une configuration Nitro réduite). Typez les utilitaires qui acceptent un événement avec {5} pour prendre en charge n'importe quel builder serveur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "da5c5e3019f1abf3",
+  "source": "Note that removing a variable from {0} or removing the {1} file entirely will not unset values that have already been set.",
+  "text": "Notez que supprimer une variable de {0} ou supprimer entièrement le fichier {1} ne désactivera pas les valeurs déjà définies.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Notez que supprimer une variable de {0} ou supprimer entièrement le fichier {1} ne désactivera pas les valeurs déjà définies."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

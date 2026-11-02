@@ -1,0 +1,14 @@
+{
+  "hash": "bf03bda9e378a5c2",
+  "source": "{0} will try to store the value of a {1} param from url in state. You can modify this state and it will be available for all {2} calls.",
+  "text": "{0} essaie de stocker dans l'état la valeur du paramètre {1} de l'URL. Vous pouvez modifier cet état, et il sera disponible pour tous les appels à {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} essaie de stocker dans l'état la valeur du paramètre {1} de l'URL. Vous pouvez modifier cet état, et il sera disponible pour tous les appels à {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "285c6b947f1b6f21",
+  "source": "font.fonts: FontFaceData[], with each {0} URL as served (with {1})",
+  "text": "font.fonts : FontFaceData[], avec chaque URL {0} telle que servie (avec {1})",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "font.fonts : FontFaceData[], avec chaque URL {0} telle que servie (avec {1})"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

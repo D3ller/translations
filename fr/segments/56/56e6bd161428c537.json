@@ -1,0 +1,14 @@
+{
+  "hash": "56e6bd161428c537",
+  "source": "The key differences are that you must provide a *key* for this state (which Nuxt generated automatically for {0} and {1}), and that it can only be called within a Nuxt 3 plugin (which is defined by {2}) or a component instance. (In other words, you cannot use {3} with a global/ambient context, because of the danger of shared state across requests.)",
+  "text": "Les principales différences sont que vous devez fournir une *clé* pour cet état (que Nuxt générait automatiquement pour {0} et {1}), et qu'il ne peut être appelé que dans un plugin Nuxt 3 (défini par {2}) ou dans une instance de composant. (En d'autres termes, vous ne pouvez pas utiliser {3} avec un contexte global/ambiant, en raison du risque de partage d'état entre les requêtes.)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les principales différences sont que vous devez fournir une *clé* pour cet état (que Nuxt générait automatiquement pour {0} et {1}), et qu'il ne peut être appelé que dans un plugin Nuxt 3 (défini par {2}) ou dans une instance de composant. (En d'autres termes, vous ne pouvez pas utiliser {3} avec un contexte global/ambiant, en raison du risque de partage d'état entre les requêtes.)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

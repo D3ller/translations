@@ -1,0 +1,14 @@
+{
+  "hash": "27f9fa085cef5320",
+  "source": "{0} and {1} objects returned from {2} will now default to {3}.",
+  "text": "Les objets {0} et {1} renvoyés par {2} auront désormais {3} comme valeur par défaut.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les objets {0} et {1} renvoyés par {2} auront désormais {3} comme valeur par défaut."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

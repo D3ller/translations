@@ -1,0 +1,14 @@
+{
+  "hash": "958b6dad88e67525",
+  "source": "How to detect them",
+  "text": "Comment les détecter",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Comment les détecter"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

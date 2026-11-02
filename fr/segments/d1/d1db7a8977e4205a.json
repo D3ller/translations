@@ -1,0 +1,14 @@
+{
+  "hash": "d1db7a8977e4205a",
+  "source": "in a terminal",
+  "text": "dans un terminal",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "dans un terminal"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

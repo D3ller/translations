@@ -1,0 +1,14 @@
+{
+  "hash": "00eeef1e9a19723c",
+  "source": "In roadmap below are some features we are planning or working on at the moment.",
+  "text": "La feuille de route ci-dessous présente certaines fonctionnalités que nous prévoyons ou sur lesquelles nous travaillons actuellement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La feuille de route ci-dessous présente certaines fonctionnalités que nous prévoyons ou sur lesquelles nous travaillons actuellement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

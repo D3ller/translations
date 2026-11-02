@@ -1,0 +1,14 @@
+{
+  "hash": "7ed5107700215deb",
+  "source": "**{0}**: Get help with migrating between Nuxt versions",
+  "text": "**{0}** : obtenez de l'aide pour migrer d'une version de Nuxt à une autre",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** : obtenez de l'aide pour migrer d'une version de Nuxt à une autre"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "5a01fabaaa1c68b2",
+  "source": "Without {0}, Nuxt recompiles a template on every watched file change because it cannot know what the template reads. Templates with {1} are an exception: they recompile only when their source file changes. If your template is built only from configuration and from which files exist, declare that so Nuxt can leave it alone when a file is edited:",
+  "text": "Sans {0}, Nuxt recompile un template à chaque changement d'un fichier surveillé, car il ne peut pas savoir ce que le template lit. Les templates avec {1} font exception : ils ne sont recompilés que lorsque leur fichier source change. Si votre template est construit uniquement à partir de la configuration et de la liste des fichiers existants, déclarez-le pour que Nuxt puisse le laisser tranquille lorsqu'un fichier est modifié :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sans {0}, Nuxt recompile un template à chaque changement d'un fichier surveillé, car il ne peut pas savoir ce que le template lit. Les templates avec {1} font exception : ils ne sont recompilés que lorsque leur fichier source change. Si votre template est construit uniquement à partir de la configuration et de la liste des fichiers existants, déclarez-le pour que Nuxt puisse le laisser tranquille lorsqu'un fichier est modifié :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

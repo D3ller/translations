@@ -1,0 +1,14 @@
+{
+  "hash": "6fbc1710516ba673",
+  "source": "The {0} option accepts either a module specifier that default-exports a {1}, or an inline object:",
+  "text": "L'option {0} accepte soit un spécificateur de module qui exporte par défaut un {1}, soit un objet en ligne :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'option {0} accepte soit un spécificateur de module qui exporte par défaut un {1}, soit un objet en ligne :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "c266b5502ed0f562",
+  "source": "The assets directory (aliased as {0} in your build).",
+  "text": "Le répertoire assets (avec l'alias {0} dans votre build).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le répertoire assets (avec l'alias {0} dans votre build)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

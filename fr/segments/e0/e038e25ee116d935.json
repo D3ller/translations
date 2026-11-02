@@ -1,0 +1,14 @@
+{
+  "hash": "e038e25ee116d935",
+  "source": "Configure VS Code to use your workspace TypeScript version (see {0}VS Code documentation{/0})",
+  "text": "Configurer VS Code pour qu'il utilise la version de TypeScript de votre espace de travail (voir la {0}documentation de VS Code{/0})",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Configurer VS Code pour qu'il utilise la version de TypeScript de votre espace de travail (voir la {0}documentation de VS Code{/0})"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

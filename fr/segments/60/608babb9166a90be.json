@@ -1,0 +1,14 @@
+{
+  "hash": "608babb9166a90be",
+  "source": "There are a number of components that Nuxt provides, including {0} and {1}. You can read more about them in the API documentation.",
+  "text": "Nuxt fournit un certain nombre de composants, dont {0} et {1}. Vous pouvez en savoir plus à leur sujet dans la documentation de l'API.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt fournit un certain nombre de composants, dont {0} et {1}. Vous pouvez en savoir plus à leur sujet dans la documentation de l'API."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

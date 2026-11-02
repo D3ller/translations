@@ -1,0 +1,14 @@
+{
+  "hash": "cf061220bfd1cd09",
+  "source": "{0} is typed as {1}, and {2} as {3}. The {4} request requires a body with a {5} string.",
+  "text": "{0} est typé comme {1}, et {2} comme {3}. La requête {4} exige un corps contenant une chaîne {5}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est typé comme {1}, et {2} comme {3}. La requête {4} exige un corps contenant une chaîne {5}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

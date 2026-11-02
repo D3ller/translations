@@ -1,0 +1,14 @@
+{
+  "hash": "60bb37c19323594c",
+  "source": "You can use a custom CDN for serving static assets inside {0} using the {1} environment variable.",
+  "text": "Vous pouvez utiliser un CDN personnalisé pour servir les ressources statiques dans {0} grâce à la variable d'environnement {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez utiliser un CDN personnalisé pour servir les ressources statiques dans {0} grâce à la variable d'environnement {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

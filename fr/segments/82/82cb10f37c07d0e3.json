@@ -1,0 +1,14 @@
+{
+  "hash": "82cb10f37c07d0e3",
+  "source": "{0}: file-based routing to create routes within your web application",
+  "text": "{0} : routage basé sur les fichiers pour créer des routes dans votre application web",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : routage basé sur les fichiers pour créer des routes dans votre application web"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

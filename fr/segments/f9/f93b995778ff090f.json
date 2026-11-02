@@ -1,0 +1,14 @@
+{
+  "hash": "f93b995778ff090f",
+  "source": "You can check {0}bridge/src/module.ts{/0} for latest defaults.",
+  "text": "Consultez {0}bridge/src/module.ts{/0} pour connaître les dernières valeurs par défaut.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Consultez {0}bridge/src/module.ts{/0} pour connaître les dernières valeurs par défaut."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

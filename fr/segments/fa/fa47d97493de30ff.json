@@ -1,0 +1,14 @@
+{
+  "hash": "fa47d97493de30ff",
+  "source": "To utilize a separate target host for end-to-end tests, simply provide the {0} property of the {1} function with the desired URL.",
+  "text": "Pour utiliser un hôte cible distinct pour les tests de bout en bout, indiquez simplement l'URL souhaitée dans la propriété {0} de la fonction {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour utiliser un hôte cible distinct pour les tests de bout en bout, indiquez simplement l'URL souhaitée dans la propriété {0} de la fonction {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "76e031fc9ccbff03",
+  "source": "Exit if the requested port is unavailable instead of using another one",
+  "text": "Quitte si le port demandé n'est pas disponible au lieu d'en utiliser un autre",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Quitte si le port demandé n'est pas disponible au lieu d'en utiliser un autre"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

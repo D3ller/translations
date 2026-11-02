@@ -1,0 +1,14 @@
+{
+  "hash": "8e193b1907040c3c",
+  "source": "Let's use the new composable and have a nice and clean component:",
+  "text": "Utilisons le nouveau composable pour obtenir un composant propre et net :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utilisons le nouveau composable pour obtenir un composant propre et net :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "64b8cd227c3dcf64",
+  "source": "Setting the default of {0} values to *differently named environment variables* (for example setting {1} to {2}) will only work during build-time and will break on runtime. It is advised to use environment variables that match the structure of your {3} object.",
+  "text": "Définir la valeur par défaut de {0} avec des *variables d'environnement nommées différemment* (par exemple en définissant {1} sur {2}) ne fonctionnera qu'au moment du build et ne fonctionnera plus à l'exécution. Il est recommandé d'utiliser des variables d'environnement qui correspondent à la structure de votre objet {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définir la valeur par défaut de {0} avec des *variables d'environnement nommées différemment* (par exemple en définissant {1} sur {2}) ne fonctionnera qu'au moment du build et ne fonctionnera plus à l'exécution. Il est recommandé d'utiliser des variables d'environnement qui correspondent à la structure de votre objet {3}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

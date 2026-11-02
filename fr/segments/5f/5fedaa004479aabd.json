@@ -1,0 +1,14 @@
+{
+  "hash": "5fedaa004479aabd",
+  "source": "{0}ufo{/0} - URL parsing and joining utilities",
+  "text": "{0}ufo{/0} : utilitaires d'analyse et de jointure d'URL",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}ufo{/0} : utilitaires d'analyse et de jointure d'URL"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

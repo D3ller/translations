@@ -1,0 +1,14 @@
+{
+  "hash": "60d0b8a05021cec0",
+  "source": "Runtime config keys prefixed with {0} are reserved for Nuxt (currently {1} and {2}). Do not use them for your own values.",
+  "text": "Les clés de runtime config préfixées par {0} sont réservées à Nuxt (actuellement {1} et {2}). Ne les utilisez pas pour vos propres valeurs.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les clés de runtime config préfixées par {0} sont réservées à Nuxt (actuellement {1} et {2}). Ne les utilisez pas pour vos propres valeurs."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

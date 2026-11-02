@@ -1,0 +1,14 @@
+{
+  "hash": "21fc5e26ae1f6929",
+  "source": "What's Corepack",
+  "text": "Qu'est-ce que Corepack ?",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Qu'est-ce que Corepack ?"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

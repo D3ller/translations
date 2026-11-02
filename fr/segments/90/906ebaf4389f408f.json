@@ -1,0 +1,14 @@
+{
+  "hash": "906ebaf4389f408f",
+  "source": "We can access the {0} prop in the page component:",
+  "text": "Vous pouvez accéder à la prop {0} dans le composant de page :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez accéder à la prop {0} dans le composant de page :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

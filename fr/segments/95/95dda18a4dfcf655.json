@@ -1,0 +1,14 @@
+{
+  "hash": "95dda18a4dfcf655",
+  "source": "On the initial request, the {0} ref is initialized in the server since it is rendered inside the {1} tag. The contents of {2} is never executed here. During hydration in the browser, the {3} ref is re-initialized. The {4} finally binds itself to the button; Therefore it is reasonable to deduce that the body of {5} will always run in a browser environment.",
+  "text": "Lors de la requête initiale, la ref {0} est initialisée sur le serveur, car elle est rendue à l'intérieur de la balise {1}. Le contenu de {2} n'est jamais exécuté ici. Pendant l'hydratation dans le navigateur, la ref {3} est réinitialisée. Enfin, {4} s'attache au bouton ; il est donc raisonnable d'en déduire que le corps de {5} s'exécutera toujours dans un environnement navigateur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lors de la requête initiale, la ref {0} est initialisée sur le serveur, car elle est rendue à l'intérieur de la balise {1}. Le contenu de {2} n'est jamais exécuté ici. Pendant l'hydratation dans le navigateur, la ref {3} est réinitialisée. Enfin, {4} s'attache au bouton ; il est donc raisonnable d'en déduire que le corps de {5} s'exécutera toujours dans un environnement navigateur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "e9e5a22cf9af19f0",
+  "source": "The {0} utility function (used by the {1} composable) is intentionally not globally configurable. This is important so that fetching behavior throughout your application remains consistent, and other integrations (like modules) can rely on the behavior of core utilities like {2}.",
+  "text": "La fonction utilitaire {0} (utilisée par le composable {1}) n'est volontairement pas configurable globalement. C'est important afin que le comportement de récupération de données reste cohérent dans toute votre application, et que d'autres intégrations (comme les modules) puissent s'appuyer sur le comportement d'utilitaires essentiels tels que {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La fonction utilitaire {0} (utilisée par le composable {1}) n'est volontairement pas configurable globalement. C'est important afin que le comportement de récupération de données reste cohérent dans toute votre application, et que d'autres intégrations (comme les modules) puissent s'appuyer sur le comportement d'utilitaires essentiels tels que {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "8059a4e7090d85f9",
+  "source": "**Offline:** Because code entirely runs in the browser, it can nicely keep working while the internet is unavailable.",
+  "text": "**Hors ligne :** comme le code s'exécute entièrement dans le navigateur, il peut continuer à fonctionner sans problème lorsque la connexion internet est indisponible.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Hors ligne :** comme le code s'exécute entièrement dans le navigateur, il peut continuer à fonctionner sans problème lorsque la connexion internet est indisponible."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

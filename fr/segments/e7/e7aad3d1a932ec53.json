@@ -1,0 +1,14 @@
+{
+  "hash": "e7aad3d1a932ec53",
+  "source": "{0} (object): Same as {1}{2} options{/1}, with {3} automatically set to {4}.",
+  "text": "{0} (object) : identique aux {1}options de {2}{/1}, avec {3} automatiquement défini sur {4}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} (object) : identique aux {1}options de {2}{/1}, avec {3} automatiquement défini sur {4}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

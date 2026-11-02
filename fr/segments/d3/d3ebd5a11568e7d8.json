@@ -1,0 +1,14 @@
+{
+  "hash": "d3ebd5a11568e7d8",
+  "source": "The {0} field is a convention used by bundlers like webpack and Rollup, but is not recognized by Node.js itself. Node.js only uses the {1} and {2} fields for module resolution.",
+  "text": "Le champ {0} est une convention utilisée par des bundlers comme webpack et Rollup, mais il n'est pas reconnu par Node.js lui-même. Node.js utilise uniquement les champs {1} et {2} pour la résolution des modules.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le champ {0} est une convention utilisée par des bundlers comme webpack et Rollup, mais il n'est pas reconnu par Node.js lui-même. Node.js utilise uniquement les champs {1} et {2} pour la résolution des modules."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

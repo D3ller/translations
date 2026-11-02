@@ -1,0 +1,14 @@
+{
+  "hash": "de172af8e2865bb9",
+  "source": "The module starter comes with a default set of tools and configurations (e.g. ESLint configuration). If you plan on open-sourcing your module, sticking with those defaults ensures your module shares a consistent coding style with other {0}community modules{/0} out there, making it easier for others to contribute.",
+  "text": "Le starter de module est fourni avec un ensemble d'outils et de configurations par défaut (par ex. la configuration ESLint). Si vous prévoyez de publier votre module en open source, conserver ces valeurs par défaut garantit que votre module partage un style de code cohérent avec les autres {0}modules de la communauté{/0}, ce qui facilite les contributions des autres.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le starter de module est fourni avec un ensemble d'outils et de configurations par défaut (par ex. la configuration ESLint). Si vous prévoyez de publier votre module en open source, conserver ces valeurs par défaut garantit que votre module partage un style de code cohérent avec les autres {0}modules de la communauté{/0}, ce qui facilite les contributions des autres."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

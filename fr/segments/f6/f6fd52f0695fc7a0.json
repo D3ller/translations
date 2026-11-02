@@ -1,0 +1,14 @@
+{
+  "hash": "f6fd52f0695fc7a0",
+  "source": "Before ECMAScript Modules (ESM) became a standard (it took more than 10 years!), tooling like {0}webpack{/0} and even languages like TypeScript started supporting so-called **ESM syntax**. However, there are some key differences with actual spec; here's {1}a helpful explainer{/1}.",
+  "text": "Avant que les modules ECMAScript (ESM) ne deviennent un standard (cela a pris plus de 10 ans !), des outils comme {0}webpack{/0} et même des langages comme TypeScript ont commencé à prendre en charge ce que l'on appelle la **syntaxe ESM**. Cependant, il existe quelques différences importantes avec la spécification réelle ; voici {1}une explication utile{/1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Avant que les modules ECMAScript (ESM) ne deviennent un standard (cela a pris plus de 10 ans !), des outils comme {0}webpack{/0} et même des langages comme TypeScript ont commencé à prendre en charge ce que l'on appelle la **syntaxe ESM**. Cependant, il existe quelques différences importantes avec la spécification réelle ; voici {1}une explication utile{/1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

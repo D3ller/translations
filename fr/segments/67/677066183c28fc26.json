@@ -1,0 +1,14 @@
+{
+  "hash": "677066183c28fc26",
+  "source": "In this example, we merge an object inside a module and consume the result in a runtime plugin.",
+  "text": "Dans cet exemple, vous fusionnez un objet dans un module et utilisez le résultat dans un plugin runtime.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans cet exemple, vous fusionnez un objet dans un module et utilisez le résultat dans un plugin runtime."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

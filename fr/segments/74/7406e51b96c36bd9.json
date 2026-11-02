@@ -1,0 +1,14 @@
+{
+  "hash": "7406e51b96c36bd9",
+  "source": "The route check cannot see routes added at runtime with {0} or paths that route middleware redirects, and is skipped when a custom {1} file may modify {2}.",
+  "text": "La vérification des routes ne peut pas voir les routes ajoutées à l'exécution avec {0} ni les chemins vers lesquels un middleware de route redirige, et elle est ignorée lorsqu'un fichier {1} personnalisé peut modifier {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La vérification des routes ne peut pas voir les routes ajoutées à l'exécution avec {0} ni les chemins vers lesquels un middleware de route redirige, et elle est ignorée lorsqu'un fichier {1} personnalisé peut modifier {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

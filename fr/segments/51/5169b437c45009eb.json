@@ -1,0 +1,14 @@
+{
+  "hash": "5169b437c45009eb",
+  "source": "Nuxt framework releases.",
+  "text": "Versions du framework Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Versions du framework Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

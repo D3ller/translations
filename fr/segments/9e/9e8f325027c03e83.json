@@ -1,0 +1,14 @@
+{
+  "hash": "9e8f325027c03e83",
+  "source": "Modules Directory",
+  "text": "Répertoire modules",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Répertoire modules"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

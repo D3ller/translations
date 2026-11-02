@@ -1,0 +1,14 @@
+{
+  "hash": "02d593f282c41dba",
+  "source": "These hooks are available for {0}Nuxt modules{/0} and build context.",
+  "text": "Ces hooks sont disponibles pour les {0}modules Nuxt{/0} et le contexte de build.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ces hooks sont disponibles pour les {0}modules Nuxt{/0} et le contexte de build."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

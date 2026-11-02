@@ -1,0 +1,14 @@
+{
+  "hash": "b33d2e22b5a91054",
+  "source": "Nuxt will automatically read any files in the {0} directory and register them as Nitro plugins. This allows extending Nitro's runtime behavior and hooking into lifecycle events.",
+  "text": "Nuxt lit automatiquement tous les fichiers du répertoire {0} et les enregistre comme plugins Nitro. Cela permet d'étendre le comportement d'exécution de Nitro et de se brancher sur les événements du cycle de vie.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt lit automatiquement tous les fichiers du répertoire {0} et les enregistre comme plugins Nitro. Cela permet d'étendre le comportement d'exécution de Nitro et de se brancher sur les événements du cycle de vie."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

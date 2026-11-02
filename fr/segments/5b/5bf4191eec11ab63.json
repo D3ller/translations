@@ -1,0 +1,14 @@
+{
+  "hash": "5bf4191eec11ab63",
+  "source": "For example, in the below example, the value of {0} will be passed to the {1} component and then to the page components.",
+  "text": "Par exemple, dans l'exemple ci-dessous, la valeur de {0} sera transmise au composant {1}, puis aux composants de page.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par exemple, dans l'exemple ci-dessous, la valeur de {0} sera transmise au composant {1}, puis aux composants de page."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

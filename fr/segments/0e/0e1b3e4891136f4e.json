@@ -1,0 +1,14 @@
+{
+  "hash": "0e1b3e4891136f4e",
+  "source": "Returns the lines captured from the server subprocess's stdout/stderr since the last {0} call (or {1}). Only populated when {2} is {3} (the default).",
+  "text": "Retourne les lignes capturées depuis stdout/stderr du sous-processus du serveur depuis le dernier appel à {0} (ou {1}). Renseigné uniquement lorsque {2} vaut {3} (valeur par défaut).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Retourne les lignes capturées depuis stdout/stderr du sous-processus du serveur depuis le dernier appel à {0} (ou {1}). Renseigné uniquement lorsque {2} vaut {3} (valeur par défaut)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

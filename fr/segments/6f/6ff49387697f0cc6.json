@@ -1,0 +1,14 @@
+{
+  "hash": "6ff49387697f0cc6",
+  "source": "**{0}**: Options to pass in {1} {2} call.",
+  "text": "**{0}** : options à transmettre à l'appel {1} {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** : options à transmettre à l'appel {1} {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

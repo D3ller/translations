@@ -1,0 +1,14 @@
+{
+  "hash": "936875ddb3d68334",
+  "source": "Functions whose source is unchanged are not reported as changes, so a config that declares inline functions does not diff against itself on every load.",
+  "text": "Les fonctions dont le code source est inchangé ne sont pas signalées comme des changements, de sorte qu'une configuration qui déclare des fonctions inline ne diffère pas d'elle-même à chaque chargement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les fonctions dont le code source est inchangé ne sont pas signalées comme des changements, de sorte qu'une configuration qui déclare des fonctions inline ne diffère pas d'elle-même à chaque chargement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

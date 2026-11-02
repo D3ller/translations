@@ -1,0 +1,14 @@
+{
+  "hash": "92c9d2c103a2f080",
+  "source": "This will create a {0} project with all the boilerplate necessary to develop and publish your module.",
+  "text": "Cela créera un projet {0} avec tout le code de base nécessaire pour développer et publier votre module.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela créera un projet {0} avec tout le code de base nécessaire pour développer et publier votre module."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

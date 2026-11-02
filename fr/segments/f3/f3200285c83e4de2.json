@@ -1,0 +1,14 @@
+{
+  "hash": "f3200285c83e4de2",
+  "source": "a font named only at runtime, such as a family a user chooses and you apply through a CSS variable",
+  "text": "une police nommée uniquement à l'exécution, comme une famille choisie par un utilisateur et que vous appliquez via une variable CSS",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "une police nommée uniquement à l'exécution, comme une famille choisie par un utilisateur et que vous appliquez via une variable CSS"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

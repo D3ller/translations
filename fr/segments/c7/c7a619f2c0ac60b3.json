@@ -1,0 +1,14 @@
+{
+  "hash": "c7a619f2c0ac60b3",
+  "source": "add it to your {0}package.json{/0} file",
+  "text": "l'ajouter à votre fichier {0}package.json{/0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "l'ajouter à votre fichier {0}package.json{/0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

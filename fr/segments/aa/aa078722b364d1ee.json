@@ -1,0 +1,14 @@
+{
+  "hash": "aa078722b364d1ee",
+  "source": "Vue App Code in Nitro",
+  "text": "Code de l'application Vue dans Nitro",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Code de l'application Vue dans Nitro"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

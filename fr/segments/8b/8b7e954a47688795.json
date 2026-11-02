@@ -1,0 +1,14 @@
+{
+  "hash": "8b7e954a47688795",
+  "source": "augment the call-site options for the custom useAsyncData instance 👇",
+  "text": "enrichit les options du site d'appel pour l'instance personnalisée de useAsyncData 👇",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "enrichit les options du site d'appel pour l'instance personnalisée de useAsyncData 👇"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

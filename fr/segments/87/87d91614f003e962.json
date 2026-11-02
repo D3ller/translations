@@ -1,0 +1,14 @@
+{
+  "hash": "87d91614f003e962",
+  "source": "**Private or personal modules** are modules made for your own use case or company. They don't need to follow any naming rules to work with Nuxt and are often seen scoped under an npm organization (e.g. {0})",
+  "text": "Les **modules privés ou personnels** sont des modules créés pour votre propre cas d'usage ou celui de votre entreprise. Ils n'ont pas besoin de suivre de règle de nommage pour fonctionner avec Nuxt et sont souvent placés sous le scope d'une organisation npm (par ex. {0})",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les **modules privés ou personnels** sont des modules créés pour votre propre cas d'usage ou celui de votre entreprise. Ils n'ont pas besoin de suivre de règle de nommage pour fonctionner avec Nuxt et sont souvent placés sous le scope d'une organisation npm (par ex. {0})"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

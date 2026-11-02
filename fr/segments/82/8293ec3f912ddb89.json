@@ -1,0 +1,14 @@
+{
+  "hash": "8293ec3f912ddb89",
+  "source": "Hydrates when the specified media query condition is met.",
+  "text": "Hydrate lorsque la condition de media query spécifiée est remplie.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Hydrate lorsque la condition de media query spécifiée est remplie."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

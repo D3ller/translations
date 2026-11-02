@@ -1,0 +1,14 @@
+{
+  "hash": "adcc5ff721e46be6",
+  "source": "**{0}**: Directory to detect the package manager from.",
+  "text": "**{0}** : répertoire à partir duquel détecter le gestionnaire de packages.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** : répertoire à partir duquel détecter le gestionnaire de packages."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

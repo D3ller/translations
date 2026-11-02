@@ -1,0 +1,14 @@
+{
+  "hash": "70964e5d678cac4c",
+  "source": "This ordering matches Nuxt's layer resolution system, where user-defined configurations and files take precedence over those from base layers.",
+  "text": "Cet ordre correspond au système de résolution des layers de Nuxt, dans lequel les configurations et les fichiers définis par l'utilisateur sont prioritaires sur ceux des layers de base.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cet ordre correspond au système de résolution des layers de Nuxt, dans lequel les configurations et les fichiers définis par l'utilisateur sont prioritaires sur ceux des layers de base."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "49e01358a65dbd78",
+  "source": "the global Vue application: {0}",
+  "text": "l'application Vue globale : {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "l'application Vue globale : {0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

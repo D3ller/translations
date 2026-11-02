@@ -1,0 +1,14 @@
+{
+  "hash": "06886dff73fc4605",
+  "source": "**plugin**: A plugin can be defined in two ways:",
+  "text": "**plugin** : un plugin peut être défini de deux manières :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**plugin** : un plugin peut être défini de deux manières :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

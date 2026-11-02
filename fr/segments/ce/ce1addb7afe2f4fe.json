@@ -1,0 +1,14 @@
+{
+  "hash": "ce1addb7afe2f4fe",
+  "source": "Read more about typed routes.",
+  "text": "En savoir plus sur les routes typées.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En savoir plus sur les routes typées."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

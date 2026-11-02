@@ -1,0 +1,14 @@
+{
+  "hash": "7f455172424fb7d1",
+  "source": "Nuxt now defaults to a new directory structure, with backwards compatibility (so if Nuxt detects you are using the old structure, such as with a top-level {0} directory, this new structure will not apply).",
+  "text": "Nuxt adopte désormais par défaut une nouvelle structure de répertoires, avec rétrocompatibilité (ainsi, si Nuxt détecte que vous utilisez l'ancienne structure, par exemple avec un répertoire {0} à la racine, cette nouvelle structure ne s'appliquera pas).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt adopte désormais par défaut une nouvelle structure de répertoires, avec rétrocompatibilité (ainsi, si Nuxt détecte que vous utilisez l'ancienne structure, par exemple avec un répertoire {0} à la racine, cette nouvelle structure ne s'appliquera pas)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

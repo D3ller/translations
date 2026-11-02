@@ -1,0 +1,14 @@
+{
+  "hash": "dc75339e01b260cb",
+  "source": "Nuxt Kit provides a set of utilities to help you work with templates. These functions allow you to generate extra files during development and build time.",
+  "text": "Nuxt Kit fournit un ensemble d'utilitaires pour vous aider à travailler avec les templates. Ces fonctions vous permettent de générer des fichiers supplémentaires pendant le développement et au moment du build.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt Kit fournit un ensemble d'utilitaires pour vous aider à travailler avec les templates. Ces fonctions vous permettent de générer des fichiers supplémentaires pendant le développement et au moment du build."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

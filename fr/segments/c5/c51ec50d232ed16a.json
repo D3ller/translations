@@ -1,0 +1,14 @@
+{
+  "hash": "c51ec50d232ed16a",
+  "source": "Options to pass to the template.",
+  "text": "Options à transmettre au template.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Options à transmettre au template."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

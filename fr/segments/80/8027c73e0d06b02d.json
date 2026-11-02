@@ -1,0 +1,14 @@
+{
+  "hash": "8027c73e0d06b02d",
+  "source": "Subsetting modifies the font files you ship. Check that the licence of each font allows it.",
+  "text": "La création de sous-ensembles modifie les fichiers de police que vous livrez. Vérifiez que la licence de chaque police l'autorise.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La création de sous-ensembles modifie les fichiers de police que vous livrez. Vérifiez que la licence de chaque police l'autorise."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

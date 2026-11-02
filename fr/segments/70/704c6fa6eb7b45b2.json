@@ -1,0 +1,14 @@
+{
+  "hash": "704c6fa6eb7b45b2",
+  "source": "Make a POST request to the SSE endpoint",
+  "text": "Effectuer une requête POST vers le endpoint SSE",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Effectuer une requête POST vers le endpoint SSE"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

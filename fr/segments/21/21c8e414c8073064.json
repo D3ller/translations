@@ -1,0 +1,14 @@
+{
+  "hash": "21c8e414c8073064",
+  "source": "A dev server records itself in {0} inside your {1}build directory{/1}, so a second {2} for the same project reports the one already running instead of racing it for the port. Pass {3} to stop it and start in its place, or set {4} to run a second server anyway (unsupported).",
+  "text": "Un serveur de développement s'enregistre dans {0} à l'intérieur du {1}répertoire de build{/1}, de sorte qu'un second {2} pour le même projet signale celui déjà en cours d'exécution au lieu de lui disputer le port. Passez {3} pour l'arrêter et démarrer à sa place, ou définissez {4} pour lancer tout de même un second serveur (non pris en charge).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un serveur de développement s'enregistre dans {0} à l'intérieur du {1}répertoire de build{/1}, de sorte qu'un second {2} pour le même projet signale celui déjà en cours d'exécution au lieu de lui disputer le port. Passez {3} pour l'arrêter et démarrer à sa place, ou définissez {4} pour lancer tout de même un second serveur (non pris en charge)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

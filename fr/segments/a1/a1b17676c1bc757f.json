@@ -1,0 +1,14 @@
+{
+  "hash": "a1b17676c1bc757f",
+  "source": "Manual via {0}/{1}",
+  "text": "Manuel via {0}/{1}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Manuel via {0}/{1}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

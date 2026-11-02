@@ -1,0 +1,14 @@
+{
+  "hash": "6de2b3df3492d0bd",
+  "source": "We recommend having a {0} file that has **at least** the following entries present:",
+  "text": "Nous recommandons d'avoir un fichier {0} contenant **au moins** les entrées suivantes :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nous recommandons d'avoir un fichier {0} contenant **au moins** les entrées suivantes :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

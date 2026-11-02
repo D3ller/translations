@@ -1,0 +1,14 @@
+{
+  "hash": "f89e8b785d0e7ed6",
+  "source": "Learn about all the route rules available to customize the rendering mode of your routes.",
+  "text": "Découvrez toutes les règles de route disponibles pour personnaliser le mode de rendu de vos routes.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Découvrez toutes les règles de route disponibles pour personnaliser le mode de rendu de vos routes."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "4018d304d8d24821",
+  "source": "Your project files (highest)",
+  "text": "Les fichiers de votre projet (la plus haute)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les fichiers de votre projet (la plus haute)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

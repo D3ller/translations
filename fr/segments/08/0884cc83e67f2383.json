@@ -1,0 +1,14 @@
+{
+  "hash": "0884cc83e67f2383",
+  "source": "Prerendered routes (at build time)",
+  "text": "Les routes prérendues (au moment du build)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les routes prérendues (au moment du build)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

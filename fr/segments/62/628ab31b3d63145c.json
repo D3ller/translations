@@ -1,0 +1,14 @@
+{
+  "hash": "628ab31b3d63145c",
+  "source": "**{0}**: An object containing the resolved directory paths for a layer.",
+  "text": "**{0}** : un objet contenant les chemins de répertoires résolus d'un layer.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** : un objet contenant les chemins de répertoires résolus d'un layer."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

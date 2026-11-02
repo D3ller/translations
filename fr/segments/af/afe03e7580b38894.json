@@ -1,0 +1,14 @@
+{
+  "hash": "afe03e7580b38894",
+  "source": "Only a specially-named environment variable can override a runtime config property. That is, an uppercase environment variable starting with {0} which uses {1} to separate keys and case changes.",
+  "text": "Seule une variable d'environnement nommée de manière spécifique peut remplacer une propriété de runtime config. C'est-à-dire une variable d'environnement en majuscules commençant par {0}, qui utilise {1} pour séparer les clés et les changements de casse.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Seule une variable d'environnement nommée de manière spécifique peut remplacer une propriété de runtime config. C'est-à-dire une variable d'environnement en majuscules commençant par {0}, qui utilise {1} pour séparer les clés et les changements de casse."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

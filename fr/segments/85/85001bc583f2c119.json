@@ -1,0 +1,14 @@
+{
+  "hash": "85001bc583f2c119",
+  "source": "Publish to npm",
+  "text": "Publier sur npm",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Publier sur npm"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

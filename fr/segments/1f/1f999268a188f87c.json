@@ -1,0 +1,14 @@
+{
+  "hash": "1f999268a188f87c",
+  "source": "{0} / {1} blocks with plain exports",
+  "text": "les blocs {0} / {1} par de simples exports",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "les blocs {0} / {1} par de simples exports"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

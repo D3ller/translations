@@ -1,0 +1,14 @@
+{
+  "hash": "dce22508f7be014e",
+  "source": "Out-of-the-box, it supports **hot module replacement** and **auto-import** like the other parts of your Nuxt application.",
+  "text": "Dès l'installation, il prend en charge le **remplacement à chaud des modules** et l'**import automatique**, comme les autres parties de votre application Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dès l'installation, il prend en charge le **remplacement à chaud des modules** et l'**import automatique**, comme les autres parties de votre application Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

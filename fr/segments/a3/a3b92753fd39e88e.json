@@ -1,0 +1,14 @@
+{
+  "hash": "a3b92753fd39e88e",
+  "source": "Under the hood, {0} wraps {1} from {2}, so you can check out {3}the Vue Test Utils documentation{/3} for more on the options you can pass, and how to use this utility.",
+  "text": "En interne, {0} encapsule {1} de {2}, vous pouvez donc consulter {3}la documentation de Vue Test Utils{/3} pour en savoir plus sur les options que vous pouvez transmettre et sur la façon d'utiliser cet utilitaire.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En interne, {0} encapsule {1} de {2}, vous pouvez donc consulter {3}la documentation de Vue Test Utils{/3} pour en savoir plus sur les options que vous pouvez transmettre et sur la façon d'utiliser cet utilitaire."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

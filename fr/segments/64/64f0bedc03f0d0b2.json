@@ -1,0 +1,14 @@
+{
+  "hash": "64f0bedc03f0d0b2",
+  "source": "we don't await this async function, to avoid blocking rendering",
+  "text": "nous n'utilisons pas await sur cette fonction asynchrone, afin d'éviter de bloquer le rendu",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "nous n'utilisons pas await sur cette fonction asynchrone, afin d'éviter de bloquer le rendu"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "e9006ade07ee97d2",
+  "source": "When prerendering, you can hint that additional paths should be prerendered, even if their URLs do not show up in the HTML of the generated page. Nuxt collects the hints and passes them to your server builder's prerenderer (Nitro by default).",
+  "text": "Lors du prérendu, vous pouvez indiquer que des chemins supplémentaires doivent être prérendus, même si leurs URL n'apparaissent pas dans le HTML de la page générée. Nuxt collecte ces indications et les transmet au prérendeur de votre outil de build serveur (Nitro par défaut).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lors du prérendu, vous pouvez indiquer que des chemins supplémentaires doivent être prérendus, même si leurs URL n'apparaissent pas dans le HTML de la page générée. Nuxt collecte ces indications et les transmet au prérendeur de votre outil de build serveur (Nitro par défaut)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

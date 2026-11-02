@@ -1,0 +1,14 @@
+{
+  "hash": "b65de733ed2f0e45",
+  "source": "Within a rendered {0} it reflects the enclosing layout; outside of one (for example in {1}) it returns the layout that would be resolved for the current route.",
+  "text": "Dans un {0} rendu, elle reflète le layout englobant ; en dehors d'un tel composant (par exemple dans {1}), elle renvoie le layout qui serait résolu pour la route courante.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans un {0} rendu, elle reflète le layout englobant ; en dehors d'un tel composant (par exemple dans {1}), elle renvoie le layout qui serait résolu pour la route courante."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

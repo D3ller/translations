@@ -1,0 +1,14 @@
+{
+  "hash": "314b837878d73946",
+  "source": "{0} - Automatically adds cors headers with {1} - you can customize the output by overriding with {2}",
+  "text": "{0} - Ajoute automatiquement les en-têtes CORS avec {1} - vous pouvez personnaliser le résultat en le remplaçant avec {2}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} - Ajoute automatiquement les en-têtes CORS avec {1} - vous pouvez personnaliser le résultat en le remplaçant avec {2}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

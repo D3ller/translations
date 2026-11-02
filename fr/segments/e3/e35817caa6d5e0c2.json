@@ -1,0 +1,14 @@
+{
+  "hash": "e35817caa6d5e0c2",
+  "source": "If type-checking now errors on a side-effect import of a non-code asset (for example {0}), add an ambient module declaration so TypeScript knows the import is valid:",
+  "text": "Si la vérification des types signale maintenant une erreur sur un import à effet de bord d'une ressource qui n'est pas du code (par exemple {0}), ajoutez une déclaration de module ambiante afin que TypeScript sache que l'import est valide :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si la vérification des types signale maintenant une erreur sur un import à effet de bord d'une ressource qui n'est pas du code (par exemple {0}), ajoutez une déclaration de module ambiante afin que TypeScript sache que l'import est valide :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

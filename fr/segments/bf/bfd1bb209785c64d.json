@@ -1,0 +1,14 @@
+{
+  "hash": "bfd1bb209785c64d",
+  "source": "**Stricter side-effect imports**: the generated {0} enables {1}",
+  "text": "**Imports à effets de bord plus stricts** : le {0} généré active {1}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Imports à effets de bord plus stricts** : le {0} généré active {1}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

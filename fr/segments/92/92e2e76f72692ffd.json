@@ -1,0 +1,14 @@
+{
+  "hash": "92e2e76f72692ffd",
+  "source": "{0} rules are injected with the webpack and rspack builders",
+  "text": "Les règles {0} sont injectées avec les builders webpack et rspack",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les règles {0} sont injectées avec les builders webpack et rspack"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "a1f03ec6b0f5f5e1",
+  "source": "Limit Available Tools",
+  "text": "Limiter les outils disponibles",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Limiter les outils disponibles"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

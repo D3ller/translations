@@ -1,0 +1,14 @@
+{
+  "hash": "f2b207607bb934b4",
+  "source": "A few things to check if the cache doesn't seem to take effect:",
+  "text": "Voici quelques points à vérifier si le cache ne semble pas pris en compte :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Voici quelques points à vérifier si le cache ne semble pas pris en compte :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

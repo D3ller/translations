@@ -1,0 +1,14 @@
+{
+  "hash": "211af7e12d3fcde4",
+  "source": "If you don't have an {0} file in your source directory, Nuxt will use its own default version.",
+  "text": "Si vous n'avez pas de fichier {0} dans votre répertoire source, Nuxt utilisera sa propre version par défaut.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous n'avez pas de fichier {0} dans votre répertoire source, Nuxt utilisera sa propre version par défaut."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

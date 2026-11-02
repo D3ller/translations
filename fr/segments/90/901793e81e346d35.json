@@ -1,0 +1,14 @@
+{
+  "hash": "901793e81e346d35",
+  "source": "Or instead - useFetch is a convenience wrapper around useAsyncData when you're just performing a simple fetch",
+  "text": "Ou bien, useFetch est un wrapper pratique autour de useAsyncData lorsque vous effectuez simplement une requête basique",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ou bien, useFetch est un wrapper pratique autour de useAsyncData lorsque vous effectuez simplement une requête basique"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

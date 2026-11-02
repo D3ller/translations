@@ -1,0 +1,14 @@
+{
+  "hash": "7a1db7210c801b4a",
+  "source": "Then create a plugin file:",
+  "text": "Créez ensuite un fichier de plugin :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Créez ensuite un fichier de plugin :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

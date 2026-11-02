@@ -1,0 +1,14 @@
+{
+  "hash": "18a685e646fc193e",
+  "source": "**{0}**: One or more package names to install.",
+  "text": "**{0}** : un ou plusieurs noms de packages à installer.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** : un ou plusieurs noms de packages à installer."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

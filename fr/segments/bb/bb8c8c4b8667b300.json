@@ -1,0 +1,14 @@
+{
+  "hash": "bb8c8c4b8667b300",
+  "source": "Defines the font-weights that should be downloaded for a font.",
+  "text": "Définit les graisses de police qui doivent être téléchargées pour une police.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définit les graisses de police qui doivent être téléchargées pour une police."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

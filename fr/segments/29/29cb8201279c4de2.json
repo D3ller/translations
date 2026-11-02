@@ -1,0 +1,14 @@
+{
+  "hash": "29cb8201279c4de2",
+  "source": "Keep in mind that all options extended from {0} will be overwritten by the options defined in your {1}. Overwriting options such as {2} with your own configuration will lead TypeScript to not factor in the module resolutions from {3}. This can lead to module resolutions such as {4} not being recognized.{5}{6}In case you need to extend options provided by {7} further, you can use the {8}{9} property{/8} within your {10}. Nuxt will pick them up and extend {11} accordingly.",
+  "text": "Gardez à l'esprit que toutes les options héritées de {0} seront écrasées par les options définies dans votre {1}. Écraser des options telles que {2} avec votre propre configuration empêchera TypeScript de prendre en compte les résolutions de modules de {3}. Cela peut entraîner la non-reconnaissance de résolutions de modules telles que {4}.{5}{6}Si vous avez besoin d'étendre davantage les options fournies par {7}, vous pouvez utiliser la {8}propriété {9}{/8} dans votre {10}. Nuxt les prendra en compte et étendra {11} en conséquence.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Gardez à l'esprit que toutes les options héritées de {0} seront écrasées par les options définies dans votre {1}. Écraser des options telles que {2} avec votre propre configuration empêchera TypeScript de prendre en compte les résolutions de modules de {3}. Cela peut entraîner la non-reconnaissance de résolutions de modules telles que {4}.{5}{6}Si vous avez besoin d'étendre davantage les options fournies par {7}, vous pouvez utiliser la {8}propriété {9}{/8} dans votre {10}. Nuxt les prendra en compte et étendra {11} en conséquence."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

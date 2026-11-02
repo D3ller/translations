@@ -1,0 +1,14 @@
+{
+  "hash": "3b86ed7baafd2579",
+  "source": "or only skip middleware on initial client load",
+  "text": "ou ignorer le middleware uniquement lors du chargement initial côté client",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "ou ignorer le middleware uniquement lors du chargement initial côté client"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

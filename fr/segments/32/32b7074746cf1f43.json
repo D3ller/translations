@@ -1,0 +1,14 @@
+{
+  "hash": "32b7074746cf1f43",
+  "source": "Contrary to a classic global declaration, Nuxt preserves typings, IDEs completions and hints, and **only includes what is used in your production code**.",
+  "text": "Contrairement à une déclaration globale classique, Nuxt préserve les typages, les complétions et les indications des IDE, et **n'inclut que ce qui est utilisé dans votre code de production**.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Contrairement à une déclaration globale classique, Nuxt préserve les typages, les complétions et les indications des IDE, et **n'inclut que ce qui est utilisé dans votre code de production**."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

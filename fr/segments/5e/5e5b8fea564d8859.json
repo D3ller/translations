@@ -1,0 +1,14 @@
+{
+  "hash": "5e5b8fea564d8859",
+  "source": "**2. Use erasable TypeScript syntax.**",
+  "text": "**2. Utilisez une syntaxe TypeScript effaçable.**",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**2. Utilisez une syntaxe TypeScript effaçable.**"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "b95a2b61757d2d5c",
+  "source": "Standing Up the SSR Renderer",
+  "text": "Mettre en place le renderer SSR",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mettre en place le renderer SSR"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

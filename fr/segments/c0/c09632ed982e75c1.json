@@ -1,0 +1,14 @@
+{
+  "hash": "c09632ed982e75c1",
+  "source": "The {0} directory is the directory that contains the public files of the Nuxt application. Files contained within this directory are served at the root and are not modified by the build process.",
+  "text": "Le répertoire {0} est le répertoire qui contient les fichiers publics de l'application Nuxt. Les fichiers de ce répertoire sont servis à la racine et ne sont pas modifiés par le processus de build.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le répertoire {0} est le répertoire qui contient les fichiers publics de l'application Nuxt. Les fichiers de ce répertoire sont servis à la racine et ne sont pas modifiés par le processus de build."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

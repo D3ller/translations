@@ -1,0 +1,14 @@
+{
+  "hash": "549ae23834236ab4",
+  "source": "**Increased time to interactive**: Hydration errors force Vue to re-render the entire component tree, which will increase the time for your Nuxt app to become interactive",
+  "text": "**Temps d'interactivité accru** : les erreurs d'hydratation forcent Vue à refaire le rendu de tout l'arbre de composants, ce qui augmente le temps nécessaire pour que votre application Nuxt devienne interactive",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Temps d'interactivité accru** : les erreurs d'hydratation forcent Vue à refaire le rendu de tout l'arbre de composants, ce qui augmente le temps nécessaire pour que votre application Nuxt devienne interactive"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "6de9509e7ba3440f",
+  "source": "We can use {0} to access and proxy the initial request's {1} header to any future internal requests during SSR.",
+  "text": "Vous pouvez utiliser {0} pour accéder à l'en-tête {1} de la requête initiale et le transmettre à toutes les futures requêtes internes pendant le SSR.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez utiliser {0} pour accéder à l'en-tête {1} de la requête initiale et le transmettre à toutes les futures requêtes internes pendant le SSR."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

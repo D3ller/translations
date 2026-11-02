@@ -1,0 +1,14 @@
+{
+  "hash": "60a93456640d857f",
+  "source": "Writing Style",
+  "text": "Style d'écriture",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Style d'écriture"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

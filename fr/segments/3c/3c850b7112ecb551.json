@@ -1,0 +1,14 @@
+{
+  "hash": "3c850b7112ecb551",
+  "source": "can be overridden by NUXT_API_SECRET environment variable",
+  "text": "peut être remplacé par la variable d'environnement NUXT_API_SECRET",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "peut être remplacé par la variable d'environnement NUXT_API_SECRET"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "9841f81f3c60c256",
+  "source": "{0} to use Nuxt's built-in loading screen when no file is found,",
+  "text": "{0} pour utiliser l'écran de chargement intégré de Nuxt lorsqu'aucun fichier n'est trouvé ;",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} pour utiliser l'écran de chargement intégré de Nuxt lorsqu'aucun fichier n'est trouvé ;"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

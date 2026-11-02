@@ -1,0 +1,14 @@
+{
+  "hash": "400ee5629a6bfb1b",
+  "source": "An example of such a workflow is available on {0}the module starter{/0}.",
+  "text": "Un exemple de ce workflow est disponible dans {0}le module starter{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un exemple de ce workflow est disponible dans {0}le module starter{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

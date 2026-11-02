@@ -1,0 +1,14 @@
+{
+  "hash": "f5a5df20a2abc21e",
+  "source": "Shortcut for {0}. Triggers a lifecycle hook manually and runs all registered callbacks.",
+  "text": "Raccourci pour {0}. Déclenche manuellement un hook du cycle de vie et exécute tous les callbacks enregistrés.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Raccourci pour {0}. Déclenche manuellement un hook du cycle de vie et exécute tous les callbacks enregistrés."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

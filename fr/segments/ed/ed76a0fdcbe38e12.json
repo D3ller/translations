@@ -1,0 +1,14 @@
+{
+  "hash": "ed76a0fdcbe38e12",
+  "source": "Most of the Nuxt ecosystem can consume ESM directly. In general we advocate that you avoid using CJS-specific code, such as {0} and {1} statements. You can {2}read more about ESM{/2}.",
+  "text": "La plupart de l'écosystème Nuxt peut consommer directement l'ESM. En général, nous vous conseillons d'éviter le code spécifique à CJS, comme les instructions {0} et {1}. Vous pouvez {2}en savoir plus sur l'ESM{/2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La plupart de l'écosystème Nuxt peut consommer directement l'ESM. En général, nous vous conseillons d'éviter le code spécifique à CJS, comme les instructions {0} et {1}. Vous pouvez {2}en savoir plus sur l'ESM{/2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

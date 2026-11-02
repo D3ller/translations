@@ -1,0 +1,14 @@
+{
+  "hash": "cab07d633606d6f9",
+  "source": "Defaults can be overwritten, see {0}overwriting defaults{/0} if you want to change them.",
+  "text": "Les valeurs par défaut peuvent être remplacées, consultez {0}le remplacement des valeurs par défaut{/0} si vous souhaitez les modifier.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les valeurs par défaut peuvent être remplacées, consultez {0}le remplacement des valeurs par défaut{/0} si vous souhaitez les modifier."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

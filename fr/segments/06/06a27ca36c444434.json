@@ -1,0 +1,14 @@
+{
+  "hash": "06a27ca36c444434",
+  "source": "When a {0} to a {1}server-only page{/1} is prefetched, its island response is prefetched too, so the round trip happens before the user navigates rather than during the navigation. The prefetched response is cached against the island's name, props and context, which is the same key the island uses when it mounts. A failed prefetch is not fatal: the island is fetched again on mount.",
+  "text": "Lorsqu'un {0} vers une {1}page serveur uniquement{/1} est préchargé, sa réponse d'island l'est aussi, de sorte que l'aller-retour a lieu avant que l'utilisateur ne navigue plutôt que pendant la navigation. La réponse préchargée est mise en cache selon le nom, les props et le contexte de l'island, qui constituent la même clé que celle utilisée par l'island lors de son montage. Un échec de préchargement n'est pas fatal : l'island est de nouveau récupérée au montage.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsqu'un {0} vers une {1}page serveur uniquement{/1} est préchargé, sa réponse d'island l'est aussi, de sorte que l'aller-retour a lieu avant que l'utilisateur ne navigue plutôt que pendant la navigation. La réponse préchargée est mise en cache selon le nom, les props et le contexte de l'island, qui constituent la même clé que celle utilisée par l'island lors de son montage. Un échec de préchargement n'est pas fatal : l'island est de nouveau récupérée au montage."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

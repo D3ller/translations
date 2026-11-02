@@ -1,0 +1,14 @@
+{
+  "hash": "ed8c2228acdae59f",
+  "source": "Here are some advanced patterns for authoring modules, including hooks, templates, and type augmentation.",
+  "text": "Voici quelques schémas avancés pour la création de modules, notamment les hooks, les templates et l'augmentation de types.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Voici quelques schémas avancés pour la création de modules, notamment les hooks, les templates et l'augmentation de types."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

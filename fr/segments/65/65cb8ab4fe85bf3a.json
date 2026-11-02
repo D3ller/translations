@@ -1,0 +1,14 @@
+{
+  "hash": "65cb8ab4fe85bf3a",
+  "source": "There is a range of different ways you might be able to contribute to the Nuxt ecosystem.",
+  "text": "Il existe de nombreuses façons de contribuer à l'écosystème Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Il existe de nombreuses façons de contribuer à l'écosystème Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

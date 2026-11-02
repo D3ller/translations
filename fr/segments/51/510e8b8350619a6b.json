@@ -1,0 +1,14 @@
+{
+  "hash": "510e8b8350619a6b",
+  "source": "{0} is a composable meant to be called directly in the {1}Nuxt context{/1}. It returns reactive composables and handles adding responses to the Nuxt payload so they can be passed from server to client **without re-fetching the data on client side** when the page hydrates.",
+  "text": "{0} est un composable conçu pour être appelé directement dans le {1}contexte Nuxt{/1}. Il renvoie des composables réactifs et se charge d'ajouter les réponses au payload (charge utile) de Nuxt afin qu'elles puissent être transmises du serveur au client **sans récupérer à nouveau les données côté client** lors de l'hydratation de la page.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est un composable conçu pour être appelé directement dans le {1}contexte Nuxt{/1}. Il renvoie des composables réactifs et se charge d'ajouter les réponses au payload (charge utile) de Nuxt afin qu'elles puissent être transmises du serveur au client **sans récupérer à nouveau les données côté client** lors de l'hydratation de la page."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "6d55876e42f54570",
+  "source": "Emits {0} hook when there is an error loading vite/webpack chunks. Default behavior is to perform a reload of the new route on navigation to a new route when a chunk fails to load.",
+  "text": "Émet le hook {0} lorsqu'une erreur survient au chargement des chunks vite/webpack. Par défaut, lorsqu'un chunk ne parvient pas à se charger, la nouvelle route est rechargée lors de la navigation vers celle-ci.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Émet le hook {0} lorsqu'une erreur survient au chargement des chunks vite/webpack. Par défaut, lorsqu'un chunk ne parvient pas à se charger, la nouvelle route est rechargée lors de la navigation vers celle-ci."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

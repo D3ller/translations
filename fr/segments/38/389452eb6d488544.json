@@ -1,0 +1,14 @@
+{
+  "hash": "389452eb6d488544",
+  "source": "props may be visible in server access logs, CDN caches and {0} headers",
+  "text": "les props peuvent être visibles dans les journaux d'accès du serveur, les caches CDN et les en-têtes {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "les props peuvent être visibles dans les journaux d'accès du serveur, les caches CDN et les en-têtes {0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

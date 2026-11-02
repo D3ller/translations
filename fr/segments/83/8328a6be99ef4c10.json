@@ -1,0 +1,14 @@
+{
+  "hash": "8328a6be99ef4c10",
+  "source": "Blog post page generated on demand once until next deployment, cached on CDN",
+  "text": "Page d'article de blog générée une seule fois à la demande jusqu'au prochain déploiement, mise en cache sur le CDN",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Page d'article de blog générée une seule fois à la demande jusqu'au prochain déploiement, mise en cache sur le CDN"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

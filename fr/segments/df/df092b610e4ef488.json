@@ -1,0 +1,14 @@
+{
+  "hash": "df092b610e4ef488",
+  "source": "Results are ranked by page title, then by section heading, then by description, and the matches are printed before the best one is opened. When several pages match and the terminal is interactive, you are asked which one to open.",
+  "text": "Les résultats sont classés par titre de page, puis par titre de section, puis par description, et les correspondances sont affichées avant que la meilleure ne soit ouverte. Lorsque plusieurs pages correspondent et que le terminal est interactif, on vous demande laquelle ouvrir.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les résultats sont classés par titre de page, puis par titre de section, puis par description, et les correspondances sont affichées avant que la meilleure ne soit ouverte. Lorsque plusieurs pages correspondent et que le terminal est interactif, on vous demande laquelle ouvrir."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

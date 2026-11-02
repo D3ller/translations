@@ -1,0 +1,14 @@
+{
+  "hash": "b82dafdde26e3c3e",
+  "source": "Your plugins will run again when rendering the island, unless they have {0} set (which you can do in an object-syntax plugin).",
+  "text": "Vos plugins s'exécuteront de nouveau lors du rendu de l'île, sauf s'ils ont {0} défini (ce que vous pouvez faire dans un plugin utilisant la syntaxe objet).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vos plugins s'exécuteront de nouveau lors du rendu de l'île, sauf s'ils ont {0} défini (ce que vous pouvez faire dans un plugin utilisant la syntaxe objet)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

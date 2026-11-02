@@ -1,0 +1,14 @@
+{
+  "hash": "b83955d68980ec85",
+  "source": "If you've built something with Nuxt that's cool, why not {0}extract it into a module{/0}, so it can be shared with others? We have {1}many excellent modules already{/1}, but there's always room for more.",
+  "text": "Si vous avez créé quelque chose de sympa avec Nuxt, pourquoi ne pas {0}l'extraire dans un module{/0} afin qu'il puisse être partagé avec d'autres ? Nous avons déjà {1}de nombreux excellents modules{/1}, mais il y a toujours de la place pour d'autres.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous avez créé quelque chose de sympa avec Nuxt, pourquoi ne pas {0}l'extraire dans un module{/0} afin qu'il puisse être partagé avec d'autres ? Nous avons déjà {1}de nombreux excellents modules{/1}, mais il y a toujours de la place pour d'autres."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

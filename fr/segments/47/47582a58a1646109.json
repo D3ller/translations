@@ -1,0 +1,14 @@
+{
+  "hash": "47582a58a1646109",
+  "source": "The number of milliseconds in which to ignore future reload requests. If called again within this time period, {0} will not reload your app to avoid reload loops.",
+  "text": "Le nombre de millisecondes pendant lesquelles ignorer les futures demandes de rechargement. Si la fonction est appelée à nouveau durant cette période, {0} ne rechargera pas votre application afin d'éviter les boucles de rechargement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le nombre de millisecondes pendant lesquelles ignorer les futures demandes de rechargement. Si la fonction est appelée à nouveau durant cette période, {0} ne rechargera pas votre application afin d'éviter les boucles de rechargement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

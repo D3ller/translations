@@ -1,0 +1,14 @@
+{
+  "hash": "9757d1e8a54ec77e",
+  "source": "\"How do I deploy to Vercel?\"",
+  "text": "« Comment déployer sur Vercel ? »",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "« Comment déployer sur Vercel ? »"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

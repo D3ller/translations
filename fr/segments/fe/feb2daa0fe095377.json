@@ -1,0 +1,14 @@
+{
+  "hash": "feb2daa0fe095377",
+  "source": "**route**: A route pattern to match against.{0}**rule**: A route rule configuration to apply to the matched route.",
+  "text": "**route** : un motif de route à faire correspondre.{0}**rule** : une configuration de règle de route à appliquer à la route correspondante.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**route** : un motif de route à faire correspondre.{0}**rule** : une configuration de règle de route à appliquer à la route correspondante."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

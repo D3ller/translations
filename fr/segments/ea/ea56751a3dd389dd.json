@@ -1,0 +1,14 @@
+{
+  "hash": "ea56751a3dd389dd",
+  "source": "If you would like to use both the end-to-end and unit testing functionality of {0}, split your tests into separate files and make sure each file matches only one project: Nuxt-environment tests should be matched by a {1} project, and end-to-end tests by a regular {2} project. See {3}Organizing Your Tests{/3} for folder- and suffix-based layouts.",
+  "text": "Si vous souhaitez utiliser à la fois les fonctionnalités de test de bout en bout et de test unitaire de {0}, séparez vos tests dans des fichiers distincts et assurez-vous que chaque fichier correspond à un seul projet : les tests de l'environnement Nuxt doivent correspondre à un projet {1}, et les tests de bout en bout à un projet {2} classique. Consultez {3}Organiser vos tests{/3} pour des organisations basées sur les dossiers et les suffixes.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous souhaitez utiliser à la fois les fonctionnalités de test de bout en bout et de test unitaire de {0}, séparez vos tests dans des fichiers distincts et assurez-vous que chaque fichier correspond à un seul projet : les tests de l'environnement Nuxt doivent correspondre à un projet {1}, et les tests de bout en bout à un projet {2} classique. Consultez {3}Organiser vos tests{/3} pour des organisations basées sur les dossiers et les suffixes."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

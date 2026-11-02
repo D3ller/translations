@@ -1,0 +1,14 @@
+{
+  "hash": "7022db72ec404ac8",
+  "source": "Pass a function directly as the first argument without a name. It will automatically be treated as global middleware and applied on every route change.",
+  "text": "Passez directement une fonction en premier argument, sans nom. Elle sera automatiquement traitée comme un middleware global et appliquée à chaque changement de route.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Passez directement une fonction en premier argument, sans nom. Elle sera automatiquement traitée comme un middleware global et appliquée à chaque changement de route."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

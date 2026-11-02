@@ -1,0 +1,14 @@
+{
+  "hash": "c41b3dc9e2402343",
+  "source": "{0} surfaces accessibility problems in your components while you develop, alongside the practices below. It is in alpha, so expect its API to change.",
+  "text": "{0} met en évidence les problèmes d'accessibilité dans vos composants pendant le développement, en complément des pratiques ci-dessous. Il est en alpha, attendez-vous donc à ce que son API change.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} met en évidence les problèmes d'accessibilité dans vos composants pendant le développement, en complément des pratiques ci-dessous. Il est en alpha, attendez-vous donc à ce que son API change."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "addeacaf07fdc6dc",
+  "source": "Enable or disable optional Nuxt features to unlock new possibilities.",
+  "text": "Activez ou désactivez les fonctionnalités optionnelles de Nuxt pour débloquer de nouvelles possibilités.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Activez ou désactivez les fonctionnalités optionnelles de Nuxt pour débloquer de nouvelles possibilités."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

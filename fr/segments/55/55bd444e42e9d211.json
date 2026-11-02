@@ -1,0 +1,14 @@
+{
+  "hash": "55bd444e42e9d211",
+  "source": "**After your server is built**, you are responsible for setting environment variables when you run the server.",
+  "text": "**Une fois votre serveur construit**, vous êtes responsable de la définition des variables d'environnement lorsque vous exécutez le serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Une fois votre serveur construit**, vous êtes responsable de la définition des variables d'environnement lorsque vous exécutez le serveur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

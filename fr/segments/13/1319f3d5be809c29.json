@@ -1,0 +1,14 @@
+{
+  "hash": "1319f3d5be809c29",
+  "source": "when {0} has not yet been called and {1} is set",
+  "text": "lorsque {0} n'a pas encore été appelé et que {1} est défini",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "lorsque {0} n'a pas encore été appelé et que {1} est défini"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "eb3f1fe56719b4a1",
+  "source": "Client IP",
+  "text": "IP du client",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "IP du client"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

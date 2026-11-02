@@ -1,0 +1,14 @@
+{
+  "hash": "4979c023d01a428f",
+  "source": "Adding Custom Hooks",
+  "text": "Ajouter des hooks personnalisés",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ajouter des hooks personnalisés"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

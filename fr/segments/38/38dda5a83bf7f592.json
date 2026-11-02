@@ -1,0 +1,14 @@
+{
+  "hash": "38dda5a83bf7f592",
+  "source": "Type of {0} is inferred as",
+  "text": "Le type de {0} est inféré comme",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le type de {0} est inféré comme"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

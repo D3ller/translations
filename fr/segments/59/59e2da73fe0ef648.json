@@ -1,0 +1,14 @@
+{
+  "hash": "59e2da73fe0ef648",
+  "source": "Watch a video from Alexander Lichter about Nuxt Layers",
+  "text": "Regardez une vidéo d'Alexander Lichter sur les Nuxt Layers",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Regardez une vidéo d'Alexander Lichter sur les Nuxt Layers"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

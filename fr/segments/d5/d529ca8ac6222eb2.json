@@ -1,0 +1,14 @@
+{
+  "hash": "d529ca8ac6222eb2",
+  "source": "Modules participate in the streaming response via the existing {0} hook (now with a {1} flag on the second argument) plus a per-request decision hook and two streaming-only hooks:",
+  "text": "Les modules participent à la réponse en streaming via le hook existant {0} (désormais avec un indicateur {1} sur le deuxième argument), ainsi qu'un hook de décision par requête et deux hooks propres au streaming :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les modules participent à la réponse en streaming via le hook existant {0} (désormais avec un indicateur {1} sur le deuxième argument), ainsi qu'un hook de décision par requête et deux hooks propres au streaming :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

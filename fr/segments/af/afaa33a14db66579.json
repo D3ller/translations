@@ -1,0 +1,14 @@
+{
+  "hash": "afaa33a14db66579",
+  "source": "If you are currently converting your codebase to TypeScript, you may want to temporarily disable strict checks by setting {0} to {1} in your {2}:",
+  "text": "Si vous êtes en train de convertir votre base de code vers TypeScript, vous pouvez désactiver temporairement les vérifications strictes en définissant {0} à {1} dans votre {2} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous êtes en train de convertir votre base de code vers TypeScript, vous pouvez désactiver temporairement les vérifications strictes en définissant {0} à {1} dans votre {2} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

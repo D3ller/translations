@@ -1,0 +1,14 @@
+{
+  "hash": "65d35587bd54af59",
+  "source": "Custom Reducer/Reviver {0}",
+  "text": "Reducer/reviver personnalisé {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Reducer/reviver personnalisé {0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

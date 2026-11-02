@@ -1,0 +1,14 @@
+{
+  "hash": "cdc72f162ac1458d",
+  "source": "Vue Errors",
+  "text": "Erreurs Vue",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erreurs Vue"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

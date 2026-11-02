@@ -1,0 +1,14 @@
+{
+  "hash": "d7daca106e121f6a",
+  "source": "✅ use Nuxt's {0} composable",
+  "text": "✅ utilisez le composable {0} de Nuxt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "✅ utilisez le composable {0} de Nuxt"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

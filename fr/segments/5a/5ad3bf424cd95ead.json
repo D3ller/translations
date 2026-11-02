@@ -1,0 +1,14 @@
+{
+  "hash": "5ad3bf424cd95ead",
+  "source": "useError composable returns the global Nuxt error that is being handled.",
+  "text": "Le composable useError renvoie l'erreur Nuxt globale en cours de traitement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le composable useError renvoie l'erreur Nuxt globale en cours de traitement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "e7c5ea3d36d77efc",
+  "source": "Basic Meta Tags",
+  "text": "Balises meta de base",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Balises meta de base"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

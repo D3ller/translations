@@ -1,0 +1,14 @@
+{
+  "hash": "1b2cc92d96919ac4",
+  "source": "In addition, Nuxt ships with TypeScript support.",
+  "text": "De plus, Nuxt est fourni avec la prise en charge de TypeScript.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "De plus, Nuxt est fourni avec la prise en charge de TypeScript."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

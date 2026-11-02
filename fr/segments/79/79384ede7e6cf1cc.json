@@ -1,0 +1,14 @@
+{
+  "hash": "79384ede7e6cf1cc",
+  "source": "Serverless support out-of-the-box.",
+  "text": "Prise en charge du serverless dès l'installation.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Prise en charge du serverless dès l'installation."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

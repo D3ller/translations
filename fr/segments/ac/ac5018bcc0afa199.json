@@ -1,0 +1,14 @@
+{
+  "hash": "ac5018bcc0afa199",
+  "source": "{0}: A single string or an array of strings as {1} that are used to fetch the data. This parameter is **optional**. All {2} and {3} keys are re-fetched when no {4} are explicitly specified.",
+  "text": "{0} : une chaîne de caractères ou un tableau de chaînes de caractères utilisées comme {1} pour récupérer les données. Ce paramètre est **facultatif**. Toutes les clés de {2} et {3} sont récupérées à nouveau lorsqu'aucune {4} n'est explicitement indiquée.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : une chaîne de caractères ou un tableau de chaînes de caractères utilisées comme {1} pour récupérer les données. Ce paramètre est **facultatif**. Toutes les clés de {2} et {3} sont récupérées à nouveau lorsqu'aucune {4} n'est explicitement indiquée."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

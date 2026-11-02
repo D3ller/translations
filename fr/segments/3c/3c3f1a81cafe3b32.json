@@ -1,0 +1,14 @@
+{
+  "hash": "3c3f1a81cafe3b32",
+  "source": "Specifies the content area's width (minimum 100 pixels), including scrollbars.",
+  "text": "Définit la largeur de la zone de contenu (minimum 100 pixels), barres de défilement comprises.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définit la largeur de la zone de contenu (minimum 100 pixels), barres de défilement comprises."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

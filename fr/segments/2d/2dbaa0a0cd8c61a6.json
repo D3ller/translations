@@ -1,0 +1,14 @@
+{
+  "hash": "2dbaa0a0cd8c61a6",
+  "source": "**Prioritize In-Viewport Content:** Avoid delayed hydration for critical, above-the-fold content. It's best suited for content that isn't immediately needed.",
+  "text": "**Donnez la priorité au contenu visible dans la fenêtre :** évitez l'hydratation différée pour le contenu critique situé au-dessus de la ligne de flottaison. Elle convient mieux au contenu qui n'est pas immédiatement nécessaire.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Donnez la priorité au contenu visible dans la fenêtre :** évitez l'hydratation différée pour le contenu critique situé au-dessus de la ligne de flottaison. Elle convient mieux au contenu qui n'est pas immédiatement nécessaire."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

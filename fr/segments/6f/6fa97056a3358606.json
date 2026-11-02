@@ -1,0 +1,14 @@
+{
+  "hash": "6fa97056a3358606",
+  "source": "Show versions, URLs, QR code and session info",
+  "text": "Afficher les versions, les URL, le QR code et les informations de session",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Afficher les versions, les URL, le QR code et les informations de session"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "290436d5c6992b13",
+  "source": "Prefetch Links",
+  "text": "Liens avec prefetch",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Liens avec prefetch"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "c6d9a4a384894870",
+  "source": "And finally, just ask the question! There's no need to {0}ask permission to ask a question{/0} or {1}wait for someone to reply to your 'hello'{/1}. If you do, you might not get a response because people are waiting for the whole question before engaging.",
+  "text": "Et enfin, posez simplement votre question ! Il n'est pas nécessaire de {0}demander la permission de poser une question{/0} ni d'{1}attendre que quelqu'un réponde à votre « bonjour »{/1}. Si vous le faites, vous risquez de ne pas obtenir de réponse, car les gens attendent la question complète avant de s'engager.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Et enfin, posez simplement votre question ! Il n'est pas nécessaire de {0}demander la permission de poser une question{/0} ni d'{1}attendre que quelqu'un réponde à votre « bonjour »{/1}. Si vous le faites, vous risquez de ne pas obtenir de réponse, car les gens attendent la question complète avant de s'engager."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "7540ca1a766e74d4",
+  "source": "If set to {0}, Nuxt will be loaded in development mode.",
+  "text": "Si la valeur est {0}, Nuxt sera chargé en mode développement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si la valeur est {0}, Nuxt sera chargé en mode développement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

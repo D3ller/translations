@@ -1,0 +1,14 @@
+{
+  "hash": "5bc1d5d0c46590b8",
+  "source": "What Nuxt Gives You",
+  "text": "Ce que Nuxt vous fournit",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ce que Nuxt vous fournit"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

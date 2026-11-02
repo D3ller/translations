@@ -1,0 +1,14 @@
+{
+  "hash": "716b7f486ad8b4f7",
+  "source": "Mount Vue app and hydrate",
+  "text": "Montage de l'application Vue et hydratation",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Montage de l'application Vue et hydratation"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

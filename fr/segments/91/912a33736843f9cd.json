@@ -1,0 +1,14 @@
+{
+  "hash": "912a33736843f9cd",
+  "source": "Move all your {0} into {1}.",
+  "text": "Déplacez tous vos {0} dans {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Déplacez tous vos {0} dans {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

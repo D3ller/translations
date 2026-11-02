@@ -1,0 +1,14 @@
+{
+  "hash": "c1e05ec97b8dc259",
+  "source": "The {0} function should be **side-effect free** to ensure predictable behavior during SSR and CSR hydration. If you need to trigger side effects, use the {1} utility to do so.",
+  "text": "La fonction {0} doit être **sans effet de bord** afin de garantir un comportement prévisible pendant le SSR et l'hydratation CSR. Si vous devez déclencher des effets de bord, utilisez l'utilitaire {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La fonction {0} doit être **sans effet de bord** afin de garantir un comportement prévisible pendant le SSR et l'hydratation CSR. Si vous devez déclencher des effets de bord, utilisez l'utilitaire {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

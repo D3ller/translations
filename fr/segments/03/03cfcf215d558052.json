@@ -1,0 +1,14 @@
+{
+  "hash": "03cfcf215d558052",
+  "source": "Completions work through your package manager too ({0}), if you install {1}tab's package manager completions{/1}.",
+  "text": "Les complétions fonctionnent aussi via votre gestionnaire de packages ({0}), si vous installez {1}les complétions de gestionnaire de packages de tab{/1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les complétions fonctionnent aussi via votre gestionnaire de packages ({0}), si vous installez {1}les complétions de gestionnaire de packages de tab{/1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

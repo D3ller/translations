@@ -1,0 +1,14 @@
+{
+  "hash": "398be27842e21262",
+  "source": "{0} only registers plugins for the app's environments, so add a plugin for the server build to {1} directly, scoped with {2}:",
+  "text": "{0} n'enregistre les plugins que pour les environnements de l'application. Ajoutez donc directement à {1} un plugin pour le build serveur, limité avec {2} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} n'enregistre les plugins que pour les environnements de l'application. Ajoutez donc directement à {1} un plugin pour le build serveur, limité avec {2} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

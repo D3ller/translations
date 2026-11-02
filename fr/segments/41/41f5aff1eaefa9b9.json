@@ -1,0 +1,14 @@
+{
+  "hash": "41f5aff1eaefa9b9",
+  "source": "In Nuxt 2 {0} layout can also be registered using this utility. In Nuxt 3+ {1} layout {2}replaced{/2} with {3} page in project root.",
+  "text": "Dans Nuxt 2, le layout {0} peut également être enregistré à l'aide de cet utilitaire. Dans Nuxt 3+, le layout {1} est {2}remplacé{/2} par la page {3} à la racine du projet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans Nuxt 2, le layout {0} peut également être enregistré à l'aide de cet utilitaire. Dans Nuxt 3+, le layout {1} est {2}remplacé{/2} par la page {3} à la racine du projet."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

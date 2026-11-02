@@ -1,0 +1,14 @@
+{
+  "hash": "1ba1825133fd9680",
+  "source": "Routes with the {0} route rule are always rendered with the buffered (non-streaming) renderer.",
+  "text": "Les routes ayant la règle de route {0} sont toujours rendues avec le moteur de rendu avec mise en mémoire tampon (sans streaming).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les routes ayant la règle de route {0} sont toujours rendues avec le moteur de rendu avec mise en mémoire tampon (sans streaming)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

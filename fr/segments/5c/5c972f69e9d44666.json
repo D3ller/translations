@@ -1,0 +1,14 @@
+{
+  "hash": "5c972f69e9d44666",
+  "source": "List of Nuxt CLI commands to init, analyze, build, and preview your application.",
+  "text": "Liste des commandes du CLI Nuxt pour initialiser, analyser, compiler et prévisualiser votre application.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Liste des commandes du CLI Nuxt pour initialiser, analyser, compiler et prévisualiser votre application."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

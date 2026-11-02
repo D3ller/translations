@@ -1,0 +1,14 @@
+{
+  "hash": "965cda4e350a6cb3",
+  "source": "Prevents the new window from accessing the originating window via {0}.",
+  "text": "Empêche la nouvelle fenêtre d'accéder à la fenêtre d'origine via {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Empêche la nouvelle fenêtre d'accéder à la fenêtre d'origine via {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

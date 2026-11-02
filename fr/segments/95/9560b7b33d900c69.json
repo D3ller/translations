@@ -1,0 +1,14 @@
+{
+  "hash": "9560b7b33d900c69",
+  "source": "Now that {0} has the logic we want, let's create a {1} composable to replace the usage of {2} + {3}:",
+  "text": "Maintenant que {0} contient la logique souhaitée, créons un composable {1} pour remplacer l'utilisation de {2} + {3} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Maintenant que {0} contient la logique souhaitée, créons un composable {1} pour remplacer l'utilisation de {2} + {3} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

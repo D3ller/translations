@@ -1,0 +1,14 @@
+{
+  "hash": "b1f42223f0b9e070",
+  "source": "This hook is now deprecated, and we recommend using a Vite plugin instead with a {0} hook, or — for environment-specific configuration — the {1} hook.",
+  "text": "Ce hook est désormais obsolète, et nous recommandons d'utiliser à la place un plugin Vite avec un hook {0} ou, pour une configuration spécifique à un environnement, le hook {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ce hook est désormais obsolète, et nous recommandons d'utiliser à la place un plugin Vite avec un hook {0} ou, pour une configuration spécifique à un environnement, le hook {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

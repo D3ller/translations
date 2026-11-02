@@ -1,0 +1,14 @@
+{
+  "hash": "8baf75d895b71d5a",
+  "source": "Pages and Layouts",
+  "text": "Pages et layouts",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pages et layouts"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

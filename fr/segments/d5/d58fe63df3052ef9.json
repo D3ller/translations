@@ -1,0 +1,14 @@
+{
+  "hash": "d58fe63df3052ef9",
+  "source": "This is opt-in because it can break apps that rely on runtime routing:",
+  "text": "Cette option est facultative car elle peut casser les applications qui reposent sur le routage à l'exécution :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cette option est facultative car elle peut casser les applications qui reposent sur le routage à l'exécution :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

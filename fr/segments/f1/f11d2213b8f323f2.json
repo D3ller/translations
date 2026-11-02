@@ -1,0 +1,14 @@
+{
+  "hash": "f11d2213b8f323f2",
+  "source": "Within {0}, {1} or {2}, you can create a configured Playwright browser instance with {3}, and (optionally) point it at a path from the running server. You can find out more about the API methods available from {4}in the Playwright documentation{/4}.",
+  "text": "Dans {0}, {1} ou {2}, vous pouvez créer une instance de navigateur Playwright configurée avec {3} et (facultativement) la faire pointer vers un chemin du serveur en cours d'exécution. Vous pouvez en savoir plus sur les méthodes d'API disponibles {4}dans la documentation de Playwright{/4}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans {0}, {1} ou {2}, vous pouvez créer une instance de navigateur Playwright configurée avec {3} et (facultativement) la faire pointer vers un chemin du serveur en cours d'exécution. Vous pouvez en savoir plus sur les méthodes d'API disponibles {4}dans la documentation de Playwright{/4}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

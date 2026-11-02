@@ -1,0 +1,14 @@
+{
+  "hash": "c6b473d4ac0b8f7c",
+  "source": "Route Announcements",
+  "text": "Annonces de route",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Annonces de route"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

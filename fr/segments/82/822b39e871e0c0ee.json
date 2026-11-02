@@ -1,0 +1,14 @@
+{
+  "hash": "822b39e871e0c0ee",
+  "source": "the file as served, subsetted if you set {0}",
+  "text": "le fichier tel que servi, réduit à un sous-ensemble si vous définissez {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "le fichier tel que servi, réduit à un sous-ensemble si vous définissez {0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

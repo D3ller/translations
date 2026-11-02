@@ -1,0 +1,14 @@
+{
+  "hash": "b44e0e762fd96caf",
+  "source": "See the rou3 migration guide for the other pattern syntax changes.",
+  "text": "Consultez le guide de migration de rou3 pour les autres changements de syntaxe des motifs.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Consultez le guide de migration de rou3 pour les autres changements de syntaxe des motifs."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

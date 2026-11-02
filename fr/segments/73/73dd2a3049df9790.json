@@ -1,0 +1,14 @@
+{
+  "hash": "73dd2a3049df9790",
+  "source": "The need for {0} and {1}",
+  "text": "Le besoin de {0} et {1}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le besoin de {0} et {1}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

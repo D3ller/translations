@@ -1,0 +1,14 @@
+{
+  "hash": "6050475697e67540",
+  "source": "or preload one upright font face near weight 400 in the first configured subset (or Basic Latin)",
+  "text": "ou précharger une police droite proche de la graisse 400 dans le premier sous-ensemble configuré (ou en latin de base)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "ou précharger une police droite proche de la graisse 400 dans le premier sous-ensemble configuré (ou en latin de base)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "e1c1401ffed455a8",
+  "source": "Protect App Routes",
+  "text": "Protéger les routes de l'application",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Protéger les routes de l'application"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

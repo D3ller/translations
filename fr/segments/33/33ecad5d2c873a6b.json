@@ -1,0 +1,14 @@
+{
+  "hash": "33ecad5d2c873a6b",
+  "source": "How Nuxt Uses Project References",
+  "text": "Comment Nuxt utilise les références de projet",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Comment Nuxt utilise les références de projet"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

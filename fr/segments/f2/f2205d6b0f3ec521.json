@@ -1,0 +1,14 @@
+{
+  "hash": "f2205d6b0f3ec521",
+  "source": "Load Nuxt programmatically. It will load the Nuxt configuration, instantiate and return the promise with Nuxt instance.",
+  "text": "Charge Nuxt de manière programmatique. Cette fonction charge la configuration de Nuxt, instancie Nuxt et retourne la promesse avec l'instance de Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Charge Nuxt de manière programmatique. Cette fonction charge la configuration de Nuxt, instancie Nuxt et retourne la promesse avec l'instance de Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

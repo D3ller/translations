@@ -1,0 +1,14 @@
+{
+  "hash": "f696bd467ccfd8b3",
+  "source": "Using LLMs.txt with Windsurf",
+  "text": "Utiliser LLMs.txt avec Windsurf",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utiliser LLMs.txt avec Windsurf"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

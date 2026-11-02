@@ -1,0 +1,14 @@
+{
+  "hash": "e91b22e4794dadf9",
+  "source": "Any redirection on the server will result in a {0} header being sent to the browser; the browser then makes a fresh request to this new location. All application state will be reset when this happens, unless persisted in a cookie.",
+  "text": "Toute redirection sur le serveur entraîne l'envoi d'un en-tête {0} au navigateur ; le navigateur effectue alors une nouvelle requête vers cette nouvelle adresse. Tout l'état de l'application est réinitialisé lorsque cela se produit, sauf s'il est persisté dans un cookie.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Toute redirection sur le serveur entraîne l'envoi d'un en-tête {0} au navigateur ; le navigateur effectue alors une nouvelle requête vers cette nouvelle adresse. Tout l'état de l'application est réinitialisé lorsque cela se produit, sauf s'il est persisté dans un cookie."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

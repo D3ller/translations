@@ -1,0 +1,14 @@
+{
+  "hash": "6c7c8dd3f96ad473",
+  "source": "You can customize the TypeScript configuration of your Nuxt project in the {0} file: set shared {1} for every context at once with {2}, and override them for each context ({3}, {4}, {5}, and {6}) individually.",
+  "text": "Vous pouvez personnaliser la configuration TypeScript de votre projet Nuxt dans le fichier {0} : définissez des {1} partagées par tous les contextes en une seule fois avec {2}, puis surchargez-les individuellement pour chaque contexte ({3}, {4}, {5} et {6}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez personnaliser la configuration TypeScript de votre projet Nuxt dans le fichier {0} : définissez des {1} partagées par tous les contextes en une seule fois avec {2}, puis surchargez-les individuellement pour chaque contexte ({3}, {4}, {5} et {6})."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

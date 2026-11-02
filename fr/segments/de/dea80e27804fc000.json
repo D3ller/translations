@@ -1,0 +1,14 @@
+{
+  "hash": "dea80e27804fc000",
+  "source": "To specify a variable font weight, define the range as you would in plain CSS (for example, {0}). See {1}variable fonts{/1} for how each provider handles a range.",
+  "text": "Pour spécifier une graisse de police variable, définissez la plage comme vous le feriez en CSS classique (par exemple, {0}). Consultez {1}les polices variables{/1} pour savoir comment chaque fournisseur gère une plage.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour spécifier une graisse de police variable, définissez la plage comme vous le feriez en CSS classique (par exemple, {0}). Consultez {1}les polices variables{/1} pour savoir comment chaque fournisseur gère une plage."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

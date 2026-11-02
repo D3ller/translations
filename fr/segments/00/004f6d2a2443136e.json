@@ -1,0 +1,14 @@
+{
+  "hash": "004f6d2a2443136e",
+  "source": "Once the installation is complete, make sure both development and production builds are working as expected before proceeding.",
+  "text": "Une fois l'installation terminée, vérifiez que les builds de développement et de production fonctionnent comme prévu avant de continuer.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une fois l'installation terminée, vérifiez que les builds de développement et de production fonctionnent comme prévu avant de continuer."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

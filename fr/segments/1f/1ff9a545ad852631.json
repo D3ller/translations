@@ -1,0 +1,14 @@
+{
+  "hash": "1ff9a545ad852631",
+  "source": "Many tools assume that {0} is a hidden directory (because it starts with a {1}). If that is a problem, you can use this option to prevent that.",
+  "text": "De nombreux outils partent du principe que {0} est un répertoire caché (car il commence par un {1}). Si cela pose problème, vous pouvez utiliser cette option pour l'éviter.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "De nombreux outils partent du principe que {0} est un répertoire caché (car il commence par un {1}). Si cela pose problème, vous pouvez utiliser cette option pour l'éviter."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

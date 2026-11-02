@@ -1,0 +1,14 @@
+{
+  "hash": "81ebfdacf3902560",
+  "source": "Clients that run JavaScript apply the patch, and clients matching {0} never stream in the first place, so they receive the full buffered {1}. Anything else (a crawler your {2} does not list, a link unfurler, {3}) will not see those tags at all. JSON-LD scripts, {4} tags and body-positioned tags are the exception: they are rendered as real markup before {5}, where every client can read them. Keep other SEO-critical tags (canonical links, social meta) synchronous, or opt the route out of streaming with {6}.",
+  "text": "Les clients qui exécutent JavaScript appliquent le correctif, et les clients correspondant à {0} ne reçoivent jamais de streaming, ils obtiennent donc le {1} complet avec buffer. Tout le reste (un robot que votre {2} ne liste pas, un générateur d'aperçu de liens, {3}) ne verra pas du tout ces balises. Les scripts JSON-LD, les balises {4} et les balises positionnées dans le body font exception : elles sont rendues sous forme de vrai balisage avant {5}, où tous les clients peuvent les lire. Gardez les autres balises essentielles au SEO (liens canoniques, balises meta sociales) synchrones, ou désactivez le streaming pour la route avec {6}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les clients qui exécutent JavaScript appliquent le correctif, et les clients correspondant à {0} ne reçoivent jamais de streaming, ils obtiennent donc le {1} complet avec buffer. Tout le reste (un robot que votre {2} ne liste pas, un générateur d'aperçu de liens, {3}) ne verra pas du tout ces balises. Les scripts JSON-LD, les balises {4} et les balises positionnées dans le body font exception : elles sont rendues sous forme de vrai balisage avant {5}, où tous les clients peuvent les lire. Gardez les autres balises essentielles au SEO (liens canoniques, balises meta sociales) synchrones, ou désactivez le streaming pour la route avec {6}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

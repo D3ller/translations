@@ -1,0 +1,14 @@
+{
+  "hash": "2815af2895be4d0f",
+  "source": "In this case, we need to manually interop the default export:",
+  "text": "Dans ce cas, vous devez gérer manuellement l'interopérabilité de l'export par défaut :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans ce cas, vous devez gérer manuellement l'interopérabilité de l'export par défaut :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

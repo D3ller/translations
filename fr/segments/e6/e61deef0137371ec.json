@@ -1,0 +1,14 @@
+{
+  "hash": "e61deef0137371ec",
+  "source": "on server-side, it will trigger a full-screen error page which you can clear with {0}.",
+  "text": "côté serveur, cela déclenche une page d'erreur plein écran que vous pouvez effacer avec {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "côté serveur, cela déclenche une page d'erreur plein écran que vous pouvez effacer avec {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

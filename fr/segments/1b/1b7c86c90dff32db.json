@@ -1,0 +1,14 @@
+{
+  "hash": "1b7c86c90dff32db",
+  "source": "Additionally, certain other files in the layer directory will be auto-scanned and used by Nuxt for the project extending this layer.",
+  "text": "De plus, certains autres fichiers du répertoire du layer seront analysés automatiquement et utilisés par Nuxt pour le projet qui étend ce layer.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "De plus, certains autres fichiers du répertoire du layer seront analysés automatiquement et utilisés par Nuxt pour le projet qui étend ce layer."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

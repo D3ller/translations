@@ -1,0 +1,14 @@
+{
+  "hash": "33482bfd125c1ec1",
+  "source": "{0}: The callback function to execute when the hook is triggered. The function signature varies based on the hook name.",
+  "text": "{0} : la fonction de rappel à exécuter lorsque le hook est déclenché. La signature de la fonction varie selon le nom du hook.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : la fonction de rappel à exécuter lorsque le hook est déclenché. La signature de la fonction varie selon le nom du hook."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

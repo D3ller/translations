@@ -1,0 +1,14 @@
+{
+  "hash": "33934b2129377ccc",
+  "source": "To switch components based on caller input, map a discriminator through an allowlist of imported components rather than passing the raw prop:",
+  "text": "Pour changer de composant en fonction d'une entrée de l'appelant, associez un discriminant à une liste d'autorisation de composants importés plutôt que de transmettre directement la prop brute :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour changer de composant en fonction d'une entrée de l'appelant, associez un discriminant à une liste d'autorisation de composants importés plutôt que de transmettre directement la prop brute :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

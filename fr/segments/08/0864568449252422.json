@@ -1,0 +1,14 @@
+{
+  "hash": "0864568449252422",
+  "source": "you could also pass an array of keys to refresh multiple data",
+  "text": "vous pouvez également passer un tableau de clés pour rafraîchir plusieurs données",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "vous pouvez également passer un tableau de clés pour rafraîchir plusieurs données"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "20635f8e1a2b1ce7",
+  "source": "A **server builder** turns the app build into a deployable server: it initializes an SSR renderer, resolves the modules the renderer imports, and describes what it produced to deploy targets. {0}, backed by {1}Nitro{/1}, is the default server builder, and {2} is a second experimental one which ties into the {3}Vite Environment API{/3}.",
+  "text": "Un **server builder** transforme le build de l'application en serveur déployable : il initialise un moteur de rendu SSR, résout les modules importés par ce moteur et décrit ce qu'il a produit aux cibles de déploiement. {0}, basé sur {1}Nitro{/1}, est le server builder par défaut, et {2} est un second server builder expérimental qui s'appuie sur l'{3}API Vite Environment{/3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un **server builder** transforme le build de l'application en serveur déployable : il initialise un moteur de rendu SSR, résout les modules importés par ce moteur et décrit ce qu'il a produit aux cibles de déploiement. {0}, basé sur {1}Nitro{/1}, est le server builder par défaut, et {2} est un second server builder expérimental qui s'appuie sur l'{3}API Vite Environment{/3}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

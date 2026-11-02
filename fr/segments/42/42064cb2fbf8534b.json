@@ -1,0 +1,14 @@
+{
+  "hash": "42064cb2fbf8534b",
+  "source": "Alternatively, though not recommended, you can register all your components globally, which will create async chunks for all your components and make them available throughout your application.",
+  "text": "Il est également possible, bien que ce ne soit pas recommandé, d'enregistrer tous vos composants globalement, ce qui créera des chunks asynchrones pour tous vos composants et les rendra disponibles dans toute votre application.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Il est également possible, bien que ce ne soit pas recommandé, d'enregistrer tous vos composants globalement, ce qui créera des chunks asynchrones pour tous vos composants et les rendra disponibles dans toute votre application."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

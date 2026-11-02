@@ -1,0 +1,14 @@
+{
+  "hash": "047aceb0238c9ae7",
+  "source": "If you deploy your app to {0}static hosting{/0} with the {1} or {2} commands, then by default, Nuxt will render every page as a separate static HTML file.",
+  "text": "Si vous déployez votre application sur un {0}hébergement statique{/0} avec les commandes {1} ou {2}, Nuxt rendra par défaut chaque page sous la forme d'un fichier HTML statique distinct.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous déployez votre application sur un {0}hébergement statique{/0} avec les commandes {1} ou {2}, Nuxt rendra par défaut chaque page sous la forme d'un fichier HTML statique distinct."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

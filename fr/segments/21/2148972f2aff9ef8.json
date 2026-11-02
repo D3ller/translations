@@ -1,0 +1,14 @@
+{
+  "hash": "2148972f2aff9ef8",
+  "source": "A function that resolves a path relative to the base path.",
+  "text": "Une fonction qui résout un chemin relatif au chemin de base.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une fonction qui résout un chemin relatif au chemin de base."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

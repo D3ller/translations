@@ -1,0 +1,14 @@
+{
+  "hash": "9c80af6bc92067de",
+  "source": "Read counter cookie",
+  "text": "Lire le cookie du compteur",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lire le cookie du compteur"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

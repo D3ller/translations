@@ -1,0 +1,14 @@
+{
+  "hash": "e0984b0e14628711",
+  "source": "We welcome the thoughtful use of AI tools when contributing to Nuxt, yet ask all contributors to follow {0}two core principles{/0}.",
+  "text": "Nous accueillons favorablement l'utilisation réfléchie des outils d'IA pour contribuer à Nuxt, mais nous demandons à tous les contributeurs de respecter {0}deux principes fondamentaux{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nous accueillons favorablement l'utilisation réfléchie des outils d'IA pour contribuer à Nuxt, mais nous demandons à tous les contributeurs de respecter {0}deux principes fondamentaux{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

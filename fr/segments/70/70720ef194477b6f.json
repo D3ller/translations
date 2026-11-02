@@ -1,0 +1,14 @@
+{
+  "hash": "70720ef194477b6f",
+  "source": "Run code before Nuxt hydrates",
+  "text": "Exécuter du code avant que Nuxt hydrate",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Exécuter du code avant que Nuxt hydrate"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

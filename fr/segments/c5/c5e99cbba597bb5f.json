@@ -1,0 +1,14 @@
+{
+  "hash": "c5e99cbba597bb5f",
+  "source": "The temporary repository {0}atinux/nuxt-auth-utils{/0} is available while awaiting its official integration into Nuxt via RFC.",
+  "text": "Le dépôt temporaire {0}atinux/nuxt-auth-utils{/0} est disponible en attendant son intégration officielle dans Nuxt via une RFC.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le dépôt temporaire {0}atinux/nuxt-auth-utils{/0} est disponible en attendant son intégration officielle dans Nuxt via une RFC."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

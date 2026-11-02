@@ -1,0 +1,14 @@
+{
+  "hash": "376c8550261c4a1f",
+  "source": "Call head composables synchronously inside a component {0}, a Nuxt plugin, or route middleware. If you need them after an {1}, capture the Nuxt context first:",
+  "text": "Appelez les composables de head de manière synchrone dans le {0} d'un composant, dans un plugin Nuxt ou dans un middleware de route. Si vous en avez besoin après un {1}, capturez d'abord le contexte Nuxt :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appelez les composables de head de manière synchrone dans le {0} d'un composant, dans un plugin Nuxt ou dans un middleware de route. Si vous en avez besoin après un {1}, capturez d'abord le contexte Nuxt :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

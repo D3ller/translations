@@ -1,0 +1,14 @@
+{
+  "hash": "ac13c1b3863db0ab",
+  "source": "Augmenting Types with Project References",
+  "text": "Augmenter les types avec les project references",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Augmenter les types avec les project references"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

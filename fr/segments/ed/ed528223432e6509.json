@@ -1,0 +1,14 @@
+{
+  "hash": "ed528223432e6509",
+  "source": "Instead of relative paths like this:",
+  "text": "Au lieu de chemins relatifs comme ceci :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Au lieu de chemins relatifs comme ceci :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

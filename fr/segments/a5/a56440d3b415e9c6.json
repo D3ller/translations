@@ -1,0 +1,14 @@
+{
+  "hash": "a56440d3b415e9c6",
+  "source": "Construct and recognize an HTTP error.",
+  "text": "Construit et reconnaît une erreur HTTP.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Construit et reconnaît une erreur HTTP."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

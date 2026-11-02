@@ -1,0 +1,14 @@
+{
+  "hash": "997b9faba38f8afe",
+  "source": "We can access same data later using 'todos' key",
+  "text": "Nous pouvons accéder plus tard aux mêmes données avec la clé 'todos'",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nous pouvons accéder plus tard aux mêmes données avec la clé 'todos'"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

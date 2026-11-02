@@ -1,0 +1,14 @@
+{
+  "hash": "0bc6cf15f2954f23",
+  "source": "{0}postcss-import{/0}: Improves the {1} rule",
+  "text": "{0}postcss-import{/0} : améliore la règle {1}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}postcss-import{/0} : améliore la règle {1}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

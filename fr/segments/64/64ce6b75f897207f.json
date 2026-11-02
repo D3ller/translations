@@ -1,0 +1,14 @@
+{
+  "hash": "64ce6b75f897207f",
+  "source": "That means that (with very few exceptions) you cannot use them outside a Nuxt plugin, Nuxt route middleware or Vue setup function. On top of that, you must use them synchronously - that is, you cannot use {0} before calling a composable, except within {1} blocks, within the setup function of a component declared with {2}, in {3} or in {4}, where we perform a transform to keep the synchronous context even after the {5}.",
+  "text": "Cela signifie que (à de très rares exceptions près) vous ne pouvez pas les utiliser en dehors d'un plugin Nuxt, d'un middleware de route Nuxt ou d'une fonction setup de Vue. De plus, vous devez les utiliser de manière synchrone : vous ne pouvez pas utiliser {0} avant d'appeler un composable, sauf dans des blocs {1}, dans la fonction setup d'un composant déclaré avec {2}, dans {3} ou dans {4}, où nous appliquons une transformation pour conserver le contexte synchrone même après le {5}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela signifie que (à de très rares exceptions près) vous ne pouvez pas les utiliser en dehors d'un plugin Nuxt, d'un middleware de route Nuxt ou d'une fonction setup de Vue. De plus, vous devez les utiliser de manière synchrone : vous ne pouvez pas utiliser {0} avant d'appeler un composable, sauf dans des blocs {1}, dans la fonction setup d'un composant déclaré avec {2}, dans {3} ou dans {4}, où nous appliquons une transformation pour conserver le contexte synchrone même après le {5}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "d7c2492906da2192",
+  "source": "To be called to restart the current Nuxt instance.",
+  "text": "À appeler pour redémarrer l'instance Nuxt actuelle.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "À appeler pour redémarrer l'instance Nuxt actuelle."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

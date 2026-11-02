@@ -1,0 +1,14 @@
+{
+  "hash": "a02ef17e4fe5f060",
+  "source": "Priority Order",
+  "text": "Ordre de priorité",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ordre de priorité"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "0d5d036fc2d9127e",
+  "source": "{0} preserves your handler's return type, which is what types {1}{2} and {3}{/1} calls to the route, and {4} for a {5} call to it. Annotate the value you return rather than the handler.",
+  "text": "{0} préserve le type de retour de votre handler, qui est ce qui type les appels {1}{2} et {3}{/1} vers la route, ainsi que {4} pour un appel {5}. Annotez la valeur que vous retournez plutôt que le handler.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} préserve le type de retour de votre handler, qui est ce qui type les appels {1}{2} et {3}{/1} vers la route, ainsi que {4} pour un appel {5}. Annotez la valeur que vous retournez plutôt que le handler."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

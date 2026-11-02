@@ -1,0 +1,14 @@
+{
+  "hash": "edcdc6a921d8f3b5",
+  "source": "Functions wrapping the execution of the request. Each receives {0}, which runs the rest of the chain and resolves to the data, and the handler context ({1}). The first entry is the outermost wrapper. Call {2} to continue or throw to abort.",
+  "text": "Fonctions qui encapsulent l'exécution de la requête. Chacune reçoit {0}, qui exécute le reste de la chaîne et se résout avec les données, ainsi que le contexte du gestionnaire ({1}). La première entrée est l'enveloppe la plus externe. Appelez {2} pour continuer ou levez une erreur pour interrompre.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Fonctions qui encapsulent l'exécution de la requête. Chacune reçoit {0}, qui exécute le reste de la chaîne et se résout avec les données, ainsi que le contexte du gestionnaire ({1}). La première entrée est l'enveloppe la plus externe. Appelez {2} pour continuer ou levez une erreur pour interrompre."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

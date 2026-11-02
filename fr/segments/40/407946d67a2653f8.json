@@ -1,0 +1,14 @@
+{
+  "hash": "407946d67a2653f8",
+  "source": "Bot/crawler user agents, that is, requests whose {0} matches {1}",
+  "text": "User agents de bots/crawlers, c'est-à-dire les requêtes dont {0} correspond à {1}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "User agents de bots/crawlers, c'est-à-dire les requêtes dont {0} correspond à {1}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

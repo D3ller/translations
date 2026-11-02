@@ -1,0 +1,14 @@
+{
+  "hash": "fdd5df99969adcb8",
+  "source": "Enable Vite 6's new {0}Environment API{/0} for improved build configuration and plugin architecture.",
+  "text": "Activez la nouvelle {0}Environment API{/0} de Vite 6 pour améliorer la configuration du build et l'architecture des plugins.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Activez la nouvelle {0}Environment API{/0} de Vite 6 pour améliorer la configuration du build et l'architecture des plugins."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

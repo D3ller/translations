@@ -1,0 +1,14 @@
+{
+  "hash": "48b42386352e5ef9",
+  "source": "See {0}Vite website{/0} for more information about Vite plugins. You can also use {1}this repository{/1} to find a plugin that suits your needs.",
+  "text": "Consultez le {0}site de Vite{/0} pour plus d'informations sur les plugins Vite. Vous pouvez aussi utiliser {1}ce dépôt{/1} pour trouver un plugin adapté à vos besoins.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Consultez le {0}site de Vite{/0} pour plus d'informations sur les plugins Vite. Vous pouvez aussi utiliser {1}ce dépôt{/1} pour trouver un plugin adapté à vos besoins."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

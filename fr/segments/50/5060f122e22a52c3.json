@@ -1,0 +1,14 @@
+{
+  "hash": "5060f122e22a52c3",
+  "source": "An object that allows us to configure the {0} nuxt module.",
+  "text": "Un objet qui permet de configurer le module Nuxt {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un objet qui permet de configurer le module Nuxt {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "d3bfb616ba8d9be6",
+  "source": "Three experimental options are removed, because the behavior they controlled is now unconditional in Nuxt 5:",
+  "text": "Trois options expérimentales sont supprimées, car le comportement qu'elles contrôlaient est désormais inconditionnel dans Nuxt 5 :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Trois options expérimentales sont supprimées, car le comportement qu'elles contrôlaient est désormais inconditionnel dans Nuxt 5 :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "87b59dd4b9419325",
+  "source": "You can use a computed ref or a plain ref as the URL, allowing for dynamic data fetching that automatically updates when the URL changes:",
+  "text": "Vous pouvez utiliser une ref calculée ou une ref simple comme URL, ce qui permet une récupération de données dynamique qui se met à jour automatiquement lorsque l'URL change :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez utiliser une ref calculée ou une ref simple comme URL, ce qui permet une récupération de données dynamique qui se met à jour automatiquement lorsque l'URL change :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

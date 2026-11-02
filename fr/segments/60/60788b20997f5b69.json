@@ -1,0 +1,14 @@
+{
+  "hash": "60788b20997f5b69",
+  "source": "Nuxt has a plugins system to use Vue plugins and more at the creation of your Vue application.",
+  "text": "Nuxt dispose d'un système de plugins pour utiliser les plugins Vue et bien plus encore lors de la création de votre application Vue.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt dispose d'un système de plugins pour utiliser les plugins Vue et bien plus encore lors de la création de votre application Vue."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

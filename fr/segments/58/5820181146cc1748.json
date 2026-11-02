@@ -1,0 +1,14 @@
+{
+  "hash": "5820181146cc1748",
+  "source": "All fetch options can be given a {0} or {1} value. These will be watched and new requests made automatically with any new values if they are updated.",
+  "text": "Toutes les options de récupération peuvent recevoir une valeur {0} ou {1}. Elles seront surveillées et de nouvelles requêtes seront effectuées automatiquement avec les nouvelles valeurs si elles sont mises à jour.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Toutes les options de récupération peuvent recevoir une valeur {0} ou {1}. Elles seront surveillées et de nouvelles requêtes seront effectuées automatiquement avec les nouvelles valeurs si elles sont mises à jour."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

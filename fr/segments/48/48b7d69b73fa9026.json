@@ -1,0 +1,14 @@
+{
+  "hash": "48b7d69b73fa9026",
+  "source": "You may define a name for this page's route.",
+  "text": "Vous pouvez définir un nom pour la route de cette page.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez définir un nom pour la route de cette page."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

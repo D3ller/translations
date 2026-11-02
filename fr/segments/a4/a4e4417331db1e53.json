@@ -1,0 +1,14 @@
+{
+  "hash": "a4e4417331db1e53",
+  "source": "Watch a video from Daniel Roe explaining built-in Nuxt aliases.",
+  "text": "Regardez une vidéo de Daniel Roe qui explique les alias intégrés de Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Regardez une vidéo de Daniel Roe qui explique les alias intégrés de Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

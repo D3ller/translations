@@ -1,0 +1,14 @@
+{
+  "hash": "5f6991121c6166c0",
+  "source": "**Example:** Scan nested directories inside the {0} folder:",
+  "text": "**Exemple :** analysez les répertoires imbriqués à l'intérieur du dossier {0} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Exemple :** analysez les répertoires imbriqués à l'intérieur du dossier {0} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

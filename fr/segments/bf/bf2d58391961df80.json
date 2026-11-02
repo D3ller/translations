@@ -1,0 +1,14 @@
+{
+  "hash": "bf2d58391961df80",
+  "source": "Master lifecycle hooks, virtual files and TypeScript declarations in your modules.",
+  "text": "Maîtrisez les hooks de cycle de vie, les fichiers virtuels et les déclarations TypeScript dans vos modules.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Maîtrisez les hooks de cycle de vie, les fichiers virtuels et les déclarations TypeScript dans vos modules."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

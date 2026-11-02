@@ -1,0 +1,14 @@
+{
+  "hash": "59c9d58ad9cd2733",
+  "source": "**{0} and {1}** are deprecated in favor of {2} and {3}. Vite 8 converts these automatically for now, but they will be removed in the future.",
+  "text": "**{0} et {1}** sont dépréciés au profit de {2} et {3}. Vite 8 les convertit automatiquement pour l'instant, mais ils seront supprimés à l'avenir.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0} et {1}** sont dépréciés au profit de {2} et {3}. Vite 8 les convertit automatiquement pour l'instant, mais ils seront supprimés à l'avenir."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

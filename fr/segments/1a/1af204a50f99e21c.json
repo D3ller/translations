@@ -1,0 +1,14 @@
+{
+  "hash": "1af204a50f99e21c",
+  "source": "Storage: {0} and its driver configuration",
+  "text": "Stockage : {0} et la configuration de son driver",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Stockage : {0} et la configuration de son driver"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

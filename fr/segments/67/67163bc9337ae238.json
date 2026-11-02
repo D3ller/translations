@@ -1,0 +1,14 @@
+{
+  "hash": "67163bc9337ae238",
+  "source": "Plus, it comes with convenience features including automatically parsing responses and stringifying data.",
+  "text": "De plus, elle offre des fonctionnalités pratiques, comme l'analyse automatique des réponses et la sérialisation des données en chaîne de caractères.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "De plus, elle offre des fonctionnalités pratiques, comme l'analyse automatique des réponses et la sérialisation des données en chaîne de caractères."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

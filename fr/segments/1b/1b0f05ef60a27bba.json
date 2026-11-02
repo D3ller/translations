@@ -1,0 +1,14 @@
+{
+  "hash": "1b0f05ef60a27bba",
+  "source": "When Nuxt encounters a fatal error (any unhandled error on the server, or an error created with {0} on the client) it triggers a full-screen error page. An error thrown in a server route or server middleware returns a JSON response instead.",
+  "text": "Lorsque Nuxt rencontre une erreur fatale (toute erreur non gérée côté serveur, ou une erreur créée avec {0} côté client), il affiche une page d'erreur en plein écran. Une erreur levée dans une route serveur ou un middleware serveur renvoie à la place une réponse JSON.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque Nuxt rencontre une erreur fatale (toute erreur non gérée côté serveur, ou une erreur créée avec {0} côté client), il affiche une page d'erreur en plein écran. Une erreur levée dans une route serveur ou un middleware serveur renvoie à la place une réponse JSON."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

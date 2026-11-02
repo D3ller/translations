@@ -1,0 +1,14 @@
+{
+  "hash": "c868da6a2a8af855",
+  "source": "You can hook into the underlying announcer instance using {0}the {1} composable{/0}, which allows you to set a custom announcement message.",
+  "text": "Vous pouvez vous connecter à l'instance d'announcer sous-jacente avec {0}le composable {1}{/0}, qui vous permet de définir un message d'annonce personnalisé.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez vous connecter à l'instance d'announcer sous-jacente avec {0}le composable {1}{/0}, qui vous permet de définir un message d'annonce personnalisé."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

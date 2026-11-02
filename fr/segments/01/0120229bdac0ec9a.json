@@ -1,0 +1,14 @@
+{
+  "hash": "0120229bdac0ec9a",
+  "source": "The order in which modules are loaded when using {0}Nuxt layers{/0} has been corrected. Previously, modules from the project root were loaded before modules from extended layers, which was the reverse of the expected behavior.",
+  "text": "L'ordre de chargement des modules lors de l'utilisation des {0}layers (couches) Nuxt{/0} a été corrigé. Auparavant, les modules de la racine du projet étaient chargés avant ceux des layers étendus, ce qui était l'inverse du comportement attendu.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'ordre de chargement des modules lors de l'utilisation des {0}layers (couches) Nuxt{/0} a été corrigé. Auparavant, les modules de la racine du projet étaient chargés avant ceux des layers étendus, ce qui était l'inverse du comportement attendu."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

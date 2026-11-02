@@ -1,0 +1,14 @@
+{
+  "hash": "f64276329edd3d33",
+  "source": "Server-only pages must have a single root element. (HTML comments are considered elements as well.)",
+  "text": "Les pages serveur uniquement doivent avoir un seul élément racine. (Les commentaires HTML sont également considérés comme des éléments.)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les pages serveur uniquement doivent avoir un seul élément racine. (Les commentaires HTML sont également considérés comme des éléments.)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

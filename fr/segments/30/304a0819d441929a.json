@@ -1,0 +1,14 @@
+{
+  "hash": "304a0819d441929a",
+  "source": "{0}: contains the API routes of the application.",
+  "text": "{0} : contient les routes d'API de l'application.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : contient les routes d'API de l'application."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

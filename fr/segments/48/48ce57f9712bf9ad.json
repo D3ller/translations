@@ -1,0 +1,14 @@
+{
+  "hash": "48ce57f9712bf9ad",
+  "source": "First, we need to install the Vite plugin, for our example, we'll use {0}:",
+  "text": "Commencez par installer le plugin Vite ; dans notre exemple, nous utiliserons {0} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Commencez par installer le plugin Vite ; dans notre exemple, nous utiliserons {0} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

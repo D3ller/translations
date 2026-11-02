@@ -1,0 +1,14 @@
+{
+  "hash": "5abb424a02b0772f",
+  "source": "The component-based templating, while keeping HTML as the common language of the web, enables intuitive patterns to keep your interface consistent, yet powerful.",
+  "text": "Le templating basé sur les composants, tout en conservant le HTML comme langage commun du web, permet des modèles intuitifs pour garder votre interface cohérente tout en restant puissante.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le templating basé sur les composants, tout en conservant le HTML comme langage commun du web, permet des modèles intuitifs pour garder votre interface cohérente tout en restant puissante."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "582be5efb727536c",
+  "source": "It is an array of strings or regular expressions. Strings should be either absolute paths or relative to the {0} (and the {1} of any layers). Regular expressions will be matched against the path relative to the project {2} (and the {3} of any layers).",
+  "text": "Il s'agit d'un tableau de chaînes de caractères ou d'expressions régulières. Les chaînes doivent être soit des chemins absolus, soit relatives au {0} (et au {1} de tous les layers (couches)). Les expressions régulières seront comparées au chemin relatif au {2} du projet (et au {3} de tous les layers).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Il s'agit d'un tableau de chaînes de caractères ou d'expressions régulières. Les chaînes doivent être soit des chemins absolus, soit relatives au {0} (et au {1} de tous les layers (couches)). Les expressions régulières seront comparées au chemin relatif au {2} du projet (et au {3} de tous les layers)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

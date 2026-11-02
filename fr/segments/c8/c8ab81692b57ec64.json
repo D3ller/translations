@@ -1,0 +1,14 @@
+{
+  "hash": "c8ab81692b57ec64",
+  "source": "Read more about pre-rendering in the Nitro documentation.",
+  "text": "En savoir plus sur le prérendu dans la documentation de Nitro.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En savoir plus sur le prérendu dans la documentation de Nitro."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

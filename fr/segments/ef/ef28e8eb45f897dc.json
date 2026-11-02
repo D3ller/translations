@@ -1,0 +1,14 @@
+{
+  "hash": "ef28e8eb45f897dc",
+  "source": "Typing Custom Metadata",
+  "text": "Typage des métadonnées personnalisées",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Typage des métadonnées personnalisées"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

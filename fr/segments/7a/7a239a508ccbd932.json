@@ -1,0 +1,14 @@
+{
+  "hash": "7a239a508ccbd932",
+  "source": "In a Vite production build the fonts are handed to Vite's asset pipeline, so Vite rewrites their URLs exactly as it does for any other asset it emits: {0}, {1}, a relative base and {2} all apply. Bundled stylesheets get URLs relative to the stylesheet ({3}), because that is what {4} asks Vite to do for non-JS assets; server-inlined {5} blocks get an absolute URL resolved at runtime.",
+  "text": "Dans un build de production Vite, les polices sont transmises au pipeline d'assets de Vite, qui réécrit donc leurs URL exactement comme pour tout autre asset qu'il émet : {0}, {1}, une base relative et {2} s'appliquent tous. Les feuilles de style regroupées reçoivent des URL relatives à la feuille de style ({3}), car c'est ce que {4} demande à Vite de faire pour les assets non JS ; les blocs {5} inlinés côté serveur reçoivent une URL absolue résolue à l'exécution.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans un build de production Vite, les polices sont transmises au pipeline d'assets de Vite, qui réécrit donc leurs URL exactement comme pour tout autre asset qu'il émet : {0}, {1}, une base relative et {2} s'appliquent tous. Les feuilles de style regroupées reçoivent des URL relatives à la feuille de style ({3}), car c'est ce que {4} demande à Vite de faire pour les assets non JS ; les blocs {5} inlinés côté serveur reçoivent une URL absolue résolue à l'exécution."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

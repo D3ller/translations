@@ -1,0 +1,14 @@
+{
+  "hash": "60aec0e6f5f72574",
+  "source": "{0}: the error page of your Nuxt application",
+  "text": "{0} : la page d'erreur de votre application Nuxt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : la page d'erreur de votre application Nuxt"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

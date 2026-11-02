@@ -1,0 +1,14 @@
+{
+  "hash": "24baf11dfe9a92cb",
+  "source": "However, migration is *not required*. If you wish to keep your current folder structure, Nuxt should auto-detect it. (If it does not, please raise an issue.) The one exception is that if you *already* have a custom {0}. In this case, you should be aware that your {1}, {2}, {3} and {4} folders will be resolved from your {5} rather than from your custom {6}. You can override this by configuring {7}, {8} and {9} if you need to.",
+  "text": "Cependant, la migration n'est *pas obligatoire*. Si vous souhaitez conserver votre structure de dossiers actuelle, Nuxt devrait la détecter automatiquement. (Si ce n'est pas le cas, veuillez ouvrir une issue.) La seule exception concerne le cas où vous avez *déjà* un {0} personnalisé. Dans ce cas, sachez que vos dossiers {1}, {2}, {3} et {4} seront résolus à partir de votre {5} plutôt qu'à partir de votre {6} personnalisé. Vous pouvez modifier ce comportement en configurant {7}, {8} et {9} si nécessaire.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cependant, la migration n'est *pas obligatoire*. Si vous souhaitez conserver votre structure de dossiers actuelle, Nuxt devrait la détecter automatiquement. (Si ce n'est pas le cas, veuillez ouvrir une issue.) La seule exception concerne le cas où vous avez *déjà* un {0} personnalisé. Dans ce cas, sachez que vos dossiers {1}, {2}, {3} et {4} seront résolus à partir de votre {5} plutôt qu'à partir de votre {6} personnalisé. Vous pouvez modifier ce comportement en configurant {7}, {8} et {9} si nécessaire."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

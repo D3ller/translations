@@ -1,0 +1,14 @@
+{
+  "hash": "1a69bab097d2ae1d",
+  "source": "Let's pretend here that:",
+  "text": "Imaginons ici que :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Imaginons ici que :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "dfdecf5e68667383",
+  "source": "You may also keep using Nuxt 2-style plugins, by removing the function (as with {0}defineNuxtMiddleware{/0}).",
+  "text": "Vous pouvez également continuer à utiliser des plugins dans le style de Nuxt 2, en supprimant la fonction (comme avec {0}defineNuxtMiddleware{/0}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez également continuer à utiliser des plugins dans le style de Nuxt 2, en supprimant la fonction (comme avec {0}defineNuxtMiddleware{/0})."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

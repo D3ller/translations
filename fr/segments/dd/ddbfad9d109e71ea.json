@@ -1,0 +1,14 @@
+{
+  "hash": "ddbfad9d109e71ea",
+  "source": "Protecting server routes is key to making sure your data is safe. Client-side middleware is helpful for the user, but without server-side protection your data can still be accessed. It is critical to protect any routes with sensitive data, we should return a 401 error if the user is not logged in on those.",
+  "text": "Protéger les routes serveur est essentiel pour garantir la sécurité de vos données. Un middleware côté client est utile pour l'utilisateur, mais sans protection côté serveur, vos données restent accessibles. Il est essentiel de protéger toute route contenant des données sensibles : vous devez y renvoyer une erreur 401 si l'utilisateur n'est pas connecté.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Protéger les routes serveur est essentiel pour garantir la sécurité de vos données. Un middleware côté client est utile pour l'utilisateur, mais sans protection côté serveur, vos données restent accessibles. Il est essentiel de protéger toute route contenant des données sensibles : vous devez y renvoyer une erreur 401 si l'utilisateur n'est pas connecté."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "f1a9427326982c69",
+  "source": "**Earlier layers override later layers** in the array",
+  "text": "**Les layers placés avant remplacent ceux placés après** dans le tableau",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Les layers placés avant remplacent ceux placés après** dans le tableau"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

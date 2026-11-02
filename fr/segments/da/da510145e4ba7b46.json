@@ -1,0 +1,14 @@
+{
+  "hash": "da510145e4ba7b46",
+  "source": "Reuse type information from previous runs",
+  "text": "Réutiliser les informations de types issues des exécutions précédentes",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Réutiliser les informations de types issues des exécutions précédentes"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

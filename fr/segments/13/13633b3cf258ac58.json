@@ -1,0 +1,14 @@
+{
+  "hash": "13633b3cf258ac58",
+  "source": "{0} can only be used once per mocked import per test file. It is actually a macro that gets transformed to {1} and {2} is hoisted, as described {3}in the Vitest docs{/3}.",
+  "text": "{0} ne peut être utilisé qu'une seule fois par import mocké et par fichier de test. Il s'agit en réalité d'une macro transformée en {1}, et {2} est hissé (hoisted), comme décrit dans {3}la documentation de Vitest{/3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} ne peut être utilisé qu'une seule fois par import mocké et par fichier de test. Il s'agit en réalité d'une macro transformée en {1}, et {2} est hissé (hoisted), comme décrit dans {3}la documentation de Vitest{/3}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

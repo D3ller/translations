@@ -1,0 +1,14 @@
+{
+  "hash": "68bb62c5867df49d",
+  "source": "{0} opens the Node.js inspector for your server code: server routes, middleware and server-side rendering, which run in a Nitro worker thread. It accepts an optional {1} and defaults to {2}, so Chrome DevTools ({3}) and most editors find it without configuration. Your debugger reconnects automatically when the server reloads.",
+  "text": "{0} ouvre l'inspecteur Node.js pour le code de votre serveur : routes serveur, middleware et rendu côté serveur, qui s'exécutent dans un worker thread de Nitro. Il accepte un {1} facultatif et utilise {2} par défaut, de sorte que Chrome DevTools ({3}) et la plupart des éditeurs le trouvent sans configuration. Votre débogueur se reconnecte automatiquement lorsque le serveur se recharge.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} ouvre l'inspecteur Node.js pour le code de votre serveur : routes serveur, middleware et rendu côté serveur, qui s'exécutent dans un worker thread de Nitro. Il accepte un {1} facultatif et utilise {2} par défaut, de sorte que Chrome DevTools ({3}) et la plupart des éditeurs le trouvent sans configuration. Votre débogueur se reconnecte automatiquement lorsque le serveur se recharge."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

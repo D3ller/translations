@@ -1,0 +1,14 @@
+{
+  "hash": "da71383593d6536e",
+  "source": "Create a {0}plugin{/0} file to globalize your store:",
+  "text": "Créez un fichier de {0}plugin{/0} pour rendre votre store global :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Créez un fichier de {0}plugin{/0} pour rendre votre store global :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

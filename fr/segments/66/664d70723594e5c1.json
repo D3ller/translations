@@ -1,0 +1,14 @@
+{
+  "hash": "664d70723594e5c1",
+  "source": "Now we installed and configured our Vite plugin, we can start using YAML files directly in our project.",
+  "text": "Maintenant que votre plugin Vite est installé et configuré, vous pouvez utiliser des fichiers YAML directement dans votre projet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Maintenant que votre plugin Vite est installé et configuré, vous pouvez utiliser des fichiers YAML directement dans votre projet."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "f639a3b2df6d89ee",
+  "source": "These options define how fonts will be downloaded, including the weights, styles, subsets, etc. These options can be used as a default behaviour with {0} or a separate behaviour for a specific font with {1}.",
+  "text": "Ces options définissent la manière dont les polices seront téléchargées, notamment les graisses, les styles, les sous-ensembles, etc. Elles peuvent servir de comportement par défaut avec {0} ou de comportement distinct pour une police précise avec {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ces options définissent la manière dont les polices seront téléchargées, notamment les graisses, les styles, les sous-ensembles, etc. Elles peuvent servir de comportement par défaut avec {0} ou de comportement distinct pour une police précise avec {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

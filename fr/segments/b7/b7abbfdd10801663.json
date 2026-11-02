@@ -1,0 +1,14 @@
+{
+  "hash": "b7abbfdd10801663",
+  "source": "You can also auto-import functions exported from custom folders or third-party packages by configuring the {0} section of your {1} file.",
+  "text": "Vous pouvez aussi importer automatiquement des fonctions exportées depuis des dossiers personnalisés ou des packages tiers en configurant la section {0} de votre fichier {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez aussi importer automatiquement des fonctions exportées depuis des dossiers personnalisés ou des packages tiers en configurant la section {0} de votre fichier {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

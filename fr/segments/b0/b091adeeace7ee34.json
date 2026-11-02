@@ -1,0 +1,14 @@
+{
+  "hash": "b091adeeace7ee34",
+  "source": "{0}: One or an array of keys that are used in {1} to delete their cached state. If no keys are provided, **all state** will be invalidated.",
+  "text": "{0} : une clé ou un tableau de clés utilisées dans {1} pour supprimer leur état mis en cache. Si aucune clé n'est fournie, **tout l'état** sera invalidé.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : une clé ou un tableau de clés utilisées dans {1} pour supprimer leur état mis en cache. Si aucune clé n'est fournie, **tout l'état** sera invalidé."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "510232208bc40a3a",
+  "source": "**{0} does not work in interactive components inside islands.** A component loaded with the {1}{2} attribute{/1} is server-rendered inside the island's app but hydrated by the main client app, so {3} returns different values on the server and on the client, causing a hydration mismatch.",
+  "text": "**{0} ne fonctionne pas dans les composants interactifs à l'intérieur des islands.** Un composant chargé avec {1}l'attribut {2}{/1} est rendu côté serveur dans l'application de l'island mais hydraté par l'application cliente principale ; {3} renvoie donc des valeurs différentes sur le serveur et sur le client, ce qui provoque une erreur d'hydratation.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0} ne fonctionne pas dans les composants interactifs à l'intérieur des islands.** Un composant chargé avec {1}l'attribut {2}{/1} est rendu côté serveur dans l'application de l'island mais hydraté par l'application cliente principale ; {3} renvoie donc des valeurs différentes sur le serveur et sur le client, ce qui provoque une erreur d'hydratation."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

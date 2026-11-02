@@ -1,0 +1,14 @@
+{
+  "hash": "1752e0489e068fe8",
+  "source": "Linking to Static Files",
+  "text": "Créer un lien vers des fichiers statiques",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Créer un lien vers des fichiers statiques"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

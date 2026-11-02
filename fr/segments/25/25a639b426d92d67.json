@@ -1,0 +1,14 @@
+{
+  "hash": "25a639b426d92d67",
+  "source": "{0} now defaults to {1} rather than {2}. The payload of a prerendered or cached page is inlined in the HTML for the initial render, and the {3} file is only fetched for client-side navigation. It is still forced to {4} when {5} is disabled.",
+  "text": "{0} vaut désormais {1} par défaut, et non plus {2}. Le payload d'une page pré-rendue ou mise en cache est intégré dans le HTML pour le rendu initial, et le fichier {3} n'est récupéré que pour la navigation côté client. Il reste forcé à {4} lorsque {5} est désactivé.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} vaut désormais {1} par défaut, et non plus {2}. Le payload d'une page pré-rendue ou mise en cache est intégré dans le HTML pour le rendu initial, et le fichier {3} n'est récupéré que pour la navigation côté client. Il reste forcé à {4} lorsque {5} est désactivé."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

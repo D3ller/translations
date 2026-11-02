@@ -1,0 +1,14 @@
+{
+  "hash": "2ed10bff9e116899",
+  "source": "When Nitro starts, it initializes and executes the plugins under the {0} directory. These plugins can:",
+  "text": "Au démarrage, Nitro initialise et exécute les plugins du répertoire {0}. Ces plugins peuvent :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Au démarrage, Nitro initialise et exécute les plugins du répertoire {0}. Ces plugins peuvent :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

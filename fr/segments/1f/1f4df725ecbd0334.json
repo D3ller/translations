@@ -1,0 +1,14 @@
+{
+  "hash": "1f4df725ecbd0334",
+  "source": "{0}Google Fonts{/0} is one of the best known public font APIs.",
+  "text": "{0}Google Fonts{/0} est l'une des API de polices publiques les plus connues.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}Google Fonts{/0} est l'une des API de polices publiques les plus connues."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

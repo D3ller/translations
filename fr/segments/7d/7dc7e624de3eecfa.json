@@ -1,0 +1,14 @@
+{
+  "hash": "7dc7e624de3eecfa",
+  "source": "If you perform data fetching within your page setup functions, you may wish to reconsider using this feature for the moment. (By design, View Transitions completely freeze DOM updates whilst they are taking place.) We're looking at restricting the View Transition to the final moments before {0} resolves, but in the interim you may want to consider carefully whether to adopt this feature if this describes you.",
+  "text": "Si vous effectuez de la récupération de données dans les fonctions de setup de votre page, vous pouvez reconsidérer l'utilisation de cette fonctionnalité pour le moment. (Par conception, les View Transitions gèlent complètement les mises à jour du DOM pendant leur exécution.) Nous envisageons de limiter la View Transition aux derniers instants précédant la résolution de {0}, mais en attendant, si cela vous concerne, pesez soigneusement l'opportunité d'adopter cette fonctionnalité.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous effectuez de la récupération de données dans les fonctions de setup de votre page, vous pouvez reconsidérer l'utilisation de cette fonctionnalité pour le moment. (Par conception, les View Transitions gèlent complètement les mises à jour du DOM pendant leur exécution.) Nous envisageons de limiter la View Transition aux derniers instants précédant la résolution de {0}, mais en attendant, si cela vous concerne, pesez soigneusement l'opportunité d'adopter cette fonctionnalité."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "3781c73cc7475785",
+  "source": "You can return streams directly from the event handler.",
+  "text": "Vous pouvez renvoyer des flux directement depuis le gestionnaire d'événements.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez renvoyer des flux directement depuis le gestionnaire d'événements."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

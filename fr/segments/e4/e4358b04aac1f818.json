@@ -1,0 +1,14 @@
+{
+  "hash": "e4358b04aac1f818",
+  "source": "Called on {0} if has errors on WebpackBar.",
+  "text": "Appelé sur {0} s'il y a des erreurs dans WebpackBar.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appelé sur {0} s'il y a des erreurs dans WebpackBar."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

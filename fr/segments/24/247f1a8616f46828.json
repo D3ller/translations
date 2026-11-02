@@ -1,0 +1,14 @@
+{
+  "hash": "247f1a8616f46828",
+  "source": "Run only Nuxt tests",
+  "text": "Exécuter uniquement les tests Nuxt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Exécuter uniquement les tests Nuxt"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

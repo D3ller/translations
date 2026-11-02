@@ -1,0 +1,14 @@
+{
+  "hash": "40a1bf184696a8b0",
+  "source": "**Serializable page meta**: {0} extracts statically analysable {1} values at build time",
+  "text": "**Page meta sérialisable** : {0} extrait au moment du build les valeurs {1} analysables statiquement",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Page meta sérialisable** : {0} extrait au moment du build les valeurs {1} analysables statiquement"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

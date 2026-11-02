@@ -1,0 +1,14 @@
+{
+  "hash": "08a4fa78d0e8e448",
+  "source": "Add {0} in your {1} or {2} to enhance accessibility by informing assistive technologies about page title changes. This ensures that navigational changes are announced to users relying on screen readers.",
+  "text": "Ajoutez {0} dans votre {1} ou votre {2} pour améliorer l'accessibilité en informant les technologies d'assistance des changements de titre de page. Cela garantit que les changements de navigation sont annoncés aux utilisateurs qui s'appuient sur des lecteurs d'écran.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ajoutez {0} dans votre {1} ou votre {2} pour améliorer l'accessibilité en informant les technologies d'assistance des changements de titre de page. Cela garantit que les changements de navigation sont annoncés aux utilisateurs qui s'appuient sur des lecteurs d'écran."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

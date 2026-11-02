@@ -1,0 +1,14 @@
+{
+  "hash": "f8f770f4ef2ed45f",
+  "source": "{0} gives you access to the current cached value of {1} , {2}, {3} and {4} with explicitly provided key.",
+  "text": "{0} vous donne accès à la valeur actuellement en cache de {1}, {2}, {3} et {4} avec une clé fournie explicitement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} vous donne accès à la valeur actuellement en cache de {1}, {2}, {3} et {4} avec une clé fournie explicitement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

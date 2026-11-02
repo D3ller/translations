@@ -1,0 +1,14 @@
+{
+  "hash": "0f3792bf7180560a",
+  "source": "{0}Lifecycle hooks{/0} allow you to expand almost every aspect of Nuxt. Modules can hook to them programmatically or through the {1} map in their definition.",
+  "text": "Les {0}hooks de cycle de vie{/0} vous permettent d'étendre presque tous les aspects de Nuxt. Les modules peuvent s'y brancher par programmation ou via la map {1} dans leur définition.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les {0}hooks de cycle de vie{/0} vous permettent d'étendre presque tous les aspects de Nuxt. Les modules peuvent s'y brancher par programmation ou via la map {1} dans leur définition."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

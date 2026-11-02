@@ -1,0 +1,14 @@
+{
+  "hash": "8d2a36cb149d492f",
+  "source": "One of the best things about Vue and SFC is how great it is at naturally dealing with styling. You can directly write CSS or preprocessor code in the style block of your components file, therefore you will have fantastic developer experience without having to use something like CSS-in-JS. However if you wish to use CSS-in-JS, you can find 3rd party libraries and modules that support it, such as {0}pinceau{/0}.",
+  "text": "L'un des grands atouts de Vue et des SFC est leur capacité à gérer naturellement le style. Vous pouvez écrire directement du CSS ou du code de préprocesseur dans le bloc style du fichier de votre composant, ce qui vous offre une excellente expérience de développement sans avoir à recourir à du CSS-in-JS. Cependant, si vous souhaitez utiliser du CSS-in-JS, vous pouvez trouver des bibliothèques et des modules tiers qui le prennent en charge, comme {0}pinceau{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'un des grands atouts de Vue et des SFC est leur capacité à gérer naturellement le style. Vous pouvez écrire directement du CSS ou du code de préprocesseur dans le bloc style du fichier de votre composant, ce qui vous offre une excellente expérience de développement sans avoir à recourir à du CSS-in-JS. Cependant, si vous souhaitez utiliser du CSS-in-JS, vous pouvez trouver des bibliothèques et des modules tiers qui le prennent en charge, comme {0}pinceau{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

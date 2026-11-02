@@ -1,0 +1,14 @@
+{
+  "hash": "96dc452e55debf49",
+  "source": "If the underlying error is expected (for example an upstream request that can fail), handle it in the page rather than letting it reach the renderer, so a proper error response can be sent before the stream is committed:",
+  "text": "Si l'erreur sous-jacente est attendue (par exemple une requête vers un service externe susceptible d'échouer), gérez-la dans la page plutôt que de la laisser atteindre le moteur de rendu, afin qu'une véritable réponse d'erreur puisse être envoyée avant que le flux ne soit engagé :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si l'erreur sous-jacente est attendue (par exemple une requête vers un service externe susceptible d'échouer), gérez-la dans la page plutôt que de la laisser atteindre le moteur de rendu, afin qu'une véritable réponse d'erreur puisse être envoyée avant que le flux ne soit engagé :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

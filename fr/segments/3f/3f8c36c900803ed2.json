@@ -1,0 +1,14 @@
+{
+  "hash": "3f8c36c900803ed2",
+  "source": "Run a typecheck on your app and fix any new errors (recommended).",
+  "text": "Exécutez une vérification des types sur votre application et corrigez les nouvelles erreurs (recommandé).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Exécutez une vérification des types sur votre application et corrigez les nouvelles erreurs (recommandé)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

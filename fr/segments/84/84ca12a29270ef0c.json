@@ -1,0 +1,14 @@
+{
+  "hash": "84ca12a29270ef0c",
+  "source": "extend tsconfig.server.json",
+  "text": "étendre tsconfig.server.json",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "étendre tsconfig.server.json"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

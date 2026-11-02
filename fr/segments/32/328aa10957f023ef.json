@@ -1,0 +1,14 @@
+{
+  "hash": "328aa10957f023ef",
+  "source": "If the template reads well-known sources, declare them by key:",
+  "text": "Si le template lit des sources connues, déclarez-les par clé :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si le template lit des sources connues, déclarez-les par clé :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

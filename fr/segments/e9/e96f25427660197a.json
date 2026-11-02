@@ -1,0 +1,14 @@
+{
+  "hash": "e96f25427660197a",
+  "source": "**Context-specific type checking**: Each context now has appropriate compiler options and includes/excludes for its specific environment.",
+  "text": "**Vérification des types propre à chaque contexte** : chaque contexte dispose désormais d'options de compilation appropriées ainsi que d'inclusions et d'exclusions adaptées à son environnement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Vérification des types propre à chaque contexte** : chaque contexte dispose désormais d'options de compilation appropriées ainsi que d'inclusions et d'exclusions adaptées à son environnement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

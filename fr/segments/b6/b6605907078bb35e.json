@@ -1,0 +1,14 @@
+{
+  "hash": "b6605907078bb35e",
+  "source": "If you spot an area where we can improve documentation or error messages, please do open a PR - even if it's just to fix a typo!",
+  "text": "Si vous repérez un endroit où nous pouvons améliorer la documentation ou les messages d'erreur, n'hésitez pas à ouvrir une PR, même pour corriger une simple faute de frappe !",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous repérez un endroit où nous pouvons améliorer la documentation ou les messages d'erreur, n'hésitez pas à ouvrir une PR, même pour corriger une simple faute de frappe !"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

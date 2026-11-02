@@ -1,0 +1,14 @@
+{
+  "hash": "16305a1e53bb4e73",
+  "source": "Absolute path of the root {0} file, if one was found.",
+  "text": "Chemin absolu du fichier {0} racine, s'il a été trouvé.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Chemin absolu du fichier {0} racine, s'il a été trouvé."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

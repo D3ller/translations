@@ -1,0 +1,14 @@
+{
+  "hash": "7445ef64bc03eebf",
+  "source": "Add {0} in your {1} or {2} to enable announcing dynamic content changes to screen readers. This is useful for form validation, toast notifications, loading states, and other in-page updates.",
+  "text": "Ajoutez {0} dans votre {1} ou votre {2} pour activer l'annonce des changements de contenu dynamique aux lecteurs d'écran. C'est utile pour la validation de formulaires, les notifications toast, les états de chargement et d'autres mises à jour au sein de la page.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ajoutez {0} dans votre {1} ou votre {2} pour activer l'annonce des changements de contenu dynamique aux lecteurs d'écran. C'est utile pour la validation de formulaires, les notifications toast, les états de chargement et d'autres mises à jour au sein de la page."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

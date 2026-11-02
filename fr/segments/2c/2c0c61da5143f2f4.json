@@ -1,0 +1,14 @@
+{
+  "hash": "2c0c61da5143f2f4",
+  "source": "Install modules as dev dependencies",
+  "text": "Installer les modules en tant que dépendances de développement",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Installer les modules en tant que dépendances de développement"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

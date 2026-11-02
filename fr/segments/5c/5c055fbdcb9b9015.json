@@ -1,0 +1,14 @@
+{
+  "hash": "5c055fbdcb9b9015",
+  "source": "It is possible to debug your Nuxt app in your IDE while you are developing it.",
+  "text": "Il est possible de déboguer votre application Nuxt dans votre IDE pendant que vous la développez.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Il est possible de déboguer votre application Nuxt dans votre IDE pendant que vous la développez."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

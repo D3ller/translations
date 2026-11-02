@@ -1,0 +1,14 @@
+{
+  "hash": "2c88bcdc39740d95",
+  "source": "**Usage:** You can now use auto imported composable in {0}, {1} and {2} files",
+  "text": "**Utilisation :** vous pouvez désormais utiliser le composable importé automatiquement dans les fichiers {0}, {1} et {2}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Utilisation :** vous pouvez désormais utiliser le composable importé automatiquement dans les fichiers {0}, {1} et {2}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

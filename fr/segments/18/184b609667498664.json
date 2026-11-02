@@ -1,0 +1,14 @@
+{
+  "hash": "184b609667498664",
+  "source": "In playgrounds and test fixtures on Nuxt 5, h3's auto-imported {0} is not available: import it from {1}.",
+  "text": "Dans les playgrounds et les fixtures de test sur Nuxt 5, le {0} de h3 importé automatiquement n'est pas disponible : importez-le depuis {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans les playgrounds et les fixtures de test sur Nuxt 5, le {0} de h3 importé automatiquement n'est pas disponible : importez-le depuis {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

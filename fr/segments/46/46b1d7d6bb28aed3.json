@@ -1,0 +1,14 @@
+{
+  "hash": "46b1d7d6bb28aed3",
+  "source": "{0}Strict checks{/0} are enabled by default in Nuxt when the {1} option is enabled to give you greater type safety.",
+  "text": "Les {0}vérifications strictes{/0} sont activées par défaut dans Nuxt lorsque l'option {1} est activée, afin de vous offrir une meilleure sécurité des types.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les {0}vérifications strictes{/0} sont activées par défaut dans Nuxt lorsque l'option {1} est activée, afin de vous offrir une meilleure sécurité des types."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

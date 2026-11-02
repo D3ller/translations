@@ -1,0 +1,14 @@
+{
+  "hash": "c92d9133b582811a",
+  "source": "A function that takes two Vue Router's route location objects as parameters: the next route {0} as the first, and the current route {1} as the second.",
+  "text": "Une fonction qui prend deux objets de localisation de route de Vue Router en paramètres : la prochaine route {0} en premier et la route actuelle {1} en second.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une fonction qui prend deux objets de localisation de route de Vue Router en paramètres : la prochaine route {0} en premier et la route actuelle {1} en second."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

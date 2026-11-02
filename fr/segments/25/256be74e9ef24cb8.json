@@ -1,0 +1,14 @@
+{
+  "hash": "256be74e9ef24cb8",
+  "source": "**{0} is no longer the server entry.** Nitro v2 rewrote it to a global pointing at the entry, but Nitro v3 emits the real value. Resolve assets from a path you control instead.",
+  "text": "**{0} n'est plus l'entrée du serveur.** Nitro v2 le réécrivait en une variable globale pointant vers l'entrée, mais Nitro v3 émet la valeur réelle. Résolvez plutôt les assets à partir d'un chemin que vous contrôlez.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0} n'est plus l'entrée du serveur.** Nitro v2 le réécrivait en une variable globale pointant vers l'entrée, mais Nitro v3 émet la valeur réelle. Résolvez plutôt les assets à partir d'un chemin que vous contrôlez."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

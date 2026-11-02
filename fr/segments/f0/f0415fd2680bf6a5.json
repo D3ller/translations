@@ -1,0 +1,14 @@
+{
+  "hash": "f0415fd2680bf6a5",
+  "source": "Fetch a route of the app in-process, with the path relative to {0} and the {1} and {2} headers forwarded unless {3} is set. It rejects on a server builder without an in-process fetch.",
+  "text": "Récupère une route de l'application en cours de processus, avec un chemin relatif à {0} et les en-têtes {1} et {2} transmis, sauf si {3} est défini. La promesse est rejetée sur un builder de serveur sans fetch en cours de processus.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Récupère une route de l'application en cours de processus, avec un chemin relatif à {0} et les en-têtes {1} et {2} transmis, sauf si {3} est défini. La promesse est rejetée sur un builder de serveur sans fetch en cours de processus."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "11d310275e31b865",
+  "source": "Delayed hydration can offer performance benefits, but it's essential to use it correctly:",
+  "text": "L'hydratation différée peut offrir des gains de performance, mais il est essentiel de l'utiliser correctement :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'hydratation différée peut offrir des gains de performance, mais il est essentiel de l'utiliser correctement :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

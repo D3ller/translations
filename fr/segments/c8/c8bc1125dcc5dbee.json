@@ -1,0 +1,14 @@
+{
+  "hash": "c8bc1125dcc5dbee",
+  "source": "{0} is deliberately not a bundler root. Nuxt points Vite's {1} at {2}, so a deploy target that resolves its configuration file (or the paths written inside it) from the bundler's root looks inside your app directory rather than at the root of your project. A target that reads the description resolves both correctly.",
+  "text": "{0} n'est volontairement pas une racine de bundler. Nuxt fait pointer le {1} de Vite vers {2} ; une cible de déploiement qui résout son fichier de configuration (ou les chemins qui y sont écrits) depuis la racine du bundler cherche donc dans votre répertoire d'application plutôt qu'à la racine de votre projet. Une cible qui lit la description résout les deux correctement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} n'est volontairement pas une racine de bundler. Nuxt fait pointer le {1} de Vite vers {2} ; une cible de déploiement qui résout son fichier de configuration (ou les chemins qui y sont écrits) depuis la racine du bundler cherche donc dans votre répertoire d'application plutôt qu'à la racine de votre projet. Une cible qui lit la description résout les deux correctement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

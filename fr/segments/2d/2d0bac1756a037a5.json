@@ -1,0 +1,14 @@
+{
+  "hash": "2d0bac1756a037a5",
+  "source": "If the page error is fixed and this is still reported, the failure is inside head rendering itself. Check any {0} tag getter that reads state which may not exist while the app is in an error state, and please report it with the cause shown in the diagnostic.",
+  "text": "Si l'erreur de page est corrigée et que ce diagnostic est toujours signalé, la défaillance se situe dans le rendu du head lui-même. Vérifiez tout getter de balise {0} qui lit un état pouvant ne pas exister lorsque l'application est en état d'erreur, et signalez le problème en indiquant la cause affichée dans le diagnostic.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si l'erreur de page est corrigée et que ce diagnostic est toujours signalé, la défaillance se situe dans le rendu du head lui-même. Vérifiez tout getter de balise {0} qui lit un état pouvant ne pas exister lorsque l'application est en état d'erreur, et signalez le problème en indiquant la cause affichée dans le diagnostic."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

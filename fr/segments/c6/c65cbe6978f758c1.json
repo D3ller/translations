@@ -1,0 +1,14 @@
+{
+  "hash": "c65cbe6978f758c1",
+  "source": "Capture and handle application-wide errors.",
+  "text": "Capturer et gérer les erreurs à l'échelle de l'application.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Capturer et gérer les erreurs à l'échelle de l'application."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

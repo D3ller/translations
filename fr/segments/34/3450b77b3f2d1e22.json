@@ -1,0 +1,14 @@
+{
+  "hash": "3450b77b3f2d1e22",
+  "source": "If not set, this environment variable will be added to your {0} automatically when running in development mode.",
+  "text": "Si elle n'est pas définie, cette variable d'environnement sera ajoutée automatiquement à votre {0} lors de l'exécution en mode développement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si elle n'est pas définie, cette variable d'environnement sera ajoutée automatiquement à votre {0} lors de l'exécution en mode développement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

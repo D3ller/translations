@@ -1,0 +1,14 @@
+{
+  "hash": "c99e4ca3039960b2",
+  "source": "You can now control which font formats are resolved via the new {0} option. This defaults to {1}.",
+  "text": "Vous pouvez désormais contrôler les formats de police résolus grâce à la nouvelle option {0}. Sa valeur par défaut est {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez désormais contrôler les formats de police résolus grâce à la nouvelle option {0}. Sa valeur par défaut est {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

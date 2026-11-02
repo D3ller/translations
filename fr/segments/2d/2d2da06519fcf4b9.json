@@ -1,0 +1,14 @@
+{
+  "hash": "2d2da06519fcf4b9",
+  "source": "Called after Nuxt initialization, when the Nuxt instance is ready to work.",
+  "text": "Appelé après l'initialisation de Nuxt, lorsque l'instance Nuxt est prête à fonctionner.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appelé après l'initialisation de Nuxt, lorsque l'instance Nuxt est prête à fonctionner."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

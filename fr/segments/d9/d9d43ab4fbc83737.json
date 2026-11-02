@@ -1,0 +1,14 @@
+{
+  "hash": "d9d43ab4fbc83737",
+  "source": "You can change this behavior by setting {0} to {1} (to disable hooking into these errors at all) or to {2} if you want to handle them yourself. If you want to handle chunk loading errors manually, you can check out the {3}the automatic implementation{/3} for ideas.",
+  "text": "Vous pouvez modifier ce comportement en définissant {0} sur {1} (pour désactiver complètement l'interception de ces erreurs) ou sur {2} si vous souhaitez les gérer vous-même. Si vous souhaitez gérer manuellement les erreurs de chargement des chunks, vous pouvez consulter {3}l'implémentation automatique{/3} pour vous inspirer.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez modifier ce comportement en définissant {0} sur {1} (pour désactiver complètement l'interception de ces erreurs) ou sur {2} si vous souhaitez les gérer vous-même. Si vous souhaitez gérer manuellement les erreurs de chargement des chunks, vous pouvez consulter {3}l'implémentation automatique{/3} pour vous inspirer."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

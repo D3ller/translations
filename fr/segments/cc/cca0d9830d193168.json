@@ -1,0 +1,14 @@
+{
+  "hash": "cca0d9830d193168",
+  "source": "{0} takes the same keys, but each variant is a function in your module code, which runs in the Nuxt process rather than in the server build. {1} is for {2}server code only{/2}, so don't import it from module code, even lazily.",
+  "text": "{0} accepte les mêmes clés, mais chaque variante est une fonction dans le code de votre module, qui s'exécute dans le processus Nuxt plutôt que dans le build du serveur. {1} est réservé au {2}code serveur uniquement{/2} ; ne l'importez donc pas depuis le code du module, même de façon paresseuse.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} accepte les mêmes clés, mais chaque variante est une fonction dans le code de votre module, qui s'exécute dans le processus Nuxt plutôt que dans le build du serveur. {1} est réservé au {2}code serveur uniquement{/2} ; ne l'importez donc pas depuis le code du module, même de façon paresseuse."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

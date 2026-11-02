@@ -1,0 +1,14 @@
+{
+  "hash": "b4ee499092a9c1fb",
+  "source": "apply the correct Nuxt context to our {0} call.",
+  "text": "appliquer le bon contexte Nuxt à notre appel {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "appliquer le bon contexte Nuxt à notre appel {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

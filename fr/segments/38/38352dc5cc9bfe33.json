@@ -1,0 +1,14 @@
+{
+  "hash": "38352dc5cc9bfe33",
+  "source": "Set a key with",
+  "text": "Définir une clé avec",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définir une clé avec"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

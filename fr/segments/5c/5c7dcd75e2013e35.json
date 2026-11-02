@@ -1,0 +1,14 @@
+{
+  "hash": "5c7dcd75e2013e35",
+  "source": "Use {0} only for code that needs an API only Nitro v3 offers. Using {1} will keep your code more portable in future.",
+  "text": "Utilisez {0} uniquement pour le code qui nécessite une API proposée uniquement par Nitro v3. Utiliser {1} rendra votre code plus portable à l'avenir.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utilisez {0} uniquement pour le code qui nécessite une API proposée uniquement par Nitro v3. Utiliser {1} rendra votre code plus portable à l'avenir."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

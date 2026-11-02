@@ -1,0 +1,14 @@
+{
+  "hash": "33f9411f0bf09894",
+  "source": "Each plugin can be a string (which can be an absolute or relative path to a file). If it ends with {0} or {1} then it will be automatically loaded only in the appropriate context. It can also be an object with {2} and {3} keys.",
+  "text": "Chaque plugin peut être une chaîne de caractères (un chemin absolu ou relatif vers un fichier). Si elle se termine par {0} ou {1}, le plugin sera automatiquement chargé uniquement dans le contexte approprié. Il peut aussi s'agir d'un objet avec les clés {2} et {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Chaque plugin peut être une chaîne de caractères (un chemin absolu ou relatif vers un fichier). Si elle se termine par {0} ou {1}, le plugin sera automatiquement chargé uniquement dans le contexte approprié. Il peut aussi s'agir d'un objet avec les clés {2} et {3}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

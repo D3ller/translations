@@ -1,0 +1,14 @@
+{
+  "hash": "809a21cf859d8b1d",
+  "source": "When importing a library that relies on browser APIs and has side effects, make sure the component importing it is only called client-side. Bundlers do not treeshake imports of modules containing side effects.",
+  "text": "Lorsque vous importez une bibliothèque qui dépend d'API du navigateur et a des effets de bord, assurez-vous que le composant qui l'importe n'est appelé que côté client. Les bundlers n'appliquent pas le tree-shaking aux imports de modules contenant des effets de bord.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque vous importez une bibliothèque qui dépend d'API du navigateur et a des effets de bord, assurez-vous que le composant qui l'importe n'est appelé que côté client. Les bundlers n'appliquent pas le tree-shaking aux imports de modules contenant des effets de bord."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "51bf536da5dbbf73",
+  "source": "Nuxt provides the <NuxtLayout> component to show layouts on pages and error pages.",
+  "text": "Nuxt fournit le composant <NuxtLayout> pour afficher les layouts sur les pages et les pages d'erreur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt fournit le composant <NuxtLayout> pour afficher les layouts sur les pages et les pages d'erreur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

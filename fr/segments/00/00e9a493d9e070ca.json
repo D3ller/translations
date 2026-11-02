@@ -1,0 +1,14 @@
+{
+  "hash": "00e9a493d9e070ca",
+  "source": "The {0} command creates a {1} directory in your application and generates types. This can be useful in a CI environment or as a {2} command in your {3}.",
+  "text": "La commande {0} crée un répertoire {1} dans votre application et génère les types. Cela peut être utile dans un environnement CI ou comme commande {2} dans votre {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La commande {0} crée un répertoire {1} dans votre application et génère les types. Cela peut être utile dans un environnement CI ou comme commande {2} dans votre {3}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

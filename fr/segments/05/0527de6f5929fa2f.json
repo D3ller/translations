@@ -1,0 +1,14 @@
+{
+  "hash": "0527de6f5929fa2f",
+  "source": "Where you previously used {0} to define a dynamic route parameter you now use {1}.",
+  "text": "Là où vous utilisiez auparavant {0} pour définir un paramètre de route dynamique, vous utilisez désormais {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Là où vous utilisiez auparavant {0} pour définir un paramètre de route dynamique, vous utilisez désormais {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

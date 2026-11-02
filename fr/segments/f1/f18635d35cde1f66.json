@@ -1,0 +1,14 @@
+{
+  "hash": "f18635d35cde1f66",
+  "source": "When extending from multiple layers, it's important to understand the override order. Layers with **higher priority** override layers with lower priority when they define the same files or components.",
+  "text": "Lorsque vous étendez plusieurs layers, il est important de comprendre l'ordre de surcharge. Les layers de **priorité plus élevée** remplacent ceux de priorité plus faible lorsqu'ils définissent les mêmes fichiers ou composants.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque vous étendez plusieurs layers, il est important de comprendre l'ordre de surcharge. Les layers de **priorité plus élevée** remplacent ceux de priorité plus faible lorsqu'ils définissent les mêmes fichiers ou composants."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

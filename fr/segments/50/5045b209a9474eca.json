@@ -1,0 +1,14 @@
+{
+  "hash": "5045b209a9474eca",
+  "source": "Name of the task to run",
+  "text": "Nom de la tâche à exécuter",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nom de la tâche à exécuter"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

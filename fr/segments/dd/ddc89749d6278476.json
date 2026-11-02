@@ -1,0 +1,14 @@
+{
+  "hash": "ddc89749d6278476",
+  "source": "Add explicit imports to your server code. Prefer {0}, which is what the auto-imports resolve to:",
+  "text": "Ajoutez des imports explicites à votre code serveur. Privilégiez {0}, vers lequel les imports automatiques sont résolus :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ajoutez des imports explicites à votre code serveur. Privilégiez {0}, vers lequel les imports automatiques sont résolus :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

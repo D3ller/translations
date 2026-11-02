@@ -1,0 +1,14 @@
+{
+  "hash": "0761f03760eac271",
+  "source": "Allows Nuxt app state to be restored from {0} when reloading the page after a chunk error or manual {1} call.",
+  "text": "Permet de restaurer l'état de l'application Nuxt depuis {0} lors du rechargement de la page après une erreur de chunk ou un appel manuel à {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Permet de restaurer l'état de l'application Nuxt depuis {0} lors du rechargement de la page après une erreur de chunk ou un appel manuel à {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

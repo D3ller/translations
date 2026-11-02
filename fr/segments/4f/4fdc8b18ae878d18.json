@@ -1,0 +1,14 @@
+{
+  "hash": "4fdc8b18ae878d18",
+  "source": "Restarts",
+  "text": "Redémarrages",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Redémarrages"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

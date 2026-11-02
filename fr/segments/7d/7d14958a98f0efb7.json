@@ -1,0 +1,14 @@
+{
+  "hash": "7d14958a98f0efb7",
+  "source": "Load {0} files into {1} before resolving configuration. Set to {2} when the environment has already been populated.",
+  "text": "Charge les fichiers {0} dans {1} avant de résoudre la configuration. Définissez la valeur à {2} lorsque l'environnement a déjà été renseigné.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Charge les fichiers {0} dans {1} avant de résoudre la configuration. Définissez la valeur à {2} lorsque l'environnement a déjà été renseigné."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

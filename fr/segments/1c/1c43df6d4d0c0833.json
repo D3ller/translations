@@ -1,0 +1,14 @@
+{
+  "hash": "1c43df6d4d0c0833",
+  "source": "{0} to clean up.",
+  "text": "{0} pour nettoyer.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} pour nettoyer."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

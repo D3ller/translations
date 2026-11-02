@@ -1,0 +1,14 @@
+{
+  "hash": "ac7c9efeb2fe2b2e",
+  "source": "This will throw a 401 error if the request doesn't come from a valid user session",
+  "text": "Cela lèvera une erreur 401 si la requête ne provient pas d'une session utilisateur valide",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela lèvera une erreur 401 si la requête ne provient pas d'une session utilisateur valide"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

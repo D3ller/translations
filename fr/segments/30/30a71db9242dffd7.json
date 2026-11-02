@@ -1,0 +1,14 @@
+{
+  "hash": "30a71db9242dffd7",
+  "source": "Client-side navigation *to* a route covered by a {0} route rule triggers a full document load instead, so the route is actually served without scripts rather than being rendered by the client-side router. Pages whose routes are known at build time to be covered by such a rule are also excluded from the client bundle entirely.",
+  "text": "Une navigation côté client *vers* une route couverte par une règle de route {0} déclenche à la place un chargement complet du document, de sorte que la route est réellement servie sans scripts plutôt que rendue par le routeur côté client. Les pages dont les routes sont connues au moment du build comme étant couvertes par une telle règle sont aussi entièrement exclues du bundle client.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une navigation côté client *vers* une route couverte par une règle de route {0} déclenche à la place un chargement complet du document, de sorte que la route est réellement servie sans scripts plutôt que rendue par le routeur côté client. Les pages dont les routes sont connues au moment du build comme étant couvertes par une telle règle sont aussi entièrement exclues du bundle client."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

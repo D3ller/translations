@@ -1,0 +1,14 @@
+{
+  "hash": "a2bec485d10fb317",
+  "source": "Note that {0} and {1} are for **actual code changes** (that might affect logic). For typo or document changes, use {2} or {3} instead:",
+  "text": "Notez que {0} et {1} sont réservés aux **modifications effectives du code** (susceptibles d'affecter la logique). Pour les fautes de frappe ou les modifications de documentation, utilisez plutôt {2} ou {3} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Notez que {0} et {1} sont réservés aux **modifications effectives du code** (susceptibles d'affecter la logique). Pour les fautes de frappe ou les modifications de documentation, utilisez plutôt {2} ou {3} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

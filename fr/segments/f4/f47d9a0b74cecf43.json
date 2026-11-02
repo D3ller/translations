@@ -1,0 +1,14 @@
+{
+  "hash": "f47d9a0b74cecf43",
+  "source": "nothing (a simple {0} or no return at all) - does not block navigation and will move to the next middleware function, if any, or complete the route navigation",
+  "text": "rien (un simple {0} ou aucun retour) - ne bloque pas la navigation et passe à la fonction middleware suivante, le cas échéant, ou termine la navigation vers la route",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "rien (un simple {0} ou aucun retour) - ne bloque pas la navigation et passe à la fonction middleware suivante, le cas échéant, ou termine la navigation vers la route"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

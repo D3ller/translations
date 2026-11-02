@@ -1,0 +1,14 @@
+{
+  "hash": "6a4edc8b19b6988a",
+  "source": "preloadRouteComponents allows you to manually preload individual pages in your Nuxt app.",
+  "text": "preloadRouteComponents vous permet de précharger manuellement des pages individuelles dans votre application Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "preloadRouteComponents vous permet de précharger manuellement des pages individuelles dans votre application Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "32dfd6d8b82de1bc",
+  "source": "To enable cross-origin prefetching, you can set the {0} option in your {1}. This will enable cross-origin prefetching using the {2}Speculation Rules API{/2}.",
+  "text": "Pour activer le préchargement cross-origin, vous pouvez définir l'option {0} dans votre {1}. Cela activera le préchargement cross-origin à l'aide de l'{2}API Speculation Rules{/2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour activer le préchargement cross-origin, vous pouvez définir l'option {0} dans votre {1}. Cela activera le préchargement cross-origin à l'aide de l'{2}API Speculation Rules{/2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

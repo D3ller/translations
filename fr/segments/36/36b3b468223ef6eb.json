@@ -1,0 +1,14 @@
+{
+  "hash": "36b3b468223ef6eb",
+  "source": "{0}: The component's internal name, as shown in Vue DevTools. It does not change the name used in templates (that comes from the component's file name). Default is {1}.",
+  "text": "{0} : le nom interne du composant, tel qu'affiché dans Vue DevTools. Il ne change pas le nom utilisé dans les templates (celui-ci provient du nom de fichier du composant). La valeur par défaut est {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : le nom interne du composant, tel qu'affiché dans Vue DevTools. Il ne change pas le nom utilisé dans les templates (celui-ci provient du nom de fichier du composant). La valeur par défaut est {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "312cd83c3c40b49c",
+  "source": "Set {0} value when you need more control over when the {1} component is re-rendered.",
+  "text": "Définissez la valeur {0} si vous avez besoin de plus de contrôle sur le moment où le composant {1} est rendu à nouveau.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définissez la valeur {0} si vous avez besoin de plus de contrôle sur le moment où le composant {1} est rendu à nouveau."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

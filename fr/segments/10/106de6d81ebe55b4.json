@@ -1,0 +1,14 @@
+{
+  "hash": "106de6d81ebe55b4",
+  "source": "{0} while a request is in flight. With {1}, it is also {2} when {3} is {4} and no cached data is available.",
+  "text": "{0} tant qu'une requête est en cours. Avec {1}, la valeur est aussi {2} lorsque {3} vaut {4} et qu'aucune donnée en cache n'est disponible.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} tant qu'une requête est en cours. Avec {1}, la valeur est aussi {2} lorsque {3} vaut {4} et qu'aucune donnée en cache n'est disponible."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

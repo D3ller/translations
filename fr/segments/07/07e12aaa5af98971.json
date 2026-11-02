@@ -1,0 +1,14 @@
+{
+  "hash": "07e12aaa5af98971",
+  "source": "**See**: {0}{1} directory documentation{/0}",
+  "text": "**Voir** : {0}{1} documentation du répertoire{/0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Voir** : {0}{1} documentation du répertoire{/0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "922abc7e58cca2cb",
+  "source": "This behavior can be changed by setting {0} to {1}, to indicate that given route should be replaced.",
+  "text": "Ce comportement peut être modifié en définissant {0} à {1}, afin d'indiquer que la route donnée doit être remplacée.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ce comportement peut être modifié en définissant {0} à {1}, afin d'indiquer que la route donnée doit être remplacée."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

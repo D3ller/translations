@@ -1,0 +1,14 @@
+{
+  "hash": "a4488d3b59645cc6",
+  "source": "Use lazy loading to import the handler. This is useful when you only want to load the handler on demand.",
+  "text": "Utilisez le chargement différé pour importer le handler. C'est utile lorsque vous souhaitez ne charger le handler qu'à la demande.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utilisez le chargement différé pour importer le handler. C'est utile lorsque vous souhaitez ne charger le handler qu'à la demande."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

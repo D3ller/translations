@@ -1,0 +1,14 @@
+{
+  "hash": "a9f9ae3d8de107a1",
+  "source": "In this case:",
+  "text": "Dans ce cas :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans ce cas :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

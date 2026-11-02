@@ -1,0 +1,14 @@
+{
+  "hash": "eeb5bf5bd20ced26",
+  "source": "Watch the video from Alexander Lichter to avoid using useFetch the wrong way",
+  "text": "Regardez la vidéo d'Alexander Lichter pour éviter d'utiliser useFetch de la mauvaise manière",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Regardez la vidéo d'Alexander Lichter pour éviter d'utiliser useFetch de la mauvaise manière"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

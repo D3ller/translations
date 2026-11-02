@@ -1,0 +1,14 @@
+{
+  "hash": "d3b1a9b3eebb0977",
+  "source": "{0} exists to provide agnostic utilities for server code that aren't tied to a particular server runtime. It is the second runtime surface of Nuxt, alongside {1} (also reachable as {2}), which is for the part of your application that also runs in the browser.",
+  "text": "{0} existe pour fournir des utilitaires agnostiques pour le code serveur, qui ne sont pas liés à un runtime serveur particulier. C'est la seconde surface d'exécution de Nuxt, à côté de {1} (également accessible via {2}), qui est destinée à la partie de votre application qui s'exécute aussi dans le navigateur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} existe pour fournir des utilitaires agnostiques pour le code serveur, qui ne sont pas liés à un runtime serveur particulier. C'est la seconde surface d'exécution de Nuxt, à côté de {1} (également accessible via {2}), qui est destinée à la partie de votre application qui s'exécute aussi dans le navigateur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

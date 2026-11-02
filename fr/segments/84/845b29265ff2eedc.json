@@ -1,0 +1,14 @@
+{
+  "hash": "845b29265ff2eedc",
+  "source": "Watch Vue School video about injecting components.",
+  "text": "Regardez la vidéo de Vue School sur l'injection de composants.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Regardez la vidéo de Vue School sur l'injection de composants."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

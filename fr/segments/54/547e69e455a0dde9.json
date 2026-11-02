@@ -1,0 +1,14 @@
+{
+  "hash": "547e69e455a0dde9",
+  "source": "Using a Nuxt Runtime Environment",
+  "text": "Utiliser un environnement d'exécution Nuxt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utiliser un environnement d'exécution Nuxt"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

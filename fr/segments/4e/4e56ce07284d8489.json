@@ -1,0 +1,14 @@
+{
+  "hash": "4e56ce07284d8489",
+  "source": "Layers Directory",
+  "text": "Répertoire layers",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Répertoire layers"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

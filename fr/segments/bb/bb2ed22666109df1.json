@@ -1,0 +1,14 @@
+{
+  "hash": "bb2ed22666109df1",
+  "source": "Access directories from all layers",
+  "text": "Accéder aux répertoires de tous les layers",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Accéder aux répertoires de tous les layers"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

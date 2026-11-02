@@ -1,0 +1,14 @@
+{
+  "hash": "0c59cbf224f39c22",
+  "source": "For automatic announcements of route/page changes, use {0} with the {1} component instead.",
+  "text": "Pour des annonces automatiques des changements de route ou de page, utilisez plutôt {0} avec le composant {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour des annonces automatiques des changements de route ou de page, utilisez plutôt {0} avec le composant {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

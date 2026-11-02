@@ -1,0 +1,14 @@
+{
+  "hash": "7dfb83622c07e0f4",
+  "source": "If you are using pages, you can take full control by setting {0} and then using the {1} component within the page.",
+  "text": "Si vous utilisez des pages, vous pouvez prendre le contrôle total en définissant {0}, puis en utilisant le composant {1} dans la page.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous utilisez des pages, vous pouvez prendre le contrôle total en définissant {0}, puis en utilisant le composant {1} dans la page."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

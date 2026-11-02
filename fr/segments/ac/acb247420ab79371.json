@@ -1,0 +1,14 @@
+{
+  "hash": "acb247420ab79371",
+  "source": "{0} - Payload extraction is disabled. The payload is always inlined in the HTML and no {1} files are generated.",
+  "text": "{0} - L'extraction du payload est désactivée. Le payload est toujours intégré au HTML et aucun fichier {1} n'est généré.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} - L'extraction du payload est désactivée. Le payload est toujours intégré au HTML et aucun fichier {1} n'est généré."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

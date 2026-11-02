@@ -1,0 +1,14 @@
+{
+  "hash": "6fc577be0318cf49",
+  "source": "To improve clarity within your IDE between the auto-imports from 'nitro' and 'vue', you can add a {0} with the following content:",
+  "text": "Pour améliorer la lisibilité dans votre IDE entre les imports automatiques de « nitro » et de « vue », vous pouvez ajouter un {0} avec le contenu suivant :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour améliorer la lisibilité dans votre IDE entre les imports automatiques de « nitro » et de « vue », vous pouvez ajouter un {0} avec le contenu suivant :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

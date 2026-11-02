@@ -1,0 +1,14 @@
+{
+  "hash": "bbb9de6ab6014ac1",
+  "source": "For details about each type and examples, see the {0}Middleware documentation{/0}.",
+  "text": "Pour plus de détails sur chaque type et pour des exemples, consultez la {0}documentation sur les middleware{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour plus de détails sur chaque type et pour des exemples, consultez la {0}documentation sur les middleware{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

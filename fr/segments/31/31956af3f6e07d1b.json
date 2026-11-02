@@ -1,0 +1,14 @@
+{
+  "hash": "31956af3f6e07d1b",
+  "source": "Make Your {0} Abortable",
+  "text": "Rendez votre {0} annulable",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Rendez votre {0} annulable"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

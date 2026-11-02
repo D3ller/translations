@@ -1,0 +1,14 @@
+{
+  "hash": "06bf2cb9fa9dd35f",
+  "source": "The deployable server itself is produced by the server builder, not by the app builder. With the default server builder, {0}Nitro{/0} bundles the app builder's outputs into the final {1}.",
+  "text": "Le serveur déployable lui-même est produit par le server builder, et non par l'app builder. Avec le server builder par défaut, {0}Nitro{/0} intègre les sorties de l'app builder dans le {1} final.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le serveur déployable lui-même est produit par le server builder, et non par l'app builder. Avec le server builder par défaut, {0}Nitro{/0} intègre les sorties de l'app builder dans le {1} final."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

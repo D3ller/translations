@@ -1,0 +1,14 @@
+{
+  "hash": "105814c217984bc8",
+  "source": "useAsyncData handler must be a function.",
+  "text": "Le gestionnaire de useAsyncData doit être une fonction.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le gestionnaire de useAsyncData doit être une fonction."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

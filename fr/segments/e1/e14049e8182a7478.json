@@ -1,0 +1,14 @@
+{
+  "hash": "e14049e8182a7478",
+  "source": "Alternatively, you can prerender your site with {0} (static single-page app). This will produce HTML pages with an empty {1} where your Vue app would normally be rendered. You will lose many SEO benefits of prerendering your site, so it is suggested instead to use {2} to wrap the portions of your site that cannot be server rendered (if any).",
+  "text": "Vous pouvez aussi prérendre votre site avec {0} (application monopage statique). Cela produit des pages HTML avec un {1} vide à l'endroit où votre application Vue serait normalement rendue. Vous perdrez de nombreux avantages SEO liés au prérendu de votre site, il est donc recommandé d'utiliser plutôt {2} pour envelopper les parties de votre site qui ne peuvent pas être rendues côté serveur (le cas échéant).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez aussi prérendre votre site avec {0} (application monopage statique). Cela produit des pages HTML avec un {1} vide à l'endroit où votre application Vue serait normalement rendue. Vous perdrez de nombreux avantages SEO liés au prérendu de votre site, il est donc recommandé d'utiliser plutôt {2} pour envelopper les parties de votre site qui ne peuvent pas être rendues côté serveur (le cas échéant)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

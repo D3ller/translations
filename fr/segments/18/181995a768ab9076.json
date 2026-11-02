@@ -1,0 +1,14 @@
+{
+  "hash": "181995a768ab9076",
+  "source": "**Types.** If you augment {0}, update it to the new module paths. See {1}Route Rule Types Move to {2}{/1}.",
+  "text": "**Types.** Si vous augmentez {0}, mettez-le à jour avec les nouveaux chemins de module. Consultez {1}Déplacement des types de règles de route vers {2}{/1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Types.** Si vous augmentez {0}, mettez-le à jour avec les nouveaux chemins de module. Consultez {1}Déplacement des types de règles de route vers {2}{/1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

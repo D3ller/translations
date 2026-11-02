@@ -1,0 +1,14 @@
+{
+  "hash": "f6602ee5b82253f1",
+  "source": "There is no switch for this: Nuxt 5 requires Vite 8. If you want to test Vite 8 compatibility on Nuxt 4 first, you can add a {0} resolution override in your {1}.",
+  "text": "Il n'existe pas d'option pour basculer : Nuxt 5 requiert Vite 8. Si vous souhaitez d'abord tester la compatibilité avec Vite 8 sur Nuxt 4, vous pouvez ajouter une surcharge de résolution {0} dans votre {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Il n'existe pas d'option pour basculer : Nuxt 5 requiert Vite 8. Si vous souhaitez d'abord tester la compatibilité avec Vite 8 sur Nuxt 4, vous pouvez ajouter une surcharge de résolution {0} dans votre {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

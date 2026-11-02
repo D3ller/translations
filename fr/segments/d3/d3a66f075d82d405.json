@@ -1,0 +1,14 @@
+{
+  "hash": "d3a66f075d82d405",
+  "source": "Types can be auto-imported the same way. Put app-only types in {0}, server-only types in {1}, and types shared between both in {2}.",
+  "text": "Les types peuvent être importés automatiquement de la même manière. Placez les types propres à l'application dans {0}, les types propres au serveur dans {1} et les types partagés entre les deux dans {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les types peuvent être importés automatiquement de la même manière. Placez les types propres à l'application dans {0}, les types propres au serveur dans {1} et les types partagés entre les deux dans {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

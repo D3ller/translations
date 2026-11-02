@@ -1,0 +1,14 @@
+{
+  "hash": "723fef78ac509796",
+  "source": "Modifier flags: {0} to write the route under {1} instead of {2}",
+  "text": "Indicateurs de modification : {0} pour écrire la route sous {1} au lieu de {2}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Indicateurs de modification : {0} pour écrire la route sous {1} au lieu de {2}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

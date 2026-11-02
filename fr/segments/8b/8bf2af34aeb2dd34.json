@@ -1,0 +1,14 @@
+{
+  "hash": "8bf2af34aeb2dd34",
+  "source": "Update your custom {0} to remove any additional parsing of {1}:",
+  "text": "Mettez à jour votre {0} personnalisé pour supprimer toute analyse supplémentaire de {1} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mettez à jour votre {0} personnalisé pour supprimer toute analyse supplémentaire de {1} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "dd6c2d394589ce04",
+  "source": "Sets the {0}{1} {2} attribute{/0}. By default, the path is considered the {3}\"default path\"{/3}.",
+  "text": "Définit {0}l'attribut {1} {2}{/0}. Par défaut, le chemin est considéré comme le {3}« chemin par défaut »{/3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définit {0}l'attribut {1} {2}{/0}. Par défaut, le chemin est considéré comme le {3}« chemin par défaut »{/3}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

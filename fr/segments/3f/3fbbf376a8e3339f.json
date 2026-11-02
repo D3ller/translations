@@ -1,0 +1,14 @@
+{
+  "hash": "3fbbf376a8e3339f",
+  "source": "published modules are distributed on npm - you can see a list of some community modules on {0}the Nuxt website{/0}.",
+  "text": "les modules publiés sont distribués sur npm - vous pouvez consulter une liste de modules de la communauté sur {0}le site web de Nuxt{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "les modules publiés sont distribués sur npm - vous pouvez consulter une liste de modules de la communauté sur {0}le site web de Nuxt{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

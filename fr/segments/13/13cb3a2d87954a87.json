@@ -1,0 +1,14 @@
+{
+  "hash": "13cb3a2d87954a87",
+  "source": "**Avoid {0} on interactive components:** If a component requires user interaction, it should not be set to never hydrate.",
+  "text": "**Évitez {0} sur les composants interactifs :** si un composant nécessite une interaction de l'utilisateur, il ne doit pas être configuré pour ne jamais s'hydrater.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Évitez {0} sur les composants interactifs :** si un composant nécessite une interaction de l'utilisateur, il ne doit pas être configuré pour ne jamais s'hydrater."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

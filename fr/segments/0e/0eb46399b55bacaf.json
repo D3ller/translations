@@ -1,0 +1,14 @@
+{
+  "hash": "0eb46399b55bacaf",
+  "source": "If your {0} function does not support abort signals, you can implement your own abort logic using the {1} provided.",
+  "text": "Si votre fonction {0} ne prend pas en charge les signaux d'annulation, vous pouvez implémenter votre propre logique d'annulation à l'aide du {1} fourni.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si votre fonction {0} ne prend pas en charge les signaux d'annulation, vous pouvez implémenter votre propre logique d'annulation à l'aide du {1} fourni."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

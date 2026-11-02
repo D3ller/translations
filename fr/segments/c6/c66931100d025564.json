@@ -1,0 +1,14 @@
+{
+  "hash": "c66931100d025564",
+  "source": "To keep a response mutation, move it into a plugin, or opt the route out of streaming:",
+  "text": "Pour conserver une modification de la réponse, déplacez-la dans un plugin, ou excluez la route du streaming :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour conserver une modification de la réponse, déplacez-la dans un plugin, ou excluez la route du streaming :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "2be98db7638528fa",
+  "source": "Use of {0} is not supported outside of the {1} directory.",
+  "text": "L'utilisation de {0} n'est pas prise en charge en dehors du répertoire {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'utilisation de {0} n'est pas prise en charge en dehors du répertoire {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

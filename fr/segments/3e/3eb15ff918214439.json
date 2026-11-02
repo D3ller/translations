@@ -1,0 +1,14 @@
+{
+  "hash": "3eb15ff918214439",
+  "source": "Nuxt directly auto-imports files created in defined directories:",
+  "text": "Nuxt importe automatiquement les fichiers créés dans des répertoires définis :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt importe automatiquement les fichiers créés dans des répertoires définis :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

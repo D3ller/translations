@@ -1,0 +1,14 @@
+{
+  "hash": "2e64905bf6abbc57",
+  "source": "Pass {0} to always stop it and start in its place, or {1} to never do so. Choosing \"Start anyway\" at the prompt, or passing a different {2}, runs a second preview alongside it instead.",
+  "text": "Passez {0} pour toujours l'arrêter et démarrer à sa place, ou {1} pour ne jamais le faire. Choisir « Start anyway » à l'invite, ou passer un {2} différent, lance à la place une seconde prévisualisation en parallèle.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Passez {0} pour toujours l'arrêter et démarrer à sa place, ou {1} pour ne jamais le faire. Choisir « Start anyway » à l'invite, ou passer un {2} différent, lance à la place une seconde prévisualisation en parallèle."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

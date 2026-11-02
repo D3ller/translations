@@ -1,0 +1,14 @@
+{
+  "hash": "22bb49f0071ed4b4",
+  "source": "The example below shows how implementing Optimistic Updates can be achieved using useNuxtData.",
+  "text": "L'exemple ci-dessous montre comment implémenter des mises à jour optimistes avec useNuxtData.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'exemple ci-dessous montre comment implémenter des mises à jour optimistes avec useNuxtData."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

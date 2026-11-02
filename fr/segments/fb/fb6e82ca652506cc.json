@@ -1,0 +1,14 @@
+{
+  "hash": "fb6e82ca652506cc",
+  "source": "the {0} client manifest",
+  "text": "le manifeste client {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "le manifeste client {0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

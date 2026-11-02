@@ -1,0 +1,14 @@
+{
+  "hash": "02d129b2d52c7c63",
+  "source": "Third-party Libraries with Side Effects",
+  "text": "Bibliothèques tierces avec effets de bord",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bibliothèques tierces avec effets de bord"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

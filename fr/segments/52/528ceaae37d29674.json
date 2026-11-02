@@ -1,0 +1,14 @@
+{
+  "hash": "528ceaae37d29674",
+  "source": "If you spot a typo or want to rephrase a sentence, you can click on the **Edit this page** link located on the right aside in the **Community** section.",
+  "text": "Si vous repérez une faute de frappe ou souhaitez reformuler une phrase, vous pouvez cliquer sur le lien **Edit this page** situé dans la colonne de droite, dans la section **Community**.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous repérez une faute de frappe ou souhaitez reformuler une phrase, vous pouvez cliquer sur le lien **Edit this page** situé dans la colonne de droite, dans la section **Community**."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

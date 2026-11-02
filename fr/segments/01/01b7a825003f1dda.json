@@ -1,0 +1,14 @@
+{
+  "hash": "01b7a825003f1dda",
+  "source": "If you want to disable auto-importing composables and utilities, you can set {0} to {1} in the {2} file.",
+  "text": "Si vous souhaitez désactiver l'import automatique des composables et des utilitaires, vous pouvez définir {0} à {1} dans le fichier {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous souhaitez désactiver l'import automatique des composables et des utilitaires, vous pouvez définir {0} à {1} dans le fichier {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

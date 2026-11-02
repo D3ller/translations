@@ -1,0 +1,14 @@
+{
+  "hash": "d53164b62c79ad19",
+  "source": "Pages are Vue components and can have any {0}valid extension{/0} that Nuxt supports (by default {1}, {2}, {3}, {4}, {5} or {6}).",
+  "text": "Les pages sont des composants Vue et peuvent avoir n'importe quelle {0}extension valide{/0} prise en charge par Nuxt (par défaut {1}, {2}, {3}, {4}, {5} ou {6}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les pages sont des composants Vue et peuvent avoir n'importe quelle {0}extension valide{/0} prise en charge par Nuxt (par défaut {1}, {2}, {3}, {4}, {5} ou {6})."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

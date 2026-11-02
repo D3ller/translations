@@ -1,0 +1,14 @@
+{
+  "hash": "f067a32edc0c1ed9",
+  "source": "If you want to auto-import components from an npm package, you can use {0} in a {1}local module{/1} to register them.",
+  "text": "Si vous souhaitez importer automatiquement des composants depuis un package npm, vous pouvez utiliser {0} dans un {1}module local{/1} pour les enregistrer.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous souhaitez importer automatiquement des composants depuis un package npm, vous pouvez utiliser {0} dans un {1}module local{/1} pour les enregistrer."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

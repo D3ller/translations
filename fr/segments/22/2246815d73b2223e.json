@@ -1,0 +1,14 @@
+{
+  "hash": "2246815d73b2223e",
+  "source": "You can also use an object to configure {0}:",
+  "text": "Vous pouvez aussi utiliser un objet pour configurer {0} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez aussi utiliser un objet pour configurer {0} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

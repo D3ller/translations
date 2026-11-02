@@ -1,0 +1,14 @@
+{
+  "hash": "5fde71bf17b0a4df",
+  "source": "Learn more about how to structure your layouts using the {0} directory.",
+  "text": "Découvrez comment structurer vos layouts avec le répertoire {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Découvrez comment structurer vos layouts avec le répertoire {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

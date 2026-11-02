@@ -1,0 +1,14 @@
+{
+  "hash": "b828b2f47c5fc06c",
+  "source": "Write tool and project names using their official capitalization, even when the npm package name is lowercase (for example, *PostCSS* rather than *postcss*, *Vite* rather than *vite*, *ESLint* rather than *eslint*). Use the lowercase npm package name in backticks only when referring to the package itself, such as in installation instructions.",
+  "text": "Écrivez les noms d'outils et de projets avec leur capitalisation officielle, même lorsque le nom du package npm est en minuscules (par exemple, *PostCSS* plutôt que *postcss*, *Vite* plutôt que *vite*, *ESLint* plutôt que *eslint*). Utilisez le nom du package npm en minuscules entre backticks uniquement lorsque vous faites référence au package lui-même, par exemple dans les instructions d'installation.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Écrivez les noms d'outils et de projets avec leur capitalisation officielle, même lorsque le nom du package npm est en minuscules (par exemple, *PostCSS* plutôt que *postcss*, *Vite* plutôt que *vite*, *ESLint* plutôt que *eslint*). Utilisez le nom du package npm en minuscules entre backticks uniquement lorsque vous faites référence au package lui-même, par exemple dans les instructions d'installation."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "6eac90e76754701a",
+  "source": "The session travels in the cookie, so it is limited to what a browser will accept. Writing a session that serialises to more than 4096 bytes throws; keep large data server-side and reference it from the session by id.",
+  "text": "La session transite dans le cookie, elle est donc limitée à ce qu'un navigateur acceptera. Écrire une session qui se sérialise en plus de 4096 octets lève une erreur ; conservez les données volumineuses côté serveur et référencez-les depuis la session par leur identifiant.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La session transite dans le cookie, elle est donc limitée à ce qu'un navigateur acceptera. Écrire une session qui se sérialise en plus de 4096 octets lève une erreur ; conservez les données volumineuses côté serveur et référencez-les depuis la session par leur identifiant."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

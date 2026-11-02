@@ -1,0 +1,14 @@
+{
+  "hash": "557b2e1ce6a75756",
+  "source": "For typo fixes, it's recommended to batch multiple typo fixes into one pull request to maintain a cleaner commit history.",
+  "text": "Pour les corrections de fautes de frappe, il est recommandé de regrouper plusieurs corrections dans une seule pull request afin de conserver un historique de commits plus propre.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour les corrections de fautes de frappe, il est recommandé de regrouper plusieurs corrections dans une seule pull request afin de conserver un historique de commits plus propre."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

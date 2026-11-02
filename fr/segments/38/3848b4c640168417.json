@@ -1,0 +1,14 @@
+{
+  "hash": "3848b4c640168417",
+  "source": "{0} and {1} cannot be used together. {2} will be ignored.",
+  "text": "{0} et {1} ne peuvent pas être utilisés ensemble. {2} sera ignoré.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} et {1} ne peuvent pas être utilisés ensemble. {2} sera ignoré."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

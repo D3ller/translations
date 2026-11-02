@@ -1,0 +1,14 @@
+{
+  "hash": "612637ec9f5d7e69",
+  "source": "Directory to resolve packages from and to install into.",
+  "text": "Répertoire à partir duquel résoudre les packages et dans lequel les installer.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Répertoire à partir duquel résoudre les packages et dans lequel les installer."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

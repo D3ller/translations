@@ -1,0 +1,14 @@
+{
+  "hash": "f3e62e055fbff0a9",
+  "source": "Hybrid rendering allows different caching rules per route using Route Rules and decides how the server should respond to a new request on a given URL:",
+  "text": "Le rendu hybride permet de définir des règles de cache différentes par route grâce aux Route Rules et décide comment le serveur doit répondre à une nouvelle requête sur une URL donnée :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le rendu hybride permet de définir des règles de cache différentes par route grâce aux Route Rules et décide comment le serveur doit répondre à une nouvelle requête sur une URL donnée :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

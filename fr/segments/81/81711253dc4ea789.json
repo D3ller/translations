@@ -1,0 +1,14 @@
+{
+  "hash": "81711253dc4ea789",
+  "source": "With this option on, a side-effect-only import ({0}) that TypeScript cannot resolve to a module is now a type error, whereas it was previously ignored. This only affects type-checking ({1} and your editor), not runtime behavior.",
+  "text": "Avec cette option activée, un import à effet de bord uniquement ({0}) que TypeScript ne parvient pas à résoudre en module est désormais une erreur de type, alors qu'il était auparavant ignoré. Cela n'affecte que la vérification des types ({1} et votre éditeur), pas le comportement à l'exécution.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Avec cette option activée, un import à effet de bord uniquement ({0}) que TypeScript ne parvient pas à résoudre en module est désormais une erreur de type, alors qu'il était auparavant ignoré. Cela n'affecte que la vérification des types ({1} et votre éditeur), pas le comportement à l'exécution."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

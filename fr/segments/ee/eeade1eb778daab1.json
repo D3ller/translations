@@ -1,0 +1,14 @@
+{
+  "hash": "eeade1eb778daab1",
+  "source": "{0}: Overrides the consola log level for the server subprocess. (use NUXT\\_TEST\\_LOG\\_LEVEL environment variable to override)",
+  "text": "{0} : remplace le niveau de log de consola pour le sous-processus du serveur. (utilisez la variable d'environnement NUXT\\_TEST\\_LOG\\_LEVEL pour le remplacer)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : remplace le niveau de log de consola pour le sous-processus du serveur. (utilisez la variable d'environnement NUXT\\_TEST\\_LOG\\_LEVEL pour le remplacer)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

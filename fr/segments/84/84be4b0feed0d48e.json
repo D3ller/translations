@@ -1,0 +1,14 @@
+{
+  "hash": "84be4b0feed0d48e",
+  "source": "Options for configuring PostCSS plugins.",
+  "text": "Options de configuration des plugins PostCSS.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Options de configuration des plugins PostCSS."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

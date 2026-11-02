@@ -1,0 +1,14 @@
+{
+  "hash": "4ff77095e4dd80c2",
+  "source": "Search and add modules to your Nuxt application with the command line.",
+  "text": "Recherchez et ajoutez des modules à votre application Nuxt en ligne de commande.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Recherchez et ajoutez des modules à votre application Nuxt en ligne de commande."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

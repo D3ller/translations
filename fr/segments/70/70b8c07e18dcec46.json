@@ -1,0 +1,14 @@
+{
+  "hash": "70b8c07e18dcec46",
+  "source": "Default: *None* ({0} when the resolved font data does not specify one)",
+  "text": "Valeur par défaut : *None* ({0} lorsque les données de police résolues n'en spécifient pas)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Valeur par défaut : *None* ({0} lorsque les données de police résolues n'en spécifient pas)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "6138f6bf547f6f05",
+  "source": "If your module's own aliases already resolve to the right code on both Nitro majors, register the same file for both keys ({0}) or set {1}.",
+  "text": "Si les alias propres à votre module résolvent déjà vers le bon code sur les deux versions majeures de Nitro, enregistrez le même fichier pour les deux clés ({0}) ou définissez {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si les alias propres à votre module résolvent déjà vers le bon code sur les deux versions majeures de Nitro, enregistrez le même fichier pour les deux clés ({0}) ou définissez {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "a0befb2e0c52f16c",
+  "source": "Nuxt uses Vue.js and adds features such as component auto-imports, file-based routing and composables for an SSR-friendly usage.",
+  "text": "Nuxt utilise Vue.js et ajoute des fonctionnalités telles que l'import automatique des composants, le routage basé sur les fichiers et des composables adaptés au SSR.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt utilise Vue.js et ajoute des fonctionnalités telles que l'import automatique des composants, le routage basé sur les fichiers et des composables adaptés au SSR."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

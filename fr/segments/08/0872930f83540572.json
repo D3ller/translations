@@ -1,0 +1,14 @@
+{
+  "hash": "0872930f83540572",
+  "source": "Automatic on navigation",
+  "text": "Automatique lors de la navigation",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Automatique lors de la navigation"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

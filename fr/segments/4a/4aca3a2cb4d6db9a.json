@@ -1,0 +1,14 @@
+{
+  "hash": "4aca3a2cb4d6db9a",
+  "source": "Navigate around your app with the keyboard alone. Tabbing from the skip link into {0} after a couple of navigations will surface most focus problems quickly.",
+  "text": "Naviguez dans votre application uniquement au clavier. Passer avec la touche Tab du lien d'évitement à {0} après quelques navigations révélera rapidement la plupart des problèmes de focus.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Naviguez dans votre application uniquement au clavier. Passer avec la touche Tab du lien d'évitement à {0} après quelques navigations révélera rapidement la plupart des problèmes de focus."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

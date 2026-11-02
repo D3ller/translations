@@ -1,0 +1,14 @@
+{
+  "hash": "011e24ae60da110f",
+  "source": "**Payload errors** for {0} requests still return JSON.",
+  "text": "**Les erreurs de payload (charge utile)** pour les requêtes {0} renvoient toujours du JSON.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Les erreurs de payload (charge utile)** pour les requêtes {0} renvoient toujours du JSON."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

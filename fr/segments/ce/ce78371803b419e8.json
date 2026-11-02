@@ -1,0 +1,14 @@
+{
+  "hash": "ce78371803b419e8",
+  "source": "Hybrid mode for static + serverless sites.",
+  "text": "Mode hybride pour les sites statiques et serverless.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mode hybride pour les sites statiques et serverless."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

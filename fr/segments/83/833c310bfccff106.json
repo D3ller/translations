@@ -1,0 +1,14 @@
+{
+  "hash": "833c310bfccff106",
+  "source": "If you enable {0} on an older version of Vue, Nuxt warns and disables it.",
+  "text": "Si vous activez {0} avec une version plus ancienne de Vue, Nuxt affiche un avertissement et le désactive.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous activez {0} avec une version plus ancienne de Vue, Nuxt affiche un avertissement et le désactive."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

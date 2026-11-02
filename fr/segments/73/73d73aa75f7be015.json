@@ -1,0 +1,14 @@
+{
+  "hash": "73d73aa75f7be015",
+  "source": "AI-Assisted Contributions",
+  "text": "Contributions assistées par l'IA",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Contributions assistées par l'IA"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

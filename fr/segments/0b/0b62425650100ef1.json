@@ -1,0 +1,14 @@
+{
+  "hash": "0b62425650100ef1",
+  "source": "**{0}** is the specifier your server entry imports {1} from.",
+  "text": "**{0}** est le spécificateur depuis lequel votre entrée serveur importe {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** est le spécificateur depuis lequel votre entrée serveur importe {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

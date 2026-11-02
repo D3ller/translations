@@ -1,0 +1,14 @@
+{
+  "hash": "5ed04f4d26088092",
+  "source": "Set layout for specific route",
+  "text": "Définir le layout pour une route spécifique",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définir le layout pour une route spécifique"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

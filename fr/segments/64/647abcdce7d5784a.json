@@ -1,0 +1,14 @@
+{
+  "hash": "647abcdce7d5784a",
+  "source": "Q1 2026 (estimated)",
+  "text": "T1 2026 (estimation)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "T1 2026 (estimation)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

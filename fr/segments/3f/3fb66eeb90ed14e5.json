@@ -1,0 +1,14 @@
+{
+  "hash": "3fb66eeb90ed14e5",
+  "source": "Lazy hydration is enabled by default, but you can disable this feature:",
+  "text": "L'hydratation différée est activée par défaut, mais vous pouvez désactiver cette fonctionnalité :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'hydratation différée est activée par défaut, mais vous pouvez désactiver cette fonctionnalité :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

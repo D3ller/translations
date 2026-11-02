@@ -1,0 +1,14 @@
+{
+  "hash": "7bdb8f108c452786",
+  "source": "If a branch is not specified, this will clone {0}.",
+  "text": "Si aucune branche n'est spécifiée, {0} sera cloné.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si aucune branche n'est spécifiée, {0} sera cloné."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

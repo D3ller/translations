@@ -1,0 +1,14 @@
+{
+  "hash": "3b268a6ad0ed789a",
+  "source": "Check the {0}schema source code{/0} for all available hooks.",
+  "text": "Consultez le {0}code source du schéma{/0} pour connaître tous les hooks disponibles.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Consultez le {0}code source du schéma{/0} pour connaître tous les hooks disponibles."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

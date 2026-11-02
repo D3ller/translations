@@ -1,0 +1,14 @@
+{
+  "hash": "6ccdb264f5fa4ab0",
+  "source": "If you need to remain on Nuxt 2, but want to benefit from Nuxt 3 features in Nuxt 2, you can alternatively check out {0}how to get started with Bridge{/0}.",
+  "text": "Si vous devez rester sur Nuxt 2 tout en profitant des fonctionnalités de Nuxt 3, vous pouvez consulter {0}comment démarrer avec Bridge{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous devez rester sur Nuxt 2 tout en profitant des fonctionnalités de Nuxt 3, vous pouvez consulter {0}comment démarrer avec Bridge{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

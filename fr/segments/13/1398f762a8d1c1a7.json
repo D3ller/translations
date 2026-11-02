@@ -1,0 +1,14 @@
+{
+  "hash": "1398f762a8d1c1a7",
+  "source": "or you can use SFC for redirecting to a mock component",
+  "text": "ou vous pouvez utiliser un SFC pour rediriger vers un composant mock",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "ou vous pouvez utiliser un SFC pour rediriger vers un composant mock"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

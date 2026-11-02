@@ -1,0 +1,14 @@
+{
+  "hash": "47945a4a054dec29",
+  "source": "Event Handlers",
+  "text": "Gestionnaires d'événements",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Gestionnaires d'événements"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

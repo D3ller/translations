@@ -1,0 +1,14 @@
+{
+  "hash": "ee7c2e848ac888ac",
+  "source": "True when running in a test context.",
+  "text": "Vaut true lors de l'exécution dans un contexte de test.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vaut true lors de l'exécution dans un contexte de test."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

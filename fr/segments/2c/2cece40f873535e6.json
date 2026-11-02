@@ -1,0 +1,14 @@
+{
+  "hash": "2cece40f873535e6",
+  "source": "the new Nuxt default {0} is {1} by default, and most things are resolved from there.",
+  "text": "le nouveau {0} par défaut de Nuxt est {1} par défaut, et la plupart des éléments sont résolus à partir de là.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "le nouveau {0} par défaut de Nuxt est {1} par défaut, et la plupart des éléments sont résolus à partir de là."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

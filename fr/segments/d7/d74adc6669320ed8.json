@@ -1,0 +1,14 @@
+{
+  "hash": "d74adc6669320ed8",
+  "source": "An extra URL or path to resolve packages from, such as {0}. Useful when your own package ships the dependency as a peer dependency.",
+  "text": "URL ou chemin supplémentaire à partir duquel résoudre les packages, comme {0}. Utile lorsque votre propre package fournit la dépendance en tant que peer dependency.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "URL ou chemin supplémentaire à partir duquel résoudre les packages, comme {0}. Utile lorsque votre propre package fournit la dépendance en tant que peer dependency."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

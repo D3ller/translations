@@ -1,0 +1,14 @@
+{
+  "hash": "3f27904166ab4b71",
+  "source": "If you want more control over when the {0} component is re-rendered (for example, for transitions), you can either pass a string or function via the {1} prop, or you can define a {2} value via {3}:",
+  "text": "Si vous souhaitez davantage de contrôle sur le moment où le composant {0} est re-rendu (par exemple, pour les transitions), vous pouvez soit passer une chaîne de caractères ou une fonction via la prop {1}, soit définir une valeur {2} via {3} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous souhaitez davantage de contrôle sur le moment où le composant {0} est re-rendu (par exemple, pour les transitions), vous pouvez soit passer une chaîne de caractères ou une fonction via la prop {1}, soit définir une valeur {2} via {3} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

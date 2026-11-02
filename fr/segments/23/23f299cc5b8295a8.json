@@ -1,0 +1,14 @@
+{
+  "hash": "23f299cc5b8295a8",
+  "source": "Add the Nuxt MCP server configuration",
+  "text": "Ajoutez la configuration du serveur MCP de Nuxt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ajoutez la configuration du serveur MCP de Nuxt"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "e40a98614c87fb08",
+  "source": "The call returns four things:",
+  "text": "L'appel renvoie quatre éléments :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'appel renvoie quatre éléments :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

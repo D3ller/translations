@@ -1,0 +1,14 @@
+{
+  "hash": "3372071c02baea61",
+  "source": "These changes have been made to improve memory usage and increase consistency with loading states across calls of {0}.",
+  "text": "Ces changements ont été apportés pour améliorer l'utilisation de la mémoire et renforcer la cohérence des états de chargement entre les appels à {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ces changements ont été apportés pour améliorer l'utilisation de la mémoire et renforcer la cohérence des états de chargement entre les appels à {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

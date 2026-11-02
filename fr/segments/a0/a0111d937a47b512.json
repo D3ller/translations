@@ -1,0 +1,14 @@
+{
+  "hash": "a0111d937a47b512",
+  "source": "Admin dashboard renders only on client-side",
+  "text": "Le tableau de bord d'administration n'est rendu que côté client",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le tableau de bord d'administration n'est rendu que côté client"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

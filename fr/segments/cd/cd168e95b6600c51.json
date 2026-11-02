@@ -1,0 +1,14 @@
+{
+  "hash": "cd168e95b6600c51",
+  "source": "**Backward compatibility**: Existing projects that extend {0} will continue to work as before.",
+  "text": "**Rétrocompatibilité** : les projets existants qui étendent {0} continueront de fonctionner comme avant.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Rétrocompatibilité** : les projets existants qui étendent {0} continueront de fonctionner comme avant."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

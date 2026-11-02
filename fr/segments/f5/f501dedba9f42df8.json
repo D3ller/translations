@@ -1,0 +1,14 @@
+{
+  "hash": "f501dedba9f42df8",
+  "source": "Externalizes {0}, {1} and {2} when building, so that server dependencies importing them share the same copy.",
+  "text": "Externalise {0}, {1} et {2} lors du build, afin que les dépendances serveur qui les importent partagent la même copie.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Externalise {0}, {1} et {2} lors du build, afin que les dépendances serveur qui les importent partagent la même copie."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

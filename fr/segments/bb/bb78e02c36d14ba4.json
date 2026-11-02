@@ -1,0 +1,14 @@
+{
+  "hash": "bb78e02c36d14ba4",
+  "source": "A template passes a function, a class or a class instance (such as {0}) as a prop to a server component, or in the {1} or {2} of a {3}. Props of a server component are serialized as JSON and sent to the server to render it, so these values cannot reach the component intact.",
+  "text": "Un template transmet une fonction, une classe ou une instance de classe (comme {0}) en tant que prop à un composant serveur, ou dans {1} ou {2} d'un {3}. Les props d'un composant serveur sont sérialisées en JSON et envoyées au serveur pour effectuer son rendu : ces valeurs ne peuvent donc pas parvenir intactes au composant.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un template transmet une fonction, une classe ou une instance de classe (comme {0}) en tant que prop à un composant serveur, ou dans {1} ou {2} d'un {3}. Les props d'un composant serveur sont sérialisées en JSON et envoyées au serveur pour effectuer son rendu : ces valeurs ne peuvent donc pas parvenir intactes au composant."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

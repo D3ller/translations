@@ -1,0 +1,14 @@
+{
+  "hash": "33d923fa03898013",
+  "source": "{0}. Payloads are always rendered and parsed as JSON, with support for revivers.",
+  "text": "{0}. Les payloads sont toujours rendus et analysés en JSON, avec prise en charge des revivers.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}. Les payloads sont toujours rendus et analysés en JSON, avec prise en charge des revivers."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "b4819dce2520049d",
+  "source": "{0} received a non-function initial value. The initializer must be a function so that it only runs once, on the server, and its result can be serialized into the payload for hydration.",
+  "text": "{0} a reçu une valeur initiale qui n'est pas une fonction. L'initialiseur doit être une fonction afin de ne s'exécuter qu'une seule fois, sur le serveur, et que son résultat puisse être sérialisé dans le payload (charge utile) pour l'hydratation.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} a reçu une valeur initiale qui n'est pas une fonction. L'initialiseur doit être une fonction afin de ne s'exécuter qu'une seule fois, sur le serveur, et que son résultat puisse être sérialisé dans le payload (charge utile) pour l'hydratation."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

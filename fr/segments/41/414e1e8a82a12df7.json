@@ -1,0 +1,14 @@
+{
+  "hash": "414e1e8a82a12df7",
+  "source": "Once the HTML document has been downloaded, the browser interprets this and Vue.js takes control of the document. The same JavaScript code that once ran on the server runs on the client (browser) **again** in the background now enabling interactivity (hence **Universal rendering**) by binding its listeners to the HTML. This is called **Hydration**. When hydration is complete, the page can enjoy benefits such as dynamic interfaces and page transitions.",
+  "text": "Une fois le document HTML téléchargé, le navigateur l'interprète et Vue.js prend le contrôle du document. Le même code JavaScript qui s'est exécuté sur le serveur s'exécute **à nouveau** côté client (navigateur) en arrière-plan, ce qui active l'interactivité (d'où le **rendu universel**) en attachant ses écouteurs au HTML. C'est ce qu'on appelle l'**hydratation**. Une fois l'hydratation terminée, la page peut profiter d'avantages tels que des interfaces dynamiques et des transitions de page.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une fois le document HTML téléchargé, le navigateur l'interprète et Vue.js prend le contrôle du document. Le même code JavaScript qui s'est exécuté sur le serveur s'exécute **à nouveau** côté client (navigateur) en arrière-plan, ce qui active l'interactivité (d'où le **rendu universel**) en attachant ses écouteurs au HTML. C'est ce qu'on appelle l'**hydratation**. Une fois l'hydratation terminée, la page peut profiter d'avantages tels que des interfaces dynamiques et des transitions de page."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

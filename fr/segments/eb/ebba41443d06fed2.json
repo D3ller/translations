@@ -1,0 +1,14 @@
+{
+  "hash": "ebba41443d06fed2",
+  "source": "IntersectionObserver options",
+  "text": "Options d'IntersectionObserver",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Options d'IntersectionObserver"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

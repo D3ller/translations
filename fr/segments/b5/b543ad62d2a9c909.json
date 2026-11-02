@@ -1,0 +1,14 @@
+{
+  "hash": "b543ad62d2a9c909",
+  "source": "Disable modules from the layer by setting their config key to false",
+  "text": "Désactive les modules du layer en définissant leur clé de configuration à false",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Désactive les modules du layer en définissant leur clé de configuration à false"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

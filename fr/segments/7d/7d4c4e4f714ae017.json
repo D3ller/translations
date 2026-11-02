@@ -1,0 +1,14 @@
+{
+  "hash": "7d4c4e4f714ae017",
+  "source": "If this import is disabled.",
+  "text": "Indique si cet import est désactivé.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Indique si cet import est désactivé."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

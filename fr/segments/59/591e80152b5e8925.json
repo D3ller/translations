@@ -1,0 +1,14 @@
+{
+  "hash": "591e80152b5e8925",
+  "source": "Using Lifecycle Hooks for Module Installation and Upgrade",
+  "text": "Utiliser les hooks de cycle de vie pour l'installation et la mise à niveau du module",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utiliser les hooks de cycle de vie pour l'installation et la mise à niveau du module"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

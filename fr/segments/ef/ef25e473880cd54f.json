@@ -1,0 +1,14 @@
+{
+  "hash": "ef25e473880cd54f",
+  "source": "Local layers, layers in {0}, and layers installed as packages are unaffected.",
+  "text": "Les layers locaux, les layers dans {0} et les layers installés en tant que packages ne sont pas concernés.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les layers locaux, les layers dans {0} et les layers installés en tant que packages ne sont pas concernés."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

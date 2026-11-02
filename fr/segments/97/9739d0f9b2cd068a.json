@@ -1,0 +1,14 @@
+{
+  "hash": "9739d0f9b2cd068a",
+  "source": "Previously, Nuxt would inline all CSS, including global styles, and remove {0} elements to separate CSS files. Now, Nuxt will only do this for Vue components (which previously produced separate chunks of CSS). We think this is a better balance of reducing separate network requests (just as before, there will not be separate requests for individual {1} files per-page or per-component on the initial load), as well as allowing caching of a single global CSS file and reducing the document download size of the initial request.",
+  "text": "Auparavant, Nuxt intégrait en inline tout le CSS, y compris les styles globaux, et supprimait les éléments {0} vers des fichiers CSS distincts. Désormais, Nuxt ne le fait que pour les composants Vue (qui produisaient auparavant des chunks de CSS distincts). Nous pensons que c'est un meilleur équilibre : cela réduit les requêtes réseau distinctes (comme avant, il n'y aura pas de requêtes séparées pour chaque fichier {1} par page ou par composant lors du chargement initial), tout en permettant la mise en cache d'un seul fichier CSS global et en réduisant la taille de téléchargement du document de la requête initiale.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Auparavant, Nuxt intégrait en inline tout le CSS, y compris les styles globaux, et supprimait les éléments {0} vers des fichiers CSS distincts. Désormais, Nuxt ne le fait que pour les composants Vue (qui produisaient auparavant des chunks de CSS distincts). Nous pensons que c'est un meilleur équilibre : cela réduit les requêtes réseau distinctes (comme avant, il n'y aura pas de requêtes séparées pour chaque fichier {1} par page ou par composant lors du chargement initial), tout en permettant la mise en cache d'un seul fichier CSS global et en réduisant la taille de téléchargement du document de la requête initiale."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

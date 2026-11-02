@@ -1,0 +1,14 @@
+{
+  "hash": "18b3df80ec55add8",
+  "source": "Connector Name: {0}",
+  "text": "Nom du connecteur : {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nom du connecteur : {0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

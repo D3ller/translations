@@ -1,0 +1,14 @@
+{
+  "hash": "367631e3f87f4c7b",
+  "source": "Vapor Mode needs a version of Vue that includes both Vapor and its interop fixes. While Vue 3.6 is in pre-release, install a release candidate (or newer) that contains those fixes:",
+  "text": "Vapor Mode nécessite une version de Vue qui inclut à la fois Vapor et ses correctifs d'interopérabilité. Tant que Vue 3.6 est en préversion, installez une version candidate (ou plus récente) qui contient ces correctifs :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vapor Mode nécessite une version de Vue qui inclut à la fois Vapor et ses correctifs d'interopérabilité. Tant que Vue 3.6 est en préversion, installez une version candidate (ou plus récente) qui contient ces correctifs :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

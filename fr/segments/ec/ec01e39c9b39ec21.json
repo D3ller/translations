@@ -1,0 +1,14 @@
+{
+  "hash": "ec01e39c9b39ec21",
+  "source": "Move any {0} option to {1}:",
+  "text": "Déplacez toute option {0} vers {1} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Déplacez toute option {0} vers {1} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

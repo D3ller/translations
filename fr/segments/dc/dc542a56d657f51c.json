@@ -1,0 +1,14 @@
+{
+  "hash": "dc542a56d657f51c",
+  "source": "{0}: Sets the urgency for screen reader announcements: {1} (disable the announcement), {2} (waits for silence), or {3} (interrupts immediately). (default {4}).",
+  "text": "{0} : définit l'urgence des annonces pour les lecteurs d'écran : {1} (désactive l'annonce), {2} (attend le silence) ou {3} (interrompt immédiatement). (par défaut {4}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : définit l'urgence des annonces pour les lecteurs d'écran : {1} (désactive l'annonce), {2} (attend le silence) ou {3} (interrompt immédiatement). (par défaut {4})."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

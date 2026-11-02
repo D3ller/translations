@@ -1,0 +1,14 @@
+{
+  "hash": "6ab0d01cdf34ba1b",
+  "source": "precomputed dependency data",
+  "text": "les données de dépendances précalculées",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "les données de dépendances précalculées"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

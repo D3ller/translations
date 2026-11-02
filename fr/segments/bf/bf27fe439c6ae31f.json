@@ -1,0 +1,14 @@
+{
+  "hash": "bf27fe439c6ae31f",
+  "source": "Add {0} to your {1}, using today's date so you opt in to the current defaults:",
+  "text": "Ajoutez {0} à votre {1}, en utilisant la date du jour afin d'opter pour les comportements par défaut actuels :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ajoutez {0} à votre {1}, en utilisant la date du jour afin d'opter pour les comportements par défaut actuels :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

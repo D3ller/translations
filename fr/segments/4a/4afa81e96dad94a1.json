@@ -1,0 +1,14 @@
+{
+  "hash": "4afa81e96dad94a1",
+  "source": "Validity in days for a generated self-signed certificate",
+  "text": "Durée de validité en jours d'un certificat auto-signé généré",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Durée de validité en jours d'un certificat auto-signé généré"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "8159ca128562d009",
+  "source": "Please don't feel embarrassed about asking a question that you think is easy - we've all been there! ❤️",
+  "text": "N'hésitez pas à poser une question que vous pensez simple, sans gêne : nous sommes tous passés par là ! ❤️",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "N'hésitez pas à poser une question que vous pensez simple, sans gêne : nous sommes tous passés par là ! ❤️"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

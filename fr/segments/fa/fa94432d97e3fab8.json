@@ -1,0 +1,14 @@
+{
+  "hash": "fa94432d97e3fab8",
+  "source": "Watch a video from Daniel Roe explaining type-safe routing in Nuxt",
+  "text": "Regardez une vidéo de Daniel Roe expliquant le routage type-safe dans Nuxt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Regardez une vidéo de Daniel Roe expliquant le routage type-safe dans Nuxt"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

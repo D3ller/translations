@@ -1,0 +1,14 @@
+{
+  "hash": "cd7205a0fabac584",
+  "source": "An absolute URL to serve the public folder from (production-only).",
+  "text": "Une URL absolue depuis laquelle servir le dossier public (production uniquement).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une URL absolue depuis laquelle servir le dossier public (production uniquement)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "1aa95f31889bae24",
+  "source": "This design decision was made to ensure compatibility across various deployment environments, some of which may not have a traditional file system available, such as serverless platforms or edge networks like Cloudflare Workers.",
+  "text": "Cette décision de conception a été prise pour garantir la compatibilité avec différents environnements de déploiement, dont certains peuvent ne pas disposer d'un système de fichiers traditionnel, comme les plateformes serverless ou les réseaux edge tels que Cloudflare Workers.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cette décision de conception a été prise pour garantir la compatibilité avec différents environnements de déploiement, dont certains peuvent ne pas disposer d'un système de fichiers traditionnel, comme les plateformes serverless ou les réseaux edge tels que Cloudflare Workers."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

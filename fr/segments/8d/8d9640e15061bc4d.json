@@ -1,0 +1,14 @@
+{
+  "hash": "8d9640e15061bc4d",
+  "source": "Called when a route navigation begins (before resolution) or when the page key changes. May fire without the page component's {0} re-running if the page is reused (e.g. with a static {1} in {2}).",
+  "text": "Appelé lorsqu'une navigation de route commence (avant la résolution) ou lorsque la clé de la page change. Peut se déclencher sans que le {0} du composant de la page soit réexécuté si la page est réutilisée (par exemple avec un {1} statique dans {2}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appelé lorsqu'une navigation de route commence (avant la résolution) ou lorsque la clé de la page change. Peut se déclencher sans que le {0} du composant de la page soit réexécuté si la page est réutilisée (par exemple avec un {1} statique dans {2})."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

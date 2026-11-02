@@ -1,0 +1,14 @@
+{
+  "hash": "e6c83374a59280c5",
+  "source": "If you want to access the route using Composition API, there is a global {0} function that will allow you to access the route just like {1} in the Options API.",
+  "text": "Si vous souhaitez accéder à la route avec la Composition API, une fonction globale {0} vous permet d'accéder à la route comme {1} dans l'Options API.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous souhaitez accéder à la route avec la Composition API, une fonction globale {0} vous permet d'accéder à la route comme {1} dans l'Options API."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

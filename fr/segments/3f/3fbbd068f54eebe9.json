@@ -1,0 +1,14 @@
+{
+  "hash": "3fbbd068f54eebe9",
+  "source": "{0} is used to refetch all or specific {1} instances, including those from {2}, {3}, {4}, and {5}.",
+  "text": "{0} permet de récupérer à nouveau toutes les instances de {1}, ou certaines d'entre elles, y compris celles issues de {2}, {3}, {4} et {5}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} permet de récupérer à nouveau toutes les instances de {1}, ou certaines d'entre elles, y compris celles issues de {2}, {3}, {4} et {5}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "4d252220df31a726",
+  "source": "Learn how Nuxt works with in-depth guides.",
+  "text": "Découvrez le fonctionnement de Nuxt grâce à des guides détaillés.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Découvrez le fonctionnement de Nuxt grâce à des guides détaillés."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

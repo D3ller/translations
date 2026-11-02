@@ -1,0 +1,14 @@
+{
+  "hash": "bf68ef665afb0ff7",
+  "source": "The nightly release channel allows using Nuxt built directly from the latest commits to the repository.",
+  "text": "Le canal de versions nightly permet d'utiliser Nuxt compilé directement à partir des derniers commits du dépôt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le canal de versions nightly permet d'utiliser Nuxt compilé directement à partir des derniers commits du dépôt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

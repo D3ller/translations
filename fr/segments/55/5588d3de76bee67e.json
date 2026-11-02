@@ -1,0 +1,14 @@
+{
+  "hash": "5588d3de76bee67e",
+  "source": "Once You've Made a Pull Request",
+  "text": "Une fois la pull request créée",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une fois la pull request créée"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

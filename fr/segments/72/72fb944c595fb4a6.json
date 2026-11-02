@@ -1,0 +1,14 @@
+{
+  "hash": "72fb944c595fb4a6",
+  "source": "Vue will now generate component names that match the Nuxt pattern for component naming.",
+  "text": "Vue générera désormais des noms de composants qui correspondent au modèle de nommage des composants de Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vue générera désormais des noms de composants qui correspondent au modèle de nommage des composants de Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

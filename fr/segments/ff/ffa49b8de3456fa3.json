@@ -1,0 +1,14 @@
+{
+  "hash": "ffa49b8de3456fa3",
+  "source": "If you read the JSON body of a failed page request, such as {0} from {1}, read the response status instead. To keep structured error data, move it into a server route.",
+  "text": "Si vous lisez le corps JSON d'une requête de page en échec, comme {0} depuis {1}, lisez plutôt le statut de la réponse. Pour conserver des données d'erreur structurées, déplacez-les dans une route serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous lisez le corps JSON d'une requête de page en échec, comme {0} depuis {1}, lisez plutôt le statut de la réponse. Pour conserver des données d'erreur structurées, déplacez-les dans une route serveur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

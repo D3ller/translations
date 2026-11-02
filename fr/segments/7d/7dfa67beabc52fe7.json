@@ -1,0 +1,14 @@
+{
+  "hash": "7dfa67beabc52fe7",
+  "source": "By default, Nuxt does not enable {0} and {1}. You can enable them in the nuxt.config file or by setting the {2} and {3} properties on {4}. If you want to define a specific page, you can set it in {5} in the page component.",
+  "text": "Par défaut, Nuxt n'active pas {0} et {1}. Vous pouvez les activer dans le fichier nuxt.config ou en définissant les propriétés {2} et {3} sur {4}. Si vous souhaitez configurer une page en particulier, vous pouvez le faire dans {5} au sein du composant de page.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par défaut, Nuxt n'active pas {0} et {1}. Vous pouvez les activer dans le fichier nuxt.config ou en définissant les propriétés {2} et {3} sur {4}. Si vous souhaitez configurer une page en particulier, vous pouvez le faire dans {5} au sein du composant de page."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

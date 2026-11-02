@@ -1,0 +1,14 @@
+{
+  "hash": "50d7f908e5290a45",
+  "source": "For clarity, we recommend that the layout's filename matches its name:",
+  "text": "Par souci de clarté, nous recommandons que le nom de fichier du layout corresponde à son nom :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par souci de clarté, nous recommandons que le nom de fichier du layout corresponde à son nom :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "96ffb5ee73ea1e94",
+  "source": "Both {0}navigateTo{/0} and {1}abortNavigation{/1} are globally available helper functions that you can use inside {2}.",
+  "text": "{0}navigateTo{/0} et {1}abortNavigation{/1} sont des fonctions helper disponibles globalement que vous pouvez utiliser dans {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}navigateTo{/0} et {1}abortNavigation{/1} sont des fonctions helper disponibles globalement que vous pouvez utiliser dans {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

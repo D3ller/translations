@@ -1,0 +1,14 @@
+{
+  "hash": "9f29e0e4c2ae2fd4",
+  "source": "\"local\" modules exist within a Nuxt project, either {0}inlined in Nuxt config{/0} or within {1}the {2} directory{/1}.",
+  "text": "les modules « locaux » existent au sein d'un projet Nuxt, soit {0}en ligne dans la configuration de Nuxt{/0}, soit dans {1}le répertoire {2}{/1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "les modules « locaux » existent au sein d'un projet Nuxt, soit {0}en ligne dans la configuration de Nuxt{/0}, soit dans {1}le répertoire {2}{/1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "d718494af39e7915",
+  "source": "a Tailwind v4 {0} theme variable declared with {1} that no utility uses, which Tailwind drops before Nuxt Fonts sees it",
+  "text": "une variable de thème Tailwind v4 {0} déclarée avec {1} qu'aucun utilitaire n'utilise, et que Tailwind supprime avant que Nuxt Fonts ne la voie",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "une variable de thème Tailwind v4 {0} déclarée avec {1} qu'aucun utilitaire n'utilise, et que Tailwind supprime avant que Nuxt Fonts ne la voie"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

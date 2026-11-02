@@ -1,0 +1,14 @@
+{
+  "hash": "01bdddff4dfc1492",
+  "source": "A factory function to create a custom useFetch composable with pre-defined default options.",
+  "text": "Une fonction factory pour créer un composable useFetch personnalisé avec des options par défaut prédéfinies.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une fonction factory pour créer un composable useFetch personnalisé avec des options par défaut prédéfinies."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

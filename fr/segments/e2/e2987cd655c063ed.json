@@ -1,0 +1,14 @@
+{
+  "hash": "e2987cd655c063ed",
+  "source": "an object containing Nuxt and Vue versions",
+  "text": "un objet contenant les versions de Nuxt et de Vue",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "un objet contenant les versions de Nuxt et de Vue"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

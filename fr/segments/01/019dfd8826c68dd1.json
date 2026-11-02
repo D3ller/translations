@@ -1,0 +1,14 @@
+{
+  "hash": "019dfd8826c68dd1",
+  "source": "One of the modules in the list is {0}, the set of {1}server imports{/1} that app and module code uses on the server. The types always come from the {2} package, but the implementation may come from whichever server builder is running.",
+  "text": "L'un des modules de la liste est {0}, l'ensemble des {1}imports serveur{/1} que le code de l'application et des modules utilise côté serveur. Les types proviennent toujours du package {2}, mais l'implémentation peut provenir du server builder en cours d'exécution.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'un des modules de la liste est {0}, l'ensemble des {1}imports serveur{/1} que le code de l'application et des modules utilise côté serveur. Les types proviennent toujours du package {2}, mais l'implémentation peut provenir du server builder en cours d'exécution."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

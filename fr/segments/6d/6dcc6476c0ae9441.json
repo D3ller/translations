@@ -1,0 +1,14 @@
+{
+  "hash": "6dcc6476c0ae9441",
+  "source": "If true, Nuxt will look for the {0} file in the {1} directory of one of your layers, or a default Nuxt image will be used.",
+  "text": "S'il vaut true, Nuxt recherchera le fichier {0} dans le répertoire {1} de l'un de vos layers, sinon une image Nuxt par défaut sera utilisée.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "S'il vaut true, Nuxt recherchera le fichier {0} dans le répertoire {1} de l'un de vos layers, sinon une image Nuxt par défaut sera utilisée."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

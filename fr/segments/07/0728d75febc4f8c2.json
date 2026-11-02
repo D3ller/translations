@@ -1,0 +1,14 @@
+{
+  "hash": "0728d75febc4f8c2",
+  "source": "the Nitro v2 auto-import names, and nested {0} files",
+  "text": "les noms d'import automatique de Nitro v2, et les fichiers {0} imbriqués",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "les noms d'import automatique de Nitro v2, et les fichiers {0} imbriqués"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

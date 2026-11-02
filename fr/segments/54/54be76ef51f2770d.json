@@ -1,0 +1,14 @@
+{
+  "hash": "54be76ef51f2770d",
+  "source": "the actual {0} cookie will be updated",
+  "text": "le cookie {0} réel sera mis à jour",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "le cookie {0} réel sera mis à jour"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

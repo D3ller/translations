@@ -1,0 +1,14 @@
+{
+  "hash": "b60e8f5932a8934a",
+  "source": "Provider-specific font family options",
+  "text": "Options de famille de polices spécifiques au fournisseur",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Options de famille de polices spécifiques au fournisseur"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

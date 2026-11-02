@@ -1,0 +1,14 @@
+{
+  "hash": "4e6c71146ed4b46e",
+  "source": "The curl command sends an HTTP request to your running Nuxt dev server.",
+  "text": "La commande curl envoie une requête HTTP à votre serveur de développement Nuxt en cours d'exécution.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La commande curl envoie une requête HTTP à votre serveur de développement Nuxt en cours d'exécution."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

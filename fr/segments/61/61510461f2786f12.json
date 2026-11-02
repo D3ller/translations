@@ -1,0 +1,14 @@
+{
+  "hash": "61510461f2786f12",
+  "source": "The file is added to Nitro's virtual file system and can be imported in the server code from 'my-server-module.mjs'",
+  "text": "Le fichier est ajouté au système de fichiers virtuel de Nitro et peut être importé dans le code serveur depuis 'my-server-module.mjs'",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le fichier est ajouté au système de fichiers virtuel de Nitro et peut être importé dans le code serveur depuis 'my-server-module.mjs'"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

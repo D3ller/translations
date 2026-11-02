@@ -1,0 +1,14 @@
+{
+  "hash": "1480af1f74a2b65c",
+  "source": "{0} is now enabled by default, so page components are named after their route rather than after their filename. {1} and {2} are named {3} and {4} instead of both being named {5}.",
+  "text": "{0} est désormais activé par défaut : les composants de page sont nommés d'après leur route plutôt que d'après leur nom de fichier. {1} et {2} s'appellent {3} et {4} au lieu de porter tous deux le nom {5}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est désormais activé par défaut : les composants de page sont nommés d'après leur route plutôt que d'après leur nom de fichier. {1} et {2} s'appellent {3} et {4} au lieu de porter tous deux le nom {5}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

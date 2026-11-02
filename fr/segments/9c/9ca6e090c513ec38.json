@@ -1,0 +1,14 @@
+{
+  "hash": "9ca6e090c513ec38",
+  "source": "These defaults have no negative impact on SEO and are considered {0}best practice{/0}.",
+  "text": "Ces valeurs par défaut n'ont aucun impact négatif sur le SEO et sont considérées comme une {0}bonne pratique{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ces valeurs par défaut n'ont aucun impact négatif sur le SEO et sont considérées comme une {0}bonne pratique{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

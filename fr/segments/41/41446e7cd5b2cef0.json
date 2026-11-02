@@ -1,0 +1,14 @@
+{
+  "hash": "41446e7cd5b2cef0",
+  "source": "The assets/ directory is used to add all the website's assets that the build tool will process.",
+  "text": "Le répertoire assets/ sert à ajouter tous les assets du site web que l'outil de build va traiter.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le répertoire assets/ sert à ajouter tous les assets du site web que l'outil de build va traiter."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

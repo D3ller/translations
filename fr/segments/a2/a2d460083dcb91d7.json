@@ -1,0 +1,14 @@
+{
+  "hash": "a2d460083dcb91d7",
+  "source": "This will be stringified and passed from server to client",
+  "text": "Cela sera sérialisé en chaîne de caractères et transmis du serveur au client",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela sera sérialisé en chaîne de caractères et transmis du serveur au client"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

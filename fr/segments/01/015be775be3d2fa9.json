@@ -1,0 +1,14 @@
+{
+  "hash": "015be775be3d2fa9",
+  "source": "The App Builder Interface",
+  "text": "L'interface de l'app builder",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'interface de l'app builder"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

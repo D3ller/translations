@@ -1,0 +1,14 @@
+{
+  "hash": "4d90dd8a2e97980c",
+  "source": "Consider multiple layers defining the same component:",
+  "text": "Prenons plusieurs layers qui définissent le même composant :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Prenons plusieurs layers qui définissent le même composant :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

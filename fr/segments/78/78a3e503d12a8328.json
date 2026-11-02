@@ -1,0 +1,14 @@
+{
+  "hash": "78a3e503d12a8328",
+  "source": "You can interact with the playground like with any Nuxt application.",
+  "text": "Vous pouvez interagir avec le playground comme avec n'importe quelle application Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez interagir avec le playground comme avec n'importe quelle application Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

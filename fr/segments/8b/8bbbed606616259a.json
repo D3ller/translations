@@ -1,0 +1,14 @@
+{
+  "hash": "8bbbed606616259a",
+  "source": "Many composables and utilities, both built-in and user-made, may require access to the Nuxt instance. This doesn't exist everywhere on your application, because a fresh instance is created on every request.",
+  "text": "De nombreux composables et utilitaires, qu'ils soient intégrés ou créés par l'utilisateur, peuvent nécessiter l'accès à l'instance de Nuxt. Elle n'existe pas partout dans votre application, car une nouvelle instance est créée à chaque requête.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "De nombreux composables et utilitaires, qu'ils soient intégrés ou créés par l'utilisateur, peuvent nécessiter l'accès à l'instance de Nuxt. Elle n'existe pas partout dans votre application, car une nouvelle instance est créée à chaque requête."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

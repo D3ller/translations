@@ -1,0 +1,14 @@
+{
+  "hash": "389a32f50396acbb",
+  "source": "If an island needs information about the current route, pass it in explicitly — either as props from the parent component, or via the {0} prop on {1} (read inside the island from {2}).",
+  "text": "Si une île a besoin d'informations sur la route actuelle, transmettez-les explicitement, soit sous forme de props depuis le composant parent, soit via la prop {0} de {1} (à lire dans l'île depuis {2}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si une île a besoin d'informations sur la route actuelle, transmettez-les explicitement, soit sous forme de props depuis le composant parent, soit via la prop {0} de {1} (à lire dans l'île depuis {2})."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

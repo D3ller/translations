@@ -1,0 +1,14 @@
+{
+  "hash": "1f062f73ac472b6d",
+  "source": "preload only the matching font faces",
+  "text": "précharger uniquement les polices correspondantes",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "précharger uniquement les polices correspondantes"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

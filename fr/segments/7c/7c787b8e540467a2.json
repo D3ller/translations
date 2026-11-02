@@ -1,0 +1,14 @@
+{
+  "hash": "7c787b8e540467a2",
+  "source": "Server lifecycle",
+  "text": "Cycle de vie côté serveur",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cycle de vie côté serveur"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

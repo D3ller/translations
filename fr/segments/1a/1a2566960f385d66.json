@@ -1,0 +1,14 @@
+{
+  "hash": "1a2566960f385d66",
+  "source": "Using {0}Vitest projects{/0}, you have fine-grained control over which tests run in which environment:",
+  "text": "Avec les {0}projets Vitest{/0}, vous contrôlez finement quels tests s'exécutent dans quel environnement :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Avec les {0}projets Vitest{/0}, vous contrôlez finement quels tests s'exécutent dans quel environnement :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

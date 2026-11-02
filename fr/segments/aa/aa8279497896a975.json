@@ -1,0 +1,14 @@
+{
+  "hash": "aa8279497896a975",
+  "source": "Add the offending library to {0} in {1} so the build pipeline can process its {2} call.",
+  "text": "Ajoutez la bibliothèque en cause à {0} dans {1} afin que le pipeline de build puisse traiter son appel à {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ajoutez la bibliothèque en cause à {0} dans {1} afin que le pipeline de build puisse traiter son appel à {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

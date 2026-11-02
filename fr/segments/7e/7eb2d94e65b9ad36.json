@@ -1,0 +1,14 @@
+{
+  "hash": "7eb2d94e65b9ad36",
+  "source": "Any components in the directories configured here can be used throughout your pages, layouts (and other components) without needing to explicitly import them.",
+  "text": "Tous les composants présents dans les répertoires configurés ici peuvent être utilisés dans l'ensemble de vos pages, layouts (et autres composants) sans avoir à les importer explicitement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Tous les composants présents dans les répertoires configurés ici peuvent être utilisés dans l'ensemble de vos pages, layouts (et autres composants) sans avoir à les importer explicitement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

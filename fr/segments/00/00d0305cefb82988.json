@@ -1,0 +1,14 @@
+{
+  "hash": "00d0305cefb82988",
+  "source": "{0}: (optional) HTTP method to match (e.g., 'GET', 'POST')",
+  "text": "{0} : (optionnel) méthode HTTP à faire correspondre (par ex. 'GET', 'POST')",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : (optionnel) méthode HTTP à faire correspondre (par ex. 'GET', 'POST')"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "644eaf90e5d9f832",
+  "source": "**Experimental feature, only available when {0}enabled in your nuxt.config file{/0}**Enable/disable View Transitions for the current page. If set to true, Nuxt will not apply the transition if the users browser matches {1} (recommended). If set to {2}, Nuxt will always apply the transition.",
+  "text": "**Fonctionnalité expérimentale, disponible uniquement lorsqu'elle est {0}activée dans votre fichier nuxt.config{/0}** Active/désactive les View Transitions pour la page actuelle. Si la valeur est true, Nuxt n'applique pas la transition si le navigateur de l'utilisateur correspond à {1} (recommandé). Si la valeur est {2}, Nuxt applique toujours la transition.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Fonctionnalité expérimentale, disponible uniquement lorsqu'elle est {0}activée dans votre fichier nuxt.config{/0}** Active/désactive les View Transitions pour la page actuelle. Si la valeur est true, Nuxt n'applique pas la transition si le navigateur de l'utilisateur correspond à {1} (recommandé). Si la valeur est {2}, Nuxt applique toujours la transition."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

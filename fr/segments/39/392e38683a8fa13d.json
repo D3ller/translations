@@ -1,0 +1,14 @@
+{
+  "hash": "392e38683a8fa13d",
+  "source": "By default, Nuxt 4 generates a {0} which includes a project reference covering the {1} folder which ensures accurate typings.",
+  "text": "Par défaut, Nuxt 4 génère un {0} qui inclut une référence de projet couvrant le dossier {1}, ce qui garantit des typages précis.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par défaut, Nuxt 4 génère un {0} qui inclut une référence de projet couvrant le dossier {1}, ce qui garantit des typages précis."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "ff21a163556b1a48",
+  "source": "Server Storage Is Renamed to KV",
+  "text": "Le stockage serveur est renommé en KV",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le stockage serveur est renommé en KV"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

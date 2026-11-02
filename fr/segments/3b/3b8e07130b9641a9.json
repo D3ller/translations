@@ -1,0 +1,14 @@
+{
+  "hash": "3b8e07130b9641a9",
+  "source": "Required for lifecycle hooks",
+  "text": "Requis pour les lifecycle hooks",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Requis pour les lifecycle hooks"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

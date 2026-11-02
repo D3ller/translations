@@ -1,0 +1,14 @@
+{
+  "hash": "57101ad1483c91db",
+  "source": "Because of those, it is opt-in, and {0} enables it. Setting it explicitly selects either typing whatever the compatibility version, so you can adopt it before moving to Nuxt 5, or move to Nuxt 5 with {1} and adopt it separately.",
+  "text": "En raison de ces changements, cette option est facultative, et {0} l'active. La définir explicitement sélectionne l'un ou l'autre typage quelle que soit la version de compatibilité, ce qui vous permet de l'adopter avant de passer à Nuxt 5, ou de passer à Nuxt 5 avec {1} et de l'adopter séparément.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En raison de ces changements, cette option est facultative, et {0} l'active. La définir explicitement sélectionne l'un ou l'autre typage quelle que soit la version de compatibilité, ce qui vous permet de l'adopter avant de passer à Nuxt 5, ou de passer à Nuxt 5 avec {1} et de l'adopter séparément."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

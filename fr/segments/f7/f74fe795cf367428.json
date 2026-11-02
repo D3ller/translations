@@ -1,0 +1,14 @@
+{
+  "hash": "f74fe795cf367428",
+  "source": "If you are a module author, you can check out {0}more information about module compatibility{/0} and {1}our module author guide{/1}.",
+  "text": "Si vous êtes auteur de module, vous pouvez consulter {0}plus d'informations sur la compatibilité des modules{/0} et {1}notre guide de l'auteur de module{/1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous êtes auteur de module, vous pouvez consulter {0}plus d'informations sur la compatibilité des modules{/0} et {1}notre guide de l'auteur de module{/1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

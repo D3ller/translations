@@ -1,0 +1,14 @@
+{
+  "hash": "6a43aa9a34e3e8c5",
+  "source": "Internal URLs navigate with a full-page reload.",
+  "text": "Les URL internes naviguent avec un rechargement complet de la page.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les URL internes naviguent avec un rechargement complet de la page."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "29ad8d71b7a2fd0c",
+  "source": "Such a file will be used for any weight or weight range inside the declared range, so {0} matches {1}, {2} and {3} alike.",
+  "text": "Un tel fichier sera utilisé pour toute graisse ou plage de graisses comprise dans la plage déclarée, de sorte que {0} correspond aussi bien à {1}, à {2} qu'à {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un tel fichier sera utilisé pour toute graisse ou plage de graisses comprise dans la plage déclarée, de sorte que {0} correspond aussi bien à {1}, à {2} qu'à {3}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

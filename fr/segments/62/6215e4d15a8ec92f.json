@@ -1,0 +1,14 @@
+{
+  "hash": "6215e4d15a8ec92f",
+  "source": "To help with migration, Nuxt will log which modules it applied the layer to:",
+  "text": "Pour faciliter la migration, Nuxt affichera dans les logs les modules auxquels il a appliqué la couche :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour faciliter la migration, Nuxt affichera dans les logs les modules auxquels il a appliqué la couche :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "3a5ff5ff00144939",
+  "source": "If you want to use the new Nuxt composables (such as {0} or {1}) within your plugins, you will need to use the {2} helper for those plugins.",
+  "text": "Si vous souhaitez utiliser les nouveaux composables de Nuxt (tels que {0} ou {1}) dans vos plugins, vous devrez utiliser le helper {2} pour ces plugins.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous souhaitez utiliser les nouveaux composables de Nuxt (tels que {0} ou {1}) dans vos plugins, vous devrez utiliser le helper {2} pour ces plugins."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "205de50f69bbfd85",
+  "source": "If you add custom metadata for your pages, you may wish to do so in a type-safe way. It is possible to augment the type of the object accepted by {0}:",
+  "text": "Si vous ajoutez des métadonnées personnalisées à vos pages, vous voudrez peut-être le faire de manière sûre en termes de types. Il est possible d'augmenter le type de l'objet accepté par {0} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous ajoutez des métadonnées personnalisées à vos pages, vous voudrez peut-être le faire de manière sûre en termes de types. Il est possible d'augmenter le type de l'objet accepté par {0} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

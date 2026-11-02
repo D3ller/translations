@@ -1,0 +1,14 @@
+{
+  "hash": "3e099785b29f0603",
+  "source": "Now every call to {0} automatically includes the auth header and handles 401 redirects:",
+  "text": "Désormais, chaque appel à {0} inclut automatiquement l'en-tête d'authentification et gère les redirections en cas de 401 :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Désormais, chaque appel à {0} inclut automatiquement l'en-tête d'authentification et gère les redirections en cas de 401 :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

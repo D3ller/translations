@@ -1,0 +1,14 @@
+{
+  "hash": "b548fed18d1025a5",
+  "source": "6 months after 5.x release",
+  "text": "6 mois après la sortie de la 5.x",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "6 mois après la sortie de la 5.x"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

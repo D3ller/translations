@@ -1,0 +1,14 @@
+{
+  "hash": "03d7a9c4233ae768",
+  "source": "Called at build time in development when the watcher spots a change to a file or directory in the project.",
+  "text": "Appelé au moment du build en développement, lorsque le watcher détecte une modification d'un fichier ou d'un répertoire du projet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appelé au moment du build en développement, lorsque le watcher détecte une modification d'un fichier ou d'un répertoire du projet."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "0a505ead385ce1a8",
+  "source": "\"Reopen in Dev Containers\"",
+  "text": "« Reopen in Dev Containers »",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "« Reopen in Dev Containers »"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

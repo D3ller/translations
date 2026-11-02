@@ -1,0 +1,14 @@
+{
+  "hash": "b96266c22316fd47",
+  "source": "{0} is a reserved function name transformed by the compiler, so you should not name your own function {1}. To create a custom variant with pre-defined options, use {2} instead.",
+  "text": "{0} est un nom de fonction réservé transformé par le compilateur, vous ne devez donc pas nommer votre propre fonction {1}. Pour créer une variante personnalisée avec des options prédéfinies, utilisez plutôt {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est un nom de fonction réservé transformé par le compilateur, vous ne devez donc pas nommer votre propre fonction {1}. Pour créer une variante personnalisée avec des options prédéfinies, utilisez plutôt {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "a1007abaa8e839ba",
+  "source": "Make sure your {0}, {1}, {2}, {3}, {4}, {5} and {6} folders remain outside the {7} folder, in the root of your project.",
+  "text": "Assurez-vous que vos dossiers {0}, {1}, {2}, {3}, {4}, {5} et {6} restent en dehors du dossier {7}, à la racine de votre projet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Assurez-vous que vos dossiers {0}, {1}, {2}, {3}, {4}, {5} et {6} restent en dehors du dossier {7}, à la racine de votre projet."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

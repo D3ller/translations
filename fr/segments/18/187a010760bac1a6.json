@@ -1,0 +1,14 @@
+{
+  "hash": "187a010760bac1a6",
+  "source": "In order to access Vuex store instance, you can use {0}.",
+  "text": "Pour accéder à l'instance du store Vuex, vous pouvez utiliser {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour accéder à l'instance du store Vuex, vous pouvez utiliser {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

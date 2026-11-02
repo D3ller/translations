@@ -1,0 +1,14 @@
+{
+  "hash": "f8201eeb722b35c7",
+  "source": "Add listed imports to the Nuxt application.",
+  "text": "Ajoute des imports listés à l'application Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ajoute des imports listés à l'application Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

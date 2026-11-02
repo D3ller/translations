@@ -1,0 +1,14 @@
+{
+  "hash": "cb41886c2f0adc9a",
+  "source": "Custom plugins located in the {0} directory, including those without a suffix (e.g., {1}) and those with the {2} suffix (e.g., {3}).",
+  "text": "Les plugins personnalisés situés dans le répertoire {0}, y compris ceux sans suffixe (par ex. {1}) et ceux avec le suffixe {2} (par ex. {3}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les plugins personnalisés situés dans le répertoire {0}, y compris ceux sans suffixe (par ex. {1}) et ceux avec le suffixe {2} (par ex. {3})."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

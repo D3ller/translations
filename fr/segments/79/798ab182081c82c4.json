@@ -1,0 +1,14 @@
+{
+  "hash": "798ab182081c82c4",
+  "source": "The CLI runs on Node v22.21+, v24.11+ or v26+, and imports TypeScript configuration natively on those versions. Nuxt 2 and {0} are not supported.",
+  "text": "La CLI fonctionne avec Node v22.21+, v24.11+ ou v26+, et importe nativement la configuration TypeScript sur ces versions. Nuxt 2 et {0} ne sont pas pris en charge.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La CLI fonctionne avec Node v22.21+, v24.11+ ou v26+, et importe nativement la configuration TypeScript sur ces versions. Nuxt 2 et {0} ne sont pas pris en charge."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "68e02c30bfd354cd",
+  "source": "Using Vite Plugins in Nuxt Modules",
+  "text": "Utiliser les plugins Vite dans les modules Nuxt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utiliser les plugins Vite dans les modules Nuxt"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

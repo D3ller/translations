@@ -1,0 +1,14 @@
+{
+  "hash": "bb60935c63fd122b",
+  "source": "You can pass a new custom provider - see more in the providers documentation",
+  "text": "Vous pouvez passer un nouveau fournisseur personnalisé - voir la documentation des fournisseurs pour plus de détails",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez passer un nouveau fournisseur personnalisé - voir la documentation des fournisseurs pour plus de détails"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

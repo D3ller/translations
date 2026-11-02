@@ -1,0 +1,14 @@
+{
+  "hash": "939de7d023145b82",
+  "source": "Often users set an appropriately empty value, such as an empty array, to avoid the need to check for {0}/{1} when iterating over it. This should be respected when resetting/clearing the data.",
+  "text": "Les utilisateurs définissent souvent une valeur vide appropriée, comme un tableau vide, afin d'éviter de vérifier {0}/{1} lors de l'itération. Cela doit être respecté lors de la réinitialisation ou de l'effacement des données.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les utilisateurs définissent souvent une valeur vide appropriée, comme un tableau vide, afin d'éviter de vérifier {0}/{1} lors de l'itération. Cela doit être respecté lors de la réinitialisation ou de l'effacement des données."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

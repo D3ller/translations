@@ -1,0 +1,14 @@
+{
+  "hash": "270662f8c9311be0",
+  "source": "The addon's {0} function runs on every call of the composable, and receives the merged options (factory defaults plus caller options).",
+  "text": "La fonction {0} de l'addon s'exécute à chaque appel du composable et reçoit les options fusionnées (valeurs par défaut de la factory plus options de l'appelant).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La fonction {0} de l'addon s'exécute à chaque appel du composable et reçoit les options fusionnées (valeurs par défaut de la factory plus options de l'appelant)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

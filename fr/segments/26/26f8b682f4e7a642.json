@@ -1,0 +1,14 @@
+{
+  "hash": "26f8b682f4e7a642",
+  "source": "**See**: {0}Nuxt Telemetry{/0} for more information.",
+  "text": "**Voir** : {0}Nuxt Telemetry{/0} pour plus d'informations.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Voir** : {0}Nuxt Telemetry{/0} pour plus d'informations."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

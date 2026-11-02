@@ -1,0 +1,14 @@
+{
+  "hash": "ebec5b609231f1dd",
+  "source": "Name of the package.",
+  "text": "Nom du package.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nom du package."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

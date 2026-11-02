@@ -1,0 +1,14 @@
+{
+  "hash": "82b8910d31a0047b",
+  "source": "1\\. VS Code Prompt",
+  "text": "1\\. Notification de VS Code",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "1\\. Notification de VS Code"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

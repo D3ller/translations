@@ -1,0 +1,14 @@
+{
+  "hash": "c68fc7321342f23b",
+  "source": "If you are using TypeScript, you can edit your {0} to benefit from auto-generated Nuxt types:",
+  "text": "Si vous utilisez TypeScript, vous pouvez modifier votre {0} pour bénéficier des types Nuxt générés automatiquement :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous utilisez TypeScript, vous pouvez modifier votre {0} pour bénéficier des types Nuxt générés automatiquement :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

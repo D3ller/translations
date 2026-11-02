@@ -1,0 +1,14 @@
+{
+  "hash": "01db0eb9a51d7d9c",
+  "source": "This guide helps you better understand Nuxt internals to develop new solutions and module integrations on top of Nuxt.",
+  "text": "Ce guide vous aide à mieux comprendre le fonctionnement interne de Nuxt afin de développer de nouvelles solutions et des intégrations de modules par-dessus Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ce guide vous aide à mieux comprendre le fonctionnement interne de Nuxt afin de développer de nouvelles solutions et des intégrations de modules par-dessus Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

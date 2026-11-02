@@ -1,0 +1,14 @@
+{
+  "hash": "945c185e87a4dc11",
+  "source": "A request fails with a {0} whose message starts with {1} when a {2} helper such as {3}, {4}, {5} or {6} receives an h3 event. This means the handler was defined with h3's {7} (usually the auto-imported one). Import {8} from {9} in the same file as the helpers.",
+  "text": "Une requête échoue avec une {0} dont le message commence par {1} lorsqu'un helper {2} tel que {3}, {4}, {5} ou {6} reçoit un événement h3. Cela signifie que le handler a été défini avec le {7} de h3 (généralement celui importé automatiquement). Importez {8} depuis {9} dans le même fichier que les helpers.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une requête échoue avec une {0} dont le message commence par {1} lorsqu'un helper {2} tel que {3}, {4}, {5} ou {6} reçoit un événement h3. Cela signifie que le handler a été défini avec le {7} de h3 (généralement celui importé automatiquement). Importez {8} depuis {9} dans le même fichier que les helpers."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

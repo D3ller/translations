@@ -1,0 +1,14 @@
+{
+  "hash": "65bce0d1bcf535f2",
+  "source": "Read the query string, optionally {0}validated{/0}.",
+  "text": "Lit la chaîne de requête, avec {0}validation{/0} facultative.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lit la chaîne de requête, avec {0}validation{/0} facultative."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

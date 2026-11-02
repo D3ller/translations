@@ -1,0 +1,14 @@
+{
+  "hash": "feddc49a7f6d34a8",
+  "source": "Render Error in Component",
+  "text": "Afficher une erreur dans un composant",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Afficher une erreur dans un composant"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "7a07daa3c2e766f5",
+  "source": "The good news is that it's relatively simple to fix issues of ESM compatibility. There are two main options:",
+  "text": "La bonne nouvelle, c'est qu'il est relativement simple de corriger les problèmes de compatibilité ESM. Il existe deux options principales :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La bonne nouvelle, c'est qu'il est relativement simple de corriger les problèmes de compatibilité ESM. Il existe deux options principales :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

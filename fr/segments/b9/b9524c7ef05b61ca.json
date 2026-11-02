@@ -1,0 +1,14 @@
+{
+  "hash": "b9524c7ef05b61ca",
+  "source": "You can then use the {0} function in your server code.",
+  "text": "Vous pouvez ensuite utiliser la fonction {0} dans votre code serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez ensuite utiliser la fonction {0} dans votre code serveur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

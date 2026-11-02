@@ -1,0 +1,14 @@
+{
+  "hash": "27db65f9df573b55",
+  "source": "The returned ref will automatically serialize and deserialize cookie values to JSON.",
+  "text": "La ref retournée sérialise et désérialise automatiquement les valeurs du cookie en JSON.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La ref retournée sérialise et désérialise automatiquement les valeurs du cookie en JSON."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

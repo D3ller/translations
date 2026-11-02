@@ -1,0 +1,14 @@
+{
+  "hash": "b589fc7f42ffee51",
+  "source": "Resolve relative from the current file",
+  "text": "Résoudre le chemin relativement au fichier actuel",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Résoudre le chemin relativement au fichier actuel"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

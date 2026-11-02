@@ -1,0 +1,14 @@
+{
+  "hash": "aa32962baa69e81b",
+  "source": "Unicode ranges use the same syntax as the {0} descriptor, and can be mixed with characters:",
+  "text": "Les plages Unicode utilisent la même syntaxe que le descripteur {0} et peuvent être combinées avec des caractères :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les plages Unicode utilisent la même syntaxe que le descripteur {0} et peuvent être combinées avec des caractères :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

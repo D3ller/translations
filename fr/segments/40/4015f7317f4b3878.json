@@ -1,0 +1,14 @@
+{
+  "hash": "4015f7317f4b3878",
+  "source": "Called when a vue error propagates to the root component. {0}Learn More{/0}.",
+  "text": "Appelé lorsqu'une erreur Vue remonte jusqu'au composant racine. {0}En savoir plus{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appelé lorsqu'une erreur Vue remonte jusqu'au composant racine. {0}En savoir plus{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

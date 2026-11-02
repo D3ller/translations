@@ -1,0 +1,14 @@
+{
+  "hash": "5b7410849fa1846e",
+  "source": "Nuxt is a minimal but highly customizable framework to build web applications.",
+  "text": "Nuxt est un framework minimal mais hautement personnalisable pour créer des applications web.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt est un framework minimal mais hautement personnalisable pour créer des applications web."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

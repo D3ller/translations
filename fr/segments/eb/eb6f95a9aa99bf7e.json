@@ -1,0 +1,14 @@
+{
+  "hash": "eb6f95a9aa99bf7e",
+  "source": "{0}WebPageTest{/0} is a web performance tool providing deep diagnostic information about how a page performs under a variety of conditions.",
+  "text": "{0}WebPageTest{/0} est un outil de performance web qui fournit des informations de diagnostic approfondies sur le comportement d'une page dans diverses conditions.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}WebPageTest{/0} est un outil de performance web qui fournit des informations de diagnostic approfondies sur le comportement d'une page dans diverses conditions."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

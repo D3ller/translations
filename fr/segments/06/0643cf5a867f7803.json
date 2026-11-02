@@ -1,0 +1,14 @@
+{
+  "hash": "0643cf5a867f7803",
+  "source": "run your actual task",
+  "text": "exécutez votre tâche réelle",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "exécutez votre tâche réelle"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

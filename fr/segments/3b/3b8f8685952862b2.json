@@ -1,0 +1,14 @@
+{
+  "hash": "3b8f8685952862b2",
+  "source": "Dispose the entry, removing it from the active head.",
+  "text": "Supprime l'entrée, en la retirant du head actif.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Supprime l'entrée, en la retirant du head actif."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

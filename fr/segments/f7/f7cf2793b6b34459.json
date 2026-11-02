@@ -1,0 +1,14 @@
+{
+  "hash": "f7cf2793b6b34459",
+  "source": "Define params wherever, through {0}, {1}, etc.",
+  "text": "Définissez les paramètres où vous voulez, via {0}, {1}, etc.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définissez les paramètres où vous voulez, via {0}, {1}, etc."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

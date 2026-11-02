@@ -1,0 +1,14 @@
+{
+  "hash": "6889fab007261a84",
+  "source": "You can now point the font cache at a directory of your choice, pass your own {0}unstorage{/0} instance, or disable persistent caching with {1}.",
+  "text": "Vous pouvez désormais faire pointer le cache des polices vers le répertoire de votre choix, fournir votre propre instance {0}unstorage{/0}, ou désactiver le cache persistant avec {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez désormais faire pointer le cache des polices vers le répertoire de votre choix, fournir votre propre instance {0}unstorage{/0}, ou désactiver le cache persistant avec {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

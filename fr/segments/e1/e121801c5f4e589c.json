@@ -1,0 +1,14 @@
+{
+  "hash": "e121801c5f4e589c",
+  "source": "This one is specific to packages. The runtime refuses to strip types from any file inside {0}, whatever the configuration, so a published entrypoint written in TypeScript cannot be loaded natively however new the Node version is. Build to JavaScript before publishing, and if your package ships a {1}, emit it as {2}. Otherwise every consuming project has to install {3}.",
+  "text": "Ce point est spécifique aux packages. Le runtime refuse de supprimer les types de tout fichier situé dans {0}, quelle que soit la configuration ; un point d'entrée publié écrit en TypeScript ne peut donc pas être chargé nativement, quelle que soit la version de Node. Compilez en JavaScript avant de publier et, si votre package livre un {1}, émettez-le sous la forme {2}. Sinon, chaque projet consommateur doit installer {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ce point est spécifique aux packages. Le runtime refuse de supprimer les types de tout fichier situé dans {0}, quelle que soit la configuration ; un point d'entrée publié écrit en TypeScript ne peut donc pas être chargé nativement, quelle que soit la version de Node. Compilez en JavaScript avant de publier et, si votre package livre un {1}, émettez-le sous la forme {2}. Sinon, chaque projet consommateur doit installer {3}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

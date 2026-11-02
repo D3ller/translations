@@ -1,0 +1,14 @@
+{
+  "hash": "a90f1e092eb632e3",
+  "source": "Example JetBrains IDEs Debug Configuration",
+  "text": "Exemple de configuration de débogage pour les IDE JetBrains",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Exemple de configuration de débogage pour les IDE JetBrains"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

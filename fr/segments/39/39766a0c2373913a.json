@@ -1,0 +1,14 @@
+{
+  "hash": "39766a0c2373913a",
+  "source": "Moving from webpack 4 and Babel to Vite or webpack 5 and esbuild.",
+  "text": "Passage de webpack 4 et Babel à Vite ou à webpack 5 et esbuild.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Passage de webpack 4 et Babel à Vite ou à webpack 5 et esbuild."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

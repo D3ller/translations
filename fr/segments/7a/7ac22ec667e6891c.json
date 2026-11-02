@@ -1,0 +1,14 @@
+{
+  "hash": "7ac22ec667e6891c",
+  "source": "The port and host can also be set via NUXT\\_PORT, PORT, NUXT\\_HOST or HOST environment variables.",
+  "text": "Le port et l'hôte peuvent également être définis via les variables d'environnement NUXT\\_PORT, PORT, NUXT\\_HOST ou HOST.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le port et l'hôte peuvent également être définis via les variables d'environnement NUXT\\_PORT, PORT, NUXT\\_HOST ou HOST."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

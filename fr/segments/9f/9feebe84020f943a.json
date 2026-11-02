@@ -1,0 +1,14 @@
+{
+  "hash": "9feebe84020f943a",
+  "source": "Load a local module",
+  "text": "Charger un module local",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Charger un module local"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

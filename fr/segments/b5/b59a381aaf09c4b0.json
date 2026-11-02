@@ -1,0 +1,14 @@
+{
+  "hash": "b59a381aaf09c4b0",
+  "source": "{0} is the store instance",
+  "text": "{0} est l'instance du store",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est l'instance du store"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

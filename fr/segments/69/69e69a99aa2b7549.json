@@ -1,0 +1,14 @@
+{
+  "hash": "69e69a99aa2b7549",
+  "source": "While both areas can be extended, that runtime context is isolated from build-time. Therefore, they are not supposed to share state, code, or context other than runtime configuration!",
+  "text": "Bien que les deux parties puissent être étendues, le contexte d'exécution est isolé du contexte de build. Par conséquent, ils ne sont pas censés partager d'état, de code ou de contexte en dehors de la configuration d'exécution !",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bien que les deux parties puissent être étendues, le contexte d'exécution est isolé du contexte de build. Par conséquent, ils ne sont pas censés partager d'état, de code ou de contexte en dehors de la configuration d'exécution !"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "759e0ee1fff0642e",
+  "source": "Any configuration that should override {0}.",
+  "text": "Toute configuration qui doit remplacer {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Toute configuration qui doit remplacer {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

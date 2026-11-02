@@ -1,0 +1,14 @@
+{
+  "hash": "1fe415883a464863",
+  "source": "**Cheaper:** Running a server adds a cost of infrastructure as you would need to run on a platform that supports JavaScript. We can host client-only applications on any static server with HTML, CSS, and JavaScript files.",
+  "text": "**Moins cher :** faire fonctionner un serveur engendre un coût d'infrastructure, car il faut une plateforme qui prend en charge JavaScript. Les applications uniquement côté client peuvent être hébergées sur n'importe quel serveur statique avec des fichiers HTML, CSS et JavaScript.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Moins cher :** faire fonctionner un serveur engendre un coût d'infrastructure, car il faut une plateforme qui prend en charge JavaScript. Les applications uniquement côté client peuvent être hébergées sur n'importe quel serveur statique avec des fichiers HTML, CSS et JavaScript."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

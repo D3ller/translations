@@ -1,0 +1,14 @@
+{
+  "hash": "a339aeff2c712586",
+  "source": "Nuxt's server is {0}Nitro{/0}. It was originally created for Nuxt but is now part of {1}UnJS{/1} and open for other frameworks - and can even be used on its own.",
+  "text": "Le serveur de Nuxt est {0}Nitro{/0}. Il a été créé à l'origine pour Nuxt, mais il fait maintenant partie de {1}UnJS{/1} et est ouvert à d'autres frameworks, et peut même être utilisé seul.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le serveur de Nuxt est {0}Nitro{/0}. Il a été créé à l'origine pour Nuxt, mais il fait maintenant partie de {1}UnJS{/1} et est ouvert à d'autres frameworks, et peut même être utilisé seul."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

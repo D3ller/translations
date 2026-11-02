@@ -1,0 +1,14 @@
+{
+  "hash": "8dc713840fe1c9dd",
+  "source": "For more information on {0} features, check out {1}ofetch{/1}.",
+  "text": "Pour plus d'informations sur les fonctionnalités de {0}, consultez {1}ofetch{/1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour plus d'informations sur les fonctionnalités de {0}, consultez {1}ofetch{/1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

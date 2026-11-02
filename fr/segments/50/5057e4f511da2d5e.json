@@ -1,0 +1,14 @@
+{
+  "hash": "5057e4f511da2d5e",
+  "source": "**Include fonts in build.** When you build your project, we'll copy across all the fonts used in your project so you don't need to make any external requests when loading your site. (Any that haven't already been cached in development are downloaded at build time.) Font file names are hashed and Nuxt will serve them with long-lived cache headers.",
+  "text": "**Inclut les polices dans le build.** Lorsque vous compilez votre projet, nous copions toutes les polices utilisées afin que vous n'ayez à effectuer aucune requête externe au chargement de votre site. (Celles qui n'ont pas déjà été mises en cache en développement sont téléchargées au moment du build.) Les noms des fichiers de police sont hachés et Nuxt les servira avec des en-têtes de cache de longue durée.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Inclut les polices dans le build.** Lorsque vous compilez votre projet, nous copions toutes les polices utilisées afin que vous n'ayez à effectuer aucune requête externe au chargement de votre site. (Celles qui n'ont pas déjà été mises en cache en développement sont téléchargées au moment du build.) Les noms des fichiers de police sont hachés et Nuxt les servira avec des en-têtes de cache de longue durée."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "a56056da87a11e37",
+  "source": "A {0} page does not hydrate. Nothing on it is interactive: no {1} handlers, no {2} prefetching (links still work as plain {3} tags), no client-side navigation away from the page. Only use it on routes where that is what you want.",
+  "text": "Une page {0} n'est pas hydratée. Rien n'y est interactif : aucun gestionnaire {1}, aucun préchargement de {2} (les liens fonctionnent toujours comme de simples balises {3}), aucune navigation côté client pour quitter la page. Ne l'utilisez que sur les routes où c'est ce que vous souhaitez.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une page {0} n'est pas hydratée. Rien n'y est interactif : aucun gestionnaire {1}, aucun préchargement de {2} (les liens fonctionnent toujours comme de simples balises {3}), aucune navigation côté client pour quitter la page. Ne l'utilisez que sur les routes où c'est ce que vous souhaitez."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

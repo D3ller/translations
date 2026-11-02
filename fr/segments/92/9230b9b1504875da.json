@@ -1,0 +1,14 @@
+{
+  "hash": "9230b9b1504875da",
+  "source": "If you define redirect route rules, the property name has changed:",
+  "text": "Si vous définissez des règles de route de redirection, le nom de la propriété a changé :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous définissez des règles de route de redirection, le nom de la propriété a changé :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

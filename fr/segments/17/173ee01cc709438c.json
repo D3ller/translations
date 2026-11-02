@@ -1,0 +1,14 @@
+{
+  "hash": "173ee01cc709438c",
+  "source": "Enable Cross-origin Prefetch",
+  "text": "Activer le préchargement cross-origin",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Activer le préchargement cross-origin"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

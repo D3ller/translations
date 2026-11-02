@@ -1,0 +1,14 @@
+{
+  "hash": "2dbb150bf3b86093",
+  "source": "Generated at build time for SEO purpose",
+  "text": "Généré au moment du build à des fins de SEO",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Généré au moment du build à des fins de SEO"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

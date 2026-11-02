@@ -1,0 +1,14 @@
+{
+  "hash": "625be34ac438f60b",
+  "source": "Under the hood, {0} uses {1} to block the loading of the route before the data has been fetched. Consider using {2} and implementing a loading state instead for a snappier user experience.",
+  "text": "En interne, {0} utilise {1} pour bloquer le chargement de la route tant que les données n'ont pas été récupérées. Envisagez plutôt d'utiliser {2} et d'implémenter un état de chargement pour une expérience utilisateur plus fluide.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En interne, {0} utilise {1} pour bloquer le chargement de la route tant que les données n'ont pas été récupérées. Envisagez plutôt d'utiliser {2} et d'implémenter un état de chargement pour une expérience utilisateur plus fluide."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

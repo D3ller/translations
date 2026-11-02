@@ -1,0 +1,14 @@
+{
+  "hash": "7ab3dd61709fc8e5",
+  "source": "Describing the Build to a Deploy Target",
+  "text": "Décrire le build à une cible de déploiement",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Décrire le build à une cible de déploiement"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

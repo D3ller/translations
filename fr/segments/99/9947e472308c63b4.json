@@ -1,0 +1,14 @@
+{
+  "hash": "9947e472308c63b4",
+  "source": "Create a reactive state and set default value",
+  "text": "Créer un état réactif et définir la valeur par défaut",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Créer un état réactif et définir la valeur par défaut"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

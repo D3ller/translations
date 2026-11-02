@@ -1,0 +1,14 @@
+{
+  "hash": "f91ec7fb956c6e1b",
+  "source": "Declare {0} before {1}. TypeScript infers the custom options from the {2} parameter annotation, and a {3} resolver written before a {4} that returns an extension function is checked first and typed with empty options.",
+  "text": "Déclarez {0} avant {1}. TypeScript infère les options personnalisées à partir de l'annotation du paramètre de {2}, et un resolver {3} écrit avant un {4} qui retourne une fonction d'extension est vérifié en premier et typé avec des options vides.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Déclarez {0} avant {1}. TypeScript infère les options personnalisées à partir de l'annotation du paramètre de {2}, et un resolver {3} écrit avant un {4} qui retourne une fonction d'extension est vérifié en premier et typé avec des options vides."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "80e6d8994b1191f4",
+  "source": "{0} - an issue has been created and assigned to implement",
+  "text": "{0} : une issue a été créée et assignée pour l'implémentation",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : une issue a été créée et assignée pour l'implémentation"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

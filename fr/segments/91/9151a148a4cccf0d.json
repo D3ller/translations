@@ -1,0 +1,14 @@
+{
+  "hash": "9151a148a4cccf0d",
+  "source": "For the server, you should use the {0} utility instead.",
+  "text": "Côté serveur, vous devez plutôt utiliser l'utilitaire {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Côté serveur, vous devez plutôt utiliser l'utilitaire {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

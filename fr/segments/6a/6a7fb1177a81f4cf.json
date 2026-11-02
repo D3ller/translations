@@ -1,0 +1,14 @@
+{
+  "hash": "6a7fb1177a81f4cf",
+  "source": "Claude Desktop",
+  "text": "Claude Desktop",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Claude Desktop"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

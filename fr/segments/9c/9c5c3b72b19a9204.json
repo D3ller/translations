@@ -1,0 +1,14 @@
+{
+  "hash": "9c5c3b72b19a9204",
+  "source": "We are using {0} in the filename only to match requests with {1} method that can accept the request body. When using {2} within a GET request, {3} will throw a {4} HTTP error.",
+  "text": "Nous utilisons {0} dans le nom de fichier uniquement pour faire correspondre les requêtes avec la méthode {1}, qui peut accepter un corps de requête. Lorsque vous utilisez {2} dans une requête GET, {3} lèvera une erreur HTTP {4}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nous utilisons {0} dans le nom de fichier uniquement pour faire correspondre les requêtes avec la méthode {1}, qui peut accepter un corps de requête. Lorsque vous utilisez {2} dans une requête GET, {3} lèvera une erreur HTTP {4}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

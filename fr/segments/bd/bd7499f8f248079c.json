@@ -1,0 +1,14 @@
+{
+  "hash": "bd7499f8f248079c",
+  "source": "Unmatched paths and methods are accepted by default and resolve to {0}. To reject them, enable {1} and {2}:",
+  "text": "Les chemins et méthodes sans correspondance sont acceptés par défaut et se résolvent en {0}. Pour les rejeter, activez {1} et {2} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les chemins et méthodes sans correspondance sont acceptés par défaut et se résolvent en {0}. Pour les rejeter, activez {1} et {2} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

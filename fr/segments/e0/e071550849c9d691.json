@@ -1,0 +1,14 @@
+{
+  "hash": "e071550849c9d691",
+  "source": "Dev Containers",
+  "text": "Dev Containers",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dev Containers"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

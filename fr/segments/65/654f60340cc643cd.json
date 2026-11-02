@@ -1,0 +1,14 @@
+{
+  "hash": "654f60340cc643cd",
+  "source": "Filename of the template. If {0} is not provided, it will be generated from the {1} path. In this case, the {2} option is required.",
+  "text": "Nom de fichier du template. Si {0} n'est pas fourni, il sera généré à partir du chemin {1}. Dans ce cas, l'option {2} est obligatoire.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nom de fichier du template. Si {0} n'est pas fourni, il sera généré à partir du chemin {1}. Dans ce cas, l'option {2} est obligatoire."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "e9cbe84b9f1822b3",
+  "source": "However, because of the complexities of syntax detection and different bundle formats, there is always a chance that the interop default fails and we end up with something like this:",
+  "text": "Cependant, en raison de la complexité de la détection de la syntaxe et des différents formats de bundle, il est toujours possible que l'interopérabilité de l'export par défaut échoue et que vous vous retrouviez avec quelque chose comme ceci :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cependant, en raison de la complexité de la détection de la syntaxe et des différents formats de bundle, il est toujours possible que l'interopérabilité de l'export par défaut échoue et que vous vous retrouviez avec quelque chose comme ceci :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

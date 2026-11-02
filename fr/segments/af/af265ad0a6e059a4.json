@@ -1,0 +1,14 @@
+{
+  "hash": "af265ad0a6e059a4",
+  "source": "The data is still available, but can be accessed with {0}:",
+  "text": "Les données sont toujours disponibles, mais peuvent être consultées avec {0} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les données sont toujours disponibles, mais peuvent être consultées avec {0} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

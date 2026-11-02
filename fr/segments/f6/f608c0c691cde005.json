@@ -1,0 +1,14 @@
+{
+  "hash": "f608c0c691cde005",
+  "source": "Built-In Nuxt Components",
+  "text": "Composants Nuxt intégrés",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Composants Nuxt intégrés"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

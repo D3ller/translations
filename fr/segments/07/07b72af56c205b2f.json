@@ -1,0 +1,14 @@
+{
+  "hash": "07b72af56c205b2f",
+  "source": "These limitations occur because Nitro processes the app config without full Vue component support.",
+  "text": "Ces limitations existent parce que Nitro traite l'app config sans prise en charge complète des composants Vue.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ces limitations existent parce que Nitro traite l'app config sans prise en charge complète des composants Vue."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

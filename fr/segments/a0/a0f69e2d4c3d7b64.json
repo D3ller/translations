@@ -1,0 +1,14 @@
+{
+  "hash": "a0f69e2d4c3d7b64",
+  "source": "Consider using the {0} section of {1}nuxt.config{/1} to include directories beyond the default ones. This can be useful for auto-importing types which you're using across your app.",
+  "text": "Envisagez d'utiliser la section {0} de {1}nuxt.config{/1} pour inclure des répertoires en plus de ceux par défaut. Cela peut être utile pour l'import automatique de types que vous utilisez dans toute votre application.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Envisagez d'utiliser la section {0} de {1}nuxt.config{/1} pour inclure des répertoires en plus de ceux par défaut. Cela peut être utile pour l'import automatique de types que vous utilisez dans toute votre application."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

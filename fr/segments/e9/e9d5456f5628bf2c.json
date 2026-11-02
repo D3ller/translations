@@ -1,0 +1,14 @@
+{
+  "hash": "e9d5456f5628bf2c",
+  "source": "By default, {0} pushes the given route into the Vue Router's instance on the client side.",
+  "text": "Par défaut, {0} ajoute la route donnée à l'historique de l'instance de Vue Router côté client.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par défaut, {0} ajoute la route donnée à l'historique de l'instance de Vue Router côté client."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "b1edd003e567bf43",
+  "source": "Set to {0} to enable debug mode.",
+  "text": "Définissez à {0} pour activer le mode debug.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définissez à {0} pour activer le mode debug."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

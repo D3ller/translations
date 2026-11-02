@@ -1,0 +1,14 @@
+{
+  "hash": "cbf9c8084f46883e",
+  "source": "{0}: If set to {1}, no {2} attribute will be added to the external link",
+  "text": "{0} : si défini à {1}, aucun attribut {2} ne sera ajouté au lien externe",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : si défini à {1}, aucun attribut {2} ne sera ajouté au lien externe"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

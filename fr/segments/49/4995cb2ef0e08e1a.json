@@ -1,0 +1,14 @@
+{
+  "hash": "4995cb2ef0e08e1a",
+  "source": "By default, Nuxt uses **universal rendering** to provide better user experience, performance and to optimize search engine indexing, but you can switch rendering modes in {0}one line of configuration{/0}.",
+  "text": "Par défaut, Nuxt utilise le **rendu universel** pour offrir une meilleure expérience utilisateur, de meilleures performances et optimiser l'indexation par les moteurs de recherche, mais vous pouvez changer de mode de rendu avec {0}une seule ligne de configuration{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par défaut, Nuxt utilise le **rendu universel** pour offrir une meilleure expérience utilisateur, de meilleures performances et optimiser l'indexation par les moteurs de recherche, mais vous pouvez changer de mode de rendu avec {0}une seule ligne de configuration{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

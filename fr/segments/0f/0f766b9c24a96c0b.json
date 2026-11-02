@@ -1,0 +1,14 @@
+{
+  "hash": "0f766b9c24a96c0b",
+  "source": "Returns {0} when called with only a callback function.",
+  "text": "Retourne {0} lorsqu'elle est appelée avec seulement une fonction de callback.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Retourne {0} lorsqu'elle est appelée avec seulement une fonction de callback."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

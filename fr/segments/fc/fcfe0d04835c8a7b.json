@@ -1,0 +1,14 @@
+{
+  "hash": "fcfe0d04835c8a7b",
+  "source": "UnoCSS",
+  "text": "UnoCSS",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "UnoCSS"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

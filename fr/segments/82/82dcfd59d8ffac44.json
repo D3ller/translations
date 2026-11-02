@@ -1,0 +1,14 @@
+{
+  "hash": "82dcfd59d8ffac44",
+  "source": "Additionally, you can provide a glob pattern or an array of patterns to scan only certain files for pages.",
+  "text": "Vous pouvez également fournir un motif glob ou un tableau de motifs afin de n'analyser que certains fichiers pour les pages.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez également fournir un motif glob ou un tableau de motifs afin de n'analyser que certains fichiers pour les pages."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

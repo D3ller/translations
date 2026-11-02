@@ -1,0 +1,14 @@
+{
+  "hash": "4242cc86a7a71c3b",
+  "source": "Trigger custom hydration strategy...",
+  "text": "Déclenchez une stratégie d'hydratation personnalisée...",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Déclenchez une stratégie d'hydratation personnalisée..."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

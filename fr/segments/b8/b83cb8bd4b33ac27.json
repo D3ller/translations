@@ -1,0 +1,14 @@
+{
+  "hash": "b83cb8bd4b33ac27",
+  "source": "When rendering a client-only page (with {0}), we optionally render a loading screen (from {1} - note that this has also changed to {2} in Nuxt 4), within the Nuxt app root:",
+  "text": "Lors du rendu d'une page uniquement côté client (avec {0}), nous affichons éventuellement un écran de chargement (depuis {1} – notez que cela a aussi changé en {2} dans Nuxt 4), à l'intérieur de la racine de l'application Nuxt :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lors du rendu d'une page uniquement côté client (avec {0}), nous affichons éventuellement un écran de chargement (depuis {1} – notez que cela a aussi changé en {2} dans Nuxt 4), à l'intérieur de la racine de l'application Nuxt :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

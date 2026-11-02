@@ -1,0 +1,14 @@
+{
+  "hash": "915074e792d41339",
+  "source": "Use Nuxt Fonts with any CSS framework or library.",
+  "text": "Utilisez Nuxt Fonts avec n'importe quel framework ou bibliothèque CSS.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utilisez Nuxt Fonts avec n'importe quel framework ou bibliothèque CSS."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "2674557f151b0e7f",
+  "source": "Make sure to make changes according to the {0}Documentation Style Guide{/0}.",
+  "text": "Veillez à effectuer vos modifications conformément au {0}guide de style de la documentation{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Veillez à effectuer vos modifications conformément au {0}guide de style de la documentation{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

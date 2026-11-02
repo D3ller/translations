@@ -1,0 +1,14 @@
+{
+  "hash": "3481583bb41923b9",
+  "source": "**@-symbol must be typed manually** - When using tools like Cursor or Windsurf, the {0} symbol must be typed by hand in the chat interface. Copy-pasting breaks the tool's ability to recognize it as a context reference.",
+  "text": "**Le symbole @ doit être saisi manuellement** : lorsque vous utilisez des outils comme Cursor ou Windsurf, le symbole {0} doit être saisi à la main dans l'interface de discussion. Un copier-coller empêche l'outil de le reconnaître comme une référence de contexte.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Le symbole @ doit être saisi manuellement** : lorsque vous utilisez des outils comme Cursor ou Windsurf, le symbole {0} doit être saisi à la main dans l'interface de discussion. Un copier-coller empêche l'outil de le reconnaître comme une référence de contexte."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

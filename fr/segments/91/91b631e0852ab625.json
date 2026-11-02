@@ -1,0 +1,14 @@
+{
+  "hash": "91b631e0852ab625",
+  "source": "Passing a single package name returns {0} if it is available and {1} if it is not. Passing an array returns {2} if every package is available, or an array of the package names that are still missing (because the user declined, the install failed, or there was no interactive terminal).",
+  "text": "Passer un seul nom de package renvoie {0} s'il est disponible et {1} s'il ne l'est pas. Passer un tableau renvoie {2} si tous les packages sont disponibles, ou un tableau des noms de packages encore manquants (parce que l'utilisateur a refusé, que l'installation a échoué ou qu'il n'y avait pas de terminal interactif).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Passer un seul nom de package renvoie {0} s'il est disponible et {1} s'il ne l'est pas. Passer un tableau renvoie {2} si tous les packages sont disponibles, ou un tableau des noms de packages encore manquants (parce que l'utilisateur a refusé, que l'installation a échoué ou qu'il n'y avait pas de terminal interactif)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

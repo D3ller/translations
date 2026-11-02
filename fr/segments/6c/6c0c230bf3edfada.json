@@ -1,0 +1,14 @@
+{
+  "hash": "6c0c230bf3edfada",
+  "source": "A builder is an object implementing the {0} interface. The only required method is {1}:",
+  "text": "Un builder est un objet qui implémente l'interface {0}. La seule méthode requise est {1} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un builder est un objet qui implémente l'interface {0}. La seule méthode requise est {1} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

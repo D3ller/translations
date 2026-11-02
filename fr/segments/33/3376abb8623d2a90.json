@@ -1,0 +1,14 @@
+{
+  "hash": "3376abb8623d2a90",
+  "source": "Explore Nuxt built-in components for pages, layouts, head, and more.",
+  "text": "Découvrez les composants intégrés de Nuxt pour les pages, les layouts, le head et plus encore.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Découvrez les composants intégrés de Nuxt pour les pages, les layouts, le head et plus encore."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

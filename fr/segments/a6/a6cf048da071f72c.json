@@ -1,0 +1,14 @@
+{
+  "hash": "a6cf048da071f72c",
+  "source": "Local layer outside project",
+  "text": "Layer locale en dehors du projet",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Layer locale en dehors du projet"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

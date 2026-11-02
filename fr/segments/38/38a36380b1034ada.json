@@ -1,0 +1,14 @@
+{
+  "hash": "38a36380b1034ada",
+  "source": "In case you need to extend options provided by {0} further, you can use the {1} property within your {2}. {3} will pick them up and extend {4} accordingly.",
+  "text": "Si vous avez besoin d'étendre davantage les options fournies par {0}, vous pouvez utiliser la propriété {1} dans votre {2}. {3} les prendra en compte et étendra {4} en conséquence.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous avez besoin d'étendre davantage les options fournies par {0}, vous pouvez utiliser la propriété {1} dans votre {2}. {3} les prendra en compte et étendra {4} en conséquence."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

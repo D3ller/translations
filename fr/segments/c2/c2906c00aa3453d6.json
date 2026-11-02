@@ -1,0 +1,14 @@
+{
+  "hash": "c2906c00aa3453d6",
+  "source": "Directory paths returned by this function always include a trailing slash for consistency.",
+  "text": "Les chemins de répertoires renvoyés par cette fonction incluent toujours une barre oblique finale par souci de cohérence.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les chemins de répertoires renvoyés par cette fonction incluent toujours une barre oblique finale par souci de cohérence."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

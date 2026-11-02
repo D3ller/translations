@@ -1,0 +1,14 @@
+{
+  "hash": "faee91d05918fe55",
+  "source": "If you are augmenting types for the server context, move the files to the {0} directory.",
+  "text": "Si vous augmentez des types pour le contexte du serveur, déplacez les fichiers dans le répertoire {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous augmentez des types pour le contexte du serveur, déplacez les fichiers dans le répertoire {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "949666d4cacc49b3",
+  "source": "For a package that is not scanned automatically, add it with {0}, or point at a directory directly with {1} (relative paths are resolved from your project root):",
+  "text": "Pour un package qui n'est pas analysé automatiquement, ajoutez-le avec {0}, ou pointez directement vers un répertoire avec {1} (les chemins relatifs sont résolus à partir de la racine de votre projet) :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour un package qui n'est pas analysé automatiquement, ajoutez-le avec {0}, ou pointez directement vers un répertoire avec {1} (les chemins relatifs sont résolus à partir de la racine de votre projet) :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

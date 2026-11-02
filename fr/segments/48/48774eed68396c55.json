@@ -1,0 +1,14 @@
+{
+  "hash": "48774eed68396c55",
+  "source": "{0} (default): scripts are rendered normally.",
+  "text": "{0} (par défaut) : les scripts sont rendus normalement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} (par défaut) : les scripts sont rendus normalement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

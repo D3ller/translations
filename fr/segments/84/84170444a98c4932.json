@@ -1,0 +1,14 @@
+{
+  "hash": "84170444a98c4932",
+  "source": "{0} is the single-page app fallback. Configure your host to serve it for unmatched routes when you want client-side routing to handle the URL.",
+  "text": "{0} est la page de repli de l'application monopage. Configurez votre hébergeur pour qu'il la serve pour les routes non correspondantes lorsque vous souhaitez que le routage côté client gère l'URL.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est la page de repli de l'application monopage. Configurez votre hébergeur pour qu'il la serve pour les routes non correspondantes lorsque vous souhaitez que le routage côté client gère l'URL."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

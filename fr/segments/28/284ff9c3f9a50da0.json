@@ -1,0 +1,14 @@
+{
+  "hash": "284ff9c3f9a50da0",
+  "source": "API Layer",
+  "text": "Couche d'API",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Couche d'API"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

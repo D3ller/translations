@@ -1,0 +1,14 @@
+{
+  "hash": "e4480b5e634c64da",
+  "source": "Whatever event you pass to a handler must match {0}. Register your event's type in the {1} registry in {2}, which is what {3} and {4} resolve to. If your own event object isn't web-shaped, pass handlers a web-shaped view of it. To give app code your own event instead, set it as {5} on the event you pass the {6}renderer{/6}.",
+  "text": "Tout événement que vous passez à un handler doit correspondre à {0}. Enregistrez le type de votre événement dans le registre {1} de {2}, vers lequel {3} et {4} se résolvent. Si votre propre objet événement n'a pas la forme du web, passez aux handlers une vue de celui-ci conforme au web. Pour fournir à la place votre propre événement au code de l'application, définissez-le comme {5} sur l'événement que vous passez au {6}renderer{/6}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Tout événement que vous passez à un handler doit correspondre à {0}. Enregistrez le type de votre événement dans le registre {1} de {2}, vers lequel {3} et {4} se résolvent. Si votre propre objet événement n'a pas la forme du web, passez aux handlers une vue de celui-ci conforme au web. Pour fournir à la place votre propre événement au code de l'application, définissez-le comme {5} sur l'événement que vous passez au {6}renderer{/6}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

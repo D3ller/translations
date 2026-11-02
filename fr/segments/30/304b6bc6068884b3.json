@@ -1,0 +1,14 @@
+{
+  "hash": "304b6bc6068884b3",
+  "source": "For convenience, in preview mode, your {0} file will be loaded into {1}. (However, in production you will need to ensure your environment variables are set yourself. For example, with Node.js 20+ you could do this by running {2} to start your server.)",
+  "text": "Par commodité, en mode preview, votre fichier {0} sera chargé dans {1}. (En revanche, en production, vous devrez vous assurer vous-même que vos variables d'environnement sont définies. Par exemple, avec Node.js 20+, vous pouvez le faire en exécutant {2} pour démarrer votre serveur.)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par commodité, en mode preview, votre fichier {0} sera chargé dans {1}. (En revanche, en production, vous devrez vous assurer vous-même que vos variables d'environnement sont définies. Par exemple, avec Node.js 20+, vous pouvez le faire en exécutant {2} pour démarrer votre serveur.)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "724540850c1bcfd4",
+  "source": "The URL, host and protocol of the request. Pass {0} to trust those headers, only behind a proxy you control that overwrites them.",
+  "text": "L'URL, l'hôte et le protocole de la requête. Passez {0} pour faire confiance à ces en-têtes, uniquement derrière un proxy que vous contrôlez et qui les écrase.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'URL, l'hôte et le protocole de la requête. Passez {0} pour faire confiance à ces en-têtes, uniquement derrière un proxy que vous contrôlez et qui les écrase."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

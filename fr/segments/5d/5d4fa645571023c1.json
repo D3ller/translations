@@ -1,0 +1,14 @@
+{
+  "hash": "5d4fa645571023c1",
+  "source": "**Vite Environment API**: {0} is enabled, changing how Vite plugins are registered and configured",
+  "text": "**Vite Environment API** : {0} est activé, ce qui change la façon dont les plugins Vite sont enregistrés et configurés",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Vite Environment API** : {0} est activé, ce qui change la façon dont les plugins Vite sont enregistrés et configurés"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

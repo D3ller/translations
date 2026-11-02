@@ -1,0 +1,14 @@
+{
+  "hash": "71f97704ff624ea0",
+  "source": "workspaceDir",
+  "text": "workspaceDir",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "workspaceDir"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

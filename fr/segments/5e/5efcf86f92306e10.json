@@ -1,0 +1,14 @@
+{
+  "hash": "5efcf86f92306e10",
+  "source": "Remove the options from your configuration:",
+  "text": "Supprimez les options de votre configuration :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Supprimez les options de votre configuration :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

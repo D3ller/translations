@@ -1,0 +1,14 @@
+{
+  "hash": "df35c1669a9c8582",
+  "source": "The command searches for Nuxt modules matching your query that are compatible with your Nuxt version.",
+  "text": "La commande recherche les modules Nuxt correspondant à votre requête et compatibles avec votre version de Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La commande recherche les modules Nuxt correspondant à votre requête et compatibles avec votre version de Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

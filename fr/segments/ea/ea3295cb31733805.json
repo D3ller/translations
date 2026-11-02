@@ -1,0 +1,14 @@
+{
+  "hash": "ea3295cb31733805",
+  "source": "Fix the original page error first. The recovery path only runs because rendering threw, so the diagnostic disappears once the page renders.",
+  "text": "Corrigez d'abord l'erreur de page d'origine. Le chemin de récupération ne s'exécute que parce que le rendu a levé une erreur ; le diagnostic disparaît donc dès que la page est rendue.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Corrigez d'abord l'erreur de page d'origine. Le chemin de récupération ne s'exécute que parce que le rendu a levé une erreur ; le diagnostic disparaît donc dès que la page est rendue."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

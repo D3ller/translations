@@ -1,0 +1,14 @@
+{
+  "hash": "be6d879ade78a53d",
+  "source": "This alias ensures consistent imports across your server code, especially useful in deeply nested route handlers.",
+  "text": "Cet alias garantit des imports cohérents dans tout votre code serveur, ce qui est particulièrement utile dans des gestionnaires de routes profondément imbriqués.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cet alias garantit des imports cohérents dans tout votre code serveur, ce qui est particulièrement utile dans des gestionnaires de routes profondément imbriqués."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

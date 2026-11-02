@@ -1,0 +1,14 @@
+{
+  "hash": "da4702443b54d447",
+  "source": "Use these exact section names. For example, use {0} rather than {1} and {2} rather than {3}.",
+  "text": "Utilisez exactement ces noms de sections. Par exemple, utilisez {0} plutôt que {1}, et {2} plutôt que {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utilisez exactement ces noms de sections. Par exemple, utilisez {0} plutôt que {1}, et {2} plutôt que {3}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

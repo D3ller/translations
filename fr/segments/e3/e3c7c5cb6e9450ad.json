@@ -1,0 +1,14 @@
+{
+  "hash": "e3c7c5cb6e9450ad",
+  "source": "Learn how to configure Nuxt Bridge to your own needs.",
+  "text": "Découvrez comment configurer Nuxt Bridge selon vos besoins.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Découvrez comment configurer Nuxt Bridge selon vos besoins."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "9074581d26f46f75",
+  "source": "The request URL, the response, and any {0}, {1} or {2} the matching handler validates are typed from the routes your server serves. A path built at runtime resolves to {3}, and naming the response type ({4}) overrides whatever Nuxt resolved. Read more about {5}typed routes{/5}.",
+  "text": "L'URL de la requête, la réponse et tout {0}, {1} ou {2} validé par le gestionnaire correspondant sont typés à partir des routes que sert votre serveur. Un chemin construit à l'exécution est résolu en {3}, et le fait de nommer le type de la réponse ({4}) remplace ce que Nuxt a résolu. En savoir plus sur les {5}routes typées{/5}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'URL de la requête, la réponse et tout {0}, {1} ou {2} validé par le gestionnaire correspondant sont typés à partir des routes que sert votre serveur. Un chemin construit à l'exécution est résolu en {3}, et le fait de nommer le type de la réponse ({4}) remplace ce que Nuxt a résolu. En savoir plus sur les {5}routes typées{/5}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

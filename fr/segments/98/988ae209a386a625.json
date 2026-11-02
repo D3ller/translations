@@ -1,0 +1,14 @@
+{
+  "hash": "988ae209a386a625",
+  "source": "If you are using {0} to handle dynamic components, make sure not to insert anything but the name of the component, which must be a literal string and not be or contain a variable. The string is statically analyzed at the compilation step.",
+  "text": "Si vous utilisez {0} pour gérer des composants dynamiques, veillez à n'insérer que le nom du composant, qui doit être une chaîne littérale et ne pas être ni contenir une variable. La chaîne est analysée statiquement lors de l'étape de compilation.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous utilisez {0} pour gérer des composants dynamiques, veillez à n'insérer que le nom du composant, qui doit être une chaîne littérale et ne pas être ni contenir une variable. La chaîne est analysée statiquement lors de l'étape de compilation."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

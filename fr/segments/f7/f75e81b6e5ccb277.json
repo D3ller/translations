@@ -1,0 +1,14 @@
+{
+  "hash": "f75e81b6e5ccb277",
+  "source": "Called when the {0}unimport{/0} context is created.",
+  "text": "Appelé lors de la création du contexte {0}unimport{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appelé lors de la création du contexte {0}unimport{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

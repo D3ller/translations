@@ -1,0 +1,14 @@
+{
+  "hash": "f02eb31db3556ae5",
+  "source": "If you previously set {0} to {1} for Tailwind v4 support, it is no longer needed or recommended in v0.11.0 and later.",
+  "text": "Si vous aviez précédemment défini {0} sur {1} pour la prise en charge de Tailwind v4, cela n'est plus nécessaire ni recommandé à partir de la v0.11.0.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous aviez précédemment défini {0} sur {1} pour la prise en charge de Tailwind v4, cela n'est plus nécessaire ni recommandé à partir de la v0.11.0."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

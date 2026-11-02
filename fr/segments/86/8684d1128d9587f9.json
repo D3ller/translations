@@ -1,0 +1,14 @@
+{
+  "hash": "8684d1128d9587f9",
+  "source": "Error Handling: {0}/{1} replace {2}/{3}",
+  "text": "Gestion des erreurs : {0}/{1} remplacent {2}/{3}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Gestion des erreurs : {0}/{1} remplacent {2}/{3}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

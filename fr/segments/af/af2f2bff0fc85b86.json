@@ -1,0 +1,14 @@
+{
+  "hash": "af2f2bff0fc85b86",
+  "source": "{0} now accepts a custom prefix, so {1} will process {2} variables only.",
+  "text": "{0} accepte désormais un préfixe personnalisé, de sorte que {1} ne traitera que les variables {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} accepte désormais un préfixe personnalisé, de sorte que {1} ne traitera que les variables {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

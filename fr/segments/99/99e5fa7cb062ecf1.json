@@ -1,0 +1,14 @@
+{
+  "hash": "99e5fa7cb062ecf1",
+  "source": "Learn how to integrate Vite plugins into your Nuxt project.",
+  "text": "Découvrez comment intégrer des plugins Vite à votre projet Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Découvrez comment intégrer des plugins Vite à votre projet Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

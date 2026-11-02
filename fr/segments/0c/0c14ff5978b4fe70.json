@@ -1,0 +1,14 @@
+{
+  "hash": "0c14ff5978b4fe70",
+  "source": "Nuxt version in semver format. Versions may be defined in Node.js way, for example: {0}.",
+  "text": "Version de Nuxt au format semver. Les versions peuvent être définies à la manière de Node.js, par exemple : {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Version de Nuxt au format semver. Les versions peuvent être définies à la manière de Node.js, par exemple : {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

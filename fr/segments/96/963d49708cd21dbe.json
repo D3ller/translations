@@ -1,0 +1,14 @@
+{
+  "hash": "963d49708cd21dbe",
+  "source": "Make sure not to reference any reactive data or functions that cause side effects. This can lead to unexpected behavior.",
+  "text": "Veillez à ne référencer aucune donnée réactive ni fonction provoquant des effets de bord. Cela pourrait entraîner un comportement inattendu.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Veillez à ne référencer aucune donnée réactive ni fonction provoquant des effets de bord. Cela pourrait entraîner un comportement inattendu."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

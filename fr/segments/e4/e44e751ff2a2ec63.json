@@ -1,0 +1,14 @@
+{
+  "hash": "e44e751ff2a2ec63",
+  "source": "a {0} the handler validates cannot be omitted or given the wrong shape",
+  "text": "un {0} que le handler valide ne peut pas être omis ni avoir une forme incorrecte",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "un {0} que le handler valide ne peut pas être omis ni avoir une forme incorrecte"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

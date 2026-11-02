@@ -1,0 +1,14 @@
+{
+  "hash": "19273494b947c43c",
+  "source": "useState key must be a string.",
+  "text": "La clé de useState doit être une chaîne de caractères.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La clé de useState doit être une chaîne de caractères."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "260284a3950cf10e",
+  "source": "Normalized Page Component Names",
+  "text": "Noms de composants de page normalisés",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Noms de composants de page normalisés"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "38afa540bbc8951b",
+  "source": "... or as a route object",
+  "text": "... ou sous forme d'objet de route",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "... ou sous forme d'objet de route"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

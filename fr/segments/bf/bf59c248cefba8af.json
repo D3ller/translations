@@ -1,0 +1,14 @@
+{
+  "hash": "bf59c248cefba8af",
+  "source": "The {0} directory is the recommended place for your application tests. Nuxt does not scan it the way it does {1} or {2}; you choose the runner and layout yourself (typically with {3}).",
+  "text": "Le répertoire {0} est l'emplacement recommandé pour les tests de votre application. Nuxt ne l'analyse pas comme il le fait pour {1} ou {2} ; vous choisissez vous-même le runner et l'organisation (généralement avec {3}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le répertoire {0} est l'emplacement recommandé pour les tests de votre application. Nuxt ne l'analyse pas comme il le fait pour {1} ou {2} ; vous choisissez vous-même le runner et l'organisation (généralement avec {3})."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

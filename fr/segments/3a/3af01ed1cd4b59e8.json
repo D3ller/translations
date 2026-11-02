@@ -1,0 +1,14 @@
+{
+  "hash": "3af01ed1cd4b59e8",
+  "source": "Defines the provider that is used for the given font. You can choose any providers from {0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}.",
+  "text": "Définit le fournisseur utilisé pour la police donnée. Vous pouvez choisir n'importe quel fournisseur parmi {0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définit le fournisseur utilisé pour la police donnée. Vous pouvez choisir n'importe quel fournisseur parmi {0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "484b9e52884982bd",
+  "source": "If you have done this already, or it's not appropriate to create a new module, then please start by creating a new discussion. Make sure it explains your thinking as clearly as possible. Include code examples or function signatures for new APIs. Reference existing issues or pain points with examples.",
+  "text": "Si vous l'avez déjà fait, ou s'il n'est pas approprié de créer un nouveau module, commencez par créer une nouvelle discussion. Veillez à y expliquer votre réflexion le plus clairement possible. Incluez des exemples de code ou des signatures de fonctions pour les nouvelles API. Référencez des issues existantes ou des points de friction, avec des exemples.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous l'avez déjà fait, ou s'il n'est pas approprié de créer un nouveau module, commencez par créer une nouvelle discussion. Veillez à y expliquer votre réflexion le plus clairement possible. Incluez des exemples de code ou des signatures de fonctions pour les nouvelles API. Référencez des issues existantes ou des points de friction, avec des exemples."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

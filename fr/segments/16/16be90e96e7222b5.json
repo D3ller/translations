@@ -1,0 +1,14 @@
+{
+  "hash": "16be90e96e7222b5",
+  "source": "**1. Add file extensions to relative imports.**",
+  "text": "**1. Ajoutez des extensions de fichier aux imports relatifs.**",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**1. Ajoutez des extensions de fichier aux imports relatifs.**"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

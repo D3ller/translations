@@ -1,0 +1,14 @@
+{
+  "hash": "ade6c43044786108",
+  "source": "**New TypeScript configuration files**: Nuxt now generates additional TypeScript configurations:",
+  "text": "**Nouveaux fichiers de configuration TypeScript** : Nuxt génère désormais des configurations TypeScript supplémentaires :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Nouveaux fichiers de configuration TypeScript** : Nuxt génère désormais des configurations TypeScript supplémentaires :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

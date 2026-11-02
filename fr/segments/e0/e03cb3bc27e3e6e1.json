@@ -1,0 +1,14 @@
+{
+  "hash": "e03cb3bc27e3e6e1",
+  "source": "{0} was called without a valid key. The first argument must be a non-empty string so Nuxt can cache and deduplicate the request across components.",
+  "text": "{0} a été appelé sans clé valide. Le premier argument doit être une chaîne de caractères non vide afin que Nuxt puisse mettre en cache la requête et la dédupliquer entre les composants.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} a été appelé sans clé valide. Le premier argument doit être une chaîne de caractères non vide afin que Nuxt puisse mettre en cache la requête et la dédupliquer entre les composants."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

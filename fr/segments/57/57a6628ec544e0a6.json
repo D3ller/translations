@@ -1,0 +1,14 @@
+{
+  "hash": "57a6628ec544e0a6",
+  "source": "You can improve your DX by defining additional aliases to access custom directories within your JavaScript and CSS.",
+  "text": "Vous pouvez améliorer votre DX en définissant des alias supplémentaires pour accéder à des répertoires personnalisés dans votre JavaScript et votre CSS.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez améliorer votre DX en définissant des alias supplémentaires pour accéder à des répertoires personnalisés dans votre JavaScript et votre CSS."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

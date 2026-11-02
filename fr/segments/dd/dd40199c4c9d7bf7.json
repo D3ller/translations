@@ -1,0 +1,14 @@
+{
+  "hash": "dd40199c4c9d7bf7",
+  "source": "**Cleaner separation**: Server code won't incorrectly suggest client-side APIs and vice versa.",
+  "text": "**Séparation plus nette** : le code serveur ne suggérera plus à tort des API côté client, et inversement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Séparation plus nette** : le code serveur ne suggérera plus à tort des API côté client, et inversement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

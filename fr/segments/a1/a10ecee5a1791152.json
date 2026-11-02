@@ -1,0 +1,14 @@
+{
+  "hash": "a10ecee5a1791152",
+  "source": "Defines the {0} descriptor of every {1} generated for the given font family, overriding any value the provider returns. This can be used to load a font for a limited set of characters only.",
+  "text": "Définit le descripteur {0} de chaque {1} généré pour la famille de polices donnée, en remplaçant toute valeur renvoyée par le fournisseur. Cela peut servir à charger une police pour un ensemble limité de caractères uniquement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définit le descripteur {0} de chaque {1} généré pour la famille de polices donnée, en remplaçant toute valeur renvoyée par le fournisseur. Cela peut servir à charger une police pour un ensemble limité de caractères uniquement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

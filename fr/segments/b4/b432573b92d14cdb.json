@@ -1,0 +1,14 @@
+{
+  "hash": "b432573b92d14cdb",
+  "source": "npm package names: {0}, {1}",
+  "text": "Noms de packages npm : {0}, {1}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Noms de packages npm : {0}, {1}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

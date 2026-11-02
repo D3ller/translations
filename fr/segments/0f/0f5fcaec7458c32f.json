@@ -1,0 +1,14 @@
+{
+  "hash": "0f5fcaec7458c32f",
+  "source": "Probably no migration is necessary but if you wish to revert to previous behavior you can add a hook to filter out these middleware:",
+  "text": "Aucune migration n'est probablement nécessaire, mais si vous souhaitez revenir au comportement précédent, vous pouvez ajouter un hook pour filtrer ces middleware :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Aucune migration n'est probablement nécessaire, mais si vous souhaitez revenir au comportement précédent, vous pouvez ajouter un hook pour filtrer ces middleware :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "1db3627d9ba8b845",
+  "source": "**{0}**: Browse all available documentation pages (defaults to v4.x)",
+  "text": "**{0}** : parcourez toutes les pages de documentation disponibles (v4.x par défaut)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** : parcourez toutes les pages de documentation disponibles (v4.x par défaut)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

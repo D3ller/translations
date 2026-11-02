@@ -1,0 +1,14 @@
+{
+  "hash": "5af8eab0f24b86f5",
+  "source": "{0}Migrate Legacy Composition API{/0}",
+  "text": "{0}Migrer l'ancienne Composition API{/0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}Migrer l'ancienne Composition API{/0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

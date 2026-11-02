@@ -1,0 +1,14 @@
+{
+  "hash": "246f92f1b1ce1540",
+  "source": "If a remote layer is resolved without {0} present, Nuxt reports which {1} entry needs it.",
+  "text": "Si un layer distant est résolu sans que {0} soit présent, Nuxt indique quelle entrée {1} en a besoin.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si un layer distant est résolu sans que {0} soit présent, Nuxt indique quelle entrée {1} en a besoin."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

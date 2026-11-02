@@ -1,0 +1,14 @@
+{
+  "hash": "a0f62869b2f4e6f0",
+  "source": "{0}: a reactive configuration within your application",
+  "text": "{0} : une configuration réactive au sein de votre application",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : une configuration réactive au sein de votre application"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

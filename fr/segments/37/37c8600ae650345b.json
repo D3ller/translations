@@ -1,0 +1,14 @@
+{
+  "hash": "37c8600ae650345b",
+  "source": "This allows the spa loading template to remain in the DOM until the Vue app suspense resolves, preventing a flash of white.",
+  "text": "Cela permet au template de chargement SPA de rester dans le DOM jusqu'à ce que le suspense de l'application Vue soit résolu, ce qui évite un flash blanc.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela permet au template de chargement SPA de rester dans le DOM jusqu'à ce que le suspense de l'application Vue soit résolu, ce qui évite un flash blanc."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

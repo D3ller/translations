@@ -1,0 +1,14 @@
+{
+  "hash": "4b8fd97233450943",
+  "source": "{0} is available on both server side and client side. It can be used within the {1}Nuxt context{/1}, or directly, to perform page navigation.",
+  "text": "{0} est disponible côté serveur comme côté client. Elle peut être utilisée dans le {1}contexte Nuxt{/1}, ou directement, pour effectuer une navigation entre pages.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est disponible côté serveur comme côté client. Elle peut être utilisée dans le {1}contexte Nuxt{/1}, ou directement, pour effectuer une navigation entre pages."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

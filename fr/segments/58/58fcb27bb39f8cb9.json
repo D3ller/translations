@@ -1,0 +1,14 @@
+{
+  "hash": "58fcb27bb39f8cb9",
+  "source": "This breaks the layer system’s override feature. If you use {0}, ensure you understand this side-effect and adjust your architecture accordingly.",
+  "text": "Cela casse la fonctionnalité de surcharge du système de layers. Si vous utilisez {0}, assurez-vous de comprendre cet effet de bord et adaptez votre architecture en conséquence.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela casse la fonctionnalité de surcharge du système de layers. Si vous utilisez {0}, assurez-vous de comprendre cet effet de bord et adaptez votre architecture en conséquence."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

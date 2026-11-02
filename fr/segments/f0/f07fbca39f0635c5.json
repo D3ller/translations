@@ -1,0 +1,14 @@
+{
+  "hash": "f07fbca39f0635c5",
+  "source": "Before creating a PR, make sure to run {0} and that no errors are reported.",
+  "text": "Avant de créer une PR, assurez-vous d'exécuter {0} et qu'aucune erreur n'est signalée.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Avant de créer une PR, assurez-vous d'exécuter {0} et qu'aucune erreur n'est signalée."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

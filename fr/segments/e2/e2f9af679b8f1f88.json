@@ -1,0 +1,14 @@
+{
+  "hash": "e2f9af679b8f1f88",
+  "source": "Define metadata for your page components.",
+  "text": "Définissez des métadonnées pour vos composants de page.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définissez des métadonnées pour vos composants de page."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

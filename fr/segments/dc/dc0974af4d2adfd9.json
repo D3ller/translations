@@ -1,0 +1,14 @@
+{
+  "hash": "dc0974af4d2adfd9",
+  "source": "The {0}{1} provider{/0} previously scanned every directory in {2}, including those that modules register for their own files. It now scans only the {3} directory of your project and of each layer. If you relied on fonts in another {4} directory, add it to {5}:",
+  "text": "Le {0}fournisseur {1}{/0} analysait auparavant tous les répertoires de {2}, y compris ceux que les modules enregistrent pour leurs propres fichiers. Il n'analyse désormais que le répertoire {3} de votre projet et de chaque layer. Si vous comptiez sur des polices situées dans un autre répertoire {4}, ajoutez-le à {5} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le {0}fournisseur {1}{/0} analysait auparavant tous les répertoires de {2}, y compris ceux que les modules enregistrent pour leurs propres fichiers. Il n'analyse désormais que le répertoire {3} de votre projet et de chaque layer. Si vous comptiez sur des polices situées dans un autre répertoire {4}, ajoutez-le à {5} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

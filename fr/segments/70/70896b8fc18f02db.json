@@ -1,0 +1,14 @@
+{
+  "hash": "70896b8fc18f02db",
+  "source": "This installs Vue's {0}, which lets Vapor and Virtual DOM components render alongside each other. You can then mark any component or page as Vapor by adding the {1} attribute to {2}:",
+  "text": "Cela installe le {0} de Vue, qui permet aux composants Vapor et Virtual DOM de s'afficher côte à côte. Vous pouvez ensuite définir n'importe quel composant ou page comme Vapor en ajoutant l'attribut {1} à {2} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela installe le {0} de Vue, qui permet aux composants Vapor et Virtual DOM de s'afficher côte à côte. Vous pouvez ensuite définir n'importe quel composant ou page comme Vapor en ajoutant l'attribut {1} à {2} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

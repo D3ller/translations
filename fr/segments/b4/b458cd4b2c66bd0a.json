@@ -1,0 +1,14 @@
+{
+  "hash": "b458cd4b2c66bd0a",
+  "source": "{0} {1} (/docs/guide/going-further/runtime-config#environment-variables).",
+  "text": "{0} {1} : /docs/guide/going-further/runtime-config#environment-variables.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} {1} : /docs/guide/going-further/runtime-config#environment-variables."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "f9a9960c36583bf9",
+  "source": "{0}Vercel Cloud{/0} using the {1} command and {2} environment variable",
+  "text": "{0}Vercel Cloud{/0} avec la commande {1} et la variable d'environnement {2}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}Vercel Cloud{/0} avec la commande {1} et la variable d'environnement {2}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "7344a5929243ec05",
+  "source": "In development the streaming handler logs a warning naming the dropped mutations and the route, so these never fail silently.",
+  "text": "En développement, le gestionnaire de streaming journalise un avertissement indiquant les modifications ignorées et la route concernée, afin que ces cas n'échouent jamais silencieusement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En développement, le gestionnaire de streaming journalise un avertissement indiquant les modifications ignorées et la route concernée, afin que ces cas n'échouent jamais silencieusement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

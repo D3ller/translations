@@ -1,0 +1,14 @@
+{
+  "hash": "c4f8eff861fbe317",
+  "source": "For example, if your site requires a {0} call for every page (for example, to get navigation data for a menu, or site settings from a CMS), this data would only be fetched once when prerendering the first page that uses it, and then cached for use when prerendering other pages.",
+  "text": "Par exemple, si votre site nécessite un appel à {0} pour chaque page (par exemple pour obtenir les données de navigation d'un menu, ou les paramètres du site depuis un CMS), ces données ne seront récupérées qu'une seule fois lors du prérendu de la première page qui les utilise, puis mises en cache pour être réutilisées lors du prérendu des autres pages.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par exemple, si votre site nécessite un appel à {0} pour chaque page (par exemple pour obtenir les données de navigation d'un menu, ou les paramètres du site depuis un CMS), ces données ne seront récupérées qu'une seule fois lors du prérendu de la première page qui les utilise, puis mises en cache pour être réutilisées lors du prérendu des autres pages."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

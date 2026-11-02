@@ -1,0 +1,14 @@
+{
+  "hash": "d2177f9649b5a87b",
+  "source": "You do not need to {0} {1}. On the server, Nuxt waits for the promise to resolve before rendering in either case, so the returned HTML always contains the data. The {2} affects what happens after the call: with it, execution pauses until {3} is populated, and client-side navigation is blocked until the data is ready; without it, execution continues immediately, {4} starts as its default value until the request resolves, and on client-side navigation you handle the loading and error states yourself using the returned {5} and {6} refs. This has a similar effect to the {7} option, though {8} is the explicit way to opt into non-blocking navigation.",
+  "text": "Vous n'avez pas besoin de {0} {1}. Côté serveur, Nuxt attend dans tous les cas que la promesse soit résolue avant d'effectuer le rendu, donc le HTML renvoyé contient toujours les données. Le {2} influe sur ce qui se passe après l'appel : avec lui, l'exécution est suspendue jusqu'à ce que {3} soit renseigné, et la navigation côté client est bloquée jusqu'à ce que les données soient prêtes ; sans lui, l'exécution se poursuit immédiatement, {4} conserve sa valeur par défaut jusqu'à la résolution de la requête, et lors d'une navigation côté client, vous gérez vous-même les états de chargement et d'erreur à l'aide des refs {5} et {6} renvoyées. L'effet est similaire à celui de l'option {7}, bien que {8} soit le moyen explicite d'opter pour une navigation non bloquante.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous n'avez pas besoin de {0} {1}. Côté serveur, Nuxt attend dans tous les cas que la promesse soit résolue avant d'effectuer le rendu, donc le HTML renvoyé contient toujours les données. Le {2} influe sur ce qui se passe après l'appel : avec lui, l'exécution est suspendue jusqu'à ce que {3} soit renseigné, et la navigation côté client est bloquée jusqu'à ce que les données soient prêtes ; sans lui, l'exécution se poursuit immédiatement, {4} conserve sa valeur par défaut jusqu'à la résolution de la requête, et lors d'une navigation côté client, vous gérez vous-même les états de chargement et d'erreur à l'aide des refs {5} et {6} renvoyées. L'effet est similaire à celui de l'option {7}, bien que {8} soit le moyen explicite d'opter pour une navigation non bloquante."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

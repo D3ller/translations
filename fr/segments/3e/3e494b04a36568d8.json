@@ -1,0 +1,14 @@
+{
+  "hash": "3e494b04a36568d8",
+  "source": "Called when an error occurs.",
+  "text": "Appelé lorsqu'une erreur se produit.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appelé lorsqu'une erreur se produit."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

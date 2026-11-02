@@ -1,0 +1,14 @@
+{
+  "hash": "0590810aaf7f6d55",
+  "source": "Watch a video from Vue School on API routes",
+  "text": "Regardez une vidéo de Vue School sur les routes d'API",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Regardez une vidéo de Vue School sur les routes d'API"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

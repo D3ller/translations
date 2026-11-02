@@ -1,0 +1,14 @@
+{
+  "hash": "a743e106fa3eac63",
+  "source": "You can even prerender API routes which is particularly useful for full statically generated sites (SSG) because you can then {0} data as if you have an available server!",
+  "text": "Vous pouvez même prérendre des routes d'API, ce qui est particulièrement utile pour les sites entièrement générés statiquement (SSG), car vous pouvez alors utiliser {0} sur ces données comme si vous disposiez d'un serveur !",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez même prérendre des routes d'API, ce qui est particulièrement utile pour les sites entièrement générés statiquement (SSG), car vous pouvez alors utiliser {0} sur ces données comme si vous disposiez d'un serveur !"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

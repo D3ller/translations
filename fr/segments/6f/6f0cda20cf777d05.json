@@ -1,0 +1,14 @@
+{
+  "hash": "6f0cda20cf777d05",
+  "source": "{0}unifont{/0} resolves font metadata from a provider. It ships the {1}, {2}, {3}, {4}, {5}, {6} and {7} providers, and you can write your own against the same interface. Source at {8}unjs/unifont{/8}.",
+  "text": "{0}unifont{/0} résout les métadonnées de police depuis un fournisseur. Il fournit les providers {1}, {2}, {3}, {4}, {5}, {6} et {7}, et vous pouvez écrire les vôtres avec la même interface. Code source : {8}unjs/unifont{/8}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}unifont{/0} résout les métadonnées de police depuis un fournisseur. Il fournit les providers {1}, {2}, {3}, {4}, {5}, {6} et {7}, et vous pouvez écrire les vôtres avec la même interface. Code source : {8}unjs/unifont{/8}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

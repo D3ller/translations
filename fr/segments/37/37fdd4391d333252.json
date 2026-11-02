@@ -1,0 +1,14 @@
+{
+  "hash": "37fdd4391d333252",
+  "source": "{0} and {1} write these into {2}. A plain {3} without prerender does not. With hybrid route rules, add the fallbacks with route rules or run a prerender build if you need them. Point your host at the file your provider expects.",
+  "text": "{0} et {1} les écrivent dans {2}. Un simple {3} sans prérendu ne le fait pas. Avec des règles de route hybrides, ajoutez les fichiers de repli via les règles de route, ou lancez un build avec prérendu si vous en avez besoin. Indiquez à votre hébergeur le fichier attendu par votre fournisseur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} et {1} les écrivent dans {2}. Un simple {3} sans prérendu ne le fait pas. Avec des règles de route hybrides, ajoutez les fichiers de repli via les règles de route, ou lancez un build avec prérendu si vous en avez besoin. Indiquez à votre hébergeur le fichier attendu par votre fournisseur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

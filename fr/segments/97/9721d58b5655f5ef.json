@@ -1,0 +1,14 @@
+{
+  "hash": "9721d58b5655f5ef",
+  "source": "Before you fix a bug, we recommend that you check whether **there's an issue that describes it**, as it's possible it's a documentation issue or that there is some context that would be helpful to know.",
+  "text": "Avant de corriger un bug, nous vous recommandons de vérifier s'il **existe une issue qui le décrit**, car il peut s'agir d'un problème de documentation ou il peut y avoir un contexte utile à connaître.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Avant de corriger un bug, nous vous recommandons de vérifier s'il **existe une issue qui le décrit**, car il peut s'agir d'un problème de documentation ou il peut y avoir un contexte utile à connaître."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

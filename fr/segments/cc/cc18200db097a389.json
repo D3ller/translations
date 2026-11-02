@@ -1,0 +1,14 @@
+{
+  "hash": "cc18200db097a389",
+  "source": "The {0} object now uses Web standard APIs:",
+  "text": "L'objet {0} utilise désormais les API standard du Web :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'objet {0} utilise désormais les API standard du Web :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

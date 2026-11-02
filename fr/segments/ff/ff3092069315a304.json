@@ -1,0 +1,14 @@
+{
+  "hash": "ff3092069315a304",
+  "source": "Nuxt Fonts works out of the box with zero config, but you can always add some configurations for finer-grained control.",
+  "text": "Nuxt Fonts fonctionne immédiatement sans aucune configuration, mais vous pouvez toujours ajouter quelques options pour un contrôle plus fin.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt Fonts fonctionne immédiatement sans aucune configuration, mais vous pouvez toujours ajouter quelques options pour un contrôle plus fin."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

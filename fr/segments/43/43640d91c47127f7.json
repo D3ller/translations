@@ -1,0 +1,14 @@
+{
+  "hash": "43640d91c47127f7",
+  "source": "The two files differ in their imports, and wherever the handler uses an h3 v1 helper or behavior that {0} handles differently:",
+  "text": "Les deux fichiers diffèrent par leurs imports, ainsi que partout où le gestionnaire utilise un helper ou un comportement de h3 v1 que {0} gère différemment :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les deux fichiers diffèrent par leurs imports, ainsi que partout où le gestionnaire utilise un helper ou un comportement de h3 v1 que {0} gère différemment :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "9dd73c622469ee65",
+  "source": "We recommend trying Vapor Mode in a fresh project rather than adding it to an existing one. You can also explore a working setup in the {0}Nuxt Vapor demo{/0}.",
+  "text": "Nous vous recommandons d'essayer Vapor Mode dans un nouveau projet plutôt que de l'ajouter à un projet existant. Vous pouvez aussi consulter une configuration fonctionnelle dans la {0}démo Nuxt Vapor{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nous vous recommandons d'essayer Vapor Mode dans un nouveau projet plutôt que de l'ajouter à un projet existant. Vous pouvez aussi consulter une configuration fonctionnelle dans la {0}démo Nuxt Vapor{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "608f4e630d587f5f",
+  "source": "server/api/todos.post.ts answers POST only",
+  "text": "server/api/todos.post.ts répond uniquement à POST",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "server/api/todos.post.ts répond uniquement à POST"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

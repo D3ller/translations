@@ -1,0 +1,14 @@
+{
+  "hash": "634844b515baef8c",
+  "source": "Currently, the Nuxt context is only accessible in {0}plugins{/0}, {1}Nuxt hooks{/1}, {2}Nuxt middleware{/2} (if wrapped in {3}), and {4}setup functions{/4} (in pages and components).",
+  "text": "Actuellement, le contexte Nuxt n'est accessible que dans les {0}plugins{/0}, les {1}hooks Nuxt{/1}, les {2}middleware Nuxt{/2} (s'ils sont enveloppés dans {3}) et les {4}fonctions setup{/4} (dans les pages et les composants).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Actuellement, le contexte Nuxt n'est accessible que dans les {0}plugins{/0}, les {1}hooks Nuxt{/1}, les {2}middleware Nuxt{/2} (s'ils sont enveloppés dans {3}) et les {4}fonctions setup{/4} (dans les pages et les composants)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

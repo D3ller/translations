@@ -1,0 +1,14 @@
+{
+  "hash": "b77179dd262c92c2",
+  "source": "Set to {0} to reuse the active builder's own file watcher (for example, Vite's {1}) instead of starting a second one. This reduces the number of file watchers active in dev mode and becomes the default when {2} is {3}. If the active builder does not implement its own watcher (currently webpack and rspack), Nuxt logs a warning and falls back to its default selection.",
+  "text": "Définissez sur {0} pour réutiliser le propre observateur de fichiers du builder actif (par exemple le {1} de Vite) au lieu d'en démarrer un second. Cela réduit le nombre d'observateurs de fichiers actifs en mode dev et devient la valeur par défaut lorsque {2} vaut {3}. Si le builder actif n'implémente pas son propre observateur (actuellement webpack et rspack), Nuxt affiche un avertissement et revient à sa sélection par défaut.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définissez sur {0} pour réutiliser le propre observateur de fichiers du builder actif (par exemple le {1} de Vite) au lieu d'en démarrer un second. Cela réduit le nombre d'observateurs de fichiers actifs en mode dev et devient la valeur par défaut lorsque {2} vaut {3}. Si le builder actif n'implémente pas son propre observateur (actuellement webpack et rspack), Nuxt affiche un avertissement et revient à sa sélection par défaut."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

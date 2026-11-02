@@ -1,0 +1,14 @@
+{
+  "hash": "a20c642bd3ce65c0",
+  "source": "If you don't want to pre-render your routes, another way of using static hosting is to set the {0} property to {1} in the {2} file. The {3} command will then output an {4} entrypoint and JavaScript bundles like a classic client-side Vue.js application.",
+  "text": "Si vous ne souhaitez pas prérendre vos routes, une autre façon d'utiliser l'hébergement statique consiste à définir la propriété {0} sur {1} dans le fichier {2}. La commande {3} produira alors un point d'entrée {4} et des bundles JavaScript comme une application Vue.js classique côté client.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous ne souhaitez pas prérendre vos routes, une autre façon d'utiliser l'hébergement statique consiste à définir la propriété {0} sur {1} dans le fichier {2}. La commande {3} produira alors un point d'entrée {4} et des bundles JavaScript comme une application Vue.js classique côté client."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "e3c150b921caf801",
+  "source": "Enabling Vapor Mode",
+  "text": "Activer Vapor Mode",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Activer Vapor Mode"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

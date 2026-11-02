@@ -1,0 +1,14 @@
+{
+  "hash": "50d6c44689bddf24",
+  "source": "Create Your First Module",
+  "text": "Créer votre premier module",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Créer votre premier module"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

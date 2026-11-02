@@ -1,0 +1,14 @@
+{
+  "hash": "2f2a282d5c74c964",
+  "source": "Nuxt 4 is **scheduled for release in Q2 2025**. It will include all the features currently available through {0}.",
+  "text": "La sortie de Nuxt 4 est **prévue pour le deuxième trimestre 2025**. Il inclura toutes les fonctionnalités actuellement disponibles via {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La sortie de Nuxt 4 est **prévue pour le deuxième trimestre 2025**. Il inclura toutes les fonctionnalités actuellement disponibles via {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

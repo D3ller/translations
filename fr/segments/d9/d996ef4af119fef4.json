@@ -1,0 +1,14 @@
+{
+  "hash": "d996ef4af119fef4",
+  "source": "The key in {0} that holds your module options",
+  "text": "La clé dans {0} qui contient les options de votre module",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La clé dans {0} qui contient les options de votre module"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

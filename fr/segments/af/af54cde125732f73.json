@@ -1,0 +1,14 @@
+{
+  "hash": "af54cde125732f73",
+  "source": "Check that one or more dependencies are installed, prompting the user to install any that are missing.",
+  "text": "Vérifiez qu'une ou plusieurs dépendances sont installées, en invitant l'utilisateur à installer celles qui manquent.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vérifiez qu'une ou plusieurs dépendances sont installées, en invitant l'utilisateur à installer celles qui manquent."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

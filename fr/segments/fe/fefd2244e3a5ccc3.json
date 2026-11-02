@@ -1,0 +1,14 @@
+{
+  "hash": "fefd2244e3a5ccc3",
+  "source": "The modules directory, each file in which will be auto-registered as a Nuxt module.",
+  "text": "Le répertoire modules, dont chaque fichier sera enregistré automatiquement comme un module Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le répertoire modules, dont chaque fichier sera enregistré automatiquement comme un module Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

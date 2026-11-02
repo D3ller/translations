@@ -1,0 +1,14 @@
+{
+  "hash": "05b11cd98d088966",
+  "source": "The {0} directory is the directory that contains the local modules of the Nuxt application. Modules are used to extend the functionality of the Nuxt application.",
+  "text": "Le répertoire {0} contient les modules locaux de l'application Nuxt. Les modules servent à étendre les fonctionnalités de l'application Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le répertoire {0} contient les modules locaux de l'application Nuxt. Les modules servent à étendre les fonctionnalités de l'application Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

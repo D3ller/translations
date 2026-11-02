@@ -1,0 +1,14 @@
+{
+  "hash": "d6d59634da832e14",
+  "source": "Define a request handler.",
+  "text": "Définit un gestionnaire de requête.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définit un gestionnaire de requête."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

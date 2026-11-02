@@ -1,0 +1,14 @@
+{
+  "hash": "0198622cac8cb019",
+  "source": "You can use the {0} component anywhere in your app:",
+  "text": "Vous pouvez utiliser le composant {0} n'importe où dans votre application :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez utiliser le composant {0} n'importe où dans votre application :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

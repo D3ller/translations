@@ -1,0 +1,14 @@
+{
+  "hash": "2fcd676a792722d9",
+  "source": "Route Rules: {0} Matches Nested Paths",
+  "text": "Règles de route : {0} correspond aux chemins imbriqués",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Règles de route : {0} correspond aux chemins imbriqués"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "f3475ce78c4cbb3b",
+  "source": "Entry Point",
+  "text": "Point d'entrée",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Point d'entrée"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

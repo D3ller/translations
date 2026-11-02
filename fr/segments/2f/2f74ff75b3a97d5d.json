@@ -1,0 +1,14 @@
+{
+  "hash": "2f74ff75b3a97d5d",
+  "source": "Alternative: Collect configs from all layers, with user layer taking precedence",
+  "text": "Alternative : collecter les configurations de tous les layers, le layer de l'utilisateur étant prioritaire",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Alternative : collecter les configurations de tous les layers, le layer de l'utilisateur étant prioritaire"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

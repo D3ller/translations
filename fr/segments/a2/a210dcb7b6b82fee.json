@@ -1,0 +1,14 @@
+{
+  "hash": "a210dcb7b6b82fee",
+  "source": "👉 {0}See full RFC{/0}",
+  "text": "👉 {0}Voir la RFC complète{/0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "👉 {0}Voir la RFC complète{/0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

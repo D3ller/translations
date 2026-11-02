@@ -1,0 +1,14 @@
+{
+  "hash": "cef61a4e6b93355a",
+  "source": "Prefer {0}active voice{/0}.",
+  "text": "Privilégiez la {0}voix active{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Privilégiez la {0}voix active{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

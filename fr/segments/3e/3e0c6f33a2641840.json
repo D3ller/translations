@@ -1,0 +1,14 @@
+{
+  "hash": "3e0c6f33a2641840",
+  "source": "Route Rule Types Move to {0}",
+  "text": "Les types de règles de route passent à {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les types de règles de route passent à {0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

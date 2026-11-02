@@ -1,0 +1,14 @@
+{
+  "hash": "1eb7dd39ed4f6b2e",
+  "source": "This is an advanced utility and should be used with care. For example, {0} and {1} manipulate the DOM to avoid hydration mismatches.",
+  "text": "Il s'agit d'un utilitaire avancé à utiliser avec précaution. Par exemple, {0} et {1} manipulent le DOM pour éviter les différences d'hydratation.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Il s'agit d'un utilitaire avancé à utiliser avec précaution. Par exemple, {0} et {1} manipulent le DOM pour éviter les différences d'hydratation."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

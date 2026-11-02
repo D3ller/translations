@@ -1,0 +1,14 @@
+{
+  "hash": "7afd9eb0a36c91b2",
+  "source": "Idle strategy is for components that can be hydrated when the browser is idle.",
+  "text": "La stratégie d'inactivité est destinée aux composants qui peuvent être hydratés lorsque le navigateur est inactif.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La stratégie d'inactivité est destinée aux composants qui peuvent être hydratés lorsque le navigateur est inactif."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

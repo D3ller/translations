@@ -1,0 +1,14 @@
+{
+  "hash": "92d5099f67afde02",
+  "source": "Configures whether and how sourcemaps are generated for server and/or client bundles.",
+  "text": "Configure si et comment les sourcemaps sont générées pour les bundles serveur et/ou client.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Configure si et comment les sourcemaps sont générées pour les bundles serveur et/ou client."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

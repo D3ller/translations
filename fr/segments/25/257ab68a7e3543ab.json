@@ -1,0 +1,14 @@
+{
+  "hash": "257ab68a7e3543ab",
+  "source": "With the upgrade to {0}hookable v6{/0}, {1} may now return {2} instead of always returning {3}. This is a significant performance improvement that avoids unnecessary {4} allocations when there are no registered hooks or all hooks are synchronous.",
+  "text": "Avec la mise à niveau vers {0}hookable v6{/0}, {1} peut désormais renvoyer {2} au lieu de toujours renvoyer {3}. C'est une amélioration significative des performances qui évite des allocations de {4} inutiles lorsqu'aucun hook n'est enregistré ou que tous les hooks sont synchrones.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Avec la mise à niveau vers {0}hookable v6{/0}, {1} peut désormais renvoyer {2} au lieu de toujours renvoyer {3}. C'est une amélioration significative des performances qui évite des allocations de {4} inutiles lorsqu'aucun hook n'est enregistré ou que tous les hooks sont synchrones."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

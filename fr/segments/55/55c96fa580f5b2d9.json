@@ -1,0 +1,14 @@
+{
+  "hash": "55c96fa580f5b2d9",
+  "source": "This applies to the island that renders a whole {0} page. Islands used within a page are still fetched when they mount.",
+  "text": "Cela s'applique à l'island qui rend toute une page {0}. Les islands utilisées au sein d'une page sont toujours récupérées lorsqu'elles sont montées.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela s'applique à l'island qui rend toute une page {0}. Les islands utilisées au sein d'une page sont toujours récupérées lorsqu'elles sont montées."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

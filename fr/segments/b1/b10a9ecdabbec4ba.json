@@ -1,0 +1,14 @@
+{
+  "hash": "b10a9ecdabbec4ba",
+  "source": "Path to the emitted per-component SSR styles map, or {0} when no inline styles are produced.",
+  "text": "Chemin vers la map des styles SSR par composant émise, ou {0} lorsqu'aucun style en ligne n'est produit.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Chemin vers la map des styles SSR par composant émise, ou {0} lorsqu'aucun style en ligne n'est produit."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

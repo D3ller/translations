@@ -1,0 +1,14 @@
+{
+  "hash": "2732f6688a273185",
+  "source": "You can also force a v3 folder structure with the following configuration:",
+  "text": "Vous pouvez également forcer une structure de dossiers v3 avec la configuration suivante :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez également forcer une structure de dossiers v3 avec la configuration suivante :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

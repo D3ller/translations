@@ -1,0 +1,14 @@
+{
+  "hash": "3390b02bc2f82a41",
+  "source": "The components/ directory is where you put all your Vue components.",
+  "text": "Le répertoire components/ est l'endroit où vous placez tous vos composants Vue.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le répertoire components/ est l'endroit où vous placez tous vos composants Vue."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "73e56a83a8df4893",
+  "source": "Plugins are called in order sequentially and before everything else. You might use a composable that depends on another plugin which has not been called yet.",
+  "text": "Les plugins sont appelés séquentiellement, dans l'ordre, et avant tout le reste. Vous pourriez utiliser un composable qui dépend d'un autre plugin qui n'a pas encore été appelé.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les plugins sont appelés séquentiellement, dans l'ordre, et avant tout le reste. Vous pourriez utiliser un composable qui dépend d'un autre plugin qui n'a pas encore été appelé."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "e1fca3ebe3c10128",
+  "source": "The MCP server provides structured access to the Nuxt documentation, making it easy for AI tools to understand and assist with Nuxt development.",
+  "text": "Le serveur MCP offre un accès structuré à la documentation de Nuxt, ce qui permet aux outils d'IA de comprendre et d'assister plus facilement le développement avec Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le serveur MCP offre un accès structuré à la documentation de Nuxt, ce qui permet aux outils d'IA de comprendre et d'assister plus facilement le développement avec Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "1ccd1c93efed5aab",
+  "source": "You can also selectively register some components globally by placing them in a {0} directory, or by using a {1} suffix in the filename. As noted above, each global component is rendered in a separate chunk, so be careful not to overuse this feature.",
+  "text": "Vous pouvez aussi enregistrer globalement certains composants de manière sélective, en les plaçant dans un répertoire {0} ou en utilisant le suffixe {1} dans le nom de fichier. Comme indiqué ci-dessus, chaque composant global est rendu dans un chunk distinct, veillez donc à ne pas abuser de cette fonctionnalité.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez aussi enregistrer globalement certains composants de manière sélective, en les plaçant dans un répertoire {0} ou en utilisant le suffixe {1} dans le nom de fichier. Comme indiqué ci-dessus, chaque composant global est rendu dans un chunk distinct, veillez donc à ne pas abuser de cette fonctionnalité."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

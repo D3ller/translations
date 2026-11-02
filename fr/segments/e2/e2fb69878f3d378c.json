@@ -1,0 +1,14 @@
+{
+  "hash": "e2fb69878f3d378c",
+  "source": "The value of this object is accessible from server only using {0}. It mainly should hold *private* configuration which is not exposed on the frontend. This could include a reference to your API secret tokens. Anything under {1} and {2} will be exposed to the frontend as well. Values are automatically replaced by matching env variables at runtime, e.g. setting an environment variable {3} would overwrite the two values in the example below.",
+  "text": "La valeur de cet objet est accessible uniquement depuis le serveur en utilisant {0}. Il doit principalement contenir une configuration *privée* qui n'est pas exposée côté frontend. Cela peut inclure une référence à vos jetons secrets d'API. Tout ce qui se trouve sous {1} et {2} sera également exposé au frontend. Les valeurs sont automatiquement remplacées par les variables d'environnement correspondantes à l'exécution, par exemple, définir une variable d'environnement {3} écraserait les deux valeurs de l'exemple ci-dessous.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La valeur de cet objet est accessible uniquement depuis le serveur en utilisant {0}. Il doit principalement contenir une configuration *privée* qui n'est pas exposée côté frontend. Cela peut inclure une référence à vos jetons secrets d'API. Tout ce qui se trouve sous {1} et {2} sera également exposé au frontend. Les valeurs sont automatiquement remplacées par les variables d'environnement correspondantes à l'exécution, par exemple, définir une variable d'environnement {3} écraserait les deux valeurs de l'exemple ci-dessous."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

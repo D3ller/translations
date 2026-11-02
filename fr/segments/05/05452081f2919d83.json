@@ -1,0 +1,14 @@
+{
+  "hash": "05452081f2919d83",
+  "source": "**Enable Developer mode:**",
+  "text": "**Activez le mode développeur :**",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Activez le mode développeur :**"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

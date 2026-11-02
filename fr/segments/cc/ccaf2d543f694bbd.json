@@ -1,0 +1,14 @@
+{
+  "hash": "ccaf2d543f694bbd",
+  "source": "{0}: unmount the component. Also records a {1} trace mark.",
+  "text": "{0} : démonte le composant. Enregistre également une marque de trace {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : démonte le composant. Enregistre également une marque de trace {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

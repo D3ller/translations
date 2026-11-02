@@ -1,0 +1,14 @@
+{
+  "hash": "25473672bc43b40b",
+  "source": "With {0} enabled a response is typed by the handler that answers it whatever this option is set to. What the option decides is whether a path Nuxt does not recognize is an error or is simply typed as {1}.",
+  "text": "Lorsque {0} est activé, une réponse est typée par le handler qui y répond, quelle que soit la valeur de cette option. L'option décide si un chemin que Nuxt ne reconnaît pas est une erreur ou est simplement typé comme {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque {0} est activé, une réponse est typée par le handler qui y répond, quelle que soit la valeur de cette option. L'option décide si un chemin que Nuxt ne reconnaît pas est une erreur ou est simplement typé comme {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

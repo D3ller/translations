@@ -1,0 +1,14 @@
+{
+  "hash": "a92c4441bef80c26",
+  "source": "The {0} method is meant to be used to call a function and give it an explicit Nuxt context. Typically, the Nuxt context is passed around implicitly and you do not need to worry about this. However, when working with complex {1}/{2} scenarios in middleware/plugins, you can run into instances where the current instance has been unset after an async call.",
+  "text": "La méthode {0} sert à appeler une fonction en lui donnant un contexte Nuxt explicite. En général, le contexte Nuxt est transmis de manière implicite et vous n'avez pas à vous en préoccuper. Cependant, avec des scénarios complexes de {1}/{2} dans des middleware ou des plugins, il peut arriver que l'instance courante ne soit plus définie après un appel asynchrone.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La méthode {0} sert à appeler une fonction en lui donnant un contexte Nuxt explicite. En général, le contexte Nuxt est transmis de manière implicite et vous n'avez pas à vous en préoccuper. Cependant, avec des scénarios complexes de {1}/{2} dans des middleware ou des plugins, il peut arriver que l'instance courante ne soit plus définie après un appel asynchrone."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

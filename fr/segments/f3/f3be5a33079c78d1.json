@@ -1,0 +1,14 @@
+{
+  "hash": "f3be5a33079c78d1",
+  "source": "It includes built-in automatic self-hosting for any font file which means you can optimally load web fonts with reduced layout shift, thanks to the underlying package {0}fontaine{/0}.",
+  "text": "Il inclut un auto-hébergement automatique intégré pour tout fichier de police, ce qui vous permet de charger les polices web de manière optimale avec un décalage de mise en page réduit, grâce au package sous-jacent {0}fontaine{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Il inclut un auto-hébergement automatique intégré pour tout fichier de police, ce qui vous permet de charger les polices web de manière optimale avec un décalage de mise en page réduit, grâce au package sous-jacent {0}fontaine{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

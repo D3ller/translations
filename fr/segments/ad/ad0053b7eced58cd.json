@@ -1,0 +1,14 @@
+{
+  "hash": "ad0053b7eced58cd",
+  "source": "customize tsconfig.app.json",
+  "text": "personnaliser tsconfig.app.json",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "personnaliser tsconfig.app.json"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

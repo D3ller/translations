@@ -1,0 +1,14 @@
+{
+  "hash": "b9565702ba9d8c99",
+  "source": "In your project root, create {0}",
+  "text": "À la racine de votre projet, créez {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "À la racine de votre projet, créez {0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

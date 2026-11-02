@@ -1,0 +1,14 @@
+{
+  "hash": "a1304b6bca30adc4",
+  "source": "Some specific points about contributions to the framework repository.",
+  "text": "Quelques points spécifiques concernant les contributions au dépôt du framework.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Quelques points spécifiques concernant les contributions au dépôt du framework."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

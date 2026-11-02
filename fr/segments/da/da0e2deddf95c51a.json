@@ -1,0 +1,14 @@
+{
+  "hash": "da0e2deddf95c51a",
+  "source": "note that this relies on ofetch >= 1.4.0 - you may need to refresh your lockfile",
+  "text": "notez que cela dépend de ofetch >= 1.4.0 - vous devrez peut-être actualiser votre lockfile",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "notez que cela dépend de ofetch >= 1.4.0 - vous devrez peut-être actualiser votre lockfile"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

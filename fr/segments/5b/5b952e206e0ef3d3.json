@@ -1,0 +1,14 @@
+{
+  "hash": "5b952e206e0ef3d3",
+  "source": "Nitro reserves dotted suffixes in the names of files it scans in {0}, such as the {1} in {2}. A file such as {3} fails the build (and is skipped with an error in development) unless the suffix is a known file extension, such as {4} in {5}. Rename the file, or add the suffix to {6}:",
+  "text": "Nitro réserve les suffixes séparés par un point dans les noms des fichiers qu'il analyse dans {0}, comme le {1} dans {2}. Un fichier tel que {3} fait échouer le build (et est ignoré avec une erreur en développement), sauf si le suffixe est une extension de fichier connue, comme {4} dans {5}. Renommez le fichier, ou ajoutez le suffixe à {6} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nitro réserve les suffixes séparés par un point dans les noms des fichiers qu'il analyse dans {0}, comme le {1} dans {2}. Un fichier tel que {3} fait échouer le build (et est ignoré avec une erreur en développement), sauf si le suffixe est une extension de fichier connue, comme {4} dans {5}. Renommez le fichier, ou ajoutez le suffixe à {6} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

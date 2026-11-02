@@ -1,0 +1,14 @@
+{
+  "hash": "3cd1bf91dcf93009",
+  "source": "Short path to the component. If not provided, it will be generated from the component path.",
+  "text": "Chemin court vers le composant. S'il n'est pas fourni, il sera généré à partir du chemin du composant.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Chemin court vers le composant. S'il n'est pas fourni, il sera généré à partir du chemin du composant."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

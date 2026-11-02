@@ -1,0 +1,14 @@
+{
+  "hash": "a4d9613cc3baa44a",
+  "source": "These let you call and add runtime NuxtApp hooks",
+  "text": "Ceux-ci permettent d'appeler et d'ajouter des hooks NuxtApp d'exécution",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ceux-ci permettent d'appeler et d'ajouter des hooks NuxtApp d'exécution"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

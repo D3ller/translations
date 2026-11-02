@@ -1,0 +1,14 @@
+{
+  "hash": "039434b89b0b7ae8",
+  "source": "**Method 1:** Named export",
+  "text": "**Méthode 1 :** export nommé",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Méthode 1 :** export nommé"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

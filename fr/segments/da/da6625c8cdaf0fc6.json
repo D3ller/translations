@@ -1,0 +1,14 @@
+{
+  "hash": "da6625c8cdaf0fc6",
+  "source": "Server plugins take variants too, although they are specific to Nitro so there is no generic {0} variant to register.",
+  "text": "Les plugins serveur acceptent aussi des variantes, bien qu'ils soient spécifiques à Nitro ; il n'y a donc pas de variante {0} générique à enregistrer.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les plugins serveur acceptent aussi des variantes, bien qu'ils soient spécifiques à Nitro ; il n'y a donc pas de variante {0} générique à enregistrer."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "2042a5f9b340e848",
+  "source": "These options will likely be moved elsewhere in the future, such as into {0} or into the {1} directory.",
+  "text": "Ces options seront probablement déplacées ailleurs à l'avenir, par exemple dans {0} ou dans le répertoire {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ces options seront probablement déplacées ailleurs à l'avenir, par exemple dans {0} ou dans le répertoire {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

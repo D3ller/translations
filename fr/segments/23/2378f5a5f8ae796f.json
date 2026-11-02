@@ -1,0 +1,14 @@
+{
+  "hash": "2378f5a5f8ae796f",
+  "source": "Nuxt Kit provides a set of utilities to help you create and use modules. You can use these utilities to create your own modules or to reuse existing modules.",
+  "text": "Nuxt Kit fournit un ensemble d'utilitaires pour vous aider à créer et à utiliser des modules. Vous pouvez les utiliser pour créer vos propres modules ou pour réutiliser des modules existants.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt Kit fournit un ensemble d'utilitaires pour vous aider à créer et à utiliser des modules. Vous pouvez les utiliser pour créer vos propres modules ou pour réutiliser des modules existants."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

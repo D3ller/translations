@@ -1,0 +1,14 @@
+{
+  "hash": "57a60a616e035aa3",
+  "source": "The error is now JSON-encoded as a whole, so {0} arrives with its original shape and is never stringified.",
+  "text": "L'erreur est désormais encodée en JSON dans son ensemble, de sorte que {0} arrive avec sa forme d'origine et n'est jamais converti en chaîne.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'erreur est désormais encodée en JSON dans son ensemble, de sorte que {0} arrive avec sa forme d'origine et n'est jamais converti en chaîne."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

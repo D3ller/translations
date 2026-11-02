@@ -1,0 +1,14 @@
+{
+  "hash": "796be1bb0326f592",
+  "source": "GitHub Copilot Agent",
+  "text": "Agent GitHub Copilot",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Agent GitHub Copilot"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "3392a06cf4ddea03",
+  "source": "{0}: Event emitted when the default slot of the component throws an error.",
+  "text": "{0} : événement émis lorsque le slot par défaut du composant génère une erreur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : événement émis lorsque le slot par défaut du composant génère une erreur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

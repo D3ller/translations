@@ -1,0 +1,14 @@
+{
+  "hash": "1894242d23ad4131",
+  "source": "Set the layout on the route you are navigating _to_",
+  "text": "Définir le layout sur la route vers laquelle vous naviguez _to_",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définir le layout sur la route vers laquelle vous naviguez _to_"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

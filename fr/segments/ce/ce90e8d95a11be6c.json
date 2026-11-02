@@ -1,0 +1,14 @@
+{
+  "hash": "ce90e8d95a11be6c",
+  "source": "**{0}**: A plugin object or a string with the path to the plugin. If a string is provided, it will be converted to a plugin object with {1} set to the string value.",
+  "text": "**{0}** : un objet plugin ou une chaîne contenant le chemin vers le plugin. Si une chaîne est fournie, elle sera convertie en objet plugin avec {1} défini sur la valeur de cette chaîne.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** : un objet plugin ou une chaîne contenant le chemin vers le plugin. Si une chaîne est fournie, elle sera convertie en objet plugin avec {1} défini sur la valeur de cette chaîne."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

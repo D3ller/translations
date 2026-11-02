@@ -1,0 +1,14 @@
+{
+  "hash": "788db34928be8136",
+  "source": "{0}: array of normalized matched routes with current route location",
+  "text": "{0} : tableau des routes correspondantes normalisées avec l'emplacement de la route courante",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : tableau des routes correspondantes normalisées avec l'emplacement de la route courante"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

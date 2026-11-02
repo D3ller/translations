@@ -1,0 +1,14 @@
+{
+  "hash": "45e933b740479bf5",
+  "source": "This will produce an alias of {0} which points to your layer.",
+  "text": "Cela produira un alias {0} qui pointe vers votre layer.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela produira un alias {0} qui pointe vers votre layer."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

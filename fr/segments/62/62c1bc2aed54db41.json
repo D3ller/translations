@@ -1,0 +1,14 @@
+{
+  "hash": "62c1bc2aed54db41",
+  "source": "queue events to be sent when ga loads",
+  "text": "mettre en file d'attente les événements à envoyer quand ga se charge",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "mettre en file d'attente les événements à envoyer quand ga se charge"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

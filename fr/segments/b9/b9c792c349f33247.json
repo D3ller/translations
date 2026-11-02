@@ -1,0 +1,14 @@
+{
+  "hash": "b9c792c349f33247",
+  "source": "We recommend instead letting the {0}official Vue extension{/0} generate accurate types for your components. Note that you may wish to set this to {1} if you are using other libraries, such as ESLint, that are unable to understand the type of {2} files.",
+  "text": "Nous vous recommandons plutôt de laisser l'{0}extension officielle de Vue{/0} générer des types précis pour vos composants. Notez que vous pouvez définir cette option à {1} si vous utilisez d'autres bibliothèques, comme ESLint, qui ne peuvent pas comprendre le type des fichiers {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nous vous recommandons plutôt de laisser l'{0}extension officielle de Vue{/0} générer des types précis pour vos composants. Notez que vous pouvez définir cette option à {1} si vous utilisez d'autres bibliothèques, comme ESLint, qui ne peuvent pas comprendre le type des fichiers {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

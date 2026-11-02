@@ -1,0 +1,14 @@
+{
+  "hash": "a2b467fc8a07b3ee",
+  "source": "Name of the config file to load, without an extension.",
+  "text": "Nom du fichier de configuration à charger, sans extension.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nom du fichier de configuration à charger, sans extension."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

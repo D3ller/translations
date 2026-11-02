@@ -1,0 +1,14 @@
+{
+  "hash": "bd7de3600cf41e3b",
+  "source": "If you need to access the component state with {0}, you should migrate to using {1} . You might also consider using the built-in meta-components.",
+  "text": "Si vous devez accéder à l'état du composant avec {0}, vous devez migrer vers l'utilisation de {1}. Vous pouvez aussi envisager d'utiliser les composants meta intégrés.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous devez accéder à l'état du composant avec {0}, vous devez migrer vers l'utilisation de {1}. Vous pouvez aussi envisager d'utiliser les composants meta intégrés."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

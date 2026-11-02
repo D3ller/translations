@@ -1,0 +1,14 @@
+{
+  "hash": "775c0e7c42f88c74",
+  "source": "It supports multiple providers that are designed to be pluggable and extensible, so no matter your setup you should be able to use an existing provider or write your own.",
+  "text": "Il prend en charge plusieurs fournisseurs conçus pour être modulaires et extensibles : quelle que soit votre configuration, vous devriez pouvoir utiliser un fournisseur existant ou écrire le vôtre.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Il prend en charge plusieurs fournisseurs conçus pour être modulaires et extensibles : quelle que soit votre configuration, vous devriez pouvoir utiliser un fournisseur existant ou écrire le vôtre."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

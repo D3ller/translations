@@ -1,0 +1,14 @@
+{
+  "hash": "b5dc6bc24ee82053",
+  "source": "Optional, when using keep-alive",
+  "text": "Facultatif, lors de l'utilisation de keep-alive",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Facultatif, lors de l'utilisation de keep-alive"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

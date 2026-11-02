@@ -1,0 +1,14 @@
+{
+  "hash": "c6bd3d3888d464f3",
+  "source": "Configures a dynamic template to customize the page title. Can be a string with {0} placeholder or a function.",
+  "text": "Configure un template dynamique pour personnaliser le titre de la page. Peut être une chaîne contenant le placeholder {0} ou une fonction.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Configure un template dynamique pour personnaliser le titre de la page. Peut être une chaîne contenant le placeholder {0} ou une fonction."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

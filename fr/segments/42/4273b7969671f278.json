@@ -1,0 +1,14 @@
+{
+  "hash": "4273b7969671f278",
+  "source": "**{0}**. Serve this when the host should keep a 404 status and still load your app.",
+  "text": "**{0}** : servez-le lorsque l'hébergeur doit conserver un statut 404 tout en chargeant votre application.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** : servez-le lorsque l'hébergeur doit conserver un statut 404 tout en chargeant votre application."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

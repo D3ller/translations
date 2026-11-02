@@ -1,0 +1,14 @@
+{
+  "hash": "4acc5868589ebeca",
+  "source": "It's also possible to enable/disable prefetching all links globally for your app.",
+  "text": "Il est également possible d'activer ou de désactiver le préchargement de tous les liens globalement pour votre application.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Il est également possible d'activer ou de désactiver le préchargement de tous les liens globalement pour votre application."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

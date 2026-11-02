@@ -1,0 +1,14 @@
+{
+  "hash": "094357790e45b128",
+  "source": "Ensure that you are using the latest LTS version of Node.js ({0}release schedule{/0})",
+  "text": "Assurez-vous d'utiliser la dernière version LTS de Node.js ({0}calendrier des versions{/0})",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Assurez-vous d'utiliser la dernière version LTS de Node.js ({0}calendrier des versions{/0})"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

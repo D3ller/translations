@@ -1,0 +1,14 @@
+{
+  "hash": "ab8394d38ea90a31",
+  "source": "Plugins and Middleware",
+  "text": "Plugins et middleware",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Plugins et middleware"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

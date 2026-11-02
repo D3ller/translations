@@ -1,0 +1,14 @@
+{
+  "hash": "b6f7a6e0f01ed1d8",
+  "source": "More details about the spec are in the **gitignore documentation**.",
+  "text": "Pour plus de détails sur la spécification, consultez la **documentation de gitignore**.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour plus de détails sur la spécification, consultez la **documentation de gitignore**."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

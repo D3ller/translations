@@ -1,0 +1,14 @@
+{
+  "hash": "483173b6ce43126d",
+  "source": "**{0} type augmentation removed**: TypeScript no longer exposes {1}deprecated {2} flags{/1} on {3}",
+  "text": "**Suppression de l'augmentation de types de {0}** : TypeScript n'expose plus les {1}indicateurs {2} obsolètes{/1} sur {3}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Suppression de l'augmentation de types de {0}** : TypeScript n'expose plus les {1}indicateurs {2} obsolètes{/1} sur {3}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

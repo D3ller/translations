@@ -1,0 +1,14 @@
+{
+  "hash": "cfef7ffa2a563dc9",
+  "source": "A compile-time macro such as {0} executed at runtime. These helpers are transformed away by the Nuxt build and must never run dynamically. Usually this means the macro was called inside a composable or a non-page component instead of directly in a page.",
+  "text": "Une macro de compilation telle que {0} a été exécutée à l'exécution. Ces helpers sont supprimés par transformation lors du build de Nuxt et ne doivent jamais s'exécuter dynamiquement. Cela signifie généralement que la macro a été appelée dans un composable ou dans un composant qui n'est pas une page, au lieu de l'être directement dans une page.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une macro de compilation telle que {0} a été exécutée à l'exécution. Ces helpers sont supprimés par transformation lors du build de Nuxt et ne doivent jamais s'exécuter dynamiquement. Cela signifie généralement que la macro a été appelée dans un composable ou dans un composant qui n'est pas une page, au lieu de l'être directement dans une page."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

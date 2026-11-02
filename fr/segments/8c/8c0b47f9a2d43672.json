@@ -1,0 +1,14 @@
+{
+  "hash": "8c0b47f9a2d43672",
+  "source": "{0}: Programmatically navigate to a new URL by replacing the current entry in the routes history stack. **It is recommended to use {1} instead.**",
+  "text": "{0} : navigue par programmation vers une nouvelle URL en remplaçant l'entrée courante dans la pile de l'historique des routes. **Il est recommandé d'utiliser {1} à la place.**",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : navigue par programmation vers une nouvelle URL en remplaçant l'entrée courante dans la pile de l'historique des routes. **Il est recommandé d'utiliser {1} à la place.**"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

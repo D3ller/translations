@@ -1,0 +1,14 @@
+{
+  "hash": "b0198e1756e07c4f",
+  "source": "when rendering HTML on the server and {0} is set",
+  "text": "lors du rendu du HTML côté serveur et que {0} est défini",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "lors du rendu du HTML côté serveur et que {0} est défini"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

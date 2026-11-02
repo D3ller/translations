@@ -1,0 +1,14 @@
+{
+  "hash": "ab2902366b5a6302",
+  "source": "It is possible to display {0}nested routes{/0} with {1}.",
+  "text": "Il est possible d'afficher des {0}routes imbriquées{/0} avec {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Il est possible d'afficher des {0}routes imbriquées{/0} avec {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

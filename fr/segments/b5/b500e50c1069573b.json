@@ -1,0 +1,14 @@
+{
+  "hash": "b500e50c1069573b",
+  "source": "External config file not supported",
+  "text": "Fichier de configuration externe non pris en charge",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Fichier de configuration externe non pris en charge"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

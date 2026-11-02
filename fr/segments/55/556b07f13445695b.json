@@ -1,0 +1,14 @@
+{
+  "hash": "556b07f13445695b",
+  "source": "The typecheck command runs vue-tsc to check types throughout your app.",
+  "text": "La commande typecheck exécute vue-tsc pour vérifier les types dans toute votre application.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La commande typecheck exécute vue-tsc pour vérifier les types dans toute votre application."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "0a7602e347f948a5",
+  "source": "Invalid input is rejected with a {0} whose {1} lists what failed. Pass {2} to reject it with a different error.",
+  "text": "Une entrée invalide est rejetée avec une {0} dont {1} liste ce qui a échoué. Passez {2} pour la rejeter avec une erreur différente.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une entrée invalide est rejetée avec une {0} dont {1} liste ce qui a échoué. Passez {2} pour la rejeter avec une erreur différente."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

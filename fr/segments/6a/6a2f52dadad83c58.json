@@ -1,0 +1,14 @@
+{
+  "hash": "6a2f52dadad83c58",
+  "source": "See {0}the original TypeScript pull request{/0}.",
+  "text": "Consultez {0}la pull request originale de TypeScript{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Consultez {0}la pull request originale de TypeScript{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

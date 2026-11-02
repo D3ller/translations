@@ -1,0 +1,14 @@
+{
+  "hash": "2affcaf7dc00c3b2",
+  "source": "Watch Vue School video about createResolver.",
+  "text": "Regardez la vidéo de Vue School sur createResolver.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Regardez la vidéo de Vue School sur createResolver."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

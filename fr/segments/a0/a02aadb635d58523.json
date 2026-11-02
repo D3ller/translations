@@ -1,0 +1,14 @@
+{
+  "hash": "a02aadb635d58523",
+  "source": "A string, without whitespace, specifying the name of the browsing context the resource is being loaded into.",
+  "text": "Une chaîne de caractères, sans espace, indiquant le nom du contexte de navigation dans lequel la ressource est chargée.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une chaîne de caractères, sans espace, indiquant le nom du contexte de navigation dans lequel la ressource est chargée."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

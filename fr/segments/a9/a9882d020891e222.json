@@ -1,0 +1,14 @@
+{
+  "hash": "a9882d020891e222",
+  "source": "**Automatic fallback to non-streamed rendering.** Streaming commits the response status and headers as soon as the shell is flushed, which is incompatible with features that need to mutate the response after render. Requests matching any of the following are not streamed; they use the buffered renderer, or short-circuit to a redirect or error response:",
+  "text": "**Repli automatique vers un rendu non streamé.** Le streaming valide le statut et les en-têtes de la réponse dès que l'enveloppe est envoyée, ce qui est incompatible avec les fonctionnalités qui doivent modifier la réponse après le rendu. Les requêtes correspondant à l'un des cas suivants ne sont pas streamées ; elles utilisent le moteur de rendu avec mémoire tampon, ou court-circuitent vers une redirection ou une réponse d'erreur :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Repli automatique vers un rendu non streamé.** Le streaming valide le statut et les en-têtes de la réponse dès que l'enveloppe est envoyée, ce qui est incompatible avec les fonctionnalités qui doivent modifier la réponse après le rendu. Les requêtes correspondant à l'un des cas suivants ne sont pas streamées ; elles utilisent le moteur de rendu avec mémoire tampon, ou court-circuitent vers une redirection ou une réponse d'erreur :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

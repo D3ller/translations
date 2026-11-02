@@ -1,0 +1,14 @@
+{
+  "hash": "8f86e9ed996b37d8",
+  "source": "With Tailwind CSS you specify fonts using a CSS variable:",
+  "text": "Avec Tailwind CSS, vous spécifiez les polices à l'aide d'une variable CSS :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Avec Tailwind CSS, vous spécifiez les polices à l'aide d'une variable CSS :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

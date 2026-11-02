@@ -1,0 +1,14 @@
+{
+  "hash": "133d1290cf7d9b1b",
+  "source": "The {0} command starts a server to preview your Nuxt application after running the {1} command. {2} is the same command under another name. When running your application in production refer to the {3}Deployment section{/3}.",
+  "text": "La commande {0} démarre un serveur pour prévisualiser votre application Nuxt après l'exécution de la commande {1}. {2} est la même commande sous un autre nom. Lorsque vous exécutez votre application en production, reportez-vous à la {3}section Déploiement{/3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La commande {0} démarre un serveur pour prévisualiser votre application Nuxt après l'exécution de la commande {1}. {2} est la même commande sous un autre nom. Lorsque vous exécutez votre application en production, reportez-vous à la {3}section Déploiement{/3}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

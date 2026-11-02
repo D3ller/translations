@@ -1,0 +1,14 @@
+{
+  "hash": "c67da73d61ff95d7",
+  "source": "{0}: A class to apply to links that have been prefetched.",
+  "text": "{0} : une classe à appliquer aux liens qui ont été préchargés.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : une classe à appliquer aux liens qui ont été préchargés."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

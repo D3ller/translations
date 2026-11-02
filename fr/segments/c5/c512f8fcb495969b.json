@@ -1,0 +1,14 @@
+{
+  "hash": "c512f8fcb495969b",
+  "source": "**Emitted-file path** ({0}) is an absolute path (not code) to a real module the builder emitted. The runtime's {1} import resolves to that file so the deployable's bundler resolves the styles map's relative sibling imports against the file's own location. Modelling it as a code string would strip that directory context and break the relative imports, so this one is a path:",
+  "text": "**Le chemin de fichier émis** ({0}) est un chemin absolu (et non du code) vers un vrai module émis par le builder. L'import {1} du runtime se résout vers ce fichier, afin que le bundler du livrable résolve les imports relatifs voisins de la map des styles par rapport à l'emplacement du fichier lui-même. Le modéliser comme une chaîne de code supprimerait ce contexte de répertoire et casserait les imports relatifs ; il s'agit donc ici d'un chemin :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Le chemin de fichier émis** ({0}) est un chemin absolu (et non du code) vers un vrai module émis par le builder. L'import {1} du runtime se résout vers ce fichier, afin que le bundler du livrable résolve les imports relatifs voisins de la map des styles par rapport à l'emplacement du fichier lui-même. Le modéliser comme une chaîne de code supprimerait ce contexte de répertoire et casserait les imports relatifs ; il s'agit donc ici d'un chemin :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

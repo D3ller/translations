@@ -1,0 +1,14 @@
+{
+  "hash": "07d0bb90b4bcb443",
+  "source": "Public Alpha",
+  "text": "Alpha publique",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Alpha publique"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

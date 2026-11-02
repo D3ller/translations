@@ -1,0 +1,14 @@
+{
+  "hash": "5de0b82b208ac59a",
+  "source": "Nitro v3 will resolve these limitations by removing support for the app config. You can track the progress in {0}this pull request{/0}.",
+  "text": "Nitro v3 résoudra ces limitations en supprimant la prise en charge de l'app config. Vous pouvez suivre l'avancement dans {0}cette pull request{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nitro v3 résoudra ces limitations en supprimant la prise en charge de l'app config. Vous pouvez suivre l'avancement dans {0}cette pull request{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

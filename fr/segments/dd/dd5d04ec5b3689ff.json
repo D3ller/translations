@@ -1,0 +1,14 @@
+{
+  "hash": "dd5d04ec5b3689ff",
+  "source": "A function that will be called for each component found in the directory. It accepts a component object and should return a component object or a promise that resolves to a component object.",
+  "text": "Une fonction qui sera appelée pour chaque composant trouvé dans le répertoire. Elle accepte un objet composant et doit retourner un objet composant ou une promesse qui se résout en un objet composant.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une fonction qui sera appelée pour chaque composant trouvé dans le répertoire. Elle accepte un objet composant et doit retourner un objet composant ou une promesse qui se résout en un objet composant."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

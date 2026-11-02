@@ -1,0 +1,14 @@
+{
+  "hash": "05c4b71c5d778d43",
+  "source": "What it does mean? The Composition API and Nuxt Composables are only available during lifecycle and in same tick before any async operation:",
+  "text": "Qu'est-ce que cela signifie ? L'API Composition et les composables Nuxt ne sont disponibles que pendant le cycle de vie et dans le même tick, avant toute opération asynchrone :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Qu'est-ce que cela signifie ? L'API Composition et les composables Nuxt ne sont disponibles que pendant le cycle de vie et dans le même tick, avant toute opération asynchrone :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

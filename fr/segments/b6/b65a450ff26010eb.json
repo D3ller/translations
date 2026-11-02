@@ -1,0 +1,14 @@
+{
+  "hash": "b65a450ff26010eb",
+  "source": "**Stricter side-effect imports**: The generated {0} enables {1} to match the TypeScript 7 default",
+  "text": "**Imports à effet de bord plus stricts** : le {0} généré active {1} pour correspondre au comportement par défaut de TypeScript 7",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Imports à effet de bord plus stricts** : le {0} généré active {1} pour correspondre au comportement par défaut de TypeScript 7"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

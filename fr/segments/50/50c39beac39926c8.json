@@ -1,0 +1,14 @@
+{
+  "hash": "50c39beac39926c8",
+  "source": "Because the state is keyed, you can access the same state from multiple locations, as long as you are using the same key.",
+  "text": "Comme l'état est identifié par une clé, vous pouvez accéder au même état depuis plusieurs endroits, tant que vous utilisez la même clé.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Comme l'état est identifié par une clé, vous pouvez accéder au même état depuis plusieurs endroits, tant que vous utilisez la même clé."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "8c2741e89613f97a",
+  "source": "Runtime template compilation executes the compiled template as JavaScript. Never compile templates built from user-provided or otherwise untrusted input; doing so is equivalent to {0} and can lead to cross-site scripting or remote code execution. See the {1}Vue security guide{/1}.",
+  "text": "La compilation de templates à l'exécution exécute le template compilé en tant que JavaScript. Ne compilez jamais de templates construits à partir d'une entrée fournie par l'utilisateur ou autrement non fiable : cela équivaut à {0} et peut conduire à du cross-site scripting ou à de l'exécution de code à distance. Consultez le {1}guide de sécurité de Vue{/1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La compilation de templates à l'exécution exécute le template compilé en tant que JavaScript. Ne compilez jamais de templates construits à partir d'une entrée fournie par l'utilisateur ou autrement non fiable : cela équivaut à {0} et peut conduire à du cross-site scripting ou à de l'exécution de code à distance. Consultez le {1}guide de sécurité de Vue{/1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

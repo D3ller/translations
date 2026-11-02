@@ -1,0 +1,14 @@
+{
+  "hash": "e25a5dd0cad467c0",
+  "source": "Nuxt sets Vue's {0} feature flag to {1}, which compiles Vue's Options API runtime out of the client bundle.",
+  "text": "Nuxt définit le feature flag {0} de Vue sur {1}, ce qui exclut le runtime de l'API Options de Vue du bundle client à la compilation.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt définit le feature flag {0} de Vue sur {1}, ce qui exclut le runtime de l'API Options de Vue du bundle client à la compilation."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

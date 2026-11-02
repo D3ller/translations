@@ -1,0 +1,14 @@
+{
+  "hash": "47a5656601e723d1",
+  "source": "A lightweight Nuxt theme to build a Markdown driven website. Powered by Nuxt Content, TailwindCSS and Iconify.",
+  "text": "Un thème Nuxt léger pour créer un site piloté par Markdown. Propulsé par Nuxt Content, TailwindCSS et Iconify.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un thème Nuxt léger pour créer un site piloté par Markdown. Propulsé par Nuxt Content, TailwindCSS et Iconify."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

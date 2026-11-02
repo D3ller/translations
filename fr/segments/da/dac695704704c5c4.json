@@ -1,0 +1,14 @@
+{
+  "hash": "dac695704704c5c4",
+  "source": "You can pass a custom {0} instance to {1}:",
+  "text": "Vous pouvez passer une instance personnalisée de {0} à {1} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez passer une instance personnalisée de {0} à {1} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

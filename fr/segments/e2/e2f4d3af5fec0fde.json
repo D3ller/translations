@@ -1,0 +1,14 @@
+{
+  "hash": "e2f4d3af5fec0fde",
+  "source": "do not resolve this font with any provider from {0}",
+  "text": "ne pas résoudre cette police avec un fournisseur de {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "ne pas résoudre cette police avec un fournisseur de {0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

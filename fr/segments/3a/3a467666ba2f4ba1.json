@@ -1,0 +1,14 @@
+{
+  "hash": "3a467666ba2f4ba1",
+  "source": "Bundling the **client** build (the browser bundle) and, when SSR is enabled, the **server** build (the SSR app entry).",
+  "text": "Compiler le build **client** (le bundle du navigateur) et, lorsque SSR est activé, le build **serveur** (le point d'entrée de l'application SSR).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Compiler le build **client** (le bundle du navigateur) et, lorsque SSR est activé, le build **serveur** (le point d'entrée de l'application SSR)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

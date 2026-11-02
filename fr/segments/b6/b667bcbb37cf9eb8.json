@@ -1,0 +1,14 @@
+{
+  "hash": "b667bcbb37cf9eb8",
+  "source": "Only {0} and {1} would be searched for imports.",
+  "text": "Seuls {0} et {1} seraient examinés pour les imports.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Seuls {0} et {1} seraient examinés pour les imports."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

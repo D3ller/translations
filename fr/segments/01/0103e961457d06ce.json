@@ -1,0 +1,14 @@
+{
+  "hash": "0103e961457d06ce",
+  "source": "If you don't know how to send a pull request, we recommend reading {0}the guide{/0}.",
+  "text": "Si vous ne savez pas comment envoyer une pull request, nous vous recommandons de lire {0}le guide{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous ne savez pas comment envoyer une pull request, nous vous recommandons de lire {0}le guide{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

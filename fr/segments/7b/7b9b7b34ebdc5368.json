@@ -1,0 +1,14 @@
+{
+  "hash": "7b9b7b34ebdc5368",
+  "source": "The default {0} of {1} is already a range. Widen it to make more weights available:",
+  "text": "La valeur par défaut de {0}, {1}, est déjà une plage. Élargissez-la pour rendre plus de graisses disponibles :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La valeur par défaut de {0}, {1}, est déjà une plage. Élargissez-la pour rendre plus de graisses disponibles :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

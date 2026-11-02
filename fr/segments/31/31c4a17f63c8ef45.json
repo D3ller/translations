@@ -1,0 +1,14 @@
+{
+  "hash": "31c4a17f63c8ef45",
+  "source": "Nuxt 3 plugins are **not** fully backward compatible with Nuxt 2.",
+  "text": "Les plugins Nuxt 3 ne sont **pas** entièrement rétrocompatibles avec Nuxt 2.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les plugins Nuxt 3 ne sont **pas** entièrement rétrocompatibles avec Nuxt 2."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

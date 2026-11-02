@@ -1,0 +1,14 @@
+{
+  "hash": "4b3edde565f3b597",
+  "source": "Explore all Nuxt configuration options to customize your application.",
+  "text": "Explorez toutes les options de configuration de Nuxt pour personnaliser votre application.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Explorez toutes les options de configuration de Nuxt pour personnaliser votre application."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

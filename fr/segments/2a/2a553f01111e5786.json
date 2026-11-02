@@ -1,0 +1,14 @@
+{
+  "hash": "2a553f01111e5786",
+  "source": "Redis port",
+  "text": "Port Redis",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Port Redis"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

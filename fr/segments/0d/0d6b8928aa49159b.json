@@ -1,0 +1,14 @@
+{
+  "hash": "0d6b8928aa49159b",
+  "source": "This will now trigger a warning",
+  "text": "Cela déclenchera désormais un avertissement",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela déclenchera désormais un avertissement"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

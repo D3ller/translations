@@ -1,0 +1,14 @@
+{
+  "hash": "780e62747fb1f164",
+  "source": "Enables Common CSS Extraction.",
+  "text": "Active l'extraction CSS commune.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Active l'extraction CSS commune."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

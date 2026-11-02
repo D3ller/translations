@@ -1,0 +1,14 @@
+{
+  "hash": "dc657e4e50037d6e",
+  "source": "A family declared with {0} previously got no fallback metrics at all, which made the fonts most likely to cause layout shift the ones Nuxt Fonts did least about. Fallbacks are now generated wherever Nuxt Fonts can see the family being used, so {1} in your CSS becomes {2} with the matching metric-override rules alongside it, exactly as it would for a family that wasn't declared globally. Usage Nuxt Fonts can't scan (an SVG, or a family chosen at runtime) is unaffected and continues to rely on the global stylesheet alone.",
+  "text": "Une famille déclarée avec {0} n'obtenait auparavant aucune métrique de repli, ce qui faisait des polices les plus susceptibles de provoquer un décalage de mise en page celles pour lesquelles Nuxt Fonts faisait le moins. Les polices de repli sont désormais générées partout où Nuxt Fonts peut voir la famille utilisée ; ainsi, {1} dans votre CSS devient {2} avec les règles de surcharge de métriques correspondantes à côté, exactement comme pour une famille qui n'était pas déclarée globalement. Les usages que Nuxt Fonts ne peut pas analyser (un SVG, ou une famille choisie à l'exécution) ne sont pas affectés et continuent de reposer uniquement sur la feuille de style globale.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une famille déclarée avec {0} n'obtenait auparavant aucune métrique de repli, ce qui faisait des polices les plus susceptibles de provoquer un décalage de mise en page celles pour lesquelles Nuxt Fonts faisait le moins. Les polices de repli sont désormais générées partout où Nuxt Fonts peut voir la famille utilisée ; ainsi, {1} dans votre CSS devient {2} avec les règles de surcharge de métriques correspondantes à côté, exactement comme pour une famille qui n'était pas déclarée globalement. Les usages que Nuxt Fonts ne peut pas analyser (un SVG, ou une famille choisie à l'exécution) ne sont pas affectés et continuent de reposer uniquement sur la feuille de style globale."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

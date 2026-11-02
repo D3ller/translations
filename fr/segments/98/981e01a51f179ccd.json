@@ -1,0 +1,14 @@
+{
+  "hash": "981e01a51f179ccd",
+  "source": "This pattern prevents unnecessary work on every build and provides a better developer experience. See the {0}lifecycle hooks documentation{/0} for more details.",
+  "text": "Ce schéma évite un travail inutile à chaque build et offre une meilleure expérience de développement. Consultez la {0}documentation sur les hooks de cycle de vie{/0} pour plus de détails.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ce schéma évite un travail inutile à chaque build et offre une meilleure expérience de développement. Consultez la {0}documentation sur les hooks de cycle de vie{/0} pour plus de détails."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

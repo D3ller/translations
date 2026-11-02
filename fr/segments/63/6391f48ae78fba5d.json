@@ -1,0 +1,14 @@
+{
+  "hash": "6391f48ae78fba5d",
+  "source": "A pattern can contain only one {0} or {1}, so a key such as {2} fails the build. Replace all but one of them with named parameters, for example {3}.",
+  "text": "Un motif ne peut contenir qu'un seul {0} ou {1} ; une clé telle que {2} fait donc échouer le build. Remplacez tous ces éléments sauf un par des paramètres nommés, par exemple {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un motif ne peut contenir qu'un seul {0} ou {1} ; une clé telle que {2} fait donc échouer le build. Remplacez tous ces éléments sauf un par des paramètres nommés, par exemple {3}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

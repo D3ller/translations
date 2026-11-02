@@ -1,0 +1,14 @@
+{
+  "hash": "d2b336c0de34b717",
+  "source": "You can pass the error as an {0} object, e.g. caught by the {1}-block:",
+  "text": "Vous pouvez passer l'erreur sous forme d'objet {0}, par exemple capturé par le bloc {1} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez passer l'erreur sous forme d'objet {0}, par exemple capturé par le bloc {1} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

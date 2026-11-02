@@ -1,0 +1,14 @@
+{
+  "hash": "0bb6dc9f785af55e",
+  "source": "your code goes here",
+  "text": "votre code se place ici",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "votre code se place ici"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

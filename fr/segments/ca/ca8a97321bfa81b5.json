@@ -1,0 +1,14 @@
+{
+  "hash": "ca8a97321bfa81b5",
+  "source": "Route Rules: Regex Constraints Can't Match Encoded Characters",
+  "text": "Règles de route : les contraintes regex ne peuvent pas correspondre aux caractères encodés",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Règles de route : les contraintes regex ne peuvent pas correspondre aux caractères encodés"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

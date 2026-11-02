@@ -1,0 +1,14 @@
+{
+  "hash": "a32f3ac15a8dbc13",
+  "source": "Nuxt provides a quick and simple way to show a full screen error page if needed.",
+  "text": "Nuxt offre un moyen rapide et simple d'afficher une page d'erreur en plein écran si nécessaire.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt offre un moyen rapide et simple d'afficher une page d'erreur en plein écran si nécessaire."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "84a4f47031e7033a",
+  "source": "Any nested directories need to be added first as they are scanned in order.",
+  "text": "Les répertoires imbriqués doivent être ajoutés en premier, car ils sont analysés dans l'ordre.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les répertoires imbriqués doivent être ajoutés en premier, car ils sont analysés dans l'ordre."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

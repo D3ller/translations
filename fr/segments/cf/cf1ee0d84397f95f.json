@@ -1,0 +1,14 @@
+{
+  "hash": "cf1ee0d84397f95f",
+  "source": "Then render each outlet by name from the parent:",
+  "text": "Affichez ensuite chaque point de sortie par son nom depuis le parent :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Affichez ensuite chaque point de sortie par son nom depuis le parent :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

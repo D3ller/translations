@@ -1,0 +1,14 @@
+{
+  "hash": "7f088b9164867268",
+  "source": "✅ Works - called on namespace import",
+  "text": "✅ Fonctionne - appelée sur un import d'espace de noms",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "✅ Fonctionne - appelée sur un import d'espace de noms"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

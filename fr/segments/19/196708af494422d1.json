@@ -1,0 +1,14 @@
+{
+  "hash": "196708af494422d1",
+  "source": "Much like {0} or {1} (see {2}Vue docs{/2}), {3} is a **compiler macro**. It will be compiled away so you cannot reference it within your component. Instead, the metadata passed to it will be hoisted out of the component. Therefore, the page meta object cannot reference the component. However, it can reference imported bindings, as well as locally defined **pure functions**.",
+  "text": "Comme {0} ou {1} (voir la {2}documentation de Vue{/2}), {3} est une **macro de compilation**. Elle est supprimée à la compilation, vous ne pouvez donc pas la référencer dans votre composant. À la place, les métadonnées qui lui sont passées sont extraites du composant. Par conséquent, l'objet de métadonnées de page ne peut pas référencer le composant. En revanche, il peut référencer des bindings importés, ainsi que des **fonctions pures** définies localement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Comme {0} ou {1} (voir la {2}documentation de Vue{/2}), {3} est une **macro de compilation**. Elle est supprimée à la compilation, vous ne pouvez donc pas la référencer dans votre composant. À la place, les métadonnées qui lui sont passées sont extraites du composant. Par conséquent, l'objet de métadonnées de page ne peut pas référencer le composant. En revanche, il peut référencer des bindings importés, ainsi que des **fonctions pures** définies localement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

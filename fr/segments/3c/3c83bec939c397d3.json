@@ -1,0 +1,14 @@
+{
+  "hash": "3c83bec939c397d3",
+  "source": "the next plugin will be executed immediately",
+  "text": "le plugin suivant sera exécuté immédiatement",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "le plugin suivant sera exécuté immédiatement"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

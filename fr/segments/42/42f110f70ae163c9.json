@@ -1,0 +1,14 @@
+{
+  "hash": "42f110f70ae163c9",
+  "source": "Alternatively, you can add an entire directory by using {0}.",
+  "text": "Vous pouvez également ajouter un répertoire entier en utilisant {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez également ajouter un répertoire entier en utilisant {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

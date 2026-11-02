@@ -1,0 +1,14 @@
+{
+  "hash": "2889a4440c01fc24",
+  "source": "Add Other Assets",
+  "text": "Ajouter d'autres ressources",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ajouter d'autres ressources"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

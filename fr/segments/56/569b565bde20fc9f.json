@@ -1,0 +1,14 @@
+{
+  "hash": "569b565bde20fc9f",
+  "source": "While this example is valid, Nuxt 3 introduces a new defineNuxtPlugin function that has a slightly different signature.",
+  "text": "Bien que cet exemple soit valide, Nuxt 3 introduit une nouvelle fonction defineNuxtPlugin dont la signature est légèrement différente.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bien que cet exemple soit valide, Nuxt 3 introduit une nouvelle fonction defineNuxtPlugin dont la signature est légèrement différente."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

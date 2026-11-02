@@ -1,0 +1,14 @@
+{
+  "hash": "c3342a3a9b85a8ae",
+  "source": "We now support custom prefetch triggers for {0} after {1}. You can use the {2} prop to control when to prefetch links.",
+  "text": "Nous prenons désormais en charge les déclencheurs de préchargement personnalisés pour {0} à partir de {1}. Vous pouvez utiliser la prop {2} pour contrôler quand précharger les liens.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nous prenons désormais en charge les déclencheurs de préchargement personnalisés pour {0} à partir de {1}. Vous pouvez utiliser la prop {2} pour contrôler quand précharger les liens."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

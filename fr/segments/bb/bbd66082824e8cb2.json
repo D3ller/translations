@@ -1,0 +1,14 @@
+{
+  "hash": "bbd66082824e8cb2",
+  "source": "Be careful when typing {0} as you will overwrite the types Nuxt infers from your actually defined app config.",
+  "text": "Soyez prudent lorsque vous typez {0}, car vous écraserez les types que Nuxt infère à partir de votre app config réellement définie.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Soyez prudent lorsque vous typez {0}, car vous écraserez les types que Nuxt infère à partir de votre app config réellement définie."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

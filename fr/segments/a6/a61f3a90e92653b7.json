@@ -1,0 +1,14 @@
+{
+  "hash": "a61f3a90e92653b7",
+  "source": "Change {0} to {1}",
+  "text": "Remplacez {0} par {1}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Remplacez {0} par {1}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

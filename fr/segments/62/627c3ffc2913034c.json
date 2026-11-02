@@ -1,0 +1,14 @@
+{
+  "hash": "627c3ffc2913034c",
+  "source": "Improved performance and plugin architecture",
+  "text": "De meilleures performances et une architecture de plugins améliorée",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "De meilleures performances et une architecture de plugins améliorée"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

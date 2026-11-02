@@ -1,0 +1,14 @@
+{
+  "hash": "eb90e4abfaab2bf4",
+  "source": "**getCachedData default:**",
+  "text": "**Valeur par défaut de getCachedData :**",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Valeur par défaut de getCachedData :**"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

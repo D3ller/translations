@@ -1,0 +1,14 @@
+{
+  "hash": "28337c07db7f05d5",
+  "source": "the page has an alias, or a child declared with an absolute path, that falls outside the client-only region",
+  "text": "la page possède un alias, ou un enfant déclaré avec un chemin absolu, qui se situe en dehors de la zone client uniquement",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "la page possède un alias, ou un enfant déclaré avec un chemin absolu, qui se situe en dehors de la zone client uniquement"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

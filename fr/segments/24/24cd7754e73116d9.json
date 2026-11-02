@@ -1,0 +1,14 @@
+{
+  "hash": "24cd7754e73116d9",
+  "source": "Missing compatibilityDate",
+  "text": "compatibilityDate manquant",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "compatibilityDate manquant"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

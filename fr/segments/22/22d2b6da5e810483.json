@@ -1,0 +1,14 @@
+{
+  "hash": "22d2b6da5e810483",
+  "source": "{0} accepts the same parameters as {1}:",
+  "text": "{0} accepte les mêmes paramètres que {1} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} accepte les mêmes paramètres que {1} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

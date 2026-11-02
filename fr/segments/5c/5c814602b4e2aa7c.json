@@ -1,0 +1,14 @@
+{
+  "hash": "5c814602b4e2aa7c",
+  "source": "A route relies on client-side JavaScript but noScripts will strip scripts in production.",
+  "text": "Une route dépend de JavaScript côté client, mais noScripts supprimera les scripts en production.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une route dépend de JavaScript côté client, mais noScripts supprimera les scripts en production."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

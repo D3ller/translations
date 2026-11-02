@@ -1,0 +1,14 @@
+{
+  "hash": "0fc294623975fd3c",
+  "source": "{0}: Array of inline style tag objects",
+  "text": "{0} : tableau d'objets de balises style en ligne",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : tableau d'objets de balises style en ligne"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

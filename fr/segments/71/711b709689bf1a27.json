@@ -1,0 +1,14 @@
+{
+  "hash": "711b709689bf1a27",
+  "source": "{0} received an external URL but no {1} option. Nuxt requires explicit opt-in for external navigation to avoid accidentally redirecting users away from your app.",
+  "text": "{0} a reçu une URL externe, mais l'option {1} est absente. Nuxt exige un consentement explicite pour la navigation externe afin d'éviter de rediriger accidentellement les utilisateurs hors de votre application.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} a reçu une URL externe, mais l'option {1} est absente. Nuxt exige un consentement explicite pour la navigation externe afin d'éviter de rediriger accidentellement les utilisateurs hors de votre application."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "e5a9bc3c699981e2",
+  "source": "This avoids a white flash when hydrating a client-only page.",
+  "text": "Cela évite un flash blanc lors de l'hydratation d'une page uniquement côté client.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela évite un flash blanc lors de l'hydratation d'une page uniquement côté client."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

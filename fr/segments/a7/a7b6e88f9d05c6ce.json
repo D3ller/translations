@@ -1,0 +1,14 @@
+{
+  "hash": "a7b6e88f9d05c6ce",
+  "source": "{0} (route: string, rule: NitroRouteConfig, options: ExtendRouteRulesOptions)",
+  "text": "{0} (route : string, rule : NitroRouteConfig, options : ExtendRouteRulesOptions)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} (route : string, rule : NitroRouteConfig, options : ExtendRouteRulesOptions)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

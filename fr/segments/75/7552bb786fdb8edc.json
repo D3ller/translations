@@ -1,0 +1,14 @@
+{
+  "hash": "7552bb786fdb8edc",
+  "source": "Or set at the page level",
+  "text": "Ou définissez-le au niveau de la page",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ou définissez-le au niveau de la page"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

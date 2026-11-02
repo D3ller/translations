@@ -1,0 +1,14 @@
+{
+  "hash": "0dfdc4441125acb2",
+  "source": "Client-only components ({0} files and {1} wrappers) now render an HTML comment ({2}) on the server instead of an empty {3} element.",
+  "text": "Les composants client uniquement (les fichiers {0} et les wrappers {1}) affichent désormais un commentaire HTML ({2}) sur le serveur au lieu d'un élément {3} vide.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les composants client uniquement (les fichiers {0} et les wrappers {1}) affichent désormais un commentaire HTML ({2}) sur le serveur au lieu d'un élément {3} vide."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

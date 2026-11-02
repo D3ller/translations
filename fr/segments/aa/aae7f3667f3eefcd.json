@@ -1,0 +1,14 @@
+{
+  "hash": "aae7f3667f3eefcd",
+  "source": "{0} while a request is in flight. See {1}.",
+  "text": "{0} pendant qu'une requête est en cours. Voir {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} pendant qu'une requête est en cours. Voir {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

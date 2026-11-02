@@ -1,0 +1,14 @@
+{
+  "hash": "5f0c5895957e65f7",
+  "source": "**State inconsistencies**: Application state can become out of sync between what the user sees and what the application thinks is rendered",
+  "text": "**Incohérences d'état** : l'état de l'application peut se désynchroniser entre ce que l'utilisateur voit et ce que l'application pense avoir rendu",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Incohérences d'état** : l'état de l'application peut se désynchroniser entre ce que l'utilisateur voit et ce que l'application pense avoir rendu"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

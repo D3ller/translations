@@ -1,0 +1,14 @@
+{
+  "hash": "d4bca5948c5d94dc",
+  "source": "This is an array which defines the font options for specific fonts. You can use any properties from {0}defaults{/0}, while there are some additional properties:",
+  "text": "Il s'agit d'un tableau qui définit les options de police pour des polices spécifiques. Vous pouvez utiliser toutes les propriétés de {0}defaults{/0}, ainsi que quelques propriétés supplémentaires :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Il s'agit d'un tableau qui définit les options de police pour des polices spécifiques. Vous pouvez utiliser toutes les propriétés de {0}defaults{/0}, ainsi que quelques propriétés supplémentaires :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

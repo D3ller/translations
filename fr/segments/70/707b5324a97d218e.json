@@ -1,0 +1,14 @@
+{
+  "hash": "707b5324a97d218e",
+  "source": "If you are changing layouts as well as page, the page transition you set here will not run. Instead, you should set a {0}layout transition{/0}.",
+  "text": "Si vous changez de layout en plus de la page, la transition de page que vous définissez ici ne s'exécutera pas. Vous devez plutôt définir une {0}transition de layout{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous changez de layout en plus de la page, la transition de page que vous définissez ici ne s'exécutera pas. Vous devez plutôt définir une {0}transition de layout{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

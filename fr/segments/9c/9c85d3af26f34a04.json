@@ -1,0 +1,14 @@
+{
+  "hash": "9c85d3af26f34a04",
+  "source": "Learn more about the API layer in the {0} directory.",
+  "text": "En savoir plus sur la couche d'API dans le répertoire {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En savoir plus sur la couche d'API dans le répertoire {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "4ecef284c4812e9f",
+  "source": "**Feature requests**: Check that there is not an existing issue or discussion covering the scope of the feature you have in mind. If the feature is to another part of the Nuxt ecosystem (such as a module), please consider raising a feature request there first. If the feature you have in mind is general or the API is not entirely clear, consider opening a discussion in the **Ideas** section to discuss with the community first.",
+  "text": "**Demandes de fonctionnalités** : vérifiez qu'il n'existe pas déjà une issue ou une discussion couvrant le périmètre de la fonctionnalité que vous avez en tête. Si la fonctionnalité concerne une autre partie de l'écosystème Nuxt (comme un module), pensez à y soumettre d'abord votre demande. Si la fonctionnalité que vous avez en tête est générale ou si l'API n'est pas tout à fait claire, envisagez d'ouvrir une discussion dans la section **Ideas** pour en discuter d'abord avec la communauté.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Demandes de fonctionnalités** : vérifiez qu'il n'existe pas déjà une issue ou une discussion couvrant le périmètre de la fonctionnalité que vous avez en tête. Si la fonctionnalité concerne une autre partie de l'écosystème Nuxt (comme un module), pensez à y soumettre d'abord votre demande. Si la fonctionnalité que vous avez en tête est générale ou si l'API n'est pas tout à fait claire, envisagez d'ouvrir une discussion dans la section **Ideas** pour en discuter d'abord avec la communauté."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

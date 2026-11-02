@@ -1,0 +1,14 @@
+{
+  "hash": "144b220cf95bc757",
+  "source": "The Options API runtime ships in every client bundle even though most Nuxt applications are written with the Composition API and {0}. Dropping it shrinks the client bundle (around 6 kB minified / 2 kB gzipped on a minimal app).",
+  "text": "Le runtime de l'API Options est inclus dans chaque bundle client, alors que la plupart des applications Nuxt sont écrites avec la Composition API et {0}. Le supprimer réduit la taille du bundle client (environ 6 kB minifiés / 2 kB en gzip sur une application minimale).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le runtime de l'API Options est inclus dans chaque bundle client, alors que la plupart des applications Nuxt sont écrites avec la Composition API et {0}. Le supprimer réduit la taille du bundle client (environ 6 kB minifiés / 2 kB en gzip sur une application minimale)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

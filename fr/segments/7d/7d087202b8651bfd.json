@@ -1,0 +1,14 @@
+{
+  "hash": "7d087202b8651bfd",
+  "source": "Each key maps to a {0} subpath that the server runtime imports:",
+  "text": "Chaque clé correspond à un sous-chemin {0} que le runtime serveur importe :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Chaque clé correspond à un sous-chemin {0} que le runtime serveur importe :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

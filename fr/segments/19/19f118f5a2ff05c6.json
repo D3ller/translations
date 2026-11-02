@@ -1,0 +1,14 @@
+{
+  "hash": "19f118f5a2ff05c6",
+  "source": "The <NuxtAnnouncer> component adds a hidden element to announce dynamic content changes to assistive technologies.",
+  "text": "Le composant <NuxtAnnouncer> ajoute un élément masqué pour annoncer les changements de contenu dynamique aux technologies d'assistance.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le composant <NuxtAnnouncer> ajoute un élément masqué pour annoncer les changements de contenu dynamique aux technologies d'assistance."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

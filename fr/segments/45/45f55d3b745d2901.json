@@ -1,0 +1,14 @@
+{
+  "hash": "45f55d3b745d2901",
+  "source": "Only files directly in {0} are scanned; files in nested subdirectories are not auto-imported, matching how {1} works.",
+  "text": "Seuls les fichiers situés directement dans {0} sont analysés ; les fichiers des sous-répertoires imbriqués ne sont pas importés automatiquement, comme pour {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Seuls les fichiers situés directement dans {0} sont analysés ; les fichiers des sous-répertoires imbriqués ne sont pas importés automatiquement, comme pour {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

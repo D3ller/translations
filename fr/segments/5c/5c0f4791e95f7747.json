@@ -1,0 +1,14 @@
+{
+  "hash": "5c0f4791e95f7747",
+  "source": "When adding {0} to the {1}, Nuxt adds it to each page payload. We can universally access {2} in both server and browser.",
+  "text": "Lorsque vous ajoutez {0} à {1}, Nuxt l'ajoute au payload (charge utile) de chaque page. Vous pouvez ainsi accéder à {2} de manière universelle, côté serveur comme dans le navigateur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque vous ajoutez {0} à {1}, Nuxt l'ajoute au payload (charge utile) de chaque page. Vous pouvez ainsi accéder à {2} de manière universelle, côté serveur comme dans le navigateur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

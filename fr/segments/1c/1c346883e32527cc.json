@@ -1,0 +1,14 @@
+{
+  "hash": "1c346883e32527cc",
+  "source": "{0}: static, per route.",
+  "text": "{0} : statique, par route.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : statique, par route."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

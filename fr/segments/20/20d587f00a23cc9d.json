@@ -1,0 +1,14 @@
+{
+  "hash": "20d587f00a23cc9d",
+  "source": "Native Async Context",
+  "text": "Contexte asynchrone natif",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Contexte asynchrone natif"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

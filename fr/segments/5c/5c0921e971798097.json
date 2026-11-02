@@ -1,0 +1,14 @@
+{
+  "hash": "5c0921e971798097",
+  "source": "The minimal {0} of your Nuxt application should looks like:",
+  "text": "Le {0} minimal de votre application Nuxt devrait ressembler à ceci :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le {0} minimal de votre application Nuxt devrait ressembler à ceci :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "f90e8fc2b363a3eb",
+  "source": "Their location on the Cloudflare dashboard sometimes changes so don't hesitate to look around.",
+  "text": "Leur emplacement dans le tableau de bord Cloudflare change parfois, n'hésitez donc pas à chercher.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Leur emplacement dans le tableau de bord Cloudflare change parfois, n'hésitez donc pas à chercher."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

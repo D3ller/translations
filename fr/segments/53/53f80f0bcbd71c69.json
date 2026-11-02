@@ -1,0 +1,14 @@
+{
+  "hash": "53f80f0bcbd71c69",
+  "source": "Move your server imports to {0}, which is available from Nuxt 4.6, and move anything it doesn't cover to {1} or {2}. Leave {3} off while you do this.",
+  "text": "Déplacez vos imports serveur vers {0}, disponible à partir de Nuxt 4.6, et déplacez tout ce qu'il ne couvre pas vers {1} ou {2}. Laissez {3} désactivé pendant cette étape.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Déplacez vos imports serveur vers {0}, disponible à partir de Nuxt 4.6, et déplacez tout ce qu'il ne couvre pas vers {1} ou {2}. Laissez {3} désactivé pendant cette étape."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

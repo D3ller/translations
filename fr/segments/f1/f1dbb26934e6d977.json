@@ -1,0 +1,14 @@
+{
+  "hash": "f1dbb26934e6d977",
+  "source": "Then in your API handler:",
+  "text": "Puis, dans votre handler d'API :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Puis, dans votre handler d'API :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

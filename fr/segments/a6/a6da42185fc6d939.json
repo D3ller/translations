@@ -1,0 +1,14 @@
+{
+  "hash": "a6da42185fc6d939",
+  "source": "Use the specifiers of the version the file is for. A file that imports {0} is read as Nitro 3 code, so a {1} file must import {2} and {3} instead:",
+  "text": "Utilisez les spécificateurs de la version pour laquelle le fichier est écrit. Un fichier qui importe {0} est lu comme du code Nitro 3, donc un fichier {1} doit importer {2} et {3} à la place :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utilisez les spécificateurs de la version pour laquelle le fichier est écrit. Un fichier qui importe {0} est lu comme du code Nitro 3, donc un fichier {1} doit importer {2} et {3} à la place :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

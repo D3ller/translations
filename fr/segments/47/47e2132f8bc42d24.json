@@ -1,0 +1,14 @@
+{
+  "hash": "47e2132f8bc42d24",
+  "source": "Use {0} to select the layout used by your page.",
+  "text": "Utilisez {0} pour sélectionner le layout utilisé par votre page.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utilisez {0} pour sélectionner le layout utilisé par votre page."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

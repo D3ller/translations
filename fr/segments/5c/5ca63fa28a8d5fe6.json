@@ -1,0 +1,14 @@
+{
+  "hash": "5ca63fa28a8d5fe6",
+  "source": "Register a component to be automatically imported.",
+  "text": "Enregistrez un composant pour qu'il soit importé automatiquement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Enregistrez un composant pour qu'il soit importé automatiquement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

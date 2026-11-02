@@ -1,0 +1,14 @@
+{
+  "hash": "cbf4f7ec367a963c",
+  "source": "{0} / {1} across the island boundary",
+  "text": "{0} / {1} à travers la frontière de l'island",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} / {1} à travers la frontière de l'island"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

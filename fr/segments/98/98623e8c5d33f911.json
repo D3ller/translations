@@ -1,0 +1,14 @@
+{
+  "hash": "98623e8c5d33f911",
+  "source": "Vue Router",
+  "text": "Vue Router",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vue Router"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

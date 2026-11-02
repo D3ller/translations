@@ -1,0 +1,14 @@
+{
+  "hash": "c7ffc461191bd8a5",
+  "source": "creates a **new, isolated Vue app** on the server to render just that component",
+  "text": "crée une **nouvelle application Vue isolée** sur le serveur pour rendre uniquement ce composant",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "crée une **nouvelle application Vue isolée** sur le serveur pour rendre uniquement ce composant"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

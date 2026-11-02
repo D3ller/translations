@@ -1,0 +1,14 @@
+{
+  "hash": "272b9ce98aae97b7",
+  "source": "Ideally, prefix them with your module's name. For example, if your module is called {0}:",
+  "text": "Idéalement, préfixez-les avec le nom de votre module. Par exemple, si votre module s'appelle {0} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Idéalement, préfixez-les avec le nom de votre module. Par exemple, si votre module s'appelle {0} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

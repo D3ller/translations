@@ -1,0 +1,14 @@
+{
+  "hash": "fa3a5f9bd995d704",
+  "source": "If you want to customize the type of any error returned, you can also do so:",
+  "text": "Si vous souhaitez personnaliser le type de toute erreur retournée, vous pouvez également le faire :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous souhaitez personnaliser le type de toute erreur retournée, vous pouvez également le faire :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

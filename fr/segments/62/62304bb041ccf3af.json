@@ -1,0 +1,14 @@
+{
+  "hash": "62304bb041ccf3af",
+  "source": "This is similar to the {0}{1} action{/0} in Nuxt 2, which allows filling the initial state of your store server-side before rendering the page.",
+  "text": "Cela ressemble à l'action {0}{1}{/0} de Nuxt 2, qui permet de remplir l'état initial de votre store côté serveur avant le rendu de la page.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela ressemble à l'action {0}{1}{/0} de Nuxt 2, qui permet de remplir l'état initial de votre store côté serveur avant le rendu de la page."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

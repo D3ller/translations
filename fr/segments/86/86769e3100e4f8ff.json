@@ -1,0 +1,14 @@
+{
+  "hash": "86769e3100e4f8ff",
+  "source": "Add Type Declarations",
+  "text": "Ajouter des déclarations de types",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ajouter des déclarations de types"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

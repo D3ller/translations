@@ -1,0 +1,14 @@
+{
+  "hash": "0a1f411f7be7ef31",
+  "source": "Because those routes are never rendered on the client, their page components are dropped from the client bundle when the route rules covering them can be resolved at build time.",
+  "text": "Comme ces routes ne sont jamais rendues côté client, leurs composants de page sont retirés du bundle client lorsque les règles de route qui les couvrent peuvent être résolues au moment du build.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Comme ces routes ne sont jamais rendues côté client, leurs composants de page sont retirés du bundle client lorsque les règles de route qui les couvrent peuvent être résolues au moment du build."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

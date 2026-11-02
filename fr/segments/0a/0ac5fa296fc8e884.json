@@ -1,0 +1,14 @@
+{
+  "hash": "0ac5fa296fc8e884",
+  "source": "Hydrates the component when the browser is idle. This is suitable if you need the component to load as soon as possible, but not block the critical rendering path.",
+  "text": "Hydrate le composant lorsque le navigateur est inactif. C'est adapté si vous avez besoin que le composant se charge le plus tôt possible, sans bloquer le chemin de rendu critique.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Hydrate le composant lorsque le navigateur est inactif. C'est adapté si vous avez besoin que le composant se charge le plus tôt possible, sans bloquer le chemin de rendu critique."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

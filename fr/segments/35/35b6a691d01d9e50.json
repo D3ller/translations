@@ -1,0 +1,14 @@
+{
+  "hash": "35b6a691d01d9e50",
+  "source": "These aliases were removed, for greater clarity.",
+  "text": "Ces alias ont été supprimés pour plus de clarté.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ces alias ont été supprimés pour plus de clarté."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

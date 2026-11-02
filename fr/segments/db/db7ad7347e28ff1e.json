@@ -1,0 +1,14 @@
+{
+  "hash": "db7ad7347e28ff1e",
+  "source": "Install the CLI (if not already installed)",
+  "text": "Installer la CLI (si elle n'est pas déjà installée)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Installer la CLI (si elle n'est pas déjà installée)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

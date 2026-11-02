@@ -1,0 +1,14 @@
+{
+  "hash": "e7742adc49e53b14",
+  "source": "TypeScript Configuration Splitting",
+  "text": "Séparation de la configuration TypeScript",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Séparation de la configuration TypeScript"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

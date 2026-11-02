@@ -1,0 +1,14 @@
+{
+  "hash": "56d1b14fcd5fdde9",
+  "source": "Get the Nuxt instance from the context. It will throw an error if Nuxt is not available.",
+  "text": "Récupère l'instance de Nuxt depuis le contexte. Une erreur est levée si Nuxt n'est pas disponible.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Récupère l'instance de Nuxt depuis le contexte. Une erreur est levée si Nuxt n'est pas disponible."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

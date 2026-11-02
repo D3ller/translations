@@ -1,0 +1,14 @@
+{
+  "hash": "7bf7069a96e7c0ab",
+  "source": "If you provide a generic family (like serif or sans-serif), we will use a system font from that family.",
+  "text": "Si vous fournissez une famille générique (comme serif ou sans-serif), nous utiliserons une police système de cette famille.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous fournissez une famille générique (comme serif ou sans-serif), nous utiliserons une police système de cette famille."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

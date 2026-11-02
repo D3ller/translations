@@ -1,0 +1,14 @@
+{
+  "hash": "6f8574dc3db33b0d",
+  "source": "Shared State",
+  "text": "État partagé",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "État partagé"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

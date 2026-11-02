@@ -1,0 +1,14 @@
+{
+  "hash": "0245777510a61f1a",
+  "source": "{0} cannot be used within Nitro routes. To perform a server-side redirect in Nitro routes, use {1} instead.",
+  "text": "{0} ne peut pas être utilisée dans les routes Nitro. Pour effectuer une redirection côté serveur dans les routes Nitro, utilisez plutôt {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} ne peut pas être utilisée dans les routes Nitro. Pour effectuer une redirection côté serveur dans les routes Nitro, utilisez plutôt {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

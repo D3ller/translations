@@ -1,0 +1,14 @@
+{
+  "hash": "1bb88ed065e2130a",
+  "source": "This function has been removed, and you will need to find an alternative implementation if you were using it. If you have a use case for {0}, please let us know via a discussion.",
+  "text": "Cette fonction a été supprimée, et vous devrez trouver une autre implémentation si vous l'utilisiez. Si vous avez un cas d'usage pour {0}, faites-le-nous savoir via une discussion.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cette fonction a été supprimée, et vous devrez trouver une autre implémentation si vous l'utilisiez. Si vous avez un cas d'usage pour {0}, faites-le-nous savoir via une discussion."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

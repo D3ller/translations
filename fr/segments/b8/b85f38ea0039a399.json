@@ -1,0 +1,14 @@
+{
+  "hash": "b85f38ea0039a399",
+  "source": "that means you do not need to add {0} to your project's dependencies",
+  "text": "cela signifie que vous n'avez pas besoin d'ajouter {0} aux dépendances de votre projet",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "cela signifie que vous n'avez pas besoin d'ajouter {0} aux dépendances de votre projet"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

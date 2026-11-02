@@ -1,0 +1,14 @@
+{
+  "hash": "bb8d415656287adb",
+  "source": "Value should be either a string or array of strings pointing to source directories or config path relative to current config. You can use {0}, {1} {2} or {3}",
+  "text": "La valeur doit être soit une chaîne de caractères, soit un tableau de chaînes pointant vers des répertoires sources ou un chemin de configuration relatif à la configuration actuelle. Vous pouvez utiliser {0}, {1} {2} ou {3}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La valeur doit être soit une chaîne de caractères, soit un tableau de chaînes pointant vers des répertoires sources ou un chemin de configuration relatif à la configuration actuelle. Vous pouvez utiliser {0}, {1} {2} ou {3}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

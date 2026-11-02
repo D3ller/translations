@@ -1,0 +1,14 @@
+{
+  "hash": "35db75b3ebd2000b",
+  "source": "Whether to call and use the result from {0} when refreshing data for {1} and {2} (whether by {3}, {4}, or a manual {5} call.",
+  "text": "Indique s'il faut appeler et utiliser le résultat de {0} lors du rafraîchissement des données pour {1} et {2} (que ce soit par {3}, {4} ou un appel manuel à {5}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Indique s'il faut appeler et utiliser le résultat de {0} lors du rafraîchissement des données pour {1} et {2} (que ce soit par {3}, {4} ou un appel manuel à {5})."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

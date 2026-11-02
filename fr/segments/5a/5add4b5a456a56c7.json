@@ -1,0 +1,14 @@
+{
+  "hash": "5add4b5a456a56c7",
+  "source": "Updates the {0} using deep assignment. Existing (nested) properties will be preserved.",
+  "text": "Met à jour {0} par affectation profonde. Les propriétés existantes (imbriquées) seront conservées.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Met à jour {0} par affectation profonde. Les propriétés existantes (imbriquées) seront conservées."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

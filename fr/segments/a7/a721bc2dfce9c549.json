@@ -1,0 +1,14 @@
+{
+  "hash": "a721bc2dfce9c549",
+  "source": "You can access runtime config within the server routes as well using {0}.",
+  "text": "Vous pouvez également accéder à la runtime config dans les routes serveur en utilisant {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez également accéder à la runtime config dans les routes serveur en utilisant {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

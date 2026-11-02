@@ -1,0 +1,14 @@
+{
+  "hash": "09b8f10c6f05dd37",
+  "source": "{0} is not focusable on its own, so it needs {1} to accept focus from the skip link or from a script. Use {2} rather than a positive value, which would move the element in the tab order and surprise everyone else.",
+  "text": "{0} n'est pas focusable par défaut ; il lui faut donc {1} pour accepter le focus depuis le lien d'évitement ou depuis un script. Utilisez {2} plutôt qu'une valeur positive, qui déplacerait l'élément dans l'ordre de tabulation et surprendrait tout le monde.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} n'est pas focusable par défaut ; il lui faut donc {1} pour accepter le focus depuis le lien d'évitement ou depuis un script. Utilisez {2} plutôt qu'une valeur positive, qui déplacerait l'élément dans l'ordre de tabulation et surprendrait tout le monde."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

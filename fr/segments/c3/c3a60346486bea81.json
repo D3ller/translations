@@ -1,0 +1,14 @@
+{
+  "hash": "c3a60346486bea81",
+  "source": "However, there are some cases where you might want to type it yourself. There are two possible things you might want to type.",
+  "text": "Cependant, dans certains cas, vous pouvez vouloir la typer vous-même. Il y a deux choses possibles que vous pourriez vouloir typer.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cependant, dans certains cas, vous pouvez vouloir la typer vous-même. Il y a deux choses possibles que vous pourriez vouloir typer."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

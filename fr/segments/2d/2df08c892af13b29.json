@@ -1,0 +1,14 @@
+{
+  "hash": "2df08c892af13b29",
+  "source": "In a typical Vue application, a new page component is mounted **only after** the previous one has been fully unmounted. However, in Nuxt, due to how Vue {0} is implemented, the new page component is mounted **before** the previous one is unmounted.",
+  "text": "Dans une application Vue classique, un nouveau composant de page est monté **uniquement après** que le précédent a été complètement démonté. Dans Nuxt, en revanche, en raison de l'implémentation de {0} de Vue, le nouveau composant de page est monté **avant** que le précédent ne soit démonté.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans une application Vue classique, un nouveau composant de page est monté **uniquement après** que le précédent a été complètement démonté. Dans Nuxt, en revanche, en raison de l'implémentation de {0} de Vue, le nouveau composant de page est monté **avant** que le précédent ne soit démonté."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

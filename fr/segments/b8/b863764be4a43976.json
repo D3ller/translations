@@ -1,0 +1,14 @@
+{
+  "hash": "b863764be4a43976",
+  "source": "The renderer is compiled with a set of constants. Nuxt fills in every one it can work out from {0}. The rest, anything that depends on route rules, on a page matcher, or on a file you emit, starts out set to \"feature off\". Pass {1} to replace those with your own values, written as JavaScript expressions:",
+  "text": "Le renderer est compilé avec un ensemble de constantes. Nuxt renseigne toutes celles qu'il peut déterminer à partir de {0}. Les autres, c'est-à-dire tout ce qui dépend des règles de route, d'un matcher de pages ou d'un fichier que vous émettez, sont initialement définies sur « fonctionnalité désactivée ». Passez {1} pour les remplacer par vos propres valeurs, écrites sous forme d'expressions JavaScript :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le renderer est compilé avec un ensemble de constantes. Nuxt renseigne toutes celles qu'il peut déterminer à partir de {0}. Les autres, c'est-à-dire tout ce qui dépend des règles de route, d'un matcher de pages ou d'un fichier que vous émettez, sont initialement définies sur « fonctionnalité désactivée ». Passez {1} pour les remplacer par vos propres valeurs, écrites sous forme d'expressions JavaScript :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

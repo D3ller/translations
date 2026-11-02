@@ -1,0 +1,14 @@
+{
+  "hash": "a5a49254c4ab692c",
+  "source": "A purpose-specific secret {0}derived from {1}{/0}.",
+  "text": "Un secret propre à un usage, {0}dérivé de {1}{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un secret propre à un usage, {0}dérivé de {1}{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

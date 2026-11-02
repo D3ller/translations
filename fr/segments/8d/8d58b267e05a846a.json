@@ -1,0 +1,14 @@
+{
+  "hash": "8d58b267e05a846a",
+  "source": "One interaction to be aware of: island slots and {0} components rely on a small inline script to relocate teleported content into place before hydration. On routes rendered with {1}, that script is omitted, so fully interactive {2} components will not hydrate there. Plain static islands are unaffected.",
+  "text": "Une interaction à connaître : les slots d'island et les composants {0} reposent sur un petit script en ligne pour replacer le contenu téléporté avant l'hydratation. Sur les routes rendues avec {1}, ce script est omis ; les composants {2} entièrement interactifs ne s'y hydrateront donc pas. Les islands statiques simples ne sont pas concernées.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une interaction à connaître : les slots d'island et les composants {0} reposent sur un petit script en ligne pour replacer le contenu téléporté avant l'hydratation. Sur les routes rendues avec {1}, ce script est omis ; les composants {2} entièrement interactifs ne s'y hydrateront donc pas. Les islands statiques simples ne sont pas concernées."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

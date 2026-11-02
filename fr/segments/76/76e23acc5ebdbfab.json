@@ -1,0 +1,14 @@
+{
+  "hash": "76e23acc5ebdbfab",
+  "source": "Plug-and-play web font optimization and configuration for Nuxt apps.",
+  "text": "Optimisation et configuration des polices web prêtes à l'emploi pour les applications Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Optimisation et configuration des polices web prêtes à l'emploi pour les applications Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

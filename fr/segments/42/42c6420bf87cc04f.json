@@ -1,0 +1,14 @@
+{
+  "hash": "42c6420bf87cc04f",
+  "source": "libraries are not included in your client bundle.",
+  "text": "les bibliothèques ne sont pas incluses dans votre bundle client.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "les bibliothèques ne sont pas incluses dans votre bundle client."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

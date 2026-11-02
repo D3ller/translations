@@ -1,0 +1,14 @@
+{
+  "hash": "cc0ce4b07e895981",
+  "source": "This will only work if you *already have* a version of {0} which has the {1} flag implemented. If this does not work, you can instead use {2} for the initial upgrade. E.g. {3}",
+  "text": "Cela ne fonctionnera que si vous avez *déjà* une version de {0} qui implémente l'option {1}. Si cela ne fonctionne pas, vous pouvez utiliser {2} pour la mise à jour initiale. Par exemple : {3}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela ne fonctionnera que si vous avez *déjà* une version de {0} qui implémente l'option {1}. Si cela ne fonctionne pas, vous pouvez utiliser {2} pour la mise à jour initiale. Par exemple : {3}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

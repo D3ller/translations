@@ -1,0 +1,14 @@
+{
+  "hash": "4d0ad6db357c6128",
+  "source": "Set this only where your routing is enumerable. An app with a catch-all page under {0} matches every path, which is correct but means the option constrains nothing.",
+  "text": "Ne définissez cette option que si votre routage est énumérable. Une application avec une page catch-all sous {0} correspond à tous les chemins, ce qui est correct mais signifie que l'option ne contraint rien.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ne définissez cette option que si votre routage est énumérable. Une application avec une page catch-all sous {0} correspond à tous les chemins, ce qui est correct mais signifie que l'option ne contraint rien."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

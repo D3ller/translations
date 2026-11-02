@@ -1,0 +1,14 @@
+{
+  "hash": "e4a17f94abd3af69",
+  "source": "Promise input no longer supported.",
+  "text": "Les entrées de type Promise ne sont plus prises en charge.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les entrées de type Promise ne sont plus prises en charge."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

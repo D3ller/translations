@@ -1,0 +1,14 @@
+{
+  "hash": "fad69234891af81d",
+  "source": "**Self-hosted in production**: fonts are downloaded at build time and served from your own origin with long-lived cache headers.",
+  "text": "**Auto-hébergé en production** : les polices sont téléchargées au moment du build et servies depuis votre propre origine avec des en-têtes de cache de longue durée.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Auto-hébergé en production** : les polices sont téléchargées au moment du build et servies depuis votre propre origine avec des en-têtes de cache de longue durée."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

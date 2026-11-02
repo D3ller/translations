@@ -1,0 +1,14 @@
+{
+  "hash": "58690bd02c43a561",
+  "source": "The root directory of the layer (equivalent to {0})",
+  "text": "Le répertoire racine du layer (équivalent à {0})",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le répertoire racine du layer (équivalent à {0})"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

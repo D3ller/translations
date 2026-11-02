@@ -1,0 +1,14 @@
+{
+  "hash": "64f4b1bf82a7fd33",
+  "source": "**Solution**: You can use {0}:",
+  "text": "**Solution** : vous pouvez utiliser {0} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Solution** : vous pouvez utiliser {0} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

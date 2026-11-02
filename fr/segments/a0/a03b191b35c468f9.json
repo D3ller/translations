@@ -1,0 +1,14 @@
+{
+  "hash": "a03b191b35c468f9",
+  "source": "{0} writes to {1}. From inside a bundler plugin that already holds the {2} instance you can assign {3} directly; {4} is the convenience for code that resolves {5} via {6}.",
+  "text": "{0} écrit dans {1}. Depuis un plugin de bundler qui détient déjà l'instance {2}, vous pouvez affecter {3} directement ; {4} est le raccourci pour le code qui résout {5} via {6}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} écrit dans {1}. Depuis un plugin de bundler qui détient déjà l'instance {2}, vous pouvez affecter {3} directement ; {4} est le raccourci pour le code qui résout {5} via {6}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

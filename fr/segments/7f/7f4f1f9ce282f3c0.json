@@ -1,0 +1,14 @@
+{
+  "hash": "7f4f1f9ce282f3c0",
+  "source": "Edge-Side Rendering (ESR) is a powerful feature introduced in Nuxt that allows the rendering of your Nuxt application closer to your users via edge servers of a Content Delivery Network (CDN). By leveraging ESR, you can ensure improved performance and reduced latency, thereby providing an enhanced user experience.",
+  "text": "Le rendu côté edge (Edge-Side Rendering, ESR) est une fonctionnalité puissante introduite dans Nuxt qui permet de rendre votre application Nuxt plus près de vos utilisateurs, via les serveurs edge d'un réseau de diffusion de contenu (CDN). Grâce à l'ESR, vous améliorez les performances et réduisez la latence, ce qui offre une meilleure expérience utilisateur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le rendu côté edge (Edge-Side Rendering, ESR) est une fonctionnalité puissante introduite dans Nuxt qui permet de rendre votre application Nuxt plus près de vos utilisateurs, via les serveurs edge d'un réseau de diffusion de contenu (CDN). Grâce à l'ESR, vous améliorez les performances et réduisez la latence, ce qui offre une meilleure expérience utilisateur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

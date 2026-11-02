@@ -1,0 +1,14 @@
+{
+  "hash": "e0f69ba01abfe155",
+  "source": "Nuxt {0}automatically generates{/0} a {1} file with the resolved aliases you are using in your Nuxt project, as well as with other sensible defaults.",
+  "text": "Nuxt {0}génère automatiquement{/0} un fichier {1} contenant les alias résolus que vous utilisez dans votre projet Nuxt, ainsi que d'autres valeurs par défaut pertinentes.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt {0}génère automatiquement{/0} un fichier {1} contenant les alias résolus que vous utilisez dans votre projet Nuxt, ainsi que d'autres valeurs par défaut pertinentes."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

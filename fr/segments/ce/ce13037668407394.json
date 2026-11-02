@@ -1,0 +1,14 @@
+{
+  "hash": "ce13037668407394",
+  "source": "If you want to transpile specific dependencies with Babel, you can add them here. Each item in transpile can be a package name, a function, a string or regex object matching the dependency's file name.",
+  "text": "Si vous souhaitez transpiler des dépendances spécifiques avec Babel, vous pouvez les ajouter ici. Chaque élément de transpile peut être un nom de package, une fonction, une chaîne ou un objet regex correspondant au nom de fichier de la dépendance.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous souhaitez transpiler des dépendances spécifiques avec Babel, vous pouvez les ajouter ici. Chaque élément de transpile peut être un nom de package, une fonction, une chaîne ou un objet regex correspondant au nom de fichier de la dépendance."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

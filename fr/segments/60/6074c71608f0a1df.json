@@ -1,0 +1,14 @@
+{
+  "hash": "6074c71608f0a1df",
+  "source": "If you added the setup file, the following import is not needed",
+  "text": "Si vous avez ajouté le fichier de setup, l'import suivant n'est pas nécessaire",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous avez ajouté le fichier de setup, l'import suivant n'est pas nécessaire"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

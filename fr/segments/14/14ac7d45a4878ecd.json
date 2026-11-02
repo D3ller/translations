@@ -1,0 +1,14 @@
+{
+  "hash": "14ac7d45a4878ecd",
+  "source": "The example below creates a page where part of a content is rendered only in preview mode.",
+  "text": "L'exemple ci-dessous crée une page dont une partie du contenu n'est affichée qu'en mode prévisualisation.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'exemple ci-dessous crée une page dont une partie du contenu n'est affichée qu'en mode prévisualisation."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

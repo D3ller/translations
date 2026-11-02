@@ -1,0 +1,14 @@
+{
+  "hash": "f71de05f09e53cc8",
+  "source": "rendered on the server; the markdown parsing and highlighting",
+  "text": "rendu sur le serveur ; l'analyse markdown et la coloration syntaxique",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "rendu sur le serveur ; l'analyse markdown et la coloration syntaxique"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

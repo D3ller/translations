@@ -1,0 +1,14 @@
+{
+  "hash": "1d1a4b5d1bc5ccb1",
+  "source": "Server Utilities",
+  "text": "Utilitaires serveur",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utilitaires serveur"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

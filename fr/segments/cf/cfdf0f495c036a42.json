@@ -1,0 +1,14 @@
+{
+  "hash": "cfdf0f495c036a42",
+  "source": "Lazy loading components",
+  "text": "Chargement différé des composants",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Chargement différé des composants"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "ef31b1a91218cef8",
+  "source": "This file contains the types of any modules you are using, as well as the key types that Nuxt requires. Your IDE should recognize these types automatically.",
+  "text": "Ce fichier contient les types de tous les modules que vous utilisez, ainsi que les types essentiels dont Nuxt a besoin. Votre IDE devrait reconnaître ces types automatiquement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ce fichier contient les types de tous les modules que vous utilisez, ainsi que les types essentiels dont Nuxt a besoin. Votre IDE devrait reconnaître ces types automatiquement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

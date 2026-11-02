@@ -1,0 +1,14 @@
+{
+  "hash": "c1760d88fba134c0",
+  "source": "Changes to the Nitro instance configuration are not applied.",
+  "text": "Les modifications apportées à la configuration de l'instance Nitro ne sont pas appliquées.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les modifications apportées à la configuration de l'instance Nitro ne sont pas appliquées."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

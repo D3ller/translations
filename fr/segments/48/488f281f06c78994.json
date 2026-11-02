@@ -1,0 +1,14 @@
+{
+  "hash": "488f281f06c78994",
+  "source": "Although a compatibility interface is provided via {0} you should avoid registering plugins, directives, mixins or components this way without adding your own logic to ensure they are not installed more than once, or this may cause a memory leak.",
+  "text": "Bien qu'une interface de compatibilité soit fournie via {0}, vous devriez éviter d'enregistrer des plugins, directives, mixins ou composants de cette manière sans ajouter votre propre logique pour vous assurer qu'ils ne sont pas installés plus d'une fois, sous peine de provoquer une fuite de mémoire.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bien qu'une interface de compatibilité soit fournie via {0}, vous devriez éviter d'enregistrer des plugins, directives, mixins ou composants de cette manière sans ajouter votre propre logique pour vous assurer qu'ils ne sont pas installés plus d'une fois, sous peine de provoquer une fuite de mémoire."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "09f28e18dd6a49c8",
+  "source": "Nuxt automatically imports any components in this directory (along with components that are registered by any modules you may be using).",
+  "text": "Nuxt importe automatiquement tous les composants de ce répertoire (ainsi que les composants enregistrés par les modules que vous utilisez éventuellement).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt importe automatiquement tous les composants de ce répertoire (ainsi que les composants enregistrés par les modules que vous utilisez éventuellement)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

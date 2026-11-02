@@ -1,0 +1,14 @@
+{
+  "hash": "6360b8dcd844a74a",
+  "source": "Replace {0} imports with {1}, for the utilities in {2}the surface{/2}.",
+  "text": "Remplacez les imports de {0} par {1}, pour les utilitaires de {2}la surface{/2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Remplacez les imports de {0} par {1}, pour les utilitaires de {2}la surface{/2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

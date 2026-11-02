@@ -1,0 +1,14 @@
+{
+  "hash": "bb134b452083afc9",
+  "source": "Specifies this is a middleware handler. Middleware are called on every route and should normally return nothing to pass to the next handlers.",
+  "text": "Indique qu'il s'agit d'un handler de middleware. Les middleware sont appelés sur chaque route et ne devraient normalement rien retourner afin de passer aux handlers suivants.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Indique qu'il s'agit d'un handler de middleware. Les middleware sont appelés sur chaque route et ne devraient normalement rien retourner afin de passer aux handlers suivants."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

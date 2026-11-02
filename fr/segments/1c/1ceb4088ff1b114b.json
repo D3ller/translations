@@ -1,0 +1,14 @@
+{
+  "hash": "1ceb4088ff1b114b",
+  "source": "Handling Static File and Cross-App Links",
+  "text": "Gérer les fichiers statiques et les liens entre applications",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Gérer les fichiers statiques et les liens entre applications"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "29c7fa0d065819c9",
+  "source": "You can also pass an {0} to the {1}/{2} function to cancel individual requests manually.",
+  "text": "Vous pouvez également passer un {0} à la fonction {1}/{2} pour annuler manuellement des requêtes individuelles.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez également passer un {0} à la fonction {1}/{2} pour annuler manuellement des requêtes individuelles."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

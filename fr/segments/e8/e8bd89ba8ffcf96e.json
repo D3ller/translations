@@ -1,0 +1,14 @@
+{
+  "hash": "e8bd89ba8ffcf96e",
+  "source": "We're a friendly community of developers and we'd love to help.",
+  "text": "Nous sommes une communauté de développeurs bienveillante et nous serions ravis de vous aider.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nous sommes une communauté de développeurs bienveillante et nous serions ravis de vous aider."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

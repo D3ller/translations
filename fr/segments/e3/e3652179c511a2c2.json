@@ -1,0 +1,14 @@
+{
+  "hash": "e3652179c511a2c2",
+  "source": "Nuxt Kit provides a set of utilities to help you access and modify Nuxt app configuration.",
+  "text": "Nuxt Kit fournit un ensemble d'utilitaires pour vous aider à accéder à la configuration de l'application Nuxt et à la modifier.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt Kit fournit un ensemble d'utilitaires pour vous aider à accéder à la configuration de l'application Nuxt et à la modifier."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

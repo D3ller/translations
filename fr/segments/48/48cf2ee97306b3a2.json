@@ -1,0 +1,14 @@
+{
+  "hash": "48cf2ee97306b3a2",
+  "source": "Check out the Vite website for more information about its configuration.",
+  "text": "Consultez le site web de Vite pour plus d'informations sur sa configuration.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Consultez le site web de Vite pour plus d'informations sur sa configuration."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

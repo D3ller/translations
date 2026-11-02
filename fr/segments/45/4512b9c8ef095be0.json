@@ -1,0 +1,14 @@
+{
+  "hash": "4512b9c8ef095be0",
+  "source": "This error occurs when you try to store a non-serializable payload with {0}, such as class instances.",
+  "text": "Cette erreur se produit lorsque vous essayez de stocker avec {0} un payload (charge utile) non sérialisable, comme des instances de classe.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cette erreur se produit lorsque vous essayez de stocker avec {0} un payload (charge utile) non sérialisable, comme des instances de classe."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

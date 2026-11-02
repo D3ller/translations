@@ -1,0 +1,14 @@
+{
+  "hash": "a5b77644e2eb036c",
+  "source": "The response status and headers to be sent.",
+  "text": "Le statut et les en-têtes de la réponse à envoyer.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le statut et les en-têtes de la réponse à envoyer."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

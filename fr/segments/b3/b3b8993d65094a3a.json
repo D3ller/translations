@@ -1,0 +1,14 @@
+{
+  "hash": "b3b8993d65094a3a",
+  "source": "Specify which template to generate (options: \\<api\\|app\\|app-config\\|component\\|composable\\|error\\|layer\\|layout\\|middleware\\|module\\|page\\|plugin\\|server-middleware\\|server-plugin\\|server-route\\|server-util>)",
+  "text": "Spécifiez le template à générer (options : \\<api\\|app\\|app-config\\|component\\|composable\\|error\\|layer\\|layout\\|middleware\\|module\\|page\\|plugin\\|server-middleware\\|server-plugin\\|server-route\\|server-util>)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Spécifiez le template à générer (options : \\<api\\|app\\|app-config\\|component\\|composable\\|error\\|layer\\|layout\\|middleware\\|module\\|page\\|plugin\\|server-middleware\\|server-plugin\\|server-route\\|server-util>)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

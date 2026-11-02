@@ -1,0 +1,14 @@
+{
+  "hash": "c120aeba90692fe2",
+  "source": "Disable forked mode",
+  "text": "Désactive le mode forké",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Désactive le mode forké"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "6c8a807f8c213cc6",
+  "source": "{0}: run code before a server route is processed",
+  "text": "{0} : exécute du code avant qu'une route serveur ne soit traitée",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : exécute du code avant qu'une route serveur ne soit traitée"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

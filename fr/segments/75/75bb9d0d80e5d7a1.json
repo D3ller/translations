@@ -1,0 +1,14 @@
+{
+  "hash": "75bb9d0d80e5d7a1",
+  "source": "Nuxt supports PostCSS out of the box. You don't need to install {0} manually.",
+  "text": "Nuxt prend en charge PostCSS dès l'installation. Vous n'avez pas besoin d'installer {0} manuellement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt prend en charge PostCSS dès l'installation. Vous n'avez pas besoin d'installer {0} manuellement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

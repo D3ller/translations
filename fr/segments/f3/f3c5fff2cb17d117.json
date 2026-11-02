@@ -1,0 +1,14 @@
+{
+  "hash": "f3c5fff2cb17d117",
+  "source": "**Keyed composables require {0}**: a {1} entry without a string {2} is no longer matched through its auto-import",
+  "text": "**Les composables à clé exigent {0}** : une entrée {1} sans {2} de type chaîne n'est plus associée via son import automatique",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Les composables à clé exigent {0}** : une entrée {1} sans {2} de type chaîne n'est plus associée via son import automatique"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

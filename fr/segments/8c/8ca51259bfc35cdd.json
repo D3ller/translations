@@ -1,0 +1,14 @@
+{
+  "hash": "8ca51259bfc35cdd",
+  "source": "Published modules cannot leverage auto-imports for assets within their runtime directory. Instead, they have to import them explicitly from {0} or alike.{1}{2}Auto-imports are not enabled for files within {3} (the location where a published module will eventually live) for performance reasons.",
+  "text": "Les modules publiés ne peuvent pas tirer parti des imports automatiques pour les ressources de leur répertoire runtime. Ils doivent à la place les importer explicitement depuis {0} ou équivalent.{1}{2}Les imports automatiques ne sont pas activés pour les fichiers situés dans {3} (l'emplacement où un module publié se trouvera finalement) pour des raisons de performance.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les modules publiés ne peuvent pas tirer parti des imports automatiques pour les ressources de leur répertoire runtime. Ils doivent à la place les importer explicitement depuis {0} ou équivalent.{1}{2}Les imports automatiques ne sont pas activés pour les fichiers situés dans {3} (l'emplacement où un module publié se trouvera finalement) pour des raisons de performance."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

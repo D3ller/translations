@@ -1,0 +1,14 @@
+{
+  "hash": "3c69b5327184685e",
+  "source": "{0}: The color of the loading bar when {1} is set to {2}.",
+  "text": "{0} : la couleur de la barre de chargement lorsque {1} est défini sur {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : la couleur de la barre de chargement lorsque {1} est défini sur {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

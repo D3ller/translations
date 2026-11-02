@@ -1,0 +1,14 @@
+{
+  "hash": "2e4c92a55551d38b",
+  "source": "Type-Checking Server Routes in App Context",
+  "text": "Vérification des types des routes serveur dans le contexte app",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vérification des types des routes serveur dans le contexte app"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

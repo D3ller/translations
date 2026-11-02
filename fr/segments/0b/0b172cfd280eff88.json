@@ -1,0 +1,14 @@
+{
+  "hash": "0b172cfd280eff88",
+  "source": "This is where {0} can be used to restore context, similarly to how {1} works.",
+  "text": "C'est là que {0} peut être utilisé pour restaurer le contexte, de façon similaire au fonctionnement de {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "C'est là que {0} peut être utilisé pour restaurer le contexte, de façon similaire au fonctionnement de {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

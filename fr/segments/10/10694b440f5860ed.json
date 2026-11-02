@@ -1,0 +1,14 @@
+{
+  "hash": "10694b440f5860ed",
+  "source": "If the community couldn't provide the help you need in the time-frame you have, NuxtLabs offers professional support with the {0}Nuxt Experts{/0}.",
+  "text": "Si la communauté n'a pas pu vous fournir l'aide dont vous avez besoin dans le délai dont vous disposez, NuxtLabs propose un support professionnel avec les {0}Nuxt Experts{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si la communauté n'a pas pu vous fournir l'aide dont vous avez besoin dans le délai dont vous disposez, NuxtLabs propose un support professionnel avec les {0}Nuxt Experts{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

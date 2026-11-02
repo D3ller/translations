@@ -1,0 +1,14 @@
+{
+  "hash": "a446620ecbc3a14d",
+  "source": "Update links to use the same casing as their page routes. To keep case-insensitive matching, set {0} in {1} (and remove it from {2} if it is there):",
+  "text": "Mettez à jour vos liens pour qu'ils utilisent la même casse que les routes de leurs pages. Pour conserver une correspondance insensible à la casse, définissez {0} dans {1} (et supprimez-le de {2} s'il s'y trouve) :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mettez à jour vos liens pour qu'ils utilisent la même casse que les routes de leurs pages. Pour conserver une correspondance insensible à la casse, définissez {0} dans {1} (et supprimez-le de {2} s'il s'y trouve) :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

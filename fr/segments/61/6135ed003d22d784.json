@@ -1,0 +1,14 @@
+{
+  "hash": "6135ed003d22d784",
+  "source": "This will disable auto-imports completely but it's still possible to use {0}explicit imports{/0} from {1}.",
+  "text": "Cela désactivera complètement les imports automatiques, mais il restera possible d'utiliser des {0}imports explicites{/0} depuis {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela désactivera complètement les imports automatiques, mais il restera possible d'utiliser des {0}imports explicites{/0} depuis {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

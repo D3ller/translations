@@ -1,0 +1,14 @@
+{
+  "hash": "cc1a38877237cacd",
+  "source": "Migrating from {0}nuxt-community/pwa-module{/0} for built-in SEO utils and service worker support",
+  "text": "Migration depuis {0}nuxt-community/pwa-module{/0} vers des utilitaires SEO intégrés et la prise en charge des service workers",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Migration depuis {0}nuxt-community/pwa-module{/0} vers des utilitaires SEO intégrés et la prise en charge des service workers"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "1fe5bdce2c451adc",
+  "source": "Nuxt uses {0}ofetch{/0} to expose globally the {1} helper for making HTTP requests within your Vue app or API routes.",
+  "text": "Nuxt utilise {0}ofetch{/0} pour exposer globalement le helper {1} permettant d'effectuer des requêtes HTTP dans votre application Vue ou vos routes d'API.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt utilise {0}ofetch{/0} pour exposer globalement le helper {1} permettant d'effectuer des requêtes HTTP dans votre application Vue ou vos routes d'API."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

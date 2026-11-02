@@ -1,0 +1,14 @@
+{
+  "hash": "2d2cc6ee4453463f",
+  "source": "The routes a client declares are its own. They are not added to your app's route set, so plain {0} and {1} are unaffected, and this client will not accept your own server's paths.",
+  "text": "Les routes déclarées par un client lui sont propres. Elles ne sont pas ajoutées à l'ensemble des routes de votre application, donc {0} et {1} ne sont pas affectés, et ce client n'acceptera pas les chemins de votre propre serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les routes déclarées par un client lui sont propres. Elles ne sont pas ajoutées à l'ensemble des routes de votre application, donc {0} et {1} ne sont pas affectés, et ce client n'acceptera pas les chemins de votre propre serveur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "050a05e6fd046112",
+  "source": "Every new feature should have a corresponding unit test (if possible). The {0} directory in this repository is currently a work in progress, but do your best to create a new test following the example of what's already there.",
+  "text": "Chaque nouvelle fonctionnalité doit avoir un test unitaire correspondant (si possible). Le répertoire {0} de ce dépôt est actuellement en cours de développement, mais faites de votre mieux pour créer un nouveau test en vous inspirant de ce qui existe déjà.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Chaque nouvelle fonctionnalité doit avoir un test unitaire correspondant (si possible). Le répertoire {0} de ce dépôt est actuellement en cours de développement, mais faites de votre mieux pour créer un nouveau test en vous inspirant de ce qui existe déjà."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

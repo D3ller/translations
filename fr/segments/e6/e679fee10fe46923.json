@@ -1,0 +1,14 @@
+{
+  "hash": "e679fee10fe46923",
+  "source": "Server File Names Can't Contain Unknown Suffixes",
+  "text": "Les noms de fichiers serveur ne peuvent pas contenir de suffixes inconnus",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les noms de fichiers serveur ne peuvent pas contenir de suffixes inconnus"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

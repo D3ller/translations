@@ -1,0 +1,14 @@
+{
+  "hash": "5b5db9aeba7f7124",
+  "source": "Customize Nuxt SpaLoader element tag.",
+  "text": "Personnalise la balise de l'élément SpaLoader de Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Personnalise la balise de l'élément SpaLoader de Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

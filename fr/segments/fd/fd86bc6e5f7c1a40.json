@@ -1,0 +1,14 @@
+{
+  "hash": "fd86bc6e5f7c1a40",
+  "source": "The Builder Interface",
+  "text": "L'interface Builder",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'interface Builder"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "e1296ceb05ff199b",
+  "source": "Nuxt allows for select pages from your application to be rendered at build time. Nuxt will serve the prebuilt pages when requested instead of generating them on the fly.",
+  "text": "Nuxt permet de rendre certaines pages de votre application au moment du build. Nuxt servira les pages préconstruites lorsqu'elles sont demandées, au lieu de les générer à la volée.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt permet de rendre certaines pages de votre application au moment du build. Nuxt servira les pages préconstruites lorsqu'elles sont demandées, au lieu de les générer à la volée."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

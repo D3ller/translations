@@ -1,0 +1,14 @@
+{
+  "hash": "2abdff01398f9823",
+  "source": "Learn about the directory structure of a Nuxt application and how to use it.",
+  "text": "Découvrez la structure des répertoires d'une application Nuxt et comment l'utiliser.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Découvrez la structure des répertoires d'une application Nuxt et comment l'utiliser."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

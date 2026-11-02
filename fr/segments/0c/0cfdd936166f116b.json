@@ -1,0 +1,14 @@
+{
+  "hash": "0cfdd936166f116b",
+  "source": "This will produce three files:",
+  "text": "Cela produira trois fichiers :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela produira trois fichiers :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "b2b274765533b6e6",
+  "source": "It is 'safe' to run even after your app has initialized. In this case, then the code will be registered to run in the next idle callback.",
+  "text": "Il est « sûr » de l'exécuter même après l'initialisation de votre application. Dans ce cas, le code sera enregistré pour s'exécuter lors du prochain callback d'inactivité.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Il est « sûr » de l'exécuter même après l'initialisation de votre application. Dans ce cas, le code sera enregistré pour s'exécuter lors du prochain callback d'inactivité."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

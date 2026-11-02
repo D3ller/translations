@@ -1,0 +1,14 @@
+{
+  "hash": "7fed8352c97d3ce5",
+  "source": "Whether your app is being unit tested.",
+  "text": "Indique si votre application fait l'objet de tests unitaires.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Indique si votre application fait l'objet de tests unitaires."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

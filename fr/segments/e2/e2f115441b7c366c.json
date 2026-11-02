@@ -1,0 +1,14 @@
+{
+  "hash": "e2f115441b7c366c",
+  "source": "That covers {0}, {1} and layer configs only. Your app and {2} code go through Vite and resolve the way they always have. If you need the previous behavior, override it:",
+  "text": "Cela ne concerne que {0}, {1} et les configurations de layer. Le code de votre application et de {2} passe par Vite et se résout comme auparavant. Si vous avez besoin du comportement précédent, remplacez-le :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela ne concerne que {0}, {1} et les configurations de layer. Le code de votre application et de {2} passe par Vite et se résout comme auparavant. Si vous avez besoin du comportement précédent, remplacez-le :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

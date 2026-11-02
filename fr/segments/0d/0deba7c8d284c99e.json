@@ -1,0 +1,14 @@
+{
+  "hash": "0deba7c8d284c99e",
+  "source": "This example below refreshes all data being fetched using {0} and {1} in Nuxt application.",
+  "text": "L'exemple ci-dessous rafraîchit toutes les données récupérées avec {0} et {1} dans l'application Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'exemple ci-dessous rafraîchit toutes les données récupérées avec {0} et {1} dans l'application Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

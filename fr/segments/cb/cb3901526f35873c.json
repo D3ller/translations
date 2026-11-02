@@ -1,0 +1,14 @@
+{
+  "hash": "cb3901526f35873c",
+  "source": "Set the cookie name to {0} only if you also keep h3's helpers; the two implementations should not share a cookie.",
+  "text": "Définissez le nom du cookie sur {0} uniquement si vous conservez aussi les helpers de h3 ; les deux implémentations ne doivent pas partager un cookie.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définissez le nom du cookie sur {0} uniquement si vous conservez aussi les helpers de h3 ; les deux implémentations ne doivent pas partager un cookie."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

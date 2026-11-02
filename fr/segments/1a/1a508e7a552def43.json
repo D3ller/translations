@@ -1,0 +1,14 @@
+{
+  "hash": "1a508e7a552def43",
+  "source": "The way {0} and {1} auto-imports work and are scanned is identical to the {2} and {3} directories.",
+  "text": "Le fonctionnement et l'analyse des imports automatiques de {0} et {1} sont identiques à ceux des répertoires {2} et {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le fonctionnement et l'analyse des imports automatiques de {0} et {1} sont identiques à ceux des répertoires {2} et {3}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

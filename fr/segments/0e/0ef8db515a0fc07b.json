@@ -1,0 +1,14 @@
+{
+  "hash": "0ef8db515a0fc07b",
+  "source": "Why is it important to fix them?",
+  "text": "Pourquoi est-il important de les corriger ?",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pourquoi est-il important de les corriger ?"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

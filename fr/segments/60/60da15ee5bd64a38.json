@@ -1,0 +1,14 @@
+{
+  "hash": "60da15ee5bd64a38",
+  "source": "Extend from an installed npm package",
+  "text": "Étendre à partir d'un package npm installé",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Étendre à partir d'un package npm installé"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

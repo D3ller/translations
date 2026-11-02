@@ -1,0 +1,14 @@
+{
+  "hash": "b251ca69347abc14",
+  "source": "VS Code will build the container and reopen your project.",
+  "text": "VS Code construira le conteneur et rouvrira votre projet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "VS Code construira le conteneur et rouvrira votre projet."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

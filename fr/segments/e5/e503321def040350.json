@@ -1,0 +1,14 @@
+{
+  "hash": "e503321def040350",
+  "source": "Customize the {0} and {1} callbacks",
+  "text": "Personnaliser les callbacks {0} et {1}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Personnaliser les callbacks {0} et {1}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

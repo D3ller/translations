@@ -1,0 +1,14 @@
+{
+  "hash": "e8dd0f36ea0d2127",
+  "source": "Make sure you use capital letters for these component names to distinguish them from native HTML elements ({0} rather than {1}).",
+  "text": "Veillez à mettre des majuscules aux noms de ces composants pour les distinguer des éléments HTML natifs ({0} plutôt que {1}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Veillez à mettre des majuscules aux noms de ces composants pour les distinguer des éléments HTML natifs ({0} plutôt que {1})."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

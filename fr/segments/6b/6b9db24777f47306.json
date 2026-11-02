@@ -1,0 +1,14 @@
+{
+  "hash": "6b9db24777f47306",
+  "source": "Master Nuxt with advanced concepts like experimental features, hooks, and more.",
+  "text": "Maîtrisez Nuxt grâce à des concepts avancés comme les fonctionnalités expérimentales, les hooks, et bien plus encore.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Maîtrisez Nuxt grâce à des concepts avancés comme les fonctionnalités expérimentales, les hooks, et bien plus encore."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

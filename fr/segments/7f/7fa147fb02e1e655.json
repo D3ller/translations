@@ -1,0 +1,14 @@
+{
+  "hash": "7fa147fb02e1e655",
+  "source": "Specifying Module Dependencies",
+  "text": "Spécifier les dépendances du module",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Spécifier les dépendances du module"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

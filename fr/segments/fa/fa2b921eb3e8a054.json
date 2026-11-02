@@ -1,0 +1,14 @@
+{
+  "hash": "fa2b921eb3e8a054",
+  "source": "Called after page routes are scanned from the file system.",
+  "text": "Appelé après l'analyse des routes de pages à partir du système de fichiers.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appelé après l'analyse des routes de pages à partir du système de fichiers."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

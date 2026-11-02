@@ -1,0 +1,14 @@
+{
+  "hash": "1911f4bfc5888c86",
+  "source": "Page Titles",
+  "text": "Titres de page",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Titres de page"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

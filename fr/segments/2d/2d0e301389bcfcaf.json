@@ -1,0 +1,14 @@
+{
+  "hash": "2d0e301389bcfcaf",
+  "source": "This command sets {0} to {1}. To override, define {2} in a {3} file or as command-line argument.",
+  "text": "Cette commande définit {0} sur {1}. Pour le remplacer, définissez {2} dans un fichier {3} ou en argument de ligne de commande.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cette commande définit {0} sur {1}. Pour le remplacer, définissez {2} dans un fichier {3} ou en argument de ligne de commande."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

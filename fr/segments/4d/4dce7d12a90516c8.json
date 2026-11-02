@@ -1,0 +1,14 @@
+{
+  "hash": "4dce7d12a90516c8",
+  "source": "Skip {0} on non-SFC components such as {1}. See {2}selective hydration with {3}{/2}.",
+  "text": "Ignorez {0} sur les composants non SFC tels que {1}. Voir {2}l'hydratation sélective avec {3}{/2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ignorez {0} sur les composants non SFC tels que {1}. Voir {2}l'hydratation sélective avec {3}{/2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

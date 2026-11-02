@@ -1,0 +1,14 @@
+{
+  "hash": "cdcab9653f2bcf8c",
+  "source": "Build Your Module",
+  "text": "Compiler votre module",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Compiler votre module"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

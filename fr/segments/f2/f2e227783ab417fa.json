@@ -1,0 +1,14 @@
+{
+  "hash": "f2e227783ab417fa",
+  "source": "Migration of Each Option",
+  "text": "Migration de chaque option",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Migration de chaque option"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

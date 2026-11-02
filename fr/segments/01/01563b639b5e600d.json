@@ -1,0 +1,14 @@
+{
+  "hash": "01563b639b5e600d",
+  "source": "Opening an Existing Dev Container",
+  "text": "Ouvrir un dev container existant",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ouvrir un dev container existant"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

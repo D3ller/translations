@@ -1,0 +1,14 @@
+{
+  "hash": "07c6110283d4b355",
+  "source": "Most Nuxt 5 behavior is the new default. Where a change can still be configured, the section describing it names the option that restores the Nuxt 4 behavior; where it cannot, the section says so.",
+  "text": "La plupart des comportements de Nuxt 5 sont désormais le comportement par défaut. Lorsqu'un changement peut encore être configuré, la section qui le décrit indique l'option permettant de restaurer le comportement de Nuxt 4 ; lorsque ce n'est pas possible, la section le précise.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La plupart des comportements de Nuxt 5 sont désormais le comportement par défaut. Lorsqu'un changement peut encore être configuré, la section qui le décrit indique l'option permettant de restaurer le comportement de Nuxt 4 ; lorsque ce n'est pas possible, la section le précise."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

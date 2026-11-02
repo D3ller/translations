@@ -1,0 +1,14 @@
+{
+  "hash": "ac5607123c7a7144",
+  "source": "A server builder describes what it produced, so that tooling that deploys or previews the build doesn't have to know which builder ran. The description lives on {0}, and you read it with {1} from {2}:",
+  "text": "Un server builder décrit ce qu'il a produit, afin que les outils qui déploient ou prévisualisent le build n'aient pas besoin de savoir quel builder a été exécuté. La description se trouve sur {0}, et vous la lisez avec {1} depuis {2} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un server builder décrit ce qu'il a produit, afin que les outils qui déploient ou prévisualisent le build n'aient pas besoin de savoir quel builder a été exécuté. La description se trouve sur {0}, et vous la lisez avec {1} depuis {2} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

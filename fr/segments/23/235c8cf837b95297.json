@@ -1,0 +1,14 @@
+{
+  "hash": "235c8cf837b95297",
+  "source": "This removes the {0} hint for every chunk whose source lives under {1}, while leaving the chunks in the bundle and the {2} and {3} hints intact. Adjust the {4} prefix to the directory whose chunks your public pages should not prefetch.",
+  "text": "Cela supprime le hint {0} pour chaque chunk dont la source se trouve sous {1}, tout en laissant intacts les chunks dans le bundle ainsi que les hints {2} et {3}. Adaptez le préfixe {4} au répertoire dont les chunks ne doivent pas être préchargés par vos pages publiques.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela supprime le hint {0} pour chaque chunk dont la source se trouve sous {1}, tout en laissant intacts les chunks dans le bundle ainsi que les hints {2} et {3}. Adaptez le préfixe {4} au répertoire dont les chunks ne doivent pas être préchargés par vos pages publiques."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

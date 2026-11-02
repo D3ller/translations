@@ -1,0 +1,14 @@
+{
+  "hash": "36d8b473c8f19ac9",
+  "source": "Called on {0}Suspense{/0} inside of {1} resolved event.",
+  "text": "Appelé sur {0}Suspense{/0} à l'intérieur de l'événement resolved de {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appelé sur {0}Suspense{/0} à l'intérieur de l'événement resolved de {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

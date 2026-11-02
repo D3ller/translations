@@ -1,0 +1,14 @@
+{
+  "hash": "709055d5aa9063fe",
+  "source": "The {0} package has been renamed to {1}. All import paths have changed:",
+  "text": "Le package {0} a été renommé en {1}. Tous les chemins d'import ont changé :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le package {0} a été renommé en {1}. Tous les chemins d'import ont changé :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

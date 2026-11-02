@@ -1,0 +1,14 @@
+{
+  "hash": "6a07966792707dae",
+  "source": "**Better IDE performance**: Your IDE can provide faster IntelliSense and error checking",
+  "text": "**Meilleures performances de l'IDE** : votre IDE peut fournir un IntelliSense et une vérification des erreurs plus rapides",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Meilleures performances de l'IDE** : votre IDE peut fournir un IntelliSense et une vérification des erreurs plus rapides"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

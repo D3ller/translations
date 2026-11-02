@@ -1,0 +1,14 @@
+{
+  "hash": "22ff0f0e7bcfdd47",
+  "source": "If you want to serve assets from the server, we recommend taking a look at the {0} directory.",
+  "text": "Si vous souhaitez servir des assets depuis le serveur, nous vous recommandons de consulter le répertoire {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous souhaitez servir des assets depuis le serveur, nous vous recommandons de consulter le répertoire {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

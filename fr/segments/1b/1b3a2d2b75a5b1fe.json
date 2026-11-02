@@ -1,0 +1,14 @@
+{
+  "hash": "1b3a2d2b75a5b1fe",
+  "source": "**Problem**: {0}Vue documentation{/0} lists several Performance improvements we can use in our Nuxt projects as well but as they are part of Vue documentation, developers tend to forget about it and focus on Nuxt specific improvements only - while Nuxt application is still a Vue project.",
+  "text": "**Problème** : La {0}documentation de Vue{/0} liste plusieurs améliorations de performance que nous pouvons également utiliser dans nos projets Nuxt, mais comme elles font partie de la documentation de Vue, les développeurs ont tendance à les oublier et à se concentrer uniquement sur les améliorations propres à Nuxt, alors qu'une application Nuxt reste un projet Vue.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Problème** : La {0}documentation de Vue{/0} liste plusieurs améliorations de performance que nous pouvons également utiliser dans nos projets Nuxt, mais comme elles font partie de la documentation de Vue, les développeurs ont tendance à les oublier et à se concentrer uniquement sur les améliorations propres à Nuxt, alors qu'une application Nuxt reste un projet Vue."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

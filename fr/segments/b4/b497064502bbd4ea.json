@@ -1,0 +1,14 @@
+{
+  "hash": "b497064502bbd4ea",
+  "source": "Wrap a {0} call in {1} instead, or import the composable explicitly:",
+  "text": "Encapsulez plutôt un appel à {0} dans {1}, ou importez explicitement le composable :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Encapsulez plutôt un appel à {0} dans {1}, ou importez explicitement le composable :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

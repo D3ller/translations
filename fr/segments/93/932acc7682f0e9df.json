@@ -1,0 +1,14 @@
+{
+  "hash": "932acc7682f0e9df",
+  "source": "Learn how to migrate from Nuxt 2 to Nuxt 3 new configuration.",
+  "text": "Découvrez comment migrer vers la nouvelle configuration de Nuxt 3 depuis Nuxt 2.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Découvrez comment migrer vers la nouvelle configuration de Nuxt 3 depuis Nuxt 2."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

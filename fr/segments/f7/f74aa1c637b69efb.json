@@ -1,0 +1,14 @@
+{
+  "hash": "f74aa1c637b69efb",
+  "source": "Resolve auto-imported components in the Vue template compiler.",
+  "text": "Résout les composants importés automatiquement dans le compilateur de templates Vue.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Résout les composants importés automatiquement dans le compilateur de templates Vue."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

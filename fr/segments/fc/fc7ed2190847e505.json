@@ -1,0 +1,14 @@
+{
+  "hash": "fc7ed2190847e505",
+  "source": "When utilizing {0}Hybrid Rendering{/0} with cache strategies, all incoming request headers are dropped when handling the cached responses via the {1}Nitro caching layer{/1} (meaning {2} will return {3} for the {4}).",
+  "text": "Lorsque vous utilisez le {0}rendu hybride{/0} avec des stratégies de cache, tous les en-têtes de la requête entrante sont supprimés lors du traitement des réponses mises en cache via la {1}couche de cache de Nitro{/1} (ce qui signifie que {2} renverra {3} pour {4}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque vous utilisez le {0}rendu hybride{/0} avec des stratégies de cache, tous les en-têtes de la requête entrante sont supprimés lors du traitement des réponses mises en cache via la {1}couche de cache de Nitro{/1} (ce qui signifie que {2} renverra {3} pour {4})."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

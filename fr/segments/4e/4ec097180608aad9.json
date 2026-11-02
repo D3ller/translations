@@ -1,0 +1,14 @@
+{
+  "hash": "4ec097180608aad9",
+  "source": "Apart from Nuxt's built-in features, there are also core modules maintained by the Nuxt team which help improve performance even further. These modules help handle assets such as images, custom fonts, or third party scripts.",
+  "text": "En plus des fonctionnalités intégrées de Nuxt, il existe aussi des modules principaux maintenus par l'équipe Nuxt qui aident à améliorer encore davantage la performance. Ces modules aident à gérer des ressources telles que les images, les polices personnalisées ou les scripts tiers.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En plus des fonctionnalités intégrées de Nuxt, il existe aussi des modules principaux maintenus par l'équipe Nuxt qui aident à améliorer encore davantage la performance. Ces modules aident à gérer des ressources telles que les images, les polices personnalisées ou les scripts tiers."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

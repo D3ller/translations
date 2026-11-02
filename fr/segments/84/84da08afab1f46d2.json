@@ -1,0 +1,14 @@
+{
+  "hash": "84da08afab1f46d2",
+  "source": "**Processing files from all layers:**",
+  "text": "**Traitement des fichiers de tous les layers :**",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Traitement des fichiers de tous les layers :**"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

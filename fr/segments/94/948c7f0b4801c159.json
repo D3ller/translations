@@ -1,0 +1,14 @@
+{
+  "hash": "948c7f0b4801c159",
+  "source": "Add an HTTP method suffix to an API route",
+  "text": "Ajoute un suffixe de méthode HTTP à une route d'API",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ajoute un suffixe de méthode HTTP à une route d'API"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

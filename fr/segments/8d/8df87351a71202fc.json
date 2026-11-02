@@ -1,0 +1,14 @@
+{
+  "hash": "8df87351a71202fc",
+  "source": "**Auto-imported {0} and {1} won't be unwrapped in a component {2}.**{3}This is due to how Vue works with refs that aren't top-level to the template. You can read more about it {4}in the Vue documentation{/4}.",
+  "text": "**Les {0} et {1} importés automatiquement ne seront pas déballés dans un composant {2}.**{3}Cela est dû à la façon dont Vue gère les refs qui ne sont pas de premier niveau par rapport au template. Vous pouvez en savoir plus {4}dans la documentation de Vue{/4}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Les {0} et {1} importés automatiquement ne seront pas déballés dans un composant {2}.**{3}Cela est dû à la façon dont Vue gère les refs qui ne sont pas de premier niveau par rapport au template. Vous pouvez en savoir plus {4}dans la documentation de Vue{/4}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

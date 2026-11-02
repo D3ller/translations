@@ -1,0 +1,14 @@
+{
+  "hash": "f1cd2670c957ac30",
+  "source": "if using options API {0} method you must use {1}",
+  "text": "si vous utilisez la méthode {0} de l'Options API, vous devez utiliser {1}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "si vous utilisez la méthode {0} de l'Options API, vous devez utiliser {1}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

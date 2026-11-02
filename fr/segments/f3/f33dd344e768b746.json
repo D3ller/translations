@@ -1,0 +1,14 @@
+{
+  "hash": "f33dd344e768b746",
+  "source": "Internally, Nuxt uses {0} to define these experimental features. You can refer to the {1}API documentation{/1} or the {2}source code{/2} for more information.",
+  "text": "En interne, Nuxt utilise {0} pour définir ces fonctionnalités expérimentales. Vous pouvez consulter la {1}documentation de l'API{/1} ou le {2}code source{/2} pour plus d'informations.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En interne, Nuxt utilise {0} pour définir ces fonctionnalités expérimentales. Vous pouvez consulter la {1}documentation de l'API{/1} ou le {2}code source{/2} pour plus d'informations."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

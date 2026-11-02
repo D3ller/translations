@@ -1,0 +1,14 @@
+{
+  "hash": "4d4ef4a109d057cf",
+  "source": "If you are using an error reporting framework, you can provide a global handler through {0}. It will receive all Vue errors, even if they are handled.",
+  "text": "Si vous utilisez un outil de suivi des erreurs, vous pouvez fournir un gestionnaire global via {0}. Il recevra toutes les erreurs Vue, même si elles sont gérées.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous utilisez un outil de suivi des erreurs, vous pouvez fournir un gestionnaire global via {0}. Il recevra toutes les erreurs Vue, même si elles sont gérées."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

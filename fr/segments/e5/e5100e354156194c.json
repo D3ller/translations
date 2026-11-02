@@ -1,0 +1,14 @@
+{
+  "hash": "e5100e354156194c",
+  "source": "**Project modules last** (highest priority)",
+  "text": "**Modules du projet en dernier** (priorité la plus élevée)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Modules du projet en dernier** (priorité la plus élevée)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

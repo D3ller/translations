@@ -1,0 +1,14 @@
+{
+  "hash": "5b7ba6e828bb82f4",
+  "source": "Available H3 Request Helpers",
+  "text": "Helpers de requête H3 disponibles",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Helpers de requête H3 disponibles"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

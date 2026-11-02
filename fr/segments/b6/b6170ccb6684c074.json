@@ -1,0 +1,14 @@
+{
+  "hash": "b6170ccb6684c074",
+  "source": "Learn how Nuxt modules are structured and how to define them.",
+  "text": "Découvrez comment les modules Nuxt sont structurés et comment les définir.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Découvrez comment les modules Nuxt sont structurés et comment les définir."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

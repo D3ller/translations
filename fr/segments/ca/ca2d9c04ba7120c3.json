@@ -1,0 +1,14 @@
+{
+  "hash": "ca2d9c04ba7120c3",
+  "source": "{0}autoprefixer{/0}: Automatically adds vendor prefixes",
+  "text": "{0}autoprefixer{/0} : ajoute automatiquement les préfixes des navigateurs",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}autoprefixer{/0} : ajoute automatiquement les préfixes des navigateurs"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "0a59bc1f3ff20d26",
+  "source": "The extensions that should be resolved by the Nuxt resolver.",
+  "text": "Les extensions qui doivent être résolues par le résolveur de Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les extensions qui doivent être résolues par le résolveur de Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "acd50aa3dd671034",
+  "source": "These two composables can be replaced with {0} and {1}, which are documented {2}in the Nuxt 3 docs{/2}. Just like the previous {3} composables, these composables do not block route navigation on the client-side (hence the 'lazy' part of the name).",
+  "text": "Ces deux composables peuvent être remplacés par {0} et {1}, qui sont documentés dans {2}la documentation de Nuxt 3{/2}. Tout comme les anciens composables {3}, ces composables ne bloquent pas la navigation entre les routes côté client (d'où le terme « lazy » dans leur nom).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ces deux composables peuvent être remplacés par {0} et {1}, qui sont documentés dans {2}la documentation de Nuxt 3{/2}. Tout comme les anciens composables {3}, ces composables ne bloquent pas la navigation entre les routes côté client (d'où le terme « lazy » dans leur nom)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

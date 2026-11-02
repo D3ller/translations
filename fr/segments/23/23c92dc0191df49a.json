@@ -1,0 +1,14 @@
+{
+  "hash": "23c92dc0191df49a",
+  "source": "Register a hook that runs every time a link is prefetched, but which will be",
+  "text": "Enregistre un hook qui s'exécute à chaque préchargement d'un lien, mais qui sera",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Enregistre un hook qui s'exécute à chaque préchargement d'un lien, mais qui sera"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "80c51ee135799269",
+  "source": "Here's an example of how you can use:",
+  "text": "Voici un exemple d'utilisation :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Voici un exemple d'utilisation :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

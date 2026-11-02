@@ -1,0 +1,14 @@
+{
+  "hash": "d794f9af8d419e8d",
+  "source": "Read more about passing props to layouts.",
+  "text": "En savoir plus sur le passage de props aux layouts.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En savoir plus sur le passage de props aux layouts."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

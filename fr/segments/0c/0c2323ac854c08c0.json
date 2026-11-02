@@ -1,0 +1,14 @@
+{
+  "hash": "0c2323ac854c08c0",
+  "source": "Defines what happens when no provider can resolve a font, or a font file cannot be downloaded. It defaults to {0} while developing (so a flaky provider does not block you) and {1} when building (so you don't ship a build with missing fonts).",
+  "text": "Définit ce qui se passe lorsqu'aucun fournisseur ne peut résoudre une police, ou lorsqu'un fichier de police ne peut pas être téléchargé. La valeur par défaut est {0} en développement (afin qu'un fournisseur instable ne vous bloque pas) et {1} lors du build (afin de ne pas livrer un build avec des polices manquantes).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définit ce qui se passe lorsqu'aucun fournisseur ne peut résoudre une police, ou lorsqu'un fichier de police ne peut pas être téléchargé. La valeur par défaut est {0} en développement (afin qu'un fournisseur instable ne vous bloque pas) et {1} lors du build (afin de ne pas livrer un build avec des polices manquantes)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

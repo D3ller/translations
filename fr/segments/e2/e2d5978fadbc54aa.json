@@ -1,0 +1,14 @@
+{
+  "hash": "e2d5978fadbc54aa",
+  "source": "{0} resolves to the h3 v1 helpers",
+  "text": "{0} correspond aux helpers h3 v1",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} correspond aux helpers h3 v1"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

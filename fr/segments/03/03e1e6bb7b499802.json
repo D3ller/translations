@@ -1,0 +1,14 @@
+{
+  "hash": "03e1e6bb7b499802",
+  "source": "An app builder is responsible for:",
+  "text": "Un app builder est responsable de :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un app builder est responsable de :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

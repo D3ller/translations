@@ -1,0 +1,14 @@
+{
+  "hash": "8b7e9f05a25f14bf",
+  "source": "Set the response status and reason phrase.",
+  "text": "Définit le statut de la réponse et sa phrase de raison.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définit le statut de la réponse et sa phrase de raison."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

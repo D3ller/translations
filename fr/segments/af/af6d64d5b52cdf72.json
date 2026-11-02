@@ -1,0 +1,14 @@
+{
+  "hash": "af6d64d5b52cdf72",
+  "source": "In most instances, SEO meta tags don't need to be reactive as search engine robots primarily scan the initial page load.",
+  "text": "Dans la plupart des cas, les balises meta SEO n'ont pas besoin d'être réactives, car les robots des moteurs de recherche analysent principalement le chargement initial de la page.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans la plupart des cas, les balises meta SEO n'ont pas besoin d'être réactives, car les robots des moteurs de recherche analysent principalement le chargement initial de la page."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

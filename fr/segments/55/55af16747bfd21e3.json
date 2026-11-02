@@ -1,0 +1,14 @@
+{
+  "hash": "55af16747bfd21e3",
+  "source": "Nitro is used to build the app for server side rendering, as well as pre-rendering.",
+  "text": "Nitro est utilisé pour compiler l'application en vue du rendu côté serveur, ainsi que du pré-rendu.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nitro est utilisé pour compiler l'application en vue du rendu côté serveur, ainsi que du pré-rendu."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "3c3fd83f7c0d61ec",
+  "source": "Strict Checks",
+  "text": "Vérifications strictes",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vérifications strictes"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

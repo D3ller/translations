@@ -1,0 +1,14 @@
+{
+  "hash": "5c80e376ddf5d21b",
+  "source": "Route middlewares can be also defined in plugins via {0} composable.",
+  "text": "Les middlewares de route peuvent aussi être définis dans des plugins via le composable {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les middlewares de route peuvent aussi être définis dans des plugins via le composable {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

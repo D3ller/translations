@@ -1,0 +1,14 @@
+{
+  "hash": "cd7bf8352b5b2204",
+  "source": "Where fonts are served from",
+  "text": "D'où les polices sont servies",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "D'où les polices sont servies"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

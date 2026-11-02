@@ -1,0 +1,14 @@
+{
+  "hash": "278f57de80babdbb",
+  "source": "By default, the loading template is rendered next to the Nuxt app root rather than inside it:",
+  "text": "Par défaut, le template de chargement est rendu à côté de la racine de l'application Nuxt plutôt qu'à l'intérieur de celle-ci :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par défaut, le template de chargement est rendu à côté de la racine de l'application Nuxt plutôt qu'à l'intérieur de celle-ci :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

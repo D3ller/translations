@@ -1,0 +1,14 @@
+{
+  "hash": "6c91f1e8220b5576",
+  "source": "This migration guide is under progress to align with the development of Nuxt 3.",
+  "text": "Ce guide de migration est en cours de rédaction afin de suivre l'évolution du développement de Nuxt 3.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ce guide de migration est en cours de rédaction afin de suivre l'évolution du développement de Nuxt 3."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

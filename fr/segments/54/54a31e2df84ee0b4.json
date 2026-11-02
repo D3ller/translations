@@ -1,0 +1,14 @@
+{
+  "hash": "54a31e2df84ee0b4",
+  "source": "However, during Server-Side Rendering, due to security risks such as **Server-Side Request Forgery (SSRF)** or **Authentication Misuse**, the {0} wouldn't include the user's browser cookies, nor pass on cookies from the fetch response.",
+  "text": "Cependant, lors du rendu côté serveur, en raison de risques de sécurité tels que la **falsification de requête côté serveur (SSRF)** ou le **mauvais usage de l'authentification**, {0} n'inclut pas les cookies du navigateur de l'utilisateur et ne transmet pas non plus les cookies issus de la réponse du fetch.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cependant, lors du rendu côté serveur, en raison de risques de sécurité tels que la **falsification de requête côté serveur (SSRF)** ou le **mauvais usage de l'authentification**, {0} n'inclut pas les cookies du navigateur de l'utilisateur et ne transmet pas non plus les cookies issus de la réponse du fetch."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

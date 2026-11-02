@@ -1,0 +1,14 @@
+{
+  "hash": "af55accc625fa769",
+  "source": "The error is set in the state using {0} to create a reactive and SSR-friendly shared error state across components.",
+  "text": "L'erreur est définie dans le state à l'aide de {0} afin de créer un état d'erreur partagé entre les composants, réactif et compatible avec le SSR.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'erreur est définie dans le state à l'aide de {0} afin de créer un état d'erreur partagé entre les composants, réactif et compatible avec le SSR."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

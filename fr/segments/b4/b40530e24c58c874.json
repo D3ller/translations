@@ -1,0 +1,14 @@
+{
+  "hash": "b40530e24c58c874",
+  "source": "Sets the message with {0}. Use for non-urgent updates that can wait for the screen reader to finish its current task.",
+  "text": "Définit le message avec {0}. À utiliser pour les mises à jour non urgentes qui peuvent attendre que le lecteur d'écran termine sa tâche en cours.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définit le message avec {0}. À utiliser pour les mises à jour non urgentes qui peuvent attendre que le lecteur d'écran termine sa tâche en cours."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

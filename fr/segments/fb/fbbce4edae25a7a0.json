@@ -1,0 +1,14 @@
+{
+  "hash": "fbbce4edae25a7a0",
+  "source": "Update any other items in your {0} array to point to files or npm packages directly, rather than using inline functions.",
+  "text": "Mettez à jour tous les autres éléments de votre tableau {0} afin qu'ils pointent directement vers des fichiers ou des packages npm, plutôt que d'utiliser des fonctions en ligne.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mettez à jour tous les autres éléments de votre tableau {0} afin qu'ils pointent directement vers des fichiers ou des packages npm, plutôt que d'utiliser des fonctions en ligne."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

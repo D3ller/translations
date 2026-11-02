@@ -1,0 +1,14 @@
+{
+  "hash": "78f2794a551432a0",
+  "source": "{0} provides a wrapper around {1} that triggers navigation before the handler is resolved by setting the {2} option to {3}.",
+  "text": "{0} fournit un enrobage autour de {1} qui déclenche la navigation avant que le handler ne soit résolu, en définissant l'option {2} sur {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} fournit un enrobage autour de {1} qui déclenche la navigation avant que le handler ne soit résolu, en définissant l'option {2} sur {3}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

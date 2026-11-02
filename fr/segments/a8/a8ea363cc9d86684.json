@@ -1,0 +1,14 @@
+{
+  "hash": "a8ea363cc9d86684",
+  "source": "When several addons wrap the same method, the wrappers are composed in the order of the {0} array: the first addon's wrapper wraps all the following ones, just as its middleware would.",
+  "text": "Lorsque plusieurs addons enveloppent la même méthode, les enveloppes sont composées dans l'ordre du tableau {0} : l'enveloppe du premier addon englobe toutes les suivantes, tout comme le ferait son middleware.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque plusieurs addons enveloppent la même méthode, les enveloppes sont composées dans l'ordre du tableau {0} : l'enveloppe du premier addon englobe toutes les suivantes, tout comme le ferait son middleware."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

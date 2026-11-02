@@ -1,0 +1,14 @@
+{
+  "hash": "aaf7f57ebcd66dd7",
+  "source": "per layer configuration",
+  "text": "configuration par layer",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "configuration par layer"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

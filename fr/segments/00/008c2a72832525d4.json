@@ -1,0 +1,14 @@
+{
+  "hash": "008c2a72832525d4",
+  "source": "Names such as {0} or {1}",
+  "text": "Noms tels que {0} ou {1}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Noms tels que {0} ou {1}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

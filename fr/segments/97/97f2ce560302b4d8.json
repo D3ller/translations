@@ -1,0 +1,14 @@
+{
+  "hash": "97f2ce560302b4d8",
+  "source": "If your component is cached by {0} and enters a deactivated state, the {1} inside the component will still be refetched until the component is unmounted.",
+  "text": "Si votre composant est mis en cache par {0} et passe à l'état désactivé, le {1} à l'intérieur du composant sera tout de même récupéré à nouveau jusqu'à ce que le composant soit démonté.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si votre composant est mis en cache par {0} et passe à l'état désactivé, le {1} à l'intérieur du composant sera tout de même récupéré à nouveau jusqu'à ce que le composant soit démonté."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

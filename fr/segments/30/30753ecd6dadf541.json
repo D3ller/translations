@@ -1,0 +1,14 @@
+{
+  "hash": "30753ecd6dadf541",
+  "source": "h3 ships session helpers of the same names, reachable as {0}. They are a separate implementation and are not interchangeable with these: they default to the {1} cookie name rather than {2}, take their own configuration, and a session one of them issues will not unseal with the other.",
+  "text": "h3 fournit des helpers de session portant les mêmes noms, accessibles via {0}. Il s'agit d'une implémentation distincte, non interchangeable avec celles-ci : ils utilisent par défaut le nom de cookie {1} plutôt que {2}, ont leur propre configuration, et une session émise par l'un ne pourra pas être descellée par l'autre.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "h3 fournit des helpers de session portant les mêmes noms, accessibles via {0}. Il s'agit d'une implémentation distincte, non interchangeable avec celles-ci : ils utilisent par défaut le nom de cookie {1} plutôt que {2}, ont leur propre configuration, et une session émise par l'un ne pourra pas être descellée par l'autre."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "9f189375a7542128",
+  "source": "Consider carefully before enabling this as it can cause unexpected behavior, and consider providing explicit keys to {0} as auto-generated keys may not match across builds.",
+  "text": "Réfléchissez bien avant d'activer cette option, car elle peut provoquer des comportements inattendus, et envisagez de fournir des clés explicites à {0}, car les clés générées automatiquement peuvent ne pas correspondre d'un build à l'autre.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Réfléchissez bien avant d'activer cette option, car elle peut provoquer des comportements inattendus, et envisagez de fournir des clés explicites à {0}, car les clés générées automatiquement peuvent ne pas correspondre d'un build à l'autre."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

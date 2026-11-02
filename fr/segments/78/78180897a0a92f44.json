@@ -1,0 +1,14 @@
+{
+  "hash": "78180897a0a92f44",
+  "source": "An object containing head configuration. All properties are optional and will be merged with existing configuration:",
+  "text": "Un objet contenant la configuration du head. Toutes les propriétés sont facultatives et seront fusionnées avec la configuration existante :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un objet contenant la configuration du head. Toutes les propriétés sont facultatives et seront fusionnées avec la configuration existante :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

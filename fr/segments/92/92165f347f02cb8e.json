@@ -1,0 +1,14 @@
+{
+  "hash": "92165f347f02cb8e",
+  "source": "Routes using {0} or {1} also generate {2} files alongside HTML. Client-side navigation loads these cached payloads instead of re-fetching data. Configure dynamic routes like {3} with glob patterns: {4}.",
+  "text": "Les routes utilisant {0} ou {1} génèrent également des fichiers {2} en plus du HTML. La navigation côté client charge ces payloads en cache au lieu de récupérer à nouveau les données. Configurez les routes dynamiques comme {3} avec des motifs glob : {4}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les routes utilisant {0} ou {1} génèrent également des fichiers {2} en plus du HTML. La navigation côté client charge ces payloads en cache au lieu de récupérer à nouveau les données. Configurez les routes dynamiques comme {3} avec des motifs glob : {4}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

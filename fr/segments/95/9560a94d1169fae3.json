@@ -1,0 +1,14 @@
+{
+  "hash": "9560a94d1169fae3",
+  "source": "The {0} object returned from {1}, {2}, {3} and {4} is now a computed property that is {5} only when {6} is also pending.",
+  "text": "L'objet {0} retourné par {1}, {2}, {3} et {4} est désormais une propriété calculée qui vaut {5} uniquement lorsque {6} est également en attente.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'objet {0} retourné par {1}, {2}, {3} et {4} est désormais une propriété calculée qui vaut {5} uniquement lorsque {6} est également en attente."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

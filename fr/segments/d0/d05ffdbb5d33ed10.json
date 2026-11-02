@@ -1,0 +1,14 @@
+{
+  "hash": "d05ffdbb5d33ed10",
+  "source": "Adding Global Meta Tags",
+  "text": "Ajouter des balises meta globales",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ajouter des balises meta globales"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

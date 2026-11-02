@@ -1,0 +1,14 @@
+{
+  "hash": "1e66b70fcda82225",
+  "source": "You can define your own custom hooks support by extending Nuxt's hook interfaces.",
+  "text": "Vous pouvez définir la prise en charge de vos propres hooks personnalisés en étendant les interfaces de hooks de Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez définir la prise en charge de vos propres hooks personnalisés en étendant les interfaces de hooks de Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

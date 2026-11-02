@@ -1,0 +1,14 @@
+{
+  "hash": "f37e7bf1ed8100f6",
+  "source": "make sure the user is logged in",
+  "text": "s'assurer que l'utilisateur est connecté",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "s'assurer que l'utilisateur est connecté"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

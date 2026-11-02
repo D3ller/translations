@@ -1,0 +1,14 @@
+{
+  "hash": "4856b7a8e974d13a",
+  "source": "Style with utility classes (Tailwind, UnoCSS): utility CSS lives in the entry stylesheet, not per-component {0} blocks.",
+  "text": "Stylez avec des classes utilitaires (Tailwind, UnoCSS) : le CSS utilitaire se trouve dans la feuille de style d'entrée, et non dans des blocs {0} propres à chaque composant.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Stylez avec des classes utilitaires (Tailwind, UnoCSS) : le CSS utilitaire se trouve dans la feuille de style d'entrée, et non dans des blocs {0} propres à chaque composant."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

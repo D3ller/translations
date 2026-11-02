@@ -1,0 +1,14 @@
+{
+  "hash": "c21639695fd607c8",
+  "source": "You can even get typed params within a page by using {0}.",
+  "text": "Vous pouvez même obtenir des paramètres typés dans une page en utilisant {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez même obtenir des paramètres typés dans une page en utilisant {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

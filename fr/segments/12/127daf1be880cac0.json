@@ -1,0 +1,14 @@
+{
+  "hash": "127daf1be880cac0",
+  "source": "**For module authors**, type augmentations must target the new module path:",
+  "text": "**Pour les auteurs de modules**, les augmentations de types doivent cibler le nouveau chemin de module :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Pour les auteurs de modules**, les augmentations de types doivent cibler le nouveau chemin de module :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "c127b87a8740ea18",
+  "source": "The {0} ESLint rule flags remaining {1} usage.",
+  "text": "La règle ESLint {0} signale les usages restants de {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La règle ESLint {0} signale les usages restants de {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

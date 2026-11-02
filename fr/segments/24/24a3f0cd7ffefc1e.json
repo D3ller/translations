@@ -1,0 +1,14 @@
+{
+  "hash": "24a3f0cd7ffefc1e",
+  "source": "{0} can only be called in the {1}Nuxt context{/1}.",
+  "text": "{0} ne peut être appelé que dans le {1}contexte Nuxt{/1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} ne peut être appelé que dans le {1}contexte Nuxt{/1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

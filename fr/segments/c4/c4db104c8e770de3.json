@@ -1,0 +1,14 @@
+{
+  "hash": "c4db104c8e770de3",
+  "source": "The handler can directly return JSON data, a {0}, or use {1} to send a response.",
+  "text": "Le handler peut renvoyer directement des données JSON, une {0}, ou utiliser {1} pour envoyer une réponse.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le handler peut renvoyer directement des données JSON, une {0}, ou utiliser {1} pour envoyer une réponse."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "2a9ce62628fbd874",
+  "source": "install the package as a dependency using your package manager, unless you pass {0}",
+  "text": "installe le package comme dépendance avec votre gestionnaire de packages, sauf si vous passez {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "installe le package comme dépendance avec votre gestionnaire de packages, sauf si vous passez {0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

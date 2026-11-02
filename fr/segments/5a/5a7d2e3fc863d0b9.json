@@ -1,0 +1,14 @@
+{
+  "hash": "5a7d2e3fc863d0b9",
+  "source": "You can build your module by running {0}.",
+  "text": "Vous pouvez compiler votre module en exécutant {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez compiler votre module en exécutant {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "988be85ba21ee102",
+  "source": "Letting Modules Extend the Bundler",
+  "text": "Permettre aux modules d'étendre le bundler",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Permettre aux modules d'étendre le bundler"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

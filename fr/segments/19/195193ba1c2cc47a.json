@@ -1,0 +1,14 @@
+{
+  "hash": "195193ba1c2cc47a",
+  "source": "Whether to use the vue-router integration in Nuxt 3. If you do not provide a value it will be enabled if you have a {0} directory in your source folder.",
+  "text": "Indique s'il faut utiliser l'intégration de vue-router dans Nuxt 3. Si vous ne fournissez pas de valeur, elle sera activée si vous avez un répertoire {0} dans votre dossier source.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Indique s'il faut utiliser l'intégration de vue-router dans Nuxt 3. Si vous ne fournissez pas de valeur, elle sera activée si vous avez un répertoire {0} dans votre dossier source."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

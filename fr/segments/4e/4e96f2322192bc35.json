@@ -1,0 +1,14 @@
+{
+  "hash": "4e96f2322192bc35",
+  "source": "Before finalizing and sending the HTML, Nitro will call the {0} hook. This hook allows you to manipulate the generated HTML, such as injecting additional scripts or modifying meta tags.",
+  "text": "Avant de finaliser et d'envoyer le HTML, Nitro appelle le hook {0}. Ce hook vous permet de manipuler le HTML généré, par exemple en injectant des scripts supplémentaires ou en modifiant les balises meta.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Avant de finaliser et d'envoyer le HTML, Nitro appelle le hook {0}. Ce hook vous permet de manipuler le HTML généré, par exemple en injectant des scripts supplémentaires ou en modifiant les balises meta."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

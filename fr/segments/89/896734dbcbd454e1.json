@@ -1,0 +1,14 @@
+{
+  "hash": "896734dbcbd454e1",
+  "source": "With a Nuxt project, there are lots of moving pieces - from {0}Nuxt modules{/0} to {1}other JavaScript libraries{/1}. Try to report the bug at the most relevant and specific place. That will likely be the Nuxt module causing an issue, or the upstream library that Nuxt is depending on.",
+  "text": "Dans un projet Nuxt, il y a de nombreuses pièces mobiles, des {0}modules Nuxt{/0} aux {1}autres bibliothèques JavaScript{/1}. Essayez de signaler le bug à l'endroit le plus pertinent et le plus précis. Ce sera probablement le module Nuxt à l'origine du problème, ou la bibliothèque en amont dont Nuxt dépend.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans un projet Nuxt, il y a de nombreuses pièces mobiles, des {0}modules Nuxt{/0} aux {1}autres bibliothèques JavaScript{/1}. Essayez de signaler le bug à l'endroit le plus pertinent et le plus précis. Ce sera probablement le module Nuxt à l'origine du problème, ou la bibliothèque en amont dont Nuxt dépend."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

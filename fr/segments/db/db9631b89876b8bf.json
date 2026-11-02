@@ -1,0 +1,14 @@
+{
+  "hash": "db9631b89876b8bf",
+  "source": "By default both fallbacks are empty shells. Set {0} to server-render your {1} into {2} at build time.",
+  "text": "Par défaut, les deux pages de repli sont des coquilles vides. Définissez {0} pour rendre votre {1} côté serveur dans {2} au moment du build.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par défaut, les deux pages de repli sont des coquilles vides. Définissez {0} pour rendre votre {1} côté serveur dans {2} au moment du build."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

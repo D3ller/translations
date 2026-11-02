@@ -1,0 +1,14 @@
+{
+  "hash": "16167f971b47f04f",
+  "source": "The example uses {0} to skip regeneration when an existing file is edited in development. Only use this when the output does not depend on watched file contents. For templates that read those contents, declare named dependencies or a predicate to avoid stale output.",
+  "text": "L'exemple utilise {0} pour éviter la régénération lorsqu'un fichier existant est modifié en développement. N'utilisez cette option que si le résultat ne dépend pas du contenu des fichiers surveillés. Pour les templates qui lisent ces contenus, déclarez des dépendances nommées ou un prédicat afin d'éviter une sortie obsolète.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'exemple utilise {0} pour éviter la régénération lorsqu'un fichier existant est modifié en développement. N'utilisez cette option que si le résultat ne dépend pas du contenu des fichiers surveillés. Pour les templates qui lisent ces contenus, déclarez des dépendances nommées ou un prédicat afin d'éviter une sortie obsolète."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

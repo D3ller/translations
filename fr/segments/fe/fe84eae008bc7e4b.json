@@ -1,0 +1,14 @@
+{
+  "hash": "fe84eae008bc7e4b",
+  "source": "Priority of the import; if multiple imports have the same name, the one with the highest priority will be used.",
+  "text": "Priorité de l'import ; si plusieurs imports portent le même nom, celui qui a la priorité la plus élevée sera utilisé.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Priorité de l'import ; si plusieurs imports portent le même nom, celui qui a la priorité la plus élevée sera utilisé."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

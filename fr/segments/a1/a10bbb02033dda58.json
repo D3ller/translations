@@ -1,0 +1,14 @@
+{
+  "hash": "a10bbb02033dda58",
+  "source": "Everyone you'll encounter is helping out because they care, not because they are paid to do so. The kindest thing to do is make it easy for them to help you. Here are some ideas:",
+  "text": "Toutes les personnes que vous rencontrerez aident parce qu'elles s'en soucient, et non parce qu'elles sont payées pour le faire. La meilleure attitude consiste à leur faciliter la tâche pour qu'elles puissent vous aider. Voici quelques idées :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Toutes les personnes que vous rencontrerez aident parce qu'elles s'en soucient, et non parce qu'elles sont payées pour le faire. La meilleure attitude consiste à leur faciliter la tâche pour qu'elles puissent vous aider. Voici quelques idées :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

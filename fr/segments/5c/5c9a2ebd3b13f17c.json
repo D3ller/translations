@@ -1,0 +1,14 @@
+{
+  "hash": "5c9a2ebd3b13f17c",
+  "source": "Nuxt automatically reads the files in the {0} directory and loads them at the creation of the Vue application.",
+  "text": "Nuxt lit automatiquement les fichiers du répertoire {0} et les charge lors de la création de l'application Vue.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt lit automatiquement les fichiers du répertoire {0} et les charge lors de la création de l'application Vue."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "28fdf344488974f2",
+  "source": "Type {0} and {1} from the routes your server builder reports, rather than from the responses nitro contributes to {2} through its {3} interface.",
+  "text": "Typez {0} et {1} à partir des routes que rapporte votre constructeur de serveur, plutôt qu'à partir des réponses que Nitro ajoute à {2} via son interface {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Typez {0} et {1} à partir des routes que rapporte votre constructeur de serveur, plutôt qu'à partir des réponses que Nitro ajoute à {2} via son interface {3}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

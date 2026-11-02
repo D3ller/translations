@@ -1,0 +1,14 @@
+{
+  "hash": "8ee3a1c70c473b7c",
+  "source": "Hook to the {0} hook through the {1} map",
+  "text": "Se brancher au hook {0} via la map {1}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Se brancher au hook {0} via la map {1}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

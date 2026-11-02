@@ -1,0 +1,14 @@
+{
+  "hash": "a9d707d6d055db7c",
+  "source": "The <NuxtTime> component displays time in a locale-friendly format with server-client consistency.",
+  "text": "Le composant <NuxtTime> affiche l'heure dans un format adapté à la locale, avec une cohérence entre le serveur et le client.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le composant <NuxtTime> affiche l'heure dans un format adapté à la locale, avec une cohérence entre le serveur et le client."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

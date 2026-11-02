@@ -1,0 +1,14 @@
+{
+  "hash": "1eca9554dc7ec2fa",
+  "source": "Debugging with Node Inspector",
+  "text": "Débogage avec Node Inspector",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Débogage avec Node Inspector"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

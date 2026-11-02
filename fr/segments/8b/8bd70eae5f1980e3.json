@@ -1,0 +1,14 @@
+{
+  "hash": "8bd70eae5f1980e3",
+  "source": "Disables @pinia/nuxt",
+  "text": "Désactive @pinia/nuxt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Désactive @pinia/nuxt"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

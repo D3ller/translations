@@ -1,0 +1,14 @@
+{
+  "hash": "39126e64dddd71b0",
+  "source": "Importing {0} from a Vue component, a plugin or the {1} directory fails the build, and the error points you at {2}, {3}, {4} and {5} instead. Its types still resolve in those contexts, which is what lets {6} know what your server routes return.",
+  "text": "Importer {0} depuis un composant Vue, un plugin ou le répertoire {1} fait échouer le build, et l'erreur vous oriente vers {2}, {3}, {4} et {5} à la place. Ses types restent résolus dans ces contextes, ce qui permet à {6} de connaître ce que renvoient vos routes serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Importer {0} depuis un composant Vue, un plugin ou le répertoire {1} fait échouer le build, et l'erreur vous oriente vers {2}, {3}, {4} et {5} à la place. Ses types restent résolus dans ces contextes, ce qui permet à {6} de connaître ce que renvoient vos routes serveur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

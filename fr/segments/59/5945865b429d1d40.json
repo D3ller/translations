@@ -1,0 +1,14 @@
+{
+  "hash": "5945865b429d1d40",
+  "source": "An array of event types, which, when received, will cause the watcher to restart.",
+  "text": "Un tableau de types d'événements qui, lorsqu'ils sont reçus, provoqueront le redémarrage du watcher.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un tableau de types d'événements qui, lorsqu'ils sont reçus, provoqueront le redémarrage du watcher."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

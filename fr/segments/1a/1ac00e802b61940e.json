@@ -1,0 +1,14 @@
+{
+  "hash": "1ac00e802b61940e",
+  "source": "useHydration",
+  "text": "useHydration",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "useHydration"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

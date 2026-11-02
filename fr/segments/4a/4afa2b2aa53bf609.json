@@ -1,0 +1,14 @@
+{
+  "hash": "4afa2b2aa53bf609",
+  "source": "This global {0} file allows you to define default settings that apply to all Nuxt projects on your system. However, project-level {1} files will override these global settings, and {2} will take precedence over both.",
+  "text": "Ce fichier {0} global vous permet de définir des paramètres par défaut qui s'appliquent à tous les projets Nuxt de votre système. Cependant, les fichiers {1} au niveau du projet remplaceront ces paramètres globaux, et {2} aura la priorité sur les deux.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ce fichier {0} global vous permet de définir des paramètres par défaut qui s'appliquent à tous les projets Nuxt de votre système. Cependant, les fichiers {1} au niveau du projet remplaceront ces paramètres globaux, et {2} aura la priorité sur les deux."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

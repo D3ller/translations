@@ -1,0 +1,14 @@
+{
+  "hash": "f157b1098d5f3319",
+  "source": "runs your plugins again, unless they set {0} (object-syntax plugins)",
+  "text": "exécute de nouveau vos plugins, sauf s'ils définissent {0} (plugins en syntaxe objet)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "exécute de nouveau vos plugins, sauf s'ils définissent {0} (plugins en syntaxe objet)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

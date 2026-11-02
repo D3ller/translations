@@ -1,0 +1,14 @@
+{
+  "hash": "e39bc1f1d2c48c32",
+  "source": "This applies only to the utilities Nitro and h3 provide. Your own exports from files directly in {0} and {1} are still auto-imported.",
+  "text": "Cela ne concerne que les utilitaires fournis par Nitro et h3. Vos propres exports provenant de fichiers situés directement dans {0} et {1} restent importés automatiquement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela ne concerne que les utilitaires fournis par Nitro et h3. Vos propres exports provenant de fichiers situés directement dans {0} et {1} restent importés automatiquement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

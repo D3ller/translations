@@ -1,0 +1,14 @@
+{
+  "hash": "3c58bfef930380ea",
+  "source": "For better performance, you can wrap your {0} calls in a server-only condition when the meta tags don't need to be reactive:",
+  "text": "Pour de meilleures performances, vous pouvez encadrer vos appels à {0} par une condition réservée au serveur lorsque les balises meta n'ont pas besoin d'être réactives :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour de meilleures performances, vous pouvez encadrer vos appels à {0} par une condition réservée au serveur lorsque les balises meta n'ont pas besoin d'être réactives :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

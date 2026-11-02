@@ -1,0 +1,14 @@
+{
+  "hash": "50de15df697b8c6e",
+  "source": "**Example**: app/spa-loading-template.html",
+  "text": "**Exemple** : app/spa-loading-template.html",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Exemple** : app/spa-loading-template.html"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

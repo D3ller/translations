@@ -1,0 +1,14 @@
+{
+  "hash": "19415e50fbe433d8",
+  "source": "If you place anything within square brackets, it will be turned into a {0}dynamic route{/0} parameter. You can mix and match multiple parameters and even non-dynamic text within a file name or directory.",
+  "text": "Si vous placez quoi que ce soit entre crochets, cela sera transformé en paramètre de {0}route dynamique{/0}. Vous pouvez combiner plusieurs paramètres, et même du texte non dynamique, dans un nom de fichier ou de répertoire.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous placez quoi que ce soit entre crochets, cela sera transformé en paramètre de {0}route dynamique{/0}. Vous pouvez combiner plusieurs paramètres, et même du texte non dynamique, dans un nom de fichier ou de répertoire."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

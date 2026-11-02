@@ -1,0 +1,14 @@
+{
+  "hash": "ede29e8f92e0efd2",
+  "source": "Register hooks for request lifecycle events, such as modifying responses.",
+  "text": "Enregistrer des hooks pour les événements du cycle de vie des requêtes, par exemple pour modifier les réponses.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Enregistrer des hooks pour les événements du cycle de vie des requêtes, par exemple pour modifier les réponses."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "80af650317c2c99e",
+  "source": "You can provide global Nuxt configuration, with the same configuration details as the {0} function mentioned earlier in this section.",
+  "text": "Vous pouvez fournir une configuration Nuxt globale, avec les mêmes détails de configuration que la fonction {0} mentionnée plus haut dans cette section.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez fournir une configuration Nuxt globale, avec les mêmes détails de configuration que la fonction {0} mentionnée plus haut dans cette section."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

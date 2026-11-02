@@ -1,0 +1,14 @@
+{
+  "hash": "0fd4702f481ef5a8",
+  "source": "A .env file specifies your build/dev-time environment variables.",
+  "text": "Un fichier .env définit vos variables d'environnement pour le build et le développement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un fichier .env définit vos variables d'environnement pour le build et le développement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

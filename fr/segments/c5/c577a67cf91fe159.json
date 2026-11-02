@@ -1,0 +1,14 @@
+{
+  "hash": "c577a67cf91fe159",
+  "source": "Expiration date for the cookie, or a getter that returns one. When a function is provided, it is evaluated on every cookie write, so the expiration can be refreshed when the value is re-set. Returning {0} creates a session cookie. The getter should be pure (no side effects). By default, no expiration is set. Most clients will consider this a \"non-persistent cookie\" and will delete it on a condition like exiting a web browser application.{1}**Note:** The {2}cookie storage model specification{/2} states that if both {3} and {4} is set, then {5} takes precedence, but not all clients may obey this, so if both are set, they should point to the same date and time!{6}If neither of {7} and {8} is set, the cookie will be session-only and removed when the user closes their browser.",
+  "text": "Date d'expiration du cookie, ou getter qui en retourne une. Lorsqu'une fonction est fournie, elle est évaluée à chaque écriture du cookie, ce qui permet d'actualiser l'expiration lorsque la valeur est redéfinie. Retourner {0} crée un cookie de session. Le getter doit être pur (sans effets de bord). Par défaut, aucune expiration n'est définie. La plupart des clients considéreront cela comme un « cookie non persistant » et le supprimeront dans une situation telle que la fermeture de l'application de navigation web.{1}**Note :** la {2}spécification du modèle de stockage des cookies{/2} indique que si {3} et {4} sont tous deux définis, {5} est prioritaire, mais tous les clients ne le respectent pas forcément ; si les deux sont définis, ils doivent donc désigner la même date et la même heure !{6}Si ni {7} ni {8} ne sont définis, le cookie sera limité à la session et supprimé lorsque l'utilisateur fermera son navigateur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Date d'expiration du cookie, ou getter qui en retourne une. Lorsqu'une fonction est fournie, elle est évaluée à chaque écriture du cookie, ce qui permet d'actualiser l'expiration lorsque la valeur est redéfinie. Retourner {0} crée un cookie de session. Le getter doit être pur (sans effets de bord). Par défaut, aucune expiration n'est définie. La plupart des clients considéreront cela comme un « cookie non persistant » et le supprimeront dans une situation telle que la fermeture de l'application de navigation web.{1}**Note :** la {2}spécification du modèle de stockage des cookies{/2} indique que si {3} et {4} sont tous deux définis, {5} est prioritaire, mais tous les clients ne le respectent pas forcément ; si les deux sont définis, ils doivent donc désigner la même date et la même heure !{6}Si ni {7} ni {8} ne sont définis, le cookie sera limité à la session et supprimé lorsque l'utilisateur fermera son navigateur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

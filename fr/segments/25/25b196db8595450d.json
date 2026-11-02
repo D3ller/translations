@@ -1,0 +1,14 @@
+{
+  "hash": "25b196db8595450d",
+  "source": "{0} writes to {1}, resolving the {2} instance through {3}. Inside a bundler plugin that already holds the instance, you can assign {4} directly.",
+  "text": "{0} écrit dans {1}, en résolvant l'instance {2} via {3}. Dans un plugin de bundler qui détient déjà l'instance, vous pouvez affecter {4} directement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} écrit dans {1}, en résolvant l'instance {2} via {3}. Dans un plugin de bundler qui détient déjà l'instance, vous pouvez affecter {4} directement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

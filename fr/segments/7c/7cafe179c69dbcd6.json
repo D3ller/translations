@@ -1,0 +1,14 @@
+{
+  "hash": "7cafe179c69dbcd6",
+  "source": "Nuxt Kit provides a set of utilities to help you work with Nuxt programmatically. These functions allow you to load Nuxt, build Nuxt, and load Nuxt configuration.",
+  "text": "Nuxt Kit fournit un ensemble d'utilitaires pour vous aider à travailler avec Nuxt de manière programmatique. Ces fonctions vous permettent de charger Nuxt, de construire Nuxt et de charger la configuration de Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt Kit fournit un ensemble d'utilitaires pour vous aider à travailler avec Nuxt de manière programmatique. Ces fonctions vous permettent de charger Nuxt, de construire Nuxt et de charger la configuration de Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

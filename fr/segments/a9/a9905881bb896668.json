@@ -1,0 +1,14 @@
+{
+  "hash": "a9905881bb896668",
+  "source": "To verify the MCP server is configured correctly:",
+  "text": "Pour vérifier que le serveur MCP est correctement configuré :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour vérifier que le serveur MCP est correctement configuré :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

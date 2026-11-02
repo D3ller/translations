@@ -1,0 +1,14 @@
+{
+  "hash": "8a8e780efb7797c9",
+  "source": "The server builder decides which of the two paths is in use, rather than the flag doing so directly. A server builder declares whether its build is a pass of its own, run after the app build, or an environment of the app builder's build. {0} declares it from {1}, and a server builder with no build pass of its own (such as {2}) declares that Vite is building everything.",
+  "text": "C'est le server builder qui détermine lequel des deux chemins est utilisé, et non le flag directement. Un server builder indique si son build constitue une passe à part entière, exécutée après le build de l'application, ou un environnement du build de l'app builder. {0} l'indique depuis {1}, et un server builder sans passe de build propre (comme {2}) indique que Vite construit tout.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "C'est le server builder qui détermine lequel des deux chemins est utilisé, et non le flag directement. Un server builder indique si son build constitue une passe à part entière, exécutée après le build de l'application, ou un environnement du build de l'app builder. {0} l'indique depuis {1}, et un server builder sans passe de build propre (comme {2}) indique que Vite construit tout."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "0de82b7e0bbfce8c",
+  "source": "Add the following configuration to your {0} object:",
+  "text": "Ajoutez la configuration suivante à votre objet {0} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ajoutez la configuration suivante à votre objet {0} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

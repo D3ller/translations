@@ -1,0 +1,14 @@
+{
+  "hash": "8652aa6848fff874",
+  "source": "**See**: {0}Vue Router documentation{/0}",
+  "text": "**Voir** : {0}documentation de Vue Router{/0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Voir** : {0}documentation de Vue Router{/0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

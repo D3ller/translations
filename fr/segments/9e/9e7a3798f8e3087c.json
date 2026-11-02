@@ -1,0 +1,14 @@
+{
+  "hash": "9e7a3798f8e3087c",
+  "source": "{0}: unique name for the route record",
+  "text": "{0} : nom unique de l'enregistrement de la route",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : nom unique de l'enregistrement de la route"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "db70f8c6513c204b",
+  "source": "Additional Props",
+  "text": "Props supplémentaires",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Props supplémentaires"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

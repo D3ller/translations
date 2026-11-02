@@ -1,0 +1,14 @@
+{
+  "hash": "7139538acd154f03",
+  "source": "Follow this document to learn more about Nuxt modules",
+  "text": "Suivez ce document pour en apprendre davantage sur les modules Nuxt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Suivez ce document pour en apprendre davantage sur les modules Nuxt"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

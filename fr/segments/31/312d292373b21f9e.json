@@ -1,0 +1,14 @@
+{
+  "hash": "312d292373b21f9e",
+  "source": "When the configured {0} produces no server at all (a client-only build, for example), there is nothing to run: the static output is served directly instead, with unmatched paths falling back to the client entry so client-side routing works.",
+  "text": "Lorsque le {0} configuré ne produit aucun serveur (un build client uniquement, par exemple), il n'y a rien à exécuter : la sortie statique est alors servie directement, et les chemins sans correspondance sont redirigés vers l'entrée client afin que le routage côté client fonctionne.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque le {0} configuré ne produit aucun serveur (un build client uniquement, par exemple), il n'y a rien à exécuter : la sortie statique est alors servie directement, et les chemins sans correspondance sont redirigés vers l'entrée client afin que le routage côté client fonctionne."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

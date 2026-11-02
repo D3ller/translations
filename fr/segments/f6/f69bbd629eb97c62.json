@@ -1,0 +1,14 @@
+{
+  "hash": "f69bbd629eb97c62",
+  "source": "passing 'to' as a string",
+  "text": "passage de 'to' sous forme de chaîne de caractères",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "passage de 'to' sous forme de chaîne de caractères"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

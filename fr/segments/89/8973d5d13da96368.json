@@ -1,0 +1,14 @@
+{
+  "hash": "8973d5d13da96368",
+  "source": "Enable definePageMeta macro",
+  "text": "Activer la macro definePageMeta",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Activer la macro definePageMeta"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

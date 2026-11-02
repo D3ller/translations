@@ -1,0 +1,14 @@
+{
+  "hash": "85893a2cbe0b9691",
+  "source": "On client-side, only keys in {0} and {1} (which is used by Nuxt internally) are available, and the object is both writable and reactive.",
+  "text": "Côté client, seules les clés de {0} et {1} (utilisé en interne par Nuxt) sont disponibles, et l'objet est à la fois modifiable et réactif.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Côté client, seules les clés de {0} et {1} (utilisé en interne par Nuxt) sont disponibles, et l'objet est à la fois modifiable et réactif."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

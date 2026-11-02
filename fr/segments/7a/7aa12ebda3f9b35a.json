@@ -1,0 +1,14 @@
+{
+  "hash": "7aa12ebda3f9b35a",
+  "source": "The package manager stores the dependencies of your project in the node_modules/ directory.",
+  "text": "Le gestionnaire de packages stocke les dépendances de votre projet dans le répertoire node_modules/.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le gestionnaire de packages stocke les dépendances de votre projet dans le répertoire node_modules/."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

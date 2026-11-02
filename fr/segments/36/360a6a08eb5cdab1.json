@@ -1,0 +1,14 @@
+{
+  "hash": "360a6a08eb5cdab1",
+  "source": "{0}: tells {1} to render the component with the corresponding name in the matched route record's components option. See {2}Named Views{/2} for the {3} filename convention.",
+  "text": "{0} : indique à {1} d'afficher le composant portant le nom correspondant dans l'option components de l'enregistrement de route correspondant. Consultez {2}Vues nommées{/2} pour la convention de nommage de fichier {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : indique à {1} d'afficher le composant portant le nom correspondant dans l'option components de l'enregistrement de route correspondant. Consultez {2}Vues nommées{/2} pour la convention de nommage de fichier {3}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "725814d5069f7a24",
+  "source": "With these settings, you can be sure that Cloudflare won't inject scripts into your Nuxt application that may cause unwanted side effects.",
+  "text": "Avec ces paramètres, vous êtes certain que Cloudflare n'injectera pas dans votre application Nuxt de scripts susceptibles de provoquer des effets secondaires indésirables.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Avec ces paramètres, vous êtes certain que Cloudflare n'injectera pas dans votre application Nuxt de scripts susceptibles de provoquer des effets secondaires indésirables."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

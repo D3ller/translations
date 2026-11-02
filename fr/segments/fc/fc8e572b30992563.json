@@ -1,0 +1,14 @@
+{
+  "hash": "fc8e572b30992563",
+  "source": "**Benefits of client-side rendering:**",
+  "text": "**Avantages du rendu côté client :**",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Avantages du rendu côté client :**"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

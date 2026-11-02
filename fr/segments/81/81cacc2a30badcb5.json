@@ -1,0 +1,14 @@
+{
+  "hash": "81cacc2a30badcb5",
+  "source": "You can also control streaming per-route using {0}:",
+  "text": "Vous pouvez également contrôler le streaming route par route avec {0} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez également contrôler le streaming route par route avec {0} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

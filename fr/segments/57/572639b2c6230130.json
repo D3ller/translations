@@ -1,0 +1,14 @@
+{
+  "hash": "572639b2c6230130",
+  "source": "Get the authorization request header",
+  "text": "Récupérer l'en-tête de requête authorization",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Récupérer l'en-tête de requête authorization"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

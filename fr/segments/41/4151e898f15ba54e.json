@@ -1,0 +1,14 @@
+{
+  "hash": "4151e898f15ba54e",
+  "source": "Our aim is ensuring quality and maintaining the joy of collaborating and communicating with real people. If you have ideas for improving our policy on AI in the Nuxt community, we'd love to hear them! ❤️",
+  "text": "Notre objectif est de garantir la qualité et de préserver le plaisir de collaborer et de communiquer avec de vraies personnes. Si vous avez des idées pour améliorer notre politique sur l'IA dans la communauté Nuxt, nous serions ravis de les entendre ! ❤️",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Notre objectif est de garantir la qualité et de préserver le plaisir de collaborer et de communiquer avec de vraies personnes. Si vous avez des idées pour améliorer notre politique sur l'IA dans la communauté Nuxt, nous serions ravis de les entendre ! ❤️"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

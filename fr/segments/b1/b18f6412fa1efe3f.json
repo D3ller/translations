@@ -1,0 +1,14 @@
+{
+  "hash": "b18f6412fa1efe3f",
+  "source": "Previously it was possible to pass {0} to {1}. These were aliases of {2} ({3}) and {4} ({5}).",
+  "text": "Auparavant, il était possible de passer {0} à {1}. Il s'agissait d'alias de {2} ({3}) et de {4} ({5}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Auparavant, il était possible de passer {0} à {1}. Il s'agissait d'alias de {2} ({3}) et de {4} ({5})."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

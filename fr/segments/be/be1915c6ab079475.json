@@ -1,0 +1,14 @@
+{
+  "hash": "be1915c6ab079475",
+  "source": "If you want to auto-import components based only on its name, not path, then you need to set {0} option to {1} using extended form of the configuration object:",
+  "text": "Si vous souhaitez importer automatiquement des composants uniquement en fonction de leur nom, et non de leur chemin, vous devez définir l'option {0} sur {1} en utilisant la forme étendue de l'objet de configuration :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous souhaitez importer automatiquement des composants uniquement en fonction de leur nom, et non de leur chemin, vous devez définir l'option {0} sur {1} en utilisant la forme étendue de l'objet de configuration :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

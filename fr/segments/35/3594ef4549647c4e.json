@@ -1,0 +1,14 @@
+{
+  "hash": "3594ef4549647c4e",
+  "source": "Nuxt Lifecycle",
+  "text": "Cycle de vie de Nuxt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cycle de vie de Nuxt"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

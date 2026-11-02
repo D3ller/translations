@@ -1,0 +1,14 @@
+{
+  "hash": "845bfcc63d843f9b",
+  "source": "This will forward the user's headers and cookies to {0}",
+  "text": "Cela transmettra les en-têtes et les cookies de l'utilisateur à {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela transmettra les en-têtes et les cookies de l'utilisateur à {0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

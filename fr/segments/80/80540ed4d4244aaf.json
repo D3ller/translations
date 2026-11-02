@@ -1,0 +1,14 @@
+{
+  "hash": "80540ed4d4244aaf",
+  "source": "Try running {0} once here. You will see that the application works as before.",
+  "text": "Essayez d'exécuter {0} une fois ici. Vous verrez que l'application fonctionne comme avant.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Essayez d'exécuter {0} une fois ici. Vous verrez que l'application fonctionne comme avant."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "2ac1c6ccfd20d27e",
+  "source": "This is true even if you throw an error in your middleware on the server, and an error page is rendered. The middleware will still run again in the browser.",
+  "text": "Cela reste vrai même si vous levez une erreur dans votre middleware sur le serveur et qu'une page d'erreur est rendue. Le middleware s'exécutera quand même de nouveau dans le navigateur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela reste vrai même si vous levez une erreur dans votre middleware sur le serveur et qu'une page d'erreur est rendue. Le middleware s'exécutera quand même de nouveau dans le navigateur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

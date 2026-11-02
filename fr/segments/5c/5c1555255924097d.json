@@ -1,0 +1,14 @@
+{
+  "hash": "5c1555255924097d",
+  "source": "How to create a custom fetcher for calling your external API in Nuxt.",
+  "text": "Comment créer un fetcher personnalisé pour appeler votre API externe dans Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Comment créer un fetcher personnalisé pour appeler votre API externe dans Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "6d8a8b65eb812962",
+  "source": "**Less layout shift**: a local system font is scaled to match each web font's metrics, so text barely moves when the real file arrives.",
+  "text": "**Moins de décalage de mise en page** : une police système locale est mise à l'échelle pour correspondre aux métriques de chaque police web, de sorte que le texte bouge à peine lorsque le vrai fichier arrive.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Moins de décalage de mise en page** : une police système locale est mise à l'échelle pour correspondre aux métriques de chaque police web, de sorte que le texte bouge à peine lorsque le vrai fichier arrive."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "f430d63a1e266266",
+  "source": "The changes are:",
+  "text": "Les changements sont les suivants :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les changements sont les suivants :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

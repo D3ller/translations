@@ -1,0 +1,14 @@
+{
+  "hash": "3fbb2433f85c321f",
+  "source": "Sets the message with {0}",
+  "text": "Définit le message avec {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définit le message avec {0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

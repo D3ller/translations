@@ -1,0 +1,14 @@
+{
+  "hash": "9e86248cf2351e38",
+  "source": "Milestone",
+  "text": "Jalon",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Jalon"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

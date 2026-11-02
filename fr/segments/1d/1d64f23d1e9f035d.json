@@ -1,0 +1,14 @@
+{
+  "hash": "1d64f23d1e9f035d",
+  "source": "Nested child routes under this route for layout or view nesting.",
+  "text": "Routes enfants imbriquées sous cette route, pour l'imbrication de layouts ou de vues.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Routes enfants imbriquées sous cette route, pour l'imbrication de layouts ou de vues."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

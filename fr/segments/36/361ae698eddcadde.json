@@ -1,0 +1,14 @@
+{
+  "hash": "361ae698eddcadde",
+  "source": "Changing the Layout Dynamically",
+  "text": "Changer le layout dynamiquement",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Changer le layout dynamiquement"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

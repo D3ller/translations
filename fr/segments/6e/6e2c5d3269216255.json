@@ -1,0 +1,14 @@
+{
+  "hash": "6e2c5d3269216255",
+  "source": "Font options",
+  "text": "Options de police",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Options de police"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

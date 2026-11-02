@@ -1,0 +1,14 @@
+{
+  "hash": "7323a398c70cb9c0",
+  "source": "30 seconds ago",
+  "text": "il y a 30 secondes",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "il y a 30 secondes"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

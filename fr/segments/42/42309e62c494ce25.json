@@ -1,0 +1,14 @@
+{
+  "hash": "42309e62c494ce25",
+  "source": "If set to {0}, the callback function will be called when building the server bundle.",
+  "text": "Si la valeur est {0}, la fonction de rappel sera appelée lors de la construction du bundle serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si la valeur est {0}, la fonction de rappel sera appelée lors de la construction du bundle serveur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

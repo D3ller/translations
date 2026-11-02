@@ -1,0 +1,14 @@
+{
+  "hash": "f12d01b4b939c3b6",
+  "source": "{0} is no longer installed by default with {1}. It is now an optional peer dependency that is loaded on demand only when a {2} or {3} file is encountered during the build.",
+  "text": "{0} n'est plus installé par défaut avec {1}. Il s'agit désormais d'une peer dependency facultative, chargée à la demande uniquement lorsqu'un fichier {2} ou {3} est rencontré pendant le build.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} n'est plus installé par défaut avec {1}. Il s'agit désormais d'une peer dependency facultative, chargée à la demande uniquement lorsqu'un fichier {2} ou {3} est rencontré pendant le build."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

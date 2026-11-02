@@ -1,0 +1,14 @@
+{
+  "hash": "1408134d362616da",
+  "source": "Most of the options will be directly passed to the {0}cookie{/0} package.",
+  "text": "La plupart des options sont transmises directement au package {0}cookie{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La plupart des options sont transmises directement au package {0}cookie{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

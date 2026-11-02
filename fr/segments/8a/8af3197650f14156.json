@@ -1,0 +1,14 @@
+{
+  "hash": "8af3197650f14156",
+  "source": "Custom Directories",
+  "text": "Répertoires personnalisés",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Répertoires personnalisés"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

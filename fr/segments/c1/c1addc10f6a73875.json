@@ -1,0 +1,14 @@
+{
+  "hash": "c1addc10f6a73875",
+  "source": "{0}: Executes once during initial render and once per subsequent client-side navigation",
+  "text": "{0} : s'exécute une fois lors du rendu initial, puis une fois à chaque navigation côté client ultérieure",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : s'exécute une fois lors du rendu initial, puis une fois à chaque navigation côté client ultérieure"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

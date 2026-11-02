@@ -1,0 +1,14 @@
+{
+  "hash": "45c038a097bdec75",
+  "source": "The interface above is the shape {0} uses, which is what Nuxt generates for your own server routes. A module can therefore generate one from an API description - an OpenAPI document, for example - with {1} from {2}, and hand the emitted interface to {3}.",
+  "text": "L'interface ci-dessus correspond à la forme utilisée par {0}, c'est-à-dire ce que Nuxt génère pour les routes de votre propre serveur. Un module peut donc en générer une à partir d'une description d'API (un document OpenAPI, par exemple) avec {1} de {2}, puis transmettre l'interface générée à {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'interface ci-dessus correspond à la forme utilisée par {0}, c'est-à-dire ce que Nuxt génère pour les routes de votre propre serveur. Un module peut donc en générer une à partir d'une description d'API (un document OpenAPI, par exemple) avec {1} de {2}, puis transmettre l'interface générée à {3}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

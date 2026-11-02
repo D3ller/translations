@@ -1,0 +1,14 @@
+{
+  "hash": "8f4b65e75bdbad96",
+  "source": "Navigate to the JSON settings file",
+  "text": "Accédez au fichier de paramètres JSON",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Accédez au fichier de paramètres JSON"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

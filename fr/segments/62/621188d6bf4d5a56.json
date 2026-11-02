@@ -1,0 +1,14 @@
+{
+  "hash": "621188d6bf4d5a56",
+  "source": "Profiling Tools",
+  "text": "Outils de profilage",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Outils de profilage"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "fbf47abafc2730e0",
+  "source": "This can also be set at runtime by setting the NUXT\\_APP\\_BASE\\_URL environment variable.",
+  "text": "Cette valeur peut aussi être définie à l'exécution via la variable d'environnement NUXT\\_APP\\_BASE\\_URL.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cette valeur peut aussi être définie à l'exécution via la variable d'environnement NUXT\\_APP\\_BASE\\_URL."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

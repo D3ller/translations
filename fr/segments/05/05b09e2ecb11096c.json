@@ -1,0 +1,14 @@
+{
+  "hash": "05b09e2ecb11096c",
+  "source": "If the component needs a function from its parent, render it on the client instead of as a server component.",
+  "text": "Si le composant a besoin d'une fonction de son parent, effectuez plutôt son rendu côté client plutôt que sous forme de composant serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si le composant a besoin d'une fonction de son parent, effectuez plutôt son rendu côté client plutôt que sous forme de composant serveur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

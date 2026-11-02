@@ -1,0 +1,14 @@
+{
+  "hash": "96ee421f2d2bc428",
+  "source": "Nuxt can type-check your app using {0} with {1} command.",
+  "text": "Nuxt peut vérifier les types de votre application avec {0} grâce à la commande {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt peut vérifier les types de votre application avec {0} grâce à la commande {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

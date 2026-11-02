@@ -1,0 +1,14 @@
+{
+  "hash": "94b3b16cb716c6df",
+  "source": "Nuxt 3 provides several different ways to manage your meta tags:",
+  "text": "Nuxt 3 propose plusieurs façons de gérer vos balises meta :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt 3 propose plusieurs façons de gérer vos balises meta :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "fd399a7b020e4f07",
+  "source": "Enables writing of early hints when using node server.",
+  "text": "Active l'écriture des early hints lors de l'utilisation d'un serveur Node.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Active l'écriture des early hints lors de l'utilisation d'un serveur Node."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

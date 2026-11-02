@@ -1,0 +1,14 @@
+{
+  "hash": "ad4a9f7155c07de1",
+  "source": "With Nuxt Bridge, the migration to Nuxt 3 can proceed in steps. The below {0} does not need to be done all at once.",
+  "text": "Avec Nuxt Bridge, la migration vers Nuxt 3 peut se faire par étapes. Les {0} ci-dessous n'ont pas besoin d'être réalisées toutes en une fois.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Avec Nuxt Bridge, la migration vers Nuxt 3 peut se faire par étapes. Les {0} ci-dessous n'ont pas besoin d'être réalisées toutes en une fois."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

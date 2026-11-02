@@ -1,0 +1,14 @@
+{
+  "hash": "6019861220e204c3",
+  "source": "Reusing resolved fonts from another module",
+  "text": "Réutiliser les polices résolues par un autre module",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Réutiliser les polices résolues par un autre module"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "78290036f1c5b764",
+  "source": "Merging Strategy",
+  "text": "Stratégie de fusion",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Stratégie de fusion"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

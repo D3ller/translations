@@ -1,0 +1,14 @@
+{
+  "hash": "772e1cf5b218cf94",
+  "source": "Sets the vertical position of the new window relative to the top edge of the screen.",
+  "text": "Définit la position verticale de la nouvelle fenêtre par rapport au bord supérieur de l'écran.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définit la position verticale de la nouvelle fenêtre par rapport au bord supérieur de l'écran."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

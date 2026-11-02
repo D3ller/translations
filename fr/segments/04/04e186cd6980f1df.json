@@ -1,0 +1,14 @@
+{
+  "hash": "04e186cd6980f1df",
+  "source": "The second argument is a function of type {0}. Same as above, it provides {1} and {2} route objects. It becomes optional if the first argument in {3} is already passed as a function.",
+  "text": "Le second argument est une fonction de type {0}. Comme précédemment, elle fournit les objets de route {1} et {2}. Il devient optionnel si le premier argument de {3} est déjà passé sous forme de fonction.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le second argument est une fonction de type {0}. Comme précédemment, elle fournit les objets de route {1} et {2}. Il devient optionnel si le premier argument de {3} est déjà passé sous forme de fonction."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

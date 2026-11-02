@@ -1,0 +1,14 @@
+{
+  "hash": "3d14aaa5cb43dcd3",
+  "source": "Controls how payload data is delivered for prerendered and cached (ISR/SWR) pages.",
+  "text": "Contrôle la manière dont les données du payload (charge utile) sont fournies pour les pages prérendues et mises en cache (ISR/SWR).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Contrôle la manière dont les données du payload (charge utile) sont fournies pour les pages prérendues et mises en cache (ISR/SWR)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

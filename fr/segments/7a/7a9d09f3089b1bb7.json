@@ -1,0 +1,14 @@
+{
+  "hash": "7a9d09f3089b1bb7",
+  "source": "However, keep in mind there are some limitations and differences:",
+  "text": "Gardez toutefois à l'esprit qu'il existe certaines limitations et différences :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Gardez toutefois à l'esprit qu'il existe certaines limitations et différences :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

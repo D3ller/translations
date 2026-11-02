@@ -1,0 +1,14 @@
+{
+  "hash": "16856481ac82ca1f",
+  "source": "This previously used the {0} composable, but it has been deprecated in favor of this approach.",
+  "text": "Cela utilisait auparavant le composable {0}, mais il a été déprécié au profit de cette approche.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela utilisait auparavant le composable {0}, mais il a été déprécié au profit de cette approche."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

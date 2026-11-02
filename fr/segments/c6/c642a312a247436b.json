@@ -1,0 +1,14 @@
+{
+  "hash": "c642a312a247436b",
+  "source": "This property can be overwritten (for example, running {0} will set the {1} to the absolute path of {2} from the current/working directory. It is normally not needed to configure this option.",
+  "text": "Cette propriété peut être remplacée (par exemple, l'exécution de {0} définira {1} sur le chemin absolu de {2} à partir du répertoire courant/de travail. Il n'est normalement pas nécessaire de configurer cette option.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cette propriété peut être remplacée (par exemple, l'exécution de {0} définira {1} sur le chemin absolu de {2} à partir du répertoire courant/de travail. Il n'est normalement pas nécessaire de configurer cette option."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

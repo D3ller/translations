@@ -1,0 +1,14 @@
+{
+  "hash": "151b2ab61c2c9b39",
+  "source": "{0} ({1}): The URL or request to fetch. Can be a string, a Request object, a Vue ref, or a function returning a string/Request. Supports reactivity for dynamic endpoints.",
+  "text": "{0} ({1}) : l'URL ou la requête à récupérer. Peut être une chaîne, un objet Request, une ref Vue ou une fonction renvoyant une chaîne ou un objet Request. Prend en charge la réactivité pour les points de terminaison dynamiques.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} ({1}) : l'URL ou la requête à récupérer. Peut être une chaîne, un objet Request, une ref Vue ou une fonction renvoyant une chaîne ou un objet Request. Prend en charge la réactivité pour les points de terminaison dynamiques."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

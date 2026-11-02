@@ -1,0 +1,14 @@
+{
+  "hash": "b3ea381acfbf6017",
+  "source": "-- Opt-in features --",
+  "text": "-- Fonctionnalités optionnelles --",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "-- Fonctionnalités optionnelles --"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

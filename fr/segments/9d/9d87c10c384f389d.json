@@ -1,0 +1,14 @@
+{
+  "hash": "9d87c10c384f389d",
+  "source": "Child folders in your {0} folder are also scanned for {1} files and these are now also registered as middleware in your project.",
+  "text": "Les sous-dossiers de votre dossier {0} sont également analysés à la recherche de fichiers {1}, et ceux-ci sont désormais aussi enregistrés comme middleware dans votre projet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les sous-dossiers de votre dossier {0} sont également analysés à la recherche de fichiers {1}, et ceux-ci sont désormais aussi enregistrés comme middleware dans votre projet."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

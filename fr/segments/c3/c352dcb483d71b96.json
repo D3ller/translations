@@ -1,0 +1,14 @@
+{
+  "hash": "c352dcb483d71b96",
+  "source": "You'll then be able to inject all those assets inside the application from your {0}module definition{/0}.",
+  "text": "Vous pourrez ensuite injecter toutes ces ressources dans l'application depuis la {0}définition de votre module{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pourrez ensuite injecter toutes ces ressources dans l'application depuis la {0}définition de votre module{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "dceb781eb3875466",
+  "source": "Dedupe dependencies after upgrading",
+  "text": "Dédupliquer les dépendances après la mise à jour",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dédupliquer les dépendances après la mise à jour"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

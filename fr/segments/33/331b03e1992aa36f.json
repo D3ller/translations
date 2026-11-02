@@ -1,0 +1,14 @@
+{
+  "hash": "331b03e1992aa36f",
+  "source": "You can change this with the {0} option:",
+  "text": "Vous pouvez modifier ce comportement avec l'option {0} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez modifier ce comportement avec l'option {0} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

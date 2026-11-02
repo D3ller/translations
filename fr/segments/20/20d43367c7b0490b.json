@@ -1,0 +1,14 @@
+{
+  "hash": "20d43367c7b0490b",
+  "source": "The {0} macro is a useful way to collect build-time meta about pages. Nuxt itself provides a set list of supported keys which is used to power some of the internal features such as redirects, page aliases and custom paths.",
+  "text": "La macro {0} est un moyen pratique de collecter des métadonnées des pages au moment du build. Nuxt fournit lui-même une liste définie de clés prises en charge, utilisée pour alimenter certaines fonctionnalités internes telles que les redirections, les alias de page et les chemins personnalisés.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La macro {0} est un moyen pratique de collecter des métadonnées des pages au moment du build. Nuxt fournit lui-même une liste définie de clés prises en charge, utilisée pour alimenter certaines fonctionnalités internes telles que les redirections, les alias de page et les chemins personnalisés."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

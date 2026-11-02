@@ -1,0 +1,14 @@
+{
+  "hash": "edad624894eda2fa",
+  "source": "See {0}webpack website{/0} for more information about webpack plugins. You can also use {1}this collection{/1} to find a plugin that suits your needs.",
+  "text": "Consultez le {0}site de webpack{/0} pour plus d'informations sur les plugins webpack. Vous pouvez aussi utiliser {1}cette collection{/1} pour trouver un plugin adapté à vos besoins.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Consultez le {0}site de webpack{/0} pour plus d'informations sur les plugins webpack. Vous pouvez aussi utiliser {1}cette collection{/1} pour trouver un plugin adapté à vos besoins."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

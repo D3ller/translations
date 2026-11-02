@@ -1,0 +1,14 @@
+{
+  "hash": "539ea3bc93a870fe",
+  "source": "If you are using purely client-side rendering, then this might be unnecessary. You might only need a single {0} file, plus {1} and {2} fallbacks, which you can tell your static web host to serve up for all requests.",
+  "text": "Si vous utilisez un rendu purement côté client, cela peut être superflu. Un seul fichier {0} peut suffire, ainsi que les fichiers de repli {1} et {2}, que vous pouvez demander à votre hébergeur statique de servir pour toutes les requêtes.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous utilisez un rendu purement côté client, cela peut être superflu. Un seul fichier {0} peut suffire, ainsi que les fichiers de repli {1} et {2}, que vous pouvez demander à votre hébergeur statique de servir pour toutes les requêtes."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

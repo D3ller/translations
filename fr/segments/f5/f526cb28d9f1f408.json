@@ -1,0 +1,14 @@
+{
+  "hash": "f526cb28d9f1f408",
+  "source": "As an advanced escape hatch, the extension object may include {0}, {1} or {2} functions. These are not merged into the instance. Instead they wrap the corresponding method of the awaitable promise, receiving the original method as their first argument.",
+  "text": "En dernier recours avancé, l'objet d'extension peut inclure des fonctions {0}, {1} ou {2}. Elles ne sont pas fusionnées dans l'instance. À la place, elles enveloppent la méthode correspondante de la promesse awaitable, en recevant la méthode d'origine comme premier argument.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En dernier recours avancé, l'objet d'extension peut inclure des fonctions {0}, {1} ou {2}. Elles ne sont pas fusionnées dans l'instance. À la place, elles enveloppent la méthode correspondante de la promesse awaitable, en recevant la méthode d'origine comme premier argument."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

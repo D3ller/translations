@@ -1,0 +1,14 @@
+{
+  "hash": "d3cd2de09b6b3973",
+  "source": "When inserting tags that are reactive, you should use the computed getter syntax ({0}):",
+  "text": "Lorsque vous insérez des balises réactives, vous devez utiliser la syntaxe de getter computed ({0}) :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque vous insérez des balises réactives, vous devez utiliser la syntaxe de getter computed ({0}) :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

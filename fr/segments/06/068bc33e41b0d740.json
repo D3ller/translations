@@ -1,0 +1,14 @@
+{
+  "hash": "068bc33e41b0d740",
+  "source": "Default {0}, creates a dummy class without any functionality for the IntersectionObserver API",
+  "text": "Par défaut {0}, crée une classe factice sans aucune fonctionnalité pour l'API IntersectionObserver",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par défaut {0}, crée une classe factice sans aucune fonctionnalité pour l'API IntersectionObserver"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "03463c5e0bdf358f",
+  "source": "Controls when the plugin runs relative to other plugins.",
+  "text": "Contrôle le moment où le plugin s'exécute par rapport aux autres plugins.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Contrôle le moment où le plugin s'exécute par rapport aux autres plugins."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

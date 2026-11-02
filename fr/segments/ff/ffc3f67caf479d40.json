@@ -1,0 +1,14 @@
+{
+  "hash": "ffc3f67caf479d40",
+  "source": "Using {0} is the recommended way of declaring Vue components in Nuxt.",
+  "text": "L'utilisation de {0} est la méthode recommandée pour déclarer des composants Vue dans Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'utilisation de {0} est la méthode recommandée pour déclarer des composants Vue dans Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

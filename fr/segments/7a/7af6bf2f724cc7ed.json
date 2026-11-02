@@ -1,0 +1,14 @@
+{
+  "hash": "7af6bf2f724cc7ed",
+  "source": "An object that will be passed to {0} to customize the output.",
+  "text": "Un objet qui sera transmis à {0} pour personnaliser la sortie.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un objet qui sera transmis à {0} pour personnaliser la sortie."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

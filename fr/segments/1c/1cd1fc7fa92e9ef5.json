@@ -1,0 +1,14 @@
+{
+  "hash": "1cd1fc7fa92e9ef5",
+  "source": "When a page is rendered with {0} (either globally in {1} or for specific routes with {2}), the server returns an HTML shell without server-rendered application content. Your page content is not visible until the JavaScript bundle has been downloaded, Nuxt plugins have run, and the first page has rendered.",
+  "text": "Lorsqu'une page est rendue avec {0} (soit globalement dans {1}, soit pour des routes spécifiques avec {2}), le serveur renvoie une structure HTML sans contenu d'application rendu côté serveur. Le contenu de votre page n'est pas visible tant que le bundle JavaScript n'a pas été téléchargé, que les plugins Nuxt n'ont pas été exécutés et que la première page n'a pas été rendue.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsqu'une page est rendue avec {0} (soit globalement dans {1}, soit pour des routes spécifiques avec {2}), le serveur renvoie une structure HTML sans contenu d'application rendu côté serveur. Le contenu de votre page n'est pas visible tant que le bundle JavaScript n'a pas été téléchargé, que les plugins Nuxt n'ont pas été exécutés et que la première page n'a pas été rendue."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

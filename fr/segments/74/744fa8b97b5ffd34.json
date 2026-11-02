@@ -1,0 +1,14 @@
+{
+  "hash": "744fa8b97b5ffd34",
+  "source": "Whether to dump the current Nuxt state to sessionStorage (as {0}). By default this will have no effect on reload unless {1} is also set, or unless you handle restoring the state yourself.",
+  "text": "Indique s'il faut copier l'état Nuxt actuel dans sessionStorage (sous {0}). Par défaut, cela n'a aucun effet lors du rechargement, sauf si {1} est également défini, ou si vous gérez vous-même la restauration de l'état.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Indique s'il faut copier l'état Nuxt actuel dans sessionStorage (sous {0}). Par défaut, cela n'a aucun effet lors du rechargement, sauf si {1} est également défini, ou si vous gérez vous-même la restauration de l'état."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

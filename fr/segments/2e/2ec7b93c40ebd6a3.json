@@ -1,0 +1,14 @@
+{
+  "hash": "2ec7b93c40ebd6a3",
+  "source": "A {0} file specifies intentionally untracked files that git should ignore.",
+  "text": "Un fichier {0} indique les fichiers volontairement non suivis que git doit ignorer.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un fichier {0} indique les fichiers volontairement non suivis que git doit ignorer."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

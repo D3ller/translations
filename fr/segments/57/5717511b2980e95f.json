@@ -1,0 +1,14 @@
+{
+  "hash": "5717511b2980e95f",
+  "source": "{0}: tells {1} to render the component with the corresponding name in the matched route record's components option.",
+  "text": "{0} : indique à {1} d'afficher le composant portant le nom correspondant dans l'option components de l'enregistrement de route correspondant.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : indique à {1} d'afficher le composant portant le nom correspondant dans l'option components de l'enregistrement de route correspondant."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

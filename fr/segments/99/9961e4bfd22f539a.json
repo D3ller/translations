@@ -1,0 +1,14 @@
+{
+  "hash": "9961e4bfd22f539a",
+  "source": "**See**: {0}{1} docs on extending config layers{/0}",
+  "text": "**Voir** : {0}{1} documentation sur l'extension des layers (couches) de configuration{/0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Voir** : {0}{1} documentation sur l'extension des layers (couches) de configuration{/0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

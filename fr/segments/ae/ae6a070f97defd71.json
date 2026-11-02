@@ -1,0 +1,14 @@
+{
+  "hash": "ae6a070f97defd71",
+  "source": "Defines the subsets that should be downloaded for a font.",
+  "text": "Définit les sous-ensembles qui doivent être téléchargés pour une police.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définit les sous-ensembles qui doivent être téléchargés pour une police."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

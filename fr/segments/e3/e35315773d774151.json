@@ -1,0 +1,14 @@
+{
+  "hash": "e35315773d774151",
+  "source": "The folder name for the built site assets, relative to {0} (or {1} if set). This is set at build time and should not be customized at runtime.",
+  "text": "Le nom du dossier des assets du site compilé, relatif à {0} (ou à {1} s'il est défini). Il est défini au moment du build et ne doit pas être personnalisé à l'exécution.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le nom du dossier des assets du site compilé, relatif à {0} (ou à {1} s'il est défini). Il est défini au moment du build et ne doit pas être personnalisé à l'exécution."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

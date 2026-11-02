@@ -1,0 +1,14 @@
+{
+  "hash": "85616db8ce42a37c",
+  "source": "Payload Extraction Defaults to {0}",
+  "text": "L'extraction du payload (charge utile) vaut {0} par défaut",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'extraction du payload (charge utile) vaut {0} par défaut"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

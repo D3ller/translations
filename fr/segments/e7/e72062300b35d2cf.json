@@ -1,0 +1,14 @@
+{
+  "hash": "e72062300b35d2cf",
+  "source": "Earlier items in the array have higher priority and override later ones",
+  "text": "Les premiers éléments du tableau ont une priorité plus élevée et remplacent les suivants",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les premiers éléments du tableau ont une priorité plus élevée et remplacent les suivants"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

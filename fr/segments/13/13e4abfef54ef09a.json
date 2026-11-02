@@ -1,0 +1,14 @@
+{
+  "hash": "13e4abfef54ef09a",
+  "source": "Unlike on the server, the browser executes the full {0}Vue lifecycle{/0}.",
+  "text": "Contrairement au serveur, le navigateur exécute l'intégralité du {0}cycle de vie de Vue{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Contrairement au serveur, le navigateur exécute l'intégralité du {0}cycle de vie de Vue{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "0e14f36913133d86",
+  "source": "It is also possible to define a plugin using an object syntax, for more advanced use cases. For example:",
+  "text": "Il est aussi possible de définir un plugin avec une syntaxe objet, pour des cas d'usage plus avancés. Par exemple :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Il est aussi possible de définir un plugin avec une syntaxe objet, pour des cas d'usage plus avancés. Par exemple :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

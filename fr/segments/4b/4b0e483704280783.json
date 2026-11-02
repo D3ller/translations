@@ -1,0 +1,14 @@
+{
+  "hash": "4b0e483704280783",
+  "source": "Singleton Data Fetching Layer",
+  "text": "Couche singleton de récupération de données",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Couche singleton de récupération de données"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

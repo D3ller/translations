@@ -1,0 +1,14 @@
+{
+  "hash": "b6865bdcd3c9949b",
+  "source": "**Note:** Only JSON serializable {0}options{/0} are configurable:",
+  "text": "**Remarque :** seules les {0}options{/0} sérialisables en JSON sont configurables :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Remarque :** seules les {0}options{/0} sérialisables en JSON sont configurables :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

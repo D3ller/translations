@@ -1,0 +1,14 @@
+{
+  "hash": "f21c9c7c4fdfdaf6",
+  "source": "Invalidate todos in the background if the request succeeded.",
+  "text": "Invalidez les todos en arrière-plan si la requête a réussi.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Invalidez les todos en arrière-plan si la requête a réussi."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

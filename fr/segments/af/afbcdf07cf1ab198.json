@@ -1,0 +1,14 @@
+{
+  "hash": "afbcdf07cf1ab198",
+  "source": "Something isn't working the way that the docs say that it should. You're not sure if it's a bug. You've searched through the {0}open issues{/0} and {1}discussions{/1} but you can't find anything. (if there is a closed issue, please create a new one)",
+  "text": "Quelque chose ne fonctionne pas comme la documentation dit qu'il le devrait. Vous n'êtes pas sûr qu'il s'agisse d'un bug. Vous avez parcouru les {0}issues ouvertes{/0} et les {1}discussions{/1}, mais vous ne trouvez rien. (S'il existe une issue fermée, veuillez en créer une nouvelle.)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Quelque chose ne fonctionne pas comme la documentation dit qu'il le devrait. Vous n'êtes pas sûr qu'il s'agisse d'un bug. Vous avez parcouru les {0}issues ouvertes{/0} et les {1}discussions{/1}, mais vous ne trouvez rien. (S'il existe une issue fermée, veuillez en créer une nouvelle.)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

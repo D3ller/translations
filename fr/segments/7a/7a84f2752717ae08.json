@@ -1,0 +1,14 @@
+{
+  "hash": "7a84f2752717ae08",
+  "source": "Run the handler before route handlers. Return nothing to pass the request to the next handler. A {0} handler always runs as middleware.",
+  "text": "Exécute le handler avant les handlers de route. Ne retournez rien pour passer la requête au handler suivant. Un handler {0} s'exécute toujours comme middleware.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Exécute le handler avant les handlers de route. Ne retournez rien pour passer la requête au handler suivant. Un handler {0} s'exécute toujours comme middleware."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

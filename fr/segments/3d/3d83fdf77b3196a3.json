@@ -1,0 +1,14 @@
+{
+  "hash": "3d83fdf77b3196a3",
+  "source": "Routes you augmented by hand on nitro's {0} are no longer picked up. Augment {1} from {2} instead.",
+  "text": "Les routes que vous avez augmentées manuellement sur {0} de nitro ne sont plus prises en compte. Augmentez plutôt {1} depuis {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les routes que vous avez augmentées manuellement sur {0} de nitro ne sont plus prises en compte. Augmentez plutôt {1} depuis {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

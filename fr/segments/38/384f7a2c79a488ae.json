@@ -1,0 +1,14 @@
+{
+  "hash": "384f7a2c79a488ae",
+  "source": "In the network view ({0}), select a request and press {1} to see where its time went. The trace draws everything the server did for that request on one timeline: route middleware, server route handlers, Nuxt plugins, hooks, data fetching, rendering, and requests your app made to other servers. Below the timeline, it lists how long Vite spent compiling modules for the request, broken down by Vite plugin and slowest module, followed by the logs the request produced.",
+  "text": "Dans la vue réseau ({0}), sélectionnez une requête et appuyez sur {1} pour voir où son temps a été passé. La trace affiche sur une seule chronologie tout ce que le serveur a fait pour cette requête : middleware de route, gestionnaires de routes serveur, plugins Nuxt, hooks, récupération de données, rendu, et requêtes que votre application a envoyées à d'autres serveurs. Sous la chronologie, elle indique le temps que Vite a passé à compiler les modules pour la requête, détaillé par plugin Vite et par module le plus lent, suivi des logs produits par la requête.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans la vue réseau ({0}), sélectionnez une requête et appuyez sur {1} pour voir où son temps a été passé. La trace affiche sur une seule chronologie tout ce que le serveur a fait pour cette requête : middleware de route, gestionnaires de routes serveur, plugins Nuxt, hooks, récupération de données, rendu, et requêtes que votre application a envoyées à d'autres serveurs. Sous la chronologie, elle indique le temps que Vite a passé à compiler les modules pour la requête, détaillé par plugin Vite et par module le plus lent, suivi des logs produits par la requête."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "c886d556b221ed9f",
+  "source": "Typed routing catches broken links and stale route names at type-check time rather than at runtime, and it is now native to {0}, so it is a sensible default.",
+  "text": "Le routage typé détecte les liens cassés et les noms de route obsolètes au moment de la vérification des types plutôt qu'à l'exécution, et il est désormais natif dans {0}, ce qui en fait une valeur par défaut judicieuse.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le routage typé détecte les liens cassés et les noms de route obsolètes au moment de la vérification des types plutôt qu'à l'exécution, et il est désormais natif dans {0}, ce qui en fait une valeur par défaut judicieuse."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "9d7f941fc4a97a38",
+  "source": "An optional {0} argument lets you set the value of {1} to {2} to indicate whether the router middleware is global or not (set to {3} by default).",
+  "text": "Un argument optionnel {0} vous permet de définir la valeur de {1} sur {2} afin d'indiquer si le middleware de route est global ou non (défini sur {3} par défaut).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un argument optionnel {0} vous permet de définir la valeur de {1} sur {2} afin d'indiquer si le middleware de route est global ou non (défini sur {3} par défaut)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

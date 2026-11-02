@@ -1,0 +1,14 @@
+{
+  "hash": "2f02ed2a6b3128a3",
+  "source": "**Otherwise, install {0}** and keep using a remote {1} entry:",
+  "text": "**Sinon, installez {0}** et continuez à utiliser une entrée {1} distante :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Sinon, installez {0}** et continuez à utiliser une entrée {1} distante :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

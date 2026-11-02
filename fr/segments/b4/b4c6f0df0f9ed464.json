@@ -1,0 +1,14 @@
+{
+  "hash": "b4c6f0df0f9ed464",
+  "source": "\"What's the difference between v3 and v4?\"",
+  "text": "« Quelle est la différence entre la v3 et la v4 ? »",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "« Quelle est la différence entre la v3 et la v4 ? »"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

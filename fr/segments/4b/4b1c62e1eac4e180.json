@@ -1,0 +1,14 @@
+{
+  "hash": "4b1c62e1eac4e180",
+  "source": "If you have been using {0} in Nuxt 2, you can remove {1} in your {2}. If you had a more complex setup, then note that the component options have changed somewhat. See the {3}components documentation{/3} for more information.",
+  "text": "Si vous utilisiez {0} dans Nuxt 2, vous pouvez supprimer {1} dans votre {2}. Si votre configuration était plus complexe, notez que les options des composants ont quelque peu changé. Consultez la {3}documentation des composants{/3} pour plus d'informations.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous utilisiez {0} dans Nuxt 2, vous pouvez supprimer {1} dans votre {2}. Si votre configuration était plus complexe, notez que les options des composants ont quelque peu changé. Consultez la {3}documentation des composants{/3} pour plus d'informations."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

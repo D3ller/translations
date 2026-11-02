@@ -1,0 +1,14 @@
+{
+  "hash": "4f486ae9d5cf0a69",
+  "source": "runs when the browser is idle, or about 2 seconds after your app is ready, whichever comes first",
+  "text": "s'exécute lorsque le navigateur est inactif, ou environ 2 secondes après que votre application est prête, selon ce qui survient en premier",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "s'exécute lorsque le navigateur est inactif, ou environ 2 secondes après que votre application est prête, selon ce qui survient en premier"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "9a55d3f40d59a8dc",
+  "source": "{0} has to be executed during prerendering. If the {1} is used in dynamic pages/routes which are not prerendered, then it will not be executed.",
+  "text": "{0} doit être exécuté pendant le prérendu. Si {1} est utilisé dans des pages/routes dynamiques qui ne sont pas prérendues, il ne sera pas exécuté.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} doit être exécuté pendant le prérendu. Si {1} est utilisé dans des pages/routes dynamiques qui ne sont pas prérendues, il ne sera pas exécuté."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

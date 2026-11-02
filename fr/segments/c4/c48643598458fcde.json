@@ -1,0 +1,14 @@
+{
+  "hash": "c48643598458fcde",
+  "source": "{0} is for components that can wait a specific amount of time.",
+  "text": "{0} est destiné aux composants qui peuvent attendre une durée précise.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est destiné aux composants qui peuvent attendre une durée précise."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

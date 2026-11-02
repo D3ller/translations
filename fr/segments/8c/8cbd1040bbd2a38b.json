@@ -1,0 +1,14 @@
+{
+  "hash": "8cbd1040bbd2a38b",
+  "source": "Avoid copy-pasting AI-generated summaries that don't reflect your own understanding",
+  "text": "Évitez de copier-coller des résumés générés par l'IA qui ne reflètent pas votre propre compréhension",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Évitez de copier-coller des résumés générés par l'IA qui ne reflètent pas votre propre compréhension"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

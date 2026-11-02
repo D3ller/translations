@@ -1,0 +1,14 @@
+{
+  "hash": "5902eacaf28b6f09",
+  "source": "In this example, since {0} is defined within the {1} namespace, it is universally accessible on both server and client-side, while {2} **is only accessible on the server-side**.",
+  "text": "Dans cet exemple, comme {0} est défini dans l'espace de noms {1}, il est accessible partout, côté serveur comme côté client, tandis que {2} **n'est accessible que côté serveur**.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans cet exemple, comme {0} est défini dans l'espace de noms {1}, il est accessible partout, côté serveur comme côté client, tandis que {2} **n'est accessible que côté serveur**."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

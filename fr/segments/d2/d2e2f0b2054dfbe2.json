@@ -1,0 +1,14 @@
+{
+  "hash": "d2e2f0b2054dfbe2",
+  "source": "Status Codes",
+  "text": "Codes de statut",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Codes de statut"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

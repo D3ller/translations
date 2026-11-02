@@ -1,0 +1,14 @@
+{
+  "hash": "50330dc22f3adf86",
+  "source": "During server-side rendering, calling {0} to fetch your internal {1}API routes{/1} will directly call the relevant function (emulating the request), **saving an additional API call**.",
+  "text": "Lors du rendu côté serveur, l'appel de {0} pour récupérer vos {1}routes d'API{/1} internes appellera directement la fonction correspondante (en émulant la requête), ce qui **évite un appel d'API supplémentaire**.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lors du rendu côté serveur, l'appel de {0} pour récupérer vos {1}routes d'API{/1} internes appellera directement la fonction correspondante (en émulant la requête), ce qui **évite un appel d'API supplémentaire**."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

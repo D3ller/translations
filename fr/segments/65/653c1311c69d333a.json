@@ -1,0 +1,14 @@
+{
+  "hash": "653c1311c69d333a",
+  "source": "{0}Cloudflare Workers{/0}",
+  "text": "{0}Cloudflare Workers{/0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}Cloudflare Workers{/0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

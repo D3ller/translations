@@ -1,0 +1,14 @@
+{
+  "hash": "3060bcc75dbf89b4",
+  "source": "If validation fails, it should return {0} or an object containing a {1} and/or {2} to terminate the request.",
+  "text": "Si la validation échoue, elle doit renvoyer {0} ou un objet contenant {1} et/ou {2} pour mettre fin à la requête.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si la validation échoue, elle doit renvoyer {0} ou un objet contenant {1} et/ou {2} pour mettre fin à la requête."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

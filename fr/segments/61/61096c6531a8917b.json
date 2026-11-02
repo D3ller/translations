@@ -1,0 +1,14 @@
+{
+  "hash": "61096c6531a8917b",
+  "source": "Sets the {0} tag for the document.",
+  "text": "Définit la balise {0} du document.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définit la balise {0} du document."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

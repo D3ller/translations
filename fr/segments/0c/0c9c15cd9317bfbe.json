@@ -1,0 +1,14 @@
+{
+  "hash": "0c9c15cd9317bfbe",
+  "source": "Watch Params",
+  "text": "Paramètres de surveillance",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Paramètres de surveillance"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

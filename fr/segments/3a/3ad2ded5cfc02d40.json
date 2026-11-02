@@ -1,0 +1,14 @@
+{
+  "hash": "3ad2ded5cfc02d40",
+  "source": "Each layer can include:",
+  "text": "Chaque layer peut inclure :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Chaque layer peut inclure :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

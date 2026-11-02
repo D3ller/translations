@@ -1,0 +1,14 @@
+{
+  "hash": "7f4512dc6d720f99",
+  "source": "How to use",
+  "text": "Mode d'emploi",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mode d'emploi"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

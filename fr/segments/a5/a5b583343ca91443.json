@@ -1,0 +1,14 @@
+{
+  "hash": "a5b583343ca91443",
+  "source": "Defines the src that should be used for the given font. If this is defined, then no other providers will be used for the given font family.",
+  "text": "Définit la source (src) à utiliser pour la police donnée. Si elle est définie, aucun autre fournisseur ne sera utilisé pour cette famille de polices.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définit la source (src) à utiliser pour la police donnée. Si elle est définie, aucun autre fournisseur ne sera utilisé pour cette famille de polices."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "25f862a6078023ba",
+  "source": "If you need to mock a Nuxt import and provide different implementations between tests, you can do it by creating and exposing your mocks using {0}, and then use those mocks in {1}. You then have access to the mocked imports, and can change the implementation between tests. Be careful to {2}restore mocks{/2} before or after each test to undo mock state changes between runs.",
+  "text": "Si vous devez mocker un import de Nuxt et fournir des implémentations différentes selon les tests, vous pouvez créer et exposer vos mocks avec {0}, puis utiliser ces mocks dans {1}. Vous avez alors accès aux imports mockés et pouvez modifier l'implémentation d'un test à l'autre. Veillez à {2}restaurer les mocks{/2} avant ou après chaque test afin d'annuler les changements d'état des mocks entre les exécutions.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous devez mocker un import de Nuxt et fournir des implémentations différentes selon les tests, vous pouvez créer et exposer vos mocks avec {0}, puis utiliser ces mocks dans {1}. Vous avez alors accès aux imports mockés et pouvez modifier l'implémentation d'un test à l'autre. Veillez à {2}restaurer les mocks{/2} avant ou après chaque test afin d'annuler les changements d'état des mocks entre les exécutions."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

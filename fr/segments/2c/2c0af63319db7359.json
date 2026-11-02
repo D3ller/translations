@@ -1,0 +1,14 @@
+{
+  "hash": "2c0af63319db7359",
+  "source": "Default: Uses the browser or server's default locale",
+  "text": "Par défaut : utilise la locale par défaut du navigateur ou du serveur",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par défaut : utilise la locale par défaut du navigateur ou du serveur"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

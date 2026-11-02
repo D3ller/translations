@@ -1,0 +1,14 @@
+{
+  "hash": "4a96717143ec8efb",
+  "source": "This would output something like: \"3 days ago\" or \"last Friday\" depending on the {0} setting.",
+  "text": "Cela afficherait quelque chose comme « il y a 3 jours » ou « vendredi dernier » selon le paramètre {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela afficherait quelque chose comme « il y a 3 jours » ou « vendredi dernier » selon le paramètre {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

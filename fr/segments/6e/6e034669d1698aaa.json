@@ -1,0 +1,14 @@
+{
+  "hash": "6e034669d1698aaa",
+  "source": "Some providers use {0}, some use {1}, and some let you configure both. Check your hosting provider's static fallback or rewrite settings after deployment.",
+  "text": "Certains fournisseurs utilisent {0}, d'autres {1}, et certains vous permettent de configurer les deux. Vérifiez les paramètres de repli statique ou de réécriture de votre hébergeur après le déploiement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Certains fournisseurs utilisent {0}, d'autres {1}, et certains vous permettent de configurer les deux. Vérifiez les paramètres de repli statique ou de réécriture de votre hébergeur après le déploiement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

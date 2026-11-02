@@ -1,0 +1,14 @@
+{
+  "hash": "3e0768b9b0edc8c9",
+  "source": "The file extensions to try. Default is Nuxt configured extensions.",
+  "text": "Les extensions de fichier à essayer. Par défaut, les extensions configurées dans Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les extensions de fichier à essayer. Par défaut, les extensions configurées dans Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

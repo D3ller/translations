@@ -1,0 +1,14 @@
+{
+  "hash": "a203f07e04b0f315",
+  "source": "If you want to enable {0} and automatic cleanup, add this setup file",
+  "text": "Si vous souhaitez activer {0} et le nettoyage automatique, ajoutez ce fichier de setup",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous souhaitez activer {0} et le nettoyage automatique, ajoutez ce fichier de setup"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

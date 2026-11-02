@@ -1,0 +1,14 @@
+{
+  "hash": "14f7d4a0f69e84fe",
+  "source": "You might want to define metadata for each route in your app. You can do this using the {0} macro, which will work both in {1} and in {2}:",
+  "text": "Vous pouvez vouloir définir des métadonnées pour chaque route de votre application. Vous pouvez le faire avec la macro {0}, qui fonctionne aussi bien dans {1} que dans {2} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez vouloir définir des métadonnées pour chaque route de votre application. Vous pouvez le faire avec la macro {0}, qui fonctionne aussi bien dans {1} que dans {2} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "39aa8e3d7b435a4c",
+  "source": "{0} (string) - Current request url.",
+  "text": "{0} (string) - URL de la requête en cours.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} (string) - URL de la requête en cours."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

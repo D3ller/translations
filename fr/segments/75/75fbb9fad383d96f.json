@@ -1,0 +1,14 @@
+{
+  "hash": "75fbb9fad383d96f",
+  "source": "Plugin to parse CSS and add vendor prefixes to CSS rules.",
+  "text": "Plugin qui analyse le CSS et ajoute des préfixes vendeurs aux règles CSS.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Plugin qui analyse le CSS et ajoute des préfixes vendeurs aux règles CSS."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

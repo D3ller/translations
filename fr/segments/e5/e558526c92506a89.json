@@ -1,0 +1,14 @@
+{
+  "hash": "e558526c92506a89",
+  "source": "When you access {0}, it will return the following response:",
+  "text": "Lorsque vous accédez à {0}, la réponse suivante est retournée :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque vous accédez à {0}, la réponse suivante est retournée :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

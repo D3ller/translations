@@ -1,0 +1,14 @@
+{
+  "hash": "ac55039c43623cd8",
+  "source": "If you need to add a virtual file that can be imported into the user's app, you can use the {0} utility.",
+  "text": "Si vous devez ajouter un fichier virtuel pouvant être importé dans l'application de l'utilisateur, vous pouvez utiliser l'utilitaire {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous devez ajouter un fichier virtuel pouvant être importé dans l'application de l'utilisateur, vous pouvez utiliser l'utilitaire {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

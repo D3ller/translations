@@ -1,0 +1,14 @@
+{
+  "hash": "5627d25db29ea6ed",
+  "source": "**{0}**: A callback function that will be called with the Vite configuration object.",
+  "text": "**{0}** : une fonction de rappel qui sera appelée avec l'objet de configuration de Vite.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** : une fonction de rappel qui sera appelée avec l'objet de configuration de Vite."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

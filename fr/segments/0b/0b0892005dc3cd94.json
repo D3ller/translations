@@ -1,0 +1,14 @@
+{
+  "hash": "0b0892005dc3cd94",
+  "source": "Nuxt provides the {0} component to render its content on the client if any of its children trigger an error in SSR.",
+  "text": "Nuxt fournit le composant {0} pour afficher son contenu côté client si l'un de ses enfants déclenche une erreur lors du SSR.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt fournit le composant {0} pour afficher son contenu côté client si l'un de ses enfants déclenche une erreur lors du SSR."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

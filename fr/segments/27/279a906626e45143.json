@@ -1,0 +1,14 @@
+{
+  "hash": "279a906626e45143",
+  "source": "**Early return from {0}**: A successful top-level {1} {2}stops the rest of your {3} running{/2}",
+  "text": "**Retour anticipé depuis {0}** : un {1} de premier niveau réussi {2}empêche l'exécution du reste de votre {3}{/2}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Retour anticipé depuis {0}** : un {1} de premier niveau réussi {2}empêche l'exécution du reste de votre {3}{/2}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

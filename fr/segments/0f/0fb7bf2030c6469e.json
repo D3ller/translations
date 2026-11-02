@@ -1,0 +1,14 @@
+{
+  "hash": "0fb7bf2030c6469e",
+  "source": "The above route middleware will redirect a user to the custom error page defined in the {0} file, and expose the error message and code passed from the middleware.",
+  "text": "Le middleware de route ci-dessus redirigera l'utilisateur vers la page d'erreur personnalisée définie dans le fichier {0} et exposera le message d'erreur et le code transmis par le middleware.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le middleware de route ci-dessus redirigera l'utilisateur vers la page d'erreur personnalisée définie dans le fichier {0} et exposera le message d'erreur et le code transmis par le middleware."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

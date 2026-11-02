@@ -1,0 +1,14 @@
+{
+  "hash": "f357328d8fff4d23",
+  "source": "name of the component to be used in vue templates",
+  "text": "nom du composant à utiliser dans les templates Vue",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "nom du composant à utiliser dans les templates Vue"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

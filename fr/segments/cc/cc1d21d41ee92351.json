@@ -1,0 +1,14 @@
+{
+  "hash": "cc1d21d41ee92351",
+  "source": "**{0}**: A path or an array of paths to resolve.",
+  "text": "**{0}** : un chemin ou un tableau de chemins à résoudre.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** : un chemin ou un tableau de chemins à résoudre."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "43a1d984640985af",
+  "source": "Nuxt calls {0} once during {1} and {2}, after the virtual application has been generated and the {3} hook has fired. Nuxt wraps your {4} so that any thrown error triggers the {5} hook automatically.",
+  "text": "Nuxt appelle {0} une seule fois pendant {1} et {2}, après la génération de l'application virtuelle et le déclenchement du hook {3}. Nuxt enveloppe votre {4} de sorte que toute erreur levée déclenche automatiquement le hook {5}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt appelle {0} une seule fois pendant {1} et {2}, après la génération de l'application virtuelle et le déclenchement du hook {3}. Nuxt enveloppe votre {4} de sorte que toute erreur levée déclenche automatiquement le hook {5}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

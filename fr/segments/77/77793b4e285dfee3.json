@@ -1,0 +1,14 @@
+{
+  "hash": "77793b4e285dfee3",
+  "source": "By default a path that Nuxt does not handle is typed as {0}, since a nitro middleware, a {1} proxy or a catch-all handler can answer it. Enable {2} to make an unrecognized path an error instead.",
+  "text": "Par défaut, un chemin que Nuxt ne gère pas est typé comme {0}, car un middleware Nitro, un proxy {1} ou un handler fourre-tout peut y répondre. Activez {2} pour que tout chemin non reconnu provoque une erreur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par défaut, un chemin que Nuxt ne gère pas est typé comme {0}, car un middleware Nitro, un proxy {1} ou un handler fourre-tout peut y répondre. Activez {2} pour que tout chemin non reconnu provoque une erreur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

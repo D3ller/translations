@@ -1,0 +1,14 @@
+{
+  "hash": "a295cbc8d5e3431b",
+  "source": "This feature is only recommended for **static builds** with payload extraction, and where data does not need to be re-fetched at runtime.",
+  "text": "Cette fonctionnalité n'est recommandée que pour les **builds statiques** avec extraction du payload (charge utile), et lorsque les données n'ont pas besoin d'être récupérées à nouveau à l'exécution.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cette fonctionnalité n'est recommandée que pour les **builds statiques** avec extraction du payload (charge utile), et lorsque les données n'ont pas besoin d'être récupérées à nouveau à l'exécution."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

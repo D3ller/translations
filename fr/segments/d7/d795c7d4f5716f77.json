@@ -1,0 +1,14 @@
+{
+  "hash": "d795c7d4f5716f77",
+  "source": "baseURL is always enforced, regardless of what the caller passes",
+  "text": "baseURL est toujours imposé, quelle que soit la valeur passée par l'appelant",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "baseURL est toujours imposé, quelle que soit la valeur passée par l'appelant"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

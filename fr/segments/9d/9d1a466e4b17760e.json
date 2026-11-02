@@ -1,0 +1,14 @@
+{
+  "hash": "9d1a466e4b17760e",
+  "source": "Define the root directory of your application.",
+  "text": "Définit le répertoire racine de votre application.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définit le répertoire racine de votre application."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

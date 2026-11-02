@@ -1,0 +1,14 @@
+{
+  "hash": "9785133e5ad6f3e1",
+  "source": "If you want to use the runtime config within any (custom) plugin, you can use {0} inside of your {1} function.",
+  "text": "Si vous souhaitez utiliser la runtime config dans un plugin (personnalisé), vous pouvez utiliser {0} à l'intérieur de votre fonction {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous souhaitez utiliser la runtime config dans un plugin (personnalisé), vous pouvez utiliser {0} à l'intérieur de votre fonction {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

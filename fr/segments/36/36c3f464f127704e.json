@@ -1,0 +1,14 @@
+{
+  "hash": "36c3f464f127704e",
+  "source": "{0} scaffolds with it, and {1} scaffolds a project against the Nuxt nightly channel.",
+  "text": "{0} génère le projet avec ce canal, et {1} génère un projet basé sur le canal nightly de Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} génère le projet avec ce canal, et {1} génère un projet basé sur le canal nightly de Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

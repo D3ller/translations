@@ -1,0 +1,14 @@
+{
+  "hash": "95584f21a66bcfec",
+  "source": "Modules are executed in the following sequence:",
+  "text": "Les modules sont exécutés dans l'ordre suivant :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les modules sont exécutés dans l'ordre suivant :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

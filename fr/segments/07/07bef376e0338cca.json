@@ -1,0 +1,14 @@
+{
+  "hash": "07bef376e0338cca",
+  "source": "Defines the {0}font metric override descriptors{/0} of every {1} generated for the given font family. These apply to the family itself; the metrics of the fallback fonts we generate for it are calculated for you.",
+  "text": "Définit les {0}descripteurs de remplacement des métriques de police{/0} de chaque {1} généré pour la famille de polices donnée. Ils s'appliquent à la famille elle-même ; les métriques des polices de secours que nous générons pour elle sont calculées automatiquement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définit les {0}descripteurs de remplacement des métriques de police{/0} de chaque {1} généré pour la famille de polices donnée. Ils s'appliquent à la famille elle-même ; les métriques des polices de secours que nous générons pour elle sont calculées automatiquement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "7b1627262eea3f5f",
+  "source": "In the Vue part of your app (the {0} directory), Nuxt's {1} composable continues to work and is the recommended way to throw errors.",
+  "text": "Dans la partie Vue de votre application (le répertoire {0}), le composable {1} de Nuxt continue de fonctionner et reste le moyen recommandé pour lever des erreurs.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans la partie Vue de votre application (le répertoire {0}), le composable {1} de Nuxt continue de fonctionner et reste le moyen recommandé pour lever des erreurs."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

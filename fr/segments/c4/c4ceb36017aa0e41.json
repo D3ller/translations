@@ -1,0 +1,14 @@
+{
+  "hash": "c4ceb36017aa0e41",
+  "source": "Serve the analysis results",
+  "text": "Servir les résultats de l'analyse",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Servir les résultats de l'analyse"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

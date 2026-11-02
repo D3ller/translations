@@ -1,0 +1,14 @@
+{
+  "hash": "0dea1399b1124dc7",
+  "source": "Add components",
+  "text": "Ajouter des composants",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ajouter des composants"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

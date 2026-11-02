@@ -1,0 +1,14 @@
+{
+  "hash": "ecdcb3cc1f0dd3e6",
+  "source": "Moving to {0}",
+  "text": "Passer à {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Passer à {0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

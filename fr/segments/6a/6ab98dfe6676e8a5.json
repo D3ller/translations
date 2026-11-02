@@ -1,0 +1,14 @@
+{
+  "hash": "6ab98dfe6676e8a5",
+  "source": "If you have been using just {0} and not {1}, then things are very straightforward.",
+  "text": "Si vous utilisiez uniquement {0} et non {1}, les choses sont très simples.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous utilisiez uniquement {0} et non {1}, les choses sont très simples."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

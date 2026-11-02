@@ -1,0 +1,14 @@
+{
+  "hash": "527171ae51ec8c15",
+  "source": "Several packages can be added at once, and the modules will be resolved against the Nuxt version your project uses:",
+  "text": "Plusieurs packages peuvent être ajoutés en une seule fois, et les modules seront résolus par rapport à la version de Nuxt utilisée par votre projet :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Plusieurs packages peuvent être ajoutés en une seule fois, et les modules seront résolus par rapport à la version de Nuxt utilisée par votre projet :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

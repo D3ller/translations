@@ -1,0 +1,14 @@
+{
+  "hash": "4e959fa81062c684",
+  "source": "The {0} and {1} props render content as raw HTML. Do not pass untrusted user input to these props as it may lead to XSS vulnerabilities. Use the {2} or {3} slots instead for dynamic content that needs proper escaping.",
+  "text": "Les props {0} et {1} affichent le contenu en HTML brut. Ne leur transmettez pas de saisie utilisateur non fiable, car cela peut entraîner des vulnérabilités XSS. Utilisez plutôt les slots {2} ou {3} pour du contenu dynamique nécessitant un échappement approprié.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les props {0} et {1} affichent le contenu en HTML brut. Ne leur transmettez pas de saisie utilisateur non fiable, car cela peut entraîner des vulnérabilités XSS. Utilisez plutôt les slots {2} ou {3} pour du contenu dynamique nécessitant un échappement approprié."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

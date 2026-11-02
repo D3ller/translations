@@ -1,0 +1,14 @@
+{
+  "hash": "f77a42008c32678c",
+  "source": "If you reference routes that don't exist (for example a typo in a {0} prop, or a route defined dynamically outside the {1} directory), type-checking will now error. Fix the reference, or extend the generated route types for routes you add at runtime.",
+  "text": "Si vous référencez des routes qui n'existent pas (par exemple une faute de frappe dans une prop {0}, ou une route définie dynamiquement en dehors du répertoire {1}), la vérification des types signalera désormais une erreur. Corrigez la référence, ou étendez les types de routes générés pour les routes que vous ajoutez à l'exécution.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous référencez des routes qui n'existent pas (par exemple une faute de frappe dans une prop {0}, ou une route définie dynamiquement en dehors du répertoire {1}), la vérification des types signalera désormais une erreur. Corrigez la référence, ou étendez les types de routes générés pour les routes que vous ajoutez à l'exécution."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

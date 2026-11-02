@@ -1,0 +1,14 @@
+{
+  "hash": "00e1873a700ec1c4",
+  "source": "If you would like to provide a helper on the {0} instance, return it from the plugin under a {1} key.",
+  "text": "Si vous souhaitez fournir un helper sur l'instance {0}, retournez-le depuis le plugin sous une clé {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous souhaitez fournir un helper sur l'instance {0}, retournez-le depuis le plugin sous une clé {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

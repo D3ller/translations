@@ -1,0 +1,14 @@
+{
+  "hash": "b7fa194e85499bf2",
+  "source": "You may find that you *also* need to add other packages that are being imported by these libraries.",
+  "text": "Il se peut que vous deviez *également* ajouter d'autres packages importés par ces bibliothèques.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Il se peut que vous deviez *également* ajouter d'autres packages importés par ces bibliothèques."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

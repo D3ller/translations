@@ -1,0 +1,14 @@
+{
+  "hash": "3b6c9f35adebab74",
+  "source": "{0}: A default {1} attribute value applied on external links. Defaults to {2}. Set it to {3} to disable",
+  "text": "{0} : une valeur par défaut de l'attribut {1} appliquée aux liens externes. Par défaut, {2}. Définissez-la sur {3} pour la désactiver",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : une valeur par défaut de l'attribut {1} appliquée aux liens externes. Par défaut, {2}. Définissez-la sur {3} pour la désactiver"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

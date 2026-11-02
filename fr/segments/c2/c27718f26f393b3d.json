@@ -1,0 +1,14 @@
+{
+  "hash": "c27718f26f393b3d",
+  "source": "Note that for a purely static site, it is not possible to set runtime configuration config after your project is prerendered.",
+  "text": "Notez que pour un site purement statique, il n'est pas possible de définir la configuration runtime après le prérendu de votre projet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Notez que pour un site purement statique, il n'est pas possible de définir la configuration runtime après le prérendu de votre projet."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

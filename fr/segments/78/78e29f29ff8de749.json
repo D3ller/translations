@@ -1,0 +1,14 @@
+{
+  "hash": "78e29f29ff8de749",
+  "source": "**Creating a custom builder package:**",
+  "text": "**Création d'un package de builder personnalisé :**",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Création d'un package de builder personnalisé :**"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

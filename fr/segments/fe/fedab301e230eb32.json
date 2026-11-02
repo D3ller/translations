@@ -1,0 +1,14 @@
+{
+  "hash": "fedab301e230eb32",
+  "source": "TypeScript {0} Is Ignored",
+  "text": "TypeScript {0} est ignoré",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "TypeScript {0} est ignoré"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

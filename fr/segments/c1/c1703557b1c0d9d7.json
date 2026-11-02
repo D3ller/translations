@@ -1,0 +1,14 @@
+{
+  "hash": "c1703557b1c0d9d7",
+  "source": "Quick Setup",
+  "text": "Configuration rapide",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Configuration rapide"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

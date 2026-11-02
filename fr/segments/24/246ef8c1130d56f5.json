@@ -1,0 +1,14 @@
+{
+  "hash": "246ef8c1130d56f5",
+  "source": "Claude Code",
+  "text": "Claude Code",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Claude Code"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

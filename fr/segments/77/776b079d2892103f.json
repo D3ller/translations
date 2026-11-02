@@ -1,0 +1,14 @@
+{
+  "hash": "776b079d2892103f",
+  "source": "When to Use Each",
+  "text": "Quand utiliser chacun",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Quand utiliser chacun"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

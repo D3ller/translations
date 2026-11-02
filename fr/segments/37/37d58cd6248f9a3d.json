@@ -1,0 +1,14 @@
+{
+  "hash": "37d58cd6248f9a3d",
+  "source": "Called when Nitro is closed.",
+  "text": "Appelé lorsque Nitro est fermé.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appelé lorsque Nitro est fermé."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

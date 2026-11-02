@@ -1,0 +1,14 @@
+{
+  "hash": "124218e1ec862f22",
+  "source": "Without a terminal to prompt in, the answers it would have asked for have to be passed as arguments: the directory, {0}, {1} and {2}. Anything missing is reported along with the available templates, and the command exits with {3}.",
+  "text": "Sans terminal pour poser les questions, les réponses qu'elle aurait demandées doivent être passées en arguments : le répertoire, {0}, {1} et {2}. Tout élément manquant est signalé avec la liste des templates disponibles, et la commande se termine avec {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sans terminal pour poser les questions, les réponses qu'elle aurait demandées doivent être passées en arguments : le répertoire, {0}, {1} et {2}. Tout élément manquant est signalé avec la liste des templates disponibles, et la commande se termine avec {3}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

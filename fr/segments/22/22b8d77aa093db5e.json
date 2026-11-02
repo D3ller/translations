@@ -1,0 +1,14 @@
+{
+  "hash": "22b8d77aa093db5e",
+  "source": "Set {0} when running the server. Some dependencies (notably Vue Router) only strip development-only warnings when this is set, so leaving it unset can flood your logs with messages like {1} on unmatched routes.",
+  "text": "Définissez {0} lors de l'exécution du serveur. Certaines dépendances (notamment Vue Router) ne suppriment les avertissements réservés au développement que lorsque cette variable est définie ; la laisser non définie peut inonder vos logs de messages comme {1} sur les routes non trouvées.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définissez {0} lors de l'exécution du serveur. Certaines dépendances (notamment Vue Router) ne suppriment les avertissements réservés au développement que lorsque cette variable est définie ; la laisser non définie peut inonder vos logs de messages comme {1} sur les routes non trouvées."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

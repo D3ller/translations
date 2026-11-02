@@ -1,0 +1,14 @@
+{
+  "hash": "0a4e1bd5f89a9fcd",
+  "source": "npm Packages",
+  "text": "Packages npm",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Packages npm"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

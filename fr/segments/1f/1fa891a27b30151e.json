@@ -1,0 +1,14 @@
+{
+  "hash": "1fa891a27b30151e",
+  "source": "This normally works well if we {0} such dependency:",
+  "text": "Cela fonctionne généralement bien si vous faites un {0} d'une telle dépendance :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela fonctionne généralement bien si vous faites un {0} d'une telle dépendance :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

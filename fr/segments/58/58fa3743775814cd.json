@@ -1,0 +1,14 @@
+{
+  "hash": "58fa3743775814cd",
+  "source": "Watch a video from Alexander Lichter to understand the responsibilities of Nuxt and Nitro in your application",
+  "text": "Regardez une vidéo d'Alexander Lichter pour comprendre les responsabilités de Nuxt et de Nitro dans votre application",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Regardez une vidéo d'Alexander Lichter pour comprendre les responsabilités de Nuxt et de Nitro dans votre application"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

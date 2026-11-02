@@ -1,0 +1,14 @@
+{
+  "hash": "85f01fb8e3a159bd",
+  "source": "Troubleshooting ESM Issues",
+  "text": "Résoudre les problèmes liés à ESM",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Résoudre les problèmes liés à ESM"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

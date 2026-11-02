@@ -1,0 +1,14 @@
+{
+  "hash": "ebd576358e469f54",
+  "source": "**callback**: A function that will be called with the pages configuration. You can alter this array by adding, deleting, or modifying its elements. Note: You should modify the provided pages array directly, as changes made to a copied array will not be reflected in the configuration.",
+  "text": "**callback** : une fonction qui sera appelée avec la configuration des pages. Vous pouvez modifier ce tableau en ajoutant, en supprimant ou en modifiant ses éléments. Remarque : vous devez modifier directement le tableau de pages fourni, car les changements effectués sur une copie du tableau ne seront pas pris en compte dans la configuration.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**callback** : une fonction qui sera appelée avec la configuration des pages. Vous pouvez modifier ce tableau en ajoutant, en supprimant ou en modifiant ses éléments. Remarque : vous devez modifier directement le tableau de pages fourni, car les changements effectués sur une copie du tableau ne seront pas pris en compte dans la configuration."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

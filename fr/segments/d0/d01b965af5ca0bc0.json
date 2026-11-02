@@ -1,0 +1,14 @@
+{
+  "hash": "d01b965af5ca0bc0",
+  "source": "... Do something with the cookie",
+  "text": "... Faites quelque chose avec le cookie",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "... Faites quelque chose avec le cookie"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "03277ddd5db11cf3",
+  "source": "The Nuxt CLI runs, builds and inspects your Nuxt application from the command line.",
+  "text": "La CLI de Nuxt exécute, compile et inspecte votre application Nuxt depuis la ligne de commande.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La CLI de Nuxt exécute, compile et inspecte votre application Nuxt depuis la ligne de commande."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

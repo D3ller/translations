@@ -1,0 +1,14 @@
+{
+  "hash": "71ff951d20d249c0",
+  "source": "If you expect other modules to be able to subscribe to your module's hooks, you should call them in the {0} hook. This ensures that all other modules have had a chance to be set up and register their listeners to your hook during their own {1} function.",
+  "text": "Si vous souhaitez que d'autres modules puissent s'abonner aux hooks de votre module, vous devez les appeler dans le hook {0}. Cela garantit que tous les autres modules ont pu être configurés et enregistrer leurs écouteurs sur votre hook pendant l'exécution de leur propre fonction {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous souhaitez que d'autres modules puissent s'abonner aux hooks de votre module, vous devez les appeler dans le hook {0}. Cela garantit que tous les autres modules ont pu être configurés et enregistrer leurs écouteurs sur votre hook pendant l'exécution de leur propre fonction {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

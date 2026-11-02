@@ -1,0 +1,14 @@
+{
+  "hash": "fde01f530f7567f3",
+  "source": "You can now use {0} inside of your Nuxt 3 template, or call {1} to update the data.",
+  "text": "Vous pouvez maintenant utiliser {0} dans votre template Nuxt 3, ou appeler {1} pour mettre à jour les données.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez maintenant utiliser {0} dans votre template Nuxt 3, ou appeler {1} pour mettre à jour les données."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

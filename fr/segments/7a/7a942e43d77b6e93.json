@@ -1,0 +1,14 @@
+{
+  "hash": "7a942e43d77b6e93",
+  "source": "**Normalized page names**: Page component names {0}match their route names{/0} for consistent {1} behavior",
+  "text": "**Noms de pages normalisés** : les noms des composants de page {0}correspondent aux noms de leurs routes{/0} pour un comportement cohérent de {1}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Noms de pages normalisés** : les noms des composants de page {0}correspondent aux noms de leurs routes{/0} pour un comportement cohérent de {1}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

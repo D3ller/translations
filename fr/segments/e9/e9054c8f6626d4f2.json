@@ -1,0 +1,14 @@
+{
+  "hash": "e9054c8f6626d4f2",
+  "source": "Nuxt 3 also provides meta components that you can use to accomplish the same task. While these components look similar to HTML tags, they are provided by Nuxt and have similar functionality.",
+  "text": "Nuxt 3 fournit également des composants meta que vous pouvez utiliser pour accomplir la même tâche. Bien que ces composants ressemblent à des balises HTML, ils sont fournis par Nuxt et offrent des fonctionnalités similaires.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt 3 fournit également des composants meta que vous pouvez utiliser pour accomplir la même tâche. Bien que ces composants ressemblent à des balises HTML, ils sont fournis par Nuxt et offrent des fonctionnalités similaires."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

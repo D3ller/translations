@@ -1,0 +1,14 @@
+{
+  "hash": "4babf72b667c5cfb",
+  "source": "Called when a {0} is observed to be prefetched.",
+  "text": "Appelé lorsqu'un {0} est observé comme étant préchargé.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appelé lorsqu'un {0} est observé comme étant préchargé."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

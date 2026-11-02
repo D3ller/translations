@@ -1,0 +1,14 @@
+{
+  "hash": "2d7082c0883b360c",
+  "source": "Case-Sensitive Routing",
+  "text": "Routage sensible à la casse",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Routage sensible à la casse"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "31735e689a2de97f",
+  "source": "The {0} component lets you display dates and times in a locale-friendly format with proper {1} HTML semantics. It ensures consistent rendering between server and client without hydration mismatches.",
+  "text": "Le composant {0} vous permet d'afficher des dates et des heures dans un format adapté à la locale, avec une sémantique HTML {1} appropriée. Il garantit un rendu cohérent entre le serveur et le client, sans erreurs d'hydratation.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le composant {0} vous permet d'afficher des dates et des heures dans un format adapté à la locale, avec une sémantique HTML {1} appropriée. Il garantit un rendu cohérent entre le serveur et le client, sans erreurs d'hydratation."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

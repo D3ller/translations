@@ -1,0 +1,14 @@
+{
+  "hash": "4f602199baae3e7e",
+  "source": "This means you should take particular care not to mutate the global state in your tests (or, if you need to, to reset it afterwards).",
+  "text": "Cela signifie que vous devez faire particulièrement attention à ne pas modifier l'état global dans vos tests (ou, si nécessaire, à le réinitialiser ensuite).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela signifie que vous devez faire particulièrement attention à ne pas modifier l'état global dans vos tests (ou, si nécessaire, à le réinitialiser ensuite)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

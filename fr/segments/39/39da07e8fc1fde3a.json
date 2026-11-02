@@ -1,0 +1,14 @@
+{
+  "hash": "39da07e8fc1fde3a",
+  "source": "You should read their terms in full before using a font through {0}.",
+  "text": "Vous devez lire l'intégralité de leurs conditions avant d'utiliser une police via {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous devez lire l'intégralité de leurs conditions avant d'utiliser une police via {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "ccf33885a7f27c40",
+  "source": "Optional error to be thrown by {0}.",
+  "text": "Erreur facultative à lever par {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erreur facultative à lever par {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

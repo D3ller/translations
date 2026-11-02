@@ -1,0 +1,14 @@
+{
+  "hash": "591d9c59d6671022",
+  "source": "The output contains runtime code to run your Nuxt server in any environment (including experimental browser service workers!) and serve your static files, making it a true hybrid framework for the JAMstack. In addition, Nuxt implements a native storage layer, supporting multi-source drivers and local assets.",
+  "text": "La sortie contient du code d'exécution permettant de faire tourner votre serveur Nuxt dans n'importe quel environnement (y compris les service workers de navigateur expérimentaux !) et de servir vos fichiers statiques, ce qui en fait un véritable framework hybride pour la JAMstack. De plus, Nuxt implémente une couche de stockage native, prenant en charge des drivers multi-sources et des assets locaux.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La sortie contient du code d'exécution permettant de faire tourner votre serveur Nuxt dans n'importe quel environnement (y compris les service workers de navigateur expérimentaux !) et de servir vos fichiers statiques, ce qui en fait un véritable framework hybride pour la JAMstack. De plus, Nuxt implémente une couche de stockage native, prenant en charge des drivers multi-sources et des assets locaux."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

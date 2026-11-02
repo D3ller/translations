@@ -1,0 +1,14 @@
+{
+  "hash": "62fa24bba41240ee",
+  "source": "Learn about differences in {0}configuration{/0}",
+  "text": "Découvrez les différences de {0}configuration{/0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Découvrez les différences de {0}configuration{/0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

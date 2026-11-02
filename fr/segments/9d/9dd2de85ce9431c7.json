@@ -1,0 +1,14 @@
+{
+  "hash": "9dd2de85ce9431c7",
+  "source": "the inlined payload {0} (and the payload preload link, when payload extraction is enabled)",
+  "text": "le {0} du payload (charge utile) intégré (et le lien de préchargement du payload, lorsque l'extraction du payload est activée)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "le {0} du payload (charge utile) intégré (et le lien de préchargement du payload, lorsque l'extraction du payload est activée)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

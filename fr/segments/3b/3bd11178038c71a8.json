@@ -1,0 +1,14 @@
+{
+  "hash": "3bd11178038c71a8",
+  "source": "Client-side Teleport",
+  "text": "Teleport côté client",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Teleport côté client"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

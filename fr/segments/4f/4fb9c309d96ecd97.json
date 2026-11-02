@@ -1,0 +1,14 @@
+{
+  "hash": "4fb9c309d96ecd97",
+  "source": "this will be rendered on server side if the default slot fails to render in ssr",
+  "text": "ceci sera rendu côté serveur si le slot par défaut ne parvient pas à s'afficher lors du SSR",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "ceci sera rendu côté serveur si le slot par défaut ne parvient pas à s'afficher lors du SSR"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

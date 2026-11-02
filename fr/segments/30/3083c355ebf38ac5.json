@@ -1,0 +1,14 @@
+{
+  "hash": "3083c355ebf38ac5",
+  "source": "Creating an App Builder or Server Builder",
+  "text": "Créer un app builder ou un server builder",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Créer un app builder ou un server builder"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

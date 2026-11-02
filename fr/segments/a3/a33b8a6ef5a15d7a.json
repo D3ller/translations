@@ -1,0 +1,14 @@
+{
+  "hash": "a33b8a6ef5a15d7a",
+  "source": "{0} recreates the lockfile and {1} from scratch, and {2} deduplicates dependencies afterwards where the package manager supports it.",
+  "text": "{0} recrée le fichier de verrouillage et {1} à partir de zéro, puis {2} dédoublonne ensuite les dépendances lorsque le gestionnaire de packages le permet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} recrée le fichier de verrouillage et {1} à partir de zéro, puis {2} dédoublonne ensuite les dépendances lorsque le gestionnaire de packages le permet."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

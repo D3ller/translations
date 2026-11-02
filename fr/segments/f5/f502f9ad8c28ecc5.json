@@ -1,0 +1,14 @@
+{
+  "hash": "f502f9ad8c28ecc5",
+  "source": "Nuxt Fonts works with the Vite, webpack and rspack builders. In each case we inject {0} rules into your stylesheets and download the fonts at build time; where they are then served from differs, and is covered in {1}Where fonts are served from{/1}.",
+  "text": "Nuxt Fonts fonctionne avec les builders Vite, webpack et rspack. Dans chaque cas, nous injectons des règles {0} dans vos feuilles de style et téléchargeons les polices au moment du build ; l'endroit d'où elles sont ensuite servies diffère et est détaillé dans {1}D'où les polices sont servies{/1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt Fonts fonctionne avec les builders Vite, webpack et rspack. Dans chaque cas, nous injectons des règles {0} dans vos feuilles de style et téléchargeons les polices au moment du build ; l'endroit d'où elles sont ensuite servies diffère et est détaillé dans {1}D'où les polices sont servies{/1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

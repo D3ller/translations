@@ -1,0 +1,14 @@
+{
+  "hash": "0b42020f014e84a7",
+  "source": "Let's say you have an external API at {0} that requires JWT authentication via {1}nuxt-auth-utils{/1}, and you want to redirect to {2} on {3} responses.",
+  "text": "Supposons que vous ayez une API externe à l'adresse {0} qui nécessite une authentification JWT via {1}nuxt-auth-utils{/1}, et que vous souhaitiez rediriger vers {2} en cas de réponses {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Supposons que vous ayez une API externe à l'adresse {0} qui nécessite une authentification JWT via {1}nuxt-auth-utils{/1}, et que vous souhaitiez rediriger vers {2} en cas de réponses {3}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

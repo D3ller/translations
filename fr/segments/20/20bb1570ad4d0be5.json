@@ -1,0 +1,14 @@
+{
+  "hash": "20bb1570ad4d0be5",
+  "source": "**{0}**: Version and builder constraints to check against. It accepts the following properties:",
+  "text": "**{0}** : contraintes de version et de builder à vérifier. Accepte les propriétés suivantes :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** : contraintes de version et de builder à vérifier. Accepte les propriétés suivantes :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

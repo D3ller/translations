@@ -1,0 +1,14 @@
+{
+  "hash": "0482cccf4fbe9b3d",
+  "source": "Highest priority (among layers)",
+  "text": "Priorité la plus haute (parmi les layers)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Priorité la plus haute (parmi les layers)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

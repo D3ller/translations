@@ -1,0 +1,14 @@
+{
+  "hash": "a32d7450171a3a85",
+  "source": "Whether to prompt before installing. {0} always prompts, {1} never prompts (and installs automatically on StackBlitz), and leaving it unset prompts everywhere except StackBlitz.",
+  "text": "Indique s'il faut demander confirmation avant d'installer. {0} demande toujours confirmation, {1} ne la demande jamais (et installe automatiquement sur StackBlitz), et si la valeur n'est pas définie, la confirmation est demandée partout sauf sur StackBlitz.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Indique s'il faut demander confirmation avant d'installer. {0} demande toujours confirmation, {1} ne la demande jamais (et installe automatiquement sur StackBlitz), et si la valeur n'est pas définie, la confirmation est demandée partout sauf sur StackBlitz."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

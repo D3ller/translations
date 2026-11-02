@@ -1,0 +1,14 @@
+{
+  "hash": "06ade536668808ae",
+  "source": "Later assignments override earlier ones",
+  "text": "Les affectations suivantes remplacent les précédentes",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les affectations suivantes remplacent les précédentes"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

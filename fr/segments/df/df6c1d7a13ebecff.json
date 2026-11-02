@@ -1,0 +1,14 @@
+{
+  "hash": "df6c1d7a13ebecff",
+  "source": "{0} now names a directory inside {1} in Vite production builds, and defaults to {2}. Setting {3} serves fonts from {4} rather than from {5}. It remains a public path in development and with the webpack and rspack builders.",
+  "text": "{0} désigne désormais un répertoire à l'intérieur de {1} dans les builds de production Vite, et vaut {2} par défaut. Définir {3} sert les polices depuis {4} plutôt que depuis {5}. Il reste un chemin public en développement et avec les builders webpack et rspack.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} désigne désormais un répertoire à l'intérieur de {1} dans les builds de production Vite, et vaut {2} par défaut. Définir {3} sert les polices depuis {4} plutôt que depuis {5}. Il reste un chemin public en développement et avec les builders webpack et rspack."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

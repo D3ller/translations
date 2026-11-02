@@ -1,0 +1,14 @@
+{
+  "hash": "aa8f686e5896e87f",
+  "source": "We are planning a slight variation from this plan for Nuxt 4 and Nuxt 5. Nuxt 4 will be a stability-focused release containing all {0} features, and will be followed shortly by Nuxt 5 which will include an upgrade to Nitro v3 and additional changes.",
+  "text": "Nous prévoyons une légère variation par rapport à ce plan pour Nuxt 4 et Nuxt 5. Nuxt 4 sera une version axée sur la stabilité, contenant toutes les fonctionnalités de {0}, et sera suivie peu après par Nuxt 5, qui inclura une mise à niveau vers Nitro v3 et d'autres changements.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nous prévoyons une légère variation par rapport à ce plan pour Nuxt 4 et Nuxt 5. Nuxt 4 sera une version axée sur la stabilité, contenant toutes les fonctionnalités de {0}, et sera suivie peu après par Nuxt 5, qui inclura une mise à niveau vers Nitro v3 et d'autres changements."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

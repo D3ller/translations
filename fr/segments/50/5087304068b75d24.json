@@ -1,0 +1,14 @@
+{
+  "hash": "5087304068b75d24",
+  "source": "{0}: Whether {1} should wrap its content in an {2} element. It allows taking full control of how a link is rendered and how navigation works when it is clicked. Works the same as {3}Vue Router's {4} prop{/3}",
+  "text": "{0} : indique si {1} doit envelopper son contenu dans un élément {2}. Cela permet de contrôler entièrement le rendu d'un lien et le fonctionnement de la navigation lors du clic. Fonctionne comme la {3}prop {4} de Vue Router{/3}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : indique si {1} doit envelopper son contenu dans un élément {2}. Cela permet de contrôler entièrement le rendu d'un lien et le fonctionnement de la navigation lors du clic. Fonctionne comme la {3}prop {4} de Vue Router{/3}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

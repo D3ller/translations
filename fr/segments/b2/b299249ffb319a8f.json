@@ -1,0 +1,14 @@
+{
+  "hash": "b299249ffb319a8f",
+  "source": "{0} - The behavior is the same as {1} except that we are able to add the response to the CDN cache on platforms that support this (currently Netlify or Vercel). If {2} is used, the content persists until the next deploy inside the CDN.",
+  "text": "{0} - Le comportement est le même que {1}, sauf que nous pouvons ajouter la réponse au cache du CDN sur les plateformes qui le prennent en charge (actuellement Netlify ou Vercel). Si {2} est utilisé, le contenu persiste dans le CDN jusqu'au prochain déploiement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} - Le comportement est le même que {1}, sauf que nous pouvons ajouter la réponse au cache du CDN sur les plateformes qui le prennent en charge (actuellement Netlify ou Vercel). Si {2} est utilisé, le contenu persiste dans le CDN jusqu'au prochain déploiement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

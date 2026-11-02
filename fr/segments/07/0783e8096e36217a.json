@@ -1,0 +1,14 @@
+{
+  "hash": "0783e8096e36217a",
+  "source": "A builder communicates with the rest of Nuxt almost entirely through {0}hooks{/0}. It reads build configuration off {1} and, when appropriate, lets modules extend its bundler configuration.",
+  "text": "Un builder communique avec le reste de Nuxt presque entièrement par des {0}hooks{/0}. Il lit la configuration du build dans {1} et, le cas échéant, permet aux modules d'étendre la configuration de son bundler.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un builder communique avec le reste de Nuxt presque entièrement par des {0}hooks{/0}. Il lit la configuration du build dans {1} et, le cas échéant, permet aux modules d'étendre la configuration de son bundler."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

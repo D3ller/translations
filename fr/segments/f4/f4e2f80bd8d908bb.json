@@ -1,0 +1,14 @@
+{
+  "hash": "f4e2f80bd8d908bb",
+  "source": "If you are running on Node 16 and you set any cookies when rendering your error page, they will {0}overwrite cookies previously set{/0}. We recommend using a newer version of Node as Node 16 reached end-of-life in September 2023.",
+  "text": "Si vous utilisez Node 16 et que vous définissez des cookies lors du rendu de votre page d'erreur, ils {0}écraseront les cookies définis précédemment{/0}. Nous recommandons d'utiliser une version plus récente de Node, car Node 16 a atteint sa fin de vie en septembre 2023.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous utilisez Node 16 et que vous définissez des cookies lors du rendu de votre page d'erreur, ils {0}écraseront les cookies définis précédemment{/0}. Nous recommandons d'utiliser une version plus récente de Node, car Node 16 a atteint sa fin de vie en septembre 2023."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

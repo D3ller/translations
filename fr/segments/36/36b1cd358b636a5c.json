@@ -1,0 +1,14 @@
+{
+  "hash": "36b1cd358b636a5c",
+  "source": "Server components are experimental, and some rough edges are tracked in open issues:",
+  "text": "Les composants serveur sont expérimentaux, et certains défauts sont suivis dans des issues ouvertes :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les composants serveur sont expérimentaux, et certains défauts sont suivis dans des issues ouvertes :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

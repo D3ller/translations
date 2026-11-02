@@ -1,0 +1,14 @@
+{
+  "hash": "fdad11489fb208c1",
+  "source": "Aliasing Libraries",
+  "text": "Créer des alias pour les bibliothèques",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Créer des alias pour les bibliothèques"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "8acb541490f0f4cd",
+  "source": "Create a component library using {0} directory",
+  "text": "Créer une bibliothèque de composants avec le répertoire {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Créer une bibliothèque de composants avec le répertoire {0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

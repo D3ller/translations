@@ -1,0 +1,14 @@
+{
+  "hash": "c54dac1495eda495",
+  "source": "Print the matching pages without opening a browser",
+  "text": "Afficher les pages correspondantes sans ouvrir de navigateur",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Afficher les pages correspondantes sans ouvrir de navigateur"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

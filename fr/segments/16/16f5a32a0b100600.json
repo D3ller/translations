@@ -1,0 +1,14 @@
+{
+  "hash": "16f5a32a0b100600",
+  "source": "{0} is a runtime context that you can extend using {1}Nuxt plugins{/1}. Use the {2} function to create Nuxt plugins to make values and helper methods available in your Nuxt application across all composables and components.",
+  "text": "{0} est un contexte d'exécution que vous pouvez étendre à l'aide des {1}plugins Nuxt{/1}. Utilisez la fonction {2} pour créer des plugins Nuxt afin de rendre des valeurs et des méthodes helper disponibles dans votre application Nuxt, dans tous les composables et composants.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est un contexte d'exécution que vous pouvez étendre à l'aide des {1}plugins Nuxt{/1}. Utilisez la fonction {2} pour créer des plugins Nuxt afin de rendre des valeurs et des méthodes helper disponibles dans votre application Nuxt, dans tous les composables et composants."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

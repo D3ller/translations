@@ -1,0 +1,14 @@
+{
+  "hash": "a3c64e2f05354d3a",
+  "source": "Run tests in watch mode",
+  "text": "Exécuter les tests en mode watch",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Exécuter les tests en mode watch"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

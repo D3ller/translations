@@ -1,0 +1,14 @@
+{
+  "hash": "7a97187b3fb5f5d6",
+  "source": "Use the object syntax for the {0} property to pass props directly from your page:",
+  "text": "Utilisez la syntaxe objet de la propriété {0} pour passer des props directement depuis votre page :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utilisez la syntaxe objet de la propriété {0} pour passer des props directement depuis votre page :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

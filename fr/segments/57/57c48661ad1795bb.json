@@ -1,0 +1,14 @@
+{
+  "hash": "57c48661ad1795bb",
+  "source": "**SSR** stands for **Server-Side Rendering** and **CSR** for **Client-Side Rendering**.",
+  "text": "**SSR** signifie **Server-Side Rendering** (rendu côté serveur) et **CSR** signifie **Client-Side Rendering** (rendu côté client).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**SSR** signifie **Server-Side Rendering** (rendu côté serveur) et **CSR** signifie **Client-Side Rendering** (rendu côté client)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

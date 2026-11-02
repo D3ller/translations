@@ -1,0 +1,14 @@
+{
+  "hash": "fec315197096ccb9",
+  "source": "Server components rendered via the auto-generated wrapper do not expose load and error events; use {0} directly if you need its {1} event and {2} method ({3}).",
+  "text": "Les composants serveur rendus via l'encapsuleur généré automatiquement n'exposent pas les événements de chargement et d'erreur ; utilisez directement {0} si vous avez besoin de son événement {1} et de sa méthode {2} ({3}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les composants serveur rendus via l'encapsuleur généré automatiquement n'exposent pas les événements de chargement et d'erreur ; utilisez directement {0} si vous avez besoin de son événement {1} et de sa méthode {2} ({3})."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

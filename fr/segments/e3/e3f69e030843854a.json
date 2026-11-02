@@ -1,0 +1,14 @@
+{
+  "hash": "e3f69e030843854a",
+  "source": "Because the route announcer follows the document title, giving every route a distinct title is the single most valuable thing you can do. Set a global template in {0} and let each page fill in its own part:",
+  "text": "Comme l'annonceur de route suit le titre du document, donner à chaque route un titre distinct est la chose la plus utile que vous puissiez faire. Définissez un template global dans {0} et laissez chaque page renseigner sa propre partie :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Comme l'annonceur de route suit le titre du document, donner à chaque route un titre distinct est la chose la plus utile que vous puissiez faire. Définissez un template global dans {0} et laissez chaque page renseigner sa propre partie :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

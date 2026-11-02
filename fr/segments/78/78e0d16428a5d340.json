@@ -1,0 +1,14 @@
+{
+  "hash": "78e0d16428a5d340",
+  "source": "Use Composition Whenever Possible",
+  "text": "Privilégiez la composition chaque fois que possible",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Privilégiez la composition chaque fois que possible"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

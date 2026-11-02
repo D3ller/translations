@@ -1,0 +1,14 @@
+{
+  "hash": "f48de7222977d955",
+  "source": "**Generates @font-face rules** – Injects CSS rules to load fonts from the correct sources.",
+  "text": "**Génère les règles @font-face** – Injecte des règles CSS pour charger les polices depuis les bonnes sources.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Génère les règles @font-face** – Injecte des règles CSS pour charger les polices depuis les bonnes sources."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

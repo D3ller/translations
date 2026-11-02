@@ -1,0 +1,14 @@
+{
+  "hash": "77e82818cb45cd73",
+  "source": "Setup function for the module. If provided, the module will call the setup function.",
+  "text": "Fonction setup du module. Si elle est fournie, le module appellera la fonction setup.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Fonction setup du module. Si elle est fournie, le module appellera la fonction setup."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

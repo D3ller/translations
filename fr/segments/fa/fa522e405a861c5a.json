@@ -1,0 +1,14 @@
+{
+  "hash": "fa522e405a861c5a",
+  "source": "{0}Server components{/0} that only render static HTML work fine, but components hydrated with {1} and interactive island slots rely on an inline script to relocate teleported content, so they will not become interactive on a {2} route. When {3} is set app-wide and component islands are active, Nuxt also falls back to buffered rendering for this reason.",
+  "text": "Les {0}composants serveur{/0} qui ne rendent que du HTML statique fonctionnent correctement, mais les composants hydratés avec {1} et les slots d'îlots interactifs s'appuient sur un script inline pour déplacer le contenu téléporté, ils ne deviendront donc pas interactifs sur une route {2}. Lorsque {3} est défini pour toute l'application et que les îlots de composants sont actifs, Nuxt revient également au rendu avec mise en mémoire tampon pour cette raison.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les {0}composants serveur{/0} qui ne rendent que du HTML statique fonctionnent correctement, mais les composants hydratés avec {1} et les slots d'îlots interactifs s'appuient sur un script inline pour déplacer le contenu téléporté, ils ne deviendront donc pas interactifs sur une route {2}. Lorsque {3} est défini pour toute l'application et que les îlots de composants sont actifs, Nuxt revient également au rendu avec mise en mémoire tampon pour cette raison."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

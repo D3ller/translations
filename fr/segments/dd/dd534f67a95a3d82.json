@@ -1,0 +1,14 @@
+{
+  "hash": "dd534f67a95a3d82",
+  "source": "can be set if they _are_ installed",
+  "text": "peuvent être définies si elles _sont_ installées",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "peuvent être définies si elles _sont_ installées"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

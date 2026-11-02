@@ -1,0 +1,14 @@
+{
+  "hash": "34caed8603b85e27",
+  "source": "If set to 'production' or {0}, JavaScript will be disabled in production mode only. If set to 'all', JavaScript will be disabled in both development and production modes.",
+  "text": "Si la valeur est « production » ou {0}, JavaScript sera désactivé uniquement en mode production. Si la valeur est « all », JavaScript sera désactivé à la fois en mode développement et en mode production.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si la valeur est « production » ou {0}, JavaScript sera désactivé uniquement en mode production. Si la valeur est « all », JavaScript sera désactivé à la fois en mode développement et en mode production."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

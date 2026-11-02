@@ -1,0 +1,14 @@
+{
+  "hash": "1b854c0fedbbc142",
+  "source": "This will register a layout named {0} that wraps pages with a header and footer.",
+  "text": "Cela enregistrera un layout nommé {0} qui entoure les pages d'un en-tête et d'un pied de page.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela enregistrera un layout nommé {0} qui entoure les pages d'un en-tête et d'un pied de page."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

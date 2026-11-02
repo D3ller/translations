@@ -1,0 +1,14 @@
+{
+  "hash": "bf11e626f7ba3372",
+  "source": "**Note**: Plugins are also auto-registered from the {0} directory and these plugins do not need to be listed in {1} unless you need to customize their order. All plugins are deduplicated by their src path.",
+  "text": "**Note** : les plugins sont également enregistrés automatiquement depuis le répertoire {0}, et ils n'ont pas besoin d'être listés dans {1}, sauf si vous devez personnaliser leur ordre. Tous les plugins sont dédupliqués selon leur chemin src.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Note** : les plugins sont également enregistrés automatiquement depuis le répertoire {0}, et ils n'ont pas besoin d'être listés dans {1}, sauf si vous devez personnaliser leur ordre. Tous les plugins sont dédupliqués selon leur chemin src."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

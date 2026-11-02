@@ -1,0 +1,14 @@
+{
+  "hash": "5f901fe179c63453",
+  "source": "{0} is a reserved function name transformed by the compiler, so you should not name your own function {1}.",
+  "text": "{0} est un nom de fonction réservé, transformé par le compilateur ; vous ne devez donc pas nommer votre propre fonction {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est un nom de fonction réservé, transformé par le compilateur ; vous ne devez donc pas nommer votre propre fonction {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

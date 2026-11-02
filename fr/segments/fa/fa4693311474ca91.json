@@ -1,0 +1,14 @@
+{
+  "hash": "fa4693311474ca91",
+  "source": "You can revert to the previous behavior by disabling the option in your {0}:",
+  "text": "Vous pouvez revenir au comportement précédent en désactivant l'option dans votre {0} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez revenir au comportement précédent en désactivant l'option dans votre {0} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

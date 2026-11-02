@@ -1,0 +1,14 @@
+{
+  "hash": "dec0fd5b5999411d",
+  "source": "The local provider deeply scans your {0} directories (including of your layers) for font files (supporting {1}, {2}, {3}, {4} or {5} extensions). Directories that modules add to {6} are not scanned; add them to {7} to use the fonts within.",
+  "text": "Le provider local analyse en profondeur vos répertoires {0} (y compris ceux de vos layers (couches)) à la recherche de fichiers de polices (avec les extensions {1}, {2}, {3}, {4} ou {5}). Les répertoires que les modules ajoutent à {6} ne sont pas analysés ; ajoutez-les à {7} pour utiliser les polices qu'ils contiennent.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le provider local analyse en profondeur vos répertoires {0} (y compris ceux de vos layers (couches)) à la recherche de fichiers de polices (avec les extensions {1}, {2}, {3}, {4} ou {5}). Les répertoires que les modules ajoutent à {6} ne sont pas analysés ; ajoutez-les à {7} pour utiliser les polices qu'ils contiennent."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

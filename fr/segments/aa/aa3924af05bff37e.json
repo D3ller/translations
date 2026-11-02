@@ -1,0 +1,14 @@
+{
+  "hash": "aa3924af05bff37e",
+  "source": "{0} \\| {1}: Specify fallback content to be rendered if the slot fails to render.",
+  "text": "{0} \\| {1} : spécifie un contenu de secours à afficher si le slot ne parvient pas à s'afficher.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} \\| {1} : spécifie un contenu de secours à afficher si le slot ne parvient pas à s'afficher."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

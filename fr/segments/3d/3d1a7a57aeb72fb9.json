@@ -1,0 +1,14 @@
+{
+  "hash": "3d1a7a57aeb72fb9",
+  "source": "The builder to use for bundling the Vue part of your application.",
+  "text": "Le builder à utiliser pour construire le bundle de la partie Vue de votre application.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le builder à utiliser pour construire le bundle de la partie Vue de votre application."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

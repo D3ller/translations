@@ -1,0 +1,14 @@
+{
+  "hash": "edecc3d5aca93ddc",
+  "source": "HTTP method to match, such as {0}. On a {1} v2 host, the handler runs for every method.",
+  "text": "Méthode HTTP à faire correspondre, par exemple {0}. Sur un hôte {1} v2, le handler s'exécute pour toutes les méthodes.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Méthode HTTP à faire correspondre, par exemple {0}. Sur un hôte {1} v2, le handler s'exécute pour toutes les méthodes."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "1e75efc914b76ca4",
+  "source": "Assuming the shape is { default: { foo: 'bar' }, baz: 'qux' }",
+  "text": "En supposant que la structure soit { default : { foo : 'bar' }, baz : 'qux' }",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En supposant que la structure soit { default : { foo : 'bar' }, baz : 'qux' }"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

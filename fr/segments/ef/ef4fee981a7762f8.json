@@ -1,0 +1,14 @@
+{
+  "hash": "ef4fee981a7762f8",
+  "source": "{0}Fork{/0} the {1} repository to your own GitHub account and then {2}clone{/2} it to your local device.",
+  "text": "{0}Forkez{/0} le dépôt {1} sur votre propre compte GitHub, puis {2}clonez{/2}-le sur votre machine locale.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}Forkez{/0} le dépôt {1} sur votre propre compte GitHub, puis {2}clonez{/2}-le sur votre machine locale."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

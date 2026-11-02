@@ -1,0 +1,14 @@
+{
+  "hash": "b080d822d2cfbb24",
+  "source": "In the pull request, click **View session** in the \"Copilot started work\" timeline event",
+  "text": "Dans la pull request, cliquez sur **View session** dans l'événement de la chronologie « Copilot started work »",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans la pull request, cliquez sur **View session** dans l'événement de la chronologie « Copilot started work »"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

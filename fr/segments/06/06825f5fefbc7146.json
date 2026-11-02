@@ -1,0 +1,14 @@
+{
+  "hash": "06825f5fefbc7146",
+  "source": "Caches Nuxt build artifacts based on a hash of the configuration and source files.",
+  "text": "Met en cache les artefacts de build de Nuxt à partir d'un hash de la configuration et des fichiers sources.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Met en cache les artefacts de build de Nuxt à partir d'un hash de la configuration et des fichiers sources."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

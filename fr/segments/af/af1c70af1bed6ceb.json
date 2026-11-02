@@ -1,0 +1,14 @@
+{
+  "hash": "af1c70af1bed6ceb",
+  "source": "The {0}app config{/0}, as a copy per request when passed the event.",
+  "text": "L'{0}app config{/0}, sous forme de copie par requête lorsque l'événement est passé en paramètre.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'{0}app config{/0}, sous forme de copie par requête lorsque l'événement est passé en paramètre."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

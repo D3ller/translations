@@ -1,0 +1,14 @@
+{
+  "hash": "ce6929f712437e60",
+  "source": "{0}: a {1} whose static {2} matches no page route",
+  "text": "{0} : un {1} dont le {2} statique ne correspond à aucune route de page",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : un {1} dont le {2} statique ne correspond à aucune route de page"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

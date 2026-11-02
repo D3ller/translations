@@ -1,0 +1,14 @@
+{
+  "hash": "0b8eb02032662ad7",
+  "source": "**Creates fallback metrics** – Adjusts local system fonts to match web fonts, reducing layout shift ({0}CLS{/0}).",
+  "text": "**Crée des métriques de repli** – Ajuste les polices système locales pour qu'elles correspondent aux polices web, réduisant le décalage de mise en page ({0}CLS{/0}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Crée des métriques de repli** – Ajuste les polices système locales pour qu'elles correspondent aux polices web, réduisant le décalage de mise en page ({0}CLS{/0})."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

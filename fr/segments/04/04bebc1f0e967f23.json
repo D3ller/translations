@@ -1,0 +1,14 @@
+{
+  "hash": "04bebc1f0e967f23",
+  "source": "Accessing Nuxt Vite Config",
+  "text": "Accéder à la configuration Vite de Nuxt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Accéder à la configuration Vite de Nuxt"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

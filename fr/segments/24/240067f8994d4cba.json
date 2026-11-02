@@ -1,0 +1,14 @@
+{
+  "hash": "240067f8994d4cba",
+  "source": "immediately send the response to the client",
+  "text": "envoyer immédiatement la réponse au client",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "envoyer immédiatement la réponse au client"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

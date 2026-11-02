@@ -1,0 +1,14 @@
+{
+  "hash": "dd16a41ef4182234",
+  "source": "this is the equivalent of a normal functional plugin",
+  "text": "équivalent d'un plugin fonctionnel classique",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "équivalent d'un plugin fonctionnel classique"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

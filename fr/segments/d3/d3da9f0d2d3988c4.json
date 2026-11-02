@@ -1,0 +1,14 @@
+{
+  "hash": "d3da9f0d2d3988c4",
+  "source": "Within your pages, components, and plugins, you can use {0} to clear all errors and redirect the user.",
+  "text": "Dans vos pages, composants et plugins, vous pouvez utiliser {0} pour effacer toutes les erreurs et rediriger l'utilisateur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans vos pages, composants et plugins, vous pouvez utiliser {0} pour effacer toutes les erreurs et rediriger l'utilisateur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

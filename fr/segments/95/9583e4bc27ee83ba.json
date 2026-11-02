@@ -1,0 +1,14 @@
+{
+  "hash": "9583e4bc27ee83ba",
+  "source": "If your project uses JSX/TSX components, Nuxt will automatically detect this and prompt you to install the package.",
+  "text": "Si votre projet utilise des composants JSX/TSX, Nuxt le détectera automatiquement et vous proposera d'installer le package.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si votre projet utilise des composants JSX/TSX, Nuxt le détectera automatiquement et vous proposera d'installer le package."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

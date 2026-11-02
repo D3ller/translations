@@ -1,0 +1,14 @@
+{
+  "hash": "e7345201f61ef622",
+  "source": "Contributions should reflect your own reasoning and problem-solving",
+  "text": "Les contributions doivent refléter votre propre raisonnement et votre capacité à résoudre des problèmes",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les contributions doivent refléter votre propre raisonnement et votre capacité à résoudre des problèmes"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

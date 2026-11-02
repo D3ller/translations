@@ -1,0 +1,14 @@
+{
+  "hash": "40203fbeea16f2c4",
+  "source": "Some features of Nuxt are available on an opt-in basis, or can be disabled based on your needs.",
+  "text": "Certaines fonctionnalités de Nuxt sont disponibles sur option, ou peuvent être désactivées selon vos besoins.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Certaines fonctionnalités de Nuxt sont disponibles sur option, ou peuvent être désactivées selon vos besoins."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

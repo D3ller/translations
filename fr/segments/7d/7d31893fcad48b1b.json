@@ -1,0 +1,14 @@
+{
+  "hash": "7d31893fcad48b1b",
+  "source": "Make sure the function returns a {0}promise{/0}.",
+  "text": "Assurez-vous que la fonction retourne une {0}promesse{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Assurez-vous que la fonction retourne une {0}promesse{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

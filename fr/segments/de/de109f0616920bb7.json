@@ -1,0 +1,14 @@
+{
+  "hash": "de109f0616920bb7",
+  "source": "Behind a proxy you control, pass {0} to read the first entry of {1} instead. Only do this when the proxy overwrites the header: a proxy that appends to it leaves a client-sent value first.",
+  "text": "Derrière un proxy que vous contrôlez, passez {0} pour lire à la place la première entrée de {1}. Ne le faites que si le proxy écrase l'en-tête : un proxy qui y ajoute des valeurs laisse en premier une valeur envoyée par le client.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Derrière un proxy que vous contrôlez, passez {0} pour lire à la place la première entrée de {1}. Ne le faites que si le proxy écrase l'en-tête : un proxy qui y ajoute des valeurs laisse en premier une valeur envoyée par le client."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

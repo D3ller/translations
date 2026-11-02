@@ -1,0 +1,14 @@
+{
+  "hash": "7ebcf043ca023851",
+  "source": "Point {0} at the built SSR app entry.",
+  "text": "Faites pointer {0} vers l'entrée de l'application SSR compilée.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Faites pointer {0} vers l'entrée de l'application SSR compilée."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

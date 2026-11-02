@@ -1,0 +1,14 @@
+{
+  "hash": "6a3a017146523a4f",
+  "source": "If {0}, replaces middleware with the same name.",
+  "text": "Si {0}, remplace le middleware portant le même nom.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si {0}, remplace le middleware portant le même nom."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

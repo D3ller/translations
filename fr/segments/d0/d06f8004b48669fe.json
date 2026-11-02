@@ -1,0 +1,14 @@
+{
+  "hash": "d06f8004b48669fe",
+  "source": "Set name of the transition to apply for current page. You can also set this value to {0} to disable the page transition.",
+  "text": "Définissez le nom de la transition à appliquer à la page actuelle. Vous pouvez également définir cette valeur à {0} pour désactiver la transition de page.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définissez le nom de la transition à appliquer à la page actuelle. Vous pouvez également définir cette valeur à {0} pour désactiver la transition de page."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

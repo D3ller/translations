@@ -1,0 +1,14 @@
+{
+  "hash": "42b5e24cd23ffdfd",
+  "source": "Read more about Nitro engine on GitHub.",
+  "text": "En savoir plus sur le moteur Nitro sur GitHub.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En savoir plus sur le moteur Nitro sur GitHub."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

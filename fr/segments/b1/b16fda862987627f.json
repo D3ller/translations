@@ -1,0 +1,14 @@
+{
+  "hash": "b16fda862987627f",
+  "source": "normalizePageNames",
+  "text": "normalizePageNames",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "normalizePageNames"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

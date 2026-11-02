@@ -1,0 +1,14 @@
+{
+  "hash": "2a569e952a63f993",
+  "source": "Somewhere later in App",
+  "text": "Quelque part plus tard dans App",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Quelque part plus tard dans App"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

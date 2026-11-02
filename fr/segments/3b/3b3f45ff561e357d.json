@@ -1,0 +1,14 @@
+{
+  "hash": "3b3f45ff561e357d",
+  "source": "The resolved Nuxt configuration.",
+  "text": "La configuration de Nuxt résolue.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La configuration de Nuxt résolue."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

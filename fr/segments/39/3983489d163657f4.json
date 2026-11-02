@@ -1,0 +1,14 @@
+{
+  "hash": "3983489d163657f4",
+  "source": "For example, to prevent creating routes for any {0} files:",
+  "text": "Par exemple, pour empêcher la création de routes pour tous les fichiers {0} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par exemple, pour empêcher la création de routes pour tous les fichiers {0} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

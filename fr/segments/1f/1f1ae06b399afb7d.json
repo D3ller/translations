@@ -1,0 +1,14 @@
+{
+  "hash": "1f1ae06b399afb7d",
+  "source": "**{0}** fires after the body stream completes, before closing tags. Mutate {1} to inject final markup (end-of-body analytics tags, server-rendered debug widgets, etc.).",
+  "text": "**{0}** est déclenché une fois le flux du body terminé, avant les balises de fermeture. Modifiez {1} pour injecter le balisage final (balises d'analytics de fin de body, widgets de débogage rendus côté serveur, etc.).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** est déclenché une fois le flux du body terminé, avant les balises de fermeture. Modifiez {1} pour injecter le balisage final (balises d'analytics de fin de body, widgets de débogage rendus côté serveur, etc.)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "3827fed19bb276db",
+  "source": "Check the path for typos, or add the page it should link to. If the link points at something other than a page (a server route, a file in {0}, or another app on the same domain), set the {1} prop so that it is followed by the browser rather than the Vue router:",
+  "text": "Vérifiez l'orthographe du chemin, ou ajoutez la page vers laquelle il doit pointer. Si le lien pointe vers autre chose qu'une page (une route serveur, un fichier dans {0} ou une autre application sur le même domaine), définissez la prop {1} afin qu'il soit suivi par le navigateur plutôt que par le routeur Vue :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vérifiez l'orthographe du chemin, ou ajoutez la page vers laquelle il doit pointer. Si le lien pointe vers autre chose qu'une page (une route serveur, un fichier dans {0} ou une autre application sur le même domaine), définissez la prop {1} afin qu'il soit suivi par le navigateur plutôt que par le routeur Vue :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

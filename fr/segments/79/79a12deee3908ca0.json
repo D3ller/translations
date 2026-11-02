@@ -1,0 +1,14 @@
+{
+  "hash": "79a12deee3908ca0",
+  "source": "Within a Vue Component",
+  "text": "Dans un composant Vue",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans un composant Vue"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

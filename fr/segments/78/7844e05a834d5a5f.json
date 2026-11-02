@@ -1,0 +1,14 @@
+{
+  "hash": "7844e05a834d5a5f",
+  "source": "Your runtime config will be serialized before being passed to Nitro. This means that anything that cannot be serialized and then deserialized (such as functions, Sets, Maps, and so on), should not be set in your {0}.",
+  "text": "Votre runtime config sera sérialisée avant d'être transmise à Nitro. Cela signifie que tout ce qui ne peut pas être sérialisé puis désérialisé (comme les fonctions, les Sets, les Maps, etc.) ne doit pas être défini dans votre {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Votre runtime config sera sérialisée avant d'être transmise à Nitro. Cela signifie que tout ce qui ne peut pas être sérialisé puis désérialisé (comme les fonctions, les Sets, les Maps, etc.) ne doit pas être défini dans votre {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

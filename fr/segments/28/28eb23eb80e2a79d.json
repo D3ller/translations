@@ -1,0 +1,14 @@
+{
+  "hash": "28eb23eb80e2a79d",
+  "source": "Even if you do not await the return value, during SSR Nuxt will wait for the request to finish and send the resolved data to the client.",
+  "text": "Même si vous n'attendez pas la valeur de retour avec await, pendant le SSR, Nuxt attend la fin de la requête et envoie les données résolues au client.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Même si vous n'attendez pas la valeur de retour avec await, pendant le SSR, Nuxt attend la fin de la requête et envoie les données résolues au client."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

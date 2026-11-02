@@ -1,0 +1,14 @@
+{
+  "hash": "60cf9c8834295886",
+  "source": "Commands that reach the network (installing a module, searching modules, downloading a template, checking for updates) report why a request failed rather than the raw error, and suggest the retry that is likely to work. Behind a proxy that re-signs TLS traffic that means {0}, pointing at your organisation's root certificate.",
+  "text": "Les commandes qui accèdent au réseau (installation d'un module, recherche de modules, téléchargement d'un template, vérification des mises à jour) indiquent pourquoi une requête a échoué plutôt que l'erreur brute, et suggèrent la nouvelle tentative la plus susceptible de fonctionner. Derrière un proxy qui re-signe le trafic TLS, il s'agit de {0}, pointant vers le certificat racine de votre organisation.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les commandes qui accèdent au réseau (installation d'un module, recherche de modules, téléchargement d'un template, vérification des mises à jour) indiquent pourquoi une requête a échoué plutôt que l'erreur brute, et suggèrent la nouvelle tentative la plus susceptible de fonctionner. Derrière un proxy qui re-signe le trafic TLS, il s'agit de {0}, pointant vers le certificat racine de votre organisation."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

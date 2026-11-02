@@ -1,0 +1,14 @@
+{
+  "hash": "4fb0a6d05f198731",
+  "source": "Learn how to perform basic tasks with the module starter.",
+  "text": "Apprenez à réaliser les tâches de base avec le starter de module.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Apprenez à réaliser les tâches de base avec le starter de module."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "787a526212a9fe84",
+  "source": "**Community modules** are modules prefixed (scoped) with {0} (e.g. {1}). They are proven modules made and maintained by community members. Again, contributions are welcome from anyone.",
+  "text": "Les **modules communautaires** sont des modules préfixés (avec un scope) par {0} (par ex. {1}). Ce sont des modules éprouvés, créés et maintenus par des membres de la communauté. Là encore, les contributions sont les bienvenues, quelle qu'en soit la source.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les **modules communautaires** sont des modules préfixés (avec un scope) par {0} (par ex. {1}). Ce sont des modules éprouvés, créés et maintenus par des membres de la communauté. Là encore, les contributions sont les bienvenues, quelle qu'en soit la source."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

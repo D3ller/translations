@@ -1,0 +1,14 @@
+{
+  "hash": "b24b948b65f28163",
+  "source": "{0}, {1}, alone or alongside {2}",
+  "text": "{0}, {1}, seuls ou avec {2}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}, {1}, seuls ou avec {2}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

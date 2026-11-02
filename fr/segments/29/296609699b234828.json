@@ -1,0 +1,14 @@
+{
+  "hash": "296609699b234828",
+  "source": "{0}: The color of the loading bar. It can be set to {1} to turn off explicit color styling.",
+  "text": "{0} : la couleur de la barre de chargement. Elle peut être définie sur {1} pour désactiver le style de couleur explicite.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : la couleur de la barre de chargement. Elle peut être définie sur {1} pour désactiver le style de couleur explicite."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

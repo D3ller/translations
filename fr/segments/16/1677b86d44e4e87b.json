@@ -1,0 +1,14 @@
+{
+  "hash": "1677b86d44e4e87b",
+  "source": "Remove {0} from your Nuxt TypeScript configuration. If you used it to anchor a relative Nuxt or Nitro alias, make that alias absolute instead:",
+  "text": "Supprimez {0} de votre configuration TypeScript de Nuxt. Si vous l'utilisiez pour ancrer un alias relatif de Nuxt ou de Nitro, rendez plutôt cet alias absolu :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Supprimez {0} de votre configuration TypeScript de Nuxt. Si vous l'utilisiez pour ancrer un alias relatif de Nuxt ou de Nitro, rendez plutôt cet alias absolu :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

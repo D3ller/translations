@@ -1,0 +1,14 @@
+{
+  "hash": "eb01dbc46b62f43a",
+  "source": "Skipping Client Fallback Generation",
+  "text": "Ignorer la génération des fichiers de repli côté client",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ignorer la génération des fichiers de repli côté client"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "e24cddd5a4d90092",
+  "source": "The fully inferred type is only available in app code (components, composables, plugins and so on). In server routes, code in the {0} directory and {1}, keys defined in {2} files are typed as {3} instead: typing them there would require typechecking your app code outside the app context, where app auto-imports are not available. Keys defined inline in the {4} option of {5} are typed everywhere. If you need other keys typed outside app code, you can extend the {6} interface as described below. The location of the augmentation file determines which contexts see it: a {7} file in the {8} directory covers app code, shared code and server routes.",
+  "text": "Le type entièrement inféré n'est disponible que dans le code de l'application (composants, composables, plugins, etc.). Dans les routes serveur, le code du répertoire {0} et {1}, les clés définies dans les fichiers {2} sont typées comme {3} : les typer à cet endroit nécessiterait de vérifier les types du code de votre application en dehors du contexte de l'application, où les imports automatiques de l'application ne sont pas disponibles. Les clés définies directement dans l'option {4} de {5} sont typées partout. Si vous avez besoin de typer d'autres clés en dehors du code de l'application, vous pouvez étendre l'interface {6} comme décrit ci-dessous. L'emplacement du fichier d'augmentation détermine les contextes qui le voient : un fichier {7} dans le répertoire {8} couvre le code de l'application, le code partagé et les routes serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le type entièrement inféré n'est disponible que dans le code de l'application (composants, composables, plugins, etc.). Dans les routes serveur, le code du répertoire {0} et {1}, les clés définies dans les fichiers {2} sont typées comme {3} : les typer à cet endroit nécessiterait de vérifier les types du code de votre application en dehors du contexte de l'application, où les imports automatiques de l'application ne sont pas disponibles. Les clés définies directement dans l'option {4} de {5} sont typées partout. Si vous avez besoin de typer d'autres clés en dehors du code de l'application, vous pouvez étendre l'interface {6} comme décrit ci-dessous. L'emplacement du fichier d'augmentation détermine les contextes qui le voient : un fichier {7} dans le répertoire {8} couvre le code de l'application, le code partagé et les routes serveur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

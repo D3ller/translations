@@ -1,0 +1,14 @@
+{
+  "hash": "6166b84afed20b43",
+  "source": "{0} {1}: When set to {2}, resets the state to the initial value provided by the {3} function of {4} instead of setting it to {5}. When not specified, defaults to the value of {6} in your Nuxt config (which defaults to {7}).",
+  "text": "{0} {1} : lorsque la valeur est {2}, réinitialise l'état à la valeur initiale fournie par la fonction {3} de {4} au lieu de le définir à {5}. Si elle n'est pas spécifiée, la valeur par défaut est celle de {6} dans votre configuration Nuxt (qui vaut {7} par défaut).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} {1} : lorsque la valeur est {2}, réinitialise l'état à la valeur initiale fournie par la fonction {3} de {4} au lieu de le définir à {5}. Si elle n'est pas spécifiée, la valeur par défaut est celle de {6} dans votre configuration Nuxt (qui vaut {7} par défaut)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

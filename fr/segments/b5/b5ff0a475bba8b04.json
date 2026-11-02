@@ -1,0 +1,14 @@
+{
+  "hash": "b5ff0a475bba8b04",
+  "source": "Previously, Vue assigned component names based on the filename. This meant multiple pages like {0} and {1} would both have the component name {2}. This made {3} with {4}/{5} filters unreliable and required manually adding {6} to each page.",
+  "text": "Auparavant, Vue attribuait les noms des composants à partir du nom du fichier. Cela signifiait que plusieurs pages comme {0} et {1} auraient toutes deux le nom de composant {2}. Cela rendait {3} avec les filtres {4}/{5} peu fiable et obligeait à ajouter manuellement {6} à chaque page.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Auparavant, Vue attribuait les noms des composants à partir du nom du fichier. Cela signifiait que plusieurs pages comme {0} et {1} auraient toutes deux le nom de composant {2}. Cela rendait {3} avec les filtres {4}/{5} peu fiable et obligeait à ajouter manuellement {6} à chaque page."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

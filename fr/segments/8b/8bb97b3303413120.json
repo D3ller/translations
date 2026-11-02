@@ -1,0 +1,14 @@
+{
+  "hash": "8bb97b3303413120",
+  "source": "A new Vue app will be created server-side to create the {0}.",
+  "text": "Une nouvelle application Vue sera créée côté serveur pour produire le {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une nouvelle application Vue sera créée côté serveur pour produire le {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

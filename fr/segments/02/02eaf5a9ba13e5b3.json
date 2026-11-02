@@ -1,0 +1,14 @@
+{
+  "hash": "02eaf5a9ba13e5b3",
+  "source": "Use {0} in combination with {1} helper function inside the route middleware to redirect users to different routes based on their authentication status:",
+  "text": "Utilisez {0} en combinaison avec la fonction helper {1} dans le middleware de route pour rediriger les utilisateurs vers différentes routes selon leur statut d'authentification :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utilisez {0} en combinaison avec la fonction helper {1} dans le middleware de route pour rediriger les utilisateurs vers différentes routes selon leur statut d'authentification :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

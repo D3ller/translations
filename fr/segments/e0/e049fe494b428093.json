@@ -1,0 +1,14 @@
+{
+  "hash": "e049fe494b428093",
+  "source": "To return other status codes, use the {0} utility.",
+  "text": "Pour renvoyer d'autres codes de statut, utilisez l'utilitaire {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour renvoyer d'autres codes de statut, utilisez l'utilitaire {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

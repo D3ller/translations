@@ -1,0 +1,14 @@
+{
+  "hash": "2e3fbb8a310b3f29",
+  "source": "If only layers exist, {0} is used (higher alphabetically)",
+  "text": "Si seules des layers existent, {0} est utilisé (supérieur dans l'ordre alphabétique)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si seules des layers existent, {0} est utilisé (supérieur dans l'ordre alphabétique)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

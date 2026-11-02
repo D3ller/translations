@@ -1,0 +1,14 @@
+{
+  "hash": "d3cb1c9a4ab320d9",
+  "source": "By default, global middleware is executed alphabetically based on the filename.",
+  "text": "Par défaut, les middleware globaux sont exécutés par ordre alphabétique selon le nom de fichier.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par défaut, les middleware globaux sont exécutés par ordre alphabétique selon le nom de fichier."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "67e3e64042bc2f9f",
+  "source": "Typed {0} Rebuilt on Generated Route Types",
+  "text": "{0} typé reconstruit sur les types de routes générés",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} typé reconstruit sur les types de routes générés"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

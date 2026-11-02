@@ -1,0 +1,14 @@
+{
+  "hash": "90675f2e9144935c",
+  "source": "{0}: Height of the loading bar, in pixels (default {1}).",
+  "text": "{0} : la hauteur de la barre de chargement, en pixels (par défaut {1}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : la hauteur de la barre de chargement, en pixels (par défaut {1})."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

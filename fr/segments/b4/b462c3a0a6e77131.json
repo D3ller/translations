@@ -1,0 +1,14 @@
+{
+  "hash": "b462c3a0a6e77131",
+  "source": "Font format resolution",
+  "text": "Résolution du format des polices",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Résolution du format des polices"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

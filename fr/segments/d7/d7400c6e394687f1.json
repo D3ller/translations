@@ -1,0 +1,14 @@
+{
+  "hash": "d7400c6e394687f1",
+  "source": "**Shared configuration**: The {0} and {1} hooks now work with a shared configuration rather than separate client/server configs.",
+  "text": "**Configuration partagée** : les hooks {0} et {1} fonctionnent désormais avec une configuration partagée plutôt qu'avec des configurations client/serveur distinctes.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Configuration partagée** : les hooks {0} et {1} fonctionnent désormais avec une configuration partagée plutôt qu'avec des configurations client/serveur distinctes."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

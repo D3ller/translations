@@ -1,0 +1,14 @@
+{
+  "hash": "b1fdc4b0eadd4d57",
+  "source": "The passed in component will be rendered inside a {0}.",
+  "text": "Le composant transmis sera rendu à l'intérieur d'un {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le composant transmis sera rendu à l'intérieur d'un {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

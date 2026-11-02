@@ -1,0 +1,14 @@
+{
+  "hash": "9106f4719fe94a7f",
+  "source": "Don't use {0} object here as it can cause problems with how {1} renders pages with {2}.",
+  "text": "N'utilisez pas l'objet {0} ici, car cela peut causer des problèmes avec la façon dont {1} affiche les pages avec {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "N'utilisez pas l'objet {0} ici, car cela peut causer des problèmes avec la façon dont {1} affiche les pages avec {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

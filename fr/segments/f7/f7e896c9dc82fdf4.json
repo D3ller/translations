@@ -1,0 +1,14 @@
+{
+  "hash": "f7e896c9dc82fdf4",
+  "source": "The benefit of this transformation is that we can split out data fetching logic — while still allowing the code to be loaded if required.",
+  "text": "L'intérêt de cette transformation est de pouvoir séparer la logique de récupération de données, tout en permettant de charger le code si nécessaire.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'intérêt de cette transformation est de pouvoir séparer la logique de récupération de données, tout en permettant de charger le code si nécessaire."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

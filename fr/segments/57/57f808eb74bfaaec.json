@@ -1,0 +1,14 @@
+{
+  "hash": "57f808eb74bfaaec",
+  "source": "Sets the HttpOnly attribute.{0}**Note:** Be careful when setting this to {1}, as compliant clients will not allow client-side JavaScript to see the cookie in {2}.",
+  "text": "Définit l'attribut HttpOnly.{0}**Note :** soyez prudent en définissant ceci à {1}, car les clients conformes n'autoriseront pas le JavaScript côté client à voir le cookie dans {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définit l'attribut HttpOnly.{0}**Note :** soyez prudent en définissant ceci à {1}, car les clients conformes n'autoriseront pas le JavaScript côté client à voir le cookie dans {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

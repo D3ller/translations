@@ -1,0 +1,14 @@
+{
+  "hash": "b6fb02cf29911c95",
+  "source": "Build and open the project in a container",
+  "text": "Construire et ouvrir le projet dans un conteneur",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Construire et ouvrir le projet dans un conteneur"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

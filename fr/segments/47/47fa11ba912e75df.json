@@ -1,0 +1,14 @@
+{
+  "hash": "47fa11ba912e75df",
+  "source": "Prerendered routes also emit {0} files with the data captured at build time, which Nuxt reuses during client-side navigation. Read more about {1}payload extraction{/1}.",
+  "text": "Les routes prérendues émettent également des fichiers {0} contenant les données capturées au moment du build, que Nuxt réutilise lors de la navigation côté client. Pour en savoir plus, consultez {1}l'extraction du payload (charge utile){/1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les routes prérendues émettent également des fichiers {0} contenant les données capturées au moment du build, que Nuxt réutilise lors de la navigation côté client. Pour en savoir plus, consultez {1}l'extraction du payload (charge utile){/1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

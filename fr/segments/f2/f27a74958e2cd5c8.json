@@ -1,0 +1,14 @@
+{
+  "hash": "f27a74958e2cd5c8",
+  "source": "Prevents the Referer header from being sent and implicitly enables {0}.",
+  "text": "Empêche l'envoi de l'en-tête Referer et active implicitement {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Empêche l'envoi de l'en-tête Referer et active implicitement {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

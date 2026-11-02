@@ -1,0 +1,14 @@
+{
+  "hash": "a6a1b6a30e369ac0",
+  "source": "{0} is deprecated. Use {1} to scaffold files.",
+  "text": "{0} est obsolète. Utilisez {1} pour générer des fichiers.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est obsolète. Utilisez {1} pour générer des fichiers."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

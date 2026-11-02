@@ -1,0 +1,14 @@
+{
+  "hash": "52df3e9c0e9f6049",
+  "source": "It is a good place to place any local modules you develop while building your application.",
+  "text": "C'est un bon endroit pour placer les modules locaux que vous développez lors de la création de votre application.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "C'est un bon endroit pour placer les modules locaux que vous développez lors de la création de votre application."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "80548ec32bab8252",
+  "source": "You can use {0} or {1} suffix in the file name to load a plugin only on the server or client side.",
+  "text": "Vous pouvez utiliser le suffixe {0} ou {1} dans le nom du fichier pour charger un plugin uniquement côté serveur ou côté client.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez utiliser le suffixe {0} ou {1} dans le nom du fichier pour charger un plugin uniquement côté serveur ou côté client."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

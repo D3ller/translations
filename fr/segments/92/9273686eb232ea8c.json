@@ -1,0 +1,14 @@
+{
+  "hash": "9273686eb232ea8c",
+  "source": "You can set it to false to use the legacy 'Node' mode, which is the default for TypeScript.",
+  "text": "Vous pouvez la définir à false pour utiliser l'ancien mode « Node », qui est le mode par défaut de TypeScript.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez la définir à false pour utiliser l'ancien mode « Node », qui est le mode par défaut de TypeScript."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

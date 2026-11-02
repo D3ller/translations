@@ -1,0 +1,14 @@
+{
+  "hash": "6eafb61d4fd28b8e",
+  "source": "Whether to store resolved data in the Nuxt payload ({0}). When {1}, server-fetched data is kept out of the payload and the client will refetch after hydration if a component renders it. Pair with {2}lazy hydration{/2} to avoid hydration mismatches and unnecessary client fetches.",
+  "text": "Indique s'il faut stocker les données résolues dans le payload (charge utile) de Nuxt ({0}). Lorsque la valeur est {1}, les données récupérées côté serveur sont exclues du payload et le client les récupère à nouveau après l'hydratation si un composant les affiche. Associez-le à {2}l'hydratation différée{/2} pour éviter les incohérences d'hydratation et les récupérations inutiles côté client.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Indique s'il faut stocker les données résolues dans le payload (charge utile) de Nuxt ({0}). Lorsque la valeur est {1}, les données récupérées côté serveur sont exclues du payload et le client les récupère à nouveau après l'hydratation si un composant les affiche. Associez-le à {2}l'hydratation différée{/2} pour éviter les incohérences d'hydratation et les récupérations inutiles côté client."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

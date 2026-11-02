@@ -1,0 +1,14 @@
+{
+  "hash": "78e340bcd5f3490e",
+  "source": "Update {0} and {1} to be {2}.",
+  "text": "Mettez à jour {0} et {1} pour qu'ils soient {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mettez à jour {0} et {1} pour qu'ils soient {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "4c8d8aa249028ee3",
+  "source": "The built-in {0} option allows automatically rerunning the fetcher function when any changes are detected.",
+  "text": "L'option intégrée {0} permet de réexécuter automatiquement la fonction de récupération dès qu'un changement est détecté.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'option intégrée {0} permet de réexécuter automatiquement la fonction de récupération dès qu'un changement est détecté."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

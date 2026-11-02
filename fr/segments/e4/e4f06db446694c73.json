@@ -1,0 +1,14 @@
+{
+  "hash": "e4f06db446694c73",
+  "source": "If we can't tell, code will be treated as {0}.",
+  "text": "Si nous ne pouvons pas le déterminer, le code sera traité comme {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si nous ne pouvons pas le déterminer, le code sera traité comme {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

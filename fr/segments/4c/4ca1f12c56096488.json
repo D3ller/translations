@@ -1,0 +1,14 @@
+{
+  "hash": "4ca1f12c56096488",
+  "source": "Use consistent section names and ordering when documenting API pages, including composables, utilities, and components. Include only the sections that apply:",
+  "text": "Utilisez des noms de sections et un ordre cohérents lorsque vous documentez des pages d'API, y compris les composables, les utilitaires et les composants. N'incluez que les sections pertinentes :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utilisez des noms de sections et un ordre cohérents lorsque vous documentez des pages d'API, y compris les composables, les utilitaires et les composants. N'incluez que les sections pertinentes :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

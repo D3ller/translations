@@ -1,0 +1,14 @@
+{
+  "hash": "e639aaa285085808",
+  "source": "This is useful for code that should be executed only once, such as logging an event or setting up a global state.",
+  "text": "C'est utile pour le code qui ne doit être exécuté qu'une seule fois, comme la journalisation d'un événement ou la configuration d'un état global.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "C'est utile pour le code qui ne doit être exécuté qu'une seule fois, comme la journalisation d'un événement ou la configuration d'un état global."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

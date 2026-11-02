@@ -1,0 +1,14 @@
+{
+  "hash": "bdeb42358a7ae4c7",
+  "source": "Previously, {0} had slightly different behavior. It would always fetch data when the key changed.",
+  "text": "Auparavant, {0} avait un comportement légèrement différent. Il récupérait toujours les données lorsque la clé changeait.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Auparavant, {0} avait un comportement légèrement différent. Il récupérait toujours les données lorsque la clé changeait."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

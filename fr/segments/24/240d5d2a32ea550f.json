@@ -1,0 +1,14 @@
+{
+  "hash": "240d5d2a32ea550f",
+  "source": "{0}: Returns the normalized version of a route location. Also includes an {1} property that includes any existing base.",
+  "text": "{0} : retourne la version normalisée d'une location de route. Inclut également une propriété {1} qui contient toute base existante.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : retourne la version normalisée d'une location de route. Inclut également une propriété {1} qui contient toute base existante."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "1fdd6185830fa0c7",
+  "source": "Components inside {0} are also registered as islands and can be rendered with {1} directly, for example {2} for {3}.",
+  "text": "Les composants situés dans {0} sont également enregistrés comme islands et peuvent être rendus directement avec {1}, par exemple {2} pour {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les composants situés dans {0} sont également enregistrés comme islands et peuvent être rendus directement avec {1}, par exemple {2} pour {3}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "ad4f1e0ecadf1116",
+  "source": "Using the {0} prop or relying on automatic handling ensures proper navigation, avoids unexpected routing issues, and improves compatibility with static resources or cross-application scenarios.",
+  "text": "L'utilisation de la prop {0} ou le recours à la gestion automatique garantit une navigation correcte, évite des problèmes de routage inattendus et améliore la compatibilité avec les ressources statiques ou les scénarios impliquant plusieurs applications.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'utilisation de la prop {0} ou le recours à la gestion automatique garantit une navigation correcte, évite des problèmes de routage inattendus et améliore la compatibilité avec les ressources statiques ou les scénarios impliquant plusieurs applications."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

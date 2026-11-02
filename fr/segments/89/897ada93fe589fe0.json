@@ -1,0 +1,14 @@
+{
+  "hash": "897ada93fe589fe0",
+  "source": "localLayerAliases",
+  "text": "localLayerAliases",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "localLayerAliases"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

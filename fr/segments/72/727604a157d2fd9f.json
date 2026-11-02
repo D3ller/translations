@@ -1,0 +1,14 @@
+{
+  "hash": "727604a157d2fd9f",
+  "source": "The trace is built from the {0}tracing channels{/0} that Nuxt and Nitro publish, so how much it shows depends on your versions. {1} turns on the {2} option for you; set {3} in your {4} to opt out.",
+  "text": "La trace est construite à partir des {0}canaux de traçage{/0} que publient Nuxt et Nitro ; ce qu'elle affiche dépend donc de vos versions. {1} active l'option {2} pour vous ; définissez {3} dans votre {4} pour la désactiver.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La trace est construite à partir des {0}canaux de traçage{/0} que publient Nuxt et Nitro ; ce qu'elle affiche dépend donc de vos versions. {1} active l'option {2} pour vous ; définissez {3} dans votre {4} pour la désactiver."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

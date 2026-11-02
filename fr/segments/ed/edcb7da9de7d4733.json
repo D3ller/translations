@@ -1,0 +1,14 @@
+{
+  "hash": "edcb7da9de7d4733",
+  "source": "You are asked, defaulting to taking it over.",
+  "text": "Une question vous est posée, avec la reprise comme choix par défaut.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une question vous est posée, avec la reprise comme choix par défaut."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

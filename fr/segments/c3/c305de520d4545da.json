@@ -1,0 +1,14 @@
+{
+  "hash": "c305de520d4545da",
+  "source": "If you need a catch-all route, you create it by using a file named like {0}. This will match *all* routes under that path.",
+  "text": "Si vous avez besoin d'une route fourre-tout, créez-la en utilisant un fichier nommé comme {0}. Elle correspondra à *toutes* les routes situées sous ce chemin.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous avez besoin d'une route fourre-tout, créez-la en utilisant un fichier nommé comme {0}. Elle correspondra à *toutes* les routes situées sous ce chemin."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "d5921204eec1e515",
+  "source": "Named Layer Aliases",
+  "text": "Alias de layer nommés",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Alias de layer nommés"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

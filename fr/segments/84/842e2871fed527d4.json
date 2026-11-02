@@ -1,0 +1,14 @@
+{
+  "hash": "842e2871fed527d4",
+  "source": "The Build Output Contract",
+  "text": "Le contrat de sortie du build",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le contrat de sortie du build"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

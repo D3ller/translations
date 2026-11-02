@@ -1,0 +1,14 @@
+{
+  "hash": "78e5649a3b94d61a",
+  "source": "Augmenting types from outside the {0}, {1}, or {2} directories will not work with the new project references setup.",
+  "text": "L'augmentation de types depuis l'extérieur des répertoires {0}, {1} ou {2} ne fonctionnera pas avec la nouvelle configuration des références de projet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'augmentation de types depuis l'extérieur des répertoires {0}, {1} ou {2} ne fonctionnera pas avec la nouvelle configuration des références de projet."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

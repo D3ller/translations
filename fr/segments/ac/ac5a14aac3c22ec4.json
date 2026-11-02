@@ -1,0 +1,14 @@
+{
+  "hash": "ac5a14aac3c22ec4",
+  "source": "It is also possible to define your own serializer/deserializer for types that are not supported by Nuxt. You can read more in the {0} docs.",
+  "text": "Il est également possible de définir votre propre sérialiseur/désérialiseur pour les types non pris en charge par Nuxt. Vous pouvez en savoir plus dans la documentation de {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Il est également possible de définir votre propre sérialiseur/désérialiseur pour les types non pris en charge par Nuxt. Vous pouvez en savoir plus dans la documentation de {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

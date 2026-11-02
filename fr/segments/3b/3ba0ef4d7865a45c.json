@@ -1,0 +1,14 @@
+{
+  "hash": "3ba0ef4d7865a45c",
+  "source": "Checkout the {0} experimental feature to use Nuxt composables in async functions.",
+  "text": "Découvrez la fonctionnalité expérimentale {0} pour utiliser les composables Nuxt dans des fonctions asynchrones.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Découvrez la fonctionnalité expérimentale {0} pour utiliser les composables Nuxt dans des fonctions asynchrones."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

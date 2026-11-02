@@ -1,0 +1,14 @@
+{
+  "hash": "0f39c3cc1e198ec3",
+  "source": "will install @nuxtjs/fontaine with Roboto font and Impact fallback",
+  "text": "installera @nuxtjs/fontaine avec la police Roboto et Impact en police de secours",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "installera @nuxtjs/fontaine avec la police Roboto et Impact en police de secours"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

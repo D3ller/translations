@@ -1,0 +1,14 @@
+{
+  "hash": "109c257abf61748f",
+  "source": "{0}: Adds an error handler that is called every time a non caught error happens during navigation.",
+  "text": "{0} : ajoute un gestionnaire d'erreurs appelé chaque fois qu'une erreur non interceptée se produit pendant la navigation.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : ajoute un gestionnaire d'erreurs appelé chaque fois qu'une erreur non interceptée se produit pendant la navigation."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

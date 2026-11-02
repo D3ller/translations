@@ -1,0 +1,14 @@
+{
+  "hash": "0067fe28263fc5ba",
+  "source": "Route rules with case-insensitive routing",
+  "text": "Règles de route avec routage insensible à la casse",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Règles de route avec routage insensible à la casse"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

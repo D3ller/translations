@@ -1,0 +1,14 @@
+{
+  "hash": "849fe8f19ba1577e",
+  "source": "These routes are rendered to plain HTML at build time, and the rendered pages omit the Nuxt entry scripts, import map, payload script and JS resource hints. CSS is still included. The result is a page with effectively zero JavaScript cost.",
+  "text": "Ces routes sont rendues en HTML pur au moment du build, et les pages rendues omettent les scripts d'entrée de Nuxt, l'import map, le script de payload (charge utile) et les resource hints JS. Le CSS reste inclus. Le résultat est une page dont le coût en JavaScript est pratiquement nul.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ces routes sont rendues en HTML pur au moment du build, et les pages rendues omettent les scripts d'entrée de Nuxt, l'import map, le script de payload (charge utile) et les resource hints JS. Le CSS reste inclus. Le résultat est une page dont le coût en JavaScript est pratiquement nul."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

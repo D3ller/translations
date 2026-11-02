@@ -1,0 +1,14 @@
+{
+  "hash": "d104f57217ae82d5",
+  "source": "There is no Nitro instance before the {0} hook has run, and none at all when the configured {1} does not use Nitro, such as a builder that outputs a client-only SPA. Use this rather than {2} for anything that should keep working without a server: server routes, route rules and prerendering are all absent in that case.",
+  "text": "Il n'y a pas d'instance Nitro avant l'exécution du hook {0}, et il n'y en a aucune lorsque {1} configuré n'utilise pas Nitro, par exemple un builder qui produit une SPA uniquement côté client. Utilisez cette fonction plutôt que {2} pour tout ce qui doit continuer à fonctionner sans serveur : les routes serveur, les règles de route et le prérendu sont tous absents dans ce cas.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Il n'y a pas d'instance Nitro avant l'exécution du hook {0}, et il n'y en a aucune lorsque {1} configuré n'utilise pas Nitro, par exemple un builder qui produit une SPA uniquement côté client. Utilisez cette fonction plutôt que {2} pour tout ce qui doit continuer à fonctionner sans serveur : les routes serveur, les règles de route et le prérendu sont tous absents dans ce cas."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

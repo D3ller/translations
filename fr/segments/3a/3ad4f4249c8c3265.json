@@ -1,0 +1,14 @@
+{
+  "hash": "3ad4f4249c8c3265",
+  "source": "Prefer {0}. Those flags are replaced at build time and stay tree-shakeable.",
+  "text": "Préférez {0}. Ces indicateurs sont remplacés au moment du build et restent compatibles avec le tree-shaking.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Préférez {0}. Ces indicateurs sont remplacés au moment du build et restent compatibles avec le tree-shaking."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

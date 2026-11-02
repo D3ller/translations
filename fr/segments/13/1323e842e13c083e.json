@@ -1,0 +1,14 @@
+{
+  "hash": "1323e842e13c083e",
+  "source": "Add a database to store users, see {0}Nitro SQL Database{/0} or {1}NuxtHub SQL Database{/1}",
+  "text": "Ajouter une base de données pour stocker les utilisateurs, voir {0}Nitro SQL Database{/0} ou {1}NuxtHub SQL Database{/1}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ajouter une base de données pour stocker les utilisateurs, voir {0}Nitro SQL Database{/0} ou {1}NuxtHub SQL Database{/1}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

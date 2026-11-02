@@ -1,0 +1,14 @@
+{
+  "hash": "97e044ec96d5ffbd",
+  "source": "**{0}**: Gets the getting started guide for a specific Nuxt version",
+  "text": "**{0}** : obtient le guide de démarrage pour une version précise de Nuxt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** : obtient le guide de démarrage pour une version précise de Nuxt"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "a8b3f535b9272639",
+  "source": "Automatically check for compatibility issues based on module meta",
+  "text": "Vérification automatique des problèmes de compatibilité à partir des métadonnées du module",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vérification automatique des problèmes de compatibilité à partir des métadonnées du module"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

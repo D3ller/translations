@@ -1,0 +1,14 @@
+{
+  "hash": "e36b3e666a1e04a4",
+  "source": "**{0}** - Configuration for your application code within the {1} directory",
+  "text": "**{0}** : configuration du code de votre application dans le répertoire {1}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** : configuration du code de votre application dans le répertoire {1}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

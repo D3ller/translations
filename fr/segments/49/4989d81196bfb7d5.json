@@ -1,0 +1,14 @@
+{
+  "hash": "4989d81196bfb7d5",
+  "source": "Setting a top-level {0} disables every other provider, including {1}, so a per-family {2} will not be used.",
+  "text": "Définir un {0} de premier niveau désactive tous les autres providers, y compris {1}, de sorte qu'un {2} propre à une famille ne sera pas utilisé.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définir un {0} de premier niveau désactive tous les autres providers, y compris {1}, de sorte qu'un {2} propre à une famille ne sera pas utilisé."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

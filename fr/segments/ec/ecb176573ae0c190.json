@@ -1,0 +1,14 @@
+{
+  "hash": "ecb176573ae0c190",
+  "source": "The layer covers the specifiers your own code imports. It does not supply packages that {0} v2 happened to hoist into the server bundle, like {1} or similar. Always declare your module's dependencies in {2}.",
+  "text": "La couche couvre les spécificateurs importés par votre propre code. Elle ne fournit pas les packages que {0} v2 incluait de lui-même dans le bundle serveur, comme {1} ou similaires. Déclarez toujours les dépendances de votre module dans {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La couche couvre les spécificateurs importés par votre propre code. Elle ne fournit pas les packages que {0} v2 incluait de lui-même dans le bundle serveur, comme {1} ou similaires. Déclarez toujours les dépendances de votre module dans {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

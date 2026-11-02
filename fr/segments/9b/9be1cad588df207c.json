@@ -1,0 +1,14 @@
+{
+  "hash": "9be1cad588df207c",
+  "source": "The {0} configuration accepts an array of objects with the following properties:",
+  "text": "La configuration {0} accepte un tableau d'objets avec les propriétés suivantes :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La configuration {0} accepte un tableau d'objets avec les propriétés suivantes :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

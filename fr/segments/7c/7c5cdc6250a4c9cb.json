@@ -1,0 +1,14 @@
+{
+  "hash": "7c5cdc6250a4c9cb",
+  "source": "This file only covers the initial load of a client-side rendered page. To show a loading state when navigating between pages, use the {0} component.",
+  "text": "Ce fichier ne couvre que le chargement initial d'une page rendue côté client. Pour afficher un état de chargement lors de la navigation entre les pages, utilisez le composant {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ce fichier ne couvre que le chargement initial d'une page rendue côté client. Pour afficher un état de chargement lors de la navigation entre les pages, utilisez le composant {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

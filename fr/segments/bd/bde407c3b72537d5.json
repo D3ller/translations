@@ -1,0 +1,14 @@
+{
+  "hash": "bde407c3b72537d5",
+  "source": "Most {0} set in {1} are shared with every context, but a few are not. DOM- and Vue-specific options (such as {2}, {3} and {4}) only make sense for your application code, so they are applied to {5} alone. Nuxt also manages {6}, {7} and {8} per context (the {9}, {10} and {11} configs deliberately emit nothing and scan no ambient types), so setting these in {12} will not change them. Use the matching per-context option ({13}, {14}, {15} or {16}) when you need to override them.",
+  "text": "La plupart des {0} définies dans {1} sont partagées avec tous les contextes, mais quelques-unes ne le sont pas. Les options spécifiques au DOM et à Vue (comme {2}, {3} et {4}) n'ont de sens que pour le code de votre application ; elles sont donc appliquées uniquement à {5}. Nuxt gère également {6}, {7} et {8} pour chaque contexte (les configurations {9}, {10} et {11} n'émettent volontairement rien et n'analysent aucun type ambiant) ; les définir dans {12} ne les modifiera donc pas. Utilisez l'option correspondante propre à chaque contexte ({13}, {14}, {15} ou {16}) lorsque vous devez les surcharger.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La plupart des {0} définies dans {1} sont partagées avec tous les contextes, mais quelques-unes ne le sont pas. Les options spécifiques au DOM et à Vue (comme {2}, {3} et {4}) n'ont de sens que pour le code de votre application ; elles sont donc appliquées uniquement à {5}. Nuxt gère également {6}, {7} et {8} pour chaque contexte (les configurations {9}, {10} et {11} n'émettent volontairement rien et n'analysent aucun type ambiant) ; les définir dans {12} ne les modifiera donc pas. Utilisez l'option correspondante propre à chaque contexte ({13}, {14}, {15} ou {16}) lorsque vous devez les surcharger."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

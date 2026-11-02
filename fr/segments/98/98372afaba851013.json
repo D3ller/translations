@@ -1,0 +1,14 @@
+{
+  "hash": "98372afaba851013",
+  "source": "Always works on the client",
+  "text": "Fonctionne toujours côté client",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Fonctionne toujours côté client"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "4e029eb857acb253",
+  "source": "This configuration will observe when the element enters the viewport and also listen for {0} and {1} events. This may result in unnecessary resource usage or redundant prefetching, as both triggers can prefetch the same resource under different conditions.",
+  "text": "Cette configuration observera quand l'élément entre dans la fenêtre d'affichage et écoutera également les événements {0} et {1}. Cela peut entraîner une utilisation inutile de ressources ou un préchargement redondant, car les deux déclencheurs peuvent précharger la même ressource dans des conditions différentes.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cette configuration observera quand l'élément entre dans la fenêtre d'affichage et écoutera également les événements {0} et {1}. Cela peut entraîner une utilisation inutile de ressources ou un préchargement redondant, car les deux déclencheurs peuvent précharger la même ressource dans des conditions différentes."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

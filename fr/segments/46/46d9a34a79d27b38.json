@@ -1,0 +1,14 @@
+{
+  "hash": "46d9a34a79d27b38",
+  "source": "Best Practices",
+  "text": "Bonnes pratiques",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bonnes pratiques"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "e5f0746a9f1bd779",
+  "source": "Watch Vue School video about {0}.",
+  "text": "Regardez la vidéo Vue School à propos de {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Regardez la vidéo Vue School à propos de {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

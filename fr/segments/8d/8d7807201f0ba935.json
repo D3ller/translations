@@ -1,0 +1,14 @@
+{
+  "hash": "8d7807201f0ba935",
+  "source": "Commands that take a {0} positional treat an explicit {1} as an override of it. {2} on any command prints its arguments and options, and {3} prints the CLI version.",
+  "text": "Les commandes qui acceptent un positionnel {0} traitent un {1} explicite comme une surcharge de celui-ci. {2} sur n'importe quelle commande affiche ses arguments et ses options, et {3} affiche la version de la CLI.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les commandes qui acceptent un positionnel {0} traitent un {1} explicite comme une surcharge de celui-ci. {2} sur n'importe quelle commande affiche ses arguments et ses options, et {3} affiche la version de la CLI."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

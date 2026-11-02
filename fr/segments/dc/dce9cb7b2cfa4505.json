@@ -1,0 +1,14 @@
+{
+  "hash": "dce9cb7b2cfa4505",
+  "source": "In the example above, {0} would make sure that the request would occur in the server and is properly forwarded to the browser. {1} has no such mechanism and is a better option to use when the request is solely made from the browser.",
+  "text": "Dans l'exemple ci-dessus, {0} garantit que la requête s'exécute sur le serveur et qu'elle est correctement transmise au navigateur. {1} ne dispose pas d'un tel mécanisme et constitue une meilleure option lorsque la requête est effectuée uniquement depuis le navigateur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans l'exemple ci-dessus, {0} garantit que la requête s'exécute sur le serveur et qu'elle est correctement transmise au navigateur. {1} ne dispose pas d'un tel mécanisme et constitue une meilleure option lorsque la requête est effectuée uniquement depuis le navigateur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

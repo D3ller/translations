@@ -1,0 +1,14 @@
+{
+  "hash": "9ffde14c668f393f",
+  "source": "Component islands are controlled by {0}. The default value is {1}, which enables the feature automatically as soon as your app contains a server component or island, so in most cases you do not need any configuration.",
+  "text": "Les islands de composants sont contrôlées par {0}. La valeur par défaut est {1}, ce qui active la fonctionnalité automatiquement dès que votre application contient un composant serveur ou une island ; dans la plupart des cas, vous n'avez donc besoin d'aucune configuration.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les islands de composants sont contrôlées par {0}. La valeur par défaut est {1}, ce qui active la fonctionnalité automatiquement dès que votre application contient un composant serveur ou une island ; dans la plupart des cas, vous n'avez donc besoin d'aucune configuration."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

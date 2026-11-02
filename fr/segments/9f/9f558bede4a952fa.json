@@ -1,0 +1,14 @@
+{
+  "hash": "9f558bede4a952fa",
+  "source": "When you are ready to remove the error page, you can call the {0} helper function, which takes an optional path to redirect to (for example, if you want to navigate to a 'safe' page).",
+  "text": "Lorsque vous êtes prêt à supprimer la page d'erreur, vous pouvez appeler la fonction helper {0}, qui accepte un chemin de redirection facultatif (par exemple, si vous souhaitez naviguer vers une page « sûre »).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque vous êtes prêt à supprimer la page d'erreur, vous pouvez appeler la fonction helper {0}, qui accepte un chemin de redirection facultatif (par exemple, si vous souhaitez naviguer vers une page « sûre »)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

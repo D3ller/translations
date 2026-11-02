@@ -1,0 +1,14 @@
+{
+  "hash": "fceb9c4e7d1d62c7",
+  "source": "The part after {0} is any commit-ish, so a tag ({1}) or {2} works too; a full commit SHA is the only form that is genuinely immutable.",
+  "text": "La partie après {0} peut être n'importe quel commit-ish, donc un tag ({1}) ou {2} fonctionne aussi ; seul un SHA de commit complet est réellement immuable.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La partie après {0} peut être n'importe quel commit-ish, donc un tag ({1}) ou {2} fonctionne aussi ; seul un SHA de commit complet est réellement immuable."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "8f1cc5c1fdd3aa51",
+  "source": "By default, test files in {0} and {1} directories are included in the {2}Nuxt app TypeScript context{/2}. That means they will recognize Nuxt aliases (like {3}, {4}, {5}) and TypeScript will be aware of auto-imports that work in your Nuxt app.",
+  "text": "Par défaut, les fichiers de test des répertoires {0} et {1} sont inclus dans le {2}contexte TypeScript de l'application Nuxt{/2}. Cela signifie qu'ils reconnaissent les alias Nuxt (comme {3}, {4}, {5}) et que TypeScript connaît les imports automatiques qui fonctionnent dans votre application Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par défaut, les fichiers de test des répertoires {0} et {1} sont inclus dans le {2}contexte TypeScript de l'application Nuxt{/2}. Cela signifie qu'ils reconnaissent les alias Nuxt (comme {3}, {4}, {5}) et que TypeScript connaît les imports automatiques qui fonctionnent dans votre application Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

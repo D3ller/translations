@@ -1,0 +1,14 @@
+{
+  "hash": "bded8572a731288a",
+  "source": "Overwriting Defaults",
+  "text": "Remplacer les valeurs par défaut",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Remplacer les valeurs par défaut"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

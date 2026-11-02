@@ -1,0 +1,14 @@
+{
+  "hash": "2d4e3ed6302b6285",
+  "source": "Discover the Node.js server preset with Nitro to deploy on any Node hosting.",
+  "text": "Découvrez le preset de serveur Node.js avec Nitro pour déployer sur n'importe quel hébergement Node.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Découvrez le preset de serveur Node.js avec Nitro pour déployer sur n'importe quel hébergement Node."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "df1b017d81f39484",
+  "source": "Advanced: access/set {0} yourself",
+  "text": "Avancé : accédez à {0} ou définissez-le vous-même",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Avancé : accédez à {0} ou définissez-le vous-même"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

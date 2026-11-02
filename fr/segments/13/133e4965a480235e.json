@@ -1,0 +1,14 @@
+{
+  "hash": "133e4965a480235e",
+  "source": "In your {0}, rename {1} to {2}. (Note that objects no longer have a {3} key for deduplication.)",
+  "text": "Dans votre {0}, renommez {1} en {2}. (Notez que les objets n'ont plus de clé {3} pour la déduplication.)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans votre {0}, renommez {1} en {2}. (Notez que les objets n'ont plus de clé {3} pour la déduplication.)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

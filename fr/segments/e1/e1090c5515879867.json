@@ -1,0 +1,14 @@
+{
+  "hash": "e1090c5515879867",
+  "source": "You rarely need to provide every key. The defaults are sensible (an empty manifest, no inline styles, an undefined entry chunk), so provide only what your build produces. When SSR is disabled, the {0} default is a no-op app and most other outputs are unused.",
+  "text": "Vous avez rarement besoin de fournir toutes les clés. Les valeurs par défaut sont raisonnables (un manifeste vide, aucun style en ligne, un chunk d'entrée non défini) : fournissez donc uniquement ce que produit votre build. Lorsque SSR est désactivé, la valeur par défaut de {0} est une application sans effet et la plupart des autres sorties sont inutilisées.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous avez rarement besoin de fournir toutes les clés. Les valeurs par défaut sont raisonnables (un manifeste vide, aucun style en ligne, un chunk d'entrée non défini) : fournissez donc uniquement ce que produit votre build. Lorsque SSR est désactivé, la valeur par défaut de {0} est une application sans effet et la plupart des autres sorties sont inutilisées."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

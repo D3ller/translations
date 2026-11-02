@@ -1,0 +1,14 @@
+{
+  "hash": "04e2fad59cc8422f",
+  "source": "{0} also accepts any additional props that you may need to pass to the layout. These custom props are then made accessible as attributes.",
+  "text": "{0} accepte également toutes les props supplémentaires que vous pourriez avoir besoin de passer au layout. Ces props personnalisées sont ensuite rendues accessibles en tant qu'attributs.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} accepte également toutes les props supplémentaires que vous pourriez avoir besoin de passer au layout. Ces props personnalisées sont ensuite rendues accessibles en tant qu'attributs."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

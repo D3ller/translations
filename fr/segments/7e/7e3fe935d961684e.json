@@ -1,0 +1,14 @@
+{
+  "hash": "7e3fe935d961684e",
+  "source": "Nuxt API Reference",
+  "text": "Référence de l'API Nuxt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Référence de l'API Nuxt"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

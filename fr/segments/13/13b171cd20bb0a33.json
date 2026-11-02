@@ -1,0 +1,14 @@
+{
+  "hash": "13b171cd20bb0a33",
+  "source": "{0}: Vue components that wrap around your pages and avoid re-rendering between pages",
+  "text": "{0} : les composants Vue qui encapsulent vos pages et évitent un nouveau rendu entre les pages",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : les composants Vue qui encapsulent vos pages et évitent un nouveau rendu entre les pages"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

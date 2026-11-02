@@ -1,0 +1,14 @@
+{
+  "hash": "39634376f59b6cb2",
+  "source": "Read more about the **Nuxt DevTools**.",
+  "text": "En savoir plus sur **Nuxt DevTools**.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En savoir plus sur **Nuxt DevTools**."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "fd8e04fe7bc569e1",
+  "source": "This follows any chain of redirects and prints the final status and URL. A {0} status with the URL you requested means the link is fine. If the final URL differs, link to that instead.",
+  "text": "Cette commande suit toute chaîne de redirections et affiche le statut final ainsi que l'URL finale. Un statut {0} avec l'URL que vous avez demandée signifie que le lien est correct. Si l'URL finale est différente, utilisez-la à la place.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cette commande suit toute chaîne de redirections et affiche le statut final ainsi que l'URL finale. Un statut {0} avec l'URL que vous avez demandée signifie que le lien est correct. Si l'URL finale est différente, utilisez-la à la place."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "1cec2bc39e2ffc01",
+  "source": "Server auto-imports are {0}off by default in Nuxt 5{/0}. A project that enables them with {1} gets {2} through them, so it needs no import changes.",
+  "text": "Les imports automatiques côté serveur sont {0}désactivés par défaut dans Nuxt 5{/0}. Un projet qui les active avec {1} obtient {2} par ce biais, et n'a donc aucun import à modifier.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les imports automatiques côté serveur sont {0}désactivés par défaut dans Nuxt 5{/0}. Un projet qui les active avec {1} obtient {2} par ce biais, et n'a donc aucun import à modifier."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

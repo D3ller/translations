@@ -1,0 +1,14 @@
+{
+  "hash": "46e8c84043085df7",
+  "source": "The font files of a family restricted to route rules are preloaded by the server, as their URLs are only known once the fonts have been resolved. The preload is therefore only rendered in the HTML of the routes that match.",
+  "text": "Les fichiers de police d'une famille limitée à des règles de route sont préchargés par le serveur, car leurs URL ne sont connues qu'une fois les polices résolues. Le préchargement n'est donc généré dans le HTML que pour les routes correspondantes.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les fichiers de police d'une famille limitée à des règles de route sont préchargés par le serveur, car leurs URL ne sont connues qu'une fois les polices résolues. Le préchargement n'est donc généré dans le HTML que pour les routes correspondantes."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

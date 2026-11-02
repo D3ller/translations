@@ -1,0 +1,14 @@
+{
+  "hash": "a4c66492bcf8abbe",
+  "source": "Overwrite the file if it already exists",
+  "text": "Écrase le fichier s'il existe déjà",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Écrase le fichier s'il existe déjà"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

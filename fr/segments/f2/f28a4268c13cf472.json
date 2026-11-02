@@ -1,0 +1,14 @@
+{
+  "hash": "f28a4268c13cf472",
+  "source": "Install MCP Server",
+  "text": "Installer le serveur MCP",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Installer le serveur MCP"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

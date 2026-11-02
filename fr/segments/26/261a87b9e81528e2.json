@@ -1,0 +1,14 @@
+{
+  "hash": "261a87b9e81528e2",
+  "source": "set the progress to 0, and show loading immediately",
+  "text": "définit la progression à 0 et affiche immédiatement le chargement",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "définit la progression à 0 et affiche immédiatement le chargement"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

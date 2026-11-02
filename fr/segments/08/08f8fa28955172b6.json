@@ -1,0 +1,14 @@
+{
+  "hash": "08f8fa28955172b6",
+  "source": "{0} chooses the values a variable font is shipped at, for any OpenType axis rather than just {1}. Pin an axis to a single value, or narrow it to a range.",
+  "text": "{0} choisit les valeurs auxquelles une police variable est livrée, pour n'importe quel axe OpenType et pas seulement {1}. Fixez un axe à une valeur unique, ou restreignez-le à une plage.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} choisit les valeurs auxquelles une police variable est livrée, pour n'importe quel axe OpenType et pas seulement {1}. Fixez un axe à une valeur unique, ou restreignez-le à une plage."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

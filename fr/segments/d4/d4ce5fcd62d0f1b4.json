@@ -1,0 +1,14 @@
+{
+  "hash": "d4ce5fcd62d0f1b4",
+  "source": "Nuxt middleware runs on both the server and the client. If you want certain code to run in specific environments, consider splitting it by using {0} for the client and {1} for the server.",
+  "text": "Les middleware de Nuxt s'exécutent à la fois sur le serveur et sur le client. Si vous souhaitez que certains codes s'exécutent dans des environnements spécifiques, envisagez de les séparer en utilisant {0} pour le client et {1} pour le serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les middleware de Nuxt s'exécutent à la fois sur le serveur et sur le client. Si vous souhaitez que certains codes s'exécutent dans des environnements spécifiques, envisagez de les séparer en utilisant {0} pour le client et {1} pour le serveur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

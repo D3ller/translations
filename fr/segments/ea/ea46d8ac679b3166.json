@@ -1,0 +1,14 @@
+{
+  "hash": "ea46d8ac679b3166",
+  "source": "You can use the {0} alias to import files from anywhere within the {1} directory, regardless of the importing file's location.",
+  "text": "Vous pouvez utiliser l'alias {0} pour importer des fichiers depuis n'importe où dans le répertoire {1}, quel que soit l'emplacement du fichier qui importe.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez utiliser l'alias {0} pour importer des fichiers depuis n'importe où dans le répertoire {1}, quel que soit l'emplacement du fichier qui importe."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

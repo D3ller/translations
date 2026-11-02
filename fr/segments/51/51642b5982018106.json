@@ -1,0 +1,14 @@
+{
+  "hash": "51642b5982018106",
+  "source": "{0}: define global transitions for all pages rendered with the {1} component.",
+  "text": "{0} : définit des transitions globales pour toutes les pages rendues avec le composant {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : définit des transitions globales pour toutes les pages rendues avec le composant {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

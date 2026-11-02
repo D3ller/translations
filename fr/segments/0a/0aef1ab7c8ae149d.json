@@ -1,0 +1,14 @@
+{
+  "hash": "0aef1ab7c8ae149d",
+  "source": "Read more about layers in the **Layer Author Guide**.",
+  "text": "Pour en savoir plus sur les layers, consultez le **Guide de l'auteur de layers**.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour en savoir plus sur les layers, consultez le **Guide de l'auteur de layers**."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

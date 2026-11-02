@@ -1,0 +1,14 @@
+{
+  "hash": "4dff9f7149f776f0",
+  "source": "For advanced users or CI workflows, you can use the Dev Containers CLI directly:",
+  "text": "Pour les utilisateurs avancés ou les workflows de CI, vous pouvez utiliser directement la CLI Dev Containers :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour les utilisateurs avancés ou les workflows de CI, vous pouvez utiliser directement la CLI Dev Containers :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

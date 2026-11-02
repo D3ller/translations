@@ -1,0 +1,14 @@
+{
+  "hash": "cf77e0a4c1cbe351",
+  "source": "Disable the interactive terminal UI and stream logs instead",
+  "text": "Désactive l'interface utilisateur interactive du terminal et affiche les logs en flux continu à la place",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Désactive l'interface utilisateur interactive du terminal et affiche les logs en flux continu à la place"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

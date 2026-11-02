@@ -1,0 +1,14 @@
+{
+  "hash": "945da3da3d475b27",
+  "source": "Library Authors",
+  "text": "Auteurs de bibliothèques",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Auteurs de bibliothèques"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

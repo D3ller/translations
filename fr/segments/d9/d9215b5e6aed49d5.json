@@ -1,0 +1,14 @@
+{
+  "hash": "d9215b5e6aed49d5",
+  "source": "hydrate when the browser is idle",
+  "text": "hydrater lorsque le navigateur est inactif",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "hydrater lorsque le navigateur est inactif"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

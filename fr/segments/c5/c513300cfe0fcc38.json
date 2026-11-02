@@ -1,0 +1,14 @@
+{
+  "hash": "c513300cfe0fcc38",
+  "source": "Create a {0} folder in your project root with these two files:",
+  "text": "Créez un dossier {0} à la racine de votre projet avec ces deux fichiers :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Créez un dossier {0} à la racine de votre projet avec ces deux fichiers :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

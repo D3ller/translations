@@ -1,0 +1,14 @@
+{
+  "hash": "c0ae5a228a262c75",
+  "source": "Also when using dynamic import syntax (in both CJS and ESM files), we always have this situation:",
+  "text": "De plus, lorsque vous utilisez la syntaxe d'import dynamique (dans les fichiers CJS comme ESM), vous vous retrouvez toujours dans cette situation :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "De plus, lorsque vous utilisez la syntaxe d'import dynamique (dans les fichiers CJS comme ESM), vous vous retrouvez toujours dans cette situation :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

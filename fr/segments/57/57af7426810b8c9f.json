@@ -1,0 +1,14 @@
+{
+  "hash": "57af7426810b8c9f",
+  "source": "We can inject our CSS file which includes Tailwind's directives",
+  "text": "Nous pouvons injecter notre fichier CSS qui inclut les directives de Tailwind",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nous pouvons injecter notre fichier CSS qui inclut les directives de Tailwind"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

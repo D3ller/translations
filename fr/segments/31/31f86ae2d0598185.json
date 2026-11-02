@@ -1,0 +1,14 @@
+{
+  "hash": "31f86ae2d0598185",
+  "source": "The properties of {0} can be dynamic, accepting {1}, {2} and {3} properties. The {4} parameter can also accept a function returning an object to make the entire object reactive.",
+  "text": "Les propriétés de {0} peuvent être dynamiques et accepter des propriétés {1}, {2} et {3}. Le paramètre {4} peut également accepter une fonction retournant un objet afin de rendre l'objet entier réactif.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les propriétés de {0} peuvent être dynamiques et accepter des propriétés {1}, {2} et {3}. Le paramètre {4} peut également accepter une fonction retournant un objet afin de rendre l'objet entier réactif."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

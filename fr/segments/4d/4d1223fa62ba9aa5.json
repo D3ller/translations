@@ -1,0 +1,14 @@
+{
+  "hash": "4d1223fa62ba9aa5",
+  "source": "Vue unsets the context",
+  "text": "Vue désaffecte le contexte",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vue désaffecte le contexte"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "cfb9bf35002c6150",
+  "source": "**Reporting bugs**: Check out {0}our guide{/0} for some things to do before opening an issue.",
+  "text": "**Signaler des bugs** : consultez {0}notre guide{/0} pour connaître les choses à faire avant d'ouvrir une issue.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Signaler des bugs** : consultez {0}notre guide{/0} pour connaître les choses à faire avant d'ouvrir une issue."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

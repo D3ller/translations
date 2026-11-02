@@ -1,0 +1,14 @@
+{
+  "hash": "6a470a815d81c5d2",
+  "source": "We've successfully set up a very basic user authentication and session management in our Nuxt app. We've also protected sensitive routes on the server and client side to ensure that only authenticated users can access them.",
+  "text": "Vous avez mis en place avec succès une authentification des utilisateurs et une gestion de session très basiques dans votre application Nuxt. Vous avez également protégé les routes sensibles côté serveur et côté client afin que seuls les utilisateurs authentifiés puissent y accéder.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous avez mis en place avec succès une authentification des utilisateurs et une gestion de session très basiques dans votre application Nuxt. Vous avez également protégé les routes sensibles côté serveur et côté client afin que seuls les utilisateurs authentifiés puissent y accéder."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

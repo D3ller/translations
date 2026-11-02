@@ -1,0 +1,14 @@
+{
+  "hash": "a88c06c02e592c95",
+  "source": "This object accepts the following properties:",
+  "text": "Cet objet accepte les propriétés suivantes :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cet objet accepte les propriétés suivantes :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "ce5b80ff8954309d",
+  "source": "Font metadata and downloaded font files are now cached in {0} relative to your project root rather than to the directory you run Nuxt from. The first build after upgrading will re-resolve and re-download fonts, and you can now configure the location with the new {1} option.",
+  "text": "Les métadonnées de police et les fichiers de police téléchargés sont désormais mis en cache dans {0}, relatif à la racine de votre projet plutôt qu'au répertoire depuis lequel vous lancez Nuxt. Le premier build après la mise à niveau résoudra et téléchargera de nouveau les polices, et vous pouvez désormais configurer cet emplacement avec la nouvelle option {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les métadonnées de police et les fichiers de police téléchargés sont désormais mis en cache dans {0}, relatif à la racine de votre projet plutôt qu'au répertoire depuis lequel vous lancez Nuxt. Le premier build après la mise à niveau résoudra et téléchargera de nouveau les polices, et vous pouvez désormais configurer cet emplacement avec la nouvelle option {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

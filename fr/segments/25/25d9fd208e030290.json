@@ -1,0 +1,14 @@
+{
+  "hash": "25d9fd208e030290",
+  "source": "Type annotations are erased, but syntax that emits runtime code cannot be. In config and module files, replace:",
+  "text": "Les annotations de type sont effacées, mais la syntaxe qui émet du code d'exécution ne peut pas l'être. Dans les fichiers de configuration et de modules, remplacez :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les annotations de type sont effacées, mais la syntaxe qui émet du code d'exécution ne peut pas l'être. Dans les fichiers de configuration et de modules, remplacez :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

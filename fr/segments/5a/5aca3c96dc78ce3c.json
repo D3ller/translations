@@ -1,0 +1,14 @@
+{
+  "hash": "5aca3c96dc78ce3c",
+  "source": "When rendering a server-only or island component, {0} makes a fetch request which comes back with a {1}. (This is an internal request if rendered on the server, or a request that you can see in the network tab if it's rendering on client-side navigation.)",
+  "text": "Lors du rendu d'un composant uniquement serveur ou d'un composant île, {0} effectue une requête fetch qui renvoie un {1}. (Il s'agit d'une requête interne si le rendu a lieu sur le serveur, ou d'une requête visible dans l'onglet réseau si le rendu a lieu lors d'une navigation côté client.)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lors du rendu d'un composant uniquement serveur ou d'un composant île, {0} effectue une requête fetch qui renvoie un {1}. (Il s'agit d'une requête interne si le rendu a lieu sur le serveur, ou d'une requête visible dans l'onglet réseau si le rendu a lieu lors d'une navigation côté client.)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

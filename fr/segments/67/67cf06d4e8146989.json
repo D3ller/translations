@@ -1,0 +1,14 @@
+{
+  "hash": "67cf06d4e8146989",
+  "source": "A family named in a route rule is preloaded on the routes that match it, and on no others. The rule uses the same patterns as any other route rule, so {0} matches the inbox route and everything below it.",
+  "text": "Une famille nommée dans une règle de route est préchargée sur les routes qui correspondent à cette règle, et sur aucune autre. La règle utilise les mêmes motifs que toute autre règle de route ; ainsi, {0} correspond à la route de la boîte de réception et à toutes celles qui en dépendent.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une famille nommée dans une règle de route est préchargée sur les routes qui correspondent à cette règle, et sur aucune autre. La règle utilise les mêmes motifs que toute autre règle de route ; ainsi, {0} correspond à la route de la boîte de réception et à toutes celles qui en dépendent."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

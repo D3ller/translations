@@ -1,0 +1,14 @@
+{
+  "hash": "13dd6eb551c81d76",
+  "source": "{0}: a string indicating the status of the data request:",
+  "text": "{0} : une chaîne indiquant l'état de la requête de données :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : une chaîne indiquant l'état de la requête de données :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

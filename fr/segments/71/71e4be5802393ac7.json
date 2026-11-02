@@ -1,0 +1,14 @@
+{
+  "hash": "71e4be5802393ac7",
+  "source": "However, if you try to import a package with an {0} file in a Node.js ESM context, it won't work, and you'll get an error like:",
+  "text": "Cependant, si vous essayez d'importer un package avec un fichier {0} dans un contexte ESM de Node.js, cela ne fonctionnera pas et vous obtiendrez une erreur comme :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cependant, si vous essayez d'importer un package avec un fichier {0} dans un contexte ESM de Node.js, cela ne fonctionnera pas et vous obtiendrez une erreur comme :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

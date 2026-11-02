@@ -1,0 +1,14 @@
+{
+  "hash": "e8c7b48f98fcb25b",
+  "source": "You can then use the custom {0} instance directly:",
+  "text": "Vous pouvez ensuite utiliser directement l'instance {0} personnalisée :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez ensuite utiliser directement l'instance {0} personnalisée :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "2ee2dbca9a392de9",
+  "source": "Create a new file in your project root directory and name it {0}.",
+  "text": "Créez un nouveau fichier dans le répertoire racine de votre projet et nommez-le {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Créez un nouveau fichier dans le répertoire racine de votre projet et nommez-le {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

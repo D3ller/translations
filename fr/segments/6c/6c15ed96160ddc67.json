@@ -1,0 +1,14 @@
+{
+  "hash": "6c15ed96160ddc67",
+  "source": "Nuxt found a standalone {0} or {1} file next to your {2}. Nuxt manages the bundler internally and ignores these files, so they are usually leftovers from a migration or a copied non-Nuxt project.",
+  "text": "Nuxt a trouvé un fichier {0} ou {1} autonome à côté de votre {2}. Nuxt gère le bundler en interne et ignore ces fichiers : il s'agit donc généralement de restes d'une migration ou d'un projet non Nuxt copié.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt a trouvé un fichier {0} ou {1} autonome à côté de votre {2}. Nuxt gère le bundler en interne et ignore ces fichiers : il s'agit donc généralement de restes d'une migration ou d'un projet non Nuxt copié."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

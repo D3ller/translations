@@ -1,0 +1,14 @@
+{
+  "hash": "4f128f00823f69b7",
+  "source": "Use head optimisations:",
+  "text": "Utilisez les optimisations de head :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utilisez les optimisations de head :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

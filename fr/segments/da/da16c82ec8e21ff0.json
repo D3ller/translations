@@ -1,0 +1,14 @@
+{
+  "hash": "da16c82ec8e21ff0",
+  "source": "This change is a follow up to a prior {0}3.12 config update{/0} where we improved our defaults, mostly adhering to {1}TotalTypeScript's recommendations{/1}.",
+  "text": "Cette modification fait suite à une précédente {0}mise à jour de la configuration en 3.12{/0}, où nous avons amélioré nos valeurs par défaut en suivant en grande partie {1}les recommandations de TotalTypeScript{/1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cette modification fait suite à une précédente {0}mise à jour de la configuration en 3.12{/0}, où nous avons amélioré nos valeurs par défaut en suivant en grande partie {1}les recommandations de TotalTypeScript{/1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

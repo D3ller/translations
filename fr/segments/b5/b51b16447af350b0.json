@@ -1,0 +1,14 @@
+{
+  "hash": "b51b16447af350b0",
+  "source": "Path prefix or route. If an empty string used, will be used as a middleware.",
+  "text": "Préfixe de chemin ou route. Si une chaîne vide est utilisée, le gestionnaire sera utilisé comme middleware.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Préfixe de chemin ou route. Si une chaîne vide est utilisée, le gestionnaire sera utilisé comme middleware."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

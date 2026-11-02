@@ -1,0 +1,14 @@
+{
+  "hash": "6c5a8f975084c738",
+  "source": "Why fixing hydration issues is important",
+  "text": "Pourquoi il est important de corriger les problèmes d'hydratation",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pourquoi il est important de corriger les problèmes d'hydratation"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

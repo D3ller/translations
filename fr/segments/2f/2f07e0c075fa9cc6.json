@@ -1,0 +1,14 @@
+{
+  "hash": "2f07e0c075fa9cc6",
+  "source": "The binary is installed as {0}, and also as {1}, {2} and {3} for compatibility with older setups. Scaffolding a new project is a separate package, {4}, so that it can be run without a project to install into.",
+  "text": "Le binaire est installé sous le nom {0}, mais aussi sous {1}, {2} et {3} par compatibilité avec d'anciennes configurations. La création d'un nouveau projet relève d'un autre package, {4}, afin de pouvoir l'exécuter sans disposer d'un projet dans lequel installer.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le binaire est installé sous le nom {0}, mais aussi sous {1}, {2} et {3} par compatibilité avec d'anciennes configurations. La création d'un nouveau projet relève d'un autre package, {4}, afin de pouvoir l'exécuter sans disposer d'un projet dans lequel installer."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

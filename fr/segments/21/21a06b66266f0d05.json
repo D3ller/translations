@@ -1,0 +1,14 @@
+{
+  "hash": "21a06b66266f0d05",
+  "source": "Also when using relative paths in {0} file of a layer, (with exception of nested {1}) they are resolved relative to user's project instead of the layer. As a workaround, use full resolved paths in {2}:",
+  "text": "De même, lorsque vous utilisez des chemins relatifs dans le fichier {0} d'un layer (à l'exception des {1} imbriqués), ils sont résolus par rapport au projet de l'utilisateur plutôt qu'au layer. Pour contourner ce problème, utilisez des chemins entièrement résolus dans {2} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "De même, lorsque vous utilisez des chemins relatifs dans le fichier {0} d'un layer (à l'exception des {1} imbriqués), ils sont résolus par rapport au projet de l'utilisateur plutôt qu'au layer. Pour contourner ce problème, utilisez des chemins entièrement résolus dans {2} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

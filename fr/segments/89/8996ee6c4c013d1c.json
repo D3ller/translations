@@ -1,0 +1,14 @@
+{
+  "hash": "8996ee6c4c013d1c",
+  "source": "{0}: An {1} attribute value to apply on exact active links. Works the same as {2}Vue Router's {3} prop{/2} on internal links",
+  "text": "{0} : une valeur d'attribut {1} à appliquer aux liens actifs exacts. Fonctionne comme la {2}prop {3} de Vue Router{/2} sur les liens internes",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : une valeur d'attribut {1} à appliquer aux liens actifs exacts. Fonctionne comme la {2}prop {3} de Vue Router{/2} sur les liens internes"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

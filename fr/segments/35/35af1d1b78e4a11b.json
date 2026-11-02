@@ -1,0 +1,14 @@
+{
+  "hash": "35af1d1b78e4a11b",
+  "source": "Use an absolute URL with an explicit protocol, or a relative path:",
+  "text": "Utilisez une URL absolue avec un protocole explicite, ou un chemin relatif :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utilisez une URL absolue avec un protocole explicite, ou un chemin relatif :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

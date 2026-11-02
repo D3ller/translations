@@ -1,0 +1,14 @@
+{
+  "hash": "b9b698ede95892da",
+  "source": "Regular setup logic that runs on every build",
+  "text": "Logique de configuration habituelle exécutée à chaque build",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Logique de configuration habituelle exécutée à chaque build"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

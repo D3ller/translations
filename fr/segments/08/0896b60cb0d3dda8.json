@@ -1,0 +1,14 @@
+{
+  "hash": "0896b60cb0d3dda8",
+  "source": "What is 'Native' ESM?",
+  "text": "Qu'est-ce que l'ESM « natif » ?",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Qu'est-ce que l'ESM « natif » ?"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

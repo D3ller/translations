@@ -1,0 +1,14 @@
+{
+  "hash": "a3e63c7dc1f76424",
+  "source": "Note that Hybrid Rendering is not available when using {0}.",
+  "text": "Notez que le rendu hybride n'est pas disponible avec {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Notez que le rendu hybride n'est pas disponible avec {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

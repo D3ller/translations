@@ -1,0 +1,14 @@
+{
+  "hash": "f7635f49b720e75f",
+  "source": "This component is optional.{0}To achieve full customization, you can implement your own one based on {1}its source code{/1}.",
+  "text": "Ce composant est facultatif.{0}Pour obtenir une personnalisation complète, vous pouvez implémenter le vôtre en vous basant sur {1}son code source{/1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ce composant est facultatif.{0}Pour obtenir une personnalisation complète, vous pouvez implémenter le vôtre en vous basant sur {1}son code source{/1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

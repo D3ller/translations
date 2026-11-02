@@ -1,0 +1,14 @@
+{
+  "hash": "5b0ffa65e58c0918",
+  "source": "The public directory for static assets",
+  "text": "Le répertoire public pour les ressources statiques",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le répertoire public pour les ressources statiques"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

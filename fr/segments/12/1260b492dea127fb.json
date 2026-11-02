@@ -1,0 +1,14 @@
+{
+  "hash": "1260b492dea127fb",
+  "source": "Additionally to the above options, {0} can pass options through to {1}, e.g. {2} to turn off the dev server QR code. You can find the list of {3} options in the {4}unjs/listhen{/4} docs.",
+  "text": "En plus des options ci-dessus, {0} peut transmettre des options à {1}, par exemple {2} pour désactiver le code QR du serveur de développement. Vous trouverez la liste des options de {3} dans la documentation de {4}unjs/listhen{/4}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En plus des options ci-dessus, {0} peut transmettre des options à {1}, par exemple {2} pour désactiver le code QR du serveur de développement. Vous trouverez la liste des options de {3} dans la documentation de {4}unjs/listhen{/4}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

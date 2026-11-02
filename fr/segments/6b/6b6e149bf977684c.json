@@ -1,0 +1,14 @@
+{
+  "hash": "6b6e149bf977684c",
+  "source": "Checks if the current Nuxt version is 2.x.",
+  "text": "Vérifie si la version actuelle de Nuxt est la 2.x.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vérifie si la version actuelle de Nuxt est la 2.x."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

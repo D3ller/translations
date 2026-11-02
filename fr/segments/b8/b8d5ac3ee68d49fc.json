@@ -1,0 +1,14 @@
+{
+  "hash": "b8d5ac3ee68d49fc",
+  "source": "Redirect the request.",
+  "text": "Redirige la requête.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Redirige la requête."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

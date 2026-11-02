@@ -1,0 +1,14 @@
+{
+  "hash": "b8d4e3d6fa2b10e6",
+  "source": "Server-Only Head Composables Are No Longer Auto-Imported",
+  "text": "Les composables head réservés au serveur ne sont plus importés automatiquement",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les composables head réservés au serveur ne sont plus importés automatiquement"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

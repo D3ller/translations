@@ -1,0 +1,14 @@
+{
+  "hash": "bbfaff4d5b42c832",
+  "source": "With {0}, routing is case-sensitive by default to match Nitro. Set {1} to {2} to opt out.",
+  "text": "Avec {0}, le routage est sensible à la casse par défaut afin de correspondre à Nitro. Définissez {1} à {2} pour le désactiver.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Avec {0}, le routage est sensible à la casse par défaut afin de correspondre à Nitro. Définissez {1} à {2} pour le désactiver."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

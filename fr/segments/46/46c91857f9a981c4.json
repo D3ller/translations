@@ -1,0 +1,14 @@
+{
+  "hash": "46c91857f9a981c4",
+  "source": "Nuxi",
+  "text": "Nuxi",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxi"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "9f77ef8c249f3a00",
+  "source": "{0}: Disables prefetching.",
+  "text": "{0} : désactive le préchargement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : désactive le préchargement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

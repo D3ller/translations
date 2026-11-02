@@ -1,0 +1,14 @@
+{
+  "hash": "0d80e77c4a94e952",
+  "source": "This composable returns a {0} that can be awaited, which makes it possible to use {1} directly within the {2} (i.e. a value will be present, instead of being undefined). You can also directly pull the values without awaiting the return value, in which case {3} can be undefined within {4} until the fetch completes.",
+  "text": "Ce composable renvoie une {0} que l'on peut attendre avec await, ce qui permet d'utiliser {1} directement dans {2} (c'est-à-dire qu'une valeur sera présente, au lieu d'être undefined). Vous pouvez aussi récupérer directement les valeurs sans attendre la valeur de retour, auquel cas {3} peut être undefined dans {4} jusqu'à la fin de la récupération.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ce composable renvoie une {0} que l'on peut attendre avec await, ce qui permet d'utiliser {1} directement dans {2} (c'est-à-dire qu'une valeur sera présente, au lieu d'être undefined). Vous pouvez aussi récupérer directement les valeurs sans attendre la valeur de retour, auquel cas {3} peut être undefined dans {4} jusqu'à la fin de la récupération."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

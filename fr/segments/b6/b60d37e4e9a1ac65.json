@@ -1,0 +1,14 @@
+{
+  "hash": "b60d37e4e9a1ac65",
+  "source": "The auto-generated key is unique to each call site, so calling {0} with the same URL and options in different components will **not** share state and each call performs its own request. Multiple instances of the same component do share state, since they use the same call site. To share the same {1}, {2} and {3} refs across different components, provide the same explicit {4} to each call:",
+  "text": "La clé générée automatiquement est unique pour chaque site d'appel ; ainsi, appeler {0} avec la même URL et les mêmes options dans différents composants ne partagera **pas** l'état, et chaque appel effectue sa propre requête. Plusieurs instances du même composant partagent en revanche l'état, puisqu'elles utilisent le même site d'appel. Pour partager les mêmes refs {1}, {2} et {3} entre différents composants, fournissez la même {4} explicite à chaque appel :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La clé générée automatiquement est unique pour chaque site d'appel ; ainsi, appeler {0} avec la même URL et les mêmes options dans différents composants ne partagera **pas** l'état, et chaque appel effectue sa propre requête. Plusieurs instances du même composant partagent en revanche l'état, puisqu'elles utilisent le même site d'appel. Pour partager les mêmes refs {1}, {2} et {3} entre différents composants, fournissez la même {4} explicite à chaque appel :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

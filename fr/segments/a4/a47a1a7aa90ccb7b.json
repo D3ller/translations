@@ -1,0 +1,14 @@
+{
+  "hash": "a47a1a7aa90ccb7b",
+  "source": "Try as we might, we will never completely eliminate bugs.",
+  "text": "Quoi que nous fassions, nous n'éliminerons jamais complètement les bugs.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Quoi que nous fassions, nous n'éliminerons jamais complètement les bugs."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

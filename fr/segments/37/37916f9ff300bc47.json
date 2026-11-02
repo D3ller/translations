@@ -1,0 +1,14 @@
+{
+  "hash": "37916f9ff300bc47",
+  "source": "Checks if constraints are met for the current Nuxt version. If not, returns an array of messages. Nuxt 2 version also checks for {0} support.",
+  "text": "Vérifie si les contraintes sont respectées pour la version actuelle de Nuxt. Si ce n'est pas le cas, renvoie un tableau de messages. La version Nuxt 2 vérifie également la prise en charge de {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vérifie si les contraintes sont respectées pour la version actuelle de Nuxt. Si ce n'est pas le cas, renvoie un tableau de messages. La version Nuxt 2 vérifie également la prise en charge de {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

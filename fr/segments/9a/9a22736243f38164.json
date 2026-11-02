@@ -1,0 +1,14 @@
+{
+  "hash": "9a22736243f38164",
+  "source": "**Wrap client-only code**: Use {0} component for browser-specific content",
+  "text": "**Encapsulez le code réservé au client** : utilisez le composant {0} pour le contenu spécifique au navigateur",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Encapsulez le code réservé au client** : utilisez le composant {0} pour le contenu spécifique au navigateur"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

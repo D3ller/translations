@@ -1,0 +1,14 @@
+{
+  "hash": "db3f4c57666f6bea",
+  "source": "Test Your Module",
+  "text": "Tester votre module",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Tester votre module"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

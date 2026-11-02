@@ -1,0 +1,14 @@
+{
+  "hash": "018f1f26c06e16f1",
+  "source": "Nuxt Fonts resolves fonts by scanning the CSS your project generates for {0} declarations. A font that's never named in that CSS is never resolved, so no {1} rule is emitted and the browser falls back to a system font.",
+  "text": "Nuxt Fonts résout les polices en analysant le CSS généré par votre projet à la recherche de déclarations {0}. Une police qui n'est jamais nommée dans ce CSS n'est jamais résolue : aucune règle {1} n'est donc émise et le navigateur se rabat sur une police système.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt Fonts résout les polices en analysant le CSS généré par votre projet à la recherche de déclarations {0}. Une police qui n'est jamais nommée dans ce CSS n'est jamais résolue : aucune règle {1} n'est donc émise et le navigateur se rabat sur une police système."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

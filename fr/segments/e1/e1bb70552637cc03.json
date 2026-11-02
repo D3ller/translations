@@ -1,0 +1,14 @@
+{
+  "hash": "e1bb70552637cc03",
+  "source": "Move the {0} call into the body of a {1} handler.",
+  "text": "Déplacez l'appel à {0} dans le corps d'un gestionnaire {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Déplacez l'appel à {0} dans le corps d'un gestionnaire {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

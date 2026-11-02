@@ -1,0 +1,14 @@
+{
+  "hash": "729d676b5f56df25",
+  "source": "The {0} prop is optional. You can pass a positive number to specify the maximum timeout.",
+  "text": "La prop {0} est facultative. Vous pouvez passer un nombre positif pour spécifier le délai maximal.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La prop {0} est facultative. Vous pouvez passer un nombre positif pour spécifier le délai maximal."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

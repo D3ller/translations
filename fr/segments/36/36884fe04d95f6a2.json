@@ -1,0 +1,14 @@
+{
+  "hash": "36884fe04d95f6a2",
+  "source": "{0}: enable spy component setup state (default {1}). See the {2} example above.",
+  "text": "{0} : active l'espionnage de l'état du setup du composant (par défaut {1}). Voir l'exemple {2} ci-dessus.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : active l'espionnage de l'état du setup du composant (par défaut {1}). Voir l'exemple {2} ci-dessus."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

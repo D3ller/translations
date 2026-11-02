@@ -1,0 +1,14 @@
+{
+  "hash": "a63562da89e91a72",
+  "source": "See **Organizing Your Tests** for setup, Vitest projects, and TypeScript context.",
+  "text": "Consultez **Organiser vos tests** pour la configuration, les projets Vitest et le contexte TypeScript.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Consultez **Organiser vos tests** pour la configuration, les projets Vitest et le contexte TypeScript."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

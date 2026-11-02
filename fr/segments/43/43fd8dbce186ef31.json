@@ -1,0 +1,14 @@
+{
+  "hash": "43fd8dbce186ef31",
+  "source": "**description**: force refetch the server component by refetching it.",
+  "text": "**description** : force une nouvelle récupération du composant serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**description** : force une nouvelle récupération du composant serveur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

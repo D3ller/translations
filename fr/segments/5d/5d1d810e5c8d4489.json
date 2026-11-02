@@ -1,0 +1,14 @@
+{
+  "hash": "5d1d810e5c8d4489",
+  "source": "When your module needs to perform one-time setup tasks (like generating configuration files, setting up databases, or installing dependencies), use lifecycle hooks instead of running the logic in your main {0} function.",
+  "text": "Lorsque votre module doit exécuter des tâches de configuration ponctuelles (comme générer des fichiers de configuration, configurer des bases de données ou installer des dépendances), utilisez les hooks de cycle de vie plutôt que d'exécuter cette logique dans votre fonction {0} principale.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque votre module doit exécuter des tâches de configuration ponctuelles (comme générer des fichiers de configuration, configurer des bases de données ou installer des dépendances), utilisez les hooks de cycle de vie plutôt que d'exécuter cette logique dans votre fonction {0} principale."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

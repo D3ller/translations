@@ -1,0 +1,14 @@
+{
+  "hash": "4ffd2c4536d9f718",
+  "source": "Builder File Watcher in Development",
+  "text": "Observateur de fichiers du builder en développement",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Observateur de fichiers du builder en développement"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

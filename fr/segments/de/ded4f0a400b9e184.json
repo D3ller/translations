@@ -1,0 +1,14 @@
+{
+  "hash": "ded4f0a400b9e184",
+  "source": "If you want to use a different file - for example, to use {0} or {1} - you can do so by passing the {2} flag when using the Nuxt CLI.",
+  "text": "Si vous souhaitez utiliser un autre fichier, par exemple {0} ou {1}, vous pouvez le faire en passant l'option {2} lors de l'utilisation de Nuxt CLI.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous souhaitez utiliser un autre fichier, par exemple {0} ou {1}, vous pouvez le faire en passant l'option {2} lors de l'utilisation de Nuxt CLI."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

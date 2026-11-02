@@ -1,0 +1,14 @@
+{
+  "hash": "69b60d6f62f50284",
+  "source": "set {0} within your {1} and keep using {2} extension",
+  "text": "définir {0} dans votre {1} et continuer à utiliser l'extension {2}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "définir {0} dans votre {1} et continuer à utiliser l'extension {2}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

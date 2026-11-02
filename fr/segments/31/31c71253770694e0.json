@@ -1,0 +1,14 @@
+{
+  "hash": "31c71253770694e0",
+  "source": "One smaller change comes with this: PostCSS plugins named in {0} are now resolved by the runtime, so a plugin name that only resolves through a Nuxt {1} entry no longer loads. Use the package name, or a path.",
+  "text": "Un changement mineur s'y ajoute : les plugins PostCSS nommés dans {0} sont désormais résolus par le runtime ; un nom de plugin qui ne se résout que via une entrée {1} de Nuxt n'est donc plus chargé. Utilisez le nom du package ou un chemin.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un changement mineur s'y ajoute : les plugins PostCSS nommés dans {0} sont désormais résolus par le runtime ; un nom de plugin qui ne se résout que via une entrée {1} de Nuxt n'est donc plus chargé. Utilisez le nom du package ou un chemin."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

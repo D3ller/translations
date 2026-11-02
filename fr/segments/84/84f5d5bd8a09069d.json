@@ -1,0 +1,14 @@
+{
+  "hash": "84f5d5bd8a09069d",
+  "source": "{0}: specify a content to be rendered on the server and displayed until {1} is mounted in the browser.",
+  "text": "{0} : spécifie un contenu à afficher sur le serveur et à conserver jusqu'à ce que {1} soit monté dans le navigateur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : spécifie un contenu à afficher sur le serveur et à conserver jusqu'à ce que {1} soit monté dans le navigateur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

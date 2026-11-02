@@ -1,0 +1,14 @@
+{
+  "hash": "314ba3379d8ea1bd",
+  "source": "If you need to configure any of Nuxt's build tools, you can do so in your {0}, using the new top-level {1}, {2} and {3} keys.",
+  "text": "Si vous devez configurer l'un des outils de build de Nuxt, vous pouvez le faire dans votre {0}, à l'aide des nouvelles clés de premier niveau {1}, {2} et {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous devez configurer l'un des outils de build de Nuxt, vous pouvez le faire dans votre {0}, à l'aide des nouvelles clés de premier niveau {1}, {2} et {3}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

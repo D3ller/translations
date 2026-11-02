@@ -1,0 +1,14 @@
+{
+  "hash": "f7b4128d4f5dd31f",
+  "source": "Sets the {0}{1} {2} attribute{/0}.{3}- {4} will set the {5} attribute to {6} for strict same-site enforcement.{7}- {8} will not set the {9} attribute.{10}- {11} will set the {12} attribute to {13} for lax same-site enforcement.{14}- {15} will set the {16} attribute to {17} for an explicit cross-site cookie.{18}- {19} will set the {20} attribute to {21} for strict same-site enforcement.",
+  "text": "Définit {0}l'attribut {1} {2}{/0}.{3}- {4} définit l'attribut {5} à {6} pour une application stricte du same-site.{7}- {8} ne définit pas l'attribut {9}.{10}- {11} définit l'attribut {12} à {13} pour une application souple du same-site.{14}- {15} définit l'attribut {16} à {17} pour un cookie explicitement cross-site.{18}- {19} définit l'attribut {20} à {21} pour une application stricte du same-site.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définit {0}l'attribut {1} {2}{/0}.{3}- {4} définit l'attribut {5} à {6} pour une application stricte du same-site.{7}- {8} ne définit pas l'attribut {9}.{10}- {11} définit l'attribut {12} à {13} pour une application souple du same-site.{14}- {15} définit l'attribut {16} à {17} pour un cookie explicitement cross-site.{18}- {19} définit l'attribut {20} à {21} pour une application stricte du same-site."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

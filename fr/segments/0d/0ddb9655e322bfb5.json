@@ -1,0 +1,14 @@
+{
+  "hash": "0ddb9655e322bfb5",
+  "source": "To upgrade Nuxt to the {0}latest v3 release{/0}, use the {1} command with {2} flag.",
+  "text": "Pour mettre à jour Nuxt vers la {0}dernière version v3{/0}, utilisez la commande {1} avec l'option {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour mettre à jour Nuxt vers la {0}dernière version v3{/0}, utilisez la commande {1} avec l'option {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

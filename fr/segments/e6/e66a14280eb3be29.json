@@ -1,0 +1,14 @@
+{
+  "hash": "e66a14280eb3be29",
+  "source": "Handle file names can be suffixed with {0}, {1}, {2}, {3}, ... to match request's {4}HTTP Method{/4}.",
+  "text": "Les noms de fichiers de gestionnaires peuvent être suffixés avec {0}, {1}, {2}, {3}, ... pour correspondre à la {4}méthode HTTP{/4} de la requête.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les noms de fichiers de gestionnaires peuvent être suffixés avec {0}, {1}, {2}, {3}, ... pour correspondre à la {4}méthode HTTP{/4} de la requête."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

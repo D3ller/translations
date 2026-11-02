@@ -1,0 +1,14 @@
+{
+  "hash": "fa2faa56caf5a445",
+  "source": "... or scan all composables within given directory",
+  "text": "... ou analyser tous les composables du répertoire donné",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "... ou analyser tous les composables du répertoire donné"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

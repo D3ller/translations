@@ -1,0 +1,14 @@
+{
+  "hash": "85a56603213f1e6b",
+  "source": "{0} is one of a number of route helper functions.",
+  "text": "{0} est l'une des nombreuses fonctions helper liées aux routes.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est l'une des nombreuses fonctions helper liées aux routes."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

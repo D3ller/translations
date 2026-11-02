@@ -1,0 +1,14 @@
+{
+  "hash": "98598656e977102c",
+  "source": "The App Build Lifecycle",
+  "text": "Le cycle de vie du build de l'application",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le cycle de vie du build de l'application"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

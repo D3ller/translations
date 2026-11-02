@@ -1,0 +1,14 @@
+{
+  "hash": "ad07ebf4082c3321",
+  "source": "Adding External Scripts and Styles",
+  "text": "Ajouter des scripts et des styles externes",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ajouter des scripts et des styles externes"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

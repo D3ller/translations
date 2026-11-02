@@ -1,0 +1,14 @@
+{
+  "hash": "abb277c196b6d155",
+  "source": "Or any other kind of asset you want to inject in users' Nuxt applications:",
+  "text": "Ou tout autre type de ressource que vous souhaitez injecter dans les applications Nuxt des utilisateurs :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ou tout autre type de ressource que vous souhaitez injecter dans les applications Nuxt des utilisateurs :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "2d7d55d9e4f3695b",
+  "source": "You can explicitly type the mock for type safety, and use the original implementation passed to the factory function when mocking complex functionality.",
+  "text": "Vous pouvez typer explicitement le mock pour assurer la sûreté des types, et utiliser l'implémentation originale transmise à la fonction factory lorsque vous mockez une fonctionnalité complexe.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez typer explicitement le mock pour assurer la sûreté des types, et utiliser l'implémentation originale transmise à la fonction factory lorsque vous mockez une fonctionnalité complexe."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

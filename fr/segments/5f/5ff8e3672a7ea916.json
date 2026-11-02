@@ -1,0 +1,14 @@
+{
+  "hash": "5ff8e3672a7ea916",
+  "source": "**{0}** - Configuration for server-side code (when applicable)",
+  "text": "**{0}** : configuration du code côté serveur (le cas échéant)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** : configuration du code côté serveur (le cas échéant)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "60c678ba08a77e59",
+  "source": "Learn how Nuxt app builders and server builders differ, and how to author either one.",
+  "text": "Découvrez les différences entre les app builders et les server builders de Nuxt, et comment créer l'un ou l'autre.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Découvrez les différences entre les app builders et les server builders de Nuxt, et comment créer l'un ou l'autre."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

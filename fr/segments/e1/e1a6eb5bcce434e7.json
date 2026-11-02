@@ -1,0 +1,14 @@
+{
+  "hash": "e1a6eb5bcce434e7",
+  "source": "Override existing directory",
+  "text": "Écraser le répertoire existant",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Écraser le répertoire existant"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "5156cdf949e49169",
+  "source": "**Head tags registered after the shell flushes become client-side patches.** The renderer waits for the first render pass before flushing the shell, so {0}/{1} called synchronously in {2} (before any {3}), in plugins, or in middleware render into the shell {4} as usual. Tags registered later (after an {5} in setup, or inside a nested {6} boundary) cannot reach the already-sent {7}; they are delivered as inline scripts that patch the DOM on the client.",
+  "text": "**Les balises head enregistrées après l'envoi du shell deviennent des correctifs côté client.** Le moteur de rendu attend la première passe de rendu avant d'envoyer le shell ; ainsi, {0}/{1} appelés de façon synchrone dans {2} (avant tout {3}), dans des plugins ou dans des middleware sont rendus dans le {4} du shell comme d'habitude. Les balises enregistrées plus tard (après un {5} dans setup, ou à l'intérieur d'une frontière {6} imbriquée) ne peuvent pas atteindre le {7} déjà envoyé ; elles sont livrées sous forme de scripts inline qui corrigent le DOM côté client.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Les balises head enregistrées après l'envoi du shell deviennent des correctifs côté client.** Le moteur de rendu attend la première passe de rendu avant d'envoyer le shell ; ainsi, {0}/{1} appelés de façon synchrone dans {2} (avant tout {3}), dans des plugins ou dans des middleware sont rendus dans le {4} du shell comme d'habitude. Les balises enregistrées plus tard (après un {5} dans setup, ou à l'intérieur d'une frontière {6} imbriquée) ne peuvent pas atteindre le {7} déjà envoyé ; elles sont livrées sous forme de scripts inline qui corrigent le DOM côté client."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

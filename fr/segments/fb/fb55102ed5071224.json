@@ -1,0 +1,14 @@
+{
+  "hash": "fb55102ed5071224",
+  "source": "Sending Streams",
+  "text": "Envoi de flux",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Envoi de flux"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

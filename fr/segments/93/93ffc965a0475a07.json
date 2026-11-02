@@ -1,0 +1,14 @@
+{
+  "hash": "93ffc965a0475a07",
+  "source": "Called at setup allowing modules to extend imports.",
+  "text": "Appelé lors de la configuration, pour permettre aux modules d'étendre les imports.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appelé lors de la configuration, pour permettre aux modules d'étendre les imports."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

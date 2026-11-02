@@ -1,0 +1,14 @@
+{
+  "hash": "4b303f2e2e787b9f",
+  "source": "If you are using {0} or {1} you will need to make sure {2} or {3} is explicitly installed in your project.",
+  "text": "Si vous utilisez {0} ou {1}, vous devrez vous assurer que {2} ou {3} est explicitement installé dans votre projet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous utilisez {0} ou {1}, vous devrez vous assurer que {2} ou {3} est explicitement installé dans votre projet."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

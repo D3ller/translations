@@ -1,0 +1,14 @@
+{
+  "hash": "309bcd27f1acbfb3",
+  "source": "The {0} command starts a server to preview your Nuxt application after running the {1} command. The {2} command is an alias for {3}. When running your application in production refer to the {4}Deployment section{/4}.",
+  "text": "La commande {0} démarre un serveur pour prévisualiser votre application Nuxt après l'exécution de la commande {1}. La commande {2} est un alias de {3}. Pour exécuter votre application en production, consultez la {4}section Déploiement{/4}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La commande {0} démarre un serveur pour prévisualiser votre application Nuxt après l'exécution de la commande {1}. La commande {2} est un alias de {3}. Pour exécuter votre application en production, consultez la {4}section Déploiement{/4}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

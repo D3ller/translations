@@ -1,0 +1,14 @@
+{
+  "hash": "d2be294ab7524675",
+  "source": "Due to {0} being a reserved prop, {1} prop is used instead.",
+  "text": "Comme {0} est une prop réservée, la prop {1} est utilisée à la place.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Comme {0} est une prop réservée, la prop {1} est utilisée à la place."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

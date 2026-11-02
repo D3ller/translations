@@ -1,0 +1,14 @@
+{
+  "hash": "486ffb9981e89816",
+  "source": "ignore layout foo.vue",
+  "text": "ignore le layout foo.vue",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "ignore le layout foo.vue"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

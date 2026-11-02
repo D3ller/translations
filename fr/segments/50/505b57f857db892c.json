@@ -1,0 +1,14 @@
+{
+  "hash": "505b57f857db892c",
+  "source": "Install Nuxt Bridge",
+  "text": "Installer Nuxt Bridge",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Installer Nuxt Bridge"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

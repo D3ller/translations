@@ -1,0 +1,14 @@
+{
+  "hash": "233e098535d46f55",
+  "source": "*Explain what your objective is, not just the problem you're facing.* \"I need to ensure my form inputs are accessible, so I'm trying to get the ids to match between server and client.\"",
+  "text": "*Expliquez quel est votre objectif, pas seulement le problème auquel vous êtes confronté.* « J'ai besoin de m'assurer que les champs de mon formulaire sont accessibles, donc j'essaie de faire correspondre les ids entre le serveur et le client. »",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "*Expliquez quel est votre objectif, pas seulement le problème auquel vous êtes confronté.* « J'ai besoin de m'assurer que les champs de mon formulaire sont accessibles, donc j'essaie de faire correspondre les ids entre le serveur et le client. »"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "a62b1f0ecc487854",
+  "source": "**Route rule helpers**: {0} route rules are replaced by middleware, and a new {1} rule replaces manual CORS wiring. See the {2}Nitro migration guide{/2} for the runtime details.",
+  "text": "**Helpers de règles de route** : les règles de route {0} sont remplacées par des middleware, et une nouvelle règle {1} remplace le câblage manuel du CORS. Consultez le {2}guide de migration de Nitro{/2} pour les détails d'exécution.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Helpers de règles de route** : les règles de route {0} sont remplacées par des middleware, et une nouvelle règle {1} remplace le câblage manuel du CORS. Consultez le {2}guide de migration de Nitro{/2} pour les détails d'exécution."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

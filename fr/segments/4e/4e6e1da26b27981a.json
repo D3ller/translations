@@ -1,0 +1,14 @@
+{
+  "hash": "4e6e1da26b27981a",
+  "source": "This version is not maintained any more and will not receive security patches",
+  "text": "Cette version n'est plus maintenue et ne recevra pas de correctifs de sécurité",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cette version n'est plus maintenue et ne recevra pas de correctifs de sécurité"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

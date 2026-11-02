@@ -1,0 +1,14 @@
+{
+  "hash": "06e0045ed6eac2cb",
+  "source": "When you're working with the {0} function in Nuxt modules, Nuxt is already provided as the second argument. This means you can access it directly without needing to call {1}.",
+  "text": "Lorsque vous utilisez la fonction {0} dans les modules Nuxt, Nuxt est déjà fourni en second argument. Cela signifie que vous pouvez y accéder directement, sans avoir besoin d'appeler {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque vous utilisez la fonction {0} dans les modules Nuxt, Nuxt est déjà fourni en second argument. Cela signifie que vous pouvez y accéder directement, sans avoir besoin d'appeler {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

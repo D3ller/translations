@@ -1,0 +1,14 @@
+{
+  "hash": "115f7dfb058ea817",
+  "source": "Each test can be run from different locations around the world, on real browsers, over any number of customizable network conditions.",
+  "text": "Chaque test peut être exécuté depuis différents endroits du monde, sur de vrais navigateurs, avec un nombre quelconque de conditions réseau personnalisables.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Chaque test peut être exécuté depuis différents endroits du monde, sur de vrais navigateurs, avec un nombre quelconque de conditions réseau personnalisables."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "77f0a300d409cdeb",
+  "source": "{0} is no longer checked as a fallback. Only the internal {1} (set by Nuxt's own router composable) is used.",
+  "text": "{0} n'est plus vérifié comme solution de repli. Seul {1} interne (défini par le composable de routeur de Nuxt) est utilisé.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} n'est plus vérifié comme solution de repli. Seul {1} interne (défini par le composable de routeur de Nuxt) est utilisé."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

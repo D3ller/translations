@@ -1,0 +1,14 @@
+{
+  "hash": "47605bac54023e5b",
+  "source": "Example: Nested Routes and {0}",
+  "text": "Exemple : routes imbriquées et {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Exemple : routes imbriquées et {0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

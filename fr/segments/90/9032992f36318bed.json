@@ -1,0 +1,14 @@
+{
+  "hash": "9032992f36318bed",
+  "source": "A {0}{1} route rule{/0} covering the path advertises its {2} as {3} on GET/HEAD misses too, letting a CDN absorb repeat requests for unknown paths.",
+  "text": "Une {0}règle de route {1}{/0} couvrant le chemin annonce également son {2} comme {3} pour les requêtes GET/HEAD sans correspondance, ce qui permet à un CDN d'absorber les requêtes répétées vers des chemins inconnus.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une {0}règle de route {1}{/0} couvrant le chemin annonce également son {2} comme {3} pour les requêtes GET/HEAD sans correspondance, ce qui permet à un CDN d'absorber les requêtes répétées vers des chemins inconnus."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

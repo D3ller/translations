@@ -1,0 +1,14 @@
+{
+  "hash": "763838e61fc6092d",
+  "source": "After mounting the Vue application, Nuxt calls the {0} hook.",
+  "text": "Après le montage de l'application Vue, Nuxt appelle le hook {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Après le montage de l'application Vue, Nuxt appelle le hook {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

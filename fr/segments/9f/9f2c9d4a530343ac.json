@@ -1,0 +1,14 @@
+{
+  "hash": "9f2c9d4a530343ac",
+  "source": "With {0}, the prompt also offers to open the running server in your browser without stopping it, which is the default when that server was started in a terminal. {1} is resolved against the running server's URL.",
+  "text": "Avec {0}, l'invite propose aussi d'ouvrir le serveur en cours d'exécution dans votre navigateur sans l'arrêter, ce qui est le choix par défaut lorsque ce serveur a été démarré dans un terminal. {1} est résolu par rapport à l'URL du serveur en cours d'exécution.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Avec {0}, l'invite propose aussi d'ouvrir le serveur en cours d'exécution dans votre navigateur sans l'arrêter, ce qui est le choix par défaut lorsque ce serveur a été démarré dans un terminal. {1} est résolu par rapport à l'URL du serveur en cours d'exécution."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

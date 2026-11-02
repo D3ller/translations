@@ -1,0 +1,14 @@
+{
+  "hash": "1129df7983af216b",
+  "source": "Only {0}, {1}, {2}, and {3} are scanned.",
+  "text": "Seuls {0}, {1}, {2} et {3} sont analysés.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Seuls {0}, {1}, {2} et {3} sont analysés."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

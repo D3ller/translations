@@ -1,0 +1,14 @@
+{
+  "hash": "6a9d9da4f04e65da",
+  "source": "During SSR data is fetched only on the server side and transferred to the client.",
+  "text": "Pendant le SSR, les données sont récupérées uniquement côté serveur, puis transférées au client.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pendant le SSR, les données sont récupérées uniquement côté serveur, puis transférées au client."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

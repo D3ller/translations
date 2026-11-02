@@ -1,0 +1,14 @@
+{
+  "hash": "486e1b3ea7e8e3d1",
+  "source": "A single route can render into multiple {0} outlets in a parent component by giving each outlet a {1} and providing a sibling page file for each name.",
+  "text": "Une même route peut s'afficher dans plusieurs points de sortie {0} d'un composant parent, en donnant un {1} à chaque point de sortie et en fournissant un fichier de page voisin pour chaque nom.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une même route peut s'afficher dans plusieurs points de sortie {0} d'un composant parent, en donnant un {1} à chaque point de sortie et en fournissant un fichier de page voisin pour chaque nom."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "95bcb02d0f5c4ea1",
+  "source": "**Solution**: Use concepts such as {0}, {1}, {2}, etc to improve performance.",
+  "text": "**Solution** : Utilisez des concepts tels que {0}, {1}, {2}, etc. pour améliorer les performances.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Solution** : Utilisez des concepts tels que {0}, {1}, {2}, etc. pour améliorer les performances."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

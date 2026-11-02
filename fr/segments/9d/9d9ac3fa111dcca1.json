@@ -1,0 +1,14 @@
+{
+  "hash": "9d9ac3fa111dcca1",
+  "source": "**{0}** runs only once when the module is first added to a project.",
+  "text": "**{0}** ne s'exécute qu'une seule fois, lorsque le module est ajouté pour la première fois à un projet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** ne s'exécute qu'une seule fois, lorsque le module est ajouté pour la première fois à un projet."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "e2cf43160fc426a7",
+  "source": "{0} function is useful for adding custom logic by hooking into the rendering lifecycle at a specific point. {1} function is mostly used when creating Nuxt plugins.",
+  "text": "La fonction {0} est utile pour ajouter une logique personnalisée en se branchant sur le cycle de vie du rendu à un moment précis. La fonction {1} est surtout utilisée lors de la création de plugins Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La fonction {0} est utile pour ajouter une logique personnalisée en se branchant sur le cycle de vie du rendu à un moment précis. La fonction {1} est surtout utilisée lors de la création de plugins Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

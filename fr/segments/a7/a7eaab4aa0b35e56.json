@@ -1,0 +1,14 @@
+{
+  "hash": "a7eaab4aa0b35e56",
+  "source": "{0}: Event emitted when a child triggers an error in SSR. Note that this will only be triggered on the server.",
+  "text": "{0} : événement émis lorsqu'un enfant déclenche une erreur lors du SSR. Notez que cet événement n'est déclenché que sur le serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : événement émis lorsqu'un enfant déclenche une erreur lors du SSR. Notez que cet événement n'est déclenché que sur le serveur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

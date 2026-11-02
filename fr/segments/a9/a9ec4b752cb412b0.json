@@ -1,0 +1,14 @@
+{
+  "hash": "a9ec4b752cb412b0",
+  "source": "{0}: an asynchronous function that must return a truthy value (for example, it should not be {1} or {2}) or the request may be duplicated on the client side.",
+  "text": "{0} : une fonction asynchrone qui doit renvoyer une valeur truthy (par exemple, elle ne doit pas être {1} ni {2}), faute de quoi la requête risque d'être dupliquée côté client.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : une fonction asynchrone qui doit renvoyer une valeur truthy (par exemple, elle ne doit pas être {1} ni {2}), faute de quoi la requête risque d'être dupliquée côté client."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

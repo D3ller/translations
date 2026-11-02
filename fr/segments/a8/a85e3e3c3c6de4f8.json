@@ -1,0 +1,14 @@
+{
+  "hash": "a85e3e3c3c6de4f8",
+  "source": "A family that cannot be found by any provider still warns rather than failing, as does an unknown provider name, so fonts you declare yourself in CSS are unaffected.",
+  "text": "Une famille introuvable chez tous les fournisseurs produit toujours un avertissement au lieu d'échouer, tout comme un nom de fournisseur inconnu ; les polices que vous déclarez vous-même dans le CSS ne sont donc pas affectées.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une famille introuvable chez tous les fournisseurs produit toujours un avertissement au lieu d'échouer, tout comme un nom de fournisseur inconnu ; les polices que vous déclarez vous-même dans le CSS ne sont donc pas affectées."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

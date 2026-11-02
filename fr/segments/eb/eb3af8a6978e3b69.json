@@ -1,0 +1,14 @@
+{
+  "hash": "eb3af8a6978e3b69",
+  "source": "Nitro only scans your {0} directory when tasks are enabled, so a server with none exposed may just need this:",
+  "text": "Nitro n'analyse votre répertoire {0} que lorsque les tâches sont activées. Un serveur sans aucune tâche exposée peut donc simplement avoir besoin de ceci :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nitro n'analyse votre répertoire {0} que lorsque les tâches sont activées. Un serveur sans aucune tâche exposée peut donc simplement avoir besoin de ceci :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

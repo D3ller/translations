@@ -1,0 +1,14 @@
+{
+  "hash": "ea21e943277a2940",
+  "source": "You can now configure whether font resolution errors should throw or just warn:",
+  "text": "Vous pouvez désormais configurer si les erreurs de résolution des polices doivent lever une exception ou simplement afficher un avertissement :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez désormais configurer si les erreurs de résolution des polices doivent lever une exception ou simplement afficher un avertissement :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

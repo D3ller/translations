@@ -1,0 +1,14 @@
+{
+  "hash": "56707aafb41bd874",
+  "source": "When not using {0}, {1} supports all Vue Router's {2}{3} props{/2}",
+  "text": "Lorsque {0} n'est pas utilisé, {1} prend en charge toutes les {2}props de {3}{/2} de Vue Router",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque {0} n'est pas utilisé, {1} prend en charge toutes les {2}props de {3}{/2} de Vue Router"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

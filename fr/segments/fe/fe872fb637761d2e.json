@@ -1,0 +1,14 @@
+{
+  "hash": "fe872fb637761d2e",
+  "source": "{0} runs {1}Golar{/1} instead of {2}, and a {3} file in your project makes it the default. A config file is written for you if one is missing.",
+  "text": "{0} exécute {1}Golar{/1} au lieu de {2}, et la présence d'un fichier {3} dans votre projet en fait le choix par défaut. Un fichier de configuration est créé pour vous s'il est absent.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} exécute {1}Golar{/1} au lieu de {2}, et la présence d'un fichier {3} dans votre projet en fait le choix par défaut. Un fichier de configuration est créé pour vous s'il est absent."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

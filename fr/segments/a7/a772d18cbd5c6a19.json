@@ -1,0 +1,14 @@
+{
+  "hash": "a772d18cbd5c6a19",
+  "source": "This is important to understand since pages that are not linked to a discoverable page can't be pre-rendered automatically.",
+  "text": "Il est important de comprendre cela, car les pages qui ne sont liées depuis aucune page découvrable ne peuvent pas être prérendues automatiquement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Il est important de comprendre cela, car les pages qui ne sont liées depuis aucune page découvrable ne peuvent pas être prérendues automatiquement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

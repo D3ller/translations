@@ -1,0 +1,14 @@
+{
+  "hash": "06a4bcb035a352e9",
+  "source": "Then extend from it by package name:",
+  "text": "Étendez-le ensuite par son nom de package :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Étendez-le ensuite par son nom de package :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

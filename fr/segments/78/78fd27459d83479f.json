@@ -1,0 +1,14 @@
+{
+  "hash": "78fd27459d83479f",
+  "source": "Specify which template to generate",
+  "text": "Spécifiez le template à générer",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Spécifiez le template à générer"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

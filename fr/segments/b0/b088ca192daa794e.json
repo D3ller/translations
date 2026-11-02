@@ -1,0 +1,14 @@
+{
+  "hash": "b088ca192daa794e",
+  "source": "Requests without an {0} header (API clients, most scanners) receive a JSON error without loading the app at all, unless {1} is {2}. HTML requests still server-render the error page. A {3}{4} route rule{/3} covering the path advertises its {5} as {6} on GET/HEAD misses too, letting a CDN absorb repeat requests for unknown paths.",
+  "text": "Les requêtes sans en-tête {0} (clients d'API, la plupart des scanners) reçoivent une erreur JSON sans charger l'application du tout, sauf si {1} vaut {2}. Les requêtes HTML effectuent toujours le rendu serveur de la page d'erreur. Une {3}règle de route {4}{/3} couvrant le chemin annonce aussi son {5} comme {6} sur les échecs GET/HEAD, ce qui permet à un CDN d'absorber les requêtes répétées pour des chemins inconnus.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les requêtes sans en-tête {0} (clients d'API, la plupart des scanners) reçoivent une erreur JSON sans charger l'application du tout, sauf si {1} vaut {2}. Les requêtes HTML effectuent toujours le rendu serveur de la page d'erreur. Une {3}règle de route {4}{/3} couvrant le chemin annonce aussi son {5} comme {6} sur les échecs GET/HEAD, ce qui permet à un CDN d'absorber les requêtes répétées pour des chemins inconnus."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

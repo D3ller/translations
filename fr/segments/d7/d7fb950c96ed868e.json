@@ -1,0 +1,14 @@
+{
+  "hash": "d7fb950c96ed868e",
+  "source": "To use the release script, first, commit all your changes (we recommend you follow {0}Conventional Commits{/0} to also take advantage of automatic version bump and changelog update), then run the release script with {1}.",
+  "text": "Pour utiliser le script de release, commencez par committer tous vos changements (nous vous recommandons de suivre les {0}Conventional Commits{/0} afin de profiter aussi de l'incrémentation automatique de la version et de la mise à jour du changelog), puis lancez le script de release avec {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour utiliser le script de release, commencez par committer tous vos changements (nous vous recommandons de suivre les {0}Conventional Commits{/0} afin de profiter aussi de l'incrémentation automatique de la version et de la mise à jour du changelog), puis lancez le script de release avec {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

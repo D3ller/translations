@@ -1,0 +1,14 @@
+{
+  "hash": "6772634dc87ff891",
+  "source": "Nuxt server will automatically register corresponding middleware and wrap routes with cache handlers using Nitro caching layer.",
+  "text": "Le serveur Nuxt enregistrera automatiquement les middleware correspondants et enveloppera les routes avec des gestionnaires de cache en utilisant la couche de cache de Nitro.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le serveur Nuxt enregistrera automatiquement les middleware correspondants et enveloppera les routes avec des gestionnaires de cache en utilisant la couche de cache de Nitro."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

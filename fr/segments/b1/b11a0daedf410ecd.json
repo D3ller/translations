@@ -1,0 +1,14 @@
+{
+  "hash": "b11a0daedf410ecd",
+  "source": "See how to register one handler per server API, and what the Nitro v2 compatibility layer does for a module that hasn't migrated.",
+  "text": "Découvrez comment enregistrer un handler par API serveur, et ce que fait la couche de compatibilité Nitro v2 pour un module qui n'a pas été migré.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Découvrez comment enregistrer un handler par API serveur, et ce que fait la couche de compatibilité Nitro v2 pour un module qui n'a pas été migré."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

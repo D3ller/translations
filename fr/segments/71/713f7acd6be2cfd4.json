@@ -1,0 +1,14 @@
+{
+  "hash": "713f7acd6be2cfd4",
+  "source": "{0}Docker Desktop{/0} or {1}Docker Engine{/1}",
+  "text": "{0}Docker Desktop{/0} ou {1}Docker Engine{/1}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}Docker Desktop{/0} ou {1}Docker Engine{/1}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

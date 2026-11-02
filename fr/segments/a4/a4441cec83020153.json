@@ -1,0 +1,14 @@
+{
+  "hash": "a4441cec83020153",
+  "source": "Enable reactive destructure for {0}",
+  "text": "Active la déstructuration réactive pour {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Active la déstructuration réactive pour {0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

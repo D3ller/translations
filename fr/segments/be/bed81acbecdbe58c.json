@@ -1,0 +1,14 @@
+{
+  "hash": "bed81acbecdbe58c",
+  "source": "Set {0} to restore the previous behaviour.",
+  "text": "Définissez {0} pour rétablir le comportement précédent.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définissez {0} pour rétablir le comportement précédent."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

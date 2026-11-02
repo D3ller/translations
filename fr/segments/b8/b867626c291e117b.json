@@ -1,0 +1,14 @@
+{
+  "hash": "b867626c291e117b",
+  "source": "**Nuxt modules** are functions that sequentially run when starting Nuxt in development mode using {0} or building a project for production with {1}. With modules, you can encapsulate, properly test, and share custom solutions as npm packages without adding unnecessary boilerplate to your project, or requiring changes to Nuxt itself.",
+  "text": "Les **modules Nuxt** sont des fonctions qui s'exécutent séquentiellement lors du démarrage de Nuxt en mode développement avec {0} ou lors de la construction d'un projet pour la production avec {1}. Grâce aux modules, vous pouvez encapsuler, tester correctement et partager des solutions personnalisées sous forme de packages npm, sans ajouter de code superflu à votre projet ni nécessiter de modifications dans Nuxt lui-même.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les **modules Nuxt** sont des fonctions qui s'exécutent séquentiellement lors du démarrage de Nuxt en mode développement avec {0} ou lors de la construction d'un projet pour la production avec {1}. Grâce aux modules, vous pouvez encapsuler, tester correctement et partager des solutions personnalisées sous forme de packages npm, sans ajouter de code superflu à votre projet ni nécessiter de modifications dans Nuxt lui-même."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "a7c8b19fb78be2a4",
+  "source": "For ISR/SWR routes, CDNs can cache payload files alongside the HTML, improving client-side navigation performance for cached routes. Dynamic routes like {0} can opt in with glob patterns such as {1}.",
+  "text": "Pour les routes ISR/SWR, les CDN peuvent mettre en cache les fichiers de payload à côté du HTML, ce qui améliore les performances de la navigation côté client pour les routes en cache. Les routes dynamiques comme {0} peuvent être incluses avec des motifs glob tels que {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour les routes ISR/SWR, les CDN peuvent mettre en cache les fichiers de payload à côté du HTML, ce qui améliore les performances de la navigation côté client pour les routes en cache. Les routes dynamiques comme {0} peuvent être incluses avec des motifs glob tels que {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

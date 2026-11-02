@@ -1,0 +1,14 @@
+{
+  "hash": "dec3de8f86cbadb6",
+  "source": "To enable type-checking at build or development time, install {0} and {1} as development dependency:",
+  "text": "Pour activer la vérification des types au moment du build ou du développement, installez {0} et {1} en tant que dépendance de développement :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour activer la vérification des types au moment du build ou du développement, installez {0} et {1} en tant que dépendance de développement :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "2ea88a00834b1f22",
+  "source": "You can define the {0}{1} option{/0} to specify headers that will be considered when caching and serving the responses, such as {2} and {3} for multi-tenant environments.",
+  "text": "Vous pouvez définir l'{0}option {1}{/0} pour indiquer les en-têtes qui seront pris en compte lors de la mise en cache et de la distribution des réponses, comme {2} et {3} pour les environnements multi-tenant.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez définir l'{0}option {1}{/0} pour indiquer les en-têtes qui seront pris en compte lors de la mise en cache et de la distribution des réponses, comme {2} et {3} pour les environnements multi-tenant."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

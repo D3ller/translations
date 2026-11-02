@@ -1,0 +1,14 @@
+{
+  "hash": "4a499ac5358b4375",
+  "source": "Called after the schema is written.",
+  "text": "Appelé après l'écriture du schéma.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appelé après l'écriture du schéma."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

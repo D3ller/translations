@@ -1,0 +1,14 @@
+{
+  "hash": "f7496426728fedd7",
+  "source": "... plus more font-face declarations for other unicode ranges/weights",
+  "text": "... plus d'autres déclarations font-face pour d'autres plages unicode/graisses",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "... plus d'autres déclarations font-face pour d'autres plages unicode/graisses"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "1d3307121b0bb261",
+  "source": "In your {0}, rename {1} to {2}. Consider moving this shared meta configuration into your {3} instead. (Note that objects no longer have a {4} key for deduplication.)",
+  "text": "Dans votre {0}, renommez {1} en {2}. Envisagez plutôt de déplacer cette configuration meta partagée dans votre {3}. (Notez que les objets n'ont plus de clé {4} pour la déduplication.)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans votre {0}, renommez {1} en {2}. Envisagez plutôt de déplacer cette configuration meta partagée dans votre {3}. (Notez que les objets n'ont plus de clé {4} pour la déduplication.)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

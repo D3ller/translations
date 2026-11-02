@@ -1,0 +1,14 @@
+{
+  "hash": "b57085f04c15efa6",
+  "source": "Nuxt looks for {0} in the {1} directory (more precisely, the {2} directory) of your project and of each {3}layer{/3}.",
+  "text": "Nuxt recherche {0} dans le répertoire {1} (plus précisément, le répertoire {2}) de votre projet et de chaque {3}layer (couche){/3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt recherche {0} dans le répertoire {1} (plus précisément, le répertoire {2}) de votre projet et de chaque {3}layer (couche){/3}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

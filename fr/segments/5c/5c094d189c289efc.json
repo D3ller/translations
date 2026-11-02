@@ -1,0 +1,14 @@
+{
+  "hash": "5c094d189c289efc",
+  "source": "Currently, these values won't be respected when type checking ({0}), but you should get better type hints in your IDE.",
+  "text": "Actuellement, ces valeurs ne seront pas prises en compte lors de la vérification des types ({0}), mais vous devriez obtenir de meilleures indications de type dans votre IDE.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Actuellement, ces valeurs ne seront pas prises en compte lors de la vérification des types ({0}), mais vous devriez obtenir de meilleures indications de type dans votre IDE."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

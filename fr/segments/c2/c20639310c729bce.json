@@ -1,0 +1,14 @@
+{
+  "hash": "c20639310c729bce",
+  "source": "From Nuxt 4.6, pass {0} to describe the API a composable calls. Its responses, query parameters, and request bodies are typed from that route set, including when {1} is off:",
+  "text": "À partir de Nuxt 4.6, passez {0} pour décrire l'API appelée par un composable. Ses réponses, ses paramètres de requête et ses corps de requête sont typés à partir de cet ensemble de routes, y compris lorsque {1} est désactivé :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "À partir de Nuxt 4.6, passez {0} pour décrire l'API appelée par un composable. Ses réponses, ses paramètres de requête et ses corps de requête sont typés à partir de cet ensemble de routes, y compris lorsque {1} est désactivé :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

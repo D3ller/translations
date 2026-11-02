@@ -1,0 +1,14 @@
+{
+  "hash": "e812d48a0af004c7",
+  "source": "{0} and {1} serve a variable font when the family has one. Google Fonts narrows it to the requested range; Fontsource serves the family's full weight axis.",
+  "text": "{0} et {1} servent une police variable lorsque la famille en possède une. Google Fonts la restreint à la plage demandée ; Fontsource sert l'axe de graisse complet de la famille.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} et {1} servent une police variable lorsque la famille en possède une. Google Fonts la restreint à la plage demandée ; Fontsource sert l'axe de graisse complet de la famille."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

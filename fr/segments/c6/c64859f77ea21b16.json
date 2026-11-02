@@ -1,0 +1,14 @@
+{
+  "hash": "c64859f77ea21b16",
+  "source": "A read-only computed ref resolving to the layout name (a {0}), or {1} when the layout is disabled.",
+  "text": "Une ref calculée en lecture seule qui renvoie le nom du layout (un {0}), ou {1} lorsque le layout est désactivé.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une ref calculée en lecture seule qui renvoie le nom du layout (un {0}), ou {1} lorsque le layout est désactivé."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

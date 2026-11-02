@@ -1,0 +1,14 @@
+{
+  "hash": "b1e2fbf56a3bca73",
+  "source": "If you don't need your state to be deeply reactive, you can combine {0} with {1}. This can improve performance when your state contains large objects and arrays.",
+  "text": "Si vous n'avez pas besoin que votre état soit profondément réactif, vous pouvez combiner {0} avec {1}. Cela peut améliorer les performances lorsque votre état contient de gros objets et tableaux.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous n'avez pas besoin que votre état soit profondément réactif, vous pouvez combiner {0} avec {1}. Cela peut améliorer les performances lorsque votre état contient de gros objets et tableaux."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

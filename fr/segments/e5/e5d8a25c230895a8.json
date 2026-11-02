@@ -1,0 +1,14 @@
+{
+  "hash": "e5d8a25c230895a8",
+  "source": "A {0}, sent with its own status. Headers set on {1} are sent with it, and {2} values from both are kept.",
+  "text": "Un {0}, envoyé avec son propre statut. Les en-têtes définis sur {1} sont envoyés avec lui, et les valeurs de {2} des deux sont conservées.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un {0}, envoyé avec son propre statut. Les en-têtes définis sur {1} sont envoyés avec lui, et les valeurs de {2} des deux sont conservées."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

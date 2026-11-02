@@ -1,0 +1,14 @@
+{
+  "hash": "acaab9f2533151cd",
+  "source": "**{0}** fires once per request before rendering begins, for every render (streaming enabled or not). Read {1} to see whether streaming is possible for the route, and set {2} to force buffered rendering for this request, e.g. based on a cookie, auth state, or A/B bucket. The renderer streams only when {3}. This is the runtime escape hatch for the static {4} / {5} config.",
+  "text": "**{0}** est déclenché une fois par requête avant le début du rendu, pour chaque rendu (streaming activé ou non). Lisez {1} pour savoir si le streaming est possible pour la route, et définissez {2} pour forcer le rendu avec buffer pour cette requête, par exemple selon un cookie, un état d'authentification ou un groupe de test A/B. Le moteur de rendu ne fait du streaming que si {3}. C'est l'échappatoire à l'exécution pour la configuration statique {4} / {5}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** est déclenché une fois par requête avant le début du rendu, pour chaque rendu (streaming activé ou non). Lisez {1} pour savoir si le streaming est possible pour la route, et définissez {2} pour forcer le rendu avec buffer pour cette requête, par exemple selon un cookie, un état d'authentification ou un groupe de test A/B. Le moteur de rendu ne fait du streaming que si {3}. C'est l'échappatoire à l'exécution pour la configuration statique {4} / {5}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

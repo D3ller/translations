@@ -1,0 +1,14 @@
+{
+  "hash": "1cb4ae4bb3267622",
+  "source": "You can disable this feature if needed.",
+  "text": "Vous pouvez désactiver cette fonctionnalité si nécessaire.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez désactiver cette fonctionnalité si nécessaire."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

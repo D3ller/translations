@@ -1,0 +1,14 @@
+{
+  "hash": "5de2320cc74efa8e",
+  "source": "Errors downloading JS chunks",
+  "text": "Les erreurs de téléchargement des chunks JS",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les erreurs de téléchargement des chunks JS"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

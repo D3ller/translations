@@ -1,0 +1,14 @@
+{
+  "hash": "8c2c78b5951fbd90",
+  "source": "Nuxt Kit provides a set of utilities to help you resolve paths. These functions allow you to resolve paths relative to the current module, with unknown name or extension.",
+  "text": "Nuxt Kit fournit un ensemble d'utilitaires pour vous aider à résoudre des chemins. Ces fonctions vous permettent de résoudre des chemins relatifs au module courant, dont le nom ou l'extension sont inconnus.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt Kit fournit un ensemble d'utilitaires pour vous aider à résoudre des chemins. Ces fonctions vous permettent de résoudre des chemins relatifs au module courant, dont le nom ou l'extension sont inconnus."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "f06bb44b0aaf9846",
+  "source": "These areas mean reaching outside {0}, because Nuxt can't provide them for every builder:",
+  "text": "Ces domaines impliquent de sortir de {0}, car Nuxt ne peut pas les fournir pour tous les builders :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ces domaines impliquent de sortir de {0}, car Nuxt ne peut pas les fournir pour tous les builders :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "b50d891d7f123c78",
+  "source": "{0} returns a wrapper function with the lower level {1} module signature. This wrapper function applies defaults and other necessary steps before calling your {2} function:",
+  "text": "{0} retourne une fonction wrapper avec la signature de module {1} de plus bas niveau. Cette fonction wrapper applique les valeurs par défaut et d'autres étapes nécessaires avant d'appeler votre fonction {2} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} retourne une fonction wrapper avec la signature de module {1} de plus bas niveau. Cette fonction wrapper applique les valeurs par défaut et d'autres étapes nécessaires avant d'appeler votre fonction {2} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

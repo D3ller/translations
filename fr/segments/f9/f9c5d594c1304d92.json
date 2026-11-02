@@ -1,0 +1,14 @@
+{
+  "hash": "f9c5d594c1304d92",
+  "source": "The Event",
+  "text": "L'événement",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'événement"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

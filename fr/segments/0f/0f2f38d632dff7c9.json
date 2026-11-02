@@ -1,0 +1,14 @@
+{
+  "hash": "0f2f38d632dff7c9",
+  "source": "this server util is auto-imported by the auth-utils module",
+  "text": "cet utilitaire serveur est importé automatiquement par le module auth-utils",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "cet utilitaire serveur est importé automatiquement par le module auth-utils"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "a13cbb7a829e1d28",
+  "source": "TypeScript reports all of these for you as {0}.",
+  "text": "TypeScript signale tous ces cas pour vous avec {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "TypeScript signale tous ces cas pour vous avec {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

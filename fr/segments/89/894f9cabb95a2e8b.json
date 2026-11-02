@@ -1,0 +1,14 @@
+{
+  "hash": "894f9cabb95a2e8b",
+  "source": "The {0} interface in {1} declares the contract:",
+  "text": "L'interface {0} dans {1} déclare le contrat :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'interface {0} dans {1} déclare le contrat :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

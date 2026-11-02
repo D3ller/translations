@@ -1,0 +1,14 @@
+{
+  "hash": "758b0e946588dedf",
+  "source": "It may be beneficial to extract any calls to {0} that share an explicit key (and have custom options) into their own composable:",
+  "text": "Il peut être judicieux d'extraire dans leur propre composable tous les appels à {0} qui partagent une clé explicite (et ont des options personnalisées) :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Il peut être judicieux d'extraire dans leur propre composable tous les appels à {0} qui partagent une clé explicite (et ont des options personnalisées) :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

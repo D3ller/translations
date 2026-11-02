@@ -1,0 +1,14 @@
+{
+  "hash": "86f72e6951a77bcc",
+  "source": "Then you can see your preview page by adding the query param {0} to the end of the page you want to see once, for example {1}.",
+  "text": "Vous pouvez ensuite voir votre page de prévisualisation en ajoutant le paramètre de requête {0} à la fin de l'URL de la page que vous souhaitez consulter une fois, par exemple {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez ensuite voir votre page de prévisualisation en ajoutant le paramètre de requête {0} à la fin de l'URL de la page que vous souhaitez consulter une fois, par exemple {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

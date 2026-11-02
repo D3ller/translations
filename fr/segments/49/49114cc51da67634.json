@@ -1,0 +1,14 @@
+{
+  "hash": "49114cc51da67634",
+  "source": "Any server builder, from Nuxt 4.6",
+  "text": "Tout builder serveur, à partir de Nuxt 4.6",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Tout builder serveur, à partir de Nuxt 4.6"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

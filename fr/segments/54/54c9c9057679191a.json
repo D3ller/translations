@@ -1,0 +1,14 @@
+{
+  "hash": "54c9c9057679191a",
+  "source": "Windsurf can directly access the Nuxt LLMs.txt files to understand framework usage and best practices.",
+  "text": "Windsurf peut accéder directement aux fichiers LLMs.txt de Nuxt pour comprendre l'utilisation du framework et les bonnes pratiques.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Windsurf peut accéder directement aux fichiers LLMs.txt de Nuxt pour comprendre l'utilisation du framework et les bonnes pratiques."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

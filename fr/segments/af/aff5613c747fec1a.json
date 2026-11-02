@@ -1,0 +1,14 @@
+{
+  "hash": "aff5613c747fec1a",
+  "source": "If a component is meant to be rendered only client-side, you can add the {0} suffix to your component.",
+  "text": "Si un composant est destiné à être rendu uniquement côté client, vous pouvez ajouter le suffixe {0} à votre composant.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si un composant est destiné à être rendu uniquement côté client, vous pouvez ajouter le suffixe {0} à votre composant."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

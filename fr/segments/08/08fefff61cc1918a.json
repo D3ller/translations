@@ -1,0 +1,14 @@
+{
+  "hash": "08fefff61cc1918a",
+  "source": "Call your hook in {0}",
+  "text": "Appelez votre hook dans {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appelez votre hook dans {0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "41865a8e9d6b4ba6",
+  "source": "Watch the video by LearnVue about Nuxt Image",
+  "text": "Regardez la vidéo de LearnVue sur Nuxt Image",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Regardez la vidéo de LearnVue sur Nuxt Image"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

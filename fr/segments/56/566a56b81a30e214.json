@@ -1,0 +1,14 @@
+{
+  "hash": "566a56b81a30e214",
+  "source": "Migrate {0} to {1} throughout the Vue part of your app.",
+  "text": "Migrez {0} vers {1} dans toute la partie Vue de votre application.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Migrez {0} vers {1} dans toute la partie Vue de votre application."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

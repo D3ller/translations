@@ -1,0 +1,14 @@
+{
+  "hash": "31f1f6ee9de3fdb7",
+  "source": "Characters outside the downloaded subsets render in a fallback font. If your content uses another script, such as Arabic, Hebrew, or Devanagari, add its subset here or for a single font in {0}:",
+  "text": "Les caractères situés en dehors des sous-ensembles téléchargés s'affichent avec une police de secours. Si votre contenu utilise une autre écriture, comme l'arabe, l'hébreu ou le devanagari, ajoutez son sous-ensemble ici, ou pour une seule police dans {0} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les caractères situés en dehors des sous-ensembles téléchargés s'affichent avec une police de secours. Si votre contenu utilise une autre écriture, comme l'arabe, l'hébreu ou le devanagari, ajoutez son sous-ensemble ici, ou pour une seule police dans {0} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

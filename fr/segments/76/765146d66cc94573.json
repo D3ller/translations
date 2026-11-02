@@ -1,0 +1,14 @@
+{
+  "hash": "765146d66cc94573",
+  "source": "This not only provides potential users of your module a quick and easy way to experiment with the module but also an easy way for them to build minimal reproductions they can send you when they encounter issues.",
+  "text": "Cela offre non seulement aux utilisateurs potentiels de votre module un moyen rapide et simple d'expérimenter avec le module, mais aussi une façon facile de construire des reproductions minimales qu'ils peuvent vous envoyer lorsqu'ils rencontrent des problèmes.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela offre non seulement aux utilisateurs potentiels de votre module un moyen rapide et simple d'expérimenter avec le module, mais aussi une façon facile de construire des reproductions minimales qu'ils peuvent vous envoyer lorsqu'ils rencontrent des problèmes."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

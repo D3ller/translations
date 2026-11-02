@@ -1,0 +1,14 @@
+{
+  "hash": "2635b72cee673969",
+  "source": "{0} also only works in code that a server builder bundles, because the builder supplies the runtime config, app config, hooks and in-process fetch behind it. Code that runs in the Nuxt process, such as {1}, a module's {2} or a function passed to {3}, has none of these, so don't import {4} there: {5} and {6}, for example, return empty objects. Read {7} instead, and see {8}Dev Server Handlers{/8} for writing a handler in a module.",
+  "text": "{0} ne fonctionne en outre que dans le code qu'un server builder intègre au bundle, car c'est le builder qui fournit le runtime config, l'app config, les hooks et le fetch en cours de processus qui s'y rattachent. Le code qui s'exécute dans le processus Nuxt, comme {1}, le {2} d'un module ou une fonction passée à {3}, n'a rien de tout cela ; n'y importez donc pas {4} : {5} et {6}, par exemple, renvoient des objets vides. Lisez plutôt {7}, et consultez {8}Dev Server Handlers{/8} pour écrire un handler dans un module.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} ne fonctionne en outre que dans le code qu'un server builder intègre au bundle, car c'est le builder qui fournit le runtime config, l'app config, les hooks et le fetch en cours de processus qui s'y rattachent. Le code qui s'exécute dans le processus Nuxt, comme {1}, le {2} d'un module ou une fonction passée à {3}, n'a rien de tout cela ; n'y importez donc pas {4} : {5} et {6}, par exemple, renvoient des objets vides. Lisez plutôt {7}, et consultez {8}Dev Server Handlers{/8} pour écrire un handler dans un module."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

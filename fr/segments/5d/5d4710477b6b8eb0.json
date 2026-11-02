@@ -1,0 +1,14 @@
+{
+  "hash": "5d4710477b6b8eb0",
+  "source": "Read more on how to enable type-checking at build or development time.",
+  "text": "Pour en savoir plus sur l'activation de la vérification des types au moment du build ou du développement, consultez la documentation.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour en savoir plus sur l'activation de la vérification des types au moment du build ou du développement, consultez la documentation."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

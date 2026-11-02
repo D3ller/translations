@@ -1,0 +1,14 @@
+{
+  "hash": "c52c48884ce2fae0",
+  "source": "After fetching the value of {0} using {1} in the example above, if you access {2}, you will see {3} recorded there.",
+  "text": "Après avoir récupéré la valeur de {0} avec {1} dans l'exemple ci-dessus, si vous accédez à {2}, vous y verrez {3} enregistré.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Après avoir récupéré la valeur de {0} avec {1} dans l'exemple ci-dessus, si vous accédez à {2}, vous y verrez {3} enregistré."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

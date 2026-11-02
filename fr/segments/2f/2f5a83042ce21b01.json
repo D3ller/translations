@@ -1,0 +1,14 @@
+{
+  "hash": "2f5a83042ce21b01",
+  "source": "Enabling this feature changes how Vite plugins are registered and configured. See the {0}Vite Environment API migration guide{/0} for details on updating your plugins.",
+  "text": "L'activation de cette fonctionnalité modifie la manière dont les plugins Vite sont enregistrés et configurés. Consultez le {0}guide de migration de la Vite Environment API{/0} pour savoir comment mettre à jour vos plugins.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'activation de cette fonctionnalité modifie la manière dont les plugins Vite sont enregistrés et configurés. Consultez le {0}guide de migration de la Vite Environment API{/0} pour savoir comment mettre à jour vos plugins."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "1ea7cd92451db666",
+  "source": "Add a client or server suffix to a component or plugin",
+  "text": "Ajoute un suffixe client ou server à un composant ou à un plugin",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ajoute un suffixe client ou server à un composant ou à un plugin"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

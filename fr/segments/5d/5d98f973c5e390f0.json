@@ -1,0 +1,14 @@
+{
+  "hash": "5d98f973c5e390f0",
+  "source": "Vue SSR Template on GitHub",
+  "text": "Template Vue SSR sur GitHub",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Template Vue SSR sur GitHub"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

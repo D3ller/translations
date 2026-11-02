@@ -1,0 +1,14 @@
+{
+  "hash": "58247dc9cbdbe481",
+  "source": "This is called before prerendering for additional routes to be registered.",
+  "text": "Ce hook est appelé avant le prérendu afin d'enregistrer des routes supplémentaires.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ce hook est appelé avant le prérendu afin d'enregistrer des routes supplémentaires."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

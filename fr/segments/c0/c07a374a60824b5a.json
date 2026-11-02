@@ -1,0 +1,14 @@
+{
+  "hash": "c07a374a60824b5a",
+  "source": "If you need lower-level control, you can create a custom {0} instance with a {1}Nuxt plugin{/1} and either use it with {2} directly or pass it to {3}.",
+  "text": "Si vous avez besoin d'un contrôle de plus bas niveau, vous pouvez créer une instance {0} personnalisée avec un {1}plugin Nuxt{/1} et soit l'utiliser directement avec {2}, soit la passer à {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous avez besoin d'un contrôle de plus bas niveau, vous pouvez créer une instance {0} personnalisée avec un {1}plugin Nuxt{/1} et soit l'utiliser directement avec {2}, soit la passer à {3}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

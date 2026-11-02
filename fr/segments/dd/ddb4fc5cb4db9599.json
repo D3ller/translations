@@ -1,0 +1,14 @@
+{
+  "hash": "ddb4fc5cb4db9599",
+  "source": "static content that never needs to become interactive",
+  "text": "contenu statique qui n'a jamais besoin de devenir interactif",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "contenu statique qui n'a jamais besoin de devenir interactif"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

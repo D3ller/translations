@@ -1,0 +1,14 @@
+{
+  "hash": "9197719bc6a611ca",
+  "source": "... or scan composables nested one level deep with a specific name and file extension",
+  "text": "... ou analyser les composables imbriqués sur un niveau avec un nom et une extension de fichier spécifiques",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "... ou analyser les composables imbriqués sur un niveau avec un nom et une extension de fichier spécifiques"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "7158f421d32b6d7e",
+  "source": "Called at setup allowing modules to extend sources.",
+  "text": "Appelé lors de la configuration, pour permettre aux modules d'étendre les sources.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appelé lors de la configuration, pour permettre aux modules d'étendre les sources."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

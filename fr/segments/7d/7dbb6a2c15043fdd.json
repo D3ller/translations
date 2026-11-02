@@ -1,0 +1,14 @@
+{
+  "hash": "7dbb6a2c15043fdd",
+  "source": "Giving Deploy Targets a Handler",
+  "text": "Fournir un handler aux cibles de déploiement",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Fournir un handler aux cibles de déploiement"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

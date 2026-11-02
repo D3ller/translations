@@ -1,0 +1,14 @@
+{
+  "hash": "22f3585f4475c81e",
+  "source": "After page transition {0}onAfterLeave{/0} event.",
+  "text": "Après l'événement {0}onAfterLeave{/0} de la transition de page.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Après l'événement {0}onAfterLeave{/0} de la transition de page."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

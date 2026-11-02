@@ -1,0 +1,14 @@
+{
+  "hash": "ed55a81adb7be830",
+  "source": "If you have not fetched data on the server (for example, with {0}), then the data *will not* be fetched until hydration completes. This means even if you await {1} on the client side, {2} will remain {3} within {4}.",
+  "text": "Si vous n'avez pas récupéré les données côté serveur (par exemple avec {0}), elles *ne seront pas* récupérées avant la fin de l'hydratation. Cela signifie que même si vous utilisez await sur {1} côté client, {2} restera {3} dans {4}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous n'avez pas récupéré les données côté serveur (par exemple avec {0}), elles *ne seront pas* récupérées avant la fin de l'hydratation. Cela signifie que même si vous utilisez await sur {1} côté client, {2} restera {3} dans {4}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

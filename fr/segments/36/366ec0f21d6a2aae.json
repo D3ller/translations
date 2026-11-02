@@ -1,0 +1,14 @@
+{
+  "hash": "366ec0f21d6a2aae",
+  "source": "Reduces every font file emitted for this family to the glyphs needed to render these characters, whichever provider served it. A {0} covering those characters is generated for you.",
+  "text": "Réduit chaque fichier de police émis pour cette famille aux glyphes nécessaires pour afficher ces caractères, quel que soit le fournisseur qui l'a servi. Un {0} couvrant ces caractères est généré automatiquement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Réduit chaque fichier de police émis pour cette famille aux glyphes nécessaires pour afficher ces caractères, quel que soit le fournisseur qui l'a servi. Un {0} couvrant ces caractères est généré automatiquement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "732f34a160c5cfcd",
+  "source": "do not do this, the ref will be hoisted out of the component",
+  "text": "ne faites pas cela, la ref sera extraite du composant",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "ne faites pas cela, la ref sera extraite du composant"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

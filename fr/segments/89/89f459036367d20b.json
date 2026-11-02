@@ -1,0 +1,14 @@
+{
+  "hash": "89f459036367d20b",
+  "source": "Nuxt exposing some route metadata defined in {0} at build-time to modules (specifically {1}, {2}, {3}, {4}, {5} and {6}).",
+  "text": "Nuxt expose aux modules certaines métadonnées de route définies dans {0} au moment du build (plus précisément {1}, {2}, {3}, {4}, {5} et {6}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt expose aux modules certaines métadonnées de route définies dans {0} au moment du build (plus précisément {1}, {2}, {3}, {4}, {5} et {6})."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

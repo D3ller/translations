@@ -1,0 +1,14 @@
+{
+  "hash": "1ab5e07f280efd40",
+  "source": "✅ Works - direct import matches the configured source",
+  "text": "✅ Fonctionne - l'import direct correspond à la source configurée",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "✅ Fonctionne - l'import direct correspond à la source configurée"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

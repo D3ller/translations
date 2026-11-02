@@ -1,0 +1,14 @@
+{
+  "hash": "70527c72472002bd",
+  "source": "Pass only JSON-serializable values (strings, numbers, booleans, {0}, arrays and plain objects), and move the logic that needs the function into the server component:",
+  "text": "Ne transmettez que des valeurs sérialisables en JSON (chaînes de caractères, nombres, booléens, {0}, tableaux et objets simples), et déplacez dans le composant serveur la logique qui nécessite la fonction :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ne transmettez que des valeurs sérialisables en JSON (chaînes de caractères, nombres, booléens, {0}, tableaux et objets simples), et déplacez dans le composant serveur la logique qui nécessite la fonction :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

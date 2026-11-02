@@ -1,0 +1,14 @@
+{
+  "hash": "e70aaee2b4063e91",
+  "source": "{0} allows you to mount any Vue component within the Nuxt environment, allowing async setup and access to injections from your Nuxt plugins.",
+  "text": "{0} vous permet de monter n'importe quel composant Vue dans l'environnement Nuxt, avec prise en charge du setup asynchrone et de l'accès aux injections de vos plugins Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} vous permet de monter n'importe quel composant Vue dans l'environnement Nuxt, avec prise en charge du setup asynchrone et de l'accès aux injections de vos plugins Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

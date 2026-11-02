@@ -1,0 +1,14 @@
+{
+  "hash": "d7276fa8eb26254e",
+  "source": "Check out the issues and discussions for the project you want to help. For example, here are {0}the issues board{/0} and {1}discussions{/1} for Nuxt. Helping other users, sharing workarounds, creating reproductions, or even poking into a bug a little bit and sharing your findings makes a huge difference.",
+  "text": "Consultez les issues et les discussions du projet que vous souhaitez aider. Par exemple, voici {0}le tableau des issues{/0} et les {1}discussions{/1} de Nuxt. Aider d'autres utilisateurs, partager des solutions de contournement, créer des reproductions, ou même explorer un peu un bug et partager vos découvertes fait une énorme différence.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Consultez les issues et les discussions du projet que vous souhaitez aider. Par exemple, voici {0}le tableau des issues{/0} et les {1}discussions{/1} de Nuxt. Aider d'autres utilisateurs, partager des solutions de contournement, créer des reproductions, ou même explorer un peu un bug et partager vos découvertes fait une énorme différence."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "71cb472720bab0ec",
+  "source": "In addition to any process environment variables, if you have a {0} file in your project root directory, it will be automatically loaded **at dev, build and generate time**. Any environment variables set there will be accessible within your {1} file and modules.",
+  "text": "En plus des variables d'environnement du processus, si vous avez un fichier {0} à la racine de votre projet, il sera chargé automatiquement **au moment du développement, du build et de la génération**. Toutes les variables d'environnement qui y sont définies seront accessibles dans votre fichier {1} et dans les modules.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En plus des variables d'environnement du processus, si vous avez un fichier {0} à la racine de votre projet, il sera chargé automatiquement **au moment du développement, du build et de la génération**. Toutes les variables d'environnement qui y sont définies seront accessibles dans votre fichier {1} et dans les modules."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

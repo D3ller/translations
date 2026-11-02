@@ -1,0 +1,14 @@
+{
+  "hash": "aa5cf3677a8e50a1",
+  "source": "The build and publishing method and quality of these 'nightly' releases are the same as stable ones. The only difference is that you should often check the GitHub repository for updates. There is a slight chance of regressions not being caught during the review process and by the automated tests. Therefore, we internally use this channel to double-check everything before each release.",
+  "text": "La méthode de build et de publication ainsi que la qualité de ces versions « nightly » sont les mêmes que celles des versions stables. La seule différence est que vous devriez consulter régulièrement le dépôt GitHub pour suivre les mises à jour. Il existe un léger risque que des régressions ne soient détectées ni lors de la revue, ni par les tests automatisés. C'est pourquoi nous utilisons nous-mêmes ce canal en interne pour tout revérifier avant chaque version.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La méthode de build et de publication ainsi que la qualité de ces versions « nightly » sont les mêmes que celles des versions stables. La seule différence est que vous devriez consulter régulièrement le dépôt GitHub pour suivre les mises à jour. Il existe un léger risque que des régressions ne soient détectées ni lors de la revue, ni par les tests automatisés. C'est pourquoi nous utilisons nous-mêmes ce canal en interne pour tout revérifier avant chaque version."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

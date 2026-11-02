@@ -1,0 +1,14 @@
+{
+  "hash": "24053ba30e719a30",
+  "source": "Vue Changes",
+  "text": "Changements liés à Vue",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Changements liés à Vue"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

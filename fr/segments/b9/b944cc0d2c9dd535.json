@@ -1,0 +1,14 @@
+{
+  "hash": "b944cc0d2c9dd535",
+  "source": "Override route rule config, default is false",
+  "text": "Remplace la configuration de la règle de route, la valeur par défaut est false",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Remplace la configuration de la règle de route, la valeur par défaut est false"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

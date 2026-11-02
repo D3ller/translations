@@ -1,0 +1,14 @@
+{
+  "hash": "6a58360a3b0ba51a",
+  "source": "...run your client and server bundles here, writing artifacts to disk...",
+  "text": "...exécutez ici vos bundles client et serveur, en écrivant les artefacts sur le disque...",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "...exécutez ici vos bundles client et serveur, en écrivant les artefacts sur le disque..."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

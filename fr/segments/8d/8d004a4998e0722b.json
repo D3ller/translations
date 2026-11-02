@@ -1,0 +1,14 @@
+{
+  "hash": "8d004a4998e0722b",
+  "source": "Nuxt app runtime hooks to register directly.",
+  "text": "Hooks d'exécution de l'application Nuxt à enregistrer directement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Hooks d'exécution de l'application Nuxt à enregistrer directement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

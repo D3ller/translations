@@ -1,0 +1,14 @@
+{
+  "hash": "3566e18e2e2f2d29",
+  "source": "Learn how Nuxt manages TypeScript configuration across different parts of your project.",
+  "text": "Découvrez comment Nuxt gère la configuration TypeScript dans les différentes parties de votre projet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Découvrez comment Nuxt gère la configuration TypeScript dans les différentes parties de votre projet."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

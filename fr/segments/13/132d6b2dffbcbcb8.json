@@ -1,0 +1,14 @@
+{
+  "hash": "132d6b2dffbcbcb8",
+  "source": "Under projects with configuration as shown below, Corepack will install {0} of {1} (if you don't have it already) and use it to run your commands.",
+  "text": "Dans les projets configurés comme ci-dessous, Corepack installera {0} de {1} (si vous ne l'avez pas déjà) et l'utilisera pour exécuter vos commandes.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans les projets configurés comme ci-dessous, Corepack installera {0} de {1} (si vous ne l'avez pas déjà) et l'utilisera pour exécuter vos commandes."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

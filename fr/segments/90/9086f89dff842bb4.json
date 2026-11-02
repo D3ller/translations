@@ -1,0 +1,14 @@
+{
+  "hash": "9086f89dff842bb4",
+  "source": "It is possible to update runtime config values using a matching environment variable name prefixed with {0}.",
+  "text": "Il est possible de mettre à jour les valeurs du runtime config en utilisant un nom de variable d'environnement correspondant, préfixé par {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Il est possible de mettre à jour les valeurs du runtime config en utilisant un nom de variable d'environnement correspondant, préfixé par {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

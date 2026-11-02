@@ -1,0 +1,14 @@
+{
+  "hash": "a2079af42d622cb3",
+  "source": "There are a number of changes to what is recommended Vue best practice, as well as a number of breaking changes between Vue 2 and 3.",
+  "text": "Les bonnes pratiques recommandées pour Vue ont évolué sur plusieurs points, et il existe plusieurs changements majeurs entre Vue 2 et Vue 3.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les bonnes pratiques recommandées pour Vue ont évolué sur plusieurs points, et il existe plusieurs changements majeurs entre Vue 2 et Vue 3."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

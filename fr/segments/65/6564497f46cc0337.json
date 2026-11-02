@@ -1,0 +1,14 @@
+{
+  "hash": "6564497f46cc0337",
+  "source": "Listeners run while your stylesheets are transformed, so keep them fast: collect what you need and call {0} later, as above.",
+  "text": "Les écouteurs s'exécutent pendant la transformation de vos feuilles de style ; gardez-les donc rapides : collectez ce dont vous avez besoin et appelez {0} plus tard, comme ci-dessus.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les écouteurs s'exécutent pendant la transformation de vos feuilles de style ; gardez-les donc rapides : collectez ce dont vous avez besoin et appelez {0} plus tard, comme ci-dessus."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

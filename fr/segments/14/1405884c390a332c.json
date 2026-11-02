@@ -1,0 +1,14 @@
+{
+  "hash": "1405884c390a332c",
+  "source": "Common Pitfalls",
+  "text": "Pièges courants",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pièges courants"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "2f5d0f542882d85a",
+  "source": "Display The QR code of public URL when available",
+  "text": "Affiche le code QR de l'URL publique lorsqu'elle est disponible",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Affiche le code QR de l'URL publique lorsqu'elle est disponible"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

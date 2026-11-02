@@ -1,0 +1,14 @@
+{
+  "hash": "e3e9e3d3a15fe9ef",
+  "source": "{0} controls the {1} ref returned by {2} and {3}.",
+  "text": "{0} contrôle la ref {1} renvoyée par {2} et {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} contrôle la ref {1} renvoyée par {2} et {3}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

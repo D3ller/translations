@@ -1,0 +1,14 @@
+{
+  "hash": "2a5a6e1ed723b27b",
+  "source": "In order to interact with {0}, you may use {1}, which will work in Nuxt Bridge (but not Nuxt 3) and will allow you to manipulate your meta tags in a {2}-compatible way.",
+  "text": "Pour interagir avec {0}, vous pouvez utiliser {1}, qui fonctionnera dans Nuxt Bridge (mais pas dans Nuxt 3) et vous permettra de manipuler vos balises meta d'une manière compatible avec {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour interagir avec {0}, vous pouvez utiliser {1}, qui fonctionnera dans Nuxt Bridge (mais pas dans Nuxt 3) et vous permettra de manipuler vos balises meta d'une manière compatible avec {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

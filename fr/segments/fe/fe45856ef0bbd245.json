@@ -1,0 +1,14 @@
+{
+  "hash": "fe45856ef0bbd245",
+  "source": "The auto-registered files patterns are:",
+  "text": "Les motifs de fichiers enregistrés automatiquement sont :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les motifs de fichiers enregistrés automatiquement sont :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

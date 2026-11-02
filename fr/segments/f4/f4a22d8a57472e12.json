@@ -1,0 +1,14 @@
+{
+  "hash": "f4a22d8a57472e12",
+  "source": "Set a build output provider for the given key. Build outputs are the contract between builders (Vite, webpack, Rspack, or a custom builder) and the Nitro server runtime: each key maps to a {0} subpath import the server runtime resolves at build time. This is typically called from inside a builder, or from a module that participates in the build.",
+  "text": "Définit un fournisseur de sortie de build pour la clé donnée. Les sorties de build constituent le contrat entre les builders (Vite, webpack, Rspack ou un builder personnalisé) et le runtime serveur de Nitro : chaque clé correspond à un import de sous-chemin {0} que le runtime serveur résout au moment du build. Cette fonction est généralement appelée depuis un builder, ou depuis un module qui participe au build.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définit un fournisseur de sortie de build pour la clé donnée. Les sorties de build constituent le contrat entre les builders (Vite, webpack, Rspack ou un builder personnalisé) et le runtime serveur de Nitro : chaque clé correspond à un import de sous-chemin {0} que le runtime serveur résout au moment du build. Cette fonction est généralement appelée depuis un builder, ou depuis un module qui participe au build."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

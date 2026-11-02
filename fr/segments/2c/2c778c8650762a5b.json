@@ -1,0 +1,14 @@
+{
+  "hash": "2c778c8650762a5b",
+  "source": "It existed because the error was previously passed to the error page as individual query parameters, which stringified {0} and meant it had to be parsed back. Setting it to {1} opted out of that parsing and left you with the string.",
+  "text": "Elle existait parce que l'erreur était auparavant transmise à la page d'erreur sous forme de paramètres de requête individuels, ce qui convertissait {0} en chaîne et obligeait à le réanalyser. La définir à {1} désactivait cette analyse et vous laissait avec la chaîne.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Elle existait parce que l'erreur était auparavant transmise à la page d'erreur sous forme de paramètres de requête individuels, ce qui convertissait {0} en chaîne et obligeait à le réanalyser. La définir à {1} désactivait cette analyse et vous laissait avec la chaîne."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

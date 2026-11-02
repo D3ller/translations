@@ -1,0 +1,14 @@
+{
+  "hash": "8b201cbb17af0558",
+  "source": "For all of these, declare the family with {0} and Nuxt Fonts emits its {1} rules whether or not it finds a use for them:",
+  "text": "Dans tous ces cas, déclarez la famille avec {0} et Nuxt Fonts émettra ses règles {1} qu'il lui trouve une utilisation ou non :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans tous ces cas, déclarez la famille avec {0} et Nuxt Fonts émettra ses règles {1} qu'il lui trouve une utilisation ou non :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

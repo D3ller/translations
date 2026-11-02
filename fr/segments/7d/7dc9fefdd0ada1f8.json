@@ -1,0 +1,14 @@
+{
+  "hash": "7dc9fefdd0ada1f8",
+  "source": "Optimistically update the todos.",
+  "text": "Mettez à jour les todos de manière optimiste.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mettez à jour les todos de manière optimiste."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

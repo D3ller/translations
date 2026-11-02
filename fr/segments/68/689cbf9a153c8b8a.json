@@ -1,0 +1,14 @@
+{
+  "hash": "689cbf9a153c8b8a",
+  "source": "Use Hooks & Extend Types",
+  "text": "Utiliser les hooks et étendre les types",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utiliser les hooks et étendre les types"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "b830b352d866c2f6",
+  "source": "Path (absolute or relative) to the directory containing your components. You can use Nuxt aliases (\\~ or @) to refer to directories inside project or directly use an npm package path similar to require.",
+  "text": "Chemin (absolu ou relatif) vers le répertoire contenant vos composants. Vous pouvez utiliser les alias Nuxt (\\~ ou @) pour faire référence à des répertoires à l'intérieur du projet, ou utiliser directement un chemin de package npm, comme avec require.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Chemin (absolu ou relatif) vers le répertoire contenant vos composants. Vous pouvez utiliser les alias Nuxt (\\~ ou @) pour faire référence à des répertoires à l'intérieur du projet, ou utiliser directement un chemin de package npm, comme avec require."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

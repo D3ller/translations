@@ -1,0 +1,14 @@
+{
+  "hash": "8a1af63ebdb918dc",
+  "source": "**Timeline** – Tracks time spent on rendering, updating, and initializing components to identify performance bottlenecks.",
+  "text": "**Timeline** – Suit le temps passé à rendre, mettre à jour et initialiser les composants afin d'identifier les goulots d'étranglement de performance.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Timeline** – Suit le temps passé à rendre, mettre à jour et initialiser les composants afin d'identifier les goulots d'étranglement de performance."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

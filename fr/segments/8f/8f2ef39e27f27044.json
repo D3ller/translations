@@ -1,0 +1,14 @@
+{
+  "hash": "8f2ef39e27f27044",
+  "source": "A common layout separates environments:",
+  "text": "Une organisation courante sépare les environnements :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une organisation courante sépare les environnements :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

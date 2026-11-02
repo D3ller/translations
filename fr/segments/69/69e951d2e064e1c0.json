@@ -1,0 +1,14 @@
+{
+  "hash": "69e951d2e064e1c0",
+  "source": "Font metadata and downloaded font files are cached between builds in {0}. You can change where that happens, provide your own {1}unstorage{/1} instance, or turn persistent caching off (in which case an in-memory cache is used).",
+  "text": "Les métadonnées des polices et les fichiers de polices téléchargés sont mis en cache entre les builds dans {0}. Vous pouvez modifier cet emplacement, fournir votre propre instance {1}unstorage{/1}, ou désactiver le cache persistant (auquel cas un cache en mémoire est utilisé).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les métadonnées des polices et les fichiers de polices téléchargés sont mis en cache entre les builds dans {0}. Vous pouvez modifier cet emplacement, fournir votre propre instance {1}unstorage{/1}, ou désactiver le cache persistant (auquel cas un cache en mémoire est utilisé)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

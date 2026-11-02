@@ -1,0 +1,14 @@
+{
+  "hash": "182b38b7f7127b05",
+  "source": "{0}Google Fonts Icons{/0} adds support for Material Symbols and Material Icons.",
+  "text": "{0}Google Fonts Icons{/0} ajoute la prise en charge de Material Symbols et de Material Icons.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}Google Fonts Icons{/0} ajoute la prise en charge de Material Symbols et de Material Icons."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

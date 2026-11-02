@@ -1,0 +1,14 @@
+{
+  "hash": "9cc1e38f1c674657",
+  "source": "When enabled, changes to the following files will trigger a full rebuild:",
+  "text": "Lorsqu'elle est activée, les modifications des fichiers suivants déclenchent un rebuild complet :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsqu'elle est activée, les modifications des fichiers suivants déclenchent un rebuild complet :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

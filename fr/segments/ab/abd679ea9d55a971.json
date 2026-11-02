@@ -1,0 +1,14 @@
+{
+  "hash": "abd679ea9d55a971",
+  "source": "If you want to type the result of calling {0} in app code, then you will want to extend {1}. Outside app code (server routes, the {2} directory and {3}) {4} returns {5}, so extend that interface instead.",
+  "text": "Si vous voulez typer le résultat de l'appel à {0} dans le code de l'application, vous devrez étendre {1}. En dehors du code de l'application (routes serveur, répertoire {2} et {3}), {4} renvoie {5} : étendez donc plutôt cette interface.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous voulez typer le résultat de l'appel à {0} dans le code de l'application, vous devrez étendre {1}. En dehors du code de l'application (routes serveur, répertoire {2} et {3}), {4} renvoie {5} : étendez donc plutôt cette interface."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "c1669d53904c1fdf",
+  "source": "No change is needed for most applications. If you fetch {0} for the initial render yourself, or measure HTML size in a test, set the option explicitly:",
+  "text": "Aucun changement n'est nécessaire pour la plupart des applications. Si vous récupérez vous-même {0} pour le rendu initial, ou mesurez la taille du HTML dans un test, définissez explicitement l'option :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Aucun changement n'est nécessaire pour la plupart des applications. Si vous récupérez vous-même {0} pour le rendu initial, ou mesurez la taille du HTML dans un test, définissez explicitement l'option :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

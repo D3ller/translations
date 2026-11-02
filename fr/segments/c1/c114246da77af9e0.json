@@ -1,0 +1,14 @@
+{
+  "hash": "c114246da77af9e0",
+  "source": "retries: number // Optional, has default value",
+  "text": "retries : number // Facultatif, a une valeur par défaut",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "retries : number // Facultatif, a une valeur par défaut"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

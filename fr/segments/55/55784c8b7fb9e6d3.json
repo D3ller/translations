@@ -1,0 +1,14 @@
+{
+  "hash": "55784c8b7fb9e6d3",
+  "source": "Extending the Return Value",
+  "text": "Étendre la valeur de retour",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Étendre la valeur de retour"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

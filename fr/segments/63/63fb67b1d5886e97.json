@@ -1,0 +1,14 @@
+{
+  "hash": "63fb67b1d5886e97",
+  "source": "**importSources**: An object or an array of objects with the following properties:",
+  "text": "**importSources** : un objet ou un tableau d'objets avec les propriétés suivantes :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**importSources** : un objet ou un tableau d'objets avec les propriétés suivantes :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

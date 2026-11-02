@@ -1,0 +1,14 @@
+{
+  "hash": "2d05edd59d6cef3f",
+  "source": "Sets the page title.",
+  "text": "Définit le titre de la page.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définit le titre de la page."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

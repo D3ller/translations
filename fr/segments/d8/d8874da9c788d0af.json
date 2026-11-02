@@ -1,0 +1,14 @@
+{
+  "hash": "d8874da9c788d0af",
+  "source": "Enabling {0} enables support for the TC39 proposal, **NOT** for TypeScript's previous {1} implementation.",
+  "text": "L'activation de {0} active la prise en charge de la proposition TC39, et **NON** de l'ancienne implémentation {1} de TypeScript.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'activation de {0} active la prise en charge de la proposition TC39, et **NON** de l'ancienne implémentation {1} de TypeScript."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

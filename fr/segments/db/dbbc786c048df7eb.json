@@ -1,0 +1,14 @@
+{
+  "hash": "dbbc786c048df7eb",
+  "source": "Global styles of your application are sent with the response.",
+  "text": "Les styles globaux de votre application sont envoyés avec la réponse.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les styles globaux de votre application sont envoyés avec la réponse."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "adc51ddcf4dec000",
+  "source": "{0}: Prefetches when the link is hovered or focused. This approach listens for {1} and {2} events, proactively prefetching resources when the user indicates intent to interact.",
+  "text": "{0} : précharge lorsque le lien est survolé ou reçoit le focus. Cette approche écoute les événements {1} et {2}, et précharge les ressources de manière proactive lorsque l'utilisateur manifeste son intention d'interagir.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : précharge lorsque le lien est survolé ou reçoit le focus. Cette approche écoute les événements {1} et {2}, et précharge les ressources de manière proactive lorsque l'utilisateur manifeste son intention d'interagir."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

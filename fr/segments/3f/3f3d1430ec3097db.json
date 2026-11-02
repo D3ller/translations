@@ -1,0 +1,14 @@
+{
+  "hash": "3f3d1430ec3097db",
+  "source": "Allows extending compatibility checks.",
+  "text": "Permet d'étendre les vérifications de compatibilité.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Permet d'étendre les vérifications de compatibilité."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

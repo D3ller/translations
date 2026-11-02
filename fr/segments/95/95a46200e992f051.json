@@ -1,0 +1,14 @@
+{
+  "hash": "95a46200e992f051",
+  "source": "**Route styles are streamed, JS hints are entry-only.** The shell is flushed before the route renders, so its {0} carries entry-chunk styles and hints only. Once render registers the page and layout modules, their CSS is streamed straight after the shell (inlined as {1} when {2} is enabled, otherwise as stylesheet links), so page, layout, and top-level async-component styles arrive before the body paints (nested async components are a FOUC caveat, covered below). Route-specific JS chunks are not preloaded from the shell; the browser discovers them after parsing the entry script. Streaming improves TTFB on every route; LCP gains are largest on routes whose JS overlaps the entry chunk.",
+  "text": "**Les styles de route sont streamés, les hints JS ne concernent que l'entrée.** Le shell est envoyé avant le rendu de la route ; son {0} ne contient donc que les styles et les hints du chunk d'entrée. Une fois que le rendu a enregistré les modules de la page et du layout, leur CSS est streamé juste après le shell (inliné sous forme de {1} lorsque {2} est activé, sinon sous forme de liens vers des feuilles de style), de sorte que les styles de la page, du layout et des composants asynchrones de premier niveau arrivent avant l'affichage du body (les composants asynchrones imbriqués posent un risque de FOUC, détaillé ci-dessous). Les chunks JS propres à la route ne sont pas préchargés depuis le shell ; le navigateur les découvre après l'analyse du script d'entrée. Le streaming améliore le TTFB sur toutes les routes ; les gains de LCP sont les plus importants sur les routes dont le JS recoupe le chunk d'entrée.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Les styles de route sont streamés, les hints JS ne concernent que l'entrée.** Le shell est envoyé avant le rendu de la route ; son {0} ne contient donc que les styles et les hints du chunk d'entrée. Une fois que le rendu a enregistré les modules de la page et du layout, leur CSS est streamé juste après le shell (inliné sous forme de {1} lorsque {2} est activé, sinon sous forme de liens vers des feuilles de style), de sorte que les styles de la page, du layout et des composants asynchrones de premier niveau arrivent avant l'affichage du body (les composants asynchrones imbriqués posent un risque de FOUC, détaillé ci-dessous). Les chunks JS propres à la route ne sont pas préchargés depuis le shell ; le navigateur les découvre après l'analyse du script d'entrée. Le streaming améliore le TTFB sur toutes les routes ; les gains de LCP sont les plus importants sur les routes dont le JS recoupe le chunk d'entrée."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

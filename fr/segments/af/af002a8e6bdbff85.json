@@ -1,0 +1,14 @@
+{
+  "hash": "af002a8e6bdbff85",
+  "source": "In this case, the template is removed as soon as Vue mounts the app, so the screen may be blank until the first page is ready to render.",
+  "text": "Dans ce cas, le template est supprimé dès que Vue monte l'application, si bien que l'écran peut rester vide jusqu'à ce que la première page soit prête à être rendue.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans ce cas, le template est supprimé dès que Vue monte l'application, si bien que l'écran peut rester vide jusqu'à ce que la première page soit prête à être rendue."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

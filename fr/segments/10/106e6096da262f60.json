@@ -1,0 +1,14 @@
+{
+  "hash": "106e6096da262f60",
+  "source": "We can never thank you enough for your contributions.",
+  "text": "Nous ne pourrons jamais assez vous remercier pour vos contributions.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nous ne pourrons jamais assez vous remercier pour vos contributions."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

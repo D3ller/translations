@@ -1,0 +1,14 @@
+{
+  "hash": "c8cba42c7b49eac0",
+  "source": "Templates allow you to generate extra files during development and build time. These files will be available in virtual filesystem and can be used in plugins, layouts, components, etc. {0} and {1} allow you to add templates to the Nuxt application. {2} allows you to regenerate templates that match the filter.",
+  "text": "Les templates vous permettent de générer des fichiers supplémentaires pendant le développement et au moment du build. Ces fichiers sont disponibles dans le système de fichiers virtuel et peuvent être utilisés dans les plugins, les layouts, les composants, etc. {0} et {1} vous permettent d'ajouter des templates à l'application Nuxt. {2} vous permet de régénérer les templates correspondant au filtre.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les templates vous permettent de générer des fichiers supplémentaires pendant le développement et au moment du build. Ces fichiers sont disponibles dans le système de fichiers virtuel et peuvent être utilisés dans les plugins, les layouts, les composants, etc. {0} et {1} vous permettent d'ajouter des templates à l'application Nuxt. {2} vous permet de régénérer les templates correspondant au filtre."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

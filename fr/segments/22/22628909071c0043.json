@@ -1,0 +1,14 @@
+{
+  "hash": "22628909071c0043",
+  "source": "{0} always resolves to {1} in Nuxt 5. To opt into Nuxt 5 behavior on Nuxt 4, see the {2}Nuxt 4 documentation{/2}.",
+  "text": "{0} correspond toujours à {1} dans Nuxt 5. Pour adopter le comportement de Nuxt 5 sur Nuxt 4, consultez la {2}documentation de Nuxt 4{/2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} correspond toujours à {1} dans Nuxt 5. Pour adopter le comportement de Nuxt 5 sur Nuxt 4, consultez la {2}documentation de Nuxt 4{/2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

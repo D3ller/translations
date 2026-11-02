@@ -1,0 +1,14 @@
+{
+  "hash": "ae96dc78b67c8d94",
+  "source": "Time strategy is for components that can wait a specific amount of time.",
+  "text": "La stratégie de délai est destinée aux composants qui peuvent attendre une durée déterminée.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La stratégie de délai est destinée aux composants qui peuvent attendre une durée déterminée."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

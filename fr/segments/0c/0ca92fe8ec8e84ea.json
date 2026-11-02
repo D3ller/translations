@@ -1,0 +1,14 @@
+{
+  "hash": "0ca92fe8ec8e84ea",
+  "source": "Better consistency between development and production builds",
+  "text": "Une meilleure cohérence entre les builds de développement et de production",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une meilleure cohérence entre les builds de développement et de production"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

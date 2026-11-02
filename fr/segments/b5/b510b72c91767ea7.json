@@ -1,0 +1,14 @@
+{
+  "hash": "b510b72c91767ea7",
+  "source": "Providing options",
+  "text": "Fourniture d'options",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Fourniture d'options"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "93d27594b3832754",
+  "source": "Stops adding {0} sources to generated {1} rules. Default is {2}.",
+  "text": "Arrête d'ajouter des sources {0} aux règles {1} générées. La valeur par défaut est {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Arrête d'ajouter des sources {0} aux règles {1} générées. La valeur par défaut est {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

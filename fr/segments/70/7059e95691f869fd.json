@@ -1,0 +1,14 @@
+{
+  "hash": "7059e95691f869fd",
+  "source": "Custom $fetch implementation. See {0}Custom useFetch in Nuxt{/0}",
+  "text": "Implémentation personnalisée de $fetch. Consultez {0}Custom useFetch in Nuxt{/0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Implémentation personnalisée de $fetch. Consultez {0}Custom useFetch in Nuxt{/0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

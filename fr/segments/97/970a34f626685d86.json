@@ -1,0 +1,14 @@
+{
+  "hash": "970a34f626685d86",
+  "source": "Using the route object, will redirect to the route with the name 'blog'",
+  "text": "En utilisant l'objet de route, redirigera vers la route nommée 'blog'",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En utilisant l'objet de route, redirigera vers la route nommée 'blog'"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

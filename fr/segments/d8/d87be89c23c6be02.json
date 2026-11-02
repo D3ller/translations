@@ -1,0 +1,14 @@
+{
+  "hash": "d87be89c23c6be02",
+  "source": "Slots can be passed to an island component if declared in the island. Slot content is provided by the parent, so it belongs to the main client app and **is** interactive (it is wrapped in a {0} with {1}).",
+  "text": "Des slots peuvent être passés à un composant island s'ils sont déclarés dans l'island. Le contenu du slot est fourni par le parent ; il appartient donc à l'application cliente principale et **est** interactif (il est encapsulé dans un {0} avec {1}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Des slots peuvent être passés à un composant island s'ils sont déclarés dans l'island. Le contenu du slot est fourni par le parent ; il appartient donc à l'application cliente principale et **est** interactif (il est encapsulé dans un {0} avec {1})."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

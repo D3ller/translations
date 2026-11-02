@@ -1,0 +1,14 @@
+{
+  "hash": "fd0fd5aa1514e1f0",
+  "source": "By default, the {0} is set to {1}.",
+  "text": "Par défaut, {0} est défini sur {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par défaut, {0} est défini sur {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

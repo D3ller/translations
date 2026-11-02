@@ -1,0 +1,14 @@
+{
+  "hash": "5cb626c74e49ef30",
+  "source": "Hydration mismatches are not just warnings - they are indicators of serious problems that can break your application:",
+  "text": "Les erreurs de correspondance d'hydratation ne sont pas de simples avertissements : ce sont des indicateurs de problèmes graves qui peuvent casser votre application :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les erreurs de correspondance d'hydratation ne sont pas de simples avertissements : ce sont des indicateurs de problèmes graves qui peuvent casser votre application :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

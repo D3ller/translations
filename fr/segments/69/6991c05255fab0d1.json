@@ -1,0 +1,14 @@
+{
+  "hash": "6991c05255fab0d1",
+  "source": "Enable the module in your nuxt configuration:",
+  "text": "Activez le module dans votre configuration Nuxt :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Activez le module dans votre configuration Nuxt :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

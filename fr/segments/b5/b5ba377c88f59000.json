@@ -1,0 +1,14 @@
+{
+  "hash": "b5ba377c88f59000",
+  "source": "{0} - Registers a global component if passing both a name string and a component definition, or retrieves an already registered one if only the name is passed.",
+  "text": "{0} - Enregistre un composant global si vous passez à la fois un nom (chaîne) et une définition de composant, ou récupère un composant déjà enregistré si seul le nom est passé.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} - Enregistre un composant global si vous passez à la fois un nom (chaîne) et une définition de composant, ou récupère un composant déjà enregistré si seul le nom est passé."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

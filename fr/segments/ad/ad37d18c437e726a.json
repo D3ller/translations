@@ -1,0 +1,14 @@
+{
+  "hash": "ad37d18c437e726a",
+  "source": "Relative paths (like {0}) are not supported directly in {1} due to Nitro limitations. For static hosting with relative asset paths, use one of these approaches:",
+  "text": "Les chemins relatifs (comme {0}) ne sont pas pris en charge directement dans {1} en raison des limitations de Nitro. Pour un hébergement statique avec des chemins d'assets relatifs, utilisez l'une de ces approches :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les chemins relatifs (comme {0}) ne sont pas pris en charge directement dans {1} en raison des limitations de Nitro. Pour un hébergement statique avec des chemins d'assets relatifs, utilisez l'une de ces approches :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

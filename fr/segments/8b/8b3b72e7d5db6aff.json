@@ -1,0 +1,14 @@
+{
+  "hash": "8b3b72e7d5db6aff",
+  "source": "Prefer offline mode",
+  "text": "Privilégier le mode hors ligne",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Privilégier le mode hors ligne"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

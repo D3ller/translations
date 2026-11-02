@@ -1,0 +1,14 @@
+{
+  "hash": "db9f710f8ff82795",
+  "source": "**Isolated compilation**: Errors in one part of your application don't prevent compilation of other parts",
+  "text": "**Compilation isolée** : les erreurs dans une partie de votre application n'empêchent pas la compilation des autres parties",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Compilation isolée** : les erreurs dans une partie de votre application n'empêchent pas la compilation des autres parties"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

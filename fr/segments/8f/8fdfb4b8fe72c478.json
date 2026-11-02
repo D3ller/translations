@@ -1,0 +1,14 @@
+{
+  "hash": "8fdfb4b8fe72c478",
+  "source": "However, if your project was relying on the previous incorrect order, you may need to:",
+  "text": "Cependant, si votre projet reposait sur l'ancien ordre incorrect, vous devrez peut-être :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cependant, si votre projet reposait sur l'ancien ordre incorrect, vous devrez peut-être :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

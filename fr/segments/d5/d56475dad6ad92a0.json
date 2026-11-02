@@ -1,0 +1,14 @@
+{
+  "hash": "d56475dad6ad92a0",
+  "source": "By default, Vue pauses dependency tracking during SSR for better performance.",
+  "text": "Par défaut, Vue suspend le suivi des dépendances pendant le SSR pour de meilleures performances.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par défaut, Vue suspend le suivi des dépendances pendant le SSR pour de meilleures performances."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

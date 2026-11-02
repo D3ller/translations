@@ -1,0 +1,14 @@
+{
+  "hash": "c3b03166eb2b0f61",
+  "source": "defineLazyHydrationComponent",
+  "text": "defineLazyHydrationComponent",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "defineLazyHydrationComponent"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

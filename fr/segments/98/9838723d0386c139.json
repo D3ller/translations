@@ -1,0 +1,14 @@
+{
+  "hash": "9838723d0386c139",
+  "source": "Vue unsets the context in same tick before async operation!",
+  "text": "Vue désaffecte le contexte dans le même tick avant l'opération asynchrone !",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vue désaffecte le contexte dans le même tick avant l'opération asynchrone !"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

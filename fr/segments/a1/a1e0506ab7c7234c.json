@@ -1,0 +1,14 @@
+{
+  "hash": "a1e0506ab7c7234c",
+  "source": "You can now pass provider-specific options when configuring individual font families using the new {0} property:",
+  "text": "Vous pouvez désormais passer des options spécifiques au fournisseur lors de la configuration de chaque famille de polices, grâce à la nouvelle propriété {0} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez désormais passer des options spécifiques au fournisseur lors de la configuration de chaque famille de polices, grâce à la nouvelle propriété {0} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

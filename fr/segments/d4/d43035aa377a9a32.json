@@ -1,0 +1,14 @@
+{
+  "hash": "d43035aa377a9a32",
+  "source": "During the lifespan of your application, some errors may appear unexpectedly at runtime. In such case, we can use the {0} file to override the default error files and display the error nicely.",
+  "text": "Pendant la durée de vie de votre application, des erreurs peuvent apparaître de manière inattendue à l'exécution. Dans ce cas, vous pouvez utiliser le fichier {0} pour remplacer les fichiers d'erreur par défaut et afficher l'erreur proprement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pendant la durée de vie de votre application, des erreurs peuvent apparaître de manière inattendue à l'exécution. Dans ce cas, vous pouvez utiliser le fichier {0} pour remplacer les fichiers d'erreur par défaut et afficher l'erreur proprement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

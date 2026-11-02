@@ -1,0 +1,14 @@
+{
+  "hash": "1272bad70d2c7d18",
+  "source": "The {0} command logs information about the current or specified Nuxt project: the versions of Nuxt, Nitro and Vite it resolves, the package manager, the modules it loads and the build modules in its configuration. Use {1} when you want to read it from a script.",
+  "text": "La commande {0} affiche des informations sur le projet Nuxt actuel ou spécifié : les versions de Nuxt, Nitro et Vite qu'il résout, le gestionnaire de packages, les modules qu'il charge et les modules de build présents dans sa configuration. Utilisez {1} lorsque vous souhaitez les lire depuis un script.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La commande {0} affiche des informations sur le projet Nuxt actuel ou spécifié : les versions de Nuxt, Nitro et Vite qu'il résout, le gestionnaire de packages, les modules qu'il charge et les modules de build présents dans sa configuration. Utilisez {1} lorsque vous souhaitez les lire depuis un script."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

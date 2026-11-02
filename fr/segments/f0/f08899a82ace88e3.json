@@ -1,0 +1,14 @@
+{
+  "hash": "f08899a82ace88e3",
+  "source": "**PostCSS defaults off**: {0} and {1} are no longer configured unless you enable them in {2}",
+  "text": "**PostCSS désactivé par défaut** : {0} et {1} ne sont plus configurés, sauf si vous les activez dans {2}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**PostCSS désactivé par défaut** : {0} et {1} ne sont plus configurés, sauf si vous les activez dans {2}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

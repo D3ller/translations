@@ -1,0 +1,14 @@
+{
+  "hash": "517f790ef126aa09",
+  "source": "**{0}**: Whether the command should install the packages as dev dependencies.",
+  "text": "**{0}** : indique si la commande doit installer les packages en tant que dépendances de développement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** : indique si la commande doit installer les packages en tant que dépendances de développement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

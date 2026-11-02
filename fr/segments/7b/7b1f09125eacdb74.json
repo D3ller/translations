@@ -1,0 +1,14 @@
+{
+  "hash": "7b1f09125eacdb74",
+  "source": "Create an error object with additional metadata. You can pass a string to be set as the error {0} or an object containing error properties. It is usable in both the Vue and Server portions of your app, and is meant to be thrown.",
+  "text": "Crée un objet d'erreur avec des métadonnées supplémentaires. Vous pouvez passer une chaîne de caractères à définir comme {0} de l'erreur, ou un objet contenant les propriétés de l'erreur. Elle est utilisable à la fois dans la partie Vue et dans la partie serveur de votre application, et est destinée à être lancée avec throw.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Crée un objet d'erreur avec des métadonnées supplémentaires. Vous pouvez passer une chaîne de caractères à définir comme {0} de l'erreur, ou un objet contenant les propriétés de l'erreur. Elle est utilisable à la fois dans la partie Vue et dans la partie serveur de votre application, et est destinée à être lancée avec throw."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

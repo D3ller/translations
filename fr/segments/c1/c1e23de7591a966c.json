@@ -1,0 +1,14 @@
+{
+  "hash": "c1e23de7591a966c",
+  "source": "Expiration date for the cookie. By default, no expiration is set. Most clients will consider this a \"non-persistent cookie\" and will delete it on a condition like exiting a web browser application.{0}**Note:** The {1}cookie storage model specification{/1} states that if both {2} and {3} is set, then {4} takes precedence, but not all clients may obey this, so if both are set, they should point to the same date and time!{5}If neither of {6} and {7} is set, the cookie will be session-only and removed when the user closes their browser.",
+  "text": "Date d'expiration du cookie. Par défaut, aucune expiration n'est définie. La plupart des clients considèrent alors qu'il s'agit d'un « cookie non persistant » et le suppriment dans certaines conditions, comme la fermeture de l'application de navigateur web.{0}**Remarque :** la {1}spécification du modèle de stockage des cookies{/1} indique que si {2} et {3} sont tous deux définis, {4} est prioritaire, mais tous les clients ne le respectent pas forcément ; si les deux sont définis, ils doivent donc pointer vers la même date et la même heure !{5}Si ni {6} ni {7} ne sont définis, le cookie sera limité à la session et supprimé lorsque l'utilisateur fermera son navigateur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Date d'expiration du cookie. Par défaut, aucune expiration n'est définie. La plupart des clients considèrent alors qu'il s'agit d'un « cookie non persistant » et le suppriment dans certaines conditions, comme la fermeture de l'application de navigateur web.{0}**Remarque :** la {1}spécification du modèle de stockage des cookies{/1} indique que si {2} et {3} sont tous deux définis, {4} est prioritaire, mais tous les clients ne le respectent pas forcément ; si les deux sont définis, ils doivent donc pointer vers la même date et la même heure !{5}Si ni {6} ni {7} ne sont définis, le cookie sera limité à la session et supprimé lorsque l'utilisateur fermera son navigateur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

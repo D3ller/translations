@@ -1,0 +1,14 @@
+{
+  "hash": "a131db0c856a68e5",
+  "source": "Awaiting {0} only ensures the call is initialized. On client-side navigation, data may not be immediately available, and you must handle the {1} state in your component's template.",
+  "text": "Utiliser await sur {0} garantit seulement que l'appel est initialisé. Lors d'une navigation côté client, les données peuvent ne pas être immédiatement disponibles, et vous devez gérer l'état {1} dans le template de votre composant.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utiliser await sur {0} garantit seulement que l'appel est initialisé. Lors d'une navigation côté client, les données peuvent ne pas être immédiatement disponibles, et vous devez gérer l'état {1} dans le template de votre composant."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

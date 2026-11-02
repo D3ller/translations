@@ -1,0 +1,14 @@
+{
+  "hash": "89ceadd3e32db09a",
+  "source": "If you are using layouts in your app for multiple pages, there is only a slight change required.",
+  "text": "Si vous utilisez des layouts dans votre application pour plusieurs pages, seul un léger changement est nécessaire.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous utilisez des layouts dans votre application pour plusieurs pages, seul un léger changement est nécessaire."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

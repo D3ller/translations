@@ -1,0 +1,14 @@
+{
+  "hash": "fe5c0ddb7d1273c3",
+  "source": "Or keep the previous behavior while you migrate:",
+  "text": "Ou conservez le comportement précédent pendant votre migration :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ou conservez le comportement précédent pendant votre migration :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "29ba08f61dc55abe",
+  "source": "Upgrading to v1",
+  "text": "Passer à la v1",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Passer à la v1"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

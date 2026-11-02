@@ -1,0 +1,14 @@
+{
+  "hash": "04422b3ddbb7c915",
+  "source": "Allows extending new components.",
+  "text": "Permet d'ajouter de nouveaux composants.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Permet d'ajouter de nouveaux composants."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

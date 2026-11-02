@@ -1,0 +1,14 @@
+{
+  "hash": "ae0e2a8f22d78e0a",
+  "source": "deep is always enforced as false",
+  "text": "deep est toujours forcé à false",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "deep est toujours forcé à false"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

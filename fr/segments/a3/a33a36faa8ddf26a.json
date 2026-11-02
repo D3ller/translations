@@ -1,0 +1,14 @@
+{
+  "hash": "a33a36faa8ddf26a",
+  "source": "The {0} function returns the Nuxt instance if available, or {1} if Nuxt is not available.",
+  "text": "La fonction {0} renvoie l'instance de Nuxt si elle est disponible, ou {1} si Nuxt n'est pas disponible.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La fonction {0} renvoie l'instance de Nuxt si elle est disponible, ou {1} si Nuxt n'est pas disponible."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

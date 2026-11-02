@@ -1,0 +1,14 @@
+{
+  "hash": "52c5500bd77c1deb",
+  "source": "With this Nuxt plugin, {0} is exposed from {1} to make API calls directly from the Vue components:",
+  "text": "Avec ce plugin Nuxt, {0} est exposé depuis {1} afin d'effectuer des appels d'API directement depuis les composants Vue :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Avec ce plugin Nuxt, {0} est exposé depuis {1} afin d'effectuer des appels d'API directement depuis les composants Vue :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

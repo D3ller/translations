@@ -1,0 +1,14 @@
+{
+  "hash": "ad75a6fa775ba915",
+  "source": "Alternatively, you can add a {0}remote git URL directly as a dependency{/0}.",
+  "text": "Vous pouvez aussi ajouter une {0}URL git distante directement comme dépendance{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez aussi ajouter une {0}URL git distante directement comme dépendance{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "ed0f78f6c198849a",
+  "source": "**Optional dependencies**: {0} and {1} are installed on demand",
+  "text": "**Dépendances optionnelles** : {0} et {1} sont installés à la demande",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Dépendances optionnelles** : {0} et {1} sont installés à la demande"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

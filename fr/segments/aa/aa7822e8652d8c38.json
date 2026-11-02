@@ -1,0 +1,14 @@
+{
+  "hash": "aa7822e8652d8c38",
+  "source": "Moving existing server code to {0}, and how its helpers differ from h3's.",
+  "text": "Migrer le code serveur existant vers {0}, et en quoi ses helpers diffèrent de ceux de h3.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Migrer le code serveur existant vers {0}, et en quoi ses helpers diffèrent de ceux de h3."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

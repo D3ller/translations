@@ -1,0 +1,14 @@
+{
+  "hash": "0d7f89ff7f2cf679",
+  "source": "A {0}, sent with its own status. Headers set on {1} are added to it, replacing a header of the same name, apart from {2}, which is appended.",
+  "text": "Une {0}, envoyée avec son propre statut. Les en-têtes définis sur {1} lui sont ajoutés et remplacent un en-tête du même nom, à l'exception de {2}, qui est ajouté à la suite.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une {0}, envoyée avec son propre statut. Les en-têtes définis sur {1} lui sont ajoutés et remplacent un en-tête du même nom, à l'exception de {2}, qui est ajouté à la suite."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

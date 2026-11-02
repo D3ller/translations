@@ -1,0 +1,14 @@
+{
+  "hash": "38b5eef3f1680c40",
+  "source": "Event handler.",
+  "text": "Gestionnaire d'événements.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Gestionnaire d'événements."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

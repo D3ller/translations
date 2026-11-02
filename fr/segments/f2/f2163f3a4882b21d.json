@@ -1,0 +1,14 @@
+{
+  "hash": "f2163f3a4882b21d",
+  "source": "Tasks are also not supported by {0}.",
+  "text": "Les tâches ne sont pas non plus prises en charge par {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les tâches ne sont pas non plus prises en charge par {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

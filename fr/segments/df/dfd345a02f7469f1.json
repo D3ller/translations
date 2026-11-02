@@ -1,0 +1,14 @@
+{
+  "hash": "dfd345a02f7469f1",
+  "source": "Creating a Virtual File for Nitro",
+  "text": "Créer un fichier virtuel pour Nitro",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Créer un fichier virtuel pour Nitro"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "7833c299134e4f0f",
+  "source": "{0}Adobe Fonts{/0} is a font service for both personal and commercial use included with Creative Cloud subscriptions.",
+  "text": "{0}Adobe Fonts{/0} est un service de polices à usage personnel et commercial, inclus avec les abonnements Creative Cloud.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}Adobe Fonts{/0} est un service de polices à usage personnel et commercial, inclus avec les abonnements Creative Cloud."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

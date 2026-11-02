@@ -1,0 +1,14 @@
+{
+  "hash": "2edda11c6ef9a654",
+  "source": "Set to {0} when you want to preserve page state across route changes or use the {1} for a fine-grained control.",
+  "text": "Définissez à {0} si vous souhaitez conserver l'état de la page entre les changements de route ou utiliser {1} pour un contrôle plus fin.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définissez à {0} si vous souhaitez conserver l'état de la page entre les changements de route ou utiliser {1} pour un contrôle plus fin."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

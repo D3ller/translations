@@ -1,0 +1,14 @@
+{
+  "hash": "f603f8c8ee397dc8",
+  "source": "The client IP address, with {0}forwarded headers trusted on request{/0}.",
+  "text": "L'adresse IP du client, avec {0}des en-têtes de transfert considérés comme fiables à la demande{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'adresse IP du client, avec {0}des en-têtes de transfert considérés comme fiables à la demande{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "c7ecde40329aa99d",
+  "source": "You can use static {0}, dynamic {1} and {2} instead. Using TypeScript by renaming to {3} is also possible and recommended.",
+  "text": "Vous pouvez utiliser à la place l'{0} statique, l'{1} dynamique et {2}. Il est également possible, et recommandé, d'utiliser TypeScript en renommant le fichier en {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez utiliser à la place l'{0} statique, l'{1} dynamique et {2}. Il est également possible, et recommandé, d'utiliser TypeScript en renommant le fichier en {3}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

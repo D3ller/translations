@@ -1,0 +1,14 @@
+{
+  "hash": "07ca30a6d3074dc5",
+  "source": "This is not supported in Nuxt 3. Instead, you can directly use a watcher to trigger refetching data.",
+  "text": "Ce n'est pas pris en charge dans Nuxt 3. À la place, vous pouvez utiliser directement un watcher pour déclencher une nouvelle récupération des données.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ce n'est pas pris en charge dans Nuxt 3. À la place, vous pouvez utiliser directement un watcher pour déclencher une nouvelle récupération des données."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

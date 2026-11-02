@@ -1,0 +1,14 @@
+{
+  "hash": "27d6f5624a5d73e0",
+  "source": "Note that the {0} hook is based on {1} lifecycle hook.",
+  "text": "Notez que le hook {0} est basé sur le hook de cycle de vie {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Notez que le hook {0} est basé sur le hook de cycle de vie {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

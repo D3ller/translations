@@ -1,0 +1,14 @@
+{
+  "hash": "bda8d4d72f21bade",
+  "source": "To the {0}server engine{/0}, Nitro:",
+  "text": "Ou, pour le {0}moteur serveur{/0}, Nitro :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ou, pour le {0}moteur serveur{/0}, Nitro :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "a55b8e32e5d27ea4",
+  "source": "A module whose runtime code imports only from {0} runs under any server builder from v4.6 onwards, with no version check and no dependency on h3 or Nitro:",
+  "text": "Un module dont le code runtime n'importe que depuis {0} fonctionne avec n'importe quel server builder à partir de la v4.6, sans vérification de version et sans dépendance à h3 ni à Nitro :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un module dont le code runtime n'importe que depuis {0} fonctionne avec n'importe quel server builder à partir de la v4.6, sans vérification de version et sans dépendance à h3 ni à Nitro :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

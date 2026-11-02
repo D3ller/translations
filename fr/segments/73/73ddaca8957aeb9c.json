@@ -1,0 +1,14 @@
+{
+  "hash": "73ddaca8957aeb9c",
+  "source": "Sets attributes of the {0} tag. Each object property is mapped to the corresponding attribute.",
+  "text": "Définit les attributs de la balise {0}. Chaque propriété de l'objet est associée à l'attribut correspondant.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définit les attributs de la balise {0}. Chaque propriété de l'objet est associée à l'attribut correspondant."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

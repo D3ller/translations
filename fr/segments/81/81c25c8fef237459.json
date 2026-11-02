@@ -1,0 +1,14 @@
+{
+  "hash": "81c25c8fef237459",
+  "source": "We recommend that you install the {0}MDC extension{/0} for VS Code.",
+  "text": "Nous vous recommandons d'installer l'{0}extension MDC{/0} pour VS Code.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nous vous recommandons d'installer l'{0}extension MDC{/0} pour VS Code."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

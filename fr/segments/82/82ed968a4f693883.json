@@ -1,0 +1,14 @@
+{
+  "hash": "82ed968a4f693883",
+  "source": "Optimistic Updates is a technique where the user interface is updated immediately, assuming a server operation will succeed. If the operation eventually fails, the UI is rolled back to its previous state.",
+  "text": "Les mises à jour optimistes (Optimistic Updates) sont une technique où l'interface utilisateur est mise à jour immédiatement, en supposant que l'opération côté serveur va réussir. Si l'opération échoue finalement, l'interface revient à son état précédent.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les mises à jour optimistes (Optimistic Updates) sont une technique où l'interface utilisateur est mise à jour immédiatement, en supposant que l'opération côté serveur va réussir. Si l'opération échoue finalement, l'interface revient à son état précédent."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

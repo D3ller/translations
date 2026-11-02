@@ -1,0 +1,14 @@
+{
+  "hash": "7bcc8db9a3d96ec3",
+  "source": "Follow Starter Conventions",
+  "text": "Suivez les conventions du starter",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Suivez les conventions du starter"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

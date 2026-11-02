@@ -1,0 +1,14 @@
+{
+  "hash": "e175827a948fd249",
+  "source": "Nuxt renders the page and its components and fetches any required data with {0} and {1} during this step. Since there are no dynamic updates and no DOM operations occur on the server, Vue lifecycle hooks such as {2}, {3}, and subsequent hooks are **NOT** executed during SSR.",
+  "text": "Nuxt effectue le rendu de la page et de ses composants, et récupère les données nécessaires avec {0} et {1} pendant cette étape. Comme il n'y a pas de mises à jour dynamiques et qu'aucune opération sur le DOM n'a lieu sur le serveur, les hooks du cycle de vie de Vue tels que {2}, {3} et les hooks suivants ne sont **PAS** exécutés pendant le SSR.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt effectue le rendu de la page et de ses composants, et récupère les données nécessaires avec {0} et {1} pendant cette étape. Comme il n'y a pas de mises à jour dynamiques et qu'aucune opération sur le DOM n'a lieu sur le serveur, les hooks du cycle de vie de Vue tels que {2}, {3} et les hooks suivants ne sont **PAS** exécutés pendant le SSR."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

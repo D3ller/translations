@@ -1,0 +1,14 @@
+{
+  "hash": "cf806bb1c1f51e97",
+  "source": "4. Perform checks related to this fixture",
+  "text": "4. Effectuer des vérifications liées à cette fixture",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "4. Effectuer des vérifications liées à cette fixture"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

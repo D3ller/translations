@@ -1,0 +1,14 @@
+{
+  "hash": "d0e8f37e68272cdc",
+  "source": "**Configure TypeScript options** if needed:",
+  "text": "**Configurez les options TypeScript** si nécessaire :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Configurez les options TypeScript** si nécessaire :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

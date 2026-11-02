@@ -1,0 +1,14 @@
+{
+  "hash": "d25b39184086f567",
+  "source": "{0} and {1} are shorthands for {2} and {3}. The latter is experimental and implemented with Vite alone: with {4} it produces a static SPA, and with SSR enabled it builds a server from the Nuxt SSR renderer whose entry exports a web-standard {5} ({6} serves the static output in front of it, and {7} runs it). Every dependency is bundled into that output, so it deploys without {8}. {9} crawls that server at the end of the build and writes a static {10}. It ships no server runtime, so server routes, route rules other than {11}, inlined styles and server components are unavailable, and modules that need a server will not work.",
+  "text": "{0} et {1} sont des raccourcis pour {2} et {3}. Ce dernier est expérimental et implémenté uniquement avec Vite : avec {4}, il produit une SPA statique, et avec le SSR activé, il construit un serveur à partir du moteur de rendu SSR de Nuxt dont le point d'entrée exporte un {5} conforme aux standards du web ({6} sert la sortie statique devant lui, et {7} l'exécute). Toutes les dépendances sont incluses dans le bundle de cette sortie, ce qui permet de la déployer sans {8}. {9} explore ce serveur à la fin du build et écrit un {10} statique. Il ne fournit aucun runtime serveur : les routes serveur, les règles de route autres que {11}, les styles inlinés et les composants serveur sont donc indisponibles, et les modules qui nécessitent un serveur ne fonctionneront pas.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} et {1} sont des raccourcis pour {2} et {3}. Ce dernier est expérimental et implémenté uniquement avec Vite : avec {4}, il produit une SPA statique, et avec le SSR activé, il construit un serveur à partir du moteur de rendu SSR de Nuxt dont le point d'entrée exporte un {5} conforme aux standards du web ({6} sert la sortie statique devant lui, et {7} l'exécute). Toutes les dépendances sont incluses dans le bundle de cette sortie, ce qui permet de la déployer sans {8}. {9} explore ce serveur à la fin du build et écrit un {10} statique. Il ne fournit aucun runtime serveur : les routes serveur, les règles de route autres que {11}, les styles inlinés et les composants serveur sont donc indisponibles, et les modules qui nécessitent un serveur ne fonctionneront pas."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

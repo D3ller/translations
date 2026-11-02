@@ -1,0 +1,14 @@
+{
+  "hash": "7532a998930f9283",
+  "source": "If you are using webpack, Nuxt uses {0} to visualize your bundles and how to optimize them.",
+  "text": "Si vous utilisez webpack, Nuxt utilise {0} pour visualiser vos bundles et savoir comment les optimiser.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous utilisez webpack, Nuxt utilise {0} pour visualiser vos bundles et savoir comment les optimiser."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

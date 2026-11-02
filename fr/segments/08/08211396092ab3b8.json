@@ -1,0 +1,14 @@
+{
+  "hash": "08211396092ab3b8",
+  "source": "This composable observes the page title changes and updates the announcer message accordingly.",
+  "text": "Ce composable observe les changements du titre de la page et met à jour le message de l'annonceur en conséquence.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ce composable observe les changements du titre de la page et met à jour le message de l'annonceur en conséquence."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "9e4b179c2c6bc1fe",
+  "source": "{0}: Controls if screen readers announce only changes or the entire content. Set to true for full content readouts on updates, false for changes only. (default {1})",
+  "text": "{0} : contrôle si les lecteurs d'écran annoncent uniquement les changements ou l'intégralité du contenu. Définissez-le à true pour une lecture complète du contenu à chaque mise à jour, ou à false pour les changements uniquement. (par défaut {1})",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : contrôle si les lecteurs d'écran annoncent uniquement les changements ou l'intégralité du contenu. Définissez-le à true pour une lecture complète du contenu à chaque mise à jour, ou à false pour les changements uniquement. (par défaut {1})"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

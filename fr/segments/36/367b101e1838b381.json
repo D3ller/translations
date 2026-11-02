@@ -1,0 +1,14 @@
+{
+  "hash": "367b101e1838b381",
+  "source": "Within composables, plugins and components you can access {0} with {1}:",
+  "text": "Dans les composables, les plugins et les composants, vous pouvez accéder à {0} avec {1} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans les composables, les plugins et les composants, vous pouvez accéder à {0} avec {1} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

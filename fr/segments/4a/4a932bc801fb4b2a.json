@@ -1,0 +1,14 @@
+{
+  "hash": "4a932bc801fb4b2a",
+  "source": "Error object if the data fetching failed.",
+  "text": "Objet d'erreur si la récupération de données a échoué.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Objet d'erreur si la récupération de données a échoué."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

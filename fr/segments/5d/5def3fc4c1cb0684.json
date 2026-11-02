@@ -1,0 +1,14 @@
+{
+  "hash": "5def3fc4c1cb0684",
+  "source": "{0} should be tested locally with {1} and then {2} rather than {3}. (The {4}preview command{/4} is not related to preview mode.)",
+  "text": "{0} doit être testé en local avec {1} puis {2} plutôt qu'avec {3}. (La {4}commande preview{/4} n'a aucun rapport avec le mode prévisualisation.)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} doit être testé en local avec {1} puis {2} plutôt qu'avec {3}. (La {4}commande preview{/4} n'a aucun rapport avec le mode prévisualisation.)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

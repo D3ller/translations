@@ -1,0 +1,14 @@
+{
+  "hash": "7e7e6b81ff7e38c4",
+  "source": "A timestamp (number)",
+  "text": "Un timestamp (nombre)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un timestamp (nombre)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

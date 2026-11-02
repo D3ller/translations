@@ -1,0 +1,14 @@
+{
+  "hash": "08409226f020eb71",
+  "source": "In this example, we use {0} component to link to a website.",
+  "text": "Dans cet exemple, vous utilisez le composant {0} pour créer un lien vers un site web.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans cet exemple, vous utilisez le composant {0} pour créer un lien vers un site web."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

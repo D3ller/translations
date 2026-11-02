@@ -1,0 +1,14 @@
+{
+  "hash": "aa37b04ad72044fa",
+  "source": "Despite the names, {0} is not a direct replacement of the {1} hook. Rather, {2} replaces both hooks and is more customizable; it can do more than simply fetching data from an endpoint. {3} is a convenience wrapper around {4} for simply fetching data from an endpoint.",
+  "text": "Malgré leurs noms, {0} n'est pas un remplacement direct du hook {1}. En réalité, {2} remplace les deux hooks et est plus personnalisable ; il peut faire plus que simplement récupérer des données depuis un point d'accès. {3} est un wrapper pratique autour de {4} pour simplement récupérer des données depuis un point d'accès.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Malgré leurs noms, {0} n'est pas un remplacement direct du hook {1}. En réalité, {2} remplace les deux hooks et est plus personnalisable ; il peut faire plus que simplement récupérer des données depuis un point d'accès. {3} est un wrapper pratique autour de {4} pour simplement récupérer des données depuis un point d'accès."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

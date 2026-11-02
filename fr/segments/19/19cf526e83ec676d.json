@@ -1,0 +1,14 @@
+{
+  "hash": "19cf526e83ec676d",
+  "source": "This version is being developed for and will receive security patches",
+  "text": "Cette version est en cours de développement et recevra des correctifs de sécurité",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cette version est en cours de développement et recevra des correctifs de sécurité"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

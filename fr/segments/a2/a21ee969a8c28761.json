@@ -1,0 +1,14 @@
+{
+  "hash": "a21ee969a8c28761",
+  "source": "Called after resources are loaded.",
+  "text": "Appelé après le chargement des ressources.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appelé après le chargement des ressources."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

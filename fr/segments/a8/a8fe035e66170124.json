@@ -1,0 +1,14 @@
+{
+  "hash": "a8fe035e66170124",
+  "source": "User configuration merged across all layers, with no schema defaults applied and with {0}, {1} and {2} excluded, so repeated loads of an unchanged project produce an unchanged snapshot.",
+  "text": "Configuration utilisateur fusionnée entre tous les layers, sans valeurs par défaut du schéma et avec {0}, {1} et {2} exclus, de sorte que des chargements répétés d'un projet inchangé produisent un instantané inchangé.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Configuration utilisateur fusionnée entre tous les layers, sans valeurs par défaut du schéma et avec {0}, {1} et {2} exclus, de sorte que des chargements répétés d'un projet inchangé produisent un instantané inchangé."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

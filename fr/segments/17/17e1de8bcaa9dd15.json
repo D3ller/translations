@@ -1,0 +1,14 @@
+{
+  "hash": "17e1de8bcaa9dd15",
+  "source": "After that, you should be able to reference {0} like in any regular project.",
+  "text": "Après cela, vous devriez pouvoir référencer {0} comme dans n'importe quel projet classique.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Après cela, vous devriez pouvoir référencer {0} comme dans n'importe quel projet classique."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

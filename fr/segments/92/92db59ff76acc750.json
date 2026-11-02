@@ -1,0 +1,14 @@
+{
+  "hash": "92db59ff76acc750",
+  "source": "defineNuxtPlugin() is a helper function for creating Nuxt plugins.",
+  "text": "defineNuxtPlugin() est une fonction helper permettant de créer des plugins Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "defineNuxtPlugin() est une fonction helper permettant de créer des plugins Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

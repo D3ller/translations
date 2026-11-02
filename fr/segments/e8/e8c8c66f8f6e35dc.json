@@ -1,0 +1,14 @@
+{
+  "hash": "e8c8c66f8f6e35dc",
+  "source": "Use usePreviewMode to check and control preview mode in Nuxt",
+  "text": "Utilisez usePreviewMode pour vérifier et contrôler le mode prévisualisation dans Nuxt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utilisez usePreviewMode pour vérifier et contrôler le mode prévisualisation dans Nuxt"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "6e9d6366a2d6fa2d",
+  "source": "**Server-only head composables**: {0}, {1} and {2} are {3}no longer auto-imported{/3}, and {4} is ignored",
+  "text": "**Composables de head côté serveur uniquement** : {0}, {1} et {2} {3}ne sont plus importés automatiquement{/3}, et {4} est ignoré",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Composables de head côté serveur uniquement** : {0}, {1} et {2} {3}ne sont plus importés automatiquement{/3}, et {4} est ignoré"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "2d7e91702255b0b1",
+  "source": "TypeScript references add files to the type context {0}without being affected by the {1} option in {2}{/0}.",
+  "text": "Les références TypeScript ajoutent des fichiers au contexte de types {0}sans être affectées par l'option {1} dans {2}{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les références TypeScript ajoutent des fichiers au contexte de types {0}sans être affectées par l'option {1} dans {2}{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

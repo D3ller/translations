@@ -1,0 +1,14 @@
+{
+  "hash": "8f74aa6bc840a2cc",
+  "source": "The example below shows how the middleware can be defined using a {0} directly within the {1} or set as a {2} that matches the middleware file name located in the {3} directory:",
+  "text": "L'exemple ci-dessous montre comment le middleware peut être défini à l'aide d'un {0} directement dans {1} ou d'un {2} correspondant au nom du fichier de middleware situé dans le répertoire {3} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'exemple ci-dessous montre comment le middleware peut être défini à l'aide d'un {0} directement dans {1} ou d'un {2} correspondant au nom du fichier de middleware situé dans le répertoire {3} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

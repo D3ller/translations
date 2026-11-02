@@ -1,0 +1,14 @@
+{
+  "hash": "d48a9edb13a3b890",
+  "source": "Activate Vite to your Nuxt 2 application with Nuxt Bridge.",
+  "text": "Activez Vite dans votre application Nuxt 2 avec Nuxt Bridge.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Activez Vite dans votre application Nuxt 2 avec Nuxt Bridge."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "b48667f31dff4e3d",
+  "source": "skip middleware on client side entirely",
+  "text": "ignorer entièrement le middleware côté client",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "ignorer entièrement le middleware côté client"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

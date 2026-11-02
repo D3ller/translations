@@ -1,0 +1,14 @@
+{
+  "hash": "1942414c13c2608b",
+  "source": "For {0} and {1}, whether {2} should be {3} when data has not yet started to be fetched.",
+  "text": "Pour {0} et {1}, indique si {2} doit être {3} lorsque la récupération des données n'a pas encore commencé.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour {0} et {1}, indique si {2} doit être {3} lorsque la récupération des données n'a pas encore commencé."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

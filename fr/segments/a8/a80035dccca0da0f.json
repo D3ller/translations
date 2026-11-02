@@ -1,0 +1,14 @@
+{
+  "hash": "a80035dccca0da0f",
+  "source": "If you want to use a function (for full control), then this cannot be set in your nuxt.config, and it is recommended instead to set it within your {0} directory.",
+  "text": "Si vous souhaitez utiliser une fonction (pour un contrôle total), elle ne peut pas être définie dans votre nuxt.config ; il est recommandé de la définir plutôt dans votre répertoire {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous souhaitez utiliser une fonction (pour un contrôle total), elle ne peut pas être définie dans votre nuxt.config ; il est recommandé de la définir plutôt dans votre répertoire {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

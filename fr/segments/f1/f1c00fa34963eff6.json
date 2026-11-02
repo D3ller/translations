@@ -1,0 +1,14 @@
+{
+  "hash": "f1c00fa34963eff6",
+  "source": "We enabled a previously experimental feature to share data from {0} and {1} calls, across different pages. See {2}original PR{/2}.",
+  "text": "Nous avons activé une fonctionnalité auparavant expérimentale qui permet de partager les données des appels à {0} et {1} entre différentes pages. Consultez la {2}PR d'origine{/2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nous avons activé une fonctionnalité auparavant expérimentale qui permet de partager les données des appels à {0} et {1} entre différentes pages. Consultez la {2}PR d'origine{/2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

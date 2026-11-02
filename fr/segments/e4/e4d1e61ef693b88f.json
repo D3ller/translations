@@ -1,0 +1,14 @@
+{
+  "hash": "e4d1e61ef693b88f",
+  "source": "The {0} command should now be changed to the {1} command.",
+  "text": "La commande {0} doit maintenant être remplacée par la commande {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La commande {0} doit maintenant être remplacée par la commande {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

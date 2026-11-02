@@ -1,0 +1,14 @@
+{
+  "hash": "444f818709390894",
+  "source": "Nuxt has the pieces to avoid paying that cost where you don't need it. This recipe combines them:",
+  "text": "Nuxt dispose des outils nécessaires pour ne pas payer ce coût là où vous n'en avez pas besoin. Cette recette les combine :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt dispose des outils nécessaires pour ne pas payer ce coût là où vous n'en avez pas besoin. Cette recette les combine :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

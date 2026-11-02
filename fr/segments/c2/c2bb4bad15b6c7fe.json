@@ -1,0 +1,14 @@
+{
+  "hash": "c2bb4bad15b6c7fe",
+  "source": "Example: Dynamic Routes",
+  "text": "Exemple : routes dynamiques",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Exemple : routes dynamiques"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

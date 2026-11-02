@@ -1,0 +1,14 @@
+{
+  "hash": "9eb8abdb7fa9ac62",
+  "source": "A composable that needs the Nuxt instance ({0}, {1}, {2}, …) ran outside a plugin, Nuxt hook, route middleware, or Vue {3}. The most common trigger is calling it inside an async callback ({4}, {5}, after an {6}) where the context has been lost.",
+  "text": "Un composable qui nécessite l'instance de Nuxt ({0}, {1}, {2}, …) s'est exécuté en dehors d'un plugin, d'un hook Nuxt, d'un middleware de route ou d'un {3} Vue. Le déclencheur le plus courant est son appel dans un callback asynchrone ({4}, {5}, après un {6}) où le contexte a été perdu.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un composable qui nécessite l'instance de Nuxt ({0}, {1}, {2}, …) s'est exécuté en dehors d'un plugin, d'un hook Nuxt, d'un middleware de route ou d'un {3} Vue. Le déclencheur le plus courant est son appel dans un callback asynchrone ({4}, {5}, après un {6}) où le contexte a été perdu."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

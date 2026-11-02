@@ -1,0 +1,14 @@
+{
+  "hash": "8984afd6d6fa936b",
+  "source": "App Hooks (runtime)",
+  "text": "Hooks de l'application (runtime)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Hooks de l'application (runtime)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "a7f0062c810c136b",
+  "source": "Enables performance markers for Nuxt hooks in browser devtools. This adds performance markers that you can track in the Performance tab of Chromium-based browsers, which is useful for debugging and optimizing performance.",
+  "text": "Active les marqueurs de performance pour les hooks Nuxt dans les outils de développement du navigateur. Cela ajoute des marqueurs de performance que vous pouvez suivre dans l'onglet Performance des navigateurs basés sur Chromium, ce qui est utile pour le débogage et l'optimisation des performances.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Active les marqueurs de performance pour les hooks Nuxt dans les outils de développement du navigateur. Cela ajoute des marqueurs de performance que vous pouvez suivre dans l'onglet Performance des navigateurs basés sur Chromium, ce qui est utile pour le débogage et l'optimisation des performances."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

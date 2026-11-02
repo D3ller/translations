@@ -1,0 +1,14 @@
+{
+  "hash": "28581c704b76b483",
+  "source": "The nudge is not shown for prereleases, and not for a patch release within the same minor unless you are at least five patches behind. The check is skipped in CI, on StackBlitz, and when the output is not a terminal.",
+  "text": "L'invitation n'est pas affichée pour les préversions, ni pour une version corrective au sein de la même version mineure, sauf si vous avez au moins cinq correctifs de retard. La vérification est ignorée en CI, sur StackBlitz, et lorsque la sortie n'est pas un terminal.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'invitation n'est pas affichée pour les préversions, ni pour une version corrective au sein de la même version mineure, sauf si vous avez au moins cinq correctifs de retard. La vérification est ignorée en CI, sur StackBlitz, et lorsque la sortie n'est pas un terminal."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

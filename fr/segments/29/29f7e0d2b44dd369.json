@@ -1,0 +1,14 @@
+{
+  "hash": "29f7e0d2b44dd369",
+  "source": "This is an advanced option. Custom config can affect production deployments, as the configuration interface might change over time when Nitro is upgraded in semver-minor versions of Nuxt.",
+  "text": "Il s'agit d'une option avancée. Une configuration personnalisée peut affecter les déploiements en production, car l'interface de configuration peut changer au fil du temps lorsque Nitro est mis à jour dans les versions semver-minor de Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Il s'agit d'une option avancée. Une configuration personnalisée peut affecter les déploiements en production, car l'interface de configuration peut changer au fil du temps lorsque Nitro est mis à jour dans les versions semver-minor de Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

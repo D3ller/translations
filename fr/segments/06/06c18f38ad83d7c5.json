@@ -1,0 +1,14 @@
+{
+  "hash": "06c18f38ad83d7c5",
+  "source": "You can use the built-in {0} composable to access and control preview state in Nuxt. If the composable detects preview mode it will automatically force any updates necessary for {1} and {2} to rerender preview content.",
+  "text": "Vous pouvez utiliser le composable intégré {0} pour accéder à l'état de la prévisualisation et le contrôler dans Nuxt. Si le composable détecte le mode prévisualisation, il force automatiquement toutes les mises à jour nécessaires pour que {1} et {2} refassent le rendu du contenu de la prévisualisation.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez utiliser le composable intégré {0} pour accéder à l'état de la prévisualisation et le contrôler dans Nuxt. Si le composable détecte le mode prévisualisation, il force automatiquement toutes les mises à jour nécessaires pour que {1} et {2} refassent le rendu du contenu de la prévisualisation."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

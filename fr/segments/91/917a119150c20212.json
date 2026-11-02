@@ -1,0 +1,14 @@
+{
+  "hash": "917a119150c20212",
+  "source": "Called during {0} generation, to allow customizing, modifying or adding new files to the build directory (either virtually or to written to {1}).",
+  "text": "Appelé pendant la génération de {0}, afin de permettre de personnaliser, modifier ou ajouter de nouveaux fichiers au répertoire de build (de manière virtuelle ou en les écrivant dans {1}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appelé pendant la génération de {0}, afin de permettre de personnaliser, modifier ou ajouter de nouveaux fichiers au répertoire de build (de manière virtuelle ou en les écrivant dans {1})."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

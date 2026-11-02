@@ -1,0 +1,14 @@
+{
+  "hash": "06e7272e60544933",
+  "source": "This only works for source files within {0} and {1} for the Vue/Nitro parts of your app.",
+  "text": "Cela ne fonctionne que pour les fichiers sources situés dans {0} et {1} pour les parties Vue/Nitro de votre application.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela ne fonctionne que pour les fichiers sources situés dans {0} et {1} pour les parties Vue/Nitro de votre application."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

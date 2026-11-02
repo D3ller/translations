@@ -1,0 +1,14 @@
+{
+  "hash": "4719ee093bf20214",
+  "source": "Nuxt layers are a powerful feature that you can use to share and reuse partial Nuxt applications within a monorepo, or from a git repository or npm package. The layers structure is almost identical to a standard Nuxt application, which makes them easy to author and maintain.",
+  "text": "Les layers (couches) Nuxt sont une fonctionnalité puissante qui vous permet de partager et de réutiliser des applications Nuxt partielles au sein d'un monorepo, ou depuis un dépôt git ou un package npm. La structure des layers est presque identique à celle d'une application Nuxt standard, ce qui facilite leur création et leur maintenance.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les layers (couches) Nuxt sont une fonctionnalité puissante qui vous permet de partager et de réutiliser des applications Nuxt partielles au sein d'un monorepo, ou depuis un dépôt git ou un package npm. La structure des layers est presque identique à celle d'une application Nuxt standard, ce qui facilite leur création et leur maintenance."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

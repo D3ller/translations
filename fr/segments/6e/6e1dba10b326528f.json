@@ -1,0 +1,14 @@
+{
+  "hash": "6e1dba10b326528f",
+  "source": "The date and time value to display. You can provide:",
+  "text": "La valeur de date et d'heure à afficher. Vous pouvez fournir :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La valeur de date et d'heure à afficher. Vous pouvez fournir :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

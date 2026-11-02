@@ -1,0 +1,14 @@
+{
+  "hash": "39f2b9b875c2e5d6",
+  "source": "The {0} parameter in {1} influences how navigating to URLs is handled:",
+  "text": "Le paramètre {0} de {1} influence la manière dont la navigation vers les URL est gérée :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le paramètre {0} de {1} influence la manière dont la navigation vers les URL est gérée :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

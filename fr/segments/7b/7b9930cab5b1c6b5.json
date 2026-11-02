@@ -1,0 +1,14 @@
+{
+  "hash": "7b9930cab5b1c6b5",
+  "source": "By default page metadata is only scanned after all routes have been registered in {0}. Then another hook, {1} will be called.",
+  "text": "Par défaut, les métadonnées de page ne sont analysées qu'une fois toutes les routes enregistrées dans {0}. Ensuite, un autre hook, {1}, est appelé.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par défaut, les métadonnées de page ne sont analysées qu'une fois toutes les routes enregistrées dans {0}. Ensuite, un autre hook, {1}, est appelé."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

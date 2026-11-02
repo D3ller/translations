@@ -1,0 +1,14 @@
+{
+  "hash": "f0ff3b65f7846378",
+  "source": "This has no effect when {0} is {1}, as the route record does not override the meta module in that case.",
+  "text": "Cela n'a aucun effet lorsque {0} vaut {1}, car l'enregistrement de route ne remplace pas le module de métadonnées dans ce cas.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela n'a aucun effet lorsque {0} vaut {1}, car l'enregistrement de route ne remplace pas le module de métadonnées dans ce cas."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "9a8a673f7c9c9f09",
+  "source": "Called when Nuxt needs the full set of route handlers the server will serve, so that it can type {0} and {1} against them. The configured server builder adds the handlers it discovered by scanning, alongside those registered through {2}.",
+  "text": "Appelé lorsque Nuxt a besoin de l'ensemble complet des gestionnaires de routes que le serveur va servir, afin de typer {0} et {1} en conséquence. Le server builder configuré ajoute les gestionnaires qu'il a découverts par analyse, en plus de ceux enregistrés via {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appelé lorsque Nuxt a besoin de l'ensemble complet des gestionnaires de routes que le serveur va servir, afin de typer {0} et {1} en conséquence. Le server builder configuré ajoute les gestionnaires qu'il a découverts par analyse, en plus de ceux enregistrés via {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "e13495a9717ac3b9",
+  "source": "Server-only code (such as Node APIs, Nitro utilities, or server route handlers) must not run in the browser. Importing it into your app can break the client build, cause runtime errors in the browser, or leak server logic into the client bundle.",
+  "text": "Le code réservé au serveur (comme les API Node, les utilitaires Nitro ou les gestionnaires de routes serveur) ne doit pas s'exécuter dans le navigateur. L'importer dans votre application peut casser le build client, provoquer des erreurs d'exécution dans le navigateur ou exposer la logique serveur dans le bundle client.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le code réservé au serveur (comme les API Node, les utilitaires Nitro ou les gestionnaires de routes serveur) ne doit pas s'exécuter dans le navigateur. L'importer dans votre application peut casser le build client, provoquer des erreurs d'exécution dans le navigateur ou exposer la logique serveur dans le bundle client."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

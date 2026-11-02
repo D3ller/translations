@@ -1,0 +1,14 @@
+{
+  "hash": "a1a0d4c7b8bf41c2",
+  "source": "**{0}**: A template object or a string with the path to the template. If a string is provided, it will be converted to a template object with {1} set to the string value. If a template object is provided, it must have the following properties:",
+  "text": "**{0}** : un objet template ou une chaîne contenant le chemin vers le template. Si une chaîne est fournie, elle sera convertie en objet template avec {1} défini sur la valeur de la chaîne. Si un objet template est fourni, il doit avoir les propriétés suivantes :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** : un objet template ou une chaîne contenant le chemin vers le template. Si une chaîne est fournie, elle sera convertie en objet template avec {1} défini sur la valeur de la chaîne. Si un objet template est fourni, il doit avoir les propriétés suivantes :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

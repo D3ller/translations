@@ -1,0 +1,14 @@
+{
+  "hash": "5fb0a445e9e2373a",
+  "source": "{0} (or {1}, which is normalized to {2}): scripts are omitted in production builds only, so hot module replacement and other development features keep working in {3}.",
+  "text": "{0} (ou {1}, qui est normalisé en {2}) : les scripts sont omis uniquement dans les builds de production, de sorte que le remplacement à chaud des modules et les autres fonctionnalités de développement continuent de fonctionner en {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} (ou {1}, qui est normalisé en {2}) : les scripts sont omis uniquement dans les builds de production, de sorte que le remplacement à chaud des modules et les autres fonctionnalités de développement continuent de fonctionner en {3}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

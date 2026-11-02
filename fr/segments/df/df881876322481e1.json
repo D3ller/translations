@@ -1,0 +1,14 @@
+{
+  "hash": "df881876322481e1",
+  "source": "Write your own auto-imported reusable functions in the {0}{1} directory{/0}.",
+  "text": "Écrivez vos propres fonctions réutilisables importées automatiquement dans le {0}répertoire {1}{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Écrivez vos propres fonctions réutilisables importées automatiquement dans le {0}répertoire {1}{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

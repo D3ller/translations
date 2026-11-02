@@ -1,0 +1,14 @@
+{
+  "hash": "260c556df9f402bd",
+  "source": "a path (relative to {0}, which is {1} by default) to use a different HTML file,",
+  "text": "un chemin (relatif à {0}, qui vaut {1} par défaut) pour utiliser un autre fichier HTML ;",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "un chemin (relatif à {0}, qui vaut {1} par défaut) pour utiliser un autre fichier HTML ;"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

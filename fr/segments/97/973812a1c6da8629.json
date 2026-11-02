@@ -1,0 +1,14 @@
+{
+  "hash": "973812a1c6da8629",
+  "source": "Store the previously cached value to restore if fetch fails.",
+  "text": "Stockez la valeur précédemment en cache pour la restaurer si la récupération échoue.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Stockez la valeur précédemment en cache pour la restaurer si la récupération échoue."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

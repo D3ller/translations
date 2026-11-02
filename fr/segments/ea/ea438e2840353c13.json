@@ -1,0 +1,14 @@
+{
+  "hash": "ea438e2840353c13",
+  "source": "Nitro's own runtime hooks, such as {0} and {1}",
+  "text": "Les hooks d'exécution propres à Nitro, tels que {0} et {1}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les hooks d'exécution propres à Nitro, tels que {0} et {1}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

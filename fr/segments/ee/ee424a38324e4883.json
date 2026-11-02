@@ -1,0 +1,14 @@
+{
+  "hash": "ee424a38324e4883",
+  "source": "Add Virtual Files",
+  "text": "Ajouter des fichiers virtuels",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ajouter des fichiers virtuels"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

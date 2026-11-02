@@ -1,0 +1,14 @@
+{
+  "hash": "f60a63bdd556c70e",
+  "source": "If you are building an integration that needs access to the runtime Vite or webpack config that Nuxt uses, it is possible to extract this using Kit utilities.",
+  "text": "Si vous développez une intégration qui a besoin d'accéder à la configuration Vite ou webpack utilisée par Nuxt au moment de l'exécution, il est possible de l'extraire à l'aide des utilitaires de Kit.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous développez une intégration qui a besoin d'accéder à la configuration Vite ou webpack utilisée par Nuxt au moment de l'exécution, il est possible de l'extraire à l'aide des utilitaires de Kit."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "d44f63e7d2fb3dbd",
+  "source": "{0}: when set to {1}, will prevent the request from firing immediately. (defaults to {2})",
+  "text": "{0} : lorsque défini sur {1}, empêche la requête de se déclencher immédiatement (par défaut : {2})",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : lorsque défini sur {1}, empêche la requête de se déclencher immédiatement (par défaut : {2})"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

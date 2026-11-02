@@ -1,0 +1,14 @@
+{
+  "hash": "5b3e02eb7549f62b",
+  "source": "Returns the Nitro instance.",
+  "text": "Retourne l'instance Nitro.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Retourne l'instance Nitro."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

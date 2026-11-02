@@ -1,0 +1,14 @@
+{
+  "hash": "cc6a8ffc502195cc",
+  "source": "requiresAuth is now typed as boolean | undefined",
+  "text": "requiresAuth est désormais typé comme boolean | undefined",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "requiresAuth est désormais typé comme boolean | undefined"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

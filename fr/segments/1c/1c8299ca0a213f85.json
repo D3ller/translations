@@ -1,0 +1,14 @@
+{
+  "hash": "1c8299ca0a213f85",
+  "source": "If you emit a per-component styles map alongside its CSS chunks:",
+  "text": "Si vous émettez une table des styles par composant avec ses chunks CSS :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous émettez une table des styles par composant avec ses chunks CSS :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

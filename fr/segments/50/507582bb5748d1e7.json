@@ -1,0 +1,14 @@
+{
+  "hash": "507582bb5748d1e7",
+  "source": "{0} Is No Longer Bundled",
+  "text": "{0} n'est plus inclus dans le bundle",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} n'est plus inclus dans le bundle"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

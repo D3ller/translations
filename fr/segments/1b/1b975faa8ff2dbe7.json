@@ -1,0 +1,14 @@
+{
+  "hash": "1b975faa8ff2dbe7",
+  "source": "For more control, such as if you are using a custom {0} or {1} set in the page's {2}, you should set {3} directly within your {4}.",
+  "text": "Pour plus de contrôle, par exemple si vous utilisez un {0} ou un {1} personnalisé défini dans le {2} de la page, vous devez définir {3} directement dans votre {4}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour plus de contrôle, par exemple si vous utilisez un {0} ou un {1} personnalisé défini dans le {2} de la page, vous devez définir {3} directement dans votre {4}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "92da0c6d41ec08b5",
+  "source": "Called when the dev middleware is being registered on the Nitro dev server.",
+  "text": "Appelé lors de l'enregistrement du middleware de développement sur le serveur de développement Nitro.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appelé lors de l'enregistrement du middleware de développement sur le serveur de développement Nitro."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

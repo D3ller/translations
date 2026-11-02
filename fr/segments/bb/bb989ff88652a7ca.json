@@ -1,0 +1,14 @@
+{
+  "hash": "bb989ff88652a7ca",
+  "source": "Specify a version constraint (semver format)",
+  "text": "Spécifier une contrainte de version (format semver)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Spécifier une contrainte de version (format semver)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

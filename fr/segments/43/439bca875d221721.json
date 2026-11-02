@@ -1,0 +1,14 @@
+{
+  "hash": "439bca875d221721",
+  "source": "A function that resolves a path relative to the base path and respects Nuxt alias and extensions options.",
+  "text": "Une fonction qui résout un chemin relatif au chemin de base et respecte les options d'alias et d'extensions de Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une fonction qui résout un chemin relatif au chemin de base et respecte les options d'alias et d'extensions de Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

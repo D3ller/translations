@@ -1,0 +1,14 @@
+{
+  "hash": "6dc7eb2f3e4f436a",
+  "source": "{0} composable provides {1}, {2} and {3} helper methods that acts as navigation guards.",
+  "text": "Le composable {0} fournit les méthodes helper {1}, {2} et {3}, qui agissent comme des guards de navigation.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le composable {0} fournit les méthodes helper {1}, {2} et {3}, qui agissent comme des guards de navigation."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

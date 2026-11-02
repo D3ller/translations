@@ -1,0 +1,14 @@
+{
+  "hash": "7740c9a1c65aaa9b",
+  "source": "Use a unique prefix based on your module name:",
+  "text": "Utilisez un préfixe unique basé sur le nom de votre module :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utilisez un préfixe unique basé sur le nom de votre module :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

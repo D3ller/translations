@@ -1,0 +1,14 @@
+{
+  "hash": "9e4305373ca84210",
+  "source": "Read more on the {0} documentation.",
+  "text": "Pour en savoir plus, consultez la documentation de {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour en savoir plus, consultez la documentation de {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

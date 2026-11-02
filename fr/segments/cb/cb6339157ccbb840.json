@@ -1,0 +1,14 @@
+{
+  "hash": "cb6339157ccbb840",
+  "source": "Disabling Modules from Layers",
+  "text": "Désactivation de modules provenant de layers",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Désactivation de modules provenant de layers"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "7b16acd9c7e9abcf",
+  "source": "Nuxt can generate two fallback pages for static hosts:",
+  "text": "Nuxt peut générer deux pages de repli pour les hébergeurs statiques :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt peut générer deux pages de repli pour les hébergeurs statiques :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

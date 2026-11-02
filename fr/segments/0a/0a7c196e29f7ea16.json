@@ -1,0 +1,14 @@
+{
+  "hash": "0a7c196e29f7ea16",
+  "source": "You can also use the payload object to enable two-way communication between the emitter and listeners. Since the payload is passed by reference, a listener can modify it to send data back to the emitter.",
+  "text": "Vous pouvez également utiliser l'objet payload (charge utile) pour permettre une communication bidirectionnelle entre l'émetteur et les écouteurs. Comme le payload est passé par référence, un écouteur peut le modifier pour renvoyer des données à l'émetteur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez également utiliser l'objet payload (charge utile) pour permettre une communication bidirectionnelle entre l'émetteur et les écouteurs. Comme le payload est passé par référence, un écouteur peut le modifier pour renvoyer des données à l'émetteur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

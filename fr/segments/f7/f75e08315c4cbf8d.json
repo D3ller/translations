@@ -1,0 +1,14 @@
+{
+  "hash": "f75e08315c4cbf8d",
+  "source": "Base URL for the request.",
+  "text": "URL de base de la requête.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "URL de base de la requête."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

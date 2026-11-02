@@ -1,0 +1,14 @@
+{
+  "hash": "c7e814c47da2ab8c",
+  "source": "Allows full control of the hydration cycle to set and receive data from the server.",
+  "text": "Permet un contrôle total du cycle d'hydratation pour définir et recevoir des données depuis le serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Permet un contrôle total du cycle d'hydratation pour définir et recevoir des données depuis le serveur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

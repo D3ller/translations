@@ -1,0 +1,14 @@
+{
+  "hash": "77ef13a8c33d2edf",
+  "source": "path of composable",
+  "text": "chemin du composable",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "chemin du composable"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

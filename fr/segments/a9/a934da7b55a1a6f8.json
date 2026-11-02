@@ -1,0 +1,14 @@
+{
+  "hash": "a934da7b55a1a6f8",
+  "source": "{0} — fast Node tests without the Nuxt runtime",
+  "text": "{0} : tests Node rapides, sans le runtime de Nuxt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : tests Node rapides, sans le runtime de Nuxt"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

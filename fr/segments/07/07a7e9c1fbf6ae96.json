@@ -1,0 +1,14 @@
+{
+  "hash": "07a7e9c1fbf6ae96",
+  "source": "This example shows how to set a custom CDN url and access them using {0}.",
+  "text": "Cet exemple montre comment définir une URL de CDN personnalisée et y accéder avec {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cet exemple montre comment définir une URL de CDN personnalisée et y accéder avec {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

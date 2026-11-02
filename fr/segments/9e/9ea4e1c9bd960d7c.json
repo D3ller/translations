@@ -1,0 +1,14 @@
+{
+  "hash": "9ea4e1c9bd960d7c",
+  "source": "Module authors can also add their own providers (or remove existing ones) in the {0} hook which is called by Nuxt Fonts after all modules have run.",
+  "text": "Les auteurs de modules peuvent également ajouter leurs propres providers (ou supprimer ceux existants) dans le hook {0}, appelé par Nuxt Fonts après l'exécution de tous les modules.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les auteurs de modules peuvent également ajouter leurs propres providers (ou supprimer ceux existants) dans le hook {0}, appelé par Nuxt Fonts après l'exécution de tous les modules."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

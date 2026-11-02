@@ -1,0 +1,14 @@
+{
+  "hash": "fde85bb888b0280a",
+  "source": "Hydration will be triggered when the browser is idle or after 2000ms.",
+  "text": "L'hydratation sera déclenchée lorsque le navigateur est inactif ou après 2000ms.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'hydratation sera déclenchée lorsque le navigateur est inactif ou après 2000ms."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

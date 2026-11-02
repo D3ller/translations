@@ -1,0 +1,14 @@
+{
+  "hash": "9dc3fb33603f8a09",
+  "source": "{0} is the not-found fallback. Configure your host to serve it for routes that should keep a 404 status.",
+  "text": "{0} est la page de repli pour les ressources introuvables. Configurez votre hébergeur pour qu'il la serve pour les routes qui doivent conserver un statut 404.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est la page de repli pour les ressources introuvables. Configurez votre hébergeur pour qu'il la serve pour les routes qui doivent conserver un statut 404."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

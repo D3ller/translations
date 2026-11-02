@@ -1,0 +1,14 @@
+{
+  "hash": "95ff447cf51026d2",
+  "source": "As an app builder, provide only what your build produces. Every key has a default describing a build without the feature (an empty manifest, no inline styles, an undefined entry chunk), so the server runtime type-checks and builds even before an app builder runs. When SSR is disabled, the {0} default is a no-op app and most other outputs are unused.",
+  "text": "En tant que builder d'application, ne fournissez que ce que votre build produit. Chaque clé possède une valeur par défaut décrivant un build sans la fonctionnalité (un manifeste vide, aucun style en ligne, un chunk d'entrée non défini), de sorte que le runtime serveur passe la vérification des types et se compile même avant l'exécution d'un builder d'application. Lorsque SSR est désactivé, la valeur par défaut de {0} est une application sans effet et la plupart des autres sorties sont inutilisées.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En tant que builder d'application, ne fournissez que ce que votre build produit. Chaque clé possède une valeur par défaut décrivant un build sans la fonctionnalité (un manifeste vide, aucun style en ligne, un chunk d'entrée non défini), de sorte que le runtime serveur passe la vérification des types et se compile même avant l'exécution d'un builder d'application. Lorsque SSR est désactivé, la valeur par défaut de {0} est une application sans effet et la plupart des autres sorties sont inutilisées."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

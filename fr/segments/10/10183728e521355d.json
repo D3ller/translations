@@ -1,0 +1,14 @@
+{
+  "hash": "10183728e521355d",
+  "source": "Nuxt configuration can be read and altered by modules. Here's an example of a module enabling an experimental feature.",
+  "text": "La configuration de Nuxt peut être lue et modifiée par les modules. Voici un exemple de module qui active une fonctionnalité expérimentale.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La configuration de Nuxt peut être lue et modifiée par les modules. Voici un exemple de module qui active une fonctionnalité expérimentale."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

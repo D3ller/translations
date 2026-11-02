@@ -1,0 +1,14 @@
+{
+  "hash": "7b11a5b3ef8de9da",
+  "source": "First, upgrade Nuxt using the {0}instructions above{/0}.",
+  "text": "Commencez par mettre à niveau Nuxt en suivant les {0}instructions ci-dessus{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Commencez par mettre à niveau Nuxt en suivant les {0}instructions ci-dessus{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

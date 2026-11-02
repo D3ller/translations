@@ -1,0 +1,14 @@
+{
+  "hash": "9c0d89ac13058b0a",
+  "source": "Now, when {0} is passed, {1} will be {2} until the first request is made. This is a change from the previous behavior, where {3} was always {4} until the first request was made.",
+  "text": "Désormais, lorsque {0} est passé, {1} sera {2} jusqu'à ce que la première requête soit effectuée. Il s'agit d'un changement par rapport au comportement précédent, où {3} valait toujours {4} jusqu'à ce que la première requête soit effectuée.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Désormais, lorsque {0} est passé, {1} sera {2} jusqu'à ce que la première requête soit effectuée. Il s'agit d'un changement par rapport au comportement précédent, où {3} valait toujours {4} jusqu'à ce que la première requête soit effectuée."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

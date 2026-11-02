@@ -1,0 +1,14 @@
+{
+  "hash": "1517929753bc8e0a",
+  "source": "This function will return the global Nuxt error that is being handled.",
+  "text": "Cette fonction renvoie l'erreur Nuxt globale en cours de traitement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cette fonction renvoie l'erreur Nuxt globale en cours de traitement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "d9145f49eaa09d6f",
+  "source": "Mistyped commands and flags",
+  "text": "Commandes et options mal saisies",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Commandes et options mal saisies"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

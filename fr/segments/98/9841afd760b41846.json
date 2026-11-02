@@ -1,0 +1,14 @@
+{
+  "hash": "9841afd760b41846",
+  "source": "{0} can be absolute or relative",
+  "text": "{0} peut être absolu ou relatif",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} peut être absolu ou relatif"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

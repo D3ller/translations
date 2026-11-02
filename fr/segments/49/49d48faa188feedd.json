@@ -1,0 +1,14 @@
+{
+  "hash": "49d48faa188feedd",
+  "source": "Keep async components that own paint-critical {0} directly under a {1} boundary rather than nested behind another async parent.",
+  "text": "Gardez les composants asynchrones qui possèdent des {0} critiques pour l'affichage directement sous une frontière {1} plutôt qu'imbriqués derrière un autre parent asynchrone.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Gardez les composants asynchrones qui possèdent des {0} critiques pour l'affichage directement sous une frontière {1} plutôt qu'imbriqués derrière un autre parent asynchrone."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

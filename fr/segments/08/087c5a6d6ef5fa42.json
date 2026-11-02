@@ -1,0 +1,14 @@
+{
+  "hash": "087c5a6d6ef5fa42",
+  "source": "**Note**: These aliases will be automatically added to the generated TypeScript configurations ({0}, {1}, etc.) so you can get full type support and path auto-complete. In case you need to extend options provided by the generated configurations further, make sure to add them here or within the {2} property in {3}.",
+  "text": "**Remarque** : ces alias seront automatiquement ajoutés aux configurations TypeScript générées ({0}, {1}, etc.) afin que vous bénéficiiez d'un typage complet et de l'autocomplétion des chemins. Si vous avez besoin d'étendre davantage les options fournies par les configurations générées, ajoutez-les ici ou dans la propriété {2} de {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Remarque** : ces alias seront automatiquement ajoutés aux configurations TypeScript générées ({0}, {1}, etc.) afin que vous bénéficiiez d'un typage complet et de l'autocomplétion des chemins. Si vous avez besoin d'étendre davantage les options fournies par les configurations générées, ajoutez-les ici ou dans la propriété {2} de {3}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "b6c19ac8dd43c83b",
+  "source": "You may need to update the config below with a path to your web browser. For more information, visit the {0}VS Code documentation about debug configuration{/0}.",
+  "text": "Vous devrez peut-être mettre à jour la configuration ci-dessous avec le chemin de votre navigateur web. Pour plus d'informations, consultez la {0}documentation de VS Code sur la configuration du débogage{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous devrez peut-être mettre à jour la configuration ci-dessous avec le chemin de votre navigateur web. Pour plus d'informations, consultez la {0}documentation de VS Code sur la configuration du débogage{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

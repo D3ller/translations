@@ -1,0 +1,14 @@
+{
+  "hash": "2856fd4197a65d27",
+  "source": "This command will install {0} as dependency and push it in the {1} section of our {2}",
+  "text": "Cette commande installera {0} comme dépendance et l'ajoutera dans la section {1} de votre {2}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cette commande installera {0} comme dépendance et l'ajoutera dans la section {1} de votre {2}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

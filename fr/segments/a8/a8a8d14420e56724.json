@@ -1,0 +1,14 @@
+{
+  "hash": "a8a8d14420e56724",
+  "source": "Top-level {0} options are shared across both client and server environments. Use {1} and {2} to provide environment-specific configuration that will be merged into their respective builds.",
+  "text": "Les options {0} de premier niveau sont partagées entre les environnements client et serveur. Utilisez {1} et {2} pour fournir une configuration spécifique à chaque environnement, qui sera fusionnée dans leurs builds respectifs.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les options {0} de premier niveau sont partagées entre les environnements client et serveur. Utilisez {1} et {2} pour fournir une configuration spécifique à chaque environnement, qui sera fusionnée dans leurs builds respectifs."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

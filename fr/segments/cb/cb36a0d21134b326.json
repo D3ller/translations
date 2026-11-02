@@ -1,0 +1,14 @@
+{
+  "hash": "cb36a0d21134b326",
+  "source": "**Caution:** This setup has certain limitations:",
+  "text": "**Attention :** cette configuration présente certaines limitations :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Attention :** cette configuration présente certaines limitations :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

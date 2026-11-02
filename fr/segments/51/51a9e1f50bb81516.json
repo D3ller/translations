@@ -1,0 +1,14 @@
+{
+  "hash": "51a9e1f50bb81516",
+  "source": "This helper function is not provided any more but you can replace it with the following code:",
+  "text": "Ce helper n'est plus fourni, mais vous pouvez le remplacer par le code suivant :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ce helper n'est plus fourni, mais vous pouvez le remplacer par le code suivant :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "b4b56db62c5a48ff",
+  "source": "This option is experimental. Provider support and the option shape may change.",
+  "text": "Cette option est expérimentale. La prise en charge par les fournisseurs et la forme de l'option peuvent changer.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cette option est expérimentale. La prise en charge par les fournisseurs et la forme de l'option peuvent changer."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

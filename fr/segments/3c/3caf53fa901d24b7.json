@@ -1,0 +1,14 @@
+{
+  "hash": "3caf53fa901d24b7",
+  "source": "This renders it like this:",
+  "text": "Le rendu ressemble alors à ceci :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le rendu ressemble alors à ceci :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

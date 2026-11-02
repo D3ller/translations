@@ -1,0 +1,14 @@
+{
+  "hash": "1324b979711072d3",
+  "source": "{0} from {1} is now {2} from {3}, and the {4} option is now {5}. Mounts that only apply in development move from {6} to {7} under {8}:",
+  "text": "{0} de {1} devient {2} de {3}, et l'option {4} devient {5}. Les montages qui ne s'appliquent qu'en développement passent de {6} à {7} sous {8} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} de {1} devient {2} de {3}, et l'option {4} devient {5}. Les montages qui ne s'appliquent qu'en développement passent de {6} à {7} sous {8} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

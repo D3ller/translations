@@ -1,0 +1,14 @@
+{
+  "hash": "37d1910574c826a0",
+  "source": "To avoid hydration errors, it will be applied only after the Vue app has been mounted, meaning there may be a flicker on initial load.",
+  "text": "Pour éviter les erreurs d'hydratation, il ne sera appliqué qu'une fois l'application Vue montée, ce qui signifie qu'un scintillement peut apparaître lors du chargement initial.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour éviter les erreurs d'hydratation, il ne sera appliqué qu'une fois l'application Vue montée, ce qui signifie qu'un scintillement peut apparaître lors du chargement initial."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "84b8d03aeaa9e633",
+  "source": "It is possible to add more router options files by adding files within the {0} hook. Later items in the array override earlier ones.",
+  "text": "Il est possible d'ajouter d'autres fichiers d'options du routeur en ajoutant des fichiers dans le hook {0}. Les éléments suivants du tableau remplacent les précédents.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Il est possible d'ajouter d'autres fichiers d'options du routeur en ajoutant des fichiers dans le hook {0}. Les éléments suivants du tableau remplacent les précédents."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

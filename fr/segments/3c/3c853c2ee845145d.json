@@ -1,0 +1,14 @@
+{
+  "hash": "3c853c2ee845145d",
+  "source": "skip middleware on server",
+  "text": "ignorer le middleware sur le serveur",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "ignorer le middleware sur le serveur"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

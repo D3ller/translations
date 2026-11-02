@@ -1,0 +1,14 @@
+{
+  "hash": "fc21e115bcf5135b",
+  "source": "This is useful when you want to manage layouts centrally in your configuration rather than in each page file, or when you need to apply layouts to routes that don't have corresponding page components (such as catchall pages which might match many paths).",
+  "text": "C'est utile lorsque vous souhaitez gérer les layouts de manière centralisée dans votre configuration plutôt que dans chaque fichier de page, ou lorsque vous devez appliquer des layouts à des routes qui n'ont pas de composants de page correspondants (comme les pages fourre-tout qui peuvent correspondre à de nombreux chemins).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "C'est utile lorsque vous souhaitez gérer les layouts de manière centralisée dans votre configuration plutôt que dans chaque fichier de page, ou lorsque vous devez appliquer des layouts à des routes qui n'ont pas de composants de page correspondants (comme les pages fourre-tout qui peuvent correspondre à de nombreux chemins)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

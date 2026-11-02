@@ -1,0 +1,14 @@
+{
+  "hash": "832f341ad4bd75de",
+  "source": "If your module only loads a third-party script, check whether {0}Nuxt Scripts{/0} already supports it. If not, consider adding it to the {1}Nuxt Scripts registry{/1}.",
+  "text": "Si votre module se contente de charger un script tiers, vérifiez si {0}Nuxt Scripts{/0} le prend déjà en charge. Si ce n'est pas le cas, envisagez de l'ajouter au {1}registre de Nuxt Scripts{/1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si votre module se contente de charger un script tiers, vérifiez si {0}Nuxt Scripts{/0} le prend déjà en charge. Si ce n'est pas le cas, envisagez de l'ajouter au {1}registre de Nuxt Scripts{/1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

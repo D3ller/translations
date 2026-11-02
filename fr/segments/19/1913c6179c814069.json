@@ -1,0 +1,14 @@
+{
+  "hash": "1913c6179c814069",
+  "source": "Server components allow server-rendering individual components within your client-side apps. It's possible to use server components within Nuxt, even if you are generating a static site. That makes it possible to build complex sites that mix dynamic components, server-rendered HTML and even static chunks of markup.",
+  "text": "Les composants serveur permettent de rendre côté serveur des composants individuels au sein de vos applications côté client. Il est possible d'utiliser des composants serveur dans Nuxt, même si vous générez un site statique. Cela permet de construire des sites complexes qui mélangent des composants dynamiques, du HTML rendu côté serveur et même des fragments de markup statiques.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les composants serveur permettent de rendre côté serveur des composants individuels au sein de vos applications côté client. Il est possible d'utiliser des composants serveur dans Nuxt, même si vous générez un site statique. Cela permet de construire des sites complexes qui mélangent des composants dynamiques, du HTML rendu côté serveur et même des fragments de markup statiques."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

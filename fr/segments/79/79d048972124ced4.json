@@ -1,0 +1,14 @@
+{
+  "hash": "79d048972124ced4",
+  "source": "Linking to the integration website and documentation is always a good idea.",
+  "text": "Ajouter des liens vers le site web et la documentation de l'intégration est toujours une bonne idée.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ajouter des liens vers le site web et la documentation de l'intégration est toujours une bonne idée."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

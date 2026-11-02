@@ -1,0 +1,14 @@
+{
+  "hash": "5f3e7f500ede2919",
+  "source": "**Performance**: The user has to wait for the browser to download, parse and run JavaScript files. Depending on the network for the download part and the user's device for the parsing and execution, this can take some time and impact the user's experience.",
+  "text": "**Performance** : l'utilisateur doit attendre que le navigateur télécharge, analyse et exécute les fichiers JavaScript. Selon le réseau pour le téléchargement et l'appareil de l'utilisateur pour l'analyse et l'exécution, cela peut prendre du temps et nuire à son expérience.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Performance** : l'utilisateur doit attendre que le navigateur télécharge, analyse et exécute les fichiers JavaScript. Selon le réseau pour le téléchargement et l'appareil de l'utilisateur pour l'analyse et l'exécution, cela peut prendre du temps et nuire à son expérience."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

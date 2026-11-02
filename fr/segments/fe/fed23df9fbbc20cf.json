@@ -1,0 +1,14 @@
+{
+  "hash": "fed23df9fbbc20cf",
+  "source": "Execution mode for the callOnce function",
+  "text": "Mode d'exécution de la fonction callOnce",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mode d'exécution de la fonction callOnce"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

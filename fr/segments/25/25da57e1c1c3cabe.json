@@ -1,0 +1,14 @@
+{
+  "hash": "25da57e1c1c3cabe",
+  "source": "If you inject a Nuxt plugin that does not have {0} (such as global Vue plugins), ensure you add {1} to the end of it.",
+  "text": "Si vous injectez un plugin Nuxt qui n'a pas de {0} (comme les plugins Vue globaux), veillez à ajouter {1} à la fin.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous injectez un plugin Nuxt qui n'a pas de {0} (comme les plugins Vue globaux), veillez à ajouter {1} à la fin."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

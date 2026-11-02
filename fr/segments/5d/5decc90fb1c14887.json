@@ -1,0 +1,14 @@
+{
+  "hash": "5decc90fb1c14887",
+  "source": "If you read page meta from the route record at build time (in a {0} hook, for example), expect to see the extracted values there. To keep the previous behavior:",
+  "text": "Si vous lisez les métadonnées de page depuis l'enregistrement de route au moment du build (dans un hook {0}, par exemple), attendez-vous à y trouver les valeurs extraites. Pour conserver le comportement précédent :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous lisez les métadonnées de page depuis l'enregistrement de route au moment du build (dans un hook {0}, par exemple), attendez-vous à y trouver les valeurs extraites. Pour conserver le comportement précédent :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

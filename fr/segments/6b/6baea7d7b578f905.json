@@ -1,0 +1,14 @@
+{
+  "hash": "6baea7d7b578f905",
+  "source": "The options object accepts {0} render options and the following properties:",
+  "text": "L'objet d'options accepte les options de rendu de {0} ainsi que les propriétés suivantes :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'objet d'options accepte les options de rendu de {0} ainsi que les propriétés suivantes :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

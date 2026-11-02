@@ -1,0 +1,14 @@
+{
+  "hash": "bd199054cbb1681e",
+  "source": "To preview your changes, run the {0}nuxt.com{/0} dev server with {1} set to your local clone of this repo. Pull requests changing {2} can also be previewed on {3}nuxt.com{/3} once a maintainer adds the {4} label.",
+  "text": "Pour prévisualiser vos modifications, lancez le serveur de développement de {0}nuxt.com{/0} avec {1} défini sur votre clone local de ce dépôt. Les pull requests modifiant {2} peuvent également être prévisualisées sur {3}nuxt.com{/3} une fois qu'un mainteneur a ajouté le label {4}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour prévisualiser vos modifications, lancez le serveur de développement de {0}nuxt.com{/0} avec {1} défini sur votre clone local de ce dépôt. Les pull requests modifiant {2} peuvent également être prévisualisées sur {3}nuxt.com{/3} une fois qu'un mainteneur a ajouté le label {4}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

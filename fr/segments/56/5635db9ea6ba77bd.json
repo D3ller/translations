@@ -1,0 +1,14 @@
+{
+  "hash": "5635db9ea6ba77bd",
+  "source": "Nuxt provides a range of built-in hydration strategies. Only one strategy can be used per lazy component.",
+  "text": "Nuxt propose plusieurs stratégies d'hydratation intégrées. Une seule stratégie peut être utilisée par composant lazy.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt propose plusieurs stratégies d'hydratation intégrées. Une seule stratégie peut être utilisée par composant lazy."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

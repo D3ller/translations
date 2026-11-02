@@ -1,0 +1,14 @@
+{
+  "hash": "8158749b6dbb1281",
+  "source": "Both the browser and server can interpret JavaScript code to turn Vue.js components into HTML elements. This step is called **rendering**. Nuxt supports both **universal** and **client-side** rendering. The two approaches have benefits and downsides that we will cover.",
+  "text": "Le navigateur comme le serveur peuvent interpréter du code JavaScript pour transformer des composants Vue.js en éléments HTML. Cette étape s'appelle le **rendu**. Nuxt prend en charge le rendu **universel** et le rendu **côté client**. Ces deux approches présentent des avantages et des inconvénients que nous détaillerons.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le navigateur comme le serveur peuvent interpréter du code JavaScript pour transformer des composants Vue.js en éléments HTML. Cette étape s'appelle le **rendu**. Nuxt prend en charge le rendu **universel** et le rendu **côté client**. Ces deux approches présentent des avantages et des inconvénients que nous détaillerons."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

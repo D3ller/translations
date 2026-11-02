@@ -1,0 +1,14 @@
+{
+  "hash": "74e3238495c28b78",
+  "source": "The {0} command upgrades Nuxt to the latest version.",
+  "text": "La commande {0} met à jour Nuxt vers la dernière version.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La commande {0} met à jour Nuxt vers la dernière version."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

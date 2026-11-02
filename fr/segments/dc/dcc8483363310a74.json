@@ -1,0 +1,14 @@
+{
+  "hash": "dcc8483363310a74",
+  "source": "Use {0} to reference specific LLMs.txt URLs",
+  "text": "Utilisez {0} pour référencer des URL LLMs.txt spécifiques",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utilisez {0} pour référencer des URL LLMs.txt spécifiques"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

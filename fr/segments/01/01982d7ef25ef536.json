@@ -1,0 +1,14 @@
+{
+  "hash": "01982d7ef25ef536",
+  "source": "Nuxt offers several built-in features that help you optimize performance of your website. Understanding how these features work is crucial for achieving blazingly-fast performance.",
+  "text": "Nuxt propose plusieurs fonctionnalités intégrées qui vous aident à optimiser la performance de votre site. Comprendre leur fonctionnement est essentiel pour obtenir des performances ultra-rapides.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt propose plusieurs fonctionnalités intégrées qui vous aident à optimiser la performance de votre site. Comprendre leur fonctionnement est essentiel pour obtenir des performances ultra-rapides."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

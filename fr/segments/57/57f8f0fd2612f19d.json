@@ -1,0 +1,14 @@
+{
+  "hash": "57f8f0fd2612f19d",
+  "source": "The {0} command initializes a fresh Nuxt project using {1}unjs/giget{/1}.",
+  "text": "La commande {0} initialise un nouveau projet Nuxt en utilisant {1}unjs/giget{/1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La commande {0} initialise un nouveau projet Nuxt en utilisant {1}unjs/giget{/1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

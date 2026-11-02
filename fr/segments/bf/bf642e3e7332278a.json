@@ -1,0 +1,14 @@
+{
+  "hash": "bf642e3e7332278a",
+  "source": "**Return Values**: Describe the returned value and its type.",
+  "text": "**Return Values** : décrivez la valeur retournée et son type.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Return Values** : décrivez la valeur retournée et son type."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

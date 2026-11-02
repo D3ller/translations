@@ -1,0 +1,14 @@
+{
+  "hash": "240e56c46f6c346c",
+  "source": "Hydration will be triggered when",
+  "text": "L'hydratation sera déclenchée lorsque",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'hydratation sera déclenchée lorsque"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

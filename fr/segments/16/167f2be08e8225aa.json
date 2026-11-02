@@ -1,0 +1,14 @@
+{
+  "hash": "167f2be08e8225aa",
+  "source": "See {0}Nitro{/0} for all available hooks.",
+  "text": "Consultez {0}Nitro{/0} pour tous les hooks disponibles.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Consultez {0}Nitro{/0} pour tous les hooks disponibles."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

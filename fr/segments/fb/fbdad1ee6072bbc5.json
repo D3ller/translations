@@ -1,0 +1,14 @@
+{
+  "hash": "fbdad1ee6072bbc5",
+  "source": "{0} and {1} are only read from your configuration. A file is {2} unless its name says otherwise, and a trailing word is dropped when looking for the family, so {3} resolves {4} at {5} regardless.",
+  "text": "{0} et {1} sont uniquement lus depuis votre configuration. Un fichier est {2} sauf si son nom indique autre chose, et un mot final est ignoré lors de la recherche de la famille, donc {3} résout {4} en {5} dans tous les cas.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} et {1} sont uniquement lus depuis votre configuration. Un fichier est {2} sauf si son nom indique autre chose, et un mot final est ignoré lors de la recherche de la famille, donc {3} résout {4} en {5} dans tous les cas."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

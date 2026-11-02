@@ -1,0 +1,14 @@
+{
+  "hash": "9a3beba5a75b6bef",
+  "source": "The new one exits, saying where the running one is.",
+  "text": "La nouvelle s'arrête en indiquant où se trouve celle en cours d'exécution.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La nouvelle s'arrête en indiquant où se trouve celle en cours d'exécution."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

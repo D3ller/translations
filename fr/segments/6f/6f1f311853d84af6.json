@@ -1,0 +1,14 @@
+{
+  "hash": "6f1f311853d84af6",
+  "source": "{0}: Forces the link to be rendered as an {1} tag instead of a Vue Router {2}.",
+  "text": "{0} : force le rendu du lien sous forme de balise {1} au lieu d'un {2} de Vue Router.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : force le rendu du lien sous forme de balise {1} au lieu d'un {2} de Vue Router."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "73a4580c55c6acd9",
+  "source": "Navigate to your GitHub repository",
+  "text": "Accédez à votre dépôt GitHub",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Accédez à votre dépôt GitHub"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

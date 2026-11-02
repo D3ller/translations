@@ -1,0 +1,14 @@
+{
+  "hash": "a2da280713ba46c0",
+  "source": "Path to TLS certificate",
+  "text": "Chemin vers le certificat TLS",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Chemin vers le certificat TLS"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

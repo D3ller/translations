@@ -1,0 +1,14 @@
+{
+  "hash": "e667022526c1fd8d",
+  "source": "Modules that register handlers with {0} need no augmentation: those routes are reported by the server builder like any other, and typed automatically.",
+  "text": "Les modules qui enregistrent des handlers avec {0} n'ont besoin d'aucune augmentation : ces routes sont signalées par le build du serveur comme les autres et typées automatiquement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les modules qui enregistrent des handlers avec {0} n'ont besoin d'aucune augmentation : ces routes sont signalées par le build du serveur comme les autres et typées automatiquement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

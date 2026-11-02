@@ -1,0 +1,14 @@
+{
+  "hash": "2c0f227517f78185",
+  "source": "Let's create a custom {0} instance with a {1}Nuxt plugin{/1}.",
+  "text": "Créons une instance {0} personnalisée avec un {1}plugin Nuxt{/1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Créons une instance {0} personnalisée avec un {1}plugin Nuxt{/1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

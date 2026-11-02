@@ -1,0 +1,14 @@
+{
+  "hash": "682e08311fbc6143",
+  "source": "When using {0}, {1}nitro{/1} must have been configured.",
+  "text": "Lorsque vous utilisez {0}, {1}nitro{/1} doit avoir été configuré.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque vous utilisez {0}, {1}nitro{/1} doit avoir été configuré."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

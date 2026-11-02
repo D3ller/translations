@@ -1,0 +1,14 @@
+{
+  "hash": "0a2004b0fa82330a",
+  "source": "{0} serves a variable font when the range covers the family's full weight axis, and a static file for each weight in the range otherwise.",
+  "text": "{0} sert une police variable lorsque la plage couvre l'axe de graisse complet de la famille, et sinon un fichier statique pour chaque graisse de la plage.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} sert une police variable lorsque la plage couvre l'axe de graisse complet de la famille, et sinon un fichier statique pour chaque graisse de la plage."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

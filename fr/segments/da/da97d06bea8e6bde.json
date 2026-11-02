@@ -1,0 +1,14 @@
+{
+  "hash": "da97d06bea8e6bde",
+  "source": "Not following patterns",
+  "text": "Ne pas suivre de conventions",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ne pas suivre de conventions"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

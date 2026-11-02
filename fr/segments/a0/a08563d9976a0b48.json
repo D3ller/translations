@@ -1,0 +1,14 @@
+{
+  "hash": "a08563d9976a0b48",
+  "source": "{0} sets the status (and optionally the statusText) of the response.",
+  "text": "{0} définit le statut (et, facultativement, le statusText) de la réponse.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} définit le statut (et, facultativement, le statusText) de la réponse."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

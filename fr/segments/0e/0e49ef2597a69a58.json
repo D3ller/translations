@@ -1,0 +1,14 @@
+{
+  "hash": "0e49ef2597a69a58",
+  "source": "The current platforms where you can leverage ESR are:",
+  "text": "Les plateformes actuelles sur lesquelles vous pouvez tirer parti de l'ESR sont :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les plateformes actuelles sur lesquelles vous pouvez tirer parti de l'ESR sont :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

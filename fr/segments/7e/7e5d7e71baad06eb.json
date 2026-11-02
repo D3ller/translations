@@ -1,0 +1,14 @@
+{
+  "hash": "7e5d7e71baad06eb",
+  "source": "{0} and {1} need to run in different {2}test environments{/2} and so can't be used in the same file.",
+  "text": "{0} et {1} doivent s'exécuter dans des {2}environnements de test{/2} différents et ne peuvent donc pas être utilisés dans le même fichier.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} et {1} doivent s'exécuter dans des {2}environnements de test{/2} différents et ne peuvent donc pas être utilisés dans le même fichier."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

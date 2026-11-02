@@ -1,0 +1,14 @@
+{
+  "hash": "3a1c4db33efc93a7",
+  "source": "Most of the time, you will want to initialize your state with data that resolves asynchronously. You can use the {0} component with the {1} util to do so.",
+  "text": "La plupart du temps, vous voudrez initialiser votre état avec des données résolues de manière asynchrone. Vous pouvez utiliser pour cela le composant {0} avec l'utilitaire {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La plupart du temps, vous voudrez initialiser votre état avec des données résolues de manière asynchrone. Vous pouvez utiliser pour cela le composant {0} avec l'utilitaire {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

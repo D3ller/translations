@@ -1,0 +1,14 @@
+{
+  "hash": "c4e2975078ce33c1",
+  "source": "A layer includes modules you don't need in your project",
+  "text": "Un layer inclut des modules dont vous n'avez pas besoin dans votre projet",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un layer inclut des modules dont vous n'avez pas besoin dans votre projet"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

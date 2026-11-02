@@ -1,0 +1,14 @@
+{
+  "hash": "1ec502cfc02b419b",
+  "source": "Custom function to decode the cookie value. Since the value of a cookie has a limited character set (and must be a simple string), this function can be used to decode a previously encoded cookie value into a JavaScript string or other object.{0}**Note:** If an error is thrown from this function, the original, non-decoded cookie value will be returned as the cookie's value.",
+  "text": "Fonction personnalisée pour décoder la valeur du cookie. Comme la valeur d'un cookie a un jeu de caractères limité (et doit être une simple chaîne), cette fonction peut servir à décoder une valeur de cookie précédemment encodée en chaîne JavaScript ou en un autre objet.{0}**Note :** si une erreur est levée par cette fonction, la valeur originale non décodée du cookie sera retournée comme valeur du cookie.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Fonction personnalisée pour décoder la valeur du cookie. Comme la valeur d'un cookie a un jeu de caractères limité (et doit être une simple chaîne), cette fonction peut servir à décoder une valeur de cookie précédemment encodée en chaîne JavaScript ou en un autre objet.{0}**Note :** si une erreur est levée par cette fonction, la valeur originale non décodée du cookie sera retournée comme valeur du cookie."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

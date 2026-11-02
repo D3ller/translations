@@ -1,0 +1,14 @@
+{
+  "hash": "7331ce788784442a",
+  "source": "When using {0} with the same URL and options in multiple components, they will share the same {1}, {2} and {3} refs. This ensures consistency across components.",
+  "text": "Lorsque vous utilisez {0} avec la même URL et les mêmes options dans plusieurs composants, ils partagent les mêmes refs {1}, {2} et {3}. Cela garantit la cohérence entre les composants.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque vous utilisez {0} avec la même URL et les mêmes options dans plusieurs composants, ils partagent les mêmes refs {1}, {2} et {3}. Cela garantit la cohérence entre les composants."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

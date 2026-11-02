@@ -1,0 +1,14 @@
+{
+  "hash": "1edd9f5896bf3cc0",
+  "source": "If runtime context is unavailable in your scope, {0} will throw an exception when called. You can use {1} instead for composables that do not require {2}, or to simply check if context is available or not without an exception.",
+  "text": "Si le contexte d'exécution n'est pas disponible dans votre portée, {0} lève une exception lorsqu'il est appelé. Vous pouvez utiliser {1} à la place pour les composables qui n'ont pas besoin de {2}, ou simplement pour vérifier si le contexte est disponible ou non sans exception.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si le contexte d'exécution n'est pas disponible dans votre portée, {0} lève une exception lorsqu'il est appelé. Vous pouvez utiliser {1} à la place pour les composables qui n'ont pas besoin de {2}, ou simplement pour vérifier si le contexte est disponible ou non sans exception."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

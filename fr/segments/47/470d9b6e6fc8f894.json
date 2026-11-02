@@ -1,0 +1,14 @@
+{
+  "hash": "470d9b6e6fc8f894",
+  "source": "**Proxies & caches fonts** – Rewrites URLs to {0}, downloads and caches fonts locally.",
+  "text": "**Proxifie et met en cache les polices** – Réécrit les URL vers {0}, télécharge et met en cache les polices localement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Proxifie et met en cache les polices** – Réécrit les URL vers {0}, télécharge et met en cache les polices localement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

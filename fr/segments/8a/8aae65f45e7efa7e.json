@@ -1,0 +1,14 @@
+{
+  "hash": "8aae65f45e7efa7e",
+  "source": "Path to the Vue file that should be used as the component for the route.",
+  "text": "Chemin vers le fichier Vue à utiliser comme composant de la route.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Chemin vers le fichier Vue à utiliser comme composant de la route."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "cf8ed37122265454",
+  "source": "Creating a Builder",
+  "text": "Créer un builder",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Créer un builder"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

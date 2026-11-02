@@ -1,0 +1,14 @@
+{
+  "hash": "e4f9c8f4455c81c4",
+  "source": "You can pass a {0} when creating an error to preserve the original error you are wrapping:",
+  "text": "Vous pouvez passer une {0} lors de la création d'une erreur afin de conserver l'erreur d'origine que vous encapsulez :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez passer une {0} lors de la création d'une erreur afin de conserver l'erreur d'origine que vous encapsulez :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "c9a67743452fd48a",
+  "source": "Built-In Providers",
+  "text": "Providers intégrés",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Providers intégrés"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

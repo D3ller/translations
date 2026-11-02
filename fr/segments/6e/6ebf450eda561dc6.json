@@ -1,0 +1,14 @@
+{
+  "hash": "6ebf450eda561dc6",
+  "source": "The Compatibility Layer",
+  "text": "La couche de compatibilité",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La couche de compatibilité"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "9cdc00d971a57117",
+  "source": "If you need to mock behavior only inside a test, you can also use the following approach.",
+  "text": "Si vous devez mocker un comportement uniquement à l'intérieur d'un test, vous pouvez également utiliser l'approche suivante.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous devez mocker un comportement uniquement à l'intérieur d'un test, vous pouvez également utiliser l'approche suivante."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "896314037177a0a8",
+  "source": "**See**: {0}PostCSS docs{/0}",
+  "text": "**Voir** : {0}documentation de PostCSS{/0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Voir** : {0}documentation de PostCSS{/0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

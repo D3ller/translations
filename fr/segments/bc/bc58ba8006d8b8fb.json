@@ -1,0 +1,14 @@
+{
+  "hash": "bc58ba8006d8b8fb",
+  "source": "An error page could not be rendered after a page error interrupted a streamed response.",
+  "text": "Une page d'erreur n'a pas pu être rendue après qu'une erreur de page a interrompu une réponse diffusée en streaming.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une page d'erreur n'a pas pu être rendue après qu'une erreur de page a interrompu une réponse diffusée en streaming."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

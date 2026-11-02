@@ -1,0 +1,14 @@
+{
+  "hash": "82861e66f5a49dca",
+  "source": "The Google Fonts provider previously also downloaded a legacy-format copy of each font that contained every script the font supports, regardless of the configured {0}. Text in a script outside those subsets, such as Arabic, now renders in a fallback font. To keep it in your font, add its subset:",
+  "text": "Le fournisseur Google Fonts téléchargeait auparavant aussi une copie au format hérité de chaque police, contenant tous les alphabets pris en charge par la police, quel que soit le {0} configuré. Un texte dans un alphabet absent de ces sous-ensembles, comme l'arabe, s'affiche désormais dans une police de secours. Pour le conserver dans votre police, ajoutez son sous-ensemble :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le fournisseur Google Fonts téléchargeait auparavant aussi une copie au format hérité de chaque police, contenant tous les alphabets pris en charge par la police, quel que soit le {0} configuré. Un texte dans un alphabet absent de ces sous-ensembles, comme l'arabe, s'affiche désormais dans une police de secours. Pour le conserver dans votre police, ajoutez son sous-ensemble :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

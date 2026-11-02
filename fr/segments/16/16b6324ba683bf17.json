@@ -1,0 +1,14 @@
+{
+  "hash": "16b6324ba683bf17",
+  "source": "The {0}{1} provider{/0} also accepts named weights, in either the hyphenated or unhyphenated spelling, so {2} is equivalent to {3}. Remote providers expect numeric weights.",
+  "text": "Le {0}fournisseur {1}{/0} accepte également des graisses nommées, avec ou sans trait d'union, de sorte que {2} équivaut à {3}. Les fournisseurs distants attendent des graisses numériques.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le {0}fournisseur {1}{/0} accepte également des graisses nommées, avec ou sans trait d'union, de sorte que {2} équivaut à {3}. Les fournisseurs distants attendent des graisses numériques."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

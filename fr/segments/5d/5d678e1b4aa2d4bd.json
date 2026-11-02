@@ -1,0 +1,14 @@
+{
+  "hash": "5d678e1b4aa2d4bd",
+  "source": "For static files in the {0} directory, such as PDFs or images, use the {1} prop to ensure the link resolves correctly.",
+  "text": "Pour les fichiers statiques du répertoire {0}, tels que des PDF ou des images, utilisez la prop {1} afin que le lien soit résolu correctement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour les fichiers statiques du répertoire {0}, tels que des PDF ou des images, utilisez la prop {1} afin que le lien soit résolu correctement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

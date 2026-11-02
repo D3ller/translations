@@ -1,0 +1,14 @@
+{
+  "hash": "c6ba778a107d170b",
+  "source": "Setting {0} to {1} is similar to {2} to {3}.",
+  "text": "Définir {0} à {1} revient à définir {2} à {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définir {0} à {1} revient à définir {2} à {3}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

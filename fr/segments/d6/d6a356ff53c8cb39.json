@@ -1,0 +1,14 @@
+{
+  "hash": "d6a356ff53c8cb39",
+  "source": "Find all anchor tags ({0}) in the HTML to navigate to other routes.",
+  "text": "Recherche de toutes les balises d'ancre ({0}) dans le HTML afin de naviguer vers d'autres routes.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Recherche de toutes les balises d'ancre ({0}) dans le HTML afin de naviguer vers d'autres routes."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

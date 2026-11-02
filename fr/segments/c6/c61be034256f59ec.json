@@ -1,0 +1,14 @@
+{
+  "hash": "c61be034256f59ec",
+  "source": "how {0} property makes sure that the {1} component is not cached when switching between multiple components;",
+  "text": "comment la propriété {0} garantit que le composant {1} n'est pas mis en cache lors du passage d'un composant à l'autre ;",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "comment la propriété {0} garantit que le composant {1} n'est pas mis en cache lors du passage d'un composant à l'autre ;"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

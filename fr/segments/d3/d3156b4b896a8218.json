@@ -1,0 +1,14 @@
+{
+  "hash": "d3156b4b896a8218",
+  "source": "To ensure proper hydration, it's important to maintain consistency between the data on the server and the client. For API requests, it is recommended to use {0}, {1}, or other SSR-friendly composables. These methods ensure that the data fetched on the server side is reused during hydration, avoiding repeated requests. Any new requests should only be triggered after hydration, preventing hydration errors.",
+  "text": "Pour garantir une hydratation correcte, il est important de maintenir la cohérence entre les données du serveur et celles du client. Pour les requêtes API, il est recommandé d'utiliser {0}, {1} ou d'autres composables compatibles avec le SSR. Ces méthodes garantissent que les données récupérées côté serveur sont réutilisées pendant l'hydratation, ce qui évite les requêtes répétées. Toute nouvelle requête ne doit être déclenchée qu'après l'hydratation, afin d'éviter les erreurs d'hydratation.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour garantir une hydratation correcte, il est important de maintenir la cohérence entre les données du serveur et celles du client. Pour les requêtes API, il est recommandé d'utiliser {0}, {1} ou d'autres composables compatibles avec le SSR. Ces méthodes garantissent que les données récupérées côté serveur sont réutilisées pendant l'hydratation, ce qui évite les requêtes répétées. Toute nouvelle requête ne doit être déclenchée qu'après l'hydratation, afin d'éviter les erreurs d'hydratation."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

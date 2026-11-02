@@ -1,0 +1,14 @@
+{
+  "hash": "dbd8c09b27085de0",
+  "source": "Thank you for taking the time to create an issue! ❤️",
+  "text": "Merci de prendre le temps de créer une issue ! ❤️",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Merci de prendre le temps de créer une issue ! ❤️"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

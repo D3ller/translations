@@ -1,0 +1,14 @@
+{
+  "hash": "477ffe2e6c36d00d",
+  "source": "{0}Corepack{/0} makes sure you are using the correct version for package manager when you run corresponding commands. Projects might have {1} field in their {2}.",
+  "text": "{0}Corepack{/0} garantit que vous utilisez la bonne version du gestionnaire de paquets lorsque vous exécutez les commandes correspondantes. Les projets peuvent avoir un champ {1} dans leur {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}Corepack{/0} garantit que vous utilisez la bonne version du gestionnaire de paquets lorsque vous exécutez les commandes correspondantes. Les projets peuvent avoir un champ {1} dans leur {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

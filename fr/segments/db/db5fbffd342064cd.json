@@ -1,0 +1,14 @@
+{
+  "hash": "db5fbffd342064cd",
+  "source": "This warning is emitted during development when a rendered route uses one of these features.",
+  "text": "Cet avertissement est émis pendant le développement lorsqu'une route rendue utilise l'une de ces fonctionnalités.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cet avertissement est émis pendant le développement lorsqu'une route rendue utilise l'une de ces fonctionnalités."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "f846b35891eaa6f8",
+  "source": "Nuxt aliases such as {0} and {1} are not resolved outside the bundler, so use a relative import instead:",
+  "text": "Les alias Nuxt tels que {0} et {1} ne sont pas résolus en dehors du bundler ; utilisez donc plutôt un import relatif :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les alias Nuxt tels que {0} et {1} ne sont pas résolus en dehors du bundler ; utilisez donc plutôt un import relatif :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

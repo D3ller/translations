@@ -1,0 +1,14 @@
+{
+  "hash": "9e82b442d175f655",
+  "source": "Alternatively, you can render the template inside the Nuxt app root by setting it to {0}:",
+  "text": "Vous pouvez aussi rendre le template à l'intérieur de la racine de l'application Nuxt en le définissant sur {0} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez aussi rendre le template à l'intérieur de la racine de l'application Nuxt en le définissant sur {0} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

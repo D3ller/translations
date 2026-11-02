@@ -1,0 +1,14 @@
+{
+  "hash": "41246272ceb23b1f",
+  "source": "While building your module can be useful in some cases, most of the time you won't need to build it on your own: the {0} takes care of it while developing, and the release script also has you covered when publishing.",
+  "text": "Même si compiler votre module peut être utile dans certains cas, vous n'aurez le plus souvent pas besoin de le faire vous-même : le {0} s'en charge pendant le développement, et le script de release vous couvre aussi lors de la publication.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Même si compiler votre module peut être utile dans certains cas, vous n'aurez le plus souvent pas besoin de le faire vous-même : le {0} s'en charge pendant le développement, et le script de release vous couvre aussi lors de la publication."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

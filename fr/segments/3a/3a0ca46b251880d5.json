@@ -1,0 +1,14 @@
+{
+  "hash": "3a0ca46b251880d5",
+  "source": "{0}: specify content to be displayed server-side if the slot fails to render.",
+  "text": "{0} : spécifie le contenu à afficher côté serveur si le slot ne parvient pas à s'afficher.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : spécifie le contenu à afficher côté serveur si le slot ne parvient pas à s'afficher."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

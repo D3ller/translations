@@ -1,0 +1,14 @@
+{
+  "hash": "1b9fd732e0d2b86a",
+  "source": "Now that we have our app middleware to protect our routes, we can use it on our home page that display our authenticated user information. If the user is not authenticated, they will be redirected to the login page.",
+  "text": "Maintenant que vous disposez du middleware d'application pour protéger vos routes, vous pouvez l'utiliser sur votre page d'accueil, qui affiche les informations de l'utilisateur authentifié. Si l'utilisateur n'est pas authentifié, il sera redirigé vers la page de connexion.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Maintenant que vous disposez du middleware d'application pour protéger vos routes, vous pouvez l'utiliser sur votre page d'accueil, qui affiche les informations de l'utilisateur authentifié. Si l'utilisateur n'est pas authentifié, il sera redirigé vers la page de connexion."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

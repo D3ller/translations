@@ -1,0 +1,14 @@
+{
+  "hash": "938d98e973abbb38",
+  "source": "{0}: Set to a custom template registry. ({1}learn more{/1}).",
+  "text": "{0} : définit un registre de templates personnalisé. ({1}en savoir plus{/1}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : définit un registre de templates personnalisé. ({1}en savoir plus{/1})."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

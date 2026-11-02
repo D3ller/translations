@@ -1,0 +1,14 @@
+{
+  "hash": "55b920e05b92d4c1",
+  "source": "To get auto imports working for nested modules, you could either re-export them (recommended) or configure the scanner to include nested directories:",
+  "text": "Pour que les imports automatiques fonctionnent avec des modules imbriqués, vous pouvez soit les réexporter (recommandé), soit configurer l'analyseur pour inclure les répertoires imbriqués :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour que les imports automatiques fonctionnent avec des modules imbriqués, vous pouvez soit les réexporter (recommandé), soit configurer l'analyseur pour inclure les répertoires imbriqués :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

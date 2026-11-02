@@ -1,0 +1,14 @@
+{
+  "hash": "1ccb002c220d86a5",
+  "source": "Specify the server builder to use for bundling the server part of your application.",
+  "text": "Spécifiez le constructeur de serveur à utiliser pour créer le bundle de la partie serveur de votre application.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Spécifiez le constructeur de serveur à utiliser pour créer le bundle de la partie serveur de votre application."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

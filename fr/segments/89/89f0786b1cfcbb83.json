@@ -1,0 +1,14 @@
+{
+  "hash": "89f0786b1cfcbb83",
+  "source": "Status Reports",
+  "text": "Rapports d'avancement",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Rapports d'avancement"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

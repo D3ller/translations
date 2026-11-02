@@ -1,0 +1,14 @@
+{
+  "hash": "3627bd1beb0dd356",
+  "source": "Key features include:",
+  "text": "Les principales fonctionnalités sont les suivantes :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les principales fonctionnalités sont les suivantes :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "ab9e99bd18fafa4a",
+  "source": "Add any environment variables that you use in your app to the {0} property of the {1} file.",
+  "text": "Ajoutez toutes les variables d'environnement que vous utilisez dans votre application à la propriété {0} du fichier {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ajoutez toutes les variables d'environnement que vous utilisez dans votre application à la propriété {0} du fichier {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

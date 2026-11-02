@@ -1,0 +1,14 @@
+{
+  "hash": "281700dfc3ef2e22",
+  "source": "do some setup",
+  "text": "effectuer la configuration initiale",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "effectuer la configuration initiale"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

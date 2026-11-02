@@ -1,0 +1,14 @@
+{
+  "hash": "39fdb4a61ce37668",
+  "source": "{0} ({1}h3js/h3{/1} request event) - Access the request & response of the current route.",
+  "text": "{0} (événement de requête {1}h3js/h3{/1}) - Permet d'accéder à la requête et à la réponse de la route actuelle.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} (événement de requête {1}h3js/h3{/1}) - Permet d'accéder à la requête et à la réponse de la route actuelle."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "005a2c6c3a66e013",
+  "source": "crossOriginPrefetch",
+  "text": "crossOriginPrefetch",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "crossOriginPrefetch"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

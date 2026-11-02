@@ -1,0 +1,14 @@
+{
+  "hash": "eacb46b6bbcebf4a",
+  "source": "Default: {0} ({1} if {2} or {3} is disabled, or if a {4} is provided)",
+  "text": "Par défaut : {0} ({1} si {2} ou {3} est désactivé, ou si un {4} est fourni)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par défaut : {0} ({1} si {2} ou {3} est désactivé, ou si un {4} est fourni)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

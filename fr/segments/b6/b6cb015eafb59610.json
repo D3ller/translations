@@ -1,0 +1,14 @@
+{
+  "hash": "b6cb015eafb59610",
+  "source": "This feature is disabled by default.",
+  "text": "Cette fonctionnalité est désactivée par défaut.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cette fonctionnalité est désactivée par défaut."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

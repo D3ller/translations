@@ -1,0 +1,14 @@
+{
+  "hash": "43ff9de04e51532d",
+  "source": "Server code should import from {0}:",
+  "text": "Le code serveur doit importer depuis {0} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le code serveur doit importer depuis {0} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "484016a1819239c8",
+  "source": "{0} and {1} set on a family were previously only honoured for families you declared manually with {2}, and were silently dropped for fonts resolved from a provider. They now apply in both cases. Descriptors other than {3}, {4} and {5} (such as {6}, {7} and {8}) are also no longer dropped from manually declared families.",
+  "text": "{0} et {1} définis sur une famille n'étaient auparavant pris en compte que pour les familles que vous déclariez manuellement avec {2}, et étaient silencieusement ignorés pour les polices résolues depuis un fournisseur. Ils s'appliquent désormais dans les deux cas. Les descripteurs autres que {3}, {4} et {5} (tels que {6}, {7} et {8}) ne sont également plus ignorés pour les familles déclarées manuellement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} et {1} définis sur une famille n'étaient auparavant pris en compte que pour les familles que vous déclariez manuellement avec {2}, et étaient silencieusement ignorés pour les polices résolues depuis un fournisseur. Ils s'appliquent désormais dans les deux cas. Les descripteurs autres que {3}, {4} et {5} (tels que {6}, {7} et {8}) ne sont également plus ignorés pour les familles déclarées manuellement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

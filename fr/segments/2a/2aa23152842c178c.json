@@ -1,0 +1,14 @@
+{
+  "hash": "2aa23152842c178c",
+  "source": "A composable for announcing dynamic content changes to screen readers. Unlike {0} which automatically announces route changes, {1} gives you manual control over what and when to announce.",
+  "text": "Un composable pour annoncer aux lecteurs d'écran les changements de contenu dynamique. Contrairement à {0}, qui annonce automatiquement les changements de route, {1} vous donne un contrôle manuel sur ce qui est annoncé et sur le moment de l'annonce.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un composable pour annoncer aux lecteurs d'écran les changements de contenu dynamique. Contrairement à {0}, qui annonce automatiquement les changements de route, {1} vous donne un contrôle manuel sur ce qui est annoncé et sur le moment de l'annonce."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

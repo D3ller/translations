@@ -1,0 +1,14 @@
+{
+  "hash": "ad645924a11c59ba",
+  "source": "You can't access the 'island context' from the rest of your app and you can't access the context of the rest of your app from the island component. In other words, the server component or island is *isolated* from the rest of your app.",
+  "text": "Vous ne pouvez pas accéder au « contexte d'île » depuis le reste de votre application, ni accéder au contexte du reste de votre application depuis le composant île. En d'autres termes, le composant serveur ou l'île est *isolé* du reste de votre application.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous ne pouvez pas accéder au « contexte d'île » depuis le reste de votre application, ni accéder au contexte du reste de votre application depuis le composant île. En d'autres termes, le composant serveur ou l'île est *isolé* du reste de votre application."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

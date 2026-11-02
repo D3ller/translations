@@ -1,0 +1,14 @@
+{
+  "hash": "613ffab5a5908406",
+  "source": "Caller overrides the baseURL",
+  "text": "L'appelant surcharge le baseURL",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'appelant surcharge le baseURL"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "73dd33eb886e3535",
+  "source": "Used to set the modules directories for path resolving (for example, webpack's {0}, {1} and {2}).",
+  "text": "Sert à définir les répertoires de modules pour la résolution des chemins (par exemple, {0}, {1} et {2} de webpack).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sert à définir les répertoires de modules pour la résolution des chemins (par exemple, {0}, {1} et {2} de webpack)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

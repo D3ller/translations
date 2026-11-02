@@ -1,0 +1,14 @@
+{
+  "hash": "521e5a85525092c1",
+  "source": "After a commit is merged into the {0} branch of {1}nuxt/nuxt{/1} and **passes all tests**, we trigger an automated npm release, using GitHub Actions.",
+  "text": "Une fois qu'un commit est fusionné dans la branche {0} de {1}nuxt/nuxt{/1} et qu'il **réussit tous les tests**, nous déclenchons une publication npm automatisée à l'aide de GitHub Actions.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une fois qu'un commit est fusionné dans la branche {0} de {1}nuxt/nuxt{/1} et qu'il **réussit tous les tests**, nous déclenchons une publication npm automatisée à l'aide de GitHub Actions."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

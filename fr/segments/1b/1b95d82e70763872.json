@@ -1,0 +1,14 @@
+{
+  "hash": "1b95d82e70763872",
+  "source": "When Nuxt encounters a fatal error (any unhandled error on the server, or an error created with {0} on the client) it will either render a JSON response (if requested with {1} header) or trigger a full-screen error page. With {2}, a page error always triggers the error page, and an error thrown in a server route or server middleware returns a JSON response.",
+  "text": "Lorsque Nuxt rencontre une erreur fatale (toute erreur non gérée sur le serveur, ou une erreur créée avec {0} sur le client), il renvoie soit une réponse JSON (si elle est demandée avec l'en-tête {1}), soit une page d'erreur plein écran. Avec {2}, une erreur de page déclenche toujours la page d'erreur, et une erreur levée dans une route serveur ou un middleware serveur renvoie une réponse JSON.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque Nuxt rencontre une erreur fatale (toute erreur non gérée sur le serveur, ou une erreur créée avec {0} sur le client), il renvoie soit une réponse JSON (si elle est demandée avec l'en-tête {1}), soit une page d'erreur plein écran. Avec {2}, une erreur de page déclenche toujours la page d'erreur, et une erreur levée dans une route serveur ou un middleware serveur renvoie une réponse JSON."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

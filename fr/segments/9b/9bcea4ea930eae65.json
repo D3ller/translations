@@ -1,0 +1,14 @@
+{
+  "hash": "9bcea4ea930eae65",
+  "source": "{0} is designed to **ensure state synchronization and restoration during SSR**. If you need to create a globally reactive state that is SSR-friendly in Nuxt, {1} is the recommended choice.",
+  "text": "{0} est conçu pour **assurer la synchronisation et la restauration de l'état pendant le SSR**. Si vous devez créer un état réactif global compatible avec le SSR dans Nuxt, {1} est le choix recommandé.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est conçu pour **assurer la synchronisation et la restauration de l'état pendant le SSR**. Si vous devez créer un état réactif global compatible avec le SSR dans Nuxt, {1} est le choix recommandé."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

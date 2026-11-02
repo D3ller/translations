@@ -1,0 +1,14 @@
+{
+  "hash": "ce617407026a9f49",
+  "source": "rendered on the server, then hydrated on the client",
+  "text": "rendu sur le serveur, puis hydraté sur le client",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "rendu sur le serveur, puis hydraté sur le client"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

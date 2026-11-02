@@ -1,0 +1,14 @@
+{
+  "hash": "c0d35b4cf068e568",
+  "source": "Options API Support",
+  "text": "Prise en charge de l'Options API",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Prise en charge de l'Options API"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "32b5ceeae270dbb8",
+  "source": "Filenames still drive weight, style and subset detection, so {0} resolves {1} at weight {2}. Matched fonts are emitted as build assets and served from your own origin.",
+  "text": "Les noms de fichiers déterminent toujours la détection de la graisse, du style et du sous-ensemble, donc {0} résout {1} avec la graisse {2}. Les polices correspondantes sont émises comme assets du build et servies depuis votre propre origine.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les noms de fichiers déterminent toujours la détection de la graisse, du style et du sous-ensemble, donc {0} résout {1} avec la graisse {2}. Les polices correspondantes sont émises comme assets du build et servies depuis votre propre origine."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

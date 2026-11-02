@@ -1,0 +1,14 @@
+{
+  "hash": "81fc8a52fd9823b1",
+  "source": "No header exposes all tools, an empty header exposes no tools, and an unknown tool name returns a configuration error.",
+  "text": "Sans en-tête, tous les outils sont exposés ; avec un en-tête vide, aucun outil n'est exposé ; et un nom d'outil inconnu renvoie une erreur de configuration.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sans en-tête, tous les outils sont exposés ; avec un en-tête vide, aucun outil n'est exposé ; et un nom d'outil inconnu renvoie une erreur de configuration."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

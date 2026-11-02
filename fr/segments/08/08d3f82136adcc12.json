@@ -1,0 +1,14 @@
+{
+  "hash": "08d3f82136adcc12",
+  "source": "The directory which will be processed to auto-generate your application page routes.",
+  "text": "Le répertoire qui sera traité pour générer automatiquement les routes des pages de votre application.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le répertoire qui sera traité pour générer automatiquement les routes des pages de votre application."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

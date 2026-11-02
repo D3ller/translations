@@ -1,0 +1,14 @@
+{
+  "hash": "aa4a3e57959a6c6d",
+  "source": "The URL passed to {0} starts with {1}. A protocol-relative URL like this resolves to an external host, which is almost never intended and is rejected to avoid leaking requests to a different origin.",
+  "text": "L'URL transmise à {0} commence par {1}. Une URL relative au protocole comme celle-ci pointe vers un hôte externe, ce qui n'est presque jamais voulu ; elle est donc rejetée afin d'éviter que des requêtes ne soient envoyées vers une autre origine.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'URL transmise à {0} commence par {1}. Une URL relative au protocole comme celle-ci pointe vers un hôte externe, ce qui n'est presque jamais voulu ; elle est donc rejetée afin d'éviter que des requêtes ne soient envoyées vers une autre origine."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "d74f425974584826",
+  "source": "Each island is rendered in its own Vue app, so {0} and {1} do not cross the island boundary. Standalone {2} components use {3} under the hood and also run outside the parent Vue app, so they cannot access values provided by the parent. A value provided inside the island is not available outside it either. Pass the data as props, or expose it through a {4}Nuxt plugin{/4} that runs in both contexts.",
+  "text": "Chaque island est rendue dans sa propre application Vue ; {0} et {1} ne traversent donc pas la frontière de l'island. Les composants {2} autonomes utilisent {3} en interne et s'exécutent également en dehors de l'application Vue parente, de sorte qu'ils ne peuvent pas accéder aux valeurs fournies par le parent. Une valeur fournie à l'intérieur de l'island n'est pas non plus disponible à l'extérieur. Transmettez les données sous forme de props, ou exposez-les via un {4}plugin Nuxt{/4} qui s'exécute dans les deux contextes.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Chaque island est rendue dans sa propre application Vue ; {0} et {1} ne traversent donc pas la frontière de l'island. Les composants {2} autonomes utilisent {3} en interne et s'exécutent également en dehors de l'application Vue parente, de sorte qu'ils ne peuvent pas accéder aux valeurs fournies par le parent. Une valeur fournie à l'intérieur de l'island n'est pas non plus disponible à l'extérieur. Transmettez les données sous forme de props, ou exposez-les via un {4}plugin Nuxt{/4} qui s'exécute dans les deux contextes."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

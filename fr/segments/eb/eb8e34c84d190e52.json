@@ -1,0 +1,14 @@
+{
+  "hash": "eb8e34c84d190e52",
+  "source": "Called when Vue app is initialized and mounted in browser.",
+  "text": "Appelé lorsque l'application Vue est initialisée et montée dans le navigateur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appelé lorsque l'application Vue est initialisée et montée dans le navigateur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

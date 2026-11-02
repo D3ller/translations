@@ -1,0 +1,14 @@
+{
+  "hash": "d844de9f2641d389",
+  "source": "To use {0}, ensure that the data-fetching composable ({1}, {2}, etc.) has been called with an explicitly provided key.",
+  "text": "Pour utiliser {0}, assurez-vous que le composable de récupération de données ({1}, {2}, etc.) a été appelé avec une clé fournie explicitement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour utiliser {0}, assurez-vous que le composable de récupération de données ({1}, {2}, etc.) a été appelé avec une clé fournie explicitement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

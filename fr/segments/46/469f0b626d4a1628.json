@@ -1,0 +1,14 @@
+{
+  "hash": "469f0b626d4a1628",
+  "source": "Nuxt uses {0} namespace in runtime-config with keys including {1} and {2}. You can customize their values at runtime by setting environment variables.",
+  "text": "Nuxt utilise l'espace de noms {0} dans le runtime config, avec des clés comme {1} et {2}. Vous pouvez personnaliser leurs valeurs au runtime en définissant des variables d'environnement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt utilise l'espace de noms {0} dans le runtime config, avec des clés comme {1} et {2}. Vous pouvez personnaliser leurs valeurs au runtime en définissant des variables d'environnement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "8d389eff4a07a8f2",
+  "source": "By default moduleDependencies will be added to the list of modules to be installed",
+  "text": "Par défaut, moduleDependencies sera ajouté à la liste des modules à installer",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par défaut, moduleDependencies sera ajouté à la liste des modules à installer"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

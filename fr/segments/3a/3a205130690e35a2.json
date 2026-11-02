@@ -1,0 +1,14 @@
+{
+  "hash": "3a205130690e35a2",
+  "source": "Whether to fetch on the server.",
+  "text": "Indique s'il faut effectuer la récupération côté serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Indique s'il faut effectuer la récupération côté serveur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "a94001477cf0a74d",
+  "source": "End Of Life",
+  "text": "Fin de vie",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Fin de vie"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

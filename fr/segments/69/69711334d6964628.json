@@ -1,0 +1,14 @@
+{
+  "hash": "69711334d6964628",
+  "source": "Configuration for other modules - this does not ensure the module runs before",
+  "text": "Configuration pour d'autres modules - cela ne garantit pas que le module s'exécute avant",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Configuration pour d'autres modules - cela ne garantit pas que le module s'exécute avant"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

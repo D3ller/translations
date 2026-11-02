@@ -1,0 +1,14 @@
+{
+  "hash": "e1232de8aa28c480",
+  "source": "It is always important to ensure you import/export something when augmenting a type",
+  "text": "Il est toujours important de s'assurer d'importer/exporter quelque chose lorsque l'on augmente un type",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Il est toujours important de s'assurer d'importer/exporter quelque chose lorsque l'on augmente un type"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

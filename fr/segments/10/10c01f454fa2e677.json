@@ -1,0 +1,14 @@
+{
+  "hash": "10c01f454fa2e677",
+  "source": "The {0} rule for the family itself still comes from the global stylesheet and isn't duplicated, and preload hints are unchanged. If you don't want the fallback rules, set {1} to {2} for the family.",
+  "text": "La règle {0} de la famille elle-même provient toujours de la feuille de style globale et n'est pas dupliquée, et les indices de préchargement restent inchangés. Si vous ne souhaitez pas les règles de repli, définissez {1} à {2} pour la famille.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La règle {0} de la famille elle-même provient toujours de la feuille de style globale et n'est pas dupliquée, et les indices de préchargement restent inchangés. Si vous ne souhaitez pas les règles de repli, définissez {1} à {2} pour la famille."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

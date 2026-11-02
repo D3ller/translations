@@ -1,0 +1,14 @@
+{
+  "hash": "fe65abd38bed70f1",
+  "source": "The event the renderer takes is described in web standards only (a {0}, a {1}, a response to influence, and a context), matching the {2} shape in {3}. Set {4} on it to name the event the application should see, and {5} and the render hooks receive that instead. {6} is passed the event too, for a runtime that resolves it per request. Everything the renderer can't learn from the platform (route rules, hooks, response and error construction, early hints, island rendering, and the prerender caches) is passed in, so the renderer itself imports no server runtime.",
+  "text": "L'événement que reçoit le renderer est décrit uniquement avec des standards du web (une {0}, une {1}, une réponse à modifier et un contexte), conformément à la forme {2} de {3}. Définissez {4} dessus pour nommer l'événement que l'application doit voir ; {5} et les hooks de rendu reçoivent alors celui-ci à la place. {6} reçoit aussi l'événement, pour un runtime qui le résout à chaque requête. Tout ce que le renderer ne peut pas déduire de la plateforme (règles de route, hooks, construction des réponses et des erreurs, early hints, rendu des îlots et caches de prérendu) lui est transmis, de sorte que le renderer lui-même n'importe aucun runtime serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'événement que reçoit le renderer est décrit uniquement avec des standards du web (une {0}, une {1}, une réponse à modifier et un contexte), conformément à la forme {2} de {3}. Définissez {4} dessus pour nommer l'événement que l'application doit voir ; {5} et les hooks de rendu reçoivent alors celui-ci à la place. {6} reçoit aussi l'événement, pour un runtime qui le résout à chaque requête. Tout ce que le renderer ne peut pas déduire de la plateforme (règles de route, hooks, construction des réponses et des erreurs, early hints, rendu des îlots et caches de prérendu) lui est transmis, de sorte que le renderer lui-même n'importe aucun runtime serveur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "b3b8a1c88c7205ca",
+  "source": "In addition, named layer aliases to the {0} of each of these layers will automatically be created. For example, you will be able to access the {1} layer via {2}.",
+  "text": "De plus, des alias nommés vers le {0} de chacun de ces layers sont créés automatiquement. Par exemple, vous pourrez accéder au layer {1} via {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "De plus, des alias nommés vers le {0} de chacun de ces layers sont créés automatiquement. Par exemple, vous pourrez accéder au layer {1} via {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

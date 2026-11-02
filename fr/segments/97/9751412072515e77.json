@@ -1,0 +1,14 @@
+{
+  "hash": "9751412072515e77",
+  "source": "Whether to parse {0} when rendering a server error page.",
+  "text": "Indique s'il faut analyser {0} lors du rendu d'une page d'erreur serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Indique s'il faut analyser {0} lors du rendu d'une page d'erreur serveur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

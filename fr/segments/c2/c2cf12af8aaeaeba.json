@@ -1,0 +1,14 @@
+{
+  "hash": "c2cf12af8aaeaeba",
+  "source": "The session API is stable, but the format of the sealed cookie may change in a minor release: Nuxt plans to move to an AES-GCM based seal once {0} publishes one. When it does, existing sessions are read in the old format and resealed in the new one on their next write, so users are not signed out. Sealed values are not interchangeable with those from h3's {1}.",
+  "text": "L'API de session est stable, mais le format du cookie scellé peut changer dans une version mineure : Nuxt prévoit de passer à un scellement basé sur AES-GCM dès que {0} en publiera un. Lorsque ce sera le cas, les sessions existantes seront lues dans l'ancien format et rescellées dans le nouveau à leur prochaine écriture, de sorte que les utilisateurs ne seront pas déconnectés. Les valeurs scellées ne sont pas interchangeables avec celles de {1} de h3.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'API de session est stable, mais le format du cookie scellé peut changer dans une version mineure : Nuxt prévoit de passer à un scellement basé sur AES-GCM dès que {0} en publiera un. Lorsque ce sera le cas, les sessions existantes seront lues dans l'ancien format et rescellées dans le nouveau à leur prochaine écriture, de sorte que les utilisateurs ne seront pas déconnectés. Les valeurs scellées ne sont pas interchangeables avec celles de {1} de h3."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

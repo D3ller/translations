@@ -1,0 +1,14 @@
+{
+  "hash": "ffb9bd645b16c9ed",
+  "source": "a font set by CSS-in-JS, a third-party stylesheet, or a framework preset that isn't part of your own CSS",
+  "text": "une police définie par du CSS-in-JS, une feuille de style tierce ou un preset de framework qui ne fait pas partie de votre propre CSS",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "une police définie par du CSS-in-JS, une feuille de style tierce ou un preset de framework qui ne fait pas partie de votre propre CSS"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

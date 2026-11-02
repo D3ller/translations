@@ -1,0 +1,14 @@
+{
+  "hash": "08d1284a2cd89690",
+  "source": "Migration Steps",
+  "text": "Étapes de migration",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Étapes de migration"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

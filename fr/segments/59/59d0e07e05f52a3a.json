@@ -1,0 +1,14 @@
+{
+  "hash": "59d0e07e05f52a3a",
+  "source": "{0}: Toolkit for authoring Nuxt modules, published as {1}.",
+  "text": "{0} : boîte à outils pour créer des modules Nuxt, publiée sous le nom {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : boîte à outils pour créer des modules Nuxt, publiée sous le nom {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "3c9c640cc85b61c2",
+  "source": "Note that this *does not apply* to data passed from your server routes when fetched with {0} or {1} - see the next section for more information.",
+  "text": "Notez que cela *ne s'applique pas* aux données renvoyées par vos routes serveur lorsqu'elles sont récupérées avec {0} ou {1} ; consultez la section suivante pour plus d'informations.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Notez que cela *ne s'applique pas* aux données renvoyées par vos routes serveur lorsqu'elles sont récupérées avec {0} ou {1} ; consultez la section suivante pour plus d'informations."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

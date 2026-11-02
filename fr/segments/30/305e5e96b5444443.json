@@ -1,0 +1,14 @@
+{
+  "hash": "305e5e96b5444443",
+  "source": "Enables experimental component islands support with {0} and {1} files.",
+  "text": "Active la prise en charge expérimentale des islands de composants avec les fichiers {0} et {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Active la prise en charge expérimentale des islands de composants avec les fichiers {0} et {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

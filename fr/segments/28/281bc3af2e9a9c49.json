@@ -1,0 +1,14 @@
+{
+  "hash": "281bc3af2e9a9c49",
+  "source": "{0} : Name of the component to render.",
+  "text": "{0} : nom du composant à afficher.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : nom du composant à afficher."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

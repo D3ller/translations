@@ -1,0 +1,14 @@
+{
+  "hash": "6a00bb875233b8bd",
+  "source": "To contribute to Nuxt, you need to set up a local environment.",
+  "text": "Pour contribuer à Nuxt, vous devez configurer un environnement local.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour contribuer à Nuxt, vous devez configurer un environnement local."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

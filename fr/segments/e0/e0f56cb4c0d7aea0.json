@@ -1,0 +1,14 @@
+{
+  "hash": "e0f56cb4c0d7aea0",
+  "source": "Nuxt comes with built-in features designed to improve your application's performance and contribute to better {0}Core Web Vitals{/0}. There are also multiple Nuxt core modules that assist in improving performance in specific areas. This guide outlines best practices to optimize performance of your Nuxt application.",
+  "text": "Nuxt est livré avec des fonctionnalités intégrées conçues pour améliorer la performance de votre application et contribuer à de meilleurs {0}Core Web Vitals{/0}. Plusieurs modules principaux de Nuxt aident également à améliorer la performance dans des domaines précis. Ce guide présente les bonnes pratiques pour optimiser la performance de votre application Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt est livré avec des fonctionnalités intégrées conçues pour améliorer la performance de votre application et contribuer à de meilleurs {0}Core Web Vitals{/0}. Plusieurs modules principaux de Nuxt aident également à améliorer la performance dans des domaines précis. Ce guide présente les bonnes pratiques pour optimiser la performance de votre application Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

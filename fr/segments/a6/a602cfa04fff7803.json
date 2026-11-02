@@ -1,0 +1,14 @@
+{
+  "hash": "a602cfa04fff7803",
+  "source": "If you want to extract all your CSS to a single file, there is a workaround for this. However, note that it is not recommended to extract everything into a single file. Extracting into multiple CSS files is better for caching and preload isolation. It can also improve page performance by downloading and resolving only those resources that are needed.",
+  "text": "Si vous souhaitez extraire tout votre CSS dans un seul fichier, il existe une solution de contournement. Notez toutefois qu'il n'est pas recommandé de tout extraire dans un seul fichier. Extraire le CSS dans plusieurs fichiers est préférable pour le cache et l'isolation du préchargement. Cela peut aussi améliorer les performances de la page en ne téléchargeant et en ne traitant que les ressources nécessaires.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous souhaitez extraire tout votre CSS dans un seul fichier, il existe une solution de contournement. Notez toutefois qu'il n'est pas recommandé de tout extraire dans un seul fichier. Extraire le CSS dans plusieurs fichiers est préférable pour le cache et l'isolation du préchargement. Cela peut aussi améliorer les performances de la page en ne téléchargeant et en ne traitant que les ressources nécessaires."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

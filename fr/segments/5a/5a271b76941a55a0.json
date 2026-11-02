@@ -1,0 +1,14 @@
+{
+  "hash": "5a271b76941a55a0",
+  "source": "{0} is no longer installed by default. It is now an optional peer dependency of {1}, needed only to download a layer that {2} names by remote URL:",
+  "text": "{0} n'est plus installé par défaut. Il s'agit désormais d'une peer dependency facultative de {1}, nécessaire uniquement pour télécharger un layer (couche) que {2} désigne par une URL distante :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} n'est plus installé par défaut. Il s'agit désormais d'une peer dependency facultative de {1}, nécessaire uniquement pour télécharger un layer (couche) que {2} désigne par une URL distante :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

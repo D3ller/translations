@@ -1,0 +1,14 @@
+{
+  "hash": "a214cc5236fb9de5",
+  "source": "{0} is deprecated. Wrap {1} in an {2} block instead. It is no longer auto-imported.",
+  "text": "{0} est obsolète. Enveloppez plutôt {1} dans un bloc {2}. Il n'est plus importé automatiquement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est obsolète. Enveloppez plutôt {1} dans un bloc {2}. Il n'est plus importé automatiquement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

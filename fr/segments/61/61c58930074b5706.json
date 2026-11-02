@@ -1,0 +1,14 @@
+{
+  "hash": "61c58930074b5706",
+  "source": "This guide explains how each role fits into the Nuxt build, what contract each fulfills, and how to author one. It assumes you're familiar with the {0}Nuxt interface{/0} and with writing {1}modules{/1}.",
+  "text": "Ce guide explique comment chaque rôle s'intègre dans le build de Nuxt, quel contrat chacun remplit et comment en créer un. Il suppose que vous êtes familier avec l'{0}interface Nuxt{/0} et avec l'écriture de {1}modules{/1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ce guide explique comment chaque rôle s'intègre dans le build de Nuxt, quel contrat chacun remplit et comment en créer un. Il suppose que vous êtes familier avec l'{0}interface Nuxt{/0} et avec l'écriture de {1}modules{/1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

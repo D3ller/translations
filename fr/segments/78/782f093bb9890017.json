@@ -1,0 +1,14 @@
+{
+  "hash": "782f093bb9890017",
+  "source": "{0}: A reactive reference to the cached data associated with the provided key. If no cached data exists, the value will be {1}. This {2} automatically updates if the cached data changes, allowing seamless reactivity in your components.",
+  "text": "{0} : une référence réactive vers les données en cache associées à la clé fournie. Si aucune donnée n'est en cache, la valeur sera {1}. Cette {2} se met à jour automatiquement si les données en cache changent, ce qui permet une réactivité fluide dans vos composants.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : une référence réactive vers les données en cache associées à la clé fournie. Si aucune donnée n'est en cache, la valeur sera {1}. Cette {2} se met à jour automatiquement si les données en cache changent, ce qui permet une réactivité fluide dans vos composants."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "61bc569c2603f4d8",
+  "source": "Promise and Error Handling",
+  "text": "Gestion des promesses et des erreurs",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Gestion des promesses et des erreurs"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

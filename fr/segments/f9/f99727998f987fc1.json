@@ -1,0 +1,14 @@
+{
+  "hash": "f99727998f987fc1",
+  "source": "{0}: encoded URL associated with the current route that contains path, query and hash",
+  "text": "{0} : URL encodée associée à la route courante, contenant le chemin, la requête et le hash",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : URL encodée associée à la route courante, contenant le chemin, la requête et le hash"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

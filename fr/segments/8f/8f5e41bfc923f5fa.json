@@ -1,0 +1,14 @@
+{
+  "hash": "8f5e41bfc923f5fa",
+  "source": "**{0}**: Options to pass to the resolver. This object can have the following properties:",
+  "text": "**{0}** : les options à transmettre au resolver. Cet objet peut avoir les propriétés suivantes :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** : les options à transmettre au resolver. Cet objet peut avoir les propriétés suivantes :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

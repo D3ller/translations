@@ -1,0 +1,14 @@
+{
+  "hash": "246cfa8b4f1abc3f",
+  "source": "Open the app in your browser",
+  "text": "Ouvrir l'application dans votre navigateur",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ouvrir l'application dans votre navigateur"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

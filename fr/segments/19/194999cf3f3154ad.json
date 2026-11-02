@@ -1,0 +1,14 @@
+{
+  "hash": "194999cf3f3154ad",
+  "source": "If you register a Vue directive, you *must* register it on both client and server side unless you are only using it when rendering one side. If the directive only makes sense from a client side, you can always move it to {0} and provide a 'stub' directive for the server in {1}.",
+  "text": "Si vous enregistrez une directive Vue, vous *devez* l'enregistrer à la fois côté client et côté serveur, sauf si vous ne l'utilisez que pour le rendu d'un seul côté. Si la directive n'a de sens que côté client, vous pouvez toujours la déplacer dans {0} et fournir une directive « stub » pour le serveur dans {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous enregistrez une directive Vue, vous *devez* l'enregistrer à la fois côté client et côté serveur, sauf si vous ne l'utilisez que pour le rendu d'un seul côté. Si la directive n'a de sens que côté client, vous pouvez toujours la déplacer dans {0} et fournir une directive « stub » pour le serveur dans {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

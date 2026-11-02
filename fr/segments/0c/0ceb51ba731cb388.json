@@ -1,0 +1,14 @@
+{
+  "hash": "0ceb51ba731cb388",
+  "source": "Authoring a Server Builder",
+  "text": "Créer un server builder",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Créer un server builder"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

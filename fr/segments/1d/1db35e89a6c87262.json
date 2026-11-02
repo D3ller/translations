@@ -1,0 +1,14 @@
+{
+  "hash": "1db35e89a6c87262",
+  "source": "A rule in a page with a finite set of alternatives, such as a custom {0} of {1}, will generate one rule per alternative ({2} and {3}).",
+  "text": "Une règle dans une page avec un ensemble fini d'alternatives, comme un {0} personnalisé de {1}, générera une règle par alternative ({2} et {3}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une règle dans une page avec un ensemble fini d'alternatives, comme un {0} personnalisé de {1}, générera une règle par alternative ({2} et {3})."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

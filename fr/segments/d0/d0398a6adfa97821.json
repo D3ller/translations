@@ -1,0 +1,14 @@
+{
+  "hash": "d0398a6adfa97821",
+  "source": "Nested Routes",
+  "text": "Routes imbriquées",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Routes imbriquées"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

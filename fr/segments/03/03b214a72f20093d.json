@@ -1,0 +1,14 @@
+{
+  "hash": "03b214a72f20093d",
+  "source": "Universal deployment on any provider (many zero-config)",
+  "text": "Un déploiement universel chez n'importe quel fournisseur (beaucoup sans configuration)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un déploiement universel chez n'importe quel fournisseur (beaucoup sans configuration)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

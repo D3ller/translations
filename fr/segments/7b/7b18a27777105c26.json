@@ -1,0 +1,14 @@
+{
+  "hash": "7b18a27777105c26",
+  "source": "Default options for the module. If a function is provided, it will be called with the Nuxt instance as the first argument.",
+  "text": "Options par défaut du module. Si une fonction est fournie, elle sera appelée avec l'instance de Nuxt comme premier argument.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Options par défaut du module. Si une fonction est fournie, elle sera appelée avec l'instance de Nuxt comme premier argument."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

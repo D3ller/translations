@@ -1,0 +1,14 @@
+{
+  "hash": "555b0b6464dd9320",
+  "source": "An error may occur during the server lifecycle when:",
+  "text": "Une erreur peut survenir pendant le cycle de vie du serveur lorsque :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une erreur peut survenir pendant le cycle de vie du serveur lorsque :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

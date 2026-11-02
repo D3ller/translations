@@ -1,0 +1,14 @@
+{
+  "hash": "0ab7c6e27500ac42",
+  "source": "**Response properties:**",
+  "text": "**Propriétés de la réponse :**",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Propriétés de la réponse :**"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "f68ee7b721b6878b",
+  "source": "{0} is a built-in composable that provides a way to access shared runtime context of Nuxt, also known as the {1}Nuxt context{/1}, which is available on both client and server side (but not within Nitro routes). It helps you access the Vue app instance, runtime hooks, runtime config variables and internal states, such as {2} and {3}.",
+  "text": "{0} est un composable intégré qui permet d'accéder au contexte d'exécution partagé de Nuxt, aussi appelé {1}contexte Nuxt{/1}, disponible côté client comme côté serveur (mais pas dans les routes Nitro). Il vous aide à accéder à l'instance de l'application Vue, aux hooks d'exécution, aux variables de runtime config et aux états internes, tels que {2} et {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est un composable intégré qui permet d'accéder au contexte d'exécution partagé de Nuxt, aussi appelé {1}contexte Nuxt{/1}, disponible côté client comme côté serveur (mais pas dans les routes Nitro). Il vous aide à accéder à l'instance de l'application Vue, aux hooks d'exécution, aux variables de runtime config et aux états internes, tels que {2} et {3}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

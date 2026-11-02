@@ -1,0 +1,14 @@
+{
+  "hash": "559add3157234e5c",
+  "source": "See {0}Runtime Hooks{/0} for available runtime hooks called by Nuxt.",
+  "text": "Consultez {0}Runtime Hooks{/0} pour connaître les hooks d'exécution appelés par Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Consultez {0}Runtime Hooks{/0} pour connaître les hooks d'exécution appelés par Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

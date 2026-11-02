@@ -1,0 +1,14 @@
+{
+  "hash": "93aa2f16b466b4fc",
+  "source": "Prerender and Drop Scripts",
+  "text": "Prérendre et supprimer les scripts",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Prérendre et supprimer les scripts"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "8165b1bb32d1ed1c",
+  "source": "Nuxt will automatically purge cached data from {0} and {1}. This helps prevent memory leaks and ensures fresh data is loaded when needed, but it is possible to disable it.",
+  "text": "Nuxt purgera automatiquement les données en cache de {0} et {1}. Cela permet d'éviter les fuites de mémoire et de garantir que des données à jour sont chargées lorsque nécessaire, mais il est possible de le désactiver.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt purgera automatiquement les données en cache de {0} et {1}. Cela permet d'éviter les fuites de mémoire et de garantir que des données à jour sont chargées lorsque nécessaire, mais il est possible de le désactiver."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

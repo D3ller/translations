@@ -1,0 +1,14 @@
+{
+  "hash": "ecd26dd8a213892d",
+  "source": "Calling {0} does not stop execution of the rest of your {1} code. If you want a successful navigation to return early from {2}, enable {3}.",
+  "text": "Appeler {0} n'arrête pas l'exécution du reste de votre code {1}. Si vous souhaitez qu'une navigation réussie provoque un retour anticipé de {2}, activez {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appeler {0} n'arrête pas l'exécution du reste de votre code {1}. Si vous souhaitez qu'une navigation réussie provoque un retour anticipé de {2}, activez {3}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

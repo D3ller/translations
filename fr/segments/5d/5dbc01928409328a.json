@@ -1,0 +1,14 @@
+{
+  "hash": "5dbc01928409328a",
+  "source": "{0} - rejects the current navigation with an error",
+  "text": "{0} - rejette la navigation en cours avec une erreur",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} - rejette la navigation en cours avec une erreur"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

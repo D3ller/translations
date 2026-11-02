@@ -1,0 +1,14 @@
+{
+  "hash": "5bd3e4face3f59b1",
+  "source": "The {0} uses Vue's {1} hook under the hood.",
+  "text": "Le {0} utilise en interne le hook {1} de Vue.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le {0} utilise en interne le hook {1} de Vue."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

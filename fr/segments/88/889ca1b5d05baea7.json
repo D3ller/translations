@@ -1,0 +1,14 @@
+{
+  "hash": "889ca1b5d05baea7",
+  "source": "{0}: A semver range. If the resolved module's version does not satisfy this range, Nuxt throws an error. Version checks only apply when the dependency can be resolved to a {1}, so they are a no-op for project-local modules.",
+  "text": "{0} : une plage semver. Si la version du module résolu ne satisfait pas cette plage, Nuxt lève une erreur. Les vérifications de version ne s'appliquent que lorsque la dépendance peut être résolue vers un {1}, elles n'ont donc aucun effet pour les modules locaux au projet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : une plage semver. Si la version du module résolu ne satisfait pas cette plage, Nuxt lève une erreur. Les vérifications de version ne s'appliquent que lorsque la dépendance peut être résolue vers un {1}, elles n'ont donc aucun effet pour les modules locaux au projet."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

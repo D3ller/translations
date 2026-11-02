@@ -1,0 +1,14 @@
+{
+  "hash": "b1d0eb2cf7e0efce",
+  "source": "Networks and proxies",
+  "text": "Réseaux et proxys",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Réseaux et proxys"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "6f193f4200c67a49",
+  "source": "Forward the request context and headers for server-side fetch requests with the useRequestFetch composable.",
+  "text": "Transmettez le contexte et les en-têtes de la requête lors des requêtes fetch côté serveur avec le composable useRequestFetch.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Transmettez le contexte et les en-têtes de la requête lors des requêtes fetch côté serveur avec le composable useRequestFetch."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "d51acc5a5ef826b8",
+  "source": "The init command initializes a fresh Nuxt project.",
+  "text": "La commande init initialise un nouveau projet Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La commande init initialise un nouveau projet Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

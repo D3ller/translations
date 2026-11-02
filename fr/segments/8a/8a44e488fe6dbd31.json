@@ -1,0 +1,14 @@
+{
+  "hash": "8a44e488fe6dbd31",
+  "source": "**Default output format** if none is specified or auto-detected{0}",
+  "text": "**Format de sortie par défaut** si aucun n'est spécifié ou détecté automatiquement{0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Format de sortie par défaut** si aucun n'est spécifié ou détecté automatiquement{0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

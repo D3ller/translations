@@ -1,0 +1,14 @@
+{
+  "hash": "7e0e06e60b531337",
+  "source": "Repeat steps 1-3 for each anchor tag found until there are no more anchor tags to crawl.",
+  "text": "Répétition des étapes 1 à 3 pour chaque balise d'ancre trouvée, jusqu'à ce qu'il n'y ait plus de balise d'ancre à explorer.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Répétition des étapes 1 à 3 pour chaque balise d'ancre trouvée, jusqu'à ce qu'il n'y ait plus de balise d'ancre à explorer."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

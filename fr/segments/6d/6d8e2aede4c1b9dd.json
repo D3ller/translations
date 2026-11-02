@@ -1,0 +1,14 @@
+{
+  "hash": "6d8e2aede4c1b9dd",
+  "source": "To make globals like {0} work in the browser, you need to manually inject them.",
+  "text": "Pour que des variables globales comme {0} fonctionnent dans le navigateur, vous devez les injecter manuellement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour que des variables globales comme {0} fonctionnent dans le navigateur, vous devez les injecter manuellement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

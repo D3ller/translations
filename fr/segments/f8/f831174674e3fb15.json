@@ -1,0 +1,14 @@
+{
+  "hash": "f831174674e3fb15",
+  "source": "This way, a minimal Vue 3 application can be reduced to 12 kb gzipped.",
+  "text": "Ainsi, une application Vue 3 minimale peut être réduite à 12 kb compressés avec gzip.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ainsi, une application Vue 3 minimale peut être réduite à 12 kb compressés avec gzip."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

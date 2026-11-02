@@ -1,0 +1,14 @@
+{
+  "hash": "d48e503e26b11ffa",
+  "source": "Safely sanitized",
+  "text": "Assaini de manière sûre",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Assaini de manière sûre"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

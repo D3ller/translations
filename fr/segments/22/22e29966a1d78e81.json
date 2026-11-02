@@ -1,0 +1,14 @@
+{
+  "hash": "22e29966a1d78e81",
+  "source": "Server and client startup errors (SSR + CSR)",
+  "text": "Les erreurs de démarrage du serveur et du client (SSR + CSR)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les erreurs de démarrage du serveur et du client (SSR + CSR)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

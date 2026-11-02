@@ -1,0 +1,14 @@
+{
+  "hash": "53c6c59e156b3e30",
+  "source": "`nuxt/server` is the import surface for server code that isn't tied to a particular server runtime.",
+  "text": "`nuxt/server` est la surface d'import pour le code serveur qui n'est pas lié à un runtime serveur particulier.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "`nuxt/server` est la surface d'import pour le code serveur qui n'est pas lié à un runtime serveur particulier."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

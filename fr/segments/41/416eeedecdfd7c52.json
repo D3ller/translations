@@ -1,0 +1,14 @@
+{
+  "hash": "416eeedecdfd7c52",
+  "source": "If a {0} file is all you ship, it will keep running on Nuxt 5 through the Nitro v2 compatibility layer, which is documented in the {1}Nuxt 5 module server compatibility guide{/1} along with the behaviours that changed with Nitro v3.",
+  "text": "Si un fichier {0} est tout ce que vous livrez, il continuera de fonctionner sur Nuxt 5 via la couche de compatibilité Nitro v2, qui est documentée dans le {1}guide de compatibilité serveur des modules Nuxt 5{/1} avec les comportements qui ont changé avec Nitro v3.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si un fichier {0} est tout ce que vous livrez, il continuera de fonctionner sur Nuxt 5 via la couche de compatibilité Nitro v2, qui est documentée dans le {1}guide de compatibilité serveur des modules Nuxt 5{/1} avec les comportements qui ont changé avec Nitro v3."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

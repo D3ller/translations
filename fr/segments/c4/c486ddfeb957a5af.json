@@ -1,0 +1,14 @@
+{
+  "hash": "c486ddfeb957a5af",
+  "source": "A custom regular expression is a good way to resolve conflicts between overlapping routes, for instance:",
+  "text": "Une expression régulière personnalisée est un bon moyen de résoudre les conflits entre des routes qui se chevauchent, par exemple :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une expression régulière personnalisée est un bon moyen de résoudre les conflits entre des routes qui se chevauchent, par exemple :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

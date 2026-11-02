@@ -1,0 +1,14 @@
+{
+  "hash": "a0d3a76cd8131e8b",
+  "source": "Path to the event handler, or one path per server API. Nuxt registers the implementation the application's server can run.",
+  "text": "Chemin vers le gestionnaire d'événements, ou un chemin par API serveur. Nuxt enregistre l'implémentation que le serveur de l'application peut exécuter.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Chemin vers le gestionnaire d'événements, ou un chemin par API serveur. Nuxt enregistre l'implémentation que le serveur de l'application peut exécuter."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

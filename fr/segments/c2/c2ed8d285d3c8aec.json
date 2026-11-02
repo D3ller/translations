@@ -1,0 +1,14 @@
+{
+  "hash": "c2ed8d285d3c8aec",
+  "source": "This only works with static or strings/arrays rather than variables or conditional assignment. See {0}original issue{/0} for more information and context.",
+  "text": "Cela ne fonctionne qu'avec des valeurs statiques ou des chaînes/tableaux, et non avec des variables ou des affectations conditionnelles. Consultez {0}l'issue d'origine{/0} pour plus d'informations et de contexte.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela ne fonctionne qu'avec des valeurs statiques ou des chaînes/tableaux, et non avec des variables ou des affectations conditionnelles. Consultez {0}l'issue d'origine{/0} pour plus d'informations et de contexte."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "1bc73597b732c21b",
+  "source": "Static site generation (SSG) with {0} pre-renders routes of your application at build time. (This is the default behavior when running {1}.) It will also generate {2} and {3} single-page app fallback pages, which can render dynamic routes or 404 errors on the client (though you may need to configure this on your static host).",
+  "text": "La génération de site statique (SSG) avec {0} prérend les routes de votre application au moment du build. (C'est le comportement par défaut lors de l'exécution de {1}.) Elle génère également les pages de repli d'application monopage {2} et {3}, qui peuvent afficher des routes dynamiques ou des erreurs 404 côté client (même si vous devrez peut-être configurer cela sur votre hébergeur statique).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La génération de site statique (SSG) avec {0} prérend les routes de votre application au moment du build. (C'est le comportement par défaut lors de l'exécution de {1}.) Elle génère également les pages de repli d'application monopage {2} et {3}, qui peuvent afficher des routes dynamiques ou des erreurs 404 côté client (même si vous devrez peut-être configurer cela sur votre hébergeur statique)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

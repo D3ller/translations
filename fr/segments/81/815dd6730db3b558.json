@@ -1,0 +1,14 @@
+{
+  "hash": "815dd6730db3b558",
+  "source": "For example, an addon adding a {0} option that refreshes the data on an interval:",
+  "text": "Par exemple, un addon ajoutant une option {0} qui actualise les données à intervalle régulier :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par exemple, un addon ajoutant une option {0} qui actualise les données à intervalle régulier :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

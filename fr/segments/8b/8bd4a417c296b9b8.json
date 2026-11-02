@@ -1,0 +1,14 @@
+{
+  "hash": "8bd4a417c296b9b8",
+  "source": "Named route middleware, placed in the {0} and automatically loaded via asynchronous import when used on a page.",
+  "text": "Les middleware de route nommés, placés dans le {0} et chargés automatiquement par import asynchrone lorsqu'ils sont utilisés sur une page.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les middleware de route nommés, placés dans le {0} et chargés automatiquement par import asynchrone lorsqu'ils sont utilisés sur une page."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

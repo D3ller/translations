@@ -1,0 +1,14 @@
+{
+  "hash": "8bb7efe755f9f406",
+  "source": "It's important to be able to reproduce the bug reliably - in a minimal way and apart from the rest of your project. This narrows down what could be causing the issue and makes it possible for someone not only to find the cause, but also to test a potential solution.",
+  "text": "Il est important de pouvoir reproduire le bug de manière fiable, de façon minimale et indépendamment du reste de votre projet. Cela permet de réduire les causes possibles du problème et rend possible non seulement l'identification de la cause, mais aussi le test d'une solution potentielle.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Il est important de pouvoir reproduire le bug de manière fiable, de façon minimale et indépendamment du reste de votre projet. Cela permet de réduire les causes possibles du problème et rend possible non seulement l'identification de la cause, mais aussi le test d'une solution potentielle."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

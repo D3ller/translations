@@ -1,0 +1,14 @@
+{
+  "hash": "5cbcd3b137bd4c9c",
+  "source": "Defines the {0} descriptor of every {1} generated for the given font family, overriding any value the provider returns.",
+  "text": "Définit le descripteur {0} de chaque {1} généré pour la famille de polices donnée, en remplaçant toute valeur renvoyée par le fournisseur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définit le descripteur {0} de chaque {1} généré pour la famille de polices donnée, en remplaçant toute valeur renvoyée par le fournisseur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

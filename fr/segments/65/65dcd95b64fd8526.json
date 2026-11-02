@@ -1,0 +1,14 @@
+{
+  "hash": "65dcd95b64fd8526",
+  "source": "The {0} composable will start fetching data the moment is invoked. You may prevent this by setting {1}, for example, to wait for user interaction.",
+  "text": "Le composable {0} commence à récupérer les données dès qu'il est invoqué. Vous pouvez l'empêcher en définissant {1}, par exemple pour attendre une interaction de l'utilisateur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le composable {0} commence à récupérer les données dès qu'il est invoqué. Vous pouvez l'empêcher en définissant {1}, par exemple pour attendre une interaction de l'utilisateur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

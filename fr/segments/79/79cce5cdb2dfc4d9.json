@@ -1,0 +1,14 @@
+{
+  "hash": "79cce5cdb2dfc4d9",
+  "source": "Chooses the values this family's variable font is shipped at, with an array of values for each OpenType axis tag.",
+  "text": "Choisit les valeurs avec lesquelles la police variable de cette famille est livrée, à l'aide d'un tableau de valeurs pour chaque balise d'axe OpenType.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Choisit les valeurs avec lesquelles la police variable de cette famille est livrée, à l'aide d'un tableau de valeurs pour chaque balise d'axe OpenType."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

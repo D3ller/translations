@@ -1,0 +1,14 @@
+{
+  "hash": "884f39017b811345",
+  "source": "Stay Version Agnostic",
+  "text": "Restez agnostique vis-à-vis des versions",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Restez agnostique vis-à-vis des versions"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "c74a3d3a0d31d599",
+  "source": "On the initial server-rendered page load, islands are rendered inline and there is no extra request. On **client-side navigation**, however, each island on the destination page must be fetched from the server (you can see these requests in the network tab). This has real costs:",
+  "text": "Lors du chargement initial de la page rendue côté serveur, les islands sont rendues en ligne et aucune requête supplémentaire n'est effectuée. En revanche, lors d'une **navigation côté client**, chaque island de la page de destination doit être récupérée depuis le serveur (vous pouvez voir ces requêtes dans l'onglet réseau). Cela a un coût réel :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lors du chargement initial de la page rendue côté serveur, les islands sont rendues en ligne et aucune requête supplémentaire n'est effectuée. En revanche, lors d'une **navigation côté client**, chaque island de la page de destination doit être récupérée depuis le serveur (vous pouvez voir ces requêtes dans l'onglet réseau). Cela a un coût réel :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

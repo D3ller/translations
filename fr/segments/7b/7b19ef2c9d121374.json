@@ -1,0 +1,14 @@
+{
+  "hash": "7b19ef2c9d121374",
+  "source": "Overriding Tailwind's default font family works too, including via {0}, which compiles {1} down to {2}:",
+  "text": "Remplacer la famille de polices par défaut de Tailwind fonctionne aussi, y compris via {0}, qui compile {1} en {2} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Remplacer la famille de polices par défaut de Tailwind fonctionne aussi, y compris via {0}, qui compile {1} en {2} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

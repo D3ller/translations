@@ -1,0 +1,14 @@
+{
+  "hash": "c3b3f09b31dea863",
+  "source": "Some auto-imports are not available in the Nitro context.",
+  "text": "Certains imports automatiques ne sont pas disponibles dans le contexte de Nitro.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Certains imports automatiques ne sont pas disponibles dans le contexte de Nitro."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

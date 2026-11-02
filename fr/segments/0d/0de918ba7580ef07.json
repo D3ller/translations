@@ -1,0 +1,14 @@
+{
+  "hash": "0de918ba7580ef07",
+  "source": "The Nitro v3 changes listed above cover a lot of server code. You don't have to work through all of them before Nuxt 5 will build. Nuxt 5 includes a compatibility layer that runs older server code as it is, so you can upgrade first and migrate afterwards.",
+  "text": "Les changements de Nitro v3 listés ci-dessus concernent une grande partie du code serveur. Vous n'avez pas à tous les traiter avant que Nuxt 5 puisse compiler. Nuxt 5 inclut un layer (couche) de compatibilité qui exécute tel quel l'ancien code serveur, ce qui vous permet de mettre à niveau d'abord et de migrer ensuite.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les changements de Nitro v3 listés ci-dessus concernent une grande partie du code serveur. Vous n'avez pas à tous les traiter avant que Nuxt 5 puisse compiler. Nuxt 5 inclut un layer (couche) de compatibilité qui exécute tel quel l'ancien code serveur, ce qui vous permet de mettre à niveau d'abord et de migrer ensuite."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

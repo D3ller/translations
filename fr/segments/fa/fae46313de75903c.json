@@ -1,0 +1,14 @@
+{
+  "hash": "fae46313de75903c",
+  "source": "{0}pathe{/0} - universal path utilities (replacement for node {1})",
+  "text": "{0}pathe{/0} : utilitaires de chemins universels (remplacement de {1} de node)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}pathe{/0} : utilitaires de chemins universels (remplacement de {1} de node)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

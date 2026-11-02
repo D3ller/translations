@@ -1,0 +1,14 @@
+{
+  "hash": "6d610163dfe0ecba",
+  "source": "{0}: the return value of the component setup.",
+  "text": "{0} : la valeur de retour du setup du composant.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : la valeur de retour du setup du composant."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "5c3cbcdb67301206",
+  "source": "For example, the following implementation **will not work as expected**:",
+  "text": "Par exemple, l'implémentation suivante **ne fonctionnera pas comme prévu** :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par exemple, l'implémentation suivante **ne fonctionnera pas comme prévu** :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

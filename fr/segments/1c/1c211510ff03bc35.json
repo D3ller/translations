@@ -1,0 +1,14 @@
+{
+  "hash": "1c211510ff03bc35",
+  "source": "Join the Nuxt module ecosystem and publish your module to npm.",
+  "text": "Rejoignez l'écosystème des modules Nuxt et publiez votre module sur npm.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Rejoignez l'écosystème des modules Nuxt et publiez votre module sur npm."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

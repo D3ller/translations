@@ -1,0 +1,14 @@
+{
+  "hash": "a3bee0ce09408653",
+  "source": "Understand where your code is running using `import.meta`.",
+  "text": "Comprenez où votre code s'exécute grâce à `import.meta`.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Comprenez où votre code s'exécute grâce à `import.meta`."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "328bc81e3293f34d",
+  "source": "**{0}**: Lists all available Nuxt modules with optional filtering and sorting by downloads, stars, or date",
+  "text": "**{0}** : liste tous les modules Nuxt disponibles, avec filtrage et tri facultatifs par téléchargements, étoiles ou date",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** : liste tous les modules Nuxt disponibles, avec filtrage et tri facultatifs par téléchargements, étoiles ou date"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

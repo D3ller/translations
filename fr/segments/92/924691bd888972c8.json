@@ -1,0 +1,14 @@
+{
+  "hash": "924691bd888972c8",
+  "source": "This directory also includes specific files:",
+  "text": "Ce répertoire comprend également des fichiers spécifiques :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ce répertoire comprend également des fichiers spécifiques :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

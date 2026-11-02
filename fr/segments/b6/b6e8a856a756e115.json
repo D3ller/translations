@@ -1,0 +1,14 @@
+{
+  "hash": "b6e8a856a756e115",
+  "source": "**Checking for layer-specific directories:**",
+  "text": "**Vérification des répertoires propres à un layer :**",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Vérification des répertoires propres à un layer :**"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

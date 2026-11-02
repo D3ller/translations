@@ -1,0 +1,14 @@
+{
+  "hash": "e4841ac6005c6233",
+  "source": "this will automatically be rendered on the server, meaning your markdown parsing + highlighting",
+  "text": "ce composant sera automatiquement rendu sur le serveur, ce qui signifie que votre analyse markdown et votre coloration syntaxique",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "ce composant sera automatiquement rendu sur le serveur, ce qui signifie que votre analyse markdown et votre coloration syntaxique"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

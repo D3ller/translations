@@ -1,0 +1,14 @@
+{
+  "hash": "7a98a8be4900253f",
+  "source": "If a plugin object is provided, it must have the following properties:",
+  "text": "Si un objet plugin est fourni, il doit avoir les propriétés suivantes :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si un objet plugin est fourni, il doit avoir les propriétés suivantes :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

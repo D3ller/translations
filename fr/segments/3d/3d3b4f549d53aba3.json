@@ -1,0 +1,14 @@
+{
+  "hash": "3d3b4f549d53aba3",
+  "source": "This is enabled by default when {0} mode is enabled. If you need to disable this feature, it is possible to do so:",
+  "text": "Cette option est activée par défaut lorsque le mode {0} est activé. Si vous devez désactiver cette fonctionnalité, vous pouvez le faire ainsi :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cette option est activée par défaut lorsque le mode {0} est activé. Si vous devez désactiver cette fonctionnalité, vous pouvez le faire ainsi :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

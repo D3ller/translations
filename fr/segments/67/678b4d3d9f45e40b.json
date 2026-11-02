@@ -1,0 +1,14 @@
+{
+  "hash": "678b4d3d9f45e40b",
+  "source": "{0} will always set the {1} to {2}",
+  "text": "{0} définira toujours {1} à {2}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} définira toujours {1} à {2}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

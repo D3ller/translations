@@ -1,0 +1,14 @@
+{
+  "hash": "216825527cc0c7ed",
+  "source": "The {0} option can also be set per component directory.",
+  "text": "L'option {0} peut également être définie pour chaque répertoire de composants.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'option {0} peut également être définie pour chaque répertoire de composants."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

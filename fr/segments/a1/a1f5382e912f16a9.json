@@ -1,0 +1,14 @@
+{
+  "hash": "a1f5382e912f16a9",
+  "source": "The {0} function includes caching via a WeakMap to avoid recomputing directory paths for the same layers repeatedly, improving performance when called multiple times.",
+  "text": "La fonction {0} inclut une mise en cache via une WeakMap afin d'éviter de recalculer à répétition les chemins de répertoires pour les mêmes layers, ce qui améliore les performances lorsqu'elle est appelée plusieurs fois.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La fonction {0} inclut une mise en cache via une WeakMap afin d'éviter de recalculer à répétition les chemins de répertoires pour les mêmes layers, ce qui améliore les performances lorsqu'elle est appelée plusieurs fois."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

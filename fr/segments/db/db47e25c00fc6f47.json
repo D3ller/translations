@@ -1,0 +1,14 @@
+{
+  "hash": "db47e25c00fc6f47",
+  "source": "These hooks are available for {0}server plugins{/0} to hook into Nitro's runtime behavior.",
+  "text": "Ces hooks sont disponibles pour les {0}plugins serveur{/0} afin de s'intégrer au comportement d'exécution de Nitro.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ces hooks sont disponibles pour les {0}plugins serveur{/0} afin de s'intégrer au comportement d'exécution de Nitro."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "de73b5081f0d4879",
+  "source": "✔️ Try with {0} and {1} (or {2}) to see if everything goes well.",
+  "text": "✔️ Essayez avec {0} et {1} (ou {2}) pour vérifier que tout se passe bien.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "✔️ Essayez avec {0} et {1} (ou {2}) pour vérifier que tout se passe bien."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

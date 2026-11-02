@@ -1,0 +1,14 @@
+{
+  "hash": "d453f3c5e0a40121",
+  "source": "Modify Nuxt Configuration",
+  "text": "Modifier la configuration de Nuxt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Modifier la configuration de Nuxt"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "87cbdc8d9a623b34",
+  "source": "Note that the Node.js and Chrome processes need to be run on the same platform. This doesn't work inside of Docker.",
+  "text": "Notez que les processus Node.js et Chrome doivent s'exécuter sur la même plateforme. Cela ne fonctionne pas dans Docker.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Notez que les processus Node.js et Chrome doivent s'exécuter sur la même plateforme. Cela ne fonctionne pas dans Docker."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

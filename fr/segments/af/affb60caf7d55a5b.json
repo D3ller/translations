@@ -1,0 +1,14 @@
+{
+  "hash": "affb60caf7d55a5b",
+  "source": "The server runtime ({0}) does not know which builder produced the app. It imports each build artifact through a stable {1} subpath, and the active builder populates those subpaths with {2}. This is the **build output contract**.",
+  "text": "Le runtime serveur ({0}) ne sait pas quel builder a produit l'application. Il importe chaque artefact de build via un sous-chemin {1} stable, et le builder actif alimente ces sous-chemins avec {2}. C'est le **contrat de sortie du build**.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le runtime serveur ({0}) ne sait pas quel builder a produit l'application. Il importe chaque artefact de build via un sous-chemin {1} stable, et le builder actif alimente ces sous-chemins avec {2}. C'est le **contrat de sortie du build**."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

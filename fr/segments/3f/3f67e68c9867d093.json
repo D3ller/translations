@@ -1,0 +1,14 @@
+{
+  "hash": "3f67e68c9867d093",
+  "source": "Examples for ChatGPT, Claude, or other LLMs",
+  "text": "Exemples pour ChatGPT, Claude ou d'autres LLM",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Exemples pour ChatGPT, Claude ou d'autres LLM"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

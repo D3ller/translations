@@ -1,0 +1,14 @@
+{
+  "hash": "2ab93e5e9ed8fabc",
+  "source": "Our data is safe with the server-side route in place, but without doing anything else, unauthenticated users would probably get some odd data when trying to access the {0} page. We should create a {1}client-side middleware{/1} to protect the route on the client side and redirect users to the login page.",
+  "text": "Nos données sont protégées grâce à la route côté serveur, mais sans autre mesure, les utilisateurs non authentifiés obtiendraient probablement des données étranges en essayant d'accéder à la page {0}. Vous devez créer un {1}middleware côté client{/1} pour protéger la route côté client et rediriger les utilisateurs vers la page de connexion.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nos données sont protégées grâce à la route côté serveur, mais sans autre mesure, les utilisateurs non authentifiés obtiendraient probablement des données étranges en essayant d'accéder à la page {0}. Vous devez créer un {1}middleware côté client{/1} pour protéger la route côté client et rediriger les utilisateurs vers la page de connexion."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

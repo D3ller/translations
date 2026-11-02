@@ -1,0 +1,14 @@
+{
+  "hash": "6a6ad23ee25be5b7",
+  "source": "After this step, Nuxt calls the {0} hook, which can be used to execute additional logic.",
+  "text": "Après cette étape, Nuxt appelle le hook {0}, qui peut servir à exécuter une logique supplémentaire.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Après cette étape, Nuxt appelle le hook {0}, qui peut servir à exécuter une logique supplémentaire."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

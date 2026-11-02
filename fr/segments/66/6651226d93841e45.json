@@ -1,0 +1,14 @@
+{
+  "hash": "6651226d93841e45",
+  "source": "When extending a layer, you might want to disable certain modules that it includes. You can do this by setting the module's config key to {0} in your Nuxt config.",
+  "text": "Lorsque vous étendez un layer, vous pouvez vouloir désactiver certains modules qu'il inclut. Pour ce faire, définissez la clé de configuration du module à {0} dans votre configuration Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque vous étendez un layer, vous pouvez vouloir désactiver certains modules qu'il inclut. Pour ce faire, définissez la clé de configuration du module à {0} dans votre configuration Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

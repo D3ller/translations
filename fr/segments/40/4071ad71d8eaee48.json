@@ -1,0 +1,14 @@
+{
+  "hash": "4071ad71d8eaee48",
+  "source": "How Files Are Scanned",
+  "text": "Comment les fichiers sont analysés",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Comment les fichiers sont analysés"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

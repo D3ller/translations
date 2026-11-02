@@ -1,0 +1,14 @@
+{
+  "hash": "7af755d769e7067d",
+  "source": "{0} also provides a key called {1} which contains all the same properties you would normally access from Nuxt 2 context, but it's advised *not* to use this directly, as it won't exist in Nuxt 3. Instead, see if there is another way to access what you need. (If not, please raise a feature request or discussion.)",
+  "text": "{0} fournit également une clé nommée {1} qui contient toutes les propriétés auxquelles vous accédiez habituellement depuis le contexte de Nuxt 2, mais il est conseillé de *ne pas* l'utiliser directement, car elle n'existera pas dans Nuxt 3. Cherchez plutôt une autre façon d'accéder à ce dont vous avez besoin. (Si vous n'en trouvez pas, créez une demande de fonctionnalité ou une discussion.)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} fournit également une clé nommée {1} qui contient toutes les propriétés auxquelles vous accédiez habituellement depuis le contexte de Nuxt 2, mais il est conseillé de *ne pas* l'utiliser directement, car elle n'existera pas dans Nuxt 3. Cherchez plutôt une autre façon d'accéder à ce dont vous avez besoin. (Si vous n'en trouvez pas, créez une demande de fonctionnalité ou une discussion.)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

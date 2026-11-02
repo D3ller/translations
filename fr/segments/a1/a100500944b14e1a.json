@@ -1,0 +1,14 @@
+{
+  "hash": "a100500944b14e1a",
+  "source": "Similarly, you can register a custom Vue directive in a plugin.",
+  "text": "De la même manière, vous pouvez enregistrer une directive Vue personnalisée dans un plugin.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "De la même manière, vous pouvez enregistrer une directive Vue personnalisée dans un plugin."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

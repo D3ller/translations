@@ -1,0 +1,14 @@
+{
+  "hash": "81420c4237acbbfc",
+  "source": "To serve the paths below a route with every variant, end the route in {0}:",
+  "text": "Pour servir les chemins situés sous une route avec toutes les variantes, terminez la route par {0} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour servir les chemins situés sous une route avec toutes les variantes, terminez la route par {0} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

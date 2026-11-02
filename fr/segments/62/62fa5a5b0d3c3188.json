@@ -1,0 +1,14 @@
+{
+  "hash": "62fa5a5b0d3c3188",
+  "source": "Path",
+  "text": "Chemin",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Chemin"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

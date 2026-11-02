@@ -1,0 +1,14 @@
+{
+  "hash": "d1f35b237ba62a26",
+  "source": "When updating {0} in development mode, the Nuxt instance is automatically restarted to apply new values to the {1}.",
+  "text": "Lors de la mise à jour de {0} en mode développement, l'instance Nuxt est automatiquement redémarrée afin d'appliquer les nouvelles valeurs à {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lors de la mise à jour de {0} en mode développement, l'instance Nuxt est automatiquement redémarrée afin d'appliquer les nouvelles valeurs à {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

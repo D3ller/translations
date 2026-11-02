@@ -1,0 +1,14 @@
+{
+  "hash": "b77207f689247bca",
+  "source": "From highest to lowest priority:",
+  "text": "De la priorité la plus élevée à la plus faible :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "De la priorité la plus élevée à la plus faible :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

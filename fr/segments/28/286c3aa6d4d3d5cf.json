@@ -1,0 +1,14 @@
+{
+  "hash": "286c3aa6d4d3d5cf",
+  "source": "To opt out and revert to the previous behavior:",
+  "text": "Pour désactiver cette fonctionnalité et revenir au comportement précédent :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour désactiver cette fonctionnalité et revenir au comportement précédent :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

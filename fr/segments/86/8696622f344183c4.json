@@ -1,0 +1,14 @@
+{
+  "hash": "8696622f344183c4",
+  "source": "Methods",
+  "text": "Méthodes",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Méthodes"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "36c6d2c0218b3d01",
+  "source": "Request body. Use {0} to read stdin and {1} to read a file.",
+  "text": "Corps de la requête. Utilisez {0} pour lire stdin et {1} pour lire un fichier.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Corps de la requête. Utilisez {0} pour lire stdin et {1} pour lire un fichier."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

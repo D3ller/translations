@@ -1,0 +1,14 @@
+{
+  "hash": "98d9454b8f63a7d9",
+  "source": "{0} is the event in the shape your configured {1}server builder{/1} provides. With the default {2}, that is h3 v1's {3}, which is why the example above reads {4} rather than {5}.",
+  "text": "{0} est l'événement sous la forme fournie par le {1}server builder{/1} que vous avez configuré. Avec {2} par défaut, il s'agit du {3} de h3 v1, ce qui explique pourquoi l'exemple ci-dessus lit {4} plutôt que {5}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est l'événement sous la forme fournie par le {1}server builder{/1} que vous avez configuré. Avec {2} par défaut, il s'agit du {3} de h3 v1, ce qui explique pourquoi l'exemple ci-dessus lit {4} plutôt que {5}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

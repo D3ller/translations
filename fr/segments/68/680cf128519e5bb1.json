@@ -1,0 +1,14 @@
+{
+  "hash": "680cf128519e5bb1",
+  "source": "Nuxt relies on this configuration, and {0}Nuxt modules{/0} can extend it as well. For this reason, it is not recommended to modify your {1} file directly, as doing so could overwrite important settings. Instead, extend it via {2}. {3}Learn more about extending the configuration here{/3}.",
+  "text": "Nuxt s'appuie sur cette configuration, et les {0}modules Nuxt{/0} peuvent également l'étendre. Pour cette raison, il n'est pas recommandé de modifier directement votre fichier {1}, car cela pourrait écraser des paramètres importants. Étendez-la plutôt via {2}. {3}En savoir plus sur l'extension de la configuration ici{/3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt s'appuie sur cette configuration, et les {0}modules Nuxt{/0} peuvent également l'étendre. Pour cette raison, il n'est pas recommandé de modifier directement votre fichier {1}, car cela pourrait écraser des paramètres importants. Étendez-la plutôt via {2}. {3}En savoir plus sur l'extension de la configuration ici{/3}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

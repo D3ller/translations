@@ -1,0 +1,14 @@
+{
+  "hash": "7a34fc265e287839",
+  "source": "h3 v2 renames the error properties to align with Web standards:",
+  "text": "h3 v2 renomme les propriétés d'erreur pour s'aligner sur les standards du Web :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "h3 v2 renomme les propriétés d'erreur pour s'aligner sur les standards du Web :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

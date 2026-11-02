@@ -1,0 +1,14 @@
+{
+  "hash": "f11e55a406973b6b",
+  "source": "If you rely on {0} setting state to {1}, you can explicitly pass {2}:",
+  "text": "Si vous vous appuyez sur le fait que {0} définit l'état à {1}, vous pouvez passer explicitement {2} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous vous appuyez sur le fait que {0} définit l'état à {1}, vous pouvez passer explicitement {2} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

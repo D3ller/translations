@@ -1,0 +1,14 @@
+{
+  "hash": "1c0626e66c191c24",
+  "source": "Transform top-level {0} calls in {1} into an early return from the compiled {2} function when the navigation succeeds.",
+  "text": "Transforme les appels {0} de premier niveau dans {1} en un retour anticipé de la fonction {2} compilée lorsque la navigation réussit.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Transforme les appels {0} de premier niveau dans {1} en un retour anticipé de la fonction {2} compilée lorsque la navigation réussit."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

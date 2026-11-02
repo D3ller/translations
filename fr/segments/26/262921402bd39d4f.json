@@ -1,0 +1,14 @@
+{
+  "hash": "262921402bd39d4f",
+  "source": "Four experimental features are no longer configurable in Nuxt 4:",
+  "text": "Quatre fonctionnalités expérimentales ne sont plus configurables dans Nuxt 4 :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Quatre fonctionnalités expérimentales ne sont plus configurables dans Nuxt 4 :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

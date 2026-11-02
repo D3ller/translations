@@ -1,0 +1,14 @@
+{
+  "hash": "9b8e75db8a5acad3",
+  "source": "**Generates and injects {0} rules for you.** We'll generate rules to point your browser to the right source files. They'll be injected into the same CSS where you use the {1}.",
+  "text": "**Génère et injecte les règles {0} pour vous.** Nous générons des règles qui indiquent à votre navigateur les bons fichiers sources. Elles sont injectées dans le même CSS que celui où vous utilisez la {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Génère et injecte les règles {0} pour vous.** Nous générons des règles qui indiquent à votre navigateur les bons fichiers sources. Elles sont injectées dans le même CSS que celui où vous utilisez la {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

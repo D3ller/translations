@@ -1,0 +1,14 @@
+{
+  "hash": "dcf49ecfefac2ba0",
+  "source": "Called when the setup of Nuxt root is initialized. This callback must be synchronous.",
+  "text": "Appelé lorsque le setup de la racine de Nuxt est initialisé. Ce callback doit être synchrone.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appelé lorsque le setup de la racine de Nuxt est initialisé. Ce callback doit être synchrone."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "862e30d8c0d618d7",
+  "source": "{0} is now {1} instead of {2}.",
+  "text": "{0} vaut désormais {1} au lieu de {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} vaut désormais {1} au lieu de {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

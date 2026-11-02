@@ -1,0 +1,14 @@
+{
+  "hash": "6ba812d73267e2f9",
+  "source": "This wrapper around useAsyncData triggers navigation immediately.",
+  "text": "Cet enrobage autour de useAsyncData déclenche la navigation immédiatement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cet enrobage autour de useAsyncData déclenche la navigation immédiatement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

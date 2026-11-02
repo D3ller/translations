@@ -1,0 +1,14 @@
+{
+  "hash": "924563757f36b5a0",
+  "source": "Given the example above, fetching {0} with:",
+  "text": "Avec l'exemple ci-dessus, une requête vers {0} avec :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Avec l'exemple ci-dessus, une requête vers {0} avec :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

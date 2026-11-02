@@ -1,0 +1,14 @@
+{
+  "hash": "360b4ab34c613c02",
+  "source": "Chunk name for the component. If not provided, it will be generated from the component name.",
+  "text": "Nom du chunk pour le composant. S'il n'est pas fourni, il sera généré à partir du nom du composant.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nom du chunk pour le composant. S'il n'est pas fourni, il sera généré à partir du nom du composant."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

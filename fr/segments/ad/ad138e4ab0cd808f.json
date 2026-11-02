@@ -1,0 +1,14 @@
+{
+  "hash": "ad138e4ab0cd808f",
+  "source": "A single provider failing is not enough on its own, as resolution carries on to the next one.",
+  "text": "L'échec d'un seul fournisseur ne suffit pas à lui seul, car la résolution se poursuit avec le suivant.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'échec d'un seul fournisseur ne suffit pas à lui seul, car la résolution se poursuit avec le suivant."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

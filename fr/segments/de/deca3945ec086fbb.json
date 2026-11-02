@@ -1,0 +1,14 @@
+{
+  "hash": "deca3945ec086fbb",
+  "source": "{0}. There is no per-request form.",
+  "text": "{0}. Il n'existe pas de forme par requête.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}. Il n'existe pas de forme par requête."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

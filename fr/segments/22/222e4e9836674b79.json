@@ -1,0 +1,14 @@
+{
+  "hash": "222e4e9836674b79",
+  "source": "Monorepo Guide",
+  "text": "Guide du monorepo",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Guide du monorepo"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

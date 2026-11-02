@@ -1,0 +1,14 @@
+{
+  "hash": "8c11a54bf52241bf",
+  "source": "Server component props come from the request (URL query or body), so treat them as untrusted input. Nuxt rejects the props most likely to leak through unintentionally: a top-level {0} that the island does not declare (an undeclared prop falls through as an attribute onto the island's root), and, with {1} enabled, a {2} anywhere in the props. Beyond that, avoid feeding props you have not validated into dynamic component resolution ({3}, {4}, {5}, or a polymorphic {6} / {7} prop), since a string can resolve to any registered component or HTML element.",
+  "text": "Les props d'un composant serveur proviennent de la requête (paramètres de l'URL ou corps), traitez-les donc comme des entrées non fiables. Nuxt rejette les props les plus susceptibles de fuiter involontairement : un {0} de premier niveau que l'île ne déclare pas (une prop non déclarée se retrouve comme attribut sur la racine de l'île) et, lorsque {1} est activé, un {2} n'importe où dans les props. Au-delà, évitez de transmettre des props que vous n'avez pas validées à la résolution dynamique de composants ({3}, {4}, {5}, ou une prop polymorphe {6} / {7}), car une chaîne de caractères peut correspondre à n'importe quel composant enregistré ou élément HTML.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les props d'un composant serveur proviennent de la requête (paramètres de l'URL ou corps), traitez-les donc comme des entrées non fiables. Nuxt rejette les props les plus susceptibles de fuiter involontairement : un {0} de premier niveau que l'île ne déclare pas (une prop non déclarée se retrouve comme attribut sur la racine de l'île) et, lorsque {1} est activé, un {2} n'importe où dans les props. Au-delà, évitez de transmettre des props que vous n'avez pas validées à la résolution dynamique de composants ({3}, {4}, {5}, ou une prop polymorphe {6} / {7}), car une chaîne de caractères peut correspondre à n'importe quel composant enregistré ou élément HTML."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

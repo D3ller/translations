@@ -1,0 +1,14 @@
+{
+  "hash": "836bf04f261efe76",
+  "source": "Get real-time help, exchange with the core team and the community, and stay updated on the latest Nuxt news.",
+  "text": "Obtenez de l'aide en temps réel, échangez avec l'équipe principale et la communauté, et restez informé des dernières actualités de Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Obtenez de l'aide en temps réel, échangez avec l'équipe principale et la communauté, et restez informé des dernières actualités de Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

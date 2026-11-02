@@ -1,0 +1,14 @@
+{
+  "hash": "f7e855cdeff4ff05",
+  "source": "Display a progress bar between page navigations.",
+  "text": "Affiche une barre de progression entre les navigations de page.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Affiche une barre de progression entre les navigations de page."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

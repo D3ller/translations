@@ -1,0 +1,14 @@
+{
+  "hash": "a011d57557293dd3",
+  "source": "a method the route does not answer is rejected",
+  "text": "une méthode à laquelle la route ne répond pas est rejetée",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "une méthode à laquelle la route ne répond pas est rejetée"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

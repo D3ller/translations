@@ -1,0 +1,14 @@
+{
+  "hash": "a64e0f6b90438aa8",
+  "source": "experimental decorators",
+  "text": "les décorateurs expérimentaux",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "les décorateurs expérimentaux"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

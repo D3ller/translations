@@ -1,0 +1,14 @@
+{
+  "hash": "8560451089c87af1",
+  "source": "With {0}, {1} will reset state to its initial value (provided by the {2} function of {3}) instead of setting it to {4}. This aligns {5} behavior with {6}, which already resets to defaults.",
+  "text": "Avec {0}, {1} réinitialisera l'état à sa valeur initiale (fournie par la fonction {2} de {3}) au lieu de le définir à {4}. Cela aligne le comportement de {5} sur celui de {6}, qui se réinitialise déjà aux valeurs par défaut.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Avec {0}, {1} réinitialisera l'état à sa valeur initiale (fournie par la fonction {2} de {3}) au lieu de le définir à {4}. Cela aligne le comportement de {5} sur celui de {6}, qui se réinitialise déjà aux valeurs par défaut."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

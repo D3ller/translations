@@ -1,0 +1,14 @@
+{
+  "hash": "7a073f1473084669",
+  "source": "set the user session in the cookie",
+  "text": "définir la session de l'utilisateur dans le cookie",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "définir la session de l'utilisateur dans le cookie"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

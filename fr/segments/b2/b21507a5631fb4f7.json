@@ -1,0 +1,14 @@
+{
+  "hash": "b21507a5631fb4f7",
+  "source": "Cache control. Boolean disables cache, or use Fetch API values: {0}, {1}, etc.",
+  "text": "Contrôle du cache. Un booléen désactive le cache, ou utilisez les valeurs de l'API Fetch : {0}, {1}, etc.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Contrôle du cache. Un booléen désactive le cache, ou utilisez les valeurs de l'API Fetch : {0}, {1}, etc."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

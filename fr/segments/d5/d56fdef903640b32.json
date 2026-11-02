@@ -1,0 +1,14 @@
+{
+  "hash": "d56fdef903640b32",
+  "source": "**Routed middleware no longer runs for subpaths.** {0} v2 mounted middleware with a route so that it ran for that route *and* everything below it (such as {1}), with the route stripped from {2}. Nitro v3 matches it exactly, like any other handler. When updating, widen the {3} to {4} if you mean to cover both, and read the full path from {5}.",
+  "text": "**Le middleware routé ne s'exécute plus pour les sous-chemins.** {0} v2 montait un middleware avec une route afin qu'il s'exécute pour cette route *et* tout ce qui se trouve en dessous (comme {1}), la route étant retirée de {2}. Nitro v3 le fait correspondre exactement, comme tout autre handler. Lors de la mise à jour, élargissez le {3} en {4} si vous souhaitez couvrir les deux, et lisez le chemin complet depuis {5}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Le middleware routé ne s'exécute plus pour les sous-chemins.** {0} v2 montait un middleware avec une route afin qu'il s'exécute pour cette route *et* tout ce qui se trouve en dessous (comme {1}), la route étant retirée de {2}. Nitro v3 le fait correspondre exactement, comme tout autre handler. Lors de la mise à jour, élargissez le {3} en {4} si vous souhaitez couvrir les deux, et lisez le chemin complet depuis {5}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

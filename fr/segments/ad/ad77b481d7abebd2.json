@@ -1,0 +1,14 @@
+{
+  "hash": "ad77b481d7abebd2",
+  "source": "Enables CookieStore support to listen for cookie updates (if supported by the browser) and refresh {0} ref values.",
+  "text": "Active la prise en charge de CookieStore pour écouter les mises à jour des cookies (si le navigateur le permet) et rafraîchir les valeurs des refs {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Active la prise en charge de CookieStore pour écouter les mises à jour des cookies (si le navigateur le permet) et rafraîchir les valeurs des refs {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

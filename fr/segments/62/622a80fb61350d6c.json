@@ -1,0 +1,14 @@
+{
+  "hash": "622a80fb61350d6c",
+  "source": "The {0}{1} provider{/0} matches {2} to both {3} and {4}.",
+  "text": "Le {0}fournisseur {1}{/0} associe {2} à la fois à {3} et à {4}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le {0}fournisseur {1}{/0} associe {2} à la fois à {3} et à {4}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

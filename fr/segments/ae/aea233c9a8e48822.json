@@ -1,0 +1,14 @@
+{
+  "hash": "aea233c9a8e48822",
+  "source": "Under the hood, the callback is stringified and minified at build time, then inlined as a {0} tag in the server-rendered HTML, just before the closing {1} tag. For the example above, the rendered HTML includes something like:",
+  "text": "En interne, le callback est converti en chaîne et minifié au moment du build, puis intégré sous forme de balise {0} dans le HTML rendu côté serveur, juste avant la balise fermante {1}. Pour l'exemple ci-dessus, le HTML rendu contient quelque chose comme :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En interne, le callback est converti en chaîne et minifié au moment du build, puis intégré sous forme de balise {0} dans le HTML rendu côté serveur, juste avant la balise fermante {1}. Pour l'exemple ci-dessus, le HTML rendu contient quelque chose comme :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

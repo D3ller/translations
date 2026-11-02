@@ -1,0 +1,14 @@
+{
+  "hash": "a69bf442bde39cd5",
+  "source": "The {0} prop is optional. If you do not pass an event or a list of events, it defaults to hydrating on {1}, {2}, and {3}.",
+  "text": "La prop {0} est facultative. Si vous ne passez ni événement ni liste d'événements, l'hydratation se déclenche par défaut sur {1}, {2} et {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La prop {0} est facultative. Si vous ne passez ni événement ni liste d'événements, l'hydratation se déclenche par défaut sur {1}, {2} et {3}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

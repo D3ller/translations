@@ -1,0 +1,14 @@
+{
+  "hash": "209c3703f61c1b55",
+  "source": "This is called for each route during prerendering. You can use this for fine-grained handling of each route that gets prerendered.",
+  "text": "Ce hook est appelé pour chaque route pendant le prérendu. Vous pouvez l'utiliser pour gérer finement chaque route prérendue.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ce hook est appelé pour chaque route pendant le prérendu. Vous pouvez l'utiliser pour gérer finement chaque route prérendue."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

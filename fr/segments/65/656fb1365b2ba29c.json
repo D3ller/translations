@@ -1,0 +1,14 @@
+{
+  "hash": "656fb1365b2ba29c",
+  "source": "Nuxt 3 natively supports TypeScript and ECMAScript Modules. Please check {0}Native ES Modules{/0} for more info and upgrading.",
+  "text": "Nuxt 3 prend en charge nativement TypeScript et les modules ECMAScript. Consultez {0}les modules ES natifs{/0} pour plus d'informations et pour la mise à niveau.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt 3 prend en charge nativement TypeScript et les modules ECMAScript. Consultez {0}les modules ES natifs{/0} pour plus d'informations et pour la mise à niveau."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

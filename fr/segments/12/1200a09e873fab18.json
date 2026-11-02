@@ -1,0 +1,14 @@
+{
+  "hash": "1200a09e873fab18",
+  "source": "Types are exported alongside the utilities: {0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {10}, {11}, {12}, {13}, {14}, {15}, {16}, {17} and {18}.",
+  "text": "Les types sont exportés avec les utilitaires : {0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {10}, {11}, {12}, {13}, {14}, {15}, {16}, {17} et {18}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les types sont exportés avec les utilitaires : {0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {10}, {11}, {12}, {13}, {14}, {15}, {16}, {17} et {18}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "7de41ba428a9df98",
+  "source": "Nuxt smartly disables this feature if you have configured {0} to include a browser that doesn't support import maps, or if you have configured {1} to a value that does not include {2}.",
+  "text": "Nuxt désactive intelligemment cette fonctionnalité si vous avez configuré {0} pour inclure un navigateur qui ne prend pas en charge les import maps, ou si vous avez défini {1} avec une valeur qui n'inclut pas {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt désactive intelligemment cette fonctionnalité si vous avez configuré {0} pour inclure un navigateur qui ne prend pas en charge les import maps, ou si vous avez défini {1} avec une valeur qui n'inclut pas {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

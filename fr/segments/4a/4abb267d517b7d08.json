@@ -1,0 +1,14 @@
+{
+  "hash": "4abb267d517b7d08",
+  "source": "You don't need to add those local modules to your {0} separately.",
+  "text": "Vous n'avez pas besoin d'ajouter ces modules locaux séparément à votre {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous n'avez pas besoin d'ajouter ces modules locaux séparément à votre {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

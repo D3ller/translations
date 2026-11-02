@@ -1,0 +1,14 @@
+{
+  "hash": "f28cd8879a0cf1b8",
+  "source": "Page and Layout Transitions",
+  "text": "Transitions de page et de layout",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Transitions de page et de layout"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

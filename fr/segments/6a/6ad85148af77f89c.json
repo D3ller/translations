@@ -1,0 +1,14 @@
+{
+  "hash": "6ad85148af77f89c",
+  "source": "MCP (Model Context Protocol) is a standardized protocol that enables AI assistants to access external data sources and tools. Nuxt provides an MCP server that allows AI assistants like Claude Code, Cursor, and Windsurf to access documentation, blog posts, and deployment guides directly.",
+  "text": "Le MCP (Model Context Protocol) est un protocole standardisé qui permet aux assistants IA d'accéder à des sources de données et à des outils externes. Nuxt fournit un serveur MCP qui permet à des assistants IA comme Claude Code, Cursor et Windsurf d'accéder directement à la documentation, aux articles de blog et aux guides de déploiement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le MCP (Model Context Protocol) est un protocole standardisé qui permet aux assistants IA d'accéder à des sources de données et à des outils externes. Nuxt fournit un serveur MCP qui permet à des assistants IA comme Claude Code, Cursor et Windsurf d'accéder directement à la documentation, aux articles de blog et aux guides de déploiement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

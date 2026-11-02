@@ -1,0 +1,14 @@
+{
+  "hash": "8f9b02b216c5d4a4",
+  "source": "You can change the order of local module by adding a number to the front of each directory name:",
+  "text": "Vous pouvez modifier l'ordre des modules locaux en ajoutant un nombre au début du nom de chaque répertoire :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez modifier l'ordre des modules locaux en ajoutant un nombre au début du nom de chaque répertoire :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "630022f440d338de",
+  "source": "{0}: When enabled will prefetch middleware, layouts and payloads (when using {1}payloadExtraction{/1}) of links in the viewport. Used by the experimental {2}crossOriginPrefetch{/2} config.",
+  "text": "{0} : lorsqu'il est activé, précharge les middleware, layouts et payloads (avec {1}payloadExtraction{/1}) des liens présents dans la fenêtre d'affichage. Utilisé par la configuration expérimentale {2}crossOriginPrefetch{/2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : lorsqu'il est activé, précharge les middleware, layouts et payloads (avec {1}payloadExtraction{/1}) des liens présents dans la fenêtre d'affichage. Utilisé par la configuration expérimentale {2}crossOriginPrefetch{/2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

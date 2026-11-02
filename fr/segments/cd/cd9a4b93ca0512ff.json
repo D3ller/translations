@@ -1,0 +1,14 @@
+{
+  "hash": "cd9a4b93ca0512ff",
+  "source": "{0} is read from the default route file only. Meta declared inside a {1} sibling has no effect on the route.",
+  "text": "{0} est lu uniquement à partir du fichier de route par défaut. Les métadonnées déclarées dans un fichier voisin {1} n'ont aucun effet sur la route.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est lu uniquement à partir du fichier de route par défaut. Les métadonnées déclarées dans un fichier voisin {1} n'ont aucun effet sur la route."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

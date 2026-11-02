@@ -1,0 +1,14 @@
+{
+  "hash": "12480d9f068f53f7",
+  "source": "automatically cleaned up (and not called again) when the component is unmounted",
+  "text": "automatiquement nettoyé (et ne sera plus appelé) lorsque le composant est démonté",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "automatiquement nettoyé (et ne sera plus appelé) lorsque le composant est démonté"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

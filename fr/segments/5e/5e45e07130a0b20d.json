@@ -1,0 +1,14 @@
+{
+  "hash": "5e45e07130a0b20d",
+  "source": "Components Auto Import",
+  "text": "Import automatique des composants",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Import automatique des composants"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

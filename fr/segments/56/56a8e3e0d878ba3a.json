@@ -1,0 +1,14 @@
+{
+  "hash": "56a8e3e0d878ba3a",
+  "source": "To make sure that we are only matching digits ({0}) for {1} in the {2} route, we can add the following to the {3} page template:",
+  "text": "Pour vous assurer de ne faire correspondre que des chiffres ({0}) pour {1} dans la route {2}, vous pouvez ajouter ce qui suit au template de la page {3} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour vous assurer de ne faire correspondre que des chiffres ({0}) pour {1} dans la route {2}, vous pouvez ajouter ce qui suit au template de la page {3} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

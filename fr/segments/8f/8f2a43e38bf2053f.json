@@ -1,0 +1,14 @@
+{
+  "hash": "8f2a43e38bf2053f",
+  "source": "A nested page cannot be displayed because its parent page does not render <NuxtPage />.",
+  "text": "Une page imbriquée ne peut pas être affichée car sa page parente n'affiche pas <NuxtPage />.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une page imbriquée ne peut pas être affichée car sa page parente n'affiche pas <NuxtPage />."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

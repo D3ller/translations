@@ -1,0 +1,14 @@
+{
+  "hash": "1d7be7b73f635d43",
+  "source": "To use a variable font, refer to it by its plain family name and request a weight range. The variable version of a family doesn't have a separate name, so {0} resolves to a variable font from any provider that has one:",
+  "text": "Pour utiliser une police variable, désignez-la par le simple nom de sa famille et demandez une plage de graisses. La version variable d'une famille n'a pas de nom distinct, donc {0} se résout en une police variable chez tout fournisseur qui en propose une :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour utiliser une police variable, désignez-la par le simple nom de sa famille et demandez une plage de graisses. La version variable d'une famille n'a pas de nom distinct, donc {0} se résout en une police variable chez tout fournisseur qui en propose une :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

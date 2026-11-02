@@ -1,0 +1,14 @@
+{
+  "hash": "283c82751baaa11a",
+  "source": "Nuxt will call the {0} hook if there are any errors in starting your Nuxt application.",
+  "text": "Nuxt appellera le hook {0} si des erreurs surviennent au démarrage de votre application Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt appellera le hook {0} si des erreurs surviennent au démarrage de votre application Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

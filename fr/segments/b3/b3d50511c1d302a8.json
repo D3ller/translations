@@ -1,0 +1,14 @@
+{
+  "hash": "b3d50511c1d302a8",
+  "source": "In development, an error {0} is preserved and exposed to your error page so you can trace the original error; in production, causes are never included in error responses or the error page payload.",
+  "text": "En développement, la cause {0} d'une erreur est conservée et exposée à votre page d'erreur afin que vous puissiez retracer l'erreur d'origine ; en production, les causes ne sont jamais incluses dans les réponses d'erreur ni dans le payload (charge utile) de la page d'erreur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En développement, la cause {0} d'une erreur est conservée et exposée à votre page d'erreur afin que vous puissiez retracer l'erreur d'origine ; en production, les causes ne sont jamais incluses dans les réponses d'erreur ni dans le payload (charge utile) de la page d'erreur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

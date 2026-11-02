@@ -1,0 +1,14 @@
+{
+  "hash": "e259ac2c8a454e41",
+  "source": "The new {0} hook reports each family as it is resolved, with the URL every font file is served from and a {1} to read its contents. Modules that need the fonts your app already uses, to render an OG image or a PDF, can reuse them rather than resolving and downloading their own.",
+  "text": "Le nouveau hook {0} signale chaque famille au fur et à mesure de sa résolution, avec l'URL à partir de laquelle chaque fichier de police est servi et un {1} pour en lire le contenu. Les modules qui ont besoin des polices déjà utilisées par votre application, par exemple pour générer une image OG ou un PDF, peuvent les réutiliser plutôt que de résoudre et télécharger les leurs.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le nouveau hook {0} signale chaque famille au fur et à mesure de sa résolution, avec l'URL à partir de laquelle chaque fichier de police est servi et un {1} pour en lire le contenu. Les modules qui ont besoin des polices déjà utilisées par votre application, par exemple pour générer une image OG ou un PDF, peuvent les réutiliser plutôt que de résoudre et télécharger les leurs."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

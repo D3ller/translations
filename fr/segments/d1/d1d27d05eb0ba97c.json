@@ -1,0 +1,14 @@
+{
+  "hash": "d1d27d05eb0ba97c",
+  "source": "Set the optional {0} HTTP header to a comma-separated list of tool names to expose only the tools your assistant needs. This reduces the tool context sent to your assistant.",
+  "text": "Définissez l'en-tête HTTP facultatif {0} avec une liste de noms d'outils séparés par des virgules pour n'exposer que les outils dont votre assistant a besoin. Cela réduit le contexte des outils envoyé à votre assistant.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définissez l'en-tête HTTP facultatif {0} avec une liste de noms d'outils séparés par des virgules pour n'exposer que les outils dont votre assistant a besoin. Cela réduit le contexte des outils envoyé à votre assistant."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

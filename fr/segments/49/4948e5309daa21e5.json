@@ -1,0 +1,14 @@
+{
+  "hash": "4948e5309daa21e5",
+  "source": "✅ Prefer",
+  "text": "✅ À privilégier",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "✅ À privilégier"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

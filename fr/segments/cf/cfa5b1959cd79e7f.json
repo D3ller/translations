@@ -1,0 +1,14 @@
+{
+  "hash": "cfa5b1959cd79e7f",
+  "source": "A base Nuxt cannot read - a runtime value, a {0} or a getter - leaves the request typed as {1} rather than rejected, since there is nothing to resolve the path against. The same is true of a base pointing at another origin, so an external API is fetched the way it always was:",
+  "text": "Une base que Nuxt ne peut pas lire (une valeur d'exécution, un {0} ou un getter) laisse la requête typée comme {1} au lieu de la rejeter, car il n'y a rien par rapport à quoi résoudre le chemin. Il en va de même pour une base pointant vers une autre origine : une API externe est donc récupérée comme elle l'a toujours été :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une base que Nuxt ne peut pas lire (une valeur d'exécution, un {0} ou un getter) laisse la requête typée comme {1} au lieu de la rejeter, car il n'y a rien par rapport à quoi résoudre le chemin. Il en va de même pour une base pointant vers une autre origine : une API externe est donc récupérée comme elle l'a toujours été :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

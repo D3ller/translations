@@ -1,0 +1,14 @@
+{
+  "hash": "e65b8b26eff6759e",
+  "source": "setting the redirect code to '301 Moved Permanently'",
+  "text": "définition du code de redirection sur '301 Moved Permanently'",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "définition du code de redirection sur '301 Moved Permanently'"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "cbabc7aa5fcc96d4",
+  "source": "Renders given template during build into the project buildDir, then registers it as types.",
+  "text": "Génère le template donné pendant le build dans le buildDir du projet, puis l'enregistre comme types.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Génère le template donné pendant le build dans le buildDir du projet, puis l'enregistre comme types."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

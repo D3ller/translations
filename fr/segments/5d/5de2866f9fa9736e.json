@@ -1,0 +1,14 @@
+{
+  "hash": "5de2866f9fa9736e",
+  "source": "A module built on server plugins, storage or caching has no {0} variant, because {1} doesn't cover those areas. Register its files as {2} now, and add a {3} variant when you port them.",
+  "text": "Un module construit sur des plugins serveur, du stockage ou de la mise en cache n'a pas de variante {0}, car {1} ne couvre pas ces domaines. Enregistrez ses fichiers comme {2} pour l'instant, et ajoutez une variante {3} lorsque vous les porterez.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un module construit sur des plugins serveur, du stockage ou de la mise en cache n'a pas de variante {0}, car {1} ne couvre pas ces domaines. Enregistrez ses fichiers comme {2} pour l'instant, et ajoutez une variante {3} lorsque vous les porterez."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

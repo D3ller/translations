@@ -1,0 +1,14 @@
+{
+  "hash": "42371af8b35fede6",
+  "source": "When using {0} with the object syntax for {1}, props are automatically passed to the layout component. The layout can receive them with {2}:",
+  "text": "Lorsque vous utilisez {0} avec la syntaxe objet pour {1}, les props sont automatiquement passées au composant de layout. Le layout peut les recevoir avec {2} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque vous utilisez {0} avec la syntaxe objet pour {1}, les props sont automatiquement passées au composant de layout. Le layout peut les recevoir avec {2} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

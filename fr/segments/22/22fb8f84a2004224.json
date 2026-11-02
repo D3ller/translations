@@ -1,0 +1,14 @@
+{
+  "hash": "22fb8f84a2004224",
+  "source": "Re-export what you need from a file directly in {0}, or import it explicitly where it is used:",
+  "text": "Réexportez ce dont vous avez besoin depuis un fichier situé directement dans {0}, ou importez-le explicitement là où il est utilisé :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Réexportez ce dont vous avez besoin depuis un fichier situé directement dans {0}, ou importez-le explicitement là où il est utilisé :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

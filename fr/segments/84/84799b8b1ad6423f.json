@@ -1,0 +1,14 @@
+{
+  "hash": "84799b8b1ad6423f",
+  "source": "If we think this should be an RFC, we'll change the category to RFC and broadcast it more widely for feedback.",
+  "text": "Si nous pensons que cela devrait être une RFC, nous changerons la catégorie en RFC et la diffuserons plus largement pour recueillir des retours.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si nous pensons que cela devrait être une RFC, nous changerons la catégorie en RFC et la diffuserons plus largement pour recueillir des retours."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

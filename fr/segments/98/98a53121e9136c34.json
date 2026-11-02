@@ -1,0 +1,14 @@
+{
+  "hash": "98a53121e9136c34",
+  "source": "Nuxt 4 includes significant improvements and changes. This guide will help you migrate your existing Nuxt 3 application to Nuxt 4.",
+  "text": "Nuxt 4 inclut des améliorations et des changements importants. Ce guide vous aidera à migrer votre application Nuxt 3 existante vers Nuxt 4.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt 4 inclut des améliorations et des changements importants. Ce guide vous aidera à migrer votre application Nuxt 3 existante vers Nuxt 4."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

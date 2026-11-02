@@ -1,0 +1,14 @@
+{
+  "hash": "6daf07387ab865e3",
+  "source": "Priority of the component, if multiple components have the same name, the one with the highest priority will be used.",
+  "text": "Priorité du composant : si plusieurs composants portent le même nom, celui ayant la priorité la plus élevée sera utilisé.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Priorité du composant : si plusieurs composants portent le même nom, celui ayant la priorité la plus élevée sera utilisé."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

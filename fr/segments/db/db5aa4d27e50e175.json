@@ -1,0 +1,14 @@
+{
+  "hash": "db5aa4d27e50e175",
+  "source": "**Comment node placeholders**: client-only components use {0}comment nodes instead of {1}{/0} as SSR placeholders",
+  "text": "**Nœuds de commentaire comme placeholders** : les composants client-only utilisent des {0}nœuds de commentaire au lieu de {1}{/0} comme placeholders SSR",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Nœuds de commentaire comme placeholders** : les composants client-only utilisent des {0}nœuds de commentaire au lieu de {1}{/0} comme placeholders SSR"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

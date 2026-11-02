@@ -1,0 +1,14 @@
+{
+  "hash": "9b99cead7107e743",
+  "source": "Watch a video from Vue School on parallel data fetching",
+  "text": "Regardez une vidéo de Vue School sur la récupération de données en parallèle",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Regardez une vidéo de Vue School sur la récupération de données en parallèle"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

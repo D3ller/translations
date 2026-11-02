@@ -1,0 +1,14 @@
+{
+  "hash": "1259ab63955fbb1b",
+  "source": "This page will not render when route changes during client side navigation, because of this comment",
+  "text": "Cette page ne sera pas rendue lorsque la route change pendant une navigation côté client, à cause de ce commentaire",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cette page ne sera pas rendue lorsque la route change pendant une navigation côté client, à cause de ce commentaire"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

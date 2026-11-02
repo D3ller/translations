@@ -1,0 +1,14 @@
+{
+  "hash": "0740b63fa1376649",
+  "source": "You may define a name for this page's route. By default, name is generated based on path inside the {0}{1} directory{/0}.",
+  "text": "Vous pouvez définir un nom pour la route de cette page. Par défaut, le nom est généré à partir du chemin à l'intérieur du {0}répertoire {1}{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez définir un nom pour la route de cette page. Par défaut, le nom est généré à partir du chemin à l'intérieur du {0}répertoire {1}{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

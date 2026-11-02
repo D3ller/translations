@@ -1,0 +1,14 @@
+{
+  "hash": "a4b218937fd1146b",
+  "source": "Ensure Plugins Default Export",
+  "text": "Vérifier l'export par défaut des plugins",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vérifier l'export par défaut des plugins"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

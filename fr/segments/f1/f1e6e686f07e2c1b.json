@@ -1,0 +1,14 @@
+{
+  "hash": "f1e6e686f07e2c1b",
+  "source": "Let's create a login page with a form to submit the login data to our {0} route.",
+  "text": "Créez une page de connexion avec un formulaire pour envoyer les données de connexion à votre route {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Créez une page de connexion avec un formulaire pour envoyer les données de connexion à votre route {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

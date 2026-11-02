@@ -1,0 +1,14 @@
+{
+  "hash": "0356dd212633d517",
+  "source": "{0}Read more about Windsurf Web and Docs Search{/0}",
+  "text": "{0}En savoir plus sur Windsurf Web et Docs Search{/0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}En savoir plus sur Windsurf Web et Docs Search{/0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "961609dcfe1d4037",
+  "source": "The npm provider resolves fonts from npm packages installed in your project's {0}. It automatically detects known font packages (such as {1}, {2}, and {3}) from your {4} dependencies and devDependencies.",
+  "text": "Le provider npm résout les polices à partir des packages npm installés dans le {0} de votre projet. Il détecte automatiquement les packages de polices connus (tels que {1}, {2} et {3}) dans les {4} dependencies et devDependencies.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le provider npm résout les polices à partir des packages npm installés dans le {0} de votre projet. Il détecte automatiquement les packages de polices connus (tels que {1}, {2} et {3}) dans les {4} dependencies et devDependencies."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

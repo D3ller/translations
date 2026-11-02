@@ -1,0 +1,14 @@
+{
+  "hash": "457e602642d29d79",
+  "source": "The remaining sections cover the other role: taking the app build and standing up a server that renders with it. A server builder is not selected with the {0} option; it's a module that registers the renderer's modules with its own bundler and describes the build it produced. If you're writing an app builder, you're done at this point.",
+  "text": "Les sections suivantes couvrent l'autre rôle : prendre le build de l'application et mettre en place un serveur qui effectue le rendu avec celui-ci. Un server builder ne se sélectionne pas avec l'option {0} ; c'est un module qui enregistre les modules du renderer auprès de son propre bundler et décrit le build qu'il a produit. Si vous écrivez un app builder, vous avez terminé à ce stade.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les sections suivantes couvrent l'autre rôle : prendre le build de l'application et mettre en place un serveur qui effectue le rendu avec celui-ci. Un server builder ne se sélectionne pas avec l'option {0} ; c'est un module qui enregistre les modules du renderer auprès de son propre bundler et décrit le build qu'il a produit. Si vous écrivez un app builder, vous avez terminé à ce stade."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "1fe0f12a153a3f4a",
+  "source": "Within your pages, components, and plugins, you can use {0} to read and write cookies in an SSR-friendly way.",
+  "text": "Dans vos pages, composants et plugins, vous pouvez utiliser {0} pour lire et écrire des cookies de manière compatible avec le SSR.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans vos pages, composants et plugins, vous pouvez utiliser {0} pour lire et écrire des cookies de manière compatible avec le SSR."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

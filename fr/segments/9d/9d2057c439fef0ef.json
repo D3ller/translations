@@ -1,0 +1,14 @@
+{
+  "hash": "9d2057c439fef0ef",
+  "source": "How to get AI tools like Cursor, Windsurf, GitHub Copilot, ChatGPT, and Claude to understand Nuxt concepts, APIs, and best practices.",
+  "text": "Comment permettre à des outils d'IA comme Cursor, Windsurf, GitHub Copilot, ChatGPT et Claude de comprendre les concepts, les API et les bonnes pratiques de Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Comment permettre à des outils d'IA comme Cursor, Windsurf, GitHub Copilot, ChatGPT et Claude de comprendre les concepts, les API et les bonnes pratiques de Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

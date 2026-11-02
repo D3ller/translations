@@ -1,0 +1,14 @@
+{
+  "hash": "22305d40bfc1f67c",
+  "source": "This is how progress is calculated by default",
+  "text": "Voici comment la progression est calculée par défaut",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Voici comment la progression est calculée par défaut"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

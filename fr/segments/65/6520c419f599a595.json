@@ -1,0 +1,14 @@
+{
+  "hash": "6520c419f599a595",
+  "source": "{0} - Installs a **{1}Vue.js Plugin{/1}** {2}(example){/2}.",
+  "text": "{0} - Installe un **{1}plugin Vue.js{/1}** {2}(exemple){/2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} - Installe un **{1}plugin Vue.js{/1}** {2}(exemple){/2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

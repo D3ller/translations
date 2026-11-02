@@ -1,0 +1,14 @@
+{
+  "hash": "0071f1569abef243",
+  "source": "See the mostly-static site recipe for combining prerendering, {0}, islands and lazy hydration.",
+  "text": "Consultez la recette sur les sites majoritairement statiques pour combiner prérendu, {0}, islands et hydratation différée.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Consultez la recette sur les sites majoritairement statiques pour combiner prérendu, {0}, islands et hydratation différée."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

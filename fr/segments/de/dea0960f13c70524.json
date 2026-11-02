@@ -1,0 +1,14 @@
+{
+  "hash": "dea0960f13c70524",
+  "source": "The {0}{1} provider{/0} can scan directories beyond {2}, and reports the filenames it looked for when a family cannot be resolved.",
+  "text": "{0}Le fournisseur {1}{/0} peut analyser des répertoires autres que {2}, et indique les noms de fichiers recherchés lorsqu'une famille ne peut pas être résolue.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}Le fournisseur {1}{/0} peut analyser des répertoires autres que {2}, et indique les noms de fichiers recherchés lorsqu'une famille ne peut pas être résolue."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

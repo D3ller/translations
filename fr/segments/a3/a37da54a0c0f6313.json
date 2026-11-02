@@ -1,0 +1,14 @@
+{
+  "hash": "a37da54a0c0f6313",
+  "source": "This composable is available in Nuxt v4.4.2+.",
+  "text": "Ce composable est disponible à partir de Nuxt v4.4.2.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ce composable est disponible à partir de Nuxt v4.4.2."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

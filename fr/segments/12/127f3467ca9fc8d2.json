@@ -1,0 +1,14 @@
+{
+  "hash": "127f3467ca9fc8d2",
+  "source": "Nitro v2 Compatibility",
+  "text": "Compatibilité avec Nitro v2",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Compatibilité avec Nitro v2"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

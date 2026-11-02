@@ -1,0 +1,14 @@
+{
+  "hash": "ef83e3de9effd445",
+  "source": "For larger apps, this migration can entail a lot of work. If updating Vuex still creates roadblocks, you may want to use the community module: {0}nuxt3-vuex-module{/0}, which should work out of the box.",
+  "text": "Pour les applications plus volumineuses, cette migration peut représenter beaucoup de travail. Si la mise à jour de Vuex continue de poser problème, vous pouvez utiliser le module communautaire {0}nuxt3-vuex-module{/0}, qui devrait fonctionner directement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour les applications plus volumineuses, cette migration peut représenter beaucoup de travail. Si la mise à jour de Vuex continue de poser problème, vous pouvez utiliser le module communautaire {0}nuxt3-vuex-module{/0}, qui devrait fonctionner directement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "dd84bb2cb11967d0",
+  "source": "Dynamic Content Based on Time",
+  "text": "Contenu dynamique basé sur l'heure",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Contenu dynamique basé sur l'heure"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "dfbd16b97400d97f",
+  "source": "Regenerate templates that match the filter. If no filter is provided, all templates will be regenerated.",
+  "text": "Régénère les templates correspondant au filtre. Si aucun filtre n'est fourni, tous les templates seront régénérés.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Régénère les templates correspondant au filtre. Si aucun filtre n'est fourni, tous les templates seront régénérés."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

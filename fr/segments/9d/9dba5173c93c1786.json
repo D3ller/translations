@@ -1,0 +1,14 @@
+{
+  "hash": "9dba5173c93c1786",
+  "source": "useLayout returns the layout resolved for the current route.",
+  "text": "useLayout renvoie le layout résolu pour la route courante.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "useLayout renvoie le layout résolu pour la route courante."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

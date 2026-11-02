@@ -1,0 +1,14 @@
+{
+  "hash": "7479a06cd3f4ae66",
+  "source": "This was to allow scanning metadata for pages that users wanted to add in {0}. We still offer an opportunity to change or override page metadata in a new {1} hook.",
+  "text": "Cela permet d'analyser les métadonnées des pages que les utilisateurs souhaitaient ajouter dans {0}. Nous offrons toujours la possibilité de modifier ou de remplacer les métadonnées de page dans un nouveau hook {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela permet d'analyser les métadonnées des pages que les utilisateurs souhaitaient ajouter dans {0}. Nous offrons toujours la possibilité de modifier ou de remplacer les métadonnées de page dans un nouveau hook {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

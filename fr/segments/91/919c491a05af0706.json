@@ -1,0 +1,14 @@
+{
+  "hash": "919c491a05af0706",
+  "source": "Called when a font family is resolved, with the {0} data generated for it. This covers families found in your CSS and families declared with {1} in {2}, so modules that render fonts outside the browser (e.g., OG image generation) can reuse them instead of resolving them again.",
+  "text": "Appelé lorsqu'une famille de polices est résolue, avec les données {0} générées pour elle. Cela couvre les familles trouvées dans votre CSS et celles déclarées avec {1} dans {2}, afin que les modules qui affichent des polices en dehors du navigateur (par exemple, la génération d'images OG) puissent les réutiliser au lieu de les résoudre à nouveau.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appelé lorsqu'une famille de polices est résolue, avec les données {0} générées pour elle. Cela couvre les familles trouvées dans votre CSS et celles déclarées avec {1} dans {2}, afin que les modules qui affichent des polices en dehors du navigateur (par exemple, la génération d'images OG) puissent les réutiliser au lieu de les résoudre à nouveau."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

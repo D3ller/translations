@@ -1,0 +1,14 @@
+{
+  "hash": "f9bb159c6286d94b",
+  "source": "This feature is not yet supported in Nuxt 3.",
+  "text": "Cette fonctionnalité n'est pas encore prise en charge dans Nuxt 3.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cette fonctionnalité n'est pas encore prise en charge dans Nuxt 3."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

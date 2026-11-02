@@ -1,0 +1,14 @@
+{
+  "hash": "a56ded908a918ac4",
+  "source": "Enabling this means attributes ({0}, {1}, etc.) passed to {2} components will not appear in the SSR HTML. If you need styled placeholders to prevent layout shift, use {3} with a {4} slot instead.",
+  "text": "L'activation de cette option signifie que les attributs ({0}, {1}, etc.) transmis aux composants {2} n'apparaîtront pas dans le HTML SSR. Si vous avez besoin d'espaces réservés stylisés pour éviter un décalage de mise en page, utilisez plutôt {3} avec un slot {4}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'activation de cette option signifie que les attributs ({0}, {1}, etc.) transmis aux composants {2} n'apparaîtront pas dans le HTML SSR. Si vous avez besoin d'espaces réservés stylisés pour éviter un décalage de mise en page, utilisez plutôt {3} avec un slot {4}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

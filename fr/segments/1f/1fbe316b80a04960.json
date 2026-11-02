@@ -1,0 +1,14 @@
+{
+  "hash": "1fbe316b80a04960",
+  "source": "{0}: encoded pathname section of the URL",
+  "text": "{0} : section du chemin (pathname) de l'URL, encodée",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : section du chemin (pathname) de l'URL, encodée"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "04dd5bfb1671cd5d",
+  "source": "{0}: A class to apply on active links. Works the same as {1}Vue Router's {2} prop{/1} on internal links. Defaults to Vue Router's default ({3})",
+  "text": "{0} : une classe à appliquer aux liens actifs. Fonctionne comme la {1}prop {2} de Vue Router{/1} sur les liens internes. La valeur par défaut est celle de Vue Router ({3})",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : une classe à appliquer aux liens actifs. Fonctionne comme la {1}prop {2} de Vue Router{/1} sur les liens internes. La valeur par défaut est celle de Vue Router ({3})"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "c4603524835d3756",
+  "source": "Custom code, such as composables, will need to be manually imported in your files.",
+  "text": "Le code personnalisé, comme les composables, devra être importé manuellement dans vos fichiers.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le code personnalisé, comme les composables, devra être importé manuellement dans vos fichiers."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "a6700191da34b693",
+  "source": "Stop a dev server already running on this project and take its place",
+  "text": "Arrête un serveur de développement déjà en cours d'exécution sur ce projet et prend sa place",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Arrête un serveur de développement déjà en cours d'exécution sur ce projet et prend sa place"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

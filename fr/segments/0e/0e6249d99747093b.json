@@ -1,0 +1,14 @@
+{
+  "hash": "0e6249d99747093b",
+  "source": "If you have a component in nested directories such as:",
+  "text": "Si vous avez un composant dans des répertoires imbriqués, comme :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous avez un composant dans des répertoires imbriqués, comme :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

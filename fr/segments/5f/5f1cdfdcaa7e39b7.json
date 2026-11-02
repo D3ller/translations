@@ -1,0 +1,14 @@
+{
+  "hash": "5f1cdfdcaa7e39b7",
+  "source": "{0} \\| {1}: Specify a fallback tag to be rendered if the slot fails to render on the server.",
+  "text": "{0} \\| {1} : spécifie une balise de secours à afficher si le slot ne parvient pas à s'afficher sur le serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} \\| {1} : spécifie une balise de secours à afficher si le slot ne parvient pas à s'afficher sur le serveur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

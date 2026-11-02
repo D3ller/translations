@@ -1,0 +1,14 @@
+{
+  "hash": "e1324a0726f93a4a",
+  "source": "A module's server code enters the compatibility layer when its files import from {0}, {1}, {2}, {3} or {4}. (A file that imports {5} or {6} is left alone.)",
+  "text": "Le code serveur d'un module passe par la couche de compatibilité lorsque ses fichiers importent depuis {0}, {1}, {2}, {3} ou {4}. (Un fichier qui importe depuis {5} ou {6} n'est pas modifié.)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le code serveur d'un module passe par la couche de compatibilité lorsque ses fichiers importent depuis {0}, {1}, {2}, {3} ou {4}. (Un fichier qui importe depuis {5} ou {6} n'est pas modifié.)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "29b0378ff955ccd6",
+  "source": "Third-party resources like analytics tools, video embeds, maps, and social media integrations enhance website functionality but can significantly degrade user experience and negatively impact {0}Interaction to Next Paint (INP){/0} and Largest Contentful Paint (LCP) scores.",
+  "text": "Les ressources tierces comme les outils d'analyse, les vidéos intégrées, les cartes et les intégrations de réseaux sociaux enrichissent les fonctionnalités d'un site web, mais peuvent dégrader considérablement l'expérience utilisateur et affecter négativement les scores {0}Interaction to Next Paint (INP){/0} et Largest Contentful Paint (LCP).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les ressources tierces comme les outils d'analyse, les vidéos intégrées, les cartes et les intégrations de réseaux sociaux enrichissent les fonctionnalités d'un site web, mais peuvent dégrader considérablement l'expérience utilisateur et affecter négativement les scores {0}Interaction to Next Paint (INP){/0} et Largest Contentful Paint (LCP)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

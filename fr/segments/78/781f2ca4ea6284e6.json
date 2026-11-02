@@ -1,0 +1,14 @@
+{
+  "hash": "781f2ca4ea6284e6",
+  "source": "Clear logs, requests and the console",
+  "text": "Effacer les logs, les requêtes et la console",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Effacer les logs, les requêtes et la console"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

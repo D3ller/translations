@@ -1,0 +1,14 @@
+{
+  "hash": "1a64a000e83ca326",
+  "source": "This brings a **significant** performance improvement for deeply nested objects and arrays because Vue does not need to watch every single property/array for modification. In most cases, {0} should also be immutable.",
+  "text": "Cela apporte une amélioration de performance **significative** pour les objets et tableaux profondément imbriqués, car Vue n'a pas besoin de surveiller chaque propriété ou tableau pour détecter une modification. Dans la plupart des cas, {0} devrait également être immuable.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela apporte une amélioration de performance **significative** pour les objets et tableaux profondément imbriqués, car Vue n'a pas besoin de surveiller chaque propriété ou tableau pour détecter une modification. Dans la plupart des cas, {0} devrait également être immuable."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "65c6d42f5d8eec67",
+  "source": "The {0} command builds Nuxt and analyzes the production bundle (experimental). The results are served on a local server when the build finishes, unless you pass {1} or {2} is set in the environment.",
+  "text": "La commande {0} construit Nuxt et analyse le bundle de production (expérimental). Les résultats sont servis sur un serveur local une fois le build terminé, sauf si vous passez {1} ou si {2} est défini dans l'environnement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La commande {0} construit Nuxt et analyse le bundle de production (expérimental). Les résultats sont servis sur un serveur local une fois le build terminé, sauf si vous passez {1} ou si {2} est défini dans l'environnement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

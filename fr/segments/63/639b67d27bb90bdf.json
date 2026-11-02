@@ -1,0 +1,14 @@
+{
+  "hash": "639b67d27bb90bdf",
+  "source": "This file is plain HTML that is rendered independently of Vue, so you cannot use Vue components or auto-imports in it. Include the styles needed by your loading screen directly in this file rather than relying on your application's stylesheets.",
+  "text": "Ce fichier est du HTML pur, rendu indépendamment de Vue : vous ne pouvez donc pas y utiliser de composants Vue ni d'imports automatiques. Incluez les styles nécessaires à votre écran de chargement directement dans ce fichier plutôt que de vous appuyer sur les feuilles de style de votre application.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ce fichier est du HTML pur, rendu indépendamment de Vue : vous ne pouvez donc pas y utiliser de composants Vue ni d'imports automatiques. Incluez les styles nécessaires à votre écran de chargement directement dans ce fichier plutôt que de vous appuyer sur les feuilles de style de votre application."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

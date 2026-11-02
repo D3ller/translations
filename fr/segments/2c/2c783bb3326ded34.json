@@ -1,0 +1,14 @@
+{
+  "hash": "2c783bb3326ded34",
+  "source": "Experimental Features",
+  "text": "Fonctionnalités expérimentales",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Fonctionnalités expérimentales"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

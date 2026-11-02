@@ -1,0 +1,14 @@
+{
+  "hash": "eaac345a1c933f2f",
+  "source": "Called immediately before each individual module is set up.",
+  "text": "Appelé immédiatement avant la configuration de chaque module.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appelé immédiatement avant la configuration de chaque module."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

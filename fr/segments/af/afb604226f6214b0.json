@@ -1,0 +1,14 @@
+{
+  "hash": "afb604226f6214b0",
+  "source": "The early return only happens when the navigation succeeds (that is, when {0} resolves to {1}). If the navigation is aborted or fails (for example, blocked by a navigation guard, or navigating to the current route), the rest of your setup code continues to run. On a successful navigation, nothing after the {2} call runs: this includes {3} and any lifecycle hook registrations later in {4}.",
+  "text": "Le retour anticipé n'a lieu que lorsque la navigation réussit (c'est-à-dire lorsque {0} se résout en {1}). Si la navigation est annulée ou échoue (par exemple, bloquée par un garde de navigation, ou navigation vers la route courante), le reste de votre code setup continue de s'exécuter. Lors d'une navigation réussie, rien de ce qui suit l'appel {2} ne s'exécute : cela inclut {3} et tout enregistrement de hook de cycle de vie situé plus loin dans {4}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le retour anticipé n'a lieu que lorsque la navigation réussit (c'est-à-dire lorsque {0} se résout en {1}). Si la navigation est annulée ou échoue (par exemple, bloquée par un garde de navigation, ou navigation vers la route courante), le reste de votre code setup continue de s'exécuter. Lors d'une navigation réussie, rien de ce qui suit l'appel {2} ne s'exécute : cela inclut {3} et tout enregistrement de hook de cycle de vie situé plus loin dans {4}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

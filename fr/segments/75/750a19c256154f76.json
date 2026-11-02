@@ -1,0 +1,14 @@
+{
+  "hash": "750a19c256154f76",
+  "source": "Documentation Progress",
+  "text": "Avancement de la documentation",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Avancement de la documentation"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

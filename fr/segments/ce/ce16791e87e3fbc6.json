@@ -1,0 +1,14 @@
+{
+  "hash": "ce16791e87e3fbc6",
+  "source": "When rendering a page in the browser or on the server, a shared context will be created, referred to as {0}. This context keeps vue instance, runtime hooks, and internal states like ssrContext and payload for hydration. You can think of it as **Runtime Core**.",
+  "text": "Lors du rendu d'une page dans le navigateur ou sur le serveur, un contexte partagé est créé, appelé {0}. Ce contexte conserve l'instance Vue, les hooks d'exécution et des états internes comme ssrContext et le payload (charge utile) pour l'hydratation. Vous pouvez le considérer comme le **cœur du runtime**.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lors du rendu d'une page dans le navigateur ou sur le serveur, un contexte partagé est créé, appelé {0}. Ce contexte conserve l'instance Vue, les hooks d'exécution et des états internes comme ssrContext et le payload (charge utile) pour l'hydratation. Vous pouvez le considérer comme le **cœur du runtime**."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

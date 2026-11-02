@@ -1,0 +1,14 @@
+{
+  "hash": "847c1aebbfae1606",
+  "source": "Whether to run {0} when the key changes, even if it is set to {1} and it has not been triggered yet.",
+  "text": "Indique s'il faut exécuter {0} lorsque la clé change, même si elle est définie sur {1} et qu'elle n'a pas encore été déclenchée.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Indique s'il faut exécuter {0} lorsque la clé change, même si elle est définie sur {1} et qu'elle n'a pas encore été déclenchée."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

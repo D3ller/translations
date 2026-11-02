@@ -1,0 +1,14 @@
+{
+  "hash": "e234cacf853f89ff",
+  "source": "Nuxt Kit provides a set of utilities to help you work with logging. These functions allow you to log messages with extra features.",
+  "text": "Nuxt Kit fournit un ensemble d'utilitaires pour vous aider à travailler avec la journalisation. Ces fonctions vous permettent d'enregistrer des messages avec des fonctionnalités supplémentaires.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt Kit fournit un ensemble d'utilitaires pour vous aider à travailler avec la journalisation. Ces fonctions vous permettent d'enregistrer des messages avec des fonctionnalités supplémentaires."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

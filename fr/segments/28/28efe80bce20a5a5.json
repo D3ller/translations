@@ -1,0 +1,14 @@
+{
+  "hash": "28efe80bce20a5a5",
+  "source": "{0} (default) - a path Nuxt does not recognize is accepted and resolves to {1}, and no method is rejected. Nuxt cannot see every way a request may be answered: nitro middleware, a {2} proxy or a catch-all handler can answer a path no route describes.",
+  "text": "{0} (par défaut) : un chemin que Nuxt ne reconnaît pas est accepté et résolu en {1}, et aucune méthode n'est rejetée. Nuxt ne peut pas voir toutes les façons dont une requête peut être traitée : un middleware Nitro, un proxy {2} ou un handler catch-all peuvent répondre à un chemin qu'aucune route ne décrit.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} (par défaut) : un chemin que Nuxt ne reconnaît pas est accepté et résolu en {1}, et aucune méthode n'est rejetée. Nuxt ne peut pas voir toutes les façons dont une requête peut être traitée : un middleware Nitro, un proxy {2} ou un handler catch-all peuvent répondre à un chemin qu'aucune route ne décrit."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

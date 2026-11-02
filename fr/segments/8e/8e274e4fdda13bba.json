@@ -1,0 +1,14 @@
+{
+  "hash": "8e274e4fdda13bba",
+  "source": "Nuxt also provides a Virtual File System (VFS) for modules to add templates to this directory without writing them to disk.",
+  "text": "Nuxt fournit également un système de fichiers virtuel (VFS) permettant aux modules d'ajouter des templates à ce répertoire sans les écrire sur le disque.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt fournit également un système de fichiers virtuel (VFS) permettant aux modules d'ajouter des templates à ce répertoire sans les écrire sur le disque."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

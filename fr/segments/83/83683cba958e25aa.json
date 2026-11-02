@@ -1,0 +1,14 @@
+{
+  "hash": "83683cba958e25aa",
+  "source": "A few interactions to be aware of:",
+  "text": "Quelques interactions à connaître :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Quelques interactions à connaître :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

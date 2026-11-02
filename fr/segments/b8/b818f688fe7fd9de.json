@@ -1,0 +1,14 @@
+{
+  "hash": "b818f688fe7fd9de",
+  "source": "Interactive terminal UI (pinned status panel, folded logs and single-key shortcuts)",
+  "text": "Interface utilisateur interactive dans le terminal (panneau d'état épinglé, logs repliés et raccourcis à une touche)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Interface utilisateur interactive dans le terminal (panneau d'état épinglé, logs repliés et raccourcis à une touche)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "61e4dd3aa3dfdcfe",
+  "source": "Dependencies on other modules with version constraints and configuration. Can be an object or a function that receives the Nuxt instance. See {0}example{/0}.",
+  "text": "Dépendances vis-à-vis d'autres modules, avec contraintes de version et configuration. Peut être un objet ou une fonction qui reçoit l'instance de Nuxt. Voir l'{0}exemple{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dépendances vis-à-vis d'autres modules, avec contraintes de version et configuration. Peut être un objet ou une fonction qui reçoit l'instance de Nuxt. Voir l'{0}exemple{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

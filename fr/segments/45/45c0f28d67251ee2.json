@@ -1,0 +1,14 @@
+{
+  "hash": "45c0f28d67251ee2",
+  "source": "Keyed state created using {0} can be retrieved across your Nuxt application using {1}.",
+  "text": "L'état associé à une clé et créé avec {0} peut être récupéré dans toute votre application Nuxt avec {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'état associé à une clé et créé avec {0} peut être récupéré dans toute votre application Nuxt avec {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

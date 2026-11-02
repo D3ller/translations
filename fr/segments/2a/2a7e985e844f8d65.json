@@ -1,0 +1,14 @@
+{
+  "hash": "2a7e985e844f8d65",
+  "source": "1. Create a Nuxt application to be used as a \"fixture\"",
+  "text": "1. Créer une application Nuxt à utiliser comme « fixture »",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "1. Créer une application Nuxt à utiliser comme « fixture »"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

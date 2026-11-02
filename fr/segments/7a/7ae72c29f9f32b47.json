@@ -1,0 +1,14 @@
+{
+  "hash": "7ae72c29f9f32b47",
+  "source": "You can provide helpers to be usable across all composables and application. This usually happens within a Nuxt plugin.",
+  "text": "Vous pouvez fournir des helpers utilisables dans tous les composables et dans toute l'application. Cela se fait généralement dans un plugin Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez fournir des helpers utilisables dans tous les composables et dans toute l'application. Cela se fait généralement dans un plugin Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

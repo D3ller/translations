@@ -1,0 +1,14 @@
+{
+  "hash": "70be529791ab81bd",
+  "source": "To use the latest Nuxt build and test features before their release, read about the {0}nightly release channel{/0} guide.",
+  "text": "Pour utiliser le dernier build de Nuxt et tester des fonctionnalités avant leur publication, consultez le guide du {0}canal de versions nightly{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour utiliser le dernier build de Nuxt et tester des fonctionnalités avant leur publication, consultez le guide du {0}canal de versions nightly{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

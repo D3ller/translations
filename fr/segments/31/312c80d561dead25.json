@@ -1,0 +1,14 @@
+{
+  "hash": "312c80d561dead25",
+  "source": "Responds with an early 404 error for requests whose path cannot match any page route, without loading the Vue app, its plugins or middleware on the server.",
+  "text": "Répond par une erreur 404 anticipée pour les requêtes dont le chemin ne peut correspondre à aucune route de page, sans charger l'application Vue, ses plugins ou ses middleware sur le serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Répond par une erreur 404 anticipée pour les requêtes dont le chemin ne peut correspondre à aucune route de page, sans charger l'application Vue, ses plugins ou ses middleware sur le serveur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

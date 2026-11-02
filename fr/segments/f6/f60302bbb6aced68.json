@@ -1,0 +1,14 @@
+{
+  "hash": "f60302bbb6aced68",
+  "source": "Respect defaults when clearing {0}",
+  "text": "Respect des valeurs par défaut lors de l'effacement de {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Respect des valeurs par défaut lors de l'effacement de {0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

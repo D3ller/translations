@@ -1,0 +1,14 @@
+{
+  "hash": "741852017380759e",
+  "source": "We can use {0} for example in Nuxt {1}middleware{/1} to set a response header for all pages.",
+  "text": "Vous pouvez utiliser {0}, par exemple dans un {1}middleware{/1} Nuxt, pour définir un en-tête de réponse pour toutes les pages.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez utiliser {0}, par exemple dans un {1}middleware{/1} Nuxt, pour définir un en-tête de réponse pour toutes les pages."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

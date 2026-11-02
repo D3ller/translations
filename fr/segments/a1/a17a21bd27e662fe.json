@@ -1,0 +1,14 @@
+{
+  "hash": "a17a21bd27e662fe",
+  "source": "Install dependencies using your favorite package manager",
+  "text": "Installez les dépendances avec votre gestionnaire de packages préféré",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Installez les dépendances avec votre gestionnaire de packages préféré"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

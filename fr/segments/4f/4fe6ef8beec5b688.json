@@ -1,0 +1,14 @@
+{
+  "hash": "4fe6ef8beec5b688",
+  "source": "**Use Each Strategy's Intended Use Case:** Each strategy is optimized for a specific purpose.",
+  "text": "**Utilisez chaque stratégie selon son cas d'usage prévu :** chaque stratégie est optimisée pour un objectif précis.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Utilisez chaque stratégie selon son cas d'usage prévu :** chaque stratégie est optimisée pour un objectif précis."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

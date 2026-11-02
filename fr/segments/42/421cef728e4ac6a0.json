@@ -1,0 +1,14 @@
+{
+  "hash": "421cef728e4ac6a0",
+  "source": "Leave {0} external when you bundle; it will be resolved in the Nuxt build to the right server builder utilities.",
+  "text": "Laissez {0} externe lorsque vous créez le bundle ; il sera résolu lors du build de Nuxt vers les utilitaires du server builder approprié.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Laissez {0} externe lorsque vous créez le bundle ; il sera résolu lors du build de Nuxt vers les utilitaires du server builder approprié."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "34c3d1e50dae4296",
+  "source": "Use {0} to start the playground in development mode.",
+  "text": "Utilisez {0} pour démarrer le playground en mode développement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utilisez {0} pour démarrer le playground en mode développement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

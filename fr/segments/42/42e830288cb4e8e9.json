@@ -1,0 +1,14 @@
+{
+  "hash": "42e830288cb4e8e9",
+  "source": "h3 ships session helpers of the same names, and under {0} those are what the auto-imported {1}, {2}, {3} and {4} resolve to, so import these from {5} explicitly. They are a separate implementation and are not interchangeable: h3 defaults to the {6} cookie name rather than {7}, takes its own configuration, and a session one of them issues will not unseal with the other.",
+  "text": "h3 fournit des helpers de session portant les mêmes noms, et sous {0} ce sont ceux-là que désignent les {1}, {2}, {3} et {4} importés automatiquement ; importez donc ceux-ci explicitement depuis {5}. Il s'agit d'une implémentation distincte et ils ne sont pas interchangeables : h3 utilise par défaut le nom de cookie {6} plutôt que {7}, prend sa propre configuration, et une session émise par l'un ne pourra pas être déchiffrée par l'autre.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "h3 fournit des helpers de session portant les mêmes noms, et sous {0} ce sont ceux-là que désignent les {1}, {2}, {3} et {4} importés automatiquement ; importez donc ceux-ci explicitement depuis {5}. Il s'agit d'une implémentation distincte et ils ne sont pas interchangeables : h3 utilise par défaut le nom de cookie {6} plutôt que {7}, prend sa propre configuration, et une session émise par l'un ne pourra pas être déchiffrée par l'autre."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

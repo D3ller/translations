@@ -1,0 +1,14 @@
+{
+  "hash": "4c106fd3c59869f6",
+  "source": "Configure how Nuxt auto-imports composables into your application.",
+  "text": "Configurez la façon dont Nuxt importe automatiquement les composables dans votre application.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Configurez la façon dont Nuxt importe automatiquement les composables dans votre application."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

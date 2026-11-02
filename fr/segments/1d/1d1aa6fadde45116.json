@@ -1,0 +1,14 @@
+{
+  "hash": "1d1aa6fadde45116",
+  "source": "Keys within public, will be also exposed to the client-side",
+  "text": "Les clés dans public seront également exposées côté client",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les clés dans public seront également exposées côté client"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

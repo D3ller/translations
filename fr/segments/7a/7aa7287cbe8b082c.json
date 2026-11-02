@@ -1,0 +1,14 @@
+{
+  "hash": "7aa7287cbe8b082c",
+  "source": "Unit Testing",
+  "text": "Tests unitaires",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Tests unitaires"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

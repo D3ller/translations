@@ -1,0 +1,14 @@
+{
+  "hash": "c0c9ec085712320b",
+  "source": "{0} returns a promise when called with any of the existing hooks.",
+  "text": "{0} renvoie une promesse lorsqu'il est appelé avec l'un des hooks existants.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} renvoie une promesse lorsqu'il est appelé avec l'un des hooks existants."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

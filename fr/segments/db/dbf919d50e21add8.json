@@ -1,0 +1,14 @@
+{
+  "hash": "dbf919d50e21add8",
+  "source": "Nuxt provides a powerful system that allows you to extend the default files, configs, and much more.",
+  "text": "Nuxt fournit un système puissant qui vous permet d'étendre les fichiers par défaut, les configurations et bien plus encore.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt fournit un système puissant qui vous permet d'étendre les fichiers par défaut, les configurations et bien plus encore."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

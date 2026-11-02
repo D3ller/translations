@@ -1,0 +1,14 @@
+{
+  "hash": "652b0cdd56e95fc3",
+  "source": "**Problem**: Content that changes based on current time.",
+  "text": "**Problème** : un contenu qui change en fonction de l'heure actuelle.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Problème** : un contenu qui change en fonction de l'heure actuelle."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

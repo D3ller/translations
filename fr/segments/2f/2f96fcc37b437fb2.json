@@ -1,0 +1,14 @@
+{
+  "hash": "2f96fcc37b437fb2",
+  "source": "Functions from the {0} ({1}, {2}, and {3}) can safely be destructured, if you did not await the return value.",
+  "text": "Les fonctions de {0} ({1}, {2} et {3}) peuvent être déstructurées sans risque si vous n'avez pas utilisé await sur la valeur de retour.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les fonctions de {0} ({1}, {2} et {3}) peuvent être déstructurées sans risque si vous n'avez pas utilisé await sur la valeur de retour."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

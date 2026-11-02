@@ -1,0 +1,14 @@
+{
+  "hash": "6a5d8b7bd172bd59",
+  "source": "With the project-based setup, each project's {0} glob determines which environment a test file runs in:",
+  "text": "Avec la configuration par projets, le glob {0} de chaque projet détermine dans quel environnement s'exécute un fichier de test :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Avec la configuration par projets, le glob {0} de chaque projet détermine dans quel environnement s'exécute un fichier de test :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

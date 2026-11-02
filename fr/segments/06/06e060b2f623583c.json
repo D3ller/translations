@@ -1,0 +1,14 @@
+{
+  "hash": "06e060b2f623583c",
+  "source": "You can set this instead to {0} to use {1}, which may improve performance in large projects or on Windows platforms.",
+  "text": "Vous pouvez plutôt définir cette option à {0} pour utiliser {1}, ce qui peut améliorer les performances sur les gros projets ou sous Windows.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez plutôt définir cette option à {0} pour utiliser {1}, ce qui peut améliorer les performances sur les gros projets ou sous Windows."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

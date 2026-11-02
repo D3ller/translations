@@ -1,0 +1,14 @@
+{
+  "hash": "29f2c0dc364e6666",
+  "source": "nuxt cleanup",
+  "text": "nuxt cleanup",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "nuxt cleanup"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

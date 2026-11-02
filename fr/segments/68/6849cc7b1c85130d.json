@@ -1,0 +1,14 @@
+{
+  "hash": "6849cc7b1c85130d",
+  "source": "You can specify custom callbacks to be triggered by providing your own functions for the {0} and {1} options.",
+  "text": "Vous pouvez définir des callbacks personnalisés à déclencher en fournissant vos propres fonctions pour les options {0} et {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez définir des callbacks personnalisés à déclencher en fournissant vos propres fonctions pour les options {0} et {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

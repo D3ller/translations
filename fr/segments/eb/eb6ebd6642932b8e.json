@@ -1,0 +1,14 @@
+{
+  "hash": "eb6ebd6642932b8e",
+  "source": "{0} is a composable lifecycle hook that allows you to run a callback on the client immediately before Nuxt hydrates the page.",
+  "text": "{0} est un hook de cycle de vie composable qui vous permet d'exécuter un callback côté client immédiatement avant que Nuxt hydrate la page.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est un hook de cycle de vie composable qui vous permet d'exécuter un callback côté client immédiatement avant que Nuxt hydrate la page."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

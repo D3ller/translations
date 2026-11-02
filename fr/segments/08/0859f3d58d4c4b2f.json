@@ -1,0 +1,14 @@
+{
+  "hash": "0859f3d58d4c4b2f",
+  "source": "Forwarded links are downgraded from {0} to {1}, apart from {2} hints, which keep {3} with any {4} stripped.",
+  "text": "Les liens transmis sont rétrogradés de {0} à {1}, à l'exception des indications {2}, qui conservent {3} avec tout attribut {4} retiré.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les liens transmis sont rétrogradés de {0} à {1}, à l'exception des indications {2}, qui conservent {3} avec tout attribut {4} retiré."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

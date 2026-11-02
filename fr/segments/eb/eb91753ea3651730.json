@@ -1,0 +1,14 @@
+{
+  "hash": "eb91753ea3651730",
+  "source": "You can access these types when using {0} or {1}.",
+  "text": "Vous pouvez accéder à ces types lorsque vous utilisez {0} ou {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez accéder à ces types lorsque vous utilisez {0} ou {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

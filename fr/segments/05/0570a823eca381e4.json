@@ -1,0 +1,14 @@
+{
+  "hash": "0570a823eca381e4",
+  "source": "The {0} directory is the directory that contains the server-side code of the Nuxt application. It contains the following subdirectories:",
+  "text": "Le répertoire {0} contient le code côté serveur de l'application Nuxt. Il contient les sous-répertoires suivants :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le répertoire {0} contient le code côté serveur de l'application Nuxt. Il contient les sous-répertoires suivants :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

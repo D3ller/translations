@@ -1,0 +1,14 @@
+{
+  "hash": "0ff2154fee76c1d5",
+  "source": "Module execution order matches the intuitive layer inheritance pattern",
+  "text": "L'ordre d'exécution des modules correspond au modèle intuitif d'héritage des layers",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'ordre d'exécution des modules correspond au modèle intuitif d'héritage des layers"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

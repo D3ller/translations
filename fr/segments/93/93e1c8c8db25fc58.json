@@ -1,0 +1,14 @@
+{
+  "hash": "93e1c8c8db25fc58",
+  "source": "Vapor Mode",
+  "text": "Vapor Mode",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vapor Mode"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

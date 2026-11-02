@@ -1,0 +1,14 @@
+{
+  "hash": "e275e54c7703733a",
+  "source": "{0}: custom data attached to the record",
+  "text": "{0} : données personnalisées attachées à l'enregistrement",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : données personnalisées attachées à l'enregistrement"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

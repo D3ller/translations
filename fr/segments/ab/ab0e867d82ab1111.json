@@ -1,0 +1,14 @@
+{
+  "hash": "ab0e867d82ab1111",
+  "source": "Nuxt removes {0} from its generated TypeScript configurations. Relative Nuxt and Nitro aliases are resolved from Nuxt's build directory instead of a custom {1}.",
+  "text": "Nuxt supprime {0} de ses configurations TypeScript générées. Les alias relatifs de Nuxt et Nitro sont résolus à partir du répertoire de build de Nuxt plutôt que d'un {1} personnalisé.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt supprime {0} de ses configurations TypeScript générées. Les alias relatifs de Nuxt et Nitro sont résolus à partir du répertoire de build de Nuxt plutôt que d'un {1} personnalisé."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

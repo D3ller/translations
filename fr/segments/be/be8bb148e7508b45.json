@@ -1,0 +1,14 @@
+{
+  "hash": "be8bb148e7508b45",
+  "source": "4. project-module-2 (can override layer modules)",
+  "text": "4. project-module-2 (peut remplacer les modules du layer)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "4. project-module-2 (peut remplacer les modules du layer)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

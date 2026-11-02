@@ -1,0 +1,14 @@
+{
+  "hash": "167e2f1ac4ee17ee",
+  "source": "Set the {0} property in route rules.",
+  "text": "Définissez la propriété {0} dans les règles de route.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définissez la propriété {0} dans les règles de route."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

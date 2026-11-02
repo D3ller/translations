@@ -1,0 +1,14 @@
+{
+  "hash": "3e3c5b3b5947551c",
+  "source": "**Resolves fonts used in CSS**. It starts by looking in your {0} directory for font files that match the name, like {1}, {2}, etc. Then it moves on to web font providers like {3}, {4} and {5}, which we query through {6}unifont{/6}. Once a provider is found (in this case, probably {7}Google Fonts{/7}), we move on to the next step.",
+  "text": "**Résout les polices utilisées dans le CSS**. Il commence par chercher dans votre répertoire {0} des fichiers de police correspondant au nom, comme {1}, {2}, etc. Il passe ensuite aux fournisseurs de polices web comme {3}, {4} et {5}, que nous interrogeons via {6}unifont{/6}. Une fois qu'un fournisseur est trouvé (ici, probablement {7}Google Fonts{/7}), nous passons à l'étape suivante.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Résout les polices utilisées dans le CSS**. Il commence par chercher dans votre répertoire {0} des fichiers de police correspondant au nom, comme {1}, {2}, etc. Il passe ensuite aux fournisseurs de polices web comme {3}, {4} et {5}, que nous interrogeons via {6}unifont{/6}. Une fois qu'un fournisseur est trouvé (ici, probablement {7}Google Fonts{/7}), nous passons à l'étape suivante."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

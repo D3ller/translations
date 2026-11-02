@@ -1,0 +1,14 @@
+{
+  "hash": "890c88459aa1befb",
+  "source": "Just like {0}, {1} composable lets you define your site's SEO meta tags as a flat object with full TypeScript support.",
+  "text": "Tout comme {0}, le composable {1} vous permet de définir les balises meta SEO de votre site sous la forme d'un objet plat, avec une prise en charge complète de TypeScript.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Tout comme {0}, le composable {1} vous permet de définir les balises meta SEO de votre site sous la forme d'un objet plat, avec une prise en charge complète de TypeScript."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "f05258aa5e4f3c61",
+  "source": "**Clearer dependency management**: Each project explicitly declares its dependencies",
+  "text": "**Gestion des dépendances plus claire** : chaque projet déclare explicitement ses dépendances",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Gestion des dépendances plus claire** : chaque projet déclare explicitement ses dépendances"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

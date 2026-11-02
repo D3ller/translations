@@ -1,0 +1,14 @@
+{
+  "hash": "be18234ab4ad6bee",
+  "source": "Organizing Your Tests",
+  "text": "Organisation de vos tests",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Organisation de vos tests"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

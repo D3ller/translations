@@ -1,0 +1,14 @@
+{
+  "hash": "70dff22ef5ee3373",
+  "source": "Vue.js config",
+  "text": "Configuration de Vue.js",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Configuration de Vue.js"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

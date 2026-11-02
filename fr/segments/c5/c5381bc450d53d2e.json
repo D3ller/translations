@@ -1,0 +1,14 @@
+{
+  "hash": "c5381bc450d53d2e",
+  "source": "Clear console on restart",
+  "text": "Efface la console au redémarrage",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Efface la console au redémarrage"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

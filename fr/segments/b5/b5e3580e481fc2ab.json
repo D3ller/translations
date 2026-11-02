@@ -1,0 +1,14 @@
+{
+  "hash": "b5e3580e481fc2ab",
+  "source": "Outside a project, or installed globally, {0} runs the same commands. It hands each one over to the {1} installed in the project when there is one, so the code that runs matches the version of Nuxt it sits alongside rather than whatever is on your machine. It falls back to its own bundled commands when there is no project CLI, when the project's copy predates v3.26, or when the project's copy does not know the command, so a project pinned to an older release still gets newer commands.",
+  "text": "En dehors d'un projet, ou lorsqu'elle est installée globalement, {0} exécute les mêmes commandes. Elle transmet chacune d'elles à la {1} installée dans le projet s'il y en a une, de sorte que le code exécuté correspond à la version de Nuxt avec laquelle il cohabite plutôt qu'à celle présente sur votre machine. Elle se rabat sur ses propres commandes intégrées lorsqu'il n'y a pas de CLI dans le projet, lorsque la copie du projet est antérieure à la v3.26, ou lorsque la copie du projet ne connaît pas la commande ; un projet figé sur une version plus ancienne bénéficie ainsi tout de même des commandes plus récentes.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En dehors d'un projet, ou lorsqu'elle est installée globalement, {0} exécute les mêmes commandes. Elle transmet chacune d'elles à la {1} installée dans le projet s'il y en a une, de sorte que le code exécuté correspond à la version de Nuxt avec laquelle il cohabite plutôt qu'à celle présente sur votre machine. Elle se rabat sur ses propres commandes intégrées lorsqu'il n'y a pas de CLI dans le projet, lorsque la copie du projet est antérieure à la v3.26, ou lorsque la copie du projet ne connaît pas la commande ; un projet figé sur une version plus ancienne bénéficie ainsi tout de même des commandes plus récentes."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "2f934b0d3381a419",
+  "source": "For this recipe, we'll create a simple API route to sign-in a user based on static data.",
+  "text": "Pour cette recette, vous allez créer une route d'API simple pour connecter un utilisateur à partir de données statiques.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour cette recette, vous allez créer une route d'API simple pour connecter un utilisateur à partir de données statiques."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

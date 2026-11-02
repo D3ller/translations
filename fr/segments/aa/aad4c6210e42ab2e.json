@@ -1,0 +1,14 @@
+{
+  "hash": "aad4c6210e42ab2e",
+  "source": "{0}, {1}, {2} and {3} are Vue refs and they should be accessed with {4} when used within the {5}, while {6}/{7} and {8} are plain functions.",
+  "text": "{0}, {1}, {2} et {3} sont des refs Vue et elles doivent être accessibles avec {4} lorsqu'elles sont utilisées dans le {5}, tandis que {6}/{7} et {8} sont de simples fonctions.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}, {1}, {2} et {3} sont des refs Vue et elles doivent être accessibles avec {4} lorsqu'elles sont utilisées dans le {5}, tandis que {6}/{7} et {8} sont de simples fonctions."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "05308ee925bffe56",
+  "source": "Because a single file is served for every missing path, the error page cannot depend on the request: {0}, {1} and data fetched with the current path will hold the build-time values in the prerendered HTML and be corrected on hydration. Wrap request-specific markup in {2}, and skip request-specific data fetching with {3}:",
+  "text": "Comme un seul fichier est servi pour tous les chemins introuvables, la page d'erreur ne peut pas dépendre de la requête : {0}, {1} et les données récupérées avec le chemin courant contiendront les valeurs du moment du build dans le HTML prérendu et seront corrigées lors de l'hydratation. Enveloppez le balisage propre à la requête dans {2}, et évitez la récupération de données propre à la requête avec {3} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Comme un seul fichier est servi pour tous les chemins introuvables, la page d'erreur ne peut pas dépendre de la requête : {0}, {1} et les données récupérées avec le chemin courant contiendront les valeurs du moment du build dans le HTML prérendu et seront corrigées lors de l'hydratation. Enveloppez le balisage propre à la requête dans {2}, et évitez la récupération de données propre à la requête avec {3} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

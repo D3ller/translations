@@ -1,0 +1,14 @@
+{
+  "hash": "1eba41fe47b60c4f",
+  "source": "Adds a Nitro server handler. Use this if you want to create server middleware or a custom route.",
+  "text": "Ajoute un handler serveur Nitro. Utilisez-le si vous souhaitez créer un middleware serveur ou une route personnalisée.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ajoute un handler serveur Nitro. Utilisez-le si vous souhaitez créer un middleware serveur ou une route personnalisée."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

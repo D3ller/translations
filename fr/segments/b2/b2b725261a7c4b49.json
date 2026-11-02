@@ -1,0 +1,14 @@
+{
+  "hash": "b2b725261a7c4b49",
+  "source": "Either remove the client-side dependency from the affected route, or scope script stripping to the routes that are genuinely static using the {0} route rule (which applies in development too, so any breakage is visible immediately):",
+  "text": "Supprimez la dépendance côté client de la route concernée, ou limitez la suppression des scripts aux routes réellement statiques à l'aide de la règle de route {0} (qui s'applique aussi en développement, de sorte que tout problème est visible immédiatement) :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Supprimez la dépendance côté client de la route concernée, ou limitez la suppression des scripts aux routes réellement statiques à l'aide de la règle de route {0} (qui s'applique aussi en développement, de sorte que tout problème est visible immédiatement) :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

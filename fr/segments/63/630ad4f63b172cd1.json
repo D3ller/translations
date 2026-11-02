@@ -1,0 +1,14 @@
+{
+  "hash": "630ad4f63b172cd1",
+  "source": "**No client {0}**: In the browser, {1} is {2}an import rather than a global{/2}",
+  "text": "**Pas de {0} côté client** : dans le navigateur, {1} est {2}un import plutôt qu'une variable globale{/2}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Pas de {0} côté client** : dans le navigateur, {1} est {2}un import plutôt qu'une variable globale{/2}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

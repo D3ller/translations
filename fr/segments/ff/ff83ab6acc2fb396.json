@@ -1,0 +1,14 @@
+{
+  "hash": "ff83ab6acc2fb396",
+  "source": "The {0} command creates a {1} directory with all your application, server and dependencies ready for production.",
+  "text": "La commande {0} crée un répertoire {1} contenant l'ensemble de votre application, de votre serveur et de vos dépendances, prêt pour la production.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La commande {0} crée un répertoire {1} contenant l'ensemble de votre application, de votre serveur et de vos dépendances, prêt pour la production."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

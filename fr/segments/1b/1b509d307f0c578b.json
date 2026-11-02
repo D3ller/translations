@@ -1,0 +1,14 @@
+{
+  "hash": "1b509d307f0c578b",
+  "source": "When your application requires different layouts for different pages, you can use the {0} directory with the {1} component. This allows you to define multiple layouts and apply them per page.",
+  "text": "Lorsque votre application nécessite des layouts différents selon les pages, vous pouvez utiliser le répertoire {0} avec le composant {1}. Cela vous permet de définir plusieurs layouts et de les appliquer page par page.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque votre application nécessite des layouts différents selon les pages, vous pouvez utiliser le répertoire {0} avec le composant {1}. Cela vous permet de définir plusieurs layouts et de les appliquer page par page."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "f7891a79e397ce45",
+  "source": "In development, it uses Rollup and Node.js workers for your server code and context isolation. It also generates your server API by reading files in {0} and server middleware from {1}.",
+  "text": "En développement, il utilise Rollup et des workers Node.js pour le code de votre serveur et l'isolation du contexte. Il génère également l'API de votre serveur en lisant les fichiers de {0} et les server middleware depuis {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En développement, il utilise Rollup et des workers Node.js pour le code de votre serveur et l'isolation du contexte. Il génère également l'API de votre serveur en lisant les fichiers de {0} et les server middleware depuis {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

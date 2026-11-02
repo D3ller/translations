@@ -1,0 +1,14 @@
+{
+  "hash": "ded94e010d5f7ab2",
+  "source": "Resolves path aliases respecting Nuxt alias options.",
+  "text": "Résout les alias de chemin en respectant les options d'alias de Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Résout les alias de chemin en respectant les options d'alias de Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

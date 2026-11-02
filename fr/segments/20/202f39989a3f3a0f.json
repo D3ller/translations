@@ -1,0 +1,14 @@
+{
+  "hash": "202f39989a3f3a0f",
+  "source": "**Response status and headers must be set before the shell is flushed.** Streaming commits the HTTP status and headers with the first byte, so anything that mutates the response after that point cannot reach the client. This is inherent to streaming, not a Nuxt-specific bug.",
+  "text": "**Le statut et les en-têtes de la réponse doivent être définis avant l'envoi de l'enveloppe.** Le streaming valide le statut HTTP et les en-têtes avec le premier octet ; tout ce qui modifie la réponse après ce point ne peut donc pas atteindre le client. C'est inhérent au streaming, et non un bug propre à Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Le statut et les en-têtes de la réponse doivent être définis avant l'envoi de l'enveloppe.** Le streaming valide le statut HTTP et les en-têtes avec le premier octet ; tout ce qui modifie la réponse après ce point ne peut donc pas atteindre le client. C'est inhérent au streaming, et non un bug propre à Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

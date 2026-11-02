@@ -1,0 +1,14 @@
+{
+  "hash": "f566dd6e139ec528",
+  "source": "Called when a fatal error occurs.",
+  "text": "Appelé lorsqu'une erreur fatale se produit.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appelé lorsqu'une erreur fatale se produit."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

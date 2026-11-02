@@ -1,0 +1,14 @@
+{
+  "hash": "30bc71dc60cc2422",
+  "source": "{0}: Remote source to call the island to render.",
+  "text": "{0} : source distante à appeler pour afficher l'island.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : source distante à appeler pour afficher l'island."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "457b56f820d31a3d",
+  "source": "Relative to your project rootDir",
+  "text": "Relatif au rootDir de votre projet",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Relatif au rootDir de votre projet"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

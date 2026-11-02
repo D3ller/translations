@@ -1,0 +1,14 @@
+{
+  "hash": "e147b04c018c02bc",
+  "source": "If we request changes on a PR, please ignore the red text! It doesn't mean we think it's a bad PR - it's just a way of easily telling the status of a list of pull requests at a glance.",
+  "text": "Si nous demandons des modifications sur une PR, veuillez ignorer le texte rouge ! Cela ne signifie pas que nous pensons qu'il s'agit d'une mauvaise PR : c'est simplement un moyen de connaître d'un coup d'œil le statut d'une liste de pull requests.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si nous demandons des modifications sur une PR, veuillez ignorer le texte rouge ! Cela ne signifie pas que nous pensons qu'il s'agit d'une mauvaise PR : c'est simplement un moyen de connaître d'un coup d'œil le statut d'une liste de pull requests."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

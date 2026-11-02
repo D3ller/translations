@@ -1,0 +1,14 @@
+{
+  "hash": "264631ca4f437432",
+  "source": "Nuxt 3 provides new composables for fetching data: {0} and {1}. They each have 'lazy' variants ({2} and {3}), which do not block client-side navigation.",
+  "text": "Nuxt 3 fournit de nouveaux composables pour la récupération de données : {0} et {1}. Chacun a des variantes « lazy » ({2} et {3}), qui ne bloquent pas la navigation côté client.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt 3 fournit de nouveaux composables pour la récupération de données : {0} et {1}. Chacun a des variantes « lazy » ({2} et {3}), qui ne bloquent pas la navigation côté client."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "ca700831db07bac1",
+  "source": "When you open the project in VS Code, you should see a notification in the bottom right corner:",
+  "text": "Lorsque vous ouvrez le projet dans VS Code, une notification devrait apparaître en bas à droite :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque vous ouvrez le projet dans VS Code, une notification devrait apparaître en bas à droite :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

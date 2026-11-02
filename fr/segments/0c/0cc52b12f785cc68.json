@@ -1,0 +1,14 @@
+{
+  "hash": "0cc52b12f785cc68",
+  "source": "If set to {0}, the template will be written to the destination file. Otherwise, the template will be used only in virtual filesystem.",
+  "text": "Si la valeur est {0}, le template sera écrit dans le fichier de destination. Sinon, le template sera utilisé uniquement dans le système de fichiers virtuel.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si la valeur est {0}, le template sera écrit dans le fichier de destination. Sinon, le template sera utilisé uniquement dans le système de fichiers virtuel."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

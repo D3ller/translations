@@ -1,0 +1,14 @@
+{
+  "hash": "7aad7145e6c35d18",
+  "source": "Capitalize headings following Chicago title case. In short: capitalize the first word, the last word, and all major words (nouns, verbs, adjectives, adverbs, pronouns); lowercase articles, coordinating conjunctions, and prepositions regardless of length (for example, a, and, or, with, from, and to). When in doubt, {0}capitalizemytitle.com{/0} can help.",
+  "text": "Mettez les majuscules des titres selon le Chicago title case. En résumé : mettez une majuscule au premier mot, au dernier mot et à tous les mots importants (noms, verbes, adjectifs, adverbes, pronoms) ; mettez en minuscules les articles, les conjonctions de coordination et les prépositions, quelle que soit leur longueur (par exemple, a, and, or, with, from et to). En cas de doute, {0}capitalizemytitle.com{/0} peut vous aider.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mettez les majuscules des titres selon le Chicago title case. En résumé : mettez une majuscule au premier mot, au dernier mot et à tous les mots importants (noms, verbes, adjectifs, adverbes, pronoms) ; mettez en minuscules les articles, les conjonctions de coordination et les prépositions, quelle que soit leur longueur (par exemple, a, and, or, with, from et to). En cas de doute, {0}capitalizemytitle.com{/0} peut vous aider."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

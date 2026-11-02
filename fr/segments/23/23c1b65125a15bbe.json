@@ -1,0 +1,14 @@
+{
+  "hash": "23c1b65125a15bbe",
+  "source": "Nuxt does not require {0} unless a module or server feature uses it.",
+  "text": "Nuxt n'exige pas {0}, sauf si un module ou une fonctionnalité serveur l'utilise.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt n'exige pas {0}, sauf si un module ou une fonctionnalité serveur l'utilise."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

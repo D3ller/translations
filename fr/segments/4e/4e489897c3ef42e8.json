@@ -1,0 +1,14 @@
+{
+  "hash": "4e489897c3ef42e8",
+  "source": "Hydrates when a specified boolean condition is met.",
+  "text": "Hydrate lorsqu'une condition booléenne spécifiée est remplie.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Hydrate lorsqu'une condition booléenne spécifiée est remplie."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

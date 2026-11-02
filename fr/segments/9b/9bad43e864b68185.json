@@ -1,0 +1,14 @@
+{
+  "hash": "9bad43e864b68185",
+  "source": "Build your Nuxt application.",
+  "text": "Compilez votre application Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Compilez votre application Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

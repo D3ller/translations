@@ -1,0 +1,14 @@
+{
+  "hash": "f881dd4cd2adcc35",
+  "source": "If you plan to add a whole set of pages related with a specific functionality, you might want to use a {0}Nuxt module{/0}.",
+  "text": "Si vous prévoyez d'ajouter tout un ensemble de pages liées à une fonctionnalité spécifique, vous pouvez utiliser un {0}module Nuxt{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous prévoyez d'ajouter tout un ensemble de pages liées à une fonctionnalité spécifique, vous pouvez utiliser un {0}module Nuxt{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

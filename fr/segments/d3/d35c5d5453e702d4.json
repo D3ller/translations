@@ -1,0 +1,14 @@
+{
+  "hash": "d35c5d5453e702d4",
+  "source": "If you are building a mostly-static site, islands combine well with {0} and {1} route rules.",
+  "text": "Si vous construisez un site majoritairement statique, les islands se combinent bien avec les règles de route {0} et {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous construisez un site majoritairement statique, les islands se combinent bien avec les règles de route {0} et {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

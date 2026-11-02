@@ -1,0 +1,14 @@
+{
+  "hash": "d43d94d9585e5846",
+  "source": "It is highly recommended to prefix your server routes to avoid conflicts with user-defined routes. Common paths like {0}, {1}, or {2} may already be used by the application.",
+  "text": "Il est fortement recommandé de préfixer vos routes serveur pour éviter les conflits avec les routes définies par l'utilisateur. Des chemins courants comme {0}, {1} ou {2} peuvent déjà être utilisés par l'application.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Il est fortement recommandé de préfixer vos routes serveur pour éviter les conflits avec les routes définies par l'utilisateur. Des chemins courants comme {0}, {1} ou {2} peuvent déjà être utilisés par l'application."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

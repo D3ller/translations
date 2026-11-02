@@ -1,0 +1,14 @@
+{
+  "hash": "6e7a83daaa11de24",
+  "source": "The function merger can only be used in the extended layers and not the main {0} in project.",
+  "text": "Le function merger ne peut être utilisé que dans les layers étendus, et non dans le {0} principal du projet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le function merger ne peut être utilisé que dans les layers étendus, et non dans le {0} principal du projet."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

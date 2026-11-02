@@ -1,0 +1,14 @@
+{
+  "hash": "2e52c6fbdef593e7",
+  "source": "Handle loading and error states in the template.",
+  "text": "Gérez les états de chargement et d'erreur dans le template.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Gérez les états de chargement et d'erreur dans le template."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

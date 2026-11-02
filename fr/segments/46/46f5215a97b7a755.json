@@ -1,0 +1,14 @@
+{
+  "hash": "46f5215a97b7a755",
+  "source": "Using {0} in components without wrapping it with {1} causes fetching the data twice: initially on the server, then again on the client-side during hydration, because {2} does not transfer state from the server to the client. Thus, the fetch will be executed on both sides because the client has to get the data again.",
+  "text": "Utiliser {0} dans des composants sans l'encapsuler avec {1} entraîne une double récupération des données : d'abord sur le serveur, puis à nouveau côté client lors de l'hydratation, car {2} ne transfère pas l'état du serveur au client. Le fetch sera donc exécuté des deux côtés, car le client doit récupérer à nouveau les données.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utiliser {0} dans des composants sans l'encapsuler avec {1} entraîne une double récupération des données : d'abord sur le serveur, puis à nouveau côté client lors de l'hydratation, car {2} ne transfère pas l'état du serveur au client. Le fetch sera donc exécuté des deux côtés, car le client doit récupérer à nouveau les données."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

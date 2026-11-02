@@ -1,0 +1,14 @@
+{
+  "hash": "5509c4ae33eb6780",
+  "source": "While it is not essential, most of the Nuxt ecosystem is shifting to use TypeScript, so it is highly recommended to consider migration.",
+  "text": "Bien que ce ne soit pas indispensable, la majeure partie de l'écosystème Nuxt se tourne vers TypeScript ; il est donc fortement recommandé d'envisager la migration.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Bien que ce ne soit pas indispensable, la majeure partie de l'écosystème Nuxt se tourne vers TypeScript ; il est donc fortement recommandé d'envisager la migration."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

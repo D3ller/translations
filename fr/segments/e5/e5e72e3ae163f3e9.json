@@ -1,0 +1,14 @@
+{
+  "hash": "e5e72e3ae163f3e9",
+  "source": "An array of entries, which can be import names, import objects or nested presets.",
+  "text": "Un tableau d'entrées, qui peuvent être des noms d'imports, des objets d'import ou des presets imbriqués.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un tableau d'entrées, qui peuvent être des noms d'imports, des objets d'import ou des presets imbriqués."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

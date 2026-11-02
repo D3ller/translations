@@ -1,0 +1,14 @@
+{
+  "hash": "5d6707c821e6ffbe",
+  "source": "Replace the {0} hook with {1} or {2} in your page/component.",
+  "text": "Remplacez le hook {0} par {1} ou {2} dans votre page ou composant.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Remplacez le hook {0} par {1} ou {2} dans votre page ou composant."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

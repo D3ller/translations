@@ -1,0 +1,14 @@
+{
+  "hash": "004d0f59f0298fd3",
+  "source": "Factory for default value of {0} before async resolves.",
+  "text": "Fabrique de la valeur par défaut de {0} avant la résolution de l'appel asynchrone.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Fabrique de la valeur par défaut de {0} avant la résolution de l'appel asynchrone."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "3aa0a7540d231751",
+  "source": "Your {0} implementation typically branches on {1}:",
+  "text": "Votre implémentation de {0} se ramifie généralement selon {1} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Votre implémentation de {0} se ramifie généralement selon {1} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "dde22e4ab8d1a54b",
+  "source": "Relative Paths and Aliases",
+  "text": "Chemins relatifs et alias",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Chemins relatifs et alias"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

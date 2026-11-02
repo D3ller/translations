@@ -1,0 +1,14 @@
+{
+  "hash": "d87b550f7aac4a7c",
+  "source": "Page routes (including aliases) are compiled into a static route matcher at build time, and incoming requests are checked against it before server-side rendering begins. Requests that cannot match any page skip loading the app entirely and go straight to the error page.",
+  "text": "Les routes de page (y compris les alias) sont compilées en un matcher de routes statique au moment du build, et les requêtes entrantes sont vérifiées par rapport à celui-ci avant le début du rendu côté serveur. Les requêtes qui ne peuvent correspondre à aucune page évitent entièrement le chargement de l'application et vont directement à la page d'erreur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les routes de page (y compris les alias) sont compilées en un matcher de routes statique au moment du build, et les requêtes entrantes sont vérifiées par rapport à celui-ci avant le début du rendu côté serveur. Les requêtes qui ne peuvent correspondre à aucune page évitent entièrement le chargement de l'application et vont directement à la page d'erreur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

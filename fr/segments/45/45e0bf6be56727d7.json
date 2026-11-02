@@ -1,0 +1,14 @@
+{
+  "hash": "45e0bf6be56727d7",
+  "source": "If you prefer to keep tests next to your source files, you can use file suffixes such as {0}, {1} and {2} instead, with matching {3} globs (for example, {4}). See the {5}co-location example{/5} for a full configuration.",
+  "text": "Si vous préférez garder les tests à côté de vos fichiers source, vous pouvez utiliser à la place des suffixes de fichier tels que {0}, {1} et {2}, avec des globs {3} correspondants (par exemple, {4}). Consultez l'{5}exemple de colocalisation{/5} pour une configuration complète.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous préférez garder les tests à côté de vos fichiers source, vous pouvez utiliser à la place des suffixes de fichier tels que {0}, {1} et {2}, avec des globs {3} correspondants (par exemple, {4}). Consultez l'{5}exemple de colocalisation{/5} pour une configuration complète."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

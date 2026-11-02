@@ -1,0 +1,14 @@
+{
+  "hash": "261cab5325051caa",
+  "source": "Once it's done you will need to add the following plugin to your Nuxt app:",
+  "text": "Une fois cela fait, vous devrez ajouter le plugin suivant à votre application Nuxt :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une fois cela fait, vous devrez ajouter le plugin suivant à votre application Nuxt :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

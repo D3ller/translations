@@ -1,0 +1,14 @@
+{
+  "hash": "0b9443ea362e0b3f",
+  "source": "{0} covers request and response work: handlers, errors, router params, query and body reading and validation, headers, CORS, cookies, sessions, redirects, route rules, runtime config, app config, in-process fetch with {1} and runtime hooks with {2}. But Nitro covers a lot more, so if you need any of these areas, you might need to stay on Nitro's own imports inside a {3} or {4} file.",
+  "text": "{0} couvre le travail sur les requêtes et les réponses : handlers, erreurs, paramètres du routeur, lecture et validation de la query et du body, en-têtes, CORS, cookies, sessions, redirections, règles de route, runtime config, app config, fetch en cours de processus avec {1} et hooks d'exécution avec {2}. Mais Nitro couvre bien plus, donc si vous avez besoin de l'un de ces domaines, vous devrez peut-être conserver les imports propres à Nitro dans un fichier {3} ou {4}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} couvre le travail sur les requêtes et les réponses : handlers, erreurs, paramètres du routeur, lecture et validation de la query et du body, en-têtes, CORS, cookies, sessions, redirections, règles de route, runtime config, app config, fetch en cours de processus avec {1} et hooks d'exécution avec {2}. Mais Nitro couvre bien plus, donc si vous avez besoin de l'un de ces domaines, vous devrez peut-être conserver les imports propres à Nitro dans un fichier {3} ou {4}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

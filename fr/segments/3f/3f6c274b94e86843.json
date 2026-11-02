@@ -1,0 +1,14 @@
+{
+  "hash": "3f6c274b94e86843",
+  "source": "It includes links to the Nuxt documentation, source code, and social media accounts.",
+  "text": "Il inclut des liens vers la documentation de Nuxt, le code source et les comptes de réseaux sociaux.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Il inclut des liens vers la documentation de Nuxt, le code source et les comptes de réseaux sociaux."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

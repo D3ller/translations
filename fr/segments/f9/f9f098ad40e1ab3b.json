@@ -1,0 +1,14 @@
+{
+  "hash": "f9f098ad40e1ab3b",
+  "source": "{0} was called with a key that is not a string. The key is used to track whether the function has already run, so it must be a non-empty string.",
+  "text": "{0} a été appelé avec une clé qui n'est pas une chaîne de caractères. La clé sert à suivre si la fonction a déjà été exécutée ; elle doit donc être une chaîne de caractères non vide.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} a été appelé avec une clé qui n'est pas une chaîne de caractères. La clé sert à suivre si la fonction a déjà été exécutée ; elle doit donc être une chaîne de caractères non vide."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

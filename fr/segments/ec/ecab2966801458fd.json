@@ -1,0 +1,14 @@
+{
+  "hash": "ecab2966801458fd",
+  "source": "{0} is a composable meant to be called directly in a setup function, plugin, or route middleware, because it needs to add data to the Nuxt payload to avoid re-calling the function on the client when the page hydrates.",
+  "text": "{0} est un composable destiné à être appelé directement dans une fonction setup, un plugin ou un middleware de route, car il doit ajouter des données au payload (charge utile) de Nuxt afin d'éviter de rappeler la fonction sur le client lors de l'hydratation de la page.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est un composable destiné à être appelé directement dans une fonction setup, un plugin ou un middleware de route, car il doit ajouter des données au payload (charge utile) de Nuxt afin d'éviter de rappeler la fonction sur le client lors de l'hydratation de la page."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

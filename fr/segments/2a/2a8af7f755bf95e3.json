@@ -1,0 +1,14 @@
+{
+  "hash": "2a8af7f755bf95e3",
+  "source": "Awaiting Promises After Response",
+  "text": "Attendre des promesses après la réponse",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Attendre des promesses après la réponse"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

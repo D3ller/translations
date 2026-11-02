@@ -1,0 +1,14 @@
+{
+  "hash": "b5dcec9e3451b089",
+  "source": "other Nuxt config you want to pass",
+  "text": "autre configuration Nuxt que vous souhaitez transmettre",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "autre configuration Nuxt que vous souhaitez transmettre"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

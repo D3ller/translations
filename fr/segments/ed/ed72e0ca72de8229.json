@@ -1,0 +1,14 @@
+{
+  "hash": "ed72e0ca72de8229",
+  "source": "Nuxt will automatically wrap your page in {0}the Vue {1} component{/0} if you set {2} in your {3}. This might be useful to do, for example, in a parent route that has dynamic child routes, if you want to preserve page state across route changes.",
+  "text": "Nuxt enveloppera automatiquement votre page dans {0}le composant {1} de Vue{/0} si vous définissez {2} dans votre {3}. Cela peut être utile, par exemple, dans une route parente qui possède des routes enfants dynamiques, si vous souhaitez conserver l'état de la page entre les changements de route.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt enveloppera automatiquement votre page dans {0}le composant {1} de Vue{/0} si vous définissez {2} dans votre {3}. Cela peut être utile, par exemple, dans une route parente qui possède des routes enfants dynamiques, si vous souhaitez conserver l'état de la page entre les changements de route."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

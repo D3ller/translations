@@ -1,0 +1,14 @@
+{
+  "hash": "79a57ce43774261e",
+  "source": "**Type**: Provide the relevant TypeScript declarations.",
+  "text": "**Type** : fournissez les déclarations TypeScript pertinentes.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Type** : fournissez les déclarations TypeScript pertinentes."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

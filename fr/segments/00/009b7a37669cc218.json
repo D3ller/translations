@@ -1,0 +1,14 @@
+{
+  "hash": "009b7a37669cc218",
+  "source": "clientFallback",
+  "text": "clientFallback",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "clientFallback"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

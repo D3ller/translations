@@ -1,0 +1,14 @@
+{
+  "hash": "83bf839dd978e1a6",
+  "source": "Learn how to use TypeScript with Nuxt Bridge.",
+  "text": "Découvrez comment utiliser TypeScript avec Nuxt Bridge.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Découvrez comment utiliser TypeScript avec Nuxt Bridge."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

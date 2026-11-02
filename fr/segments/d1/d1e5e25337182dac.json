@@ -1,0 +1,14 @@
+{
+  "hash": "d1e5e25337182dac",
+  "source": "Each part is a separate switch, so you can migrate one at a time:",
+  "text": "Chaque partie est un réglage distinct, vous pouvez donc migrer une partie à la fois :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Chaque partie est un réglage distinct, vous pouvez donc migrer une partie à la fois :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

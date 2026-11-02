@@ -1,0 +1,14 @@
+{
+  "hash": "136152e8092b4d03",
+  "source": "A {0} attribute of {1} is applied by default to links with a {2} attribute or to absolute links (e.g., links starting with {3}, {4}, or {5}).",
+  "text": "Un attribut {0} de valeur {1} est appliqué par défaut aux liens ayant un attribut {2} ou aux liens absolus (par exemple, les liens commençant par {3}, {4} ou {5}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un attribut {0} de valeur {1} est appliqué par défaut aux liens ayant un attribut {2} ou aux liens absolus (par exemple, les liens commençant par {3}, {4} ou {5})."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

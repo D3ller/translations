@@ -1,0 +1,14 @@
+{
+  "hash": "0f77fb6416bc872e",
+  "source": "GitHub Copilot CLI",
+  "text": "CLI GitHub Copilot",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "CLI GitHub Copilot"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

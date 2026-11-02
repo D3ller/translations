@@ -1,0 +1,14 @@
+{
+  "hash": "db1b90e81e18c37c",
+  "source": "Types placed in {0} are auto-imported in the server context only, so you can reference them in server routes, middleware, plugins, and utilities without importing them. Types that are also needed in the Vue app belong in {1} instead.",
+  "text": "Les types placés dans {0} sont importés automatiquement uniquement dans le contexte serveur ; vous pouvez donc y faire référence dans les routes serveur, les middleware, les plugins et les utilitaires sans les importer. Les types qui sont également nécessaires dans l'application Vue doivent plutôt se trouver dans {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les types placés dans {0} sont importés automatiquement uniquement dans le contexte serveur ; vous pouvez donc y faire référence dans les routes serveur, les middleware, les plugins et les utilitaires sans les importer. Les types qui sont également nécessaires dans l'application Vue doivent plutôt se trouver dans {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

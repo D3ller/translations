@@ -1,0 +1,14 @@
+{
+  "hash": "6a16ed336f8295e6",
+  "source": "Paired with a Client component",
+  "text": "Associé à un composant client",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Associé à un composant client"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "f18722d28d4698eb",
+  "source": "{0} - redirects to the given path and will set the redirect code to {1}{2} Found{/1} if the redirect happens on the server side",
+  "text": "{0} - redirige vers le chemin donné et définit le code de redirection sur {1}{2} Found{/1} si la redirection a lieu côté serveur",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} - redirige vers le chemin donné et définit le code de redirection sur {1}{2} Found{/1} si la redirection a lieu côté serveur"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

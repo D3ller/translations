@@ -1,0 +1,14 @@
+{
+  "hash": "12264a2af5a06779",
+  "source": "Nitro provides a cross-platform {0}storage layer{/0}. In order to configure additional storage mount points, you can use {1}, or {2}server plugins{/2}.",
+  "text": "Nitro fournit une {0}couche de stockage{/0} multiplateforme. Pour configurer des points de montage de stockage supplémentaires, vous pouvez utiliser {1} ou des {2}plugins serveur{/2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nitro fournit une {0}couche de stockage{/0} multiplateforme. Pour configurer des points de montage de stockage supplémentaires, vous pouvez utiliser {1} ou des {2}plugins serveur{/2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

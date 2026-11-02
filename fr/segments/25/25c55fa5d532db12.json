@@ -1,0 +1,14 @@
+{
+  "hash": "25c55fa5d532db12",
+  "source": "Default configuration options for your module, can also be a function returning those",
+  "text": "Options de configuration par défaut de votre module, peut aussi être une fonction qui les retourne",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Options de configuration par défaut de votre module, peut aussi être une fonction qui les retourne"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

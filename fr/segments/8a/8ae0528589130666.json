@@ -1,0 +1,14 @@
+{
+  "hash": "8ae0528589130666",
+  "source": "Route rule patterns now follow the {0}URLPattern{/0} syntax. A {1} matches any number of segments rather than exactly one, so a rule keyed {2} also applies to {3}. To match a single segment, use a named parameter:",
+  "text": "Les motifs des règles de route suivent désormais la syntaxe {0}URLPattern{/0}. Un {1} correspond à un nombre quelconque de segments plutôt qu'à exactement un, de sorte qu'une règle dont la clé est {2} s'applique aussi à {3}. Pour correspondre à un seul segment, utilisez un paramètre nommé :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les motifs des règles de route suivent désormais la syntaxe {0}URLPattern{/0}. Un {1} correspond à un nombre quelconque de segments plutôt qu'à exactement un, de sorte qu'une règle dont la clé est {2} s'applique aussi à {3}. Pour correspondre à un seul segment, utilisez un paramètre nommé :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "4a36f0c05d340b84",
+  "source": "Publishing the module to npm (for that purpose, the module will be built again to ensure its updated version number is taken into account in the published artifact)",
+  "text": "Publiant le module sur npm (pour cela, le module est compilé à nouveau afin que son numéro de version mis à jour soit pris en compte dans l'artefact publié)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Publiant le module sur npm (pour cela, le module est compilé à nouveau afin que son numéro de version mis à jour soit pris en compte dans l'artefact publié)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

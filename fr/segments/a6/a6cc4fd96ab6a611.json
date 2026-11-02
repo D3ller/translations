@@ -1,0 +1,14 @@
+{
+  "hash": "a6cc4fd96ab6a611",
+  "source": "If set to true, this will type check in development. You can restrict this to build-time type checking by setting it to {0}. Requires to install {1} and {2} as dev dependencies.",
+  "text": "Si cette option est définie sur true, la vérification des types sera effectuée en développement. Vous pouvez la restreindre à la vérification des types au moment du build en la définissant sur {0}. Nécessite d'installer {1} et {2} comme dépendances de développement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si cette option est définie sur true, la vérification des types sera effectuée en développement. Vous pouvez la restreindre à la vérification des types au moment du build en la définissant sur {0}. Nécessite d'installer {1} et {2} comme dépendances de développement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

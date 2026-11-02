@@ -1,0 +1,14 @@
+{
+  "hash": "722b8d6a3e3f688b",
+  "source": "When a font isn't picked up",
+  "text": "Quand une police n'est pas détectée",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Quand une police n'est pas détectée"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

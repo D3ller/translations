@@ -1,0 +1,14 @@
+{
+  "hash": "5ac3e531d6bce265",
+  "source": "This approach separates breaking changes into manageable phases, allowing for better ecosystem testing and smoother migrations.",
+  "text": "Cette approche répartit les changements cassants en phases gérables, ce qui permet de mieux tester l'écosystème et de faciliter les migrations.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cette approche répartit les changements cassants en phases gérables, ce qui permet de mieux tester l'écosystème et de faciliter les migrations."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

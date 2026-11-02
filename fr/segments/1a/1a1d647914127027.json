@@ -1,0 +1,14 @@
+{
+  "hash": "1a1d647914127027",
+  "source": "{0} serves over TLS, generating a locally-trusted certificate with {1} when it is installed and a self-signed one otherwise. {2} and {3} use a certificate you already have, and {4} with {5} a PKCS#12 keystore.",
+  "text": "{0} sert via TLS, en générant un certificat approuvé localement avec {1} lorsqu'il est installé, et un certificat auto-signé sinon. {2} et {3} utilisent un certificat que vous possédez déjà, et {4} avec {5} un keystore PKCS#12.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} sert via TLS, en générant un certificat approuvé localement avec {1} lorsqu'il est installé, et un certificat auto-signé sinon. {2} et {3} utilisent un certificat que vous possédez déjà, et {4} avec {5} un keystore PKCS#12."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

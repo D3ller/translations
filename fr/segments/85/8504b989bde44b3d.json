@@ -1,0 +1,14 @@
+{
+  "hash": "8504b989bde44b3d",
+  "source": "Enable the Node.js inspector for server code ({0}), and for the CLI process on the next port",
+  "text": "Activez l'inspecteur Node.js pour le code serveur ({0}), ainsi que pour le processus CLI sur le port suivant",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Activez l'inspecteur Node.js pour le code serveur ({0}), ainsi que pour le processus CLI sur le port suivant"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

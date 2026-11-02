@@ -1,0 +1,14 @@
+{
+  "hash": "7f59acef38c30e2d",
+  "source": "Interact with the fixture using utilities from {0} (e.g. fetching a page)",
+  "text": "Interagissez avec la fixture à l'aide des utilitaires de {0} (par exemple, pour récupérer une page)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Interagissez avec la fixture à l'aide des utilitaires de {0} (par exemple, pour récupérer une page)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

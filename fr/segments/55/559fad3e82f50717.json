@@ -1,0 +1,14 @@
+{
+  "hash": "559fad3e82f50717",
+  "source": "You can also pair a {0} component with a {1} component of the same name for {2}separate server and client implementations{/2}. In that case the component is not an island: the client half hydrates normally.",
+  "text": "Vous pouvez aussi associer un composant {0} à un composant {1} du même nom pour obtenir {2}des implémentations serveur et client distinctes{/2}. Dans ce cas, le composant n'est pas une island : la partie client s'hydrate normalement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez aussi associer un composant {0} à un composant {1} du même nom pour obtenir {2}des implémentations serveur et client distinctes{/2}. Dans ce cas, le composant n'est pas une island : la partie client s'hydrate normalement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

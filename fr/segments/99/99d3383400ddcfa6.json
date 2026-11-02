@@ -1,0 +1,14 @@
+{
+  "hash": "99d3383400ddcfa6",
+  "source": "The clearError composable clears all handled errors.",
+  "text": "Le composable clearError efface toutes les erreurs gérées.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le composable clearError efface toutes les erreurs gérées."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

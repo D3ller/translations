@@ -1,0 +1,14 @@
+{
+  "hash": "479aef93c62c4e4f",
+  "source": "HTTP method (default: GET, or POST when a body is provided)",
+  "text": "Méthode HTTP (par défaut : GET, ou POST lorsqu'un corps est fourni)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Méthode HTTP (par défaut : GET, ou POST lorsqu'un corps est fourni)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "b636445a0eb7392e",
+  "source": "If you need help while building it, feel free to {0}check in with us{/0}.",
+  "text": "Si vous avez besoin d'aide pendant son développement, n'hésitez pas à {0}nous contacter{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous avez besoin d'aide pendant son développement, n'hésitez pas à {0}nous contacter{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "589e1fd9331538f9",
+  "source": "Allows extending Vite default config. **Deprecated in Nuxt 5+.** In Nuxt 5, this operates on a shared configuration rather than separate client/server configs.",
+  "text": "Permet d'étendre la configuration par défaut de Vite. **Déprécié dans Nuxt 5+.** Dans Nuxt 5, cela agit sur une configuration partagée plutôt que sur des configurations client/serveur distinctes.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Permet d'étendre la configuration par défaut de Vite. **Déprécié dans Nuxt 5+.** Dans Nuxt 5, cela agit sur une configuration partagée plutôt que sur des configurations client/serveur distinctes."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

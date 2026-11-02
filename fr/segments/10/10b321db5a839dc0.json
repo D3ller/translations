@@ -1,0 +1,14 @@
+{
+  "hash": "10b321db5a839dc0",
+  "source": "Compiler-hint helper called at runtime.",
+  "text": "Helper d'indication pour le compilateur appelé à l'exécution.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Helper d'indication pour le compilateur appelé à l'exécution."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

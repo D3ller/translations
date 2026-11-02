@@ -1,0 +1,14 @@
+{
+  "hash": "b0ea2816b3fe06d7",
+  "source": "By default, component islands are scanned from the {0} directory. So the {1} component could be rendered with {2}.",
+  "text": "Par défaut, les islands de composants sont recherchées dans le répertoire {0}. Le composant {1} peut donc être rendu avec {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par défaut, les islands de composants sont recherchées dans le répertoire {0}. Le composant {1} peut donc être rendu avec {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

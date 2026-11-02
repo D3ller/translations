@@ -1,0 +1,14 @@
+{
+  "hash": "3b0754b435f9a60a",
+  "source": "Fonts are served from {0} in Vite builds",
+  "text": "Les polices sont servies depuis {0} dans les builds Vite",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les polices sont servies depuis {0} dans les builds Vite"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

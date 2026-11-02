@@ -1,0 +1,14 @@
+{
+  "hash": "4f4762098c409d8f",
+  "source": "Please make sure your PR title adheres to the {0}conventional commits{/0} guidelines.",
+  "text": "Veuillez vous assurer que le titre de votre PR respecte les directives des {0}conventional commits{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Veuillez vous assurer que le titre de votre PR respecte les directives des {0}conventional commits{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

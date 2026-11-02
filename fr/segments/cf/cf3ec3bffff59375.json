@@ -1,0 +1,14 @@
+{
+  "hash": "cf3ec3bffff59375",
+  "source": "Core Modules Roadmap",
+  "text": "Feuille de route des modules principaux",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Feuille de route des modules principaux"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

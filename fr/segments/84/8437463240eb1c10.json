@@ -1,0 +1,14 @@
+{
+  "hash": "8437463240eb1c10",
+  "source": "Enable native async context to be accessible for nested composables in Nuxt and in Nitro. This opens the possibility to use composables inside async composables and reduce the chance to get the {0} error.",
+  "text": "Active le contexte asynchrone natif pour le rendre accessible aux composables imbriqués dans Nuxt et dans Nitro. Cela permet d'utiliser des composables à l'intérieur de composables asynchrones et réduit le risque d'obtenir l'erreur {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Active le contexte asynchrone natif pour le rendre accessible aux composables imbriqués dans Nuxt et dans Nitro. Cela permet d'utiliser des composables à l'intérieur de composables asynchrones et réduit le risque d'obtenir l'erreur {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

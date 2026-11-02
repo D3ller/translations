@@ -1,0 +1,14 @@
+{
+  "hash": "4a2d935054bdb306",
+  "source": "When using a composable that requires the Nuxt context inside a non-SFC component, you need to wrap your component with {0} instead of {1}",
+  "text": "Lorsque vous utilisez un composable qui nécessite le contexte Nuxt dans un composant qui n'est pas un SFC, vous devez envelopper votre composant avec {0} au lieu de {1}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque vous utilisez un composable qui nécessite le contexte Nuxt dans un composant qui n'est pas un SFC, vous devez envelopper votre composant avec {0} au lieu de {1}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

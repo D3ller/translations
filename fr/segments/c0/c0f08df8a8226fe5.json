@@ -1,0 +1,14 @@
+{
+  "hash": "c0f08df8a8226fe5",
+  "source": "Pages Hook",
+  "text": "Hook pages",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Hook pages"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

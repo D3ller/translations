@@ -1,0 +1,14 @@
+{
+  "hash": "77b4a0c29a90be17",
+  "source": "Prefer using {0} for dynamic plugin generation. Avoid setting {1} unless necessary.",
+  "text": "Privilégiez {0} pour la génération dynamique de plugins. Évitez de définir {1} sauf en cas de nécessité.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Privilégiez {0} pour la génération dynamique de plugins. Évitez de définir {1} sauf en cas de nécessité."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

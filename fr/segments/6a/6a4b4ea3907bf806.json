@@ -1,0 +1,14 @@
+{
+  "hash": "6a4b4ea3907bf806",
+  "source": "Then, when you use a {0} in your CSS, we check to see whether it matches one of these files. By default, we expect the font file to be the {1} weight, {2} style, and {3} subset. To indicate different weights and styles, please include that information in the filename. For example {4} (400/normal/latin; defaults), {5} (700/italic/cyrillic), or for variable fonts {6} (100 900/normal/latin). Named weights are accepted in place of a weight number: {7}. {8} values with spaces and/or caps will lookup hyphenated lowercase filenames as well, eg {9} will look for {10} as well as {11} on disk.",
+  "text": "Ensuite, lorsque vous utilisez une {0} dans votre CSS, nous vérifions si elle correspond à l'un de ces fichiers. Par défaut, nous attendons que le fichier de police ait la graisse {1}, le style {2} et le sous-ensemble {3}. Pour indiquer d'autres graisses et styles, veuillez inclure cette information dans le nom du fichier. Par exemple {4} (400/normal/latin ; valeurs par défaut), {5} (700/italic/cyrillic), ou pour les polices variables {6} (100 900/normal/latin). Des noms de graisse sont acceptés à la place d'un nombre : {7}. Les valeurs de {8} contenant des espaces et/ou des majuscules recherchent également des noms de fichiers en minuscules séparés par des traits d'union, par exemple {9} recherchera {10} ainsi que {11} sur le disque.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ensuite, lorsque vous utilisez une {0} dans votre CSS, nous vérifions si elle correspond à l'un de ces fichiers. Par défaut, nous attendons que le fichier de police ait la graisse {1}, le style {2} et le sous-ensemble {3}. Pour indiquer d'autres graisses et styles, veuillez inclure cette information dans le nom du fichier. Par exemple {4} (400/normal/latin ; valeurs par défaut), {5} (700/italic/cyrillic), ou pour les polices variables {6} (100 900/normal/latin). Des noms de graisse sont acceptés à la place d'un nombre : {7}. Les valeurs de {8} contenant des espaces et/ou des majuscules recherchent également des noms de fichiers en minuscules séparés par des traits d'union, par exemple {9} recherchera {10} ainsi que {11} sur le disque."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

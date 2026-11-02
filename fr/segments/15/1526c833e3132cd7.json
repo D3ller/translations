@@ -1,0 +1,14 @@
+{
+  "hash": "1526c833e3132cd7",
+  "source": "Each handler accepts the following options:",
+  "text": "Chaque gestionnaire accepte les options suivantes :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Chaque gestionnaire accepte les options suivantes :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

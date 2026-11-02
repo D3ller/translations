@@ -1,0 +1,14 @@
+{
+  "hash": "f063312b739d7ae2",
+  "source": "If you want to type the result of calling {0}, then you will want to extend {1}.",
+  "text": "Si vous souhaitez typer le résultat de l'appel de {0}, vous devrez étendre {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous souhaitez typer le résultat de l'appel de {0}, vous devrez étendre {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

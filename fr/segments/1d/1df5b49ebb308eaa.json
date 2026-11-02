@@ -1,0 +1,14 @@
+{
+  "hash": "1df5b49ebb308eaa",
+  "source": "Users can access the static content when the HTML document is loaded. Hydration then allows page's interactivity",
+  "text": "Les utilisateurs peuvent accéder au contenu statique dès le chargement du document HTML. L'hydratation permet ensuite l'interactivité de la page",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les utilisateurs peuvent accéder au contenu statique dès le chargement du document HTML. L'hydratation permet ensuite l'interactivité de la page"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

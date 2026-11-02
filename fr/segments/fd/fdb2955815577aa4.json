@@ -1,0 +1,14 @@
+{
+  "hash": "fdb2955815577aa4",
+  "source": "{0}: Works the same as {1}Vue Router's {2} prop{/1} on internal links",
+  "text": "{0} : fonctionne comme la {1}prop {2} de Vue Router{/1} sur les liens internes",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : fonctionne comme la {1}prop {2} de Vue Router{/1} sur les liens internes"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "a596fc2609bf6114",
+  "source": "Array of reactive sources to watch and auto-refresh.",
+  "text": "Tableau de sources réactives à surveiller et à rafraîchir automatiquement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Tableau de sources réactives à surveiller et à rafraîchir automatiquement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

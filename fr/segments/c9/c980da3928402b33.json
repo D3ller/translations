@@ -1,0 +1,14 @@
+{
+  "hash": "c980da3928402b33",
+  "source": "Learn how to migrate from Nuxt 2 to Nuxt 3 server.",
+  "text": "Découvrez comment migrer le serveur de Nuxt 2 vers Nuxt 3.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Découvrez comment migrer le serveur de Nuxt 2 vers Nuxt 3."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

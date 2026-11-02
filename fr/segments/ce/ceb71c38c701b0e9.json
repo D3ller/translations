@@ -1,0 +1,14 @@
+{
+  "hash": "ceb71c38c701b0e9",
+  "source": "The {0} is needed with {1}, which reads anything flag-shaped after the initializer as npm's own config and warns {2} instead of passing it on. Other package managers forward the whole command line as it is, so pass the flags to them directly: {3}.",
+  "text": "Le {0} est nécessaire avec {1}, qui interprète tout ce qui ressemble à un flag après l'initialiseur comme sa propre configuration npm et affiche l'avertissement {2} au lieu de le transmettre. Les autres gestionnaires de packages transmettent telle quelle toute la ligne de commande ; passez-leur donc directement les flags : {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le {0} est nécessaire avec {1}, qui interprète tout ce qui ressemble à un flag après l'initialiseur comme sa propre configuration npm et affiche l'avertissement {2} au lieu de le transmettre. Les autres gestionnaires de packages transmettent telle quelle toute la ligne de commande ; passez-leur donc directement les flags : {3}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

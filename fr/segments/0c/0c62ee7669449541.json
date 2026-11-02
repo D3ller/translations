@@ -1,0 +1,14 @@
+{
+  "hash": "0c62ee7669449541",
+  "source": "Leave {0} as {1} (its default) when the build produces no inline styles; the runtime falls back to an empty styles map.",
+  "text": "Laissez {0} à {1} (sa valeur par défaut) lorsque le build ne produit aucun style en ligne ; le runtime se rabat alors sur une map de styles vide.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Laissez {0} à {1} (sa valeur par défaut) lorsque le build ne produit aucun style en ligne ; le runtime se rabat alors sur une map de styles vide."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

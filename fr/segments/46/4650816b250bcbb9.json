@@ -1,0 +1,14 @@
+{
+  "hash": "4650816b250bcbb9",
+  "source": "{0} - For your build-time code (modules, {1}, etc.)",
+  "text": "{0} - Pour votre code exécuté au moment du build (modules, {1}, etc.)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} - Pour votre code exécuté au moment du build (modules, {1}, etc.)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

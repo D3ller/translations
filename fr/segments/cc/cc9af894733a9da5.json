@@ -1,0 +1,14 @@
+{
+  "hash": "cc9af894733a9da5",
+  "source": "Nuxt 3 is an {0}ESM native framework{/0}. Although {1} provides semi compatibility when loading {2} file, avoid any usage of {3} and {4} in this file.",
+  "text": "Nuxt 3 est un {0}framework nativement ESM{/0}. Bien que {1} offre une compatibilité partielle lors du chargement du fichier {2}, évitez toute utilisation de {3} et {4} dans ce fichier.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt 3 est un {0}framework nativement ESM{/0}. Bien que {1} offre une compatibilité partielle lors du chargement du fichier {2}, évitez toute utilisation de {3} et {4} dans ce fichier."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

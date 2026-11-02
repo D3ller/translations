@@ -1,0 +1,14 @@
+{
+  "hash": "852320dd8720c9e0",
+  "source": "When configuring a custom {0}, make sure to place the {1} file at the root of the new {2} path.",
+  "text": "Lorsque vous configurez un {0} personnalisé, veillez à placer le fichier {1} à la racine du nouveau chemin {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque vous configurez un {0} personnalisé, veillez à placer le fichier {1} à la racine du nouveau chemin {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "22040fb144f01e69",
+  "source": "Making Vue component libraries with automatic tree-shaking and component registration is super easy. ✨",
+  "text": "Créer des bibliothèques de composants Vue avec tree-shaking et enregistrement automatique des composants est très simple. ✨",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Créer des bibliothèques de composants Vue avec tree-shaking et enregistrement automatique des composants est très simple. ✨"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

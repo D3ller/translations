@@ -1,0 +1,14 @@
+{
+  "hash": "b790305da6267865",
+  "source": "Auto-scanned layers (from your {0} directory) automatically create aliases. For example, you can access your {1} layer via {2}.",
+  "text": "Les layers analysés automatiquement (depuis votre répertoire {0}) créent automatiquement des alias. Par exemple, vous pouvez accéder à votre layer {1} via {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les layers analysés automatiquement (depuis votre répertoire {0}) créent automatiquement des alias. Par exemple, vous pouvez accéder à votre layer {1} via {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

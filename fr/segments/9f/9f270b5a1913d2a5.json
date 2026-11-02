@@ -1,0 +1,14 @@
+{
+  "hash": "9f270b5a1913d2a5",
+  "source": "Body Teleport",
+  "text": "Teleport vers le body",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Teleport vers le body"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

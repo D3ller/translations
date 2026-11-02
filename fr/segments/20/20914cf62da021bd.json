@@ -1,0 +1,14 @@
+{
+  "hash": "20914cf62da021bd",
+  "source": "If server middleware throws for page routes to show the error page, move the check into {0}route middleware{/0}. Route middleware runs during the page render, so an error it throws returns the error page:",
+  "text": "Si un middleware serveur lève une erreur pour les routes de pages afin d'afficher la page d'erreur, déplacez la vérification dans un {0}middleware de route{/0}. Le middleware de route s'exécute pendant le rendu de la page, donc une erreur qu'il lève renvoie la page d'erreur :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si un middleware serveur lève une erreur pour les routes de pages afin d'afficher la page d'erreur, déplacez la vérification dans un {0}middleware de route{/0}. Le middleware de route s'exécute pendant le rendu de la page, donc une erreur qu'il lève renvoie la page d'erreur :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

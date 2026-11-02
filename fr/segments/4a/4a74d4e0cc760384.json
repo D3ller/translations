@@ -1,0 +1,14 @@
+{
+  "hash": "4a74d4e0cc760384",
+  "source": "You can optionally disable some features from bridge or opt-in to less stable ones. In normal circumstances, it is always best to stick with defaults!",
+  "text": "Vous pouvez désactiver certaines fonctionnalités de Bridge ou activer des fonctionnalités moins stables. Dans des circonstances normales, il est toujours préférable de conserver les valeurs par défaut !",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez désactiver certaines fonctionnalités de Bridge ou activer des fonctionnalités moins stables. Dans des circonstances normales, il est toujours préférable de conserver les valeurs par défaut !"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

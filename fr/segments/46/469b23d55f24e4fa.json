@@ -1,0 +1,14 @@
+{
+  "hash": "469b23d55f24e4fa",
+  "source": "\"Search documentation about composables\"",
+  "text": "« Recherche dans la documentation des informations sur les composables »",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "« Recherche dans la documentation des informations sur les composables »"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

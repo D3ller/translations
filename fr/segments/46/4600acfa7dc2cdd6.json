@@ -1,0 +1,14 @@
+{
+  "hash": "4600acfa7dc2cdd6",
+  "source": "**description**: Screen reader announcement urgency level",
+  "text": "**description** : le niveau d'urgence de l'annonce pour les lecteurs d'écran",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**description** : le niveau d'urgence de l'annonce pour les lecteurs d'écran"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

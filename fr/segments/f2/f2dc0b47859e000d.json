@@ -1,0 +1,14 @@
+{
+  "hash": "f2dc0b47859e000d",
+  "source": "If it suits your app, you can go further and move focus to the main region after every navigation from a plugin:",
+  "text": "Si cela convient à votre application, vous pouvez aller plus loin et déplacer le focus vers la région principale après chaque navigation depuis un plugin :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si cela convient à votre application, vous pouvez aller plus loin et déplacer le focus vers la région principale après chaque navigation depuis un plugin :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

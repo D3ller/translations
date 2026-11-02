@@ -1,0 +1,14 @@
+{
+  "hash": "dd7bbbc2e325a794",
+  "source": "Append Vite plugin to the config.",
+  "text": "Ajoute un plugin Vite à la configuration.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ajoute un plugin Vite à la configuration."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

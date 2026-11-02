@@ -1,0 +1,14 @@
+{
+  "hash": "a67a324d93f3088d",
+  "source": "use the current date, e.g. the day you add this line",
+  "text": "utilisez la date du jour, par exemple le jour où vous ajoutez cette ligne",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "utilisez la date du jour, par exemple le jour où vous ajoutez cette ligne"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "9b0cb41efeaca872",
+  "source": "You can of course opt for any test structure, but keeping the Nuxt runtime environment separated from Nuxt end-to-end tests is important for test stability.",
+  "text": "Vous pouvez bien sûr choisir n'importe quelle structure de test, mais il est important pour la stabilité des tests de séparer l'environnement d'exécution Nuxt des tests de bout en bout Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez bien sûr choisir n'importe quelle structure de test, mais il est important pour la stabilité des tests de séparer l'environnement d'exécution Nuxt des tests de bout en bout Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "6f8c77544d7ac36a",
+  "source": "You can also useFetch as shortcut of useAsyncData + $fetch",
+  "text": "Vous pouvez aussi utiliser useFetch comme raccourci de useAsyncData + $fetch",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez aussi utiliser useFetch comme raccourci de useAsyncData + $fetch"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

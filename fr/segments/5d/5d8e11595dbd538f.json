@@ -1,0 +1,14 @@
+{
+  "hash": "5d8e11595dbd538f",
+  "source": "On a fully static site, client-side navigation reuses the data captured at build time, so data can be stale until the next rebuild.",
+  "text": "Sur un site entièrement statique, la navigation côté client réutilise les données capturées au moment du build ; les données peuvent donc être obsolètes jusqu'au prochain rebuild.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sur un site entièrement statique, la navigation côté client réutilise les données capturées au moment du build ; les données peuvent donc être obsolètes jusqu'au prochain rebuild."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

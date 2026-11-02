@@ -1,0 +1,14 @@
+{
+  "hash": "b2828720197075b8",
+  "source": "The watched inputs the output of the template can depend on, beyond {0} and the resolved structure of the app. Set to {1} if the template never reads the contents of a watched file, so that Nuxt can skip recompiling it in dev mode when a file changes without any file being added or removed. List well-known keys if the template reads those sources, or pass a function to decide per change. A template that declares nothing is regenerated on every change, unless it has a {2}, in which case it is regenerated only when that source file changes.",
+  "text": "Les entrées surveillées dont la sortie du template peut dépendre, en plus de {0} et de la structure résolue de l'application. Définissez-le à {1} si le template ne lit jamais le contenu d'un fichier surveillé, afin que Nuxt puisse éviter de le recompiler en mode dev lorsqu'un fichier change sans qu'aucun fichier ne soit ajouté ou supprimé. Listez les clés connues si le template lit ces sources, ou passez une fonction pour décider à chaque changement. Un template qui ne déclare rien est régénéré à chaque changement, sauf s'il possède un {2}, auquel cas il n'est régénéré que lorsque ce fichier source change.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les entrées surveillées dont la sortie du template peut dépendre, en plus de {0} et de la structure résolue de l'application. Définissez-le à {1} si le template ne lit jamais le contenu d'un fichier surveillé, afin que Nuxt puisse éviter de le recompiler en mode dev lorsqu'un fichier change sans qu'aucun fichier ne soit ajouté ou supprimé. Listez les clés connues si le template lit ces sources, ou passez une fonction pour décider à chaque changement. Un template qui ne déclare rien est régénéré à chaque changement, sauf s'il possède un {2}, auquel cas il n'est régénéré que lorsque ce fichier source change."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

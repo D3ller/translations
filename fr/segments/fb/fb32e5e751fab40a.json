@@ -1,0 +1,14 @@
+{
+  "hash": "fb32e5e751fab40a",
+  "source": "Build performant and maintainable Nuxt modules with these guidelines.",
+  "text": "Créez des modules Nuxt performants et maintenables grâce à ces bonnes pratiques.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Créez des modules Nuxt performants et maintenables grâce à ces bonnes pratiques."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

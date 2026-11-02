@@ -1,0 +1,14 @@
+{
+  "hash": "fae089379a808a38",
+  "source": "resolve font faces",
+  "text": "résoudre les font faces",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "résoudre les font faces"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

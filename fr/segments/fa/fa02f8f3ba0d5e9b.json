@@ -1,0 +1,14 @@
+{
+  "hash": "fa02f8f3ba0d5e9b",
+  "source": "Optional, when using transitions",
+  "text": "Facultatif, lors de l'utilisation de transitions",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Facultatif, lors de l'utilisation de transitions"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

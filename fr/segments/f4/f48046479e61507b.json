@@ -1,0 +1,14 @@
+{
+  "hash": "f48046479e61507b",
+  "source": "Any community modules are welcome to be listed on {0}the module list{/0}. To be listed, open a pull request to {1}nuxt/modules{/1}, following the {2}contribution guide{/2}. The Nuxt team can help you to apply best practices before listing.",
+  "text": "Tous les modules communautaires peuvent être référencés dans {0}la liste des modules{/0}. Pour y figurer, ouvrez une pull request sur {1}nuxt/modules{/1}, en suivant le {2}guide de contribution{/2}. L'équipe Nuxt peut vous aider à appliquer les bonnes pratiques avant le référencement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Tous les modules communautaires peuvent être référencés dans {0}la liste des modules{/0}. Pour y figurer, ouvrez une pull request sur {1}nuxt/modules{/1}, en suivant le {2}guide de contribution{/2}. L'équipe Nuxt peut vous aider à appliquer les bonnes pratiques avant le référencement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "557e35851cfa0911",
+  "source": "you can provide SSR-specific props here",
+  "text": "vous pouvez fournir ici des props spécifiques au SSR",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "vous pouvez fournir ici des props spécifiques au SSR"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

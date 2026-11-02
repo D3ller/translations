@@ -1,0 +1,14 @@
+{
+  "hash": "34de11a5a6e38ae3",
+  "source": "Sometimes, you may need to maintain state consistency between the server and the client. Examples include Nuxt's built-in {0} or {1} composables. Nuxt provides a way to register such functions for automatic key injection.",
+  "text": "Parfois, vous pouvez avoir besoin de maintenir la cohérence de l'état entre le serveur et le client. C'est le cas, par exemple, des composables {0} ou {1} intégrés à Nuxt. Nuxt permet d'enregistrer de telles fonctions pour l'injection automatique de clés.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Parfois, vous pouvez avoir besoin de maintenir la cohérence de l'état entre le serveur et le client. C'est le cas, par exemple, des composables {0} ou {1} intégrés à Nuxt. Nuxt permet d'enregistrer de telles fonctions pour l'injection automatique de clés."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

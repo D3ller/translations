@@ -1,0 +1,14 @@
+{
+  "hash": "0fd3bf2fe3befa81",
+  "source": "Pages served without scripts navigate with full-page loads. To keep navigation fast, Nuxt emits a {0}speculation rules{/0} tag on these pages so supporting browsers prefetch and prerender the targets before the user follows a link. The tag is declarative JSON and executes no JavaScript. The rules are scoped to your page routes (which are safe to {1}) rather than every same-origin link, so a link to a server route such as {2} is never speculatively fetched. A catch-all page (for example {3}) matches every path, which widens this back to all same-origin links.",
+  "text": "Les pages servies sans scripts naviguent par chargement complet de la page. Pour conserver une navigation rapide, Nuxt émet sur ces pages une balise de {0}speculation rules{/0} afin que les navigateurs compatibles préchargent et pré-rendent les cibles avant que l'utilisateur ne suive un lien. La balise est du JSON déclaratif et n'exécute aucun JavaScript. Les règles sont limitées aux routes de vos pages (qui peuvent être {1} sans risque) plutôt qu'à tous les liens de même origine, de sorte qu'un lien vers une route serveur telle que {2} n'est jamais récupéré de manière spéculative. Une page fourre-tout (par exemple {3}) correspond à tous les chemins, ce qui élargit de nouveau la portée à tous les liens de même origine.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les pages servies sans scripts naviguent par chargement complet de la page. Pour conserver une navigation rapide, Nuxt émet sur ces pages une balise de {0}speculation rules{/0} afin que les navigateurs compatibles préchargent et pré-rendent les cibles avant que l'utilisateur ne suive un lien. La balise est du JSON déclaratif et n'exécute aucun JavaScript. Les règles sont limitées aux routes de vos pages (qui peuvent être {1} sans risque) plutôt qu'à tous les liens de même origine, de sorte qu'un lien vers une route serveur telle que {2} n'est jamais récupéré de manière spéculative. Une page fourre-tout (par exemple {3}) correspond à tous les chemins, ce qui élargit de nouveau la portée à tous les liens de même origine."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

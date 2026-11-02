@@ -1,0 +1,14 @@
+{
+  "hash": "9409a85e5c2ab040",
+  "source": "Named parent routes will take priority over nested dynamic routes. For the {0} route, {1} will take priority over {2}.{3}Use {4} and {5} to match {6} and {7} with different pages,.",
+  "text": "Les routes parentes nommées sont prioritaires sur les routes dynamiques imbriquées. Pour la route {0}, {1} sera prioritaire sur {2}.{3}Utilisez {4} et {5} pour faire correspondre {6} et {7} à des pages différentes.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les routes parentes nommées sont prioritaires sur les routes dynamiques imbriquées. Pour la route {0}, {1} sera prioritaire sur {2}.{3}Utilisez {4} et {5} pour faire correspondre {6} et {7} à des pages différentes."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

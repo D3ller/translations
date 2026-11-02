@@ -1,0 +1,14 @@
+{
+  "hash": "c482c6bdc21ff75b",
+  "source": "You can define middleware to apply before loading this page. It will be merged with all the other middleware used in any matching parent/child routes. It can be a string, a function (an anonymous/inlined middleware function following {0}the global before guard pattern{/0}), or an array of strings/functions. {1}More about named middleware{/1}.",
+  "text": "Vous pouvez définir un middleware à appliquer avant le chargement de cette page. Il sera fusionné avec tous les autres middleware utilisés dans les routes parentes/enfants correspondantes. Il peut s'agir d'une chaîne de caractères, d'une fonction (une fonction middleware anonyme/inline suivant {0}le modèle de garde globale before{/0}), ou d'un tableau de chaînes/fonctions. {1}En savoir plus sur les middleware nommés{/1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez définir un middleware à appliquer avant le chargement de cette page. Il sera fusionné avec tous les autres middleware utilisés dans les routes parentes/enfants correspondantes. Il peut s'agir d'une chaîne de caractères, d'une fonction (une fonction middleware anonyme/inline suivant {0}le modèle de garde globale before{/0}), ou d'un tableau de chaînes/fonctions. {1}En savoir plus sur les middleware nommés{/1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

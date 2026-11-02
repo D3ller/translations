@@ -1,0 +1,14 @@
+{
+  "hash": "c6c2ee0caa800cf3",
+  "source": "Defaults to true when {0} is enabled.",
+  "text": "Vaut true par défaut lorsque {0} est activé.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vaut true par défaut lorsque {0} est activé."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

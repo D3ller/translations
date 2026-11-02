@@ -1,0 +1,14 @@
+{
+  "hash": "7d015fc155e529b5",
+  "source": "For example, auto-imports are not available in your {0} (but previously this was not flagged by TypeScript). And while IDEs recognized the separate context hinted by {1} in your {2} directory, this was not reflected in type-checking (requiring a separate step).",
+  "text": "Par exemple, les imports automatiques ne sont pas disponibles dans votre {0} (mais cela n'était auparavant pas signalé par TypeScript). Et si les IDE reconnaissaient le contexte distinct suggéré par {1} dans votre répertoire {2}, cela n'était pas reflété dans la vérification des types (ce qui nécessitait une étape séparée).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par exemple, les imports automatiques ne sont pas disponibles dans votre {0} (mais cela n'était auparavant pas signalé par TypeScript). Et si les IDE reconnaissaient le contexte distinct suggéré par {1} dans votre répertoire {2}, cela n'était pas reflété dans la vérification des types (ce qui nécessitait une étape séparée)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

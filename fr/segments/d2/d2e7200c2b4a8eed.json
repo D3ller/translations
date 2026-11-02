@@ -1,0 +1,14 @@
+{
+  "hash": "d2e7200c2b4a8eed",
+  "source": "you can set global vite configuration here",
+  "text": "vous pouvez définir ici la configuration globale de vite",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "vous pouvez définir ici la configuration globale de vite"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

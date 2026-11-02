@@ -1,0 +1,14 @@
+{
+  "hash": "086c3c5c32c924b9",
+  "source": "Click the \"Manage MCPs\" button, then select the \"View raw config\" option",
+  "text": "Cliquez sur le bouton « Manage MCPs », puis sélectionnez l'option « View raw config »",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cliquez sur le bouton « Manage MCPs », puis sélectionnez l'option « View raw config »"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "a7b776f839f9a8ea",
+  "source": "Sets the {0}{1} {2} attribute{/0}.{3}**Note:** This is an attribute that has not yet been fully standardized, and may change in the future.{4}This also means many clients may ignore this attribute until they understand it.{5}More information can be found in the {6}proposal{/6}.",
+  "text": "Définit {0}l'attribut {1} {2}{/0}.{3}**Note :** il s'agit d'un attribut qui n'est pas encore entièrement standardisé et qui pourrait changer à l'avenir.{4}Cela signifie aussi que de nombreux clients peuvent ignorer cet attribut tant qu'ils ne le comprennent pas.{5}Vous trouverez plus d'informations dans la {6}proposition{/6}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définit {0}l'attribut {1} {2}{/0}.{3}**Note :** il s'agit d'un attribut qui n'est pas encore entièrement standardisé et qui pourrait changer à l'avenir.{4}Cela signifie aussi que de nombreux clients peuvent ignorer cet attribut tant qu'ils ne le comprennent pas.{5}Vous trouverez plus d'informations dans la {6}proposition{/6}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

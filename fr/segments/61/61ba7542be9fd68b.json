@@ -1,0 +1,14 @@
+{
+  "hash": "61ba7542be9fd68b",
+  "source": "When no server builder contributes an event type, the event resolves to {0}, the web-standard part every server runtime provides:",
+  "text": "Lorsqu'aucun server builder ne fournit de type d'événement, l'événement correspond à {0}, la partie standard du web que tous les runtimes serveur fournissent :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsqu'aucun server builder ne fournit de type d'événement, l'événement correspond à {0}, la partie standard du web que tous les runtimes serveur fournissent :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

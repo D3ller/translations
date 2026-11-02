@@ -1,0 +1,14 @@
+{
+  "hash": "a975f13abf5c2357",
+  "source": "Module Server Code",
+  "text": "Code serveur des modules",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Code serveur des modules"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "7214902dc012aad7",
+  "source": "You can then access your module options in a plugin, component, the application like any other runtime configuration:",
+  "text": "Vous pouvez ensuite accéder aux options de votre module dans un plugin, un composant ou l'application, comme n'importe quelle autre runtime config :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez ensuite accéder aux options de votre module dans un plugin, un composant ou l'application, comme n'importe quelle autre runtime config :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

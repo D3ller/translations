@@ -1,0 +1,14 @@
+{
+  "hash": "0fa929ecdca1fb24",
+  "source": "Keep in mind that all options extended from {0} will be overwritten by the options defined in your {1}. Overwriting options such as {2} with your own configuration will lead TypeScript to not factor in the module resolutions from {3}. This can lead to module resolutions such as {4} not being recognized.",
+  "text": "Gardez à l'esprit que toutes les options héritées de {0} seront écrasées par les options définies dans votre {1}. Écraser des options telles que {2} avec votre propre configuration empêchera TypeScript de prendre en compte les résolutions de modules de {3}. Cela peut conduire à ce que des résolutions de modules telles que {4} ne soient pas reconnues.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Gardez à l'esprit que toutes les options héritées de {0} seront écrasées par les options définies dans votre {1}. Écraser des options telles que {2} avec votre propre configuration empêchera TypeScript de prendre en compte les résolutions de modules de {3}. Cela peut conduire à ce que des résolutions de modules telles que {4} ne soient pas reconnues."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

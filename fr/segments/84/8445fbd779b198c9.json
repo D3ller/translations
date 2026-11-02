@@ -1,0 +1,14 @@
+{
+  "hash": "8445fbd779b198c9",
+  "source": "Pass a relative path instead of a full URL:",
+  "text": "Passez plutôt un chemin relatif au lieu d'une URL complète :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Passez plutôt un chemin relatif au lieu d'une URL complète :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

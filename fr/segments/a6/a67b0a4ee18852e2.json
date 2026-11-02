@@ -1,0 +1,14 @@
+{
+  "hash": "a67b0a4ee18852e2",
+  "source": "file.url: '/_nuxt/fonts/<hash>.woff2', matching a {0} URL in {1}",
+  "text": "file.url : '/_nuxt/fonts/<hash>.woff2', correspondant à une URL {0} dans {1}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "file.url : '/_nuxt/fonts/<hash>.woff2', correspondant à une URL {0} dans {1}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

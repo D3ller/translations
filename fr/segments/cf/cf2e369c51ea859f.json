@@ -1,0 +1,14 @@
+{
+  "hash": "cf2e369c51ea859f",
+  "source": "Upgrading to v0.14",
+  "text": "Mise à niveau vers la v0.14",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mise à niveau vers la v0.14"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

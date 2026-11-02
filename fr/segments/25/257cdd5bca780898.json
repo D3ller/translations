@@ -1,0 +1,14 @@
+{
+  "hash": "257cdd5bca780898",
+  "source": "If you choose not to use {0} in your app, you can use the {1} method within your component definition:",
+  "text": "Si vous choisissez de ne pas utiliser {0} dans votre application, vous pouvez utiliser la méthode {1} dans la définition de votre composant :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous choisissez de ne pas utiliser {0} dans votre application, vous pouvez utiliser la méthode {1} dans la définition de votre composant :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "9921596cd2295fa6",
+  "source": "Make sure that any unique key of your data is always resolvable to the same data. For example, if you are using {0} to fetch data related to a particular page, you should provide a key that uniquely matches that data. ({1} should do this automatically for you.)",
+  "text": "Assurez-vous que toute clé unique de vos données renvoie toujours aux mêmes données. Par exemple, si vous utilisez {0} pour récupérer des données liées à une page particulière, vous devez fournir une clé qui correspond de manière unique à ces données. ({1} devrait le faire automatiquement pour vous.)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Assurez-vous que toute clé unique de vos données renvoie toujours aux mêmes données. Par exemple, si vous utilisez {0} pour récupérer des données liées à une page particulière, vous devez fournir une clé qui correspond de manière unique à ces données. ({1} devrait le faire automatiquement pour vous.)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

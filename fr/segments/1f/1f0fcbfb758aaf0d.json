@@ -1,0 +1,14 @@
+{
+  "hash": "1f0fcbfb758aaf0d",
+  "source": "1 hour, or false to disable",
+  "text": "1 heure, ou false pour désactiver",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "1 heure, ou false pour désactiver"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

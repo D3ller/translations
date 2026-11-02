@@ -1,0 +1,14 @@
+{
+  "hash": "92229106475d627e",
+  "source": "Now modules are loaded in the correct order:",
+  "text": "Désormais, les modules sont chargés dans le bon ordre :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Désormais, les modules sont chargés dans le bon ordre :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

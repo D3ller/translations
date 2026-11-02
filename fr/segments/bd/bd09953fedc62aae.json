@@ -1,0 +1,14 @@
+{
+  "hash": "bd09953fedc62aae",
+  "source": "For example, creating a file named {0} will register a catch-all route for all requests that do not match any route handler, such as {1}.",
+  "text": "Par exemple, créer un fichier nommé {0} enregistrera une route fourre-tout pour toutes les requêtes qui ne correspondent à aucun gestionnaire de route, comme {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par exemple, créer un fichier nommé {0} enregistrera une route fourre-tout pour toutes les requêtes qui ne correspondent à aucun gestionnaire de route, comme {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

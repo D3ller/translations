@@ -1,0 +1,14 @@
+{
+  "hash": "3c2f769ed51a674f",
+  "source": "Usage with Layouts",
+  "text": "Utilisation avec les layouts",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utilisation avec les layouts"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "6f7697d11f22c1c0",
+  "source": "Accept Pattern that will be run against specified path.",
+  "text": "Motif d'acceptation qui sera exécuté sur le chemin spécifié.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Motif d'acceptation qui sera exécuté sur le chemin spécifié."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

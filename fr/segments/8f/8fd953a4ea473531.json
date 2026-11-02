@@ -1,0 +1,14 @@
+{
+  "hash": "8fd953a4ea473531",
+  "source": "Customize Nuxt Teleport element attributes.",
+  "text": "Personnalise les attributs de l'élément Teleport de Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Personnalise les attributs de l'élément Teleport de Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "1afd2f7c99fb3c64",
+  "source": "In most cases, no migration steps are required, but if you rely on the reactivity of the data object then you have two options:",
+  "text": "Dans la plupart des cas, aucune étape de migration n'est nécessaire, mais si vous vous appuyez sur la réactivité de l'objet de données, vous avez deux options :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans la plupart des cas, aucune étape de migration n'est nécessaire, mais si vous vous appuyez sur la réactivité de l'objet de données, vous avez deux options :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

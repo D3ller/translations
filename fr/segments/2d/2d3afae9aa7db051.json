@@ -1,0 +1,14 @@
+{
+  "hash": "2d3afae9aa7db051",
+  "source": "The two routes \"/test-category\" and \"/1234-post\" match both {0} and {1} page routes.",
+  "text": "Les deux routes « /test-category » et « /1234-post » correspondent aux routes de page {0} et {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les deux routes « /test-category » et « /1234-post » correspondent aux routes de page {0} et {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "f13c627ac3d044ee",
+  "source": "The directory usually contains the following types of files:",
+  "text": "Le répertoire contient généralement les types de fichiers suivants :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le répertoire contient généralement les types de fichiers suivants :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

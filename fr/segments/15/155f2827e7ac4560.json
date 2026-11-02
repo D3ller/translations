@@ -1,0 +1,14 @@
+{
+  "hash": "155f2827e7ac4560",
+  "source": "The test command runs tests using @nuxt/test-utils.",
+  "text": "La commande test exécute des tests à l'aide de @nuxt/test-utils.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La commande test exécute des tests à l'aide de @nuxt/test-utils."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

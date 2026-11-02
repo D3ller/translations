@@ -1,0 +1,14 @@
+{
+  "hash": "8d67169c5da81bdc",
+  "source": "**{0} is no longer bundled**: {1}, {2} and layer configs are {3}loaded by the runtime{/3}",
+  "text": "**{0} n'est plus intégré au bundle** : {1}, {2} et les configurations des layers sont {3}chargés par le runtime{/3}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0} n'est plus intégré au bundle** : {1}, {2} et les configurations des layers sont {3}chargés par le runtime{/3}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

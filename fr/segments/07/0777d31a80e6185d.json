@@ -1,0 +1,14 @@
+{
+  "hash": "0777d31a80e6185d",
+  "source": "Check out the **guide to migrating from Nuxt 2 to Nuxt 3**.",
+  "text": "Consultez le **guide de migration de Nuxt 2 vers Nuxt 3**.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Consultez le **guide de migration de Nuxt 2 vers Nuxt 3**."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

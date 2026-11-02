@@ -1,0 +1,14 @@
+{
+  "hash": "b798e21d71fa9fd8",
+  "source": "To use {0}, use an {1}:",
+  "text": "Pour utiliser {0}, utilisez un {1} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour utiliser {0}, utilisez un {1} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

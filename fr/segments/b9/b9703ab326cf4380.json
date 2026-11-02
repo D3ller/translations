@@ -1,0 +1,14 @@
+{
+  "hash": "b9703ab326cf4380",
+  "source": "**{0}** - Configuration for your {1} and files outside the other contexts",
+  "text": "**{0}** : configuration de votre {1} et des fichiers situés en dehors des autres contextes",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** : configuration de votre {1} et des fichiers situés en dehors des autres contextes"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "7f1e118fb7f5a415",
+  "source": "Route middleware are navigation guards stored in the {0} directory of your Nuxt application (unless {1}set otherwise{/1}).",
+  "text": "Les middleware de route sont des guards de navigation stockés dans le répertoire {0} de votre application Nuxt (sauf {1}configuration différente{/1}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les middleware de route sont des guards de navigation stockés dans le répertoire {0} de votre application Nuxt (sauf {1}configuration différente{/1})."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

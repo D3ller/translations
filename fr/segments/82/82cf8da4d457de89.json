@@ -1,0 +1,14 @@
+{
+  "hash": "82cf8da4d457de89",
+  "source": "you can also pass a string or a computed property",
+  "text": "vous pouvez aussi passer une chaîne de caractères ou une propriété calculée",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "vous pouvez aussi passer une chaîne de caractères ou une propriété calculée"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

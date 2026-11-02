@@ -1,0 +1,14 @@
+{
+  "hash": "2762766e33fe95a6",
+  "source": "{0}: A {1} attribute value to apply on the link",
+  "text": "{0} : une valeur d'attribut {1} à appliquer au lien",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : une valeur d'attribut {1} à appliquer au lien"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

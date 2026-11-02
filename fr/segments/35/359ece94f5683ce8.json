@@ -1,0 +1,14 @@
+{
+  "hash": "359ece94f5683ce8",
+  "source": "Product pages generated on demand, revalidates in background, cached for 1 hour (3600 seconds)",
+  "text": "Pages de produits générées à la demande, revalidées en arrière-plan, mises en cache pendant 1 heure (3600 secondes)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pages de produits générées à la demande, revalidées en arrière-plan, mises en cache pendant 1 heure (3600 secondes)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

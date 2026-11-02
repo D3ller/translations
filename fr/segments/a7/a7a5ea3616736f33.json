@@ -1,0 +1,14 @@
+{
+  "hash": "a7a5ea3616736f33",
+  "source": "This helper makes writing Nuxt modules more straightforward by implementing many common patterns needed by modules, guaranteeing future compatibility and improving the experience for both module authors and users.",
+  "text": "Ce helper simplifie l'écriture des modules Nuxt en implémentant de nombreux modèles courants dont les modules ont besoin, en garantissant la compatibilité future et en améliorant l'expérience des auteurs comme des utilisateurs de modules.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ce helper simplifie l'écriture des modules Nuxt en implémentant de nombreux modèles courants dont les modules ont besoin, en garantissant la compatibilité future et en améliorant l'expérience des auteurs comme des utilisateurs de modules."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

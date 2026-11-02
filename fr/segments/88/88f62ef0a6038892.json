@@ -1,0 +1,14 @@
+{
+  "hash": "88f62ef0a6038892",
+  "source": "Warns at build time about template mistakes the Vue compiler cannot detect, because they depend on what Nuxt knows about your app:",
+  "text": "Avertit au moment du build des erreurs de template que le compilateur Vue ne peut pas détecter, car elles dépendent de ce que Nuxt sait de votre application :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Avertit au moment du build des erreurs de template que le compilateur Vue ne peut pas détecter, car elles dépendent de ce que Nuxt sait de votre application :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "a54d06146fd409ba",
+  "source": "**Most users should start with {0}** - it contains all essential information and works with standard LLM context windows.",
+  "text": "**La plupart des utilisateurs devraient commencer par {0}** : il contient toutes les informations essentielles et fonctionne avec les fenêtres de contexte standard des LLM.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**La plupart des utilisateurs devraient commencer par {0}** : il contient toutes les informations essentielles et fonctionne avec les fenêtres de contexte standard des LLM."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

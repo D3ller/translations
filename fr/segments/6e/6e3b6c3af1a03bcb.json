@@ -1,0 +1,14 @@
+{
+  "hash": "6e3b6c3af1a03bcb",
+  "source": "Upgrade, build, and read the notices. {0} is about modules, so it's their authors' work rather than yours. Errors in your own {1} directory are yours.",
+  "text": "Mettez à niveau, compilez et lisez les avis. {0} concerne les modules : c'est donc le travail de leurs auteurs, pas le vôtre. Les erreurs dans votre propre répertoire {1} sont les vôtres.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mettez à niveau, compilez et lisez les avis. {0} concerne les modules : c'est donc le travail de leurs auteurs, pas le vôtre. Les erreurs dans votre propre répertoire {1} sont les vôtres."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

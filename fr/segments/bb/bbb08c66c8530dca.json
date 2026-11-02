@@ -1,0 +1,14 @@
+{
+  "hash": "bbb08c66c8530dca",
+  "source": "Move the configuration into {0} under the matching key, then delete the external file:",
+  "text": "Déplacez la configuration dans {0} sous la clé correspondante, puis supprimez le fichier externe :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Déplacez la configuration dans {0} sous la clé correspondante, puis supprimez le fichier externe :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

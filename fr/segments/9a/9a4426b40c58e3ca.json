@@ -1,0 +1,14 @@
+{
+  "hash": "9a4426b40c58e3ca",
+  "source": "If your {0} currently has an {1} line, **remove it** before adding the references. Project references and extends are mutually exclusive.",
+  "text": "Si votre {0} contient actuellement une ligne {1}, **supprimez-la** avant d'ajouter les références. Les références de projet et extends sont mutuellement exclusives.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si votre {0} contient actuellement une ligne {1}, **supprimez-la** avant d'ajouter les références. Les références de projet et extends sont mutuellement exclusives."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

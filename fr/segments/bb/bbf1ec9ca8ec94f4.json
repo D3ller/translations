@@ -1,0 +1,14 @@
+{
+  "hash": "bbf1ec9ca8ec94f4",
+  "source": "Read more about the {0} server helper exposed by {1}.",
+  "text": "En savoir plus sur le helper serveur {0} exposé par {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En savoir plus sur le helper serveur {0} exposé par {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

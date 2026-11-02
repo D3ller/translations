@@ -1,0 +1,14 @@
+{
+  "hash": "41b75d9473d90d98",
+  "source": "Nitro adds more on top, such as {0}, {1} and {2}, but these four core properties work in all runtimes, and need no helpers:",
+  "text": "Nitro en ajoute davantage, comme {0}, {1} et {2}, mais ces quatre propriétés principales fonctionnent dans tous les runtimes et ne nécessitent aucun helper :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nitro en ajoute davantage, comme {0}, {1} et {2}, mais ces quatre propriétés principales fonctionnent dans tous les runtimes et ne nécessitent aucun helper :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "ac9c33230f825047",
+  "source": "Using {0} to Make Your Module Configurable",
+  "text": "Utiliser {0} pour rendre votre module configurable",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utiliser {0} pour rendre votre module configurable"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

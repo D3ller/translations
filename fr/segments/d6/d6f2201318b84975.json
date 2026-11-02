@@ -1,0 +1,14 @@
+{
+  "hash": "d6f2201318b84975",
+  "source": "navigating to an external URL is not allowed by default",
+  "text": "la navigation vers une URL externe n'est pas autorisée par défaut",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "la navigation vers une URL externe n'est pas autorisée par défaut"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

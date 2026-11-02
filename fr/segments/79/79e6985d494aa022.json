@@ -1,0 +1,14 @@
+{
+  "hash": "79e6985d494aa022",
+  "source": "**Method 1:** Using named export",
+  "text": "**Méthode 1 :** utiliser un export nommé",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Méthode 1 :** utiliser un export nommé"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

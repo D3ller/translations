@@ -1,0 +1,14 @@
+{
+  "hash": "61bc610653add1d2",
+  "source": "Creating Plugins",
+  "text": "Création de plugins",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Création de plugins"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

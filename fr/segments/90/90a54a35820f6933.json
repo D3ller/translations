@@ -1,0 +1,14 @@
+{
+  "hash": "90a54a35820f6933",
+  "source": "These two functions have been replaced with a new composable that works very similarly under the hood: {0}.",
+  "text": "Ces deux fonctions ont été remplacées par un nouveau composable dont le fonctionnement interne est très similaire : {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ces deux fonctions ont été remplacées par un nouveau composable dont le fonctionnement interne est très similaire : {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

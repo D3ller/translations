@@ -1,0 +1,14 @@
+{
+  "hash": "af973270d3c6e059",
+  "source": "You should migrate to the new {0} function that provides a typed configuration schema.",
+  "text": "Vous devriez migrer vers la nouvelle fonction {0}, qui fournit un schéma de configuration typé.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous devriez migrer vers la nouvelle fonction {0}, qui fournit un schéma de configuration typé."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

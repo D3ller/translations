@@ -1,0 +1,14 @@
+{
+  "hash": "139af8a5698e1f73",
+  "source": "Open a PR",
+  "text": "Ouvrir une PR",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ouvrir une PR"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

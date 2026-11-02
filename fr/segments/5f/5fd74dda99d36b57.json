@@ -1,0 +1,14 @@
+{
+  "hash": "5fd74dda99d36b57",
+  "source": "The announcer reads the title that Unhead rendered, so it is only as useful as your titles are. If two routes share the same {0}, users hear nothing on the way between them.",
+  "text": "L'announcer lit le titre rendu par Unhead : il n'est donc utile que si vos titres le sont. Si deux routes partagent le même {0}, les utilisateurs n'entendent rien lorsqu'ils passent de l'une à l'autre.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'announcer lit le titre rendu par Unhead : il n'est donc utile que si vos titres le sont. Si deux routes partagent le même {0}, les utilisateurs n'entendent rien lorsqu'ils passent de l'une à l'autre."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

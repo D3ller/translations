@@ -1,0 +1,14 @@
+{
+  "hash": "7afc87b39372dc95",
+  "source": "Nuxt provides a private {0} as the application's root secret. Modules and server features derive their own secrets from it with {1}, and the {2}session helpers{/2} seal with one by default. The value defaults to an empty string, is only available on the server, and you can set it with {3} without declaring the key in {4}.",
+  "text": "Nuxt fournit un {0} privé qui sert de secret racine de l'application. Les modules et les fonctionnalités serveur en dérivent leurs propres secrets avec {1}, et les {2}helpers de session{/2} scellent par défaut avec l'un d'eux. La valeur par défaut est une chaîne vide, elle n'est disponible que sur le serveur, et vous pouvez la définir avec {3} sans déclarer la clé dans {4}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt fournit un {0} privé qui sert de secret racine de l'application. Les modules et les fonctionnalités serveur en dérivent leurs propres secrets avec {1}, et les {2}helpers de session{/2} scellent par défaut avec l'un d'eux. La valeur par défaut est une chaîne vide, elle n'est disponible que sur le serveur, et vous pouvez la définir avec {3} sans déclarer la clé dans {4}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "549b184d75e26dd6",
+  "source": "You can define the layout used to render the route. This can be either false (to disable any layout), a string or a ref/computed, if you want to make it reactive in some way. {0}More about layouts{/0}.",
+  "text": "Vous pouvez définir le layout utilisé pour afficher la route. Il peut s'agir de false (pour désactiver tout layout), d'une chaîne de caractères ou d'une ref/computed, si vous souhaitez le rendre réactif d'une manière ou d'une autre. {0}En savoir plus sur les layouts{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez définir le layout utilisé pour afficher la route. Il peut s'agir de false (pour désactiver tout layout), d'une chaîne de caractères ou d'une ref/computed, si vous souhaitez le rendre réactif d'une manière ou d'une autre. {0}En savoir plus sur les layouts{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

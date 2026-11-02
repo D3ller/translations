@@ -1,0 +1,14 @@
+{
+  "hash": "6e1b8d76a42947a0",
+  "source": "Make sure any dependency imported in the layer is **explicitly added** to the {0}. The {1} dependency, and anything only used for testing the layer before publishing, should remain in the {2} field.",
+  "text": "Assurez-vous que toute dépendance importée dans le layer est **explicitement ajoutée** au {0}. La dépendance {1}, ainsi que tout ce qui sert uniquement à tester le layer avant sa publication, doivent rester dans le champ {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Assurez-vous que toute dépendance importée dans le layer est **explicitement ajoutée** au {0}. La dépendance {1}, ainsi que tout ce qui sert uniquement à tester le layer avant sa publication, doivent rester dans le champ {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

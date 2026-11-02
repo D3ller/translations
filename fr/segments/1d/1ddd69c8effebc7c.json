@@ -1,0 +1,14 @@
+{
+  "hash": "1ddd69c8effebc7c",
+  "source": "Deploy target for the configured server builder (e.g. {0}, {1}, {2})",
+  "text": "Cible de déploiement pour le builder de serveur configuré (par ex. {0}, {1}, {2})",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cible de déploiement pour le builder de serveur configuré (par ex. {0}, {1}, {2})"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

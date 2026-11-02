@@ -1,0 +1,14 @@
+{
+  "hash": "1b7881e85fe1e372",
+  "source": "Defining Layout",
+  "text": "Définir un layout",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définir un layout"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

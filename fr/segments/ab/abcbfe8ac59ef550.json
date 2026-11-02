@@ -1,0 +1,14 @@
+{
+  "hash": "abcbfe8ac59ef550",
+  "source": "Fires {0}, and in production closes the {1} instance.",
+  "text": "Déclenche {0} et, en production, ferme l'instance {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Déclenche {0} et, en production, ferme l'instance {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

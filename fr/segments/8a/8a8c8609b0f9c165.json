@@ -1,0 +1,14 @@
+{
+  "hash": "8a8c8609b0f9c165",
+  "source": "Login API Route",
+  "text": "Route d'API de connexion",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Route d'API de connexion"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

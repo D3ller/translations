@@ -1,0 +1,14 @@
+{
+  "hash": "ea521b0cd6e65c44",
+  "source": "Watch a video about custom $fetch and Repository Pattern in Nuxt",
+  "text": "Regardez une vidéo sur le $fetch personnalisé et le Repository Pattern dans Nuxt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Regardez une vidéo sur le $fetch personnalisé et le Repository Pattern dans Nuxt"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

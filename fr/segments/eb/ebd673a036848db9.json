@@ -1,0 +1,14 @@
+{
+  "hash": "ebd673a036848db9",
+  "source": "{0} is the event that {1} utilities operate from, including the request, its URL, the response to be sent, and the request context.",
+  "text": "{0} est l'événement à partir duquel les utilitaires {1} opèrent, y compris la requête, son URL, la réponse à envoyer et le contexte de la requête.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est l'événement à partir duquel les utilitaires {1} opèrent, y compris la requête, son URL, la réponse à envoyer et le contexte de la requête."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

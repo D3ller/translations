@@ -1,0 +1,14 @@
+{
+  "hash": "f1e93b10dbef81c7",
+  "source": "Remove {0}: Bridge enables same functionality",
+  "text": "Supprimez {0} : Bridge active la même fonctionnalité",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Supprimez {0} : Bridge active la même fonctionnalité"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

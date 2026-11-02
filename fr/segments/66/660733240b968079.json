@@ -1,0 +1,14 @@
+{
+  "hash": "660733240b968079",
+  "source": "Nitro parses environment overrides, so a secret made only of digits or one that looks like JSON arrives as a number, boolean or object rather than a string. Wrap such a value in quotes ({0}) or set {1} in {2} instead.",
+  "text": "Nitro analyse les remplacements issus de l'environnement, de sorte qu'un secret composé uniquement de chiffres ou qui ressemble à du JSON arrive sous forme de nombre, de booléen ou d'objet plutôt que de chaîne. Placez une telle valeur entre guillemets ({0}) ou définissez plutôt {1} dans {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nitro analyse les remplacements issus de l'environnement, de sorte qu'un secret composé uniquement de chiffres ou qui ressemble à du JSON arrive sous forme de nombre, de booléen ou d'objet plutôt que de chaîne. Placez une telle valeur entre guillemets ({0}) ou définissez plutôt {1} dans {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

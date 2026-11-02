@@ -1,0 +1,14 @@
+{
+  "hash": "5124f37d778ef305",
+  "source": "**See**: {0}css-minimizer-webpack-plugin documentation{/0}.",
+  "text": "**Voir** : {0}documentation de css-minimizer-webpack-plugin{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Voir** : {0}documentation de css-minimizer-webpack-plugin{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

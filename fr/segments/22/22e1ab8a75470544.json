@@ -1,0 +1,14 @@
+{
+  "hash": "22e1ab8a75470544",
+  "source": "**description**: The progress state. From {0} to {1}.",
+  "text": "**description** : l'état de progression, de {0} à {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**description** : l'état de progression, de {0} à {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

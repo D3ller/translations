@@ -1,0 +1,14 @@
+{
+  "hash": "352c57361a270cea",
+  "source": "navigateTo is a helper function that programmatically navigates users.",
+  "text": "navigateTo est une fonction helper qui permet de naviguer par programmation.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "navigateTo est une fonction helper qui permet de naviguer par programmation."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

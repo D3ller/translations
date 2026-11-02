@@ -1,0 +1,14 @@
+{
+  "hash": "2d6046032ee8e903",
+  "source": "(Advanced) A unique key to identify the prehydrate script, useful for advanced scenarios like multiple root nodes.",
+  "text": "(Avancé) Une clé unique pour identifier le script de préhydratation, utile pour des scénarios avancés comme plusieurs nœuds racine.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "(Avancé) Une clé unique pour identifier le script de préhydratation, utile pour des scénarios avancés comme plusieurs nœuds racine."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

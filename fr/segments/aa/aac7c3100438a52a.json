@@ -1,0 +1,14 @@
+{
+  "hash": "aac7c3100438a52a",
+  "source": "Add or modify font providers after all modules have loaded.",
+  "text": "Ajoutez ou modifiez des fournisseurs de polices une fois tous les modules chargés.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ajoutez ou modifiez des fournisseurs de polices une fois tous les modules chargés."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

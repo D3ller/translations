@@ -1,0 +1,14 @@
+{
+  "hash": "975f60f7f5525e78",
+  "source": "{0} is now enabled by default. Nuxt generates typed route names and paths from your {1} directory, so composables like {2}, {3}, {4} and {5} are type-checked against your actual routes.",
+  "text": "{0} est désormais activé par défaut. Nuxt génère des noms et des chemins de routes typés à partir de votre répertoire {1}, de sorte que des composables comme {2}, {3}, {4} et {5} sont vérifiés par rapport à vos routes réelles.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est désormais activé par défaut. Nuxt génère des noms et des chemins de routes typés à partir de votre répertoire {1}, de sorte que des composables comme {2}, {3}, {4} et {5} sont vérifiés par rapport à vos routes réelles."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

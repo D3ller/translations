@@ -1,0 +1,14 @@
+{
+  "hash": "35ef3e412dcadb0e",
+  "source": "Read more about Nitro tasks.",
+  "text": "En savoir plus sur les tâches Nitro.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En savoir plus sur les tâches Nitro."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

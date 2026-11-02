@@ -1,0 +1,14 @@
+{
+  "hash": "9d71f88de24080ce",
+  "source": "Go deep in Nuxt internals with Nuxt lifecycle hooks.",
+  "text": "Plongez au cœur du fonctionnement interne de Nuxt avec les hooks de cycle de vie de Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Plongez au cœur du fonctionnement interne de Nuxt avec les hooks de cycle de vie de Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

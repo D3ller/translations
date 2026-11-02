@@ -1,0 +1,14 @@
+{
+  "hash": "3fb2a756abaa12a3",
+  "source": "By moving your modules to {0}nuxt-modules{/0}, there is always someone else to help, and this way, we can join forces to make one perfect solution.",
+  "text": "En déplaçant vos modules vers {0}nuxt-modules{/0}, il y a toujours quelqu'un d'autre pour vous aider, et nous pouvons ainsi unir nos forces pour créer une solution parfaite.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En déplaçant vos modules vers {0}nuxt-modules{/0}, il y a toujours quelqu'un d'autre pour vous aider, et nous pouvons ainsi unir nos forces pour créer une solution parfaite."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

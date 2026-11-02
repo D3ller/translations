@@ -1,0 +1,14 @@
+{
+  "hash": "3e6c75661e702e14",
+  "source": "You can also run {0} to highlight and resolve any lint issues.",
+  "text": "Vous pouvez également exécuter {0} pour repérer et résoudre les problèmes de lint.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez également exécuter {0} pour repérer et résoudre les problèmes de lint."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

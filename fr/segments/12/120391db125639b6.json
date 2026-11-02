@@ -1,0 +1,14 @@
+{
+  "hash": "120391db125639b6",
+  "source": "Each directory entry also accepts {0} and {1} glob options, which control which files are scanned within {2}. This is useful when your components live in nested folders that don't follow the default layout, such as a domain-driven structure:",
+  "text": "Chaque entrée de répertoire accepte également les options glob {0} et {1}, qui contrôlent les fichiers analysés dans {2}. C'est utile lorsque vos composants se trouvent dans des dossiers imbriqués qui ne suivent pas l'organisation par défaut, comme une structure orientée domaine :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Chaque entrée de répertoire accepte également les options glob {0} et {1}, qui contrôlent les fichiers analysés dans {2}. C'est utile lorsque vos composants se trouvent dans des dossiers imbriqués qui ne suivent pas l'organisation par défaut, comme une structure orientée domaine :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

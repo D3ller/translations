@@ -1,0 +1,14 @@
+{
+  "hash": "f09b6d3ce2baaf81",
+  "source": "They seal a {0} cookie, by default with a secret derived from {1}. The two are not interchangeable: a session one issues does not unseal with the other.",
+  "text": "Ils scellent un cookie {0}, par défaut avec un secret dérivé de {1}. Les deux ne sont pas interchangeables : une session émise par l'un ne se descelle pas avec l'autre.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ils scellent un cookie {0}, par défaut avec un secret dérivé de {1}. Les deux ne sont pas interchangeables : une session émise par l'un ne se descelle pas avec l'autre."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "ac76928401e4b6e9",
+  "source": "Before publishing your module to npm, makes sure you have an {0}npmjs.com{/0} account and that you're authenticated to it locally with {1}.",
+  "text": "Avant de publier votre module sur npm, assurez-vous d'avoir un compte {0}npmjs.com{/0} et d'y être authentifié en local avec {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Avant de publier votre module sur npm, assurez-vous d'avoir un compte {0}npmjs.com{/0} et d'y être authentifié en local avec {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

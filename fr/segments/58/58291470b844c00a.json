@@ -1,0 +1,14 @@
+{
+  "hash": "58291470b844c00a",
+  "source": "Request body. Objects are automatically stringified.",
+  "text": "Corps de la requête. Les objets sont automatiquement sérialisés en chaîne.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Corps de la requête. Les objets sont automatiquement sérialisés en chaîne."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

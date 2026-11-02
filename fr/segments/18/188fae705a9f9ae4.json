@@ -1,0 +1,14 @@
+{
+  "hash": "188fae705a9f9ae4",
+  "source": "This component is experimental and in order to use it you must enable the {0} option in your {1}.",
+  "text": "Ce composant est expérimental et, pour l'utiliser, vous devez activer l'option {0} dans votre {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ce composant est expérimental et, pour l'utiliser, vous devez activer l'option {0} dans votre {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

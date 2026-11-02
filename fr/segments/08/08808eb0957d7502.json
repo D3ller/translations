@@ -1,0 +1,14 @@
+{
+  "hash": "08808eb0957d7502",
+  "source": "Server Endpoints & Middleware",
+  "text": "Endpoints serveur et middleware",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Endpoints serveur et middleware"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

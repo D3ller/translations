@@ -1,0 +1,14 @@
+{
+  "hash": "93639c3e7e3ca361",
+  "source": "When you need type safety for your resolved/merged module options, you can use the {0} method. This enables TypeScript to properly infer the relationship between your module's defaults and the final resolved options that your setup function receives.",
+  "text": "Lorsque vous avez besoin de sûreté des types pour les options résolues/fusionnées de votre module, vous pouvez utiliser la méthode {0}. Elle permet à TypeScript d'inférer correctement la relation entre les valeurs par défaut de votre module et les options résolues finales que reçoit votre fonction setup.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque vous avez besoin de sûreté des types pour les options résolues/fusionnées de votre module, vous pouvez utiliser la méthode {0}. Elle permet à TypeScript d'inférer correctement la relation entre les valeurs par défaut de votre module et les options résolues finales que reçoit votre fonction setup."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

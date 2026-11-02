@@ -1,0 +1,14 @@
+{
+  "hash": "4e01df5a1926d885",
+  "source": "If your PR fixes or resolves existing issues, please make sure you mention them in the PR description.",
+  "text": "Si votre PR corrige ou résout des issues existantes, veillez à les mentionner dans la description de la PR.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si votre PR corrige ou résout des issues existantes, veillez à les mentionner dans la description de la PR."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

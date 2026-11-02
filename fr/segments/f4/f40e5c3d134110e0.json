@@ -1,0 +1,14 @@
+{
+  "hash": "f40e5c3d134110e0",
+  "source": "(\\*) Avoid adding {0} by importing them inside the module. Instead, add them by referencing a file path so that they are independent of the module's context",
+  "text": "(\\*) Évitez d'ajouter {0} en les important dans le module. Ajoutez-les plutôt en référençant un chemin de fichier afin qu'ils soient indépendants du contexte du module",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "(\\*) Évitez d'ajouter {0} en les important dans le module. Ajoutez-les plutôt en référençant un chemin de fichier afin qu'ils soient indépendants du contexte du module"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

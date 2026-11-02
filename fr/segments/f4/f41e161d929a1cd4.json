@@ -1,0 +1,14 @@
+{
+  "hash": "f41e161d929a1cd4",
+  "source": "Try recreating your lock-file:",
+  "text": "Essayez de recréer votre fichier de verrouillage :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Essayez de recréer votre fichier de verrouillage :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

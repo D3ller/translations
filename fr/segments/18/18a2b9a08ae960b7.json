@@ -1,0 +1,14 @@
+{
+  "hash": "18a2b9a08ae960b7",
+  "source": "We recommend using the helper functions above for performing redirects or stopping navigation. Other possible return values described in {0}the vue-router docs{/0} may work but there may be breaking changes in future.",
+  "text": "Nous recommandons d'utiliser les fonctions helper ci-dessus pour effectuer des redirections ou arrêter la navigation. Les autres valeurs de retour possibles décrites dans {0}la documentation de vue-router{/0} peuvent fonctionner, mais des changements majeurs pourraient survenir à l'avenir.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nous recommandons d'utiliser les fonctions helper ci-dessus pour effectuer des redirections ou arrêter la navigation. Les autres valeurs de retour possibles décrites dans {0}la documentation de vue-router{/0} peuvent fonctionner, mais des changements majeurs pourraient survenir à l'avenir."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

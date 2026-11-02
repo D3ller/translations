@@ -1,0 +1,14 @@
+{
+  "hash": "bb358a5a3363a112",
+  "source": "If {0}, use the {1} command.",
+  "text": "Si {0}, utilisez la commande {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si {0}, utilisez la commande {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

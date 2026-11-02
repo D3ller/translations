@@ -1,0 +1,14 @@
+{
+  "hash": "8d33865b88b1c4dd",
+  "source": "Static and prerender builds also emit {0} and {1} SPA fallbacks. See {2}What are 200.html and 404.html?{/2}.",
+  "text": "Les builds statiques et prérendus génèrent également les fichiers de repli SPA {0} et {1}. Consultez {2}Que sont 200.html et 404.html ?{/2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les builds statiques et prérendus génèrent également les fichiers de repli SPA {0} et {1}. Consultez {2}Que sont 200.html et 404.html ?{/2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

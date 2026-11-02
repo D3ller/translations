@@ -1,0 +1,14 @@
+{
+  "hash": "1cab8f6a4398e69e",
+  "source": "**Solution**: Use media queries or handle it client-side:",
+  "text": "**Solution** : utilisez des media queries ou gérez cela côté client :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Solution** : utilisez des media queries ou gérez cela côté client :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

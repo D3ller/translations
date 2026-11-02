@@ -1,0 +1,14 @@
+{
+  "hash": "6d968aa5dba211b4",
+  "source": "Ensure that you use the updated name in any tests which use {0} from {1} and in any {2} which depends on the name of your component.",
+  "text": "Veillez à utiliser le nom mis à jour dans tous les tests qui utilisent {0} de {1} et dans tout {2} qui dépend du nom de votre composant.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Veillez à utiliser le nom mis à jour dans tous les tests qui utilisent {0} de {1} et dans tout {2} qui dépend du nom de votre composant."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

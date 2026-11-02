@@ -1,0 +1,14 @@
+{
+  "hash": "3a4d96c519f3710c",
+  "source": "If you get an error message like {0} then it probably means you are calling a Nuxt composable in the wrong place in the Vue or Nuxt lifecycle.",
+  "text": "Si vous obtenez un message d'erreur comme {0}, cela signifie probablement que vous appelez un composable Nuxt au mauvais endroit du cycle de vie de Vue ou de Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous obtenez un message d'erreur comme {0}, cela signifie probablement que vous appelez un composable Nuxt au mauvais endroit du cycle de vie de Vue ou de Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

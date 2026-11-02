@@ -1,0 +1,14 @@
+{
+  "hash": "af5c0807e4997e8c",
+  "source": "New Composition API",
+  "text": "Nouvelle Composition API",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nouvelle Composition API"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

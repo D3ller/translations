@@ -1,0 +1,14 @@
+{
+  "hash": "9993c7f0a53244aa",
+  "source": "You should not touch any files inside since the whole directory will be re-created when running {0}.",
+  "text": "Vous ne devez modifier aucun fichier à l'intérieur, car l'ensemble du répertoire est recréé lors de l'exécution de {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous ne devez modifier aucun fichier à l'intérieur, car l'ensemble du répertoire est recréé lors de l'exécution de {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

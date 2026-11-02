@@ -1,0 +1,14 @@
+{
+  "hash": "c7452eabe3f878c5",
+  "source": "Nuxt will pick the most appropriate handler to use based on the server builder a user is using. If you register a handler which the user's server builder cannot run, it will be skipped with a warning.",
+  "text": "Nuxt choisira le gestionnaire le plus approprié selon le builder serveur utilisé. Si vous enregistrez un gestionnaire que le builder serveur de l'utilisateur ne peut pas exécuter, il sera ignoré avec un avertissement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt choisira le gestionnaire le plus approprié selon le builder serveur utilisé. Si vous enregistrez un gestionnaire que le builder serveur de l'utilisateur ne peut pas exécuter, il sera ignoré avec un avertissement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "678a2bab5f921044",
+  "source": "In your page file, you can reference this route middleware:",
+  "text": "Dans le fichier de votre page, vous pouvez référencer ce middleware de route :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans le fichier de votre page, vous pouvez référencer ce middleware de route :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

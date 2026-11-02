@@ -1,0 +1,14 @@
+{
+  "hash": "e1e42189a74a3437",
+  "source": "{0}Bunny Fonts{/0} is provided by {1}bunny.net{/1} and is a drop-in Google Fonts compatible API, focusing on privacy.",
+  "text": "{0}Bunny Fonts{/0} est fourni par {1}bunny.net{/1} et constitue une API compatible avec Google Fonts, utilisable en remplacement direct, axée sur la confidentialité.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}Bunny Fonts{/0} est fourni par {1}bunny.net{/1} et constitue une API compatible avec Google Fonts, utilisable en remplacement direct, axée sur la confidentialité."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

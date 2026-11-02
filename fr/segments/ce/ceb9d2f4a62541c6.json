@@ -1,0 +1,14 @@
+{
+  "hash": "ceb9d2f4a62541c6",
+  "source": "h3's {0}, {1}, {2} and {3} seal an {4} cookie with the {5} you pass.",
+  "text": "{0}, {1}, {2} et {3} de h3 scellent un cookie {4} avec le {5} que vous transmettez.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}, {1}, {2} et {3} de h3 scellent un cookie {4} avec le {5} que vous transmettez."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

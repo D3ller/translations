@@ -1,0 +1,14 @@
+{
+  "hash": "82cfa481352119c7",
+  "source": "This runs before environment setup",
+  "text": "Ceci s'exécute avant la configuration de l'environnement",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ceci s'exécute avant la configuration de l'environnement"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

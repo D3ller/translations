@@ -1,0 +1,14 @@
+{
+  "hash": "d837a3cd7a59f697",
+  "source": "The component marked with {0} is server-rendered as part of the island, then hydrated by the main client app. Only its chunk is shipped to the client; the rest of the island remains static.",
+  "text": "Le composant marqué avec {0} est rendu côté serveur dans le cadre de l'island, puis hydraté par l'application cliente principale. Seul son chunk est envoyé au client ; le reste de l'island reste statique.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le composant marqué avec {0} est rendu côté serveur dans le cadre de l'island, puis hydraté par l'application cliente principale. Seul son chunk est envoyé au client ; le reste de l'island reste statique."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

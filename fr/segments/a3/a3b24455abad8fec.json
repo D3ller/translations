@@ -1,0 +1,14 @@
+{
+  "hash": "a3b24455abad8fec",
+  "source": "Add ./components dir to the list",
+  "text": "Ajouter le répertoire ./components à la liste",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ajouter le répertoire ./components à la liste"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

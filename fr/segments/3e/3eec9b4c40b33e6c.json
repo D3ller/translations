@@ -1,0 +1,14 @@
+{
+  "hash": "3eec9b4c40b33e6c",
+  "source": "{0}: Any URL or a {1}route location object{/1} from Vue Router",
+  "text": "{0} : une URL quelconque ou un {1}objet de localisation de route{/1} de Vue Router",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : une URL quelconque ou un {1}objet de localisation de route{/1} de Vue Router"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

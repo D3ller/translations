@@ -1,0 +1,14 @@
+{
+  "hash": "68cae7f053055677",
+  "source": "Nuxt 3 introduced the new Nuxt CLI command {0}. Update your scripts as follows to leverage the better support from Nuxt Bridge:",
+  "text": "Nuxt 3 a introduit la nouvelle commande de la CLI Nuxt {0}. Mettez à jour vos scripts comme suit pour tirer parti de la meilleure prise en charge de Nuxt Bridge :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt 3 a introduit la nouvelle commande de la CLI Nuxt {0}. Mettez à jour vos scripts comme suit pour tirer parti de la meilleure prise en charge de Nuxt Bridge :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

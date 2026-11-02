@@ -1,0 +1,14 @@
+{
+  "hash": "d48a287605a05ce6",
+  "source": "To build a {0} with different defaults, use {1}, which keeps the route typing intact:",
+  "text": "Pour créer un {0} avec des valeurs par défaut différentes, utilisez {1}, qui préserve le typage des routes :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour créer un {0} avec des valeurs par défaut différentes, utilisez {1}, qui préserve le typage des routes :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

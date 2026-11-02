@@ -1,0 +1,14 @@
+{
+  "hash": "32a7da49d27dd3b9",
+  "source": "(\\*) Unless it is for {0} purpose only and guarded with {1}.",
+  "text": "(\\*) Sauf si c'est uniquement à des fins de {0} et protégé par {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "(\\*) Sauf si c'est uniquement à des fins de {0} et protégé par {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "6cf7b35fc069f284",
+  "source": "Show all shortcuts",
+  "text": "Afficher tous les raccourcis",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Afficher tous les raccourcis"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

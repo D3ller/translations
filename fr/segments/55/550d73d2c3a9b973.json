@@ -1,0 +1,14 @@
+{
+  "hash": "550d73d2c3a9b973",
+  "source": "You can use this at runtime within a {0}Nuxt context{/0} to add more routes for Nitro to prerender.",
+  "text": "Vous pouvez l'utiliser à l'exécution, dans un {0}contexte Nuxt{/0}, pour ajouter d'autres routes que Nitro doit prérendre.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez l'utiliser à l'exécution, dans un {0}contexte Nuxt{/0}, pour ajouter d'autres routes que Nitro doit prérendre."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

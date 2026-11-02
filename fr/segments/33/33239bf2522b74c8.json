@@ -1,0 +1,14 @@
+{
+  "hash": "33239bf2522b74c8",
+  "source": "You can also define the common structure of your application directly in {0}. This is useful when you want to include global elements such as a header or footer:",
+  "text": "Vous pouvez également définir la structure commune de votre application directement dans {0}. C'est utile lorsque vous souhaitez inclure des éléments globaux tels qu'un en-tête ou un pied de page :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez également définir la structure commune de votre application directement dans {0}. C'est utile lorsque vous souhaitez inclure des éléments globaux tels qu'un en-tête ou un pied de page :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

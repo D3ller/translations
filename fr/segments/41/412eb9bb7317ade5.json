@@ -1,0 +1,14 @@
+{
+  "hash": "412eb9bb7317ade5",
+  "source": "Can be either a string or a function of type {0}. Function takes the next route {1} as the first argument and the current route {2} as the second argument, both of which are Vue route objects.",
+  "text": "Peut être soit une chaîne de caractères, soit une fonction de type {0}. La fonction reçoit en premier argument la prochaine route {1} et en second argument la route actuelle {2}, qui sont toutes deux des objets de route Vue.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Peut être soit une chaîne de caractères, soit une fonction de type {0}. La fonction reçoit en premier argument la prochaine route {1} et en second argument la route actuelle {2}, qui sont toutes deux des objets de route Vue."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

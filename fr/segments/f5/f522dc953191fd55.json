@@ -1,0 +1,14 @@
+{
+  "hash": "f522dc953191fd55",
+  "source": "Follow up on the README instructions for the next steps.",
+  "text": "Suivez les instructions du README pour les étapes suivantes.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Suivez les instructions du README pour les étapes suivantes."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

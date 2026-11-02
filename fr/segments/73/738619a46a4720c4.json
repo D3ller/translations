@@ -1,0 +1,14 @@
+{
+  "hash": "738619a46a4720c4",
+  "source": "Custom Prefetch Triggers",
+  "text": "Déclencheurs de préchargement personnalisés",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Déclencheurs de préchargement personnalisés"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

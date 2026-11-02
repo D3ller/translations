@@ -1,0 +1,14 @@
+{
+  "hash": "7abfd36e9a2911e7",
+  "source": "We currently ship an environment for unit testing code that needs a {0}Nuxt{/0} runtime environment. It currently *only has support for {1}* (although contribution to add other runtimes would be welcome).",
+  "text": "Nous fournissons actuellement un environnement pour tester unitairement le code qui nécessite un environnement d'exécution {0}Nuxt{/0}. Il *ne prend actuellement en charge que {1}* (bien que les contributions visant à ajouter d'autres environnements d'exécution soient les bienvenues).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nous fournissons actuellement un environnement pour tester unitairement le code qui nécessite un environnement d'exécution {0}Nuxt{/0}. Il *ne prend actuellement en charge que {1}* (bien que les contributions visant à ajouter d'autres environnements d'exécution soient les bienvenues)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

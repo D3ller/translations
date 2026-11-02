@@ -1,0 +1,14 @@
+{
+  "hash": "65caca2b44ddef72",
+  "source": "Package and Import Path Changes",
+  "text": "Changements des packages et des chemins d'import",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Changements des packages et des chemins d'import"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

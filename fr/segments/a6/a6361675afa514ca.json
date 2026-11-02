@@ -1,0 +1,14 @@
+{
+  "hash": "a6361675afa514ca",
+  "source": "{0} setting {1}, {2}, {3}, {4}, {5}, or {6} for the route",
+  "text": "{0} définissant {1}, {2}, {3}, {4}, {5} ou {6} pour la route",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} définissant {1}, {2}, {3}, {4}, {5} ou {6} pour la route"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

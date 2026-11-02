@@ -1,0 +1,14 @@
+{
+  "hash": "78e14934274521f8",
+  "source": "The Vite Environment API is always enabled in Nuxt 5. The {0} option has been removed.",
+  "text": "L'API Vite Environment est toujours activée dans Nuxt 5. L'option {0} a été supprimée.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'API Vite Environment est toujours activée dans Nuxt 5. L'option {0} a été supprimée."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

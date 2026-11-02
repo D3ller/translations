@@ -1,0 +1,14 @@
+{
+  "hash": "c46b2f9aa3372c9e",
+  "source": "**Function Plugin**: A function that receives the {0} instance and can return a promise with a potential object with a {1} property if you want to provide a helper on {2} instance.",
+  "text": "**Plugin de type fonction** : une fonction qui reçoit l'instance {0} et peut retourner une promesse contenant éventuellement un objet avec une propriété {1}, si vous souhaitez fournir un helper sur l'instance {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Plugin de type fonction** : une fonction qui reçoit l'instance {0} et peut retourner une promesse contenant éventuellement un objet avec une propriété {1}, si vous souhaitez fournir un helper sur l'instance {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

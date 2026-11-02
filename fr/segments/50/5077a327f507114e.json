@@ -1,0 +1,14 @@
+{
+  "hash": "5077a327f507114e",
+  "source": "If any of your components (or a dependency's components) use the Options API ({0}), re-enable it in your {1}:",
+  "text": "Si certains de vos composants (ou ceux d'une dépendance) utilisent l'API Options ({0}), réactivez-la dans votre {1} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si certains de vos composants (ou ceux d'une dépendance) utilisent l'API Options ({0}), réactivez-la dans votre {1} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

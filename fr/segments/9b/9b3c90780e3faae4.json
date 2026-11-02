@@ -1,0 +1,14 @@
+{
+  "hash": "9b3c90780e3faae4",
+  "source": "Nuxt CLI has built-in {0}dotenv{/0} support in development mode and when running {1} and {2}.",
+  "text": "Nuxt CLI intègre la prise en charge de {0}dotenv{/0} en mode développement et lors de l'exécution de {1} et {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt CLI intègre la prise en charge de {0}dotenv{/0} en mode développement et lors de l'exécution de {1} et {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

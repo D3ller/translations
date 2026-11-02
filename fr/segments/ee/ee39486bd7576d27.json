@@ -1,0 +1,14 @@
+{
+  "hash": "ee39486bd7576d27",
+  "source": "Pass options directly to {0} (which is used by Nuxt to ignore files).",
+  "text": "Transmettez des options directement à {0} (utilisé par Nuxt pour ignorer des fichiers).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Transmettez des options directement à {0} (utilisé par Nuxt pour ignorer des fichiers)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "6b8accae2d730733",
+  "source": "These functions are designed for registering your own utils, composables and Vue APIs. For pages, components and plugins, please refer to the specific sections: {0}Pages{/0}, {1}Components{/1}, {2}Plugins{/2}.",
+  "text": "Ces fonctions sont conçues pour enregistrer vos propres utilitaires, composables et API Vue. Pour les pages, les composants et les plugins, reportez-vous aux sections dédiées : {0}Pages{/0}, {1}Composants{/1}, {2}Plugins{/2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ces fonctions sont conçues pour enregistrer vos propres utilitaires, composables et API Vue. Pour les pages, les composants et les plugins, reportez-vous aux sections dédiées : {0}Pages{/0}, {1}Composants{/1}, {2}Plugins{/2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "050773d92e3d760a",
+  "source": "Nuxt uses {0} by default, which will ignore top-level directories (like {1} and {2}) that are excluded from watching.",
+  "text": "Nuxt utilise {0} par défaut, qui ignore les répertoires de premier niveau (comme {1} et {2}) exclus de la surveillance.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt utilise {0} par défaut, qui ignore les répertoires de premier niveau (comme {1} et {2}) exclus de la surveillance."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

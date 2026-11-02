@@ -1,0 +1,14 @@
+{
+  "hash": "709898047f0c7ede",
+  "source": "Using a custom function to handle the replacement, such as in {0}.",
+  "text": "Utiliser une fonction personnalisée pour gérer le remplacement, comme dans {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utiliser une fonction personnalisée pour gérer le remplacement, comme dans {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

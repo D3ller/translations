@@ -1,0 +1,14 @@
+{
+  "hash": "942eed5c527d0e9f",
+  "source": "Hydration is triggered after 1000ms.",
+  "text": "L'hydratation est déclenchée après 1000ms.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'hydratation est déclenchée après 1000ms."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "87cc758ba363539c",
+  "source": "**Vite Environment API**: Vite plugins are {0}registered and configured per environment{/0}",
+  "text": "**API Vite Environment** : les plugins Vite sont {0}enregistrés et configurés par environnement{/0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**API Vite Environment** : les plugins Vite sont {0}enregistrés et configurés par environnement{/0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

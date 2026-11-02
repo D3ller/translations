@@ -1,0 +1,14 @@
+{
+  "hash": "9965e82a38c018cb",
+  "source": "Be careful not to use both {0} and the Options API {1} within the same component, as behavior may be unpredictable.",
+  "text": "Veillez à ne pas utiliser à la fois {0} et l'Options API {1} dans le même composant, car le comportement pourrait être imprévisible.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Veillez à ne pas utiliser à la fois {0} et l'Options API {1} dans le même composant, car le comportement pourrait être imprévisible."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

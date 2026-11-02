@@ -1,0 +1,14 @@
+{
+  "hash": "afbf83a4290f1cd4",
+  "source": "Enables relative time formatting using the Intl.RelativeTimeFormat API:",
+  "text": "Active le formatage du temps relatif à l'aide de l'API Intl.RelativeTimeFormat :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Active le formatage du temps relatif à l'aide de l'API Intl.RelativeTimeFormat :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

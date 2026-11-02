@@ -1,0 +1,14 @@
+{
+  "hash": "2f635108ec9b6236",
+  "source": "Nuxt DevTools releases.",
+  "text": "Versions de Nuxt DevTools.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Versions de Nuxt DevTools."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "bedf9750de6dcfea",
+  "source": "Aliases for the record. Allows defining extra paths that will behave like a copy of the record. Allows having paths shorthands like {0} and {1}. All {2} and {3} values must share the same params.",
+  "text": "Alias de l'enregistrement. Permet de définir des chemins supplémentaires qui se comporteront comme une copie de l'enregistrement. Permet d'avoir des raccourcis de chemin comme {0} et {1}. Toutes les valeurs de {2} et {3} doivent partager les mêmes paramètres.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Alias de l'enregistrement. Permet de définir des chemins supplémentaires qui se comporteront comme une copie de l'enregistrement. Permet d'avoir des raccourcis de chemin comme {0} et {1}. Toutes les valeurs de {2} et {3} doivent partager les mêmes paramètres."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

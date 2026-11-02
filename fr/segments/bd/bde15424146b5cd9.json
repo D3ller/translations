@@ -1,0 +1,14 @@
+{
+  "hash": "bde15424146b5cd9",
+  "source": "**input**: A middleware object or an array of middleware objects with the following properties:",
+  "text": "**input** : un objet middleware ou un tableau d'objets middleware avec les propriétés suivantes :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**input** : un objet middleware ou un tableau d'objets middleware avec les propriétés suivantes :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

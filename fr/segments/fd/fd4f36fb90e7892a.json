@@ -1,0 +1,14 @@
+{
+  "hash": "fd4f36fb90e7892a",
+  "source": "It's suggested to wrap your components in either a {0} or {1} components as tags will be deduped more intuitively.",
+  "text": "Il est recommandé d'encapsuler vos composants dans un composant {0} ou {1}, car les balises seront dédupliquées de manière plus intuitive.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Il est recommandé d'encapsuler vos composants dans un composant {0} ou {1}, car les balises seront dédupliquées de manière plus intuitive."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

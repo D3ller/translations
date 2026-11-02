@@ -1,0 +1,14 @@
+{
+  "hash": "b9d42afeaa03d3e2",
+  "source": "Whether to enable rendering of HTML - either dynamically (in server mode) or at generate time. If set to {0} generated pages will have no content.",
+  "text": "Indique s'il faut activer le rendu du HTML, soit dynamiquement (en mode serveur), soit au moment de la génération. Si la valeur est {0}, les pages générées n'auront aucun contenu.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Indique s'il faut activer le rendu du HTML, soit dynamiquement (en mode serveur), soit au moment de la génération. Si la valeur est {0}, les pages générées n'auront aucun contenu."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

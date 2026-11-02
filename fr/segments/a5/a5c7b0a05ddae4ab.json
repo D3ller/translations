@@ -1,0 +1,14 @@
+{
+  "hash": "a5c7b0a05ddae4ab",
+  "source": "{0} has moved to {1}. The old location still works and now warns.",
+  "text": "{0} a été déplacé vers {1}. L'ancien emplacement fonctionne toujours et affiche désormais un avertissement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} a été déplacé vers {1}. L'ancien emplacement fonctionne toujours et affiche désormais un avertissement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

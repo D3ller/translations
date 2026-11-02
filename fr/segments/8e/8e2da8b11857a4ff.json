@@ -1,0 +1,14 @@
+{
+  "hash": "8e2da8b11857a4ff",
+  "source": "Linting",
+  "text": "Linting",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Linting"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "b61ca22a277bd5a7",
+  "source": "Because Nuxt runs Vapor in interop mode, some patterns that rely on the Virtual DOM behave differently inside Vapor components:",
+  "text": "Comme Nuxt exécute Vapor en mode interop, certains patterns qui reposent sur le Virtual DOM se comportent différemment dans les composants Vapor :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Comme Nuxt exécute Vapor en mode interop, certains patterns qui reposent sur le Virtual DOM se comportent différemment dans les composants Vapor :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

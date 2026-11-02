@@ -1,0 +1,14 @@
+{
+  "hash": "c77340a4b9a4c03e",
+  "source": "The error page has a single prop - {0} which contains an error for you to handle.",
+  "text": "La page d'erreur possède une seule prop, {0}, qui contient une erreur à gérer.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La page d'erreur possède une seule prop, {0}, qui contient une erreur à gérer."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

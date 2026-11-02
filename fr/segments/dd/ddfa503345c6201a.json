@@ -1,0 +1,14 @@
+{
+  "hash": "ddfa503345c6201a",
+  "source": "Inline styles with {0} within your {1} don't work; only CSS stylesheets are processed. See {2}when a font isn't picked up{/2}.",
+  "text": "Les styles en ligne avec {0} dans votre {1} ne fonctionnent pas ; seules les feuilles de style CSS sont traitées. Consultez {2}quand une police n'est pas détectée{/2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les styles en ligne avec {0} dans votre {1} ne fonctionnent pas ; seules les feuilles de style CSS sont traitées. Consultez {2}quand une police n'est pas détectée{/2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

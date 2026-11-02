@@ -1,0 +1,14 @@
+{
+  "hash": "e06f9c755094edd4",
+  "source": "You can pass the environment variables as arguments using the terminal:",
+  "text": "Vous pouvez passer les variables d'environnement en arguments depuis le terminal :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez passer les variables d'environnement en arguments depuis le terminal :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

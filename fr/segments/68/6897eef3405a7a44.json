@@ -1,0 +1,14 @@
+{
+  "hash": "6897eef3405a7a44",
+  "source": "When you open the {0}Performance{/0} panel, it instantly shows your local **Largest Contentful Paint (LCP)** and **Cumulative Layout Shift (CLS)** scores (good, needs improvement, or bad).",
+  "text": "Lorsque vous ouvrez le panneau {0}Performance{/0}, il affiche immédiatement vos scores locaux de **Largest Contentful Paint (LCP)** et de **Cumulative Layout Shift (CLS)** (bon, à améliorer ou mauvais).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque vous ouvrez le panneau {0}Performance{/0}, il affiche immédiatement vos scores locaux de **Largest Contentful Paint (LCP)** et de **Cumulative Layout Shift (CLS)** (bon, à améliorer ou mauvais)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "6b0452dd3e497396",
+  "source": "A path is never reloaded if the current document was already served for it, so hosts that respond to unknown paths with an SPA fallback render the client-side 404 page.",
+  "text": "Un chemin n'est jamais rechargé si le document actuel a déjà été servi pour ce chemin ; ainsi, les hébergeurs qui répondent aux chemins inconnus par un fallback SPA affichent la page 404 côté client.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un chemin n'est jamais rechargé si le document actuel a déjà été servi pour ce chemin ; ainsi, les hébergeurs qui répondent aux chemins inconnus par un fallback SPA affichent la page 404 côté client."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "8e68297c0a911bc5",
+  "source": "**Adjust module configuration**: If modules were configured to work around the incorrect order",
+  "text": "**Ajuster la configuration des modules** : si des modules avaient été configurés pour contourner l'ordre incorrect",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Ajuster la configuration des modules** : si des modules avaient été configurés pour contourner l'ordre incorrect"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

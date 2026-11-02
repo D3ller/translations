@@ -1,0 +1,14 @@
+{
+  "hash": "632ec226df307bbc",
+  "source": "In Nuxt Config",
+  "text": "Dans la configuration de Nuxt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans la configuration de Nuxt"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

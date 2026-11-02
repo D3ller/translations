@@ -1,0 +1,14 @@
+{
+  "hash": "d74356324228c034",
+  "source": "Build client and server bundles",
+  "text": "Construire les bundles client et serveur",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Construire les bundles client et serveur"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "78814a2692526ca6",
+  "source": "**What's server-rendered and what's client-rendered?**",
+  "text": "**Qu'est-ce qui est rendu côté serveur et qu'est-ce qui est rendu côté client ?**",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Qu'est-ce qui est rendu côté serveur et qu'est-ce qui est rendu côté client ?**"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "573928c19757a908",
+  "source": "Nuxt tries to automatically generate a TypeScript interface from provided app config so you won't have to type it yourself.",
+  "text": "Nuxt essaie de générer automatiquement une interface TypeScript à partir de l'app config fournie, afin que vous n'ayez pas à la typer vous-même.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt essaie de générer automatiquement une interface TypeScript à partir de l'app config fournie, afin que vous n'ayez pas à la typer vous-même."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "5fd091e454ddee50",
+  "source": "Set {0} so {1} is also {2} when {3} is {4} and no cached data is available. Use {5} when your loading UI needs to distinguish {6} from an in-flight request.",
+  "text": "Définissez {0} pour que {1} soit également {2} lorsque {3} vaut {4} et qu'aucune donnée en cache n'est disponible. Utilisez {5} lorsque votre interface de chargement doit distinguer {6} d'une requête en cours.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définissez {0} pour que {1} soit également {2} lorsque {3} vaut {4} et qu'aucune donnée en cache n'est disponible. Utilisez {5} lorsque votre interface de chargement doit distinguer {6} d'une requête en cours."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

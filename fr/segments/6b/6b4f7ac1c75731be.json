@@ -1,0 +1,14 @@
+{
+  "hash": "6b4f7ac1c75731be",
+  "source": "If you were using {0} you can achieve same result by updating route name generation logic in the new {1} hook:",
+  "text": "Si vous utilisiez {0}, vous pouvez obtenir le même résultat en modifiant la logique de génération des noms de route dans le nouveau hook {1} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous utilisiez {0}, vous pouvez obtenir le même résultat en modifiant la logique de génération des noms de route dans le nouveau hook {1} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

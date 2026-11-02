@@ -1,0 +1,14 @@
+{
+  "hash": "e171c40f7f805fe6",
+  "source": "Add the capo.js head plugin in order to render tags in of the head in a more performant way.",
+  "text": "Ajoute le plugin head capo.js afin de rendre les balises du head de manière plus performante.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ajoute le plugin head capo.js afin de rendre les balises du head de manière plus performante."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

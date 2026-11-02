@@ -1,0 +1,14 @@
+{
+  "hash": "d72a7f43146f7c6d",
+  "source": "Default Mode (plain object)",
+  "text": "Mode par défaut (objet simple)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mode par défaut (objet simple)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "1bfdf901abd8e7fa",
+  "source": "**Early return from {0}**: {1} stops a middleware continuing after it redirects",
+  "text": "**Retour anticipé depuis {0}** : {1} empêche un middleware de continuer après une redirection",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Retour anticipé depuis {0}** : {1} empêche un middleware de continuer après une redirection"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

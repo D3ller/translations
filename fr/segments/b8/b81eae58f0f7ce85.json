@@ -1,0 +1,14 @@
+{
+  "hash": "b81eae58f0f7ce85",
+  "source": "To use a different package manager, replace {0} with your preferred manager (for example, {1}) and update the {2} accordingly.",
+  "text": "Pour utiliser un autre gestionnaire de packages, remplacez {0} par le gestionnaire de votre choix (par exemple, {1}) et mettez à jour {2} en conséquence.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour utiliser un autre gestionnaire de packages, remplacez {0} par le gestionnaire de votre choix (par exemple, {1}) et mettez à jour {2} en conséquence."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

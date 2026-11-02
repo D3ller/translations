@@ -1,0 +1,14 @@
+{
+  "hash": "932885c77991f742",
+  "source": "Sometimes you need to resolve a path relative to the current module without knowing the name or extension. For example, you may want to add a plugin that is located in the same directory as the module. To handle these cases, Nuxt provides a set of utilities to resolve paths. {0} and {1} are used to resolve paths relative to the current module. {2} is used to find the first existing file in a given set of paths. {3} is used to create a resolver relative to the base path.",
+  "text": "Vous avez parfois besoin de résoudre un chemin relatif au module courant sans connaître son nom ou son extension. Par exemple, vous pouvez vouloir ajouter un plugin situé dans le même répertoire que le module. Pour gérer ces cas, Nuxt fournit un ensemble d'utilitaires de résolution de chemins. {0} et {1} servent à résoudre des chemins relatifs au module courant. {2} sert à trouver le premier fichier existant dans un ensemble de chemins donné. {3} sert à créer un résolveur relatif au chemin de base.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous avez parfois besoin de résoudre un chemin relatif au module courant sans connaître son nom ou son extension. Par exemple, vous pouvez vouloir ajouter un plugin situé dans le même répertoire que le module. Pour gérer ces cas, Nuxt fournit un ensemble d'utilitaires de résolution de chemins. {0} et {1} servent à résoudre des chemins relatifs au module courant. {2} sert à trouver le premier fichier existant dans un ensemble de chemins donné. {3} sert à créer un résolveur relatif au chemin de base."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

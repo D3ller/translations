@@ -1,0 +1,14 @@
+{
+  "hash": "48458fb95f518de5",
+  "source": "{0} allows you create Nitro endpoint that returns mocked data. It can come in handy if you want to test a component that makes requests to API to display some data.",
+  "text": "{0} vous permet de créer un endpoint Nitro qui retourne des données mockées. Cela peut être utile si vous souhaitez tester un composant qui effectue des requêtes vers une API pour afficher des données.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} vous permet de créer un endpoint Nitro qui retourne des données mockées. Cela peut être utile si vous souhaitez tester un composant qui effectue des requêtes vers une API pour afficher des données."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

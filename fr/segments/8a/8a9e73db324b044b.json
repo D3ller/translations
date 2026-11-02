@@ -1,0 +1,14 @@
+{
+  "hash": "8a9e73db324b044b",
+  "source": "Browse the log history",
+  "text": "Parcourir l'historique des logs",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Parcourir l'historique des logs"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

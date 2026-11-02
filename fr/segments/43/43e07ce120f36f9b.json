@@ -1,0 +1,14 @@
+{
+  "hash": "43e07ce120f36f9b",
+  "source": "{0} is typed on the created composable",
+  "text": "{0} est typé sur le composable créé",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est typé sur le composable créé"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "3bcde2bd9f0602db",
+  "source": "**Parsed {0}**: {1} is forced on, so {2} reaches the error page unstringified",
+  "text": "**{0} analysé** : {1} est forcé à activé, donc {2} atteint la page d'erreur sans être converti en chaîne",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0} analysé** : {1} est forcé à activé, donc {2} atteint la page d'erreur sans être converti en chaîne"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

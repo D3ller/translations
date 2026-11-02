@@ -1,0 +1,14 @@
+{
+  "hash": "159b6af45dcd28d2",
+  "source": "Child folders in your {0} folder are scanned for {1} files and we wanted to make this behavior consistent between scanned directories.",
+  "text": "Les sous-dossiers de votre dossier {0} sont analysés à la recherche de fichiers {1}, et nous voulions rendre ce comportement cohérent entre les répertoires analysés.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les sous-dossiers de votre dossier {0} sont analysés à la recherche de fichiers {1}, et nous voulions rendre ce comportement cohérent entre les répertoires analysés."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

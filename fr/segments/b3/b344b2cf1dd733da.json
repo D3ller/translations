@@ -1,0 +1,14 @@
+{
+  "hash": "b344b2cf1dd733da",
+  "source": "do something before the route handler",
+  "text": "faire quelque chose avant le handler de la route",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "faire quelque chose avant le handler de la route"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

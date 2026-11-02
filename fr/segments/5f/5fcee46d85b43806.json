@@ -1,0 +1,14 @@
+{
+  "hash": "5fcee46d85b43806",
+  "source": "**Removed options**: {0}Several experimental options{/0} are gone, because the behavior they controlled is now unconditional",
+  "text": "**Options supprimées** : {0}plusieurs options expérimentales{/0} ont disparu, car le comportement qu'elles contrôlaient est désormais inconditionnel",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Options supprimées** : {0}plusieurs options expérimentales{/0} ont disparu, car le comportement qu'elles contrôlaient est désormais inconditionnel"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

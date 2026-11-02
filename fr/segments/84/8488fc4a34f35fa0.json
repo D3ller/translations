@@ -1,0 +1,14 @@
+{
+  "hash": "8488fc4a34f35fa0",
+  "source": "The useSeoMeta composable lets you define your site's SEO meta tags as a flat object with full TypeScript support.",
+  "text": "Le composable useSeoMeta vous permet de définir les balises meta SEO de votre site sous forme d'objet plat, avec une prise en charge complète de TypeScript.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le composable useSeoMeta vous permet de définir les balises meta SEO de votre site sous forme d'objet plat, avec une prise en charge complète de TypeScript."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

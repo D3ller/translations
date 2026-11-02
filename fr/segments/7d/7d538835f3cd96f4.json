@@ -1,0 +1,14 @@
+{
+  "hash": "7d538835f3cd96f4",
+  "source": "Font metadata is cached per project",
+  "text": "Les métadonnées de police sont mises en cache par projet",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les métadonnées de police sont mises en cache par projet"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "392af2fb1aeb9400",
+  "source": "When you need to overwrite this behavior you can use the {0} or {1} props.",
+  "text": "Lorsque vous devez modifier ce comportement, vous pouvez utiliser les props {0} ou {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque vous devez modifier ce comportement, vous pouvez utiliser les props {0} ou {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

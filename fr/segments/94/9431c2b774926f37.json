@@ -1,0 +1,14 @@
+{
+  "hash": "9431c2b774926f37",
+  "source": "Never let an LLM speak for you",
+  "text": "Ne laissez jamais un LLM parler à votre place",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ne laissez jamais un LLM parler à votre place"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

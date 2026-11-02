@@ -1,0 +1,14 @@
+{
+  "hash": "2c4306c13af8462b",
+  "source": "{0}: access route query parameters",
+  "text": "{0} : permet d'accéder aux paramètres de requête de la route",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : permet d'accéder aux paramètres de requête de la route"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

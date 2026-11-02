@@ -1,0 +1,14 @@
+{
+  "hash": "5b9c7ca476d5ff00",
+  "source": "Use the exact kebab-case MCP tool names returned by the server, for example:",
+  "text": "Utilisez les noms exacts des outils MCP en kebab-case renvoyés par le serveur, par exemple :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utilisez les noms exacts des outils MCP en kebab-case renvoyés par le serveur, par exemple :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

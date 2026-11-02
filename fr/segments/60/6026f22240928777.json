@@ -1,0 +1,14 @@
+{
+  "hash": "6026f22240928777",
+  "source": "In development, an app builder also serves and hot-reloads the app. Two things matter:",
+  "text": "En développement, un builder d'application sert également l'application et la recharge à chaud. Deux points importants :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En développement, un builder d'application sert également l'application et la recharge à chaud. Deux points importants :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

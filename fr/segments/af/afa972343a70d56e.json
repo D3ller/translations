@@ -1,0 +1,14 @@
+{
+  "hash": "afa972343a70d56e",
+  "source": "{0}is implementable in user-land with {1}server middleware{/1}",
+  "text": "{0} peut être implémenté côté utilisateur avec un {1}middleware serveur{/1}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} peut être implémenté côté utilisateur avec un {1}middleware serveur{/1}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

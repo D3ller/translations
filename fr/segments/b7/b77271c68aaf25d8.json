@@ -1,0 +1,14 @@
+{
+  "hash": "b77271c68aaf25d8",
+  "source": "**Broken interactivity**: Event listeners may not attach properly, leaving buttons and forms non-functional",
+  "text": "**Interactivité défaillante** : les écouteurs d'événements peuvent ne pas s'attacher correctement, ce qui rend les boutons et les formulaires non fonctionnels",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Interactivité défaillante** : les écouteurs d'événements peuvent ne pas s'attacher correctement, ce qui rend les boutons et les formulaires non fonctionnels"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "2330b912310e45e5",
+  "source": "You cannot currently define a server-side handler for these errors, but can render an error page, see the {0}Render an Error Page{/0} section.",
+  "text": "Vous ne pouvez pas actuellement définir de gestionnaire côté serveur pour ces erreurs, mais vous pouvez afficher une page d'erreur, consultez la section {0}Afficher une page d'erreur{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous ne pouvez pas actuellement définir de gestionnaire côté serveur pour ces erreurs, mais vous pouvez afficher une page d'erreur, consultez la section {0}Afficher une page d'erreur{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "c54a9e4c5dd991aa",
+  "source": "Supports native lazy loading as well as other {0} attributes",
+  "text": "Prend en charge le chargement différé natif ainsi que d'autres attributs {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Prend en charge le chargement différé natif ainsi que d'autres attributs {0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "07d18b60fd30ab8f",
+  "source": "After all required data is fetched and the components are rendered, Nuxt combines the rendered components with settings from {0} to generate a complete HTML document. This HTML, along with the associated data, is then sent back to the client to complete the SSR process.",
+  "text": "Une fois toutes les données requises récupérées et les composants rendus, Nuxt combine les composants rendus avec les paramètres de {0} pour générer un document HTML complet. Ce HTML, accompagné des données associées, est ensuite renvoyé au client pour terminer le processus de SSR.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une fois toutes les données requises récupérées et les composants rendus, Nuxt combine les composants rendus avec les paramètres de {0} pour générer un document HTML complet. Ce HTML, accompagné des données associées, est ensuite renvoyé au client pour terminer le processus de SSR."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

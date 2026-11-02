@@ -1,0 +1,14 @@
+{
+  "hash": "0f2c7e84a6914763",
+  "source": "lowest priority (among the listed layers)",
+  "text": "priorité la plus basse (parmi les layers listées)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "priorité la plus basse (parmi les layers listées)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

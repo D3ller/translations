@@ -1,0 +1,14 @@
+{
+  "hash": "4d649b7a1ccc3120",
+  "source": "For best performance, components placed in this directory will be automatically loaded via asynchronous import when used.",
+  "text": "Pour de meilleures performances, les composants placés dans ce répertoire seront automatiquement chargés via un import asynchrone lorsqu'ils sont utilisés.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour de meilleures performances, les composants placés dans ce répertoire seront automatiquement chargés via un import asynchrone lorsqu'ils sont utilisés."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

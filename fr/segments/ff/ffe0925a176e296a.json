@@ -1,0 +1,14 @@
+{
+  "hash": "ffe0925a176e296a",
+  "source": "By default, {0} uses Vue Router's client side navigation for relative route. When linking to static files in the {1} directory or to another application hosted on the same domain, it might result in unexpected 404 errors because they are not part of the client routes. In such cases, you can use the {2} prop with {3} to bypass Vue Router's internal routing mechanism.",
+  "text": "Par défaut, {0} utilise la navigation côté client de Vue Router pour les routes relatives. Lorsque vous créez un lien vers des fichiers statiques du répertoire {1} ou vers une autre application hébergée sur le même domaine, cela peut provoquer des erreurs 404 inattendues, car ces ressources ne font pas partie des routes client. Dans ce cas, vous pouvez utiliser la prop {2} avec {3} pour contourner le mécanisme de routage interne de Vue Router.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par défaut, {0} utilise la navigation côté client de Vue Router pour les routes relatives. Lorsque vous créez un lien vers des fichiers statiques du répertoire {1} ou vers une autre application hébergée sur le même domaine, cela peut provoquer des erreurs 404 inattendues, car ces ressources ne font pas partie des routes client. Dans ce cas, vous pouvez utiliser la prop {2} avec {3} pour contourner le mécanisme de routage interne de Vue Router."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

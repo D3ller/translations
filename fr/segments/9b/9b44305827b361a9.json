@@ -1,0 +1,14 @@
+{
+  "hash": "9b44305827b361a9",
+  "source": "This option is deprecated and will be removed. It is forced on and setting it is ignored.",
+  "text": "Cette option est obsolète et sera supprimée. Elle est forcée à l'état activé et sa valeur est ignorée.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cette option est obsolète et sera supprimée. Elle est forcée à l'état activé et sa valeur est ignorée."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

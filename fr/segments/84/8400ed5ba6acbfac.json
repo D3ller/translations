@@ -1,0 +1,14 @@
+{
+  "hash": "8400ed5ba6acbfac",
+  "source": "Nuxt will prompt you to install these automatically if they are not already present.",
+  "text": "Nuxt vous proposera de les installer automatiquement s'ils ne sont pas déjà présents.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt vous proposera de les installer automatiquement s'ils ne sont pas déjà présents."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "60588bc1da8a1ca9",
+  "source": "The plugins directory, each file of which will be auto-registered as a Nuxt plugin.",
+  "text": "Le répertoire des plugins, dont chaque fichier sera enregistré automatiquement comme plugin Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le répertoire des plugins, dont chaque fichier sera enregistré automatiquement comme plugin Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

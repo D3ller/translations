@@ -1,0 +1,14 @@
+{
+  "hash": "dad69b15956a1306",
+  "source": "Allows reading the resolved webpack config.",
+  "text": "Permet de lire la configuration webpack résolue.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Permet de lire la configuration webpack résolue."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "685b123c9d23968e",
+  "source": "Read more about payload extraction and the consequences of each mode.",
+  "text": "En savoir plus sur l'extraction du payload et les conséquences de chaque mode.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En savoir plus sur l'extraction du payload et les conséquences de chaque mode."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

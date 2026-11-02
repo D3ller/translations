@@ -1,0 +1,14 @@
+{
+  "hash": "0d6b0f3218ba1e52",
+  "source": "Opening a Page in a New Tab",
+  "text": "Ouvrir une page dans un nouvel onglet",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ouvrir une page dans un nouvel onglet"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

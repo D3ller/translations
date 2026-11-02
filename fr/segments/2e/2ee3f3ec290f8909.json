@@ -1,0 +1,14 @@
+{
+  "hash": "2ee3f3ec290f8909",
+  "source": "Remote repository",
+  "text": "Dépôt distant",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dépôt distant"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

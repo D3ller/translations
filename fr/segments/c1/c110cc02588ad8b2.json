@@ -1,0 +1,14 @@
+{
+  "hash": "c110cc02588ad8b2",
+  "source": "Nuxt 5 is still in development, so this page changes as further work lands. Check back here regularly while you are migrating.",
+  "text": "Nuxt 5 est toujours en développement, cette page évolue donc au fil des nouveaux travaux. Revenez la consulter régulièrement pendant votre migration.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt 5 est toujours en développement, cette page évolue donc au fil des nouveaux travaux. Revenez la consulter régulièrement pendant votre migration."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

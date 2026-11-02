@@ -1,0 +1,14 @@
+{
+  "hash": "d1ecc7a411b91a10",
+  "source": "Alternatively, you can control the order of your {0} directories from {1} by referencing them in {2}, without renaming your directories. The entries are ordered like any other {3} layer, with the **first entry having the highest priority**:",
+  "text": "Vous pouvez également contrôler l'ordre de vos répertoires {0} depuis {1} en les référençant dans {2}, sans renommer vos répertoires. Les entrées sont ordonnées comme n'importe quelle autre layer {3}, la **première entrée ayant la priorité la plus haute** :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez également contrôler l'ordre de vos répertoires {0} depuis {1} en les référençant dans {2}, sans renommer vos répertoires. Les entrées sont ordonnées comme n'importe quelle autre layer {3}, la **première entrée ayant la priorité la plus haute** :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

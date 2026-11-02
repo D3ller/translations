@@ -1,0 +1,14 @@
+{
+  "hash": "24ce6899ab8a31a4",
+  "source": "The following sections detail the key changes and migrations needed when upgrading to Nuxt 4.",
+  "text": "Les sections suivantes détaillent les principaux changements et les migrations nécessaires lors du passage à Nuxt 4.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les sections suivantes détaillent les principaux changements et les migrations nécessaires lors du passage à Nuxt 4."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

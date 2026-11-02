@@ -1,0 +1,14 @@
+{
+  "hash": "ec81d13957029c5b",
+  "source": "Nuxt does not currently support an alternative serializer to {0}. However, you can return your payload as a normal string and utilize the {1} method to maintain type safety.",
+  "text": "Nuxt ne prend actuellement pas en charge d'autre sérialiseur que {0}. Cependant, vous pouvez retourner votre payload (charge utile) sous forme de chaîne de caractères classique et utiliser la méthode {1} pour préserver la sûreté des types.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt ne prend actuellement pas en charge d'autre sérialiseur que {0}. Cependant, vous pouvez retourner votre payload (charge utile) sous forme de chaîne de caractères classique et utiliser la méthode {1} pour préserver la sûreté des types."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "31f1e0c15d53f11b",
+  "source": "See {0} for the full set of values.",
+  "text": "Consultez {0} pour l'ensemble des valeurs possibles.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Consultez {0} pour l'ensemble des valeurs possibles."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

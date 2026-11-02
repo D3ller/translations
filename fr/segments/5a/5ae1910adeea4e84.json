@@ -1,0 +1,14 @@
+{
+  "hash": "5ae1910adeea4e84",
+  "source": "Family-level {0} descriptors now apply to provider fonts",
+  "text": "Les descripteurs {0} au niveau de la famille s'appliquent désormais aux polices des fournisseurs",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les descripteurs {0} au niveau de la famille s'appliquent désormais aux polices des fournisseurs"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

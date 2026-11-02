@@ -1,0 +1,14 @@
+{
+  "hash": "bd26c25e681a50fb",
+  "source": "**Reloads** happen when you call {0} as a compilation finishes. The official app builders emit a {1} hook (for example {2} or {3}) that the server integration listens to in order to reload.",
+  "text": "Les **rechargements** ont lieu lorsque vous appelez {0} à la fin d'une compilation. Les builders d'application officiels émettent un hook {1} (par exemple {2} ou {3}) que l'intégration serveur écoute afin de recharger.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les **rechargements** ont lieu lorsque vous appelez {0} à la fin d'une compilation. Les builders d'application officiels émettent un hook {1} (par exemple {2} ou {3}) que l'intégration serveur écoute afin de recharger."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

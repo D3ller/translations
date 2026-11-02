@@ -1,0 +1,14 @@
+{
+  "hash": "aca2da07f9d47adb",
+  "source": "Vue lifecycle",
+  "text": "Cycle de vie de Vue",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cycle de vie de Vue"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

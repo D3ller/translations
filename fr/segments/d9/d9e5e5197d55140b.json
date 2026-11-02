@@ -1,0 +1,14 @@
+{
+  "hash": "d9e5e5197d55140b",
+  "source": "Basic Manipulation",
+  "text": "Manipulation de base",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Manipulation de base"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

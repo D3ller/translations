@@ -1,0 +1,14 @@
+{
+  "hash": "da36e5a5e160b3c3",
+  "source": "Testing with Playwright Test Runner",
+  "text": "Tester avec le lanceur de tests de Playwright",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Tester avec le lanceur de tests de Playwright"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

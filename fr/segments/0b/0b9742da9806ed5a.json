@@ -1,0 +1,14 @@
+{
+  "hash": "0b9742da9806ed5a",
+  "source": "Allow developers and modules to handle loading third-party assets.",
+  "text": "Permettre aux développeurs et aux modules de gérer le chargement des assets tiers.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Permettre aux développeurs et aux modules de gérer le chargement des assets tiers."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

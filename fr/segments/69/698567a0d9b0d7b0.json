@@ -1,0 +1,14 @@
+{
+  "hash": "698567a0d9b0d7b0",
+  "source": "Fonts installed from npm",
+  "text": "Polices installées depuis npm",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Polices installées depuis npm"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "1ce97722633034e4",
+  "source": "Augment Types",
+  "text": "Augmenter les types",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Augmenter les types"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

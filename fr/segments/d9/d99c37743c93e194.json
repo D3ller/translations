@@ -1,0 +1,14 @@
+{
+  "hash": "d99c37743c93e194",
+  "source": "Speed > Settings > Content Optimization > Disable \"Rocket Loader™\"",
+  "text": "Speed > Settings > Content Optimization > désactivez « Rocket Loader™ »",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Speed > Settings > Content Optimization > désactivez « Rocket Loader™ »"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

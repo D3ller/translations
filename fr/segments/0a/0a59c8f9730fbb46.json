@@ -1,0 +1,14 @@
+{
+  "hash": "0a59c8f9730fbb46",
+  "source": "Package manager choice (npm, pnpm, yarn, bun)",
+  "text": "Choix du gestionnaire de packages (npm, pnpm, yarn, bun)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Choix du gestionnaire de packages (npm, pnpm, yarn, bun)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

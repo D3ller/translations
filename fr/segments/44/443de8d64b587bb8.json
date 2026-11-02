@@ -1,0 +1,14 @@
+{
+  "hash": "443de8d64b587bb8",
+  "source": "You can also pass a function that receives the path of a Vue component and returns a boolean indicating whether to inline the styles for that component.",
+  "text": "Vous pouvez également passer une fonction qui reçoit le chemin d'un composant Vue et retourne un booléen indiquant s'il faut intégrer les styles de ce composant en ligne.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez également passer une fonction qui reçoit le chemin d'un composant Vue et retourne un booléen indiquant s'il faut intégrer les styles de ce composant en ligne."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

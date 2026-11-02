@@ -1,0 +1,14 @@
+{
+  "hash": "3eda8b0934545191",
+  "source": "lightningcss is an optional peer dependency, as its native binary is several megabytes. Nuxt v4.5 (with Vite 8) brings this in, but if you are using an earlier version of Nuxt, you will need to install it manually to enable css minification.",
+  "text": "lightningcss est une dépendance peer optionnelle, car son binaire natif pèse plusieurs mégaoctets. Nuxt v4.5 (avec Vite 8) l'inclut, mais si vous utilisez une version antérieure de Nuxt, vous devrez l'installer manuellement pour activer la minification du CSS.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "lightningcss est une dépendance peer optionnelle, car son binaire natif pèse plusieurs mégaoctets. Nuxt v4.5 (avec Vite 8) l'inclut, mais si vous utilisez une version antérieure de Nuxt, vous devrez l'installer manuellement pour activer la minification du CSS."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "cbb91582ea3b9113",
+  "source": "This will entirely replace the existing inferred {0} property",
+  "text": "Cela remplacera entièrement la propriété {0} inférée existante",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela remplacera entièrement la propriété {0} inférée existante"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

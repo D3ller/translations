@@ -1,0 +1,14 @@
+{
+  "hash": "7e3e787854a18ca6",
+  "source": "Payload files will be generated for these cached routes",
+  "text": "Des fichiers de payload seront générés pour ces routes mises en cache",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Des fichiers de payload seront générés pour ces routes mises en cache"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

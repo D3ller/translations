@@ -1,0 +1,14 @@
+{
+  "hash": "65979dda817ccc2b",
+  "source": "Nuxt applications have a specific directory structure that is used to organize the code. This structure is designed to be easy to understand and to be used in a consistent way.",
+  "text": "Les applications Nuxt ont une structure de répertoires spécifique qui sert à organiser le code. Cette structure est conçue pour être facile à comprendre et à utiliser de manière cohérente.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les applications Nuxt ont une structure de répertoires spécifique qui sert à organiser le code. Cette structure est conçue pour être facile à comprendre et à utiliser de manière cohérente."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

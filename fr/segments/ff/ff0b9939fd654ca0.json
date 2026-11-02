@@ -1,0 +1,14 @@
+{
+  "hash": "ff0b9939fd654ca0",
+  "source": "v1 follows v0.14, as v0.15 was never released. If you are on v0.14, everything in this section applies to you.",
+  "text": "La v1 fait suite à la v0.14, car la v0.15 n'a jamais été publiée. Si vous utilisez la v0.14, tout ce qui figure dans cette section vous concerne.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La v1 fait suite à la v0.14, car la v0.15 n'a jamais été publiée. Si vous utilisez la v0.14, tout ce qui figure dans cette section vous concerne."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

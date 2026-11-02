@@ -1,0 +1,14 @@
+{
+  "hash": "b21fa8e61c7d7f38",
+  "source": "This example changes fancy chunk names to numerical ids:",
+  "text": "Cet exemple remplace les noms de chunks fantaisistes par des identifiants numériques :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cet exemple remplace les noms de chunks fantaisistes par des identifiants numériques :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "7baf35fdeca8c9d7",
+  "source": "**Creates font fallback metrics.** If we have access to the font metrics (ascent, descent, line gap, character width, etc.) then we can generate a fallback {0} declaration as well, using {1}fontaine{/1}. The idea is that we 'morph' a local system font (like Arial or Times New Roman) to be as close as possible to the size of the web font, to decrease layout shift ({2}read more about CLS{/2}).",
+  "text": "**Crée des métriques de police de repli.** Si nous avons accès aux métriques de la police (ascendante, descendante, interligne, largeur des caractères, etc.), nous pouvons également générer une déclaration {0} de repli, grâce à {1}fontaine{/1}. L'idée est de « transformer » une police système locale (comme Arial ou Times New Roman) pour qu'elle soit aussi proche que possible de la taille de la police web, afin de réduire le décalage de mise en page ({2}en savoir plus sur le CLS{/2}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Crée des métriques de police de repli.** Si nous avons accès aux métriques de la police (ascendante, descendante, interligne, largeur des caractères, etc.), nous pouvons également générer une déclaration {0} de repli, grâce à {1}fontaine{/1}. L'idée est de « transformer » une police système locale (comme Arial ou Times New Roman) pour qu'elle soit aussi proche que possible de la taille de la police web, afin de réduire le décalage de mise en page ({2}en savoir plus sur le CLS{/2})."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

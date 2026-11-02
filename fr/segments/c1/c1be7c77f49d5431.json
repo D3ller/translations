@@ -1,0 +1,14 @@
+{
+  "hash": "c1be7c77f49d5431",
+  "source": "Workaround: put paint-critical styles in a global CSS file registered via {0}. Global CSS files are emitted as {1} in the shell {2} and apply before body content streams. SFC {3} blocks remain fine for component-scoped styling that doesn't gate the initial paint.",
+  "text": "Contournement : placez les styles critiques pour l'affichage dans un fichier CSS global enregistré via {0}. Les fichiers CSS globaux sont émis sous forme de {1} dans le {2} du shell et s'appliquent avant le streaming du contenu du body. Les blocs {3} des SFC restent adaptés au style propre à un composant qui ne conditionne pas le premier affichage.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Contournement : placez les styles critiques pour l'affichage dans un fichier CSS global enregistré via {0}. Les fichiers CSS globaux sont émis sous forme de {1} dans le {2} du shell et s'appliquent avant le streaming du contenu du body. Les blocs {3} des SFC restent adaptés au style propre à un composant qui ne conditionne pas le premier affichage."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

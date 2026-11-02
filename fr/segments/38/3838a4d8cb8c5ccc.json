@@ -1,0 +1,14 @@
+{
+  "hash": "3838a4d8cb8c5ccc",
+  "source": "Tips",
+  "text": "Astuces",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Astuces"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

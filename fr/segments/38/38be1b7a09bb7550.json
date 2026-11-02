@@ -1,0 +1,14 @@
+{
+  "hash": "38be1b7a09bb7550",
+  "source": "Property path of the changed value, with array indices as numbers, such as {0}. Prefer this when reading the value back out of a config object.",
+  "text": "Chemin de propriété de la valeur modifiée, avec les indices de tableau sous forme de nombres, par exemple {0}. Privilégiez-le pour relire la valeur depuis un objet de configuration.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Chemin de propriété de la valeur modifiée, avec les indices de tableau sous forme de nombres, par exemple {0}. Privilégiez-le pour relire la valeur depuis un objet de configuration."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

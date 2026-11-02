@@ -1,0 +1,14 @@
+{
+  "hash": "eeb108b1b565537f",
+  "source": "Path to the destination file. If {0} is not provided, it will be generated from the {1} path and nuxt {2} option.",
+  "text": "Chemin du fichier de destination. Si {0} n'est pas fourni, il sera généré à partir du chemin {1} et de l'option {2} de Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Chemin du fichier de destination. Si {0} n'est pas fourni, il sera généré à partir du chemin {1} et de l'option {2} de Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

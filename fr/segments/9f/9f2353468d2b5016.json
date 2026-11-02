@@ -1,0 +1,14 @@
+{
+  "hash": "9f2353468d2b5016",
+  "source": "Nitro v2 config shapes and removed-option warnings",
+  "text": "les formes de configuration de Nitro v2 et les avertissements sur les options supprimées",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "les formes de configuration de Nitro v2 et les avertissements sur les options supprimées"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

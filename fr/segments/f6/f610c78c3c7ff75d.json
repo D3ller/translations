@@ -1,0 +1,14 @@
+{
+  "hash": "f610c78c3c7ff75d",
+  "source": "Remove any entries in your {0} plugins array that are located in your {1} folder. All files in this directory at the top level (and any index files in any subdirectories) will be automatically registered. Instead of setting {2} to {3} or {4}, you can indicate this in the file name. For example, {5} will only be loaded on client-side.",
+  "text": "Supprimez toutes les entrées du tableau de plugins de votre {0} qui se trouvent dans votre dossier {1}. Tous les fichiers de ce répertoire au premier niveau (et tous les fichiers index de ses sous-répertoires) seront enregistrés automatiquement. Au lieu de définir {2} sur {3} ou {4}, vous pouvez l'indiquer dans le nom du fichier. Par exemple, {5} ne sera chargé que côté client.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Supprimez toutes les entrées du tableau de plugins de votre {0} qui se trouvent dans votre dossier {1}. Tous les fichiers de ce répertoire au premier niveau (et tous les fichiers index de ses sous-répertoires) seront enregistrés automatiquement. Au lieu de définir {2} sur {3} ou {4}, vous pouvez l'indiquer dans le nom du fichier. Par exemple, {5} ne sera chargé que côté client."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

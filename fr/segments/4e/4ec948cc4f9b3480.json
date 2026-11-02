@@ -1,0 +1,14 @@
+{
+  "hash": "4ec948cc4f9b3480",
+  "source": "We do not add any commit hooks to allow for quick commits. But before you make a pull request, you should ensure that any lint/test scripts are passing.",
+  "text": "Nous n'ajoutons aucun hook de commit afin de permettre des commits rapides. Mais avant de créer une pull request, vous devez vous assurer que les scripts de lint et de test passent.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nous n'ajoutons aucun hook de commit afin de permettre des commits rapides. Mais avant de créer une pull request, vous devez vous assurer que les scripts de lint et de test passent."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

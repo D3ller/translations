@@ -1,0 +1,14 @@
+{
+  "hash": "02cc109e0b7f962f",
+  "source": "Vue will log hydration mismatch warnings in the browser console during development:",
+  "text": "Vue affiche des avertissements de non-correspondance d'hydratation dans la console du navigateur pendant le développement :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vue affiche des avertissements de non-correspondance d'hydratation dans la console du navigateur pendant le développement :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

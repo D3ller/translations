@@ -1,0 +1,14 @@
+{
+  "hash": "a0bf88a5d326a977",
+  "source": "On macOS/Linux, this file is located at:",
+  "text": "Sur macOS/Linux, ce fichier se trouve à l'emplacement suivant :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sur macOS/Linux, ce fichier se trouve à l'emplacement suivant :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "5f7ea07eda401e01",
+  "source": "For local development or automated deploy pipelines, testing against a separate local server can be more efficient and is typically faster than allowing the test framework to rebuild between tests.",
+  "text": "Pour le développement local ou les pipelines de déploiement automatisés, tester sur un serveur local distinct peut être plus efficace et est généralement plus rapide que de laisser le framework de test reconstruire l'application entre les tests.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour le développement local ou les pipelines de déploiement automatisés, tester sur un serveur local distinct peut être plus efficace et est généralement plus rapide que de laisser le framework de test reconstruire l'application entre les tests."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

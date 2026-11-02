@@ -1,0 +1,14 @@
+{
+  "hash": "88da1c53e8b87ea0",
+  "source": "**{0}**: Loading conditions for Nuxt. {1} uses {2} under the hood, so it accepts the same options as {3} with some additional options:",
+  "text": "**{0}** : conditions de chargement de Nuxt. {1} utilise {2} en interne, il accepte donc les mêmes options que {3}, avec quelques options supplémentaires :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** : conditions de chargement de Nuxt. {1} utilise {2} en interne, il accepte donc les mêmes options que {3}, avec quelques options supplémentaires :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

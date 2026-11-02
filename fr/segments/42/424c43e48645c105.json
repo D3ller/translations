@@ -1,0 +1,14 @@
+{
+  "hash": "424c43e48645c105",
+  "source": "The initial step from CJS to ESM is updating any usage of {0} to use {1} instead:",
+  "text": "La première étape pour passer de CJS à ESM consiste à remplacer toute utilisation de {0} par {1} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La première étape pour passer de CJS à ESM consiste à remplacer toute utilisation de {0} par {1} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "e09073d3c73eb347",
+  "source": "Any uncaught errors will return a {0} HTTP Error.",
+  "text": "Toute erreur non interceptée renverra une erreur HTTP {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Toute erreur non interceptée renverra une erreur HTTP {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

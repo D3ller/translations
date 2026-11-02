@@ -1,0 +1,14 @@
+{
+  "hash": "1cba783e71e921c7",
+  "source": "Directory index scanning",
+  "text": "Analyse des index de répertoire",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Analyse des index de répertoire"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "70fbb54bd5e6ff77",
+  "source": "What happens",
+  "text": "Ce qui se passe",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ce qui se passe"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

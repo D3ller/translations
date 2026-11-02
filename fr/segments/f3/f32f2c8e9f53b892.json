@@ -1,0 +1,14 @@
+{
+  "hash": "f32f2c8e9f53b892",
+  "source": "Add a filename to code blocks so readers know where the code belongs. If the code doesn't belong in a particular file (for example, a shell command), use a descriptive label like {0}.",
+  "text": "Ajoutez un nom de fichier aux blocs de code afin que les lecteurs sachent où placer le code. Si le code n'appartient pas à un fichier particulier (par exemple, une commande shell), utilisez une étiquette descriptive comme {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ajoutez un nom de fichier aux blocs de code afin que les lecteurs sachent où placer le code. Si le code n'appartient pas à un fichier particulier (par exemple, une commande shell), utilisez une étiquette descriptive comme {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

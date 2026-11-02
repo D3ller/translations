@@ -1,0 +1,14 @@
+{
+  "hash": "0785008b5dc7b88b",
+  "source": "To expose config and environment variables to the rest of your app, you will need to define runtime configuration in your {0} file, using the {1} option.",
+  "text": "Pour exposer la configuration et les variables d'environnement au reste de votre application, vous devez définir la runtime config dans votre fichier {0}, à l'aide de l'option {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour exposer la configuration et les variables d'environnement au reste de votre application, vous devez définir la runtime config dans votre fichier {0}, à l'aide de l'option {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

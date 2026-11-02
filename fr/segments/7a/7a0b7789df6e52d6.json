@@ -1,0 +1,14 @@
+{
+  "hash": "7a0b7789df6e52d6",
+  "source": "**{0}**: Options controlling how configuration is located, merged and loaded.",
+  "text": "**{0}** : options qui contrôlent la manière dont la configuration est localisée, fusionnée et chargée.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** : options qui contrôlent la manière dont la configuration est localisée, fusionnée et chargée."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "9e5b8c6c9ed1dd85",
+  "source": "This defaults to your {0}, and is separate from it so that the configurations referenced by your project {1} stay in place even when Nuxt builds elsewhere (as it does when building a project that has already been run in development).",
+  "text": "Par défaut, il s'agit de votre {0}, mais il en est distinct afin que les configurations référencées par le {1} de votre projet restent en place, même lorsque Nuxt effectue le build ailleurs (comme c'est le cas lors du build d'un projet qui a déjà été exécuté en développement).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par défaut, il s'agit de votre {0}, mais il en est distinct afin que les configurations référencées par le {1} de votre projet restent en place, même lorsque Nuxt effectue le build ailleurs (comme c'est le cas lors du build d'un projet qui a déjà été exécuté en développement)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

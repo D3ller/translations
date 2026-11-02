@@ -1,0 +1,14 @@
+{
+  "hash": "4ed12109e4279829",
+  "source": "The following attributes are whitelisted for each head element type:",
+  "text": "Les attributs suivants figurent sur la liste blanche pour chaque type d'élément head :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les attributs suivants figurent sur la liste blanche pour chaque type d'élément head :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

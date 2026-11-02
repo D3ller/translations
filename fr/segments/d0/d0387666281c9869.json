@@ -1,0 +1,14 @@
+{
+  "hash": "d0387666281c9869",
+  "source": "The {0} directory is the recommended place for application tests (unit, Nuxt runtime, and end-to-end). See {1}Organizing Your Tests{/1} for layout and setup details.",
+  "text": "Le répertoire {0} est l'emplacement recommandé pour les tests de l'application (unitaires, runtime Nuxt et de bout en bout). Consultez {1}Organiser vos tests{/1} pour plus de détails sur la structure et la configuration.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le répertoire {0} est l'emplacement recommandé pour les tests de l'application (unitaires, runtime Nuxt et de bout en bout). Consultez {1}Organiser vos tests{/1} pour plus de détails sur la structure et la configuration."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

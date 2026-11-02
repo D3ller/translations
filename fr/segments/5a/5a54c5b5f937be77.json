@@ -1,0 +1,14 @@
+{
+  "hash": "5a54c5b5f937be77",
+  "source": "You can also explicitly import components from {0} if you want or need to bypass Nuxt's auto-importing functionality.",
+  "text": "Vous pouvez également importer explicitement des composants depuis {0} si vous le souhaitez ou si vous devez contourner la fonctionnalité d'import automatique de Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez également importer explicitement des composants depuis {0} si vous le souhaitez ou si vous devez contourner la fonctionnalité d'import automatique de Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

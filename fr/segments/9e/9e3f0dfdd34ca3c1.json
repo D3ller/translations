@@ -1,0 +1,14 @@
+{
+  "hash": "9e3f0dfdd34ca3c1",
+  "source": "A provider that fails does not fail the build on its own: resolution carries on to the next provider, and an error is only raised once none of them can serve the family. Font metadata requests and font file downloads are both retried a few times with backoff before that applies, so it only takes effect for persistent failures.",
+  "text": "Un fournisseur en échec ne fait pas échouer le build à lui seul : la résolution passe au fournisseur suivant, et une erreur n'est levée que lorsqu'aucun d'entre eux ne peut servir la famille. Les requêtes de métadonnées de polices et les téléchargements de fichiers de polices sont tous deux retentés plusieurs fois avec un délai progressif avant que cela ne s'applique, de sorte que cela ne prend effet que pour les échecs persistants.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un fournisseur en échec ne fait pas échouer le build à lui seul : la résolution passe au fournisseur suivant, et une erreur n'est levée que lorsqu'aucun d'entre eux ne peut servir la famille. Les requêtes de métadonnées de polices et les téléchargements de fichiers de polices sont tous deux retentés plusieurs fois avec un délai progressif avant que cela ne s'applique, de sorte que cela ne prend effet que pour les échecs persistants."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "f5af4abdec30d78f",
+  "source": "Provide the client manifest produced by your client build.",
+  "text": "Fournissez le manifeste client produit par votre build client.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Fournissez le manifeste client produit par votre build client."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

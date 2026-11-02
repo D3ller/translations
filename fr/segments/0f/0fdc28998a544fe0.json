@@ -1,0 +1,14 @@
+{
+  "hash": "0fdc28998a544fe0",
+  "source": "Called before constructing the island HTML.",
+  "text": "Appelé avant la construction du HTML de l'island.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appelé avant la construction du HTML de l'island."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "289f5c1a254ccfbb",
+  "source": "See {0}vue-loader{/0} for available options.",
+  "text": "Consultez {0}vue-loader{/0} pour connaître les options disponibles.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Consultez {0}vue-loader{/0} pour connaître les options disponibles."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

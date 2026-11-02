@@ -1,0 +1,14 @@
+{
+  "hash": "c040ccfd580351d0",
+  "source": "See {0}@unhead/schema{/0} for more detailed types.",
+  "text": "Consultez {0}@unhead/schema{/0} pour des types plus détaillés.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Consultez {0}@unhead/schema{/0} pour des types plus détaillés."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "91ba29f8c7ae1d08",
+  "source": "**Keyed {0}** falls back to the unkeyed form (and warns in development), because there is no component instance to attach the key to.",
+  "text": "**{0} avec clé** se replie sur la forme sans clé (et émet un avertissement en développement), car il n'y a pas d'instance de composant à laquelle rattacher la clé.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0} avec clé** se replie sur la forme sans clé (et émet un avertissement en développement), car il n'y a pas d'instance de composant à laquelle rattacher la clé."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

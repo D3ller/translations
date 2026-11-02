@@ -1,0 +1,14 @@
+{
+  "hash": "9a014c818a06a8a7",
+  "source": "- Migrate configuration files",
+  "text": "- Migrer les fichiers de configuration",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "- Migrer les fichiers de configuration"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

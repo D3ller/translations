@@ -1,0 +1,14 @@
+{
+  "hash": "4e09df8b7283e12e",
+  "source": "If we assign it to a maintainer, then that means that person will take special care to review it and implement any changes that may be required.",
+  "text": "Si nous l'assignons à un mainteneur, cela signifie que cette personne portera une attention particulière à sa relecture et à l'implémentation des modifications éventuellement nécessaires.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si nous l'assignons à un mainteneur, cela signifie que cette personne portera une attention particulière à sa relecture et à l'implémentation des modifications éventuellement nécessaires."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

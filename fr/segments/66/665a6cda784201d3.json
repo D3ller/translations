@@ -1,0 +1,14 @@
+{
+  "hash": "665a6cda784201d3",
+  "source": "**Example of adding a Redis storage:**",
+  "text": "**Exemple d'ajout d'un stockage Redis :**",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Exemple d'ajout d'un stockage Redis :**"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

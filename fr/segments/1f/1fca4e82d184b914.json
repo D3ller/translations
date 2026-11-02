@@ -1,0 +1,14 @@
+{
+  "hash": "1fca4e82d184b914",
+  "source": "\"Could there be a bug?\"",
+  "text": "« Pourrait-il s'agir d'un bug ? »",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "« Pourrait-il s'agir d'un bug ? »"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

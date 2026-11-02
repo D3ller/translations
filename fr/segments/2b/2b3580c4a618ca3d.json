@@ -1,0 +1,14 @@
+{
+  "hash": "2b3580c4a618ca3d",
+  "source": "Try to resolve first existing file in a given set of paths.",
+  "text": "Essaie de résoudre le premier fichier existant dans un ensemble de chemins donné.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Essaie de résoudre le premier fichier existant dans un ensemble de chemins donné."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "ac47b4318584b483",
+  "source": "If you choose to set the layout dynamically on the server side, you *must* do so before the layout is rendered by Vue (that is, within a plugin or route middleware) to avoid a hydration mismatch.",
+  "text": "Si vous choisissez de définir le layout dynamiquement côté serveur, vous *devez* le faire avant que le layout ne soit rendu par Vue (c'est-à-dire dans un plugin ou un middleware de route) afin d'éviter une erreur de hydratation.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous choisissez de définir le layout dynamiquement côté serveur, vous *devez* le faire avant que le layout ne soit rendu par Vue (c'est-à-dire dans un plugin ou un middleware de route) afin d'éviter une erreur de hydratation."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

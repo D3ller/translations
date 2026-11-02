@@ -1,0 +1,14 @@
+{
+  "hash": "a544d421548f6eb2",
+  "source": "Learn how to create your first Nuxt module using the official starter template.",
+  "text": "Apprenez à créer votre premier module Nuxt à l'aide du template de démarrage officiel.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Apprenez à créer votre premier module Nuxt à l'aide du template de démarrage officiel."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

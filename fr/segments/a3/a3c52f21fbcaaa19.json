@@ -1,0 +1,14 @@
+{
+  "hash": "a3c52f21fbcaaa19",
+  "source": "Early Return From {0}",
+  "text": "Retour anticipé depuis {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Retour anticipé depuis {0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

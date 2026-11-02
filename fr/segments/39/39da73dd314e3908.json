@@ -1,0 +1,14 @@
+{
+  "hash": "39da73dd314e3908",
+  "source": "When the dev server reloads or restarts it says what caused it, and a change to {0} also lists the keys that actually differ, so a restart triggered by a formatting-only edit is distinguishable from one that changed your configuration. A reload happens in place; a restart replaces the process, which is what a change to {1} or to an installed dependency needs.",
+  "text": "Lorsque le serveur de développement se recharge ou redémarre, il indique ce qui l'a provoqué, et une modification de {0} liste aussi les clés qui diffèrent réellement, ce qui permet de distinguer un redémarrage déclenché par une simple modification de mise en forme de celui qui a changé votre configuration. Un rechargement se fait sur place ; un redémarrage remplace le processus, ce que nécessite une modification de {1} ou d'une dépendance installée.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque le serveur de développement se recharge ou redémarre, il indique ce qui l'a provoqué, et une modification de {0} liste aussi les clés qui diffèrent réellement, ce qui permet de distinguer un redémarrage déclenché par une simple modification de mise en forme de celui qui a changé votre configuration. Un rechargement se fait sur place ; un redémarrage remplace le processus, ce que nécessite une modification de {1} ou d'une dépendance installée."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

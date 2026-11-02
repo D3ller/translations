@@ -1,0 +1,14 @@
+{
+  "hash": "2e58615ce40a5785",
+  "source": "The top-level {0} option applies whichever {1} you use. Builder-specific options, such as Nitro's {2} or {3}, can be set in {4}.",
+  "text": "L'option de premier niveau {0} s'applique quel que soit le {1} que vous utilisez. Les options propres à un builder, comme {2} ou {3} de Nitro, peuvent être définies dans {4}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'option de premier niveau {0} s'applique quel que soit le {1} que vous utilisez. Les options propres à un builder, comme {2} ou {3} de Nitro, peuvent être définies dans {4}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

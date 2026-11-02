@@ -1,0 +1,14 @@
+{
+  "hash": "4bb6d221b930e209",
+  "source": "A target may also want the render inside its own source, as with a worker entry that answers some routes itself and renders the rest. {0} handles this by resolving {1} to the render, as a module that the target's own bundler builds. The app is then compiled with that environment's export conditions, which is what lets it run on a worker runtime, and nothing has to hard-code a path inside the build directory:",
+  "text": "Une cible peut aussi vouloir le rendu dans son propre code source, comme avec une entrée de worker qui répond elle-même à certaines routes et rend le reste. {0} gère ce cas en résolvant {1} vers le rendu, sous la forme d'un module que le bundler propre à la cible construit. L'application est alors compilée avec les conditions d'export de cet environnement, ce qui lui permet de s'exécuter sur un runtime de worker, et rien n'oblige à coder en dur un chemin dans le répertoire de build :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une cible peut aussi vouloir le rendu dans son propre code source, comme avec une entrée de worker qui répond elle-même à certaines routes et rend le reste. {0} gère ce cas en résolvant {1} vers le rendu, sous la forme d'un module que le bundler propre à la cible construit. L'application est alors compilée avec les conditions d'export de cet environnement, ce qui lui permet de s'exécuter sur un runtime de worker, et rien n'oblige à coder en dur un chemin dans le répertoire de build :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

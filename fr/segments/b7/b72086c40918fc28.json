@@ -1,0 +1,14 @@
+{
+  "hash": "b72086c40918fc28",
+  "source": "Install Vitest browser packages and a browser provider:",
+  "text": "Installez les packages de navigateur de Vitest et un provider de navigateur :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Installez les packages de navigateur de Vitest et un provider de navigateur :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "eb7672f33a26f0c1",
+  "source": "Read more about accessing the route in the middleware section.",
+  "text": "Pour en savoir plus sur l'accès à la route, consultez la section sur les middleware.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour en savoir plus sur l'accès à la route, consultez la section sur les middleware."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

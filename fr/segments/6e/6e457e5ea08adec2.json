@@ -1,0 +1,14 @@
+{
+  "hash": "6e457e5ea08adec2",
+  "source": "**Your project files** - always have the highest priority",
+  "text": "**Les fichiers de votre projet** : ils ont toujours la priorité la plus élevée",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Les fichiers de votre projet** : ils ont toujours la priorité la plus élevée"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "41319956abd5fc6b",
+  "source": "Font metadata and downloaded font files are cached on disk in {0}, relative to your project root. If you restore that directory in CI, no fonts are downloaded and no provider requests are made at all.",
+  "text": "Les métadonnées des polices et les fichiers de polices téléchargés sont mis en cache sur le disque dans {0}, relativement à la racine de votre projet. Si vous restaurez ce répertoire en CI, aucune police n'est téléchargée et aucune requête n'est envoyée aux fournisseurs.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les métadonnées des polices et les fichiers de polices téléchargés sont mis en cache sur le disque dans {0}, relativement à la racine de votre projet. Si vous restaurez ce répertoire en CI, aucune police n'est téléchargée et aucune requête n'est envoyée aux fournisseurs."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

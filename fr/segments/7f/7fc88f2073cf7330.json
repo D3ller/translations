@@ -1,0 +1,14 @@
+{
+  "hash": "7fc88f2073cf7330",
+  "source": "{0} is a compiler macro that you can use to set metadata for your **page** components located in the {1} directory (unless {2}set otherwise{/2}). This way you can set custom metadata for each static or dynamic route of your Nuxt application.",
+  "text": "{0} est une macro de compilation que vous pouvez utiliser pour définir des métadonnées pour vos composants de **page** situés dans le répertoire {1} (sauf si {2}configuré autrement{/2}). Vous pouvez ainsi définir des métadonnées personnalisées pour chaque route statique ou dynamique de votre application Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est une macro de compilation que vous pouvez utiliser pour définir des métadonnées pour vos composants de **page** situés dans le répertoire {1} (sauf si {2}configuré autrement{/2}). Vous pouvez ainsi définir des métadonnées personnalisées pour chaque route statique ou dynamique de votre application Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

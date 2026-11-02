@@ -1,0 +1,14 @@
+{
+  "hash": "cbcfcde6e0e71b5a",
+  "source": "You might also get this error if you have a named import from an ESM-syntax build that Node.js thinks is CJS:",
+  "text": "Vous pouvez également obtenir cette erreur si vous utilisez un import nommé depuis un build en syntaxe ESM que Node.js considère comme du CJS :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez également obtenir cette erreur si vous utilisez un import nommé depuis un build en syntaxe ESM que Node.js considère comme du CJS :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

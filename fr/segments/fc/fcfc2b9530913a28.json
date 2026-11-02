@@ -1,0 +1,14 @@
+{
+  "hash": "fcfc2b9530913a28",
+  "source": "{0}: A function that provides initial value for the state when not initiated. This function can also return a {1}.",
+  "text": "{0} : une fonction qui fournit la valeur initiale de l'état lorsqu'il n'a pas été initialisé. Cette fonction peut également renvoyer un {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : une fonction qui fournit la valeur initiale de l'état lorsqu'il n'a pas été initialisé. Cette fonction peut également renvoyer un {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

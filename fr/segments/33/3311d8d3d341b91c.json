@@ -1,0 +1,14 @@
+{
+  "hash": "3311d8d3d341b91c",
+  "source": "**{0}**: A tag to suffix all log messages with, displayed on the right near the timestamp.",
+  "text": "**{0}** : une balise à ajouter en suffixe de tous les messages de log, affichée à droite près de l'horodatage.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** : une balise à ajouter en suffixe de tous les messages de log, affichée à droite près de l'horodatage."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

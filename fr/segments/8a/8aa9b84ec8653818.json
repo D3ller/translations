@@ -1,0 +1,14 @@
+{
+  "hash": "8aa9b84ec8653818",
+  "source": "Passing a {0} of at least 32 characters still seals with that instead.",
+  "text": "Si vous transmettez un {0} d'au moins 32 caractères, la session est toujours scellée avec celui-ci.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous transmettez un {0} d'au moins 32 caractères, la session est toujours scellée avec celui-ci."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

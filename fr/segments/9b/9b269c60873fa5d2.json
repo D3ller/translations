@@ -1,0 +1,14 @@
+{
+  "hash": "9b269c60873fa5d2",
+  "source": "{0}: (typescript only) Specify the type of state",
+  "text": "{0} : (TypeScript uniquement) spécifie le type de l'état",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : (TypeScript uniquement) spécifie le type de l'état"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

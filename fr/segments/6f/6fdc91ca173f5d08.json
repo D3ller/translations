@@ -1,0 +1,14 @@
+{
+  "hash": "6fdc91ca173f5d08",
+  "source": "Check out the Pages panel in Nuxt DevTools to see the route name and the params it might take.",
+  "text": "Consultez le panneau Pages dans Nuxt DevTools pour voir le nom de la route et les paramètres qu'elle peut accepter.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Consultez le panneau Pages dans Nuxt DevTools pour voir le nom de la route et les paramètres qu'elle peut accepter."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

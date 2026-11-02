@@ -1,0 +1,14 @@
+{
+  "hash": "19fece95c5e498cf",
+  "source": "Configuration keys, options, and values: {0}, the {1} option",
+  "text": "Clés de configuration, options et valeurs : {0}, l'option {1}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Clés de configuration, options et valeurs : {0}, l'option {1}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "0c95fa0b0c0edef0",
+  "source": "You can reference JavaScript variable and expression within your style blocks with the v-bind function. The binding will be dynamic, meaning that if the variable value changes, the style will be updated.",
+  "text": "Vous pouvez référencer des variables et des expressions JavaScript dans vos blocs style avec la fonction v-bind. La liaison est dynamique : si la valeur de la variable change, le style est mis à jour.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez référencer des variables et des expressions JavaScript dans vos blocs style avec la fonction v-bind. La liaison est dynamique : si la valeur de la variable change, le style est mis à jour."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

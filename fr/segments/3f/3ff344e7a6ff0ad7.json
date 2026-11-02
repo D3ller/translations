@@ -1,0 +1,14 @@
+{
+  "hash": "3ff344e7a6ff0ad7",
+  "source": "All plugins inside are auto-registered, you don't need to add them to your {0} separately.",
+  "text": "Tous les plugins qui s'y trouvent sont enregistrés automatiquement, vous n'avez pas besoin de les ajouter séparément à votre {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Tous les plugins qui s'y trouvent sont enregistrés automatiquement, vous n'avez pas besoin de les ajouter séparément à votre {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

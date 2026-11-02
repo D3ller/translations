@@ -1,0 +1,14 @@
+{
+  "hash": "078a51cf44261fd3",
+  "source": "Disable the module entirely",
+  "text": "Désactiver complètement le module",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Désactiver complètement le module"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

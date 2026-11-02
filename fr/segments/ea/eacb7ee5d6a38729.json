@@ -1,0 +1,14 @@
+{
+  "hash": "eacb7ee5d6a38729",
+  "source": "What Isn't Portable",
+  "text": "Ce qui n'est pas portable",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ce qui n'est pas portable"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

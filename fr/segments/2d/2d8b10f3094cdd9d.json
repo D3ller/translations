@@ -1,0 +1,14 @@
+{
+  "hash": "2d8b10f3094cdd9d",
+  "source": "Some good sources for spinners are {0}SpinKit{/0} or {1}SVG Spinners{/1}.",
+  "text": "{0}SpinKit{/0} ou {1}SVG Spinners{/1} sont de bonnes sources de spinners.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}SpinKit{/0} ou {1}SVG Spinners{/1} sont de bonnes sources de spinners."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

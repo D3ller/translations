@@ -1,0 +1,14 @@
+{
+  "hash": "bef6ddb62bf26e08",
+  "source": "True when evaluated on the server side.",
+  "text": "Vaut true lorsque l'évaluation a lieu côté serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vaut true lorsque l'évaluation a lieu côté serveur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

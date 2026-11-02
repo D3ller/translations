@@ -1,0 +1,14 @@
+{
+  "hash": "fda9548a0b77636b",
+  "source": "Previously, font providers could return multiple formats (e.g., {0}, {1}, {2}). The default behavior now only resolves {3} format fonts, which is universally supported in all modern browsers.",
+  "text": "Auparavant, les fournisseurs de polices pouvaient renvoyer plusieurs formats (par ex. {0}, {1}, {2}). Par défaut, seules les polices au format {3} sont désormais résolues, format pris en charge par tous les navigateurs modernes.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Auparavant, les fournisseurs de polices pouvaient renvoyer plusieurs formats (par ex. {0}, {1}, {2}). Par défaut, seules les polices au format {3} sont désormais résolues, format pris en charge par tous les navigateurs modernes."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "a1fb1383a34f9671",
+  "source": "entries sharing a name are combined, so each {0} becomes its own font face",
+  "text": "les entrées qui partagent un même nom sont combinées, de sorte que chaque {0} devient sa propre police",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "les entrées qui partagent un même nom sont combinées, de sorte que chaque {0} devient sa propre police"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

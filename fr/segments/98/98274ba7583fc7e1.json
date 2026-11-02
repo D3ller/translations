@@ -1,0 +1,14 @@
+{
+  "hash": "98274ba7583fc7e1",
+  "source": "Fatal errors thrown during initial render (before the shell flushes)",
+  "text": "Erreurs fatales levées pendant le rendu initial (avant l'envoi de l'enveloppe)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Erreurs fatales levées pendant le rendu initial (avant l'envoi de l'enveloppe)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

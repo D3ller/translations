@@ -1,0 +1,14 @@
+{
+  "hash": "59d54bce7973db06",
+  "source": "{0}: The name of the runtime hook to register. You can see the full list of {1}runtime Nuxt hooks here{/1}.",
+  "text": "{0} : le nom du hook d'exécution à enregistrer. Vous pouvez consulter la liste complète des {1}hooks d'exécution de Nuxt ici{/1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : le nom du hook d'exécution à enregistrer. Vous pouvez consulter la liste complète des {1}hooks d'exécution de Nuxt ici{/1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "46ffe0a26f800c1c",
+  "source": "Create a Nuxt Module",
+  "text": "Créer un module Nuxt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Créer un module Nuxt"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "7c4b83b0fa40e74f",
+  "source": "Nuxt can be easily configured with a single nuxt.config file.",
+  "text": "Nuxt peut être configuré facilement avec un seul fichier nuxt.config.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt peut être configuré facilement avec un seul fichier nuxt.config."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

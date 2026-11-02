@@ -1,0 +1,14 @@
+{
+  "hash": "84d4d052ed426e8f",
+  "source": "Host to listen on, in that order of precedence",
+  "text": "Hôte d'écoute, dans cet ordre de priorité",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Hôte d'écoute, dans cet ordre de priorité"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

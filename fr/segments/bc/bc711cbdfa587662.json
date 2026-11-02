@@ -1,0 +1,14 @@
+{
+  "hash": "bc711cbdfa587662",
+  "source": "install the module as a dependency using your package manager",
+  "text": "installer le module comme dépendance avec votre gestionnaire de packages",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "installer le module comme dépendance avec votre gestionnaire de packages"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

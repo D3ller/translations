@@ -1,0 +1,14 @@
+{
+  "hash": "dfa1945107528804",
+  "source": "Watch Vue School video about Nuxt module starter template.",
+  "text": "Regardez la vidéo de Vue School sur le template de démarrage de module Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Regardez la vidéo de Vue School sur le template de démarrage de module Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

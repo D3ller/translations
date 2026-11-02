@@ -1,0 +1,14 @@
+{
+  "hash": "3497f8b076144b58",
+  "source": "you can choose between {0} and {1} for a runtime Nuxt environment",
+  "text": "vous pouvez choisir entre {0} et {1} pour un environnement Nuxt d'exécution",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "vous pouvez choisir entre {0} et {1} pour un environnement Nuxt d'exécution"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

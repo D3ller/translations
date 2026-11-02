@@ -1,0 +1,14 @@
+{
+  "hash": "9308f7f9cede3b9e",
+  "source": "You can customize which user agents are opted out with {0}. A request whose {1} header matches the pattern is **not** streamed: it receives the fully-rendered, buffered HTML. Requests that do not match are streamed. Setting {2} replaces the default pattern rather than adding to it, so list every crawler you want to keep out of streaming:",
+  "text": "Vous pouvez personnaliser les user agents exclus du streaming avec {0}. Une requête dont l'en-tête {1} correspond au motif n'est **pas** streamée : elle reçoit le HTML entièrement rendu et mis en mémoire tampon. Les requêtes qui ne correspondent pas sont streamées. Définir {2} remplace le motif par défaut au lieu de s'y ajouter ; listez donc tous les crawlers que vous souhaitez exclure du streaming :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez personnaliser les user agents exclus du streaming avec {0}. Une requête dont l'en-tête {1} correspond au motif n'est **pas** streamée : elle reçoit le HTML entièrement rendu et mis en mémoire tampon. Les requêtes qui ne correspondent pas sont streamées. Définir {2} remplace le motif par défaut au lieu de s'y ajouter ; listez donc tous les crawlers que vous souhaitez exclure du streaming :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

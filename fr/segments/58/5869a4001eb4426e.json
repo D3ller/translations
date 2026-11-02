@@ -1,0 +1,14 @@
+{
+  "hash": "5869a4001eb4426e",
+  "source": "Resolved config layers, highest priority first.",
+  "text": "Layers de configuration résolus, par ordre de priorité décroissante.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Layers de configuration résolus, par ordre de priorité décroissante."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

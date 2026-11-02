@@ -1,0 +1,14 @@
+{
+  "hash": "8383ebb2f267fbf2",
+  "source": "Remove lockfile ({0}, {1}, {2}, {3} or {4}) and reinstall dependencies.",
+  "text": "Supprimez le fichier de verrouillage ({0}, {1}, {2}, {3} ou {4}) et réinstallez les dépendances.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Supprimez le fichier de verrouillage ({0}, {1}, {2}, {3} ou {4}) et réinstallez les dépendances."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

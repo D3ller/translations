@@ -1,0 +1,14 @@
+{
+  "hash": "617a321993741489",
+  "source": "For multi-app projects, the unique id of the Nuxt application.",
+  "text": "Pour les projets multi-applications, l'identifiant unique de l'application Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour les projets multi-applications, l'identifiant unique de l'application Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

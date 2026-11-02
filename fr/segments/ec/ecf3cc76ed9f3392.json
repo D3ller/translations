@@ -1,0 +1,14 @@
+{
+  "hash": "ecf3cc76ed9f3392",
+  "source": "Ship one module that serves Nuxt 4 and Nuxt 5, whichever server runtime is underneath.",
+  "text": "Publiez un seul module qui fonctionne avec Nuxt 4 et Nuxt 5, quel que soit le runtime serveur sous-jacent.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Publiez un seul module qui fonctionne avec Nuxt 4 et Nuxt 5, quel que soit le runtime serveur sous-jacent."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

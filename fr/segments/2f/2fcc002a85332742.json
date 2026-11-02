@@ -1,0 +1,14 @@
+{
+  "hash": "2fcc002a85332742",
+  "source": "Install the {0} module:",
+  "text": "Installez le module {0} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Installez le module {0} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

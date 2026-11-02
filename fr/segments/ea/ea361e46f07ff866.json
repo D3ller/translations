@@ -1,0 +1,14 @@
+{
+  "hash": "ea361e46f07ff866",
+  "source": "A family with a {0} counts as subsetted, so it is not preloaded unless you set {1} for it explicitly.",
+  "text": "Une famille avec {0} est considérée comme réduite à un sous-ensemble ; elle n'est donc pas préchargée, sauf si vous définissez explicitement {1} pour elle.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une famille avec {0} est considérée comme réduite à un sous-ensemble ; elle n'est donc pas préchargée, sauf si vous définissez explicitement {1} pour elle."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

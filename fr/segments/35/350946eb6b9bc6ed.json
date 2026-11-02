@@ -1,0 +1,14 @@
+{
+  "hash": "350946eb6b9bc6ed",
+  "source": "be the same on both the reducer and the reviver.",
+  "text": "être la même dans le reducer et dans le reviver.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "être la même dans le reducer et dans le reviver."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

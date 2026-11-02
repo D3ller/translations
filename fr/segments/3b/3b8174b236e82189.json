@@ -1,0 +1,14 @@
+{
+  "hash": "3b8174b236e82189",
+  "source": "Hydrates the component based on a boolean condition.",
+  "text": "Hydrate le composant en fonction d'une condition booléenne.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Hydrate le composant en fonction d'une condition booléenne."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

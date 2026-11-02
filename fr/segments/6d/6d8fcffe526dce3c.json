@@ -1,0 +1,14 @@
+{
+  "hash": "6d8fcffe526dce3c",
+  "source": "You can now use the nuxt instance",
+  "text": "Vous pouvez maintenant utiliser l'instance nuxt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez maintenant utiliser l'instance nuxt"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

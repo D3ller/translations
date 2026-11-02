@@ -1,0 +1,14 @@
+{
+  "hash": "36cbdae3f81d47e3",
+  "source": "Like {0}, and wait for a debugger to attach to the CLI process before loading Nuxt ({1})",
+  "text": "Comme {0}, et attend qu'un débogueur se connecte au processus CLI avant de charger Nuxt ({1})",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Comme {0}, et attend qu'un débogueur se connecte au processus CLI avant de charger Nuxt ({1})"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

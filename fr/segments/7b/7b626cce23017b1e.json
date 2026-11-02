@@ -1,0 +1,14 @@
+{
+  "hash": "7b626cce23017b1e",
+  "source": "Read Daniel Roe's guide to Nuxt Server Components.",
+  "text": "Lisez le guide de Daniel Roe sur les composants serveur de Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lisez le guide de Daniel Roe sur les composants serveur de Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

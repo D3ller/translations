@@ -1,0 +1,14 @@
+{
+  "hash": "b5ad6deefa042b9f",
+  "source": "The {0} option has been removed. Vue compiler dependencies ({1}, {2}, {3}, {4}, {5}) are now always replaced with mock proxies in the server bundle when {6} is not enabled.",
+  "text": "L'option {0} a été supprimée. Les dépendances du compilateur Vue ({1}, {2}, {3}, {4}, {5}) sont désormais toujours remplacées par des proxies factices dans le bundle du serveur lorsque {6} n'est pas activé.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'option {0} a été supprimée. Les dépendances du compilateur Vue ({1}, {2}, {3}, {4}, {5}) sont désormais toujours remplacées par des proxies factices dans le bundle du serveur lorsque {6} n'est pas activé."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

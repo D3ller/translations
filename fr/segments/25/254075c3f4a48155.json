@@ -1,0 +1,14 @@
+{
+  "hash": "254075c3f4a48155",
+  "source": "When importing {0} in your vitest config, It is necessary to have {1} specified in your {2} or rename your vitest config file appropriately.",
+  "text": "Lorsque vous importez {0} dans votre configuration vitest, il est nécessaire que {1} soit spécifié dans votre {2} ou que vous renommiez votre fichier de configuration vitest de manière appropriée.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque vous importez {0} dans votre configuration vitest, il est nécessaire que {1} soit spécifié dans votre {2} ou que vous renommiez votre fichier de configuration vitest de manière appropriée."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

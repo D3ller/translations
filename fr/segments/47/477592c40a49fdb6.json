@@ -1,0 +1,14 @@
+{
+  "hash": "477592c40a49fdb6",
+  "source": "Important usage notes",
+  "text": "Remarques importantes sur l'utilisation",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Remarques importantes sur l'utilisation"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

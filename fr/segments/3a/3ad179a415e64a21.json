@@ -1,0 +1,14 @@
+{
+  "hash": "3ad179a415e64a21",
+  "source": "This will NOT forward headers or cookies during SSR",
+  "text": "Cela ne transmettra PAS les en-têtes ni les cookies pendant le SSR",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela ne transmettra PAS les en-têtes ni les cookies pendant le SSR"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "5153a7388f63caa1",
+  "source": "**{0}**: Retrieves complete details about a specific module including README, compatibility, maintainers, and stats",
+  "text": "**{0}** : récupère tous les détails d'un module précis, y compris le README, la compatibilité, les mainteneurs et les statistiques",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** : récupère tous les détails d'un module précis, y compris le README, la compatibilité, les mainteneurs et les statistiques"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

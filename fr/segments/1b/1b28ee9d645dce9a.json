@@ -1,0 +1,14 @@
+{
+  "hash": "1b28ee9d645dce9a",
+  "source": "{0} and {1}Nuxt modules{/1} can be used to extend the build context, and {2}Nuxt Plugins{/2} can be used to extend runtime.",
+  "text": "{0} et les {1}modules Nuxt{/1} peuvent être utilisés pour étendre le contexte de build, et les {2}plugins Nuxt{/2} pour étendre le runtime.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} et les {1}modules Nuxt{/1} peuvent être utilisés pour étendre le contexte de build, et les {2}plugins Nuxt{/2} pour étendre le runtime."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "1cb1d355fc2b887a",
+  "source": "Nuxt 3 has a basic backward compatibility layer for Nuxt 2 modules using {0} auto wrappers. But there are usually steps to follow to make modules compatible with Nuxt 3 and sometimes, using Nuxt Bridge is required for cross-version compatibility.",
+  "text": "Nuxt 3 dispose d'une couche de compatibilité ascendante basique pour les modules Nuxt 2 grâce aux wrappers automatiques {0}. Cependant, il y a généralement des étapes à suivre pour rendre les modules compatibles avec Nuxt 3, et parfois l'utilisation de Nuxt Bridge est nécessaire pour assurer la compatibilité entre les versions.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt 3 dispose d'une couche de compatibilité ascendante basique pour les modules Nuxt 2 grâce aux wrappers automatiques {0}. Cependant, il y a généralement des étapes à suivre pour rendre les modules compatibles avec Nuxt 3, et parfois l'utilisation de Nuxt Bridge est nécessaire pour assurer la compatibilité entre les versions."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

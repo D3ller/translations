@@ -1,0 +1,14 @@
+{
+  "hash": "3677fa85e1d59db1",
+  "source": "{0} writes a V8 CPU profile to {1} in your project when the process exits. {2} also prints a full report to the console.",
+  "text": "{0} écrit un profil CPU V8 dans {1} dans votre projet à la fin du processus. {2} affiche aussi un rapport complet dans la console.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} écrit un profil CPU V8 dans {1} dans votre projet à la fin du processus. {2} affiche aussi un rapport complet dans la console."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

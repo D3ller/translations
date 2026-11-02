@@ -1,0 +1,14 @@
+{
+  "hash": "ba4c337ac36b2925",
+  "source": "**Module cleanup**{0}{1}If your module opens, handles, or starts a watcher, you should close it when the Nuxt lifecycle is done. The {2} hook is available for this.",
+  "text": "**Nettoyage du module**{0}{1}Si votre module ouvre, gère ou démarre un watcher, vous devez le fermer lorsque le cycle de vie de Nuxt est terminé. Le hook {2} est disponible à cet effet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Nettoyage du module**{0}{1}Si votre module ouvre, gère ou démarre un watcher, vous devez le fermer lorsque le cycle de vie de Nuxt est terminé. Le hook {2} est disponible à cet effet."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

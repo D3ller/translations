@@ -1,0 +1,14 @@
+{
+  "hash": "46137220bdff4ceb",
+  "source": "Set an alternative watcher that will be used as the watching service for Nuxt.",
+  "text": "Définissez un autre watcher qui sera utilisé comme service de surveillance pour Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définissez un autre watcher qui sera utilisé comme service de surveillance pour Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

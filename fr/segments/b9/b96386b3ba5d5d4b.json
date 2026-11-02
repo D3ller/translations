@@ -1,0 +1,14 @@
+{
+  "hash": "b96386b3ba5d5d4b",
+  "source": "{0}unjs/{/0} - many of these libraries are used throughout the Nuxt ecosystem. They are designed to be universal libraries that are framework- and environment-agnostic. We welcome contributions and usage by other frameworks and projects.",
+  "text": "{0}unjs/{/0} - nombre de ces bibliothèques sont utilisées dans tout l'écosystème Nuxt. Elles sont conçues pour être des bibliothèques universelles, indépendantes du framework et de l'environnement. Nous accueillons volontiers les contributions et l'utilisation par d'autres frameworks et projets.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}unjs/{/0} - nombre de ces bibliothèques sont utilisées dans tout l'écosystème Nuxt. Elles sont conçues pour être des bibliothèques universelles, indépendantes du framework et de l'environnement. Nous accueillons volontiers les contributions et l'utilisation par d'autres frameworks et projets."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

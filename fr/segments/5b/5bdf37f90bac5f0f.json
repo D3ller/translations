@@ -1,0 +1,14 @@
+{
+  "hash": "5bdf37f90bac5f0f",
+  "source": "An array of entries, one per difference. Each entry has:",
+  "text": "Un tableau d'entrées, une par différence. Chaque entrée possède :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un tableau d'entrées, une par différence. Chaque entrée possède :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

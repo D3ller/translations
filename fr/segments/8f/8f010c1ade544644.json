@@ -1,0 +1,14 @@
+{
+  "hash": "8f010c1ade544644",
+  "source": "The keys indicate which server API each file relies upon:",
+  "text": "Les clés indiquent sur quelle API serveur chaque fichier s'appuie :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les clés indiquent sur quelle API serveur chaque fichier s'appuie :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

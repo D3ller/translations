@@ -1,0 +1,14 @@
+{
+  "hash": "55db84ef5473bd96",
+  "source": "Scaffold an entity into your Nuxt application.",
+  "text": "Générez la structure d'une entité dans votre application Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Générez la structure d'une entité dans votre application Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

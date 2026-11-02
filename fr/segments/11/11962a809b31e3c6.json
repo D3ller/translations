@@ -1,0 +1,14 @@
+{
+  "hash": "11962a809b31e3c6",
+  "source": "The Nuxt hook system. Allows registering and listening to lifecycle events.",
+  "text": "Le système de hooks de Nuxt. Il permet d'enregistrer des événements du cycle de vie et de les écouter.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le système de hooks de Nuxt. Il permet d'enregistrer des événements du cycle de vie et de les écouter."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

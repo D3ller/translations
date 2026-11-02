@@ -1,0 +1,14 @@
+{
+  "hash": "a4fab2a1b4a7cd91",
+  "source": "Internal URLs navigate as expected.",
+  "text": "Les URL internes naviguent comme prévu.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les URL internes naviguent comme prévu."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

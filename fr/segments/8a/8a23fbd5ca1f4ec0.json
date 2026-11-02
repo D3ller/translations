@@ -1,0 +1,14 @@
+{
+  "hash": "8a23fbd5ca1f4ec0",
+  "source": "Declare dependencies on other modules with version constraints and configuration merging.",
+  "text": "Déclarez des dépendances envers d'autres modules avec des contraintes de version et la fusion de configuration.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Déclarez des dépendances envers d'autres modules avec des contraintes de version et la fusion de configuration."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

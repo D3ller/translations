@@ -1,0 +1,14 @@
+{
+  "hash": "7ecbca60fe97eed7",
+  "source": "This step is similar to the server-side execution and includes both built-in and custom plugins.",
+  "text": "Cette étape est similaire à l'exécution côté serveur et inclut à la fois les plugins intégrés et personnalisés.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cette étape est similaire à l'exécution côté serveur et inclut à la fois les plugins intégrés et personnalisés."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

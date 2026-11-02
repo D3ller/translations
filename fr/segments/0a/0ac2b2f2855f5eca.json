@@ -1,0 +1,14 @@
+{
+  "hash": "0ac2b2f2855f5eca",
+  "source": "{0}: only pick specified keys in this array from the {1} function result",
+  "text": "{0} : ne sélectionne que les clés spécifiées de ce tableau dans le résultat de la fonction {1}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : ne sélectionne que les clés spécifiées de ce tableau dans le résultat de la fonction {1}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

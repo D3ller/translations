@@ -1,0 +1,14 @@
+{
+  "hash": "37677fa8e39fdb8b",
+  "source": "{0} calls the {1} hook.",
+  "text": "{0} appelle le hook {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} appelle le hook {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

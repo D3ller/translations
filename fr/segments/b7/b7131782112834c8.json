@@ -1,0 +1,14 @@
+{
+  "hash": "b7131782112834c8",
+  "source": "The error is now sent as a single JSON-encoded parameter, so {0} keeps its original shape and is never stringified. Values also keep their types, so {1} is a number and booleans are booleans rather than the strings {2} and {3}. With nothing stringifying {4}, the option only survives to re-stringify it for apps that still expect a string.",
+  "text": "L'erreur est désormais envoyée dans un unique paramètre encodé en JSON, de sorte que {0} conserve sa forme d'origine et n'est jamais converti en chaîne. Les valeurs conservent aussi leur type : {1} est un nombre et les booléens sont des booléens, et non les chaînes {2} et {3}. Comme plus rien ne convertit {4} en chaîne, l'option ne sert plus qu'à le reconvertir en chaîne pour les applications qui attendent encore une chaîne.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'erreur est désormais envoyée dans un unique paramètre encodé en JSON, de sorte que {0} conserve sa forme d'origine et n'est jamais converti en chaîne. Les valeurs conservent aussi leur type : {1} est un nombre et les booléens sont des booléens, et non les chaînes {2} et {3}. Comme plus rien ne convertit {4} en chaîne, l'option ne sert plus qu'à le reconvertir en chaîne pour les applications qui attendent encore une chaîne."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

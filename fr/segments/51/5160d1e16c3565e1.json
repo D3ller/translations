@@ -1,0 +1,14 @@
+{
+  "hash": "5160d1e16c3565e1",
+  "source": "The Nuxt connector will appear in the composer's \"Developer mode\" tool later during conversations.",
+  "text": "Le connecteur Nuxt apparaîtra ensuite dans l'outil « Developer mode » du composeur pendant vos conversations.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le connecteur Nuxt apparaîtra ensuite dans l'outil « Developer mode » du composeur pendant vos conversations."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

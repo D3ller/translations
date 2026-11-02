@@ -1,0 +1,14 @@
+{
+  "hash": "e3a72c4181c041ff",
+  "source": "Update {0} dependency inside {1}:",
+  "text": "Mettez à jour la dépendance {0} dans {1} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mettez à jour la dépendance {0} dans {1} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

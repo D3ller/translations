@@ -1,0 +1,14 @@
+{
+  "hash": "f8882ef6e02b6939",
+  "source": "The command lets you install {0}Nuxt modules{/0} in your application with no manual work.",
+  "text": "La commande vous permet d'installer des {0}modules Nuxt{/0} dans votre application sans aucune intervention manuelle.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La commande vous permet d'installer des {0}modules Nuxt{/0} dans votre application sans aucune intervention manuelle."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

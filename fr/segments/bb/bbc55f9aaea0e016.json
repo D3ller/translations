@@ -1,0 +1,14 @@
+{
+  "hash": "bbc55f9aaea0e016",
+  "source": "Unoptimized images can have a significant negative impact on your website performance, specifically the {0}Largest Contentful Paint (LCP){/0} score.",
+  "text": "Les images non optimisées peuvent avoir un impact négatif important sur la performance de votre site, en particulier sur le score de {0}Largest Contentful Paint (LCP){/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les images non optimisées peuvent avoir un impact négatif important sur la performance de votre site, en particulier sur le score de {0}Largest Contentful Paint (LCP){/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

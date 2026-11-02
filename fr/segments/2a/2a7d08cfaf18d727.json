@@ -1,0 +1,14 @@
+{
+  "hash": "2a7d08cfaf18d727",
+  "source": "The example below shows how you can use cached data as a placeholder while the most recent data is being fetched from the server.",
+  "text": "L'exemple ci-dessous montre comment utiliser les données en cache comme valeur provisoire pendant que les données les plus récentes sont récupérées depuis le serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'exemple ci-dessous montre comment utiliser les données en cache comme valeur provisoire pendant que les données les plus récentes sont récupérées depuis le serveur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

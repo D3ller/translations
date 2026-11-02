@@ -1,0 +1,14 @@
+{
+  "hash": "abe1685e44cd3894",
+  "source": "continue the build with a warning instead of failing",
+  "text": "poursuivre le build avec un avertissement au lieu d'échouer",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "poursuivre le build avec un avertissement au lieu d'échouer"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

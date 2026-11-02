@@ -1,0 +1,14 @@
+{
+  "hash": "aa88d7fc775bcce8",
+  "source": "**Example:** Re-export the composables you need from the {0} file:",
+  "text": "**Exemple :** réexportez les composables dont vous avez besoin depuis le fichier {0} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Exemple :** réexportez les composables dont vous avez besoin depuis le fichier {0} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

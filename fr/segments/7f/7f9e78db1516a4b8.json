@@ -1,0 +1,14 @@
+{
+  "hash": "7f9e78db1516a4b8",
+  "source": "This only caches data when {0} in {1} is enabled.",
+  "text": "Cela ne met les données en cache que lorsque {0} est activé dans {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela ne met les données en cache que lorsque {0} est activé dans {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

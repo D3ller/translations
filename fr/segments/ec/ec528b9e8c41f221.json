@@ -1,0 +1,14 @@
+{
+  "hash": "ec528b9e8c41f221",
+  "source": "When using git remote sources, if a layer has npm dependencies and you wish to install them, you can do so by specifying {0} in your layer options.",
+  "text": "Lorsque vous utilisez des sources git distantes, si un layer (couche) a des dépendances npm et que vous souhaitez les installer, vous pouvez le faire en spécifiant {0} dans les options de votre layer.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque vous utilisez des sources git distantes, si un layer (couche) a des dépendances npm et que vous souhaitez les installer, vous pouvez le faire en spécifiant {0} dans les options de votre layer."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

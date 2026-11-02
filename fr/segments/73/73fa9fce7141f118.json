@@ -1,0 +1,14 @@
+{
+  "hash": "73fa9fce7141f118",
+  "source": "this component will render Comments.server on the server then Comments.client once mounted in the browser",
+  "text": "ce composant rendra Comments.server sur le serveur, puis Comments.client une fois monté dans le navigateur",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "ce composant rendra Comments.server sur le serveur, puis Comments.client une fois monté dans le navigateur"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "58c2bf5931b99b09",
+  "source": "{0} for helper functions and other utilities.",
+  "text": "{0} pour les fonctions helper et autres utilitaires.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} pour les fonctions helper et autres utilitaires."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

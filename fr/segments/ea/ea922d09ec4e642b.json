@@ -1,0 +1,14 @@
+{
+  "hash": "ea922d09ec4e642b",
+  "source": "{0} is a configured instance of {1}ofetch{/1} which supports adding the base URL of your Nuxt server as well as direct function calls during SSR (avoiding HTTP roundtrips).",
+  "text": "{0} est une instance configurée de {1}ofetch{/1} qui permet d'ajouter l'URL de base de votre serveur Nuxt ainsi que des appels de fonction directs pendant le SSR (évitant des allers-retours HTTP).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est une instance configurée de {1}ofetch{/1} qui permet d'ajouter l'URL de base de votre serveur Nuxt ainsi que des appels de fonction directs pendant le SSR (évitant des allers-retours HTTP)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "4457ac394d386303",
+  "source": "If you are registering event handlers, keep your current handler (for compatibility with Nuxt \\<4.6) and add a new portable one using {0} beside it, and register both. Nuxt will register the implementation the application can run: the portable file under Nitro v3 and under other builders, the v2 file on a host still running {1} v2.",
+  "text": "Si vous enregistrez des gestionnaires d'événements, conservez votre gestionnaire actuel (pour la compatibilité avec Nuxt \\<4.6), ajoutez à côté un nouveau gestionnaire portable utilisant {0}, puis enregistrez les deux. Nuxt enregistrera l'implémentation que l'application peut exécuter : le fichier portable avec Nitro v3 et avec les autres builders, le fichier v2 sur un hôte qui exécute encore {1} v2.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous enregistrez des gestionnaires d'événements, conservez votre gestionnaire actuel (pour la compatibilité avec Nuxt \\<4.6), ajoutez à côté un nouveau gestionnaire portable utilisant {0}, puis enregistrez les deux. Nuxt enregistrera l'implémentation que l'application peut exécuter : le fichier portable avec Nitro v3 et avec les autres builders, le fichier v2 sur un hôte qui exécute encore {1} v2."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

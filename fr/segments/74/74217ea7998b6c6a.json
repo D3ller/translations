@@ -1,0 +1,14 @@
+{
+  "hash": "74217ea7998b6c6a",
+  "source": "When you have a {0} directory, you need to use the {1} component to display the current page:",
+  "text": "Lorsque vous avez un répertoire {0}, vous devez utiliser le composant {1} pour afficher la page courante :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque vous avez un répertoire {0}, vous devez utiliser le composant {1} pour afficher la page courante :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

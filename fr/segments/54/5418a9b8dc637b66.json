@@ -1,0 +1,14 @@
+{
+  "hash": "5418a9b8dc637b66",
+  "source": "How Islands Are Rendered",
+  "text": "Comment les islands sont rendues",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Comment les islands sont rendues"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

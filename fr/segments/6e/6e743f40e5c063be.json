@@ -1,0 +1,14 @@
+{
+  "hash": "6e743f40e5c063be",
+  "source": "{0}: Viewport meta tag configuration",
+  "text": "{0} : configuration de la balise meta viewport",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : configuration de la balise meta viewport"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

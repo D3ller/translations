@@ -1,0 +1,14 @@
+{
+  "hash": "0fdf3986472f1b41",
+  "source": "**Poor user experience**: Users may see content flashing or unexpected layout shifts",
+  "text": "**Mauvaise expérience utilisateur** : les utilisateurs peuvent voir du contenu clignoter ou des décalages de mise en page inattendus",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Mauvaise expérience utilisateur** : les utilisateurs peuvent voir du contenu clignoter ou des décalages de mise en page inattendus"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

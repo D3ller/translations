@@ -1,0 +1,14 @@
+{
+  "hash": "2391f03aea2afb87",
+  "source": "You can define the CSS files/modules/libraries you want to set globally (included in every page).",
+  "text": "Vous pouvez définir les fichiers, modules et bibliothèques CSS que vous souhaitez appliquer globalement (inclus dans chaque page).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez définir les fichiers, modules et bibliothèques CSS que vous souhaitez appliquer globalement (inclus dans chaque page)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

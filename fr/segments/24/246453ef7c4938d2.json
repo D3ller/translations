@@ -1,0 +1,14 @@
+{
+  "hash": "246453ef7c4938d2",
+  "source": "You can pass either a string or an object to the {0} function. If you pass a string, it will be used as the error {1}, and the {2} will default to {3}. If you pass an object, you can set multiple properties of the error, such as {4}, {5}, and other error properties.",
+  "text": "Vous pouvez passer une chaîne de caractères ou un objet à la fonction {0}. Si vous passez une chaîne, elle sera utilisée comme {1} de l'erreur, et le {2} sera {3} par défaut. Si vous passez un objet, vous pouvez définir plusieurs propriétés de l'erreur, telles que {4}, {5} et d'autres propriétés d'erreur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez passer une chaîne de caractères ou un objet à la fonction {0}. Si vous passez une chaîne, elle sera utilisée comme {1} de l'erreur, et le {2} sera {3} par défaut. Si vous passez un objet, vous pouvez définir plusieurs propriétés de l'erreur, telles que {4}, {5} et d'autres propriétés d'erreur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

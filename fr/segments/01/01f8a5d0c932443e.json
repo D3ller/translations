@@ -1,0 +1,14 @@
+{
+  "hash": "01f8a5d0c932443e",
+  "source": "To revert to the previous {0} placeholder behavior:",
+  "text": "Pour revenir au comportement précédent du {0} de remplacement :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour revenir au comportement précédent du {0} de remplacement :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

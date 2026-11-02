@@ -1,0 +1,14 @@
+{
+  "hash": "bba21ac9f61c7d43",
+  "source": "Read the chunk of data as we get it",
+  "text": "Lire les blocs de données au fur et à mesure de leur réception",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lire les blocs de données au fur et à mesure de leur réception"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

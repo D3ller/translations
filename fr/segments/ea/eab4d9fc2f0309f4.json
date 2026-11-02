@@ -1,0 +1,14 @@
+{
+  "hash": "eab4d9fc2f0309f4",
+  "source": "how {0} can be a function that returns a value;",
+  "text": "comment {0} peut être une fonction qui retourne une valeur ;",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "comment {0} peut être une fonction qui retourne une valeur ;"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

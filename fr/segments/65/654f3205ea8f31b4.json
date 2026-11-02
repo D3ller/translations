@@ -1,0 +1,14 @@
+{
+  "hash": "654f3205ea8f31b4",
+  "source": "Parameters are exactly the same as with {0}.",
+  "text": "Les paramètres sont exactement les mêmes qu'avec {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les paramètres sont exactement les mêmes qu'avec {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "0246aeb362b8db8a",
+  "source": "To control the order, prefix directories with numbers: {0}, {1}, {2}.",
+  "text": "Pour contrôler l'ordre, préfixez les répertoires avec des nombres : {0}, {1}, {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour contrôler l'ordre, préfixez les répertoires avec des nombres : {0}, {1}, {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

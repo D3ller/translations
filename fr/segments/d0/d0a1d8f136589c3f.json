@@ -1,0 +1,14 @@
+{
+  "hash": "d0a1d8f136589c3f",
+  "source": "Interactive terminal UI",
+  "text": "Interface utilisateur interactive dans le terminal",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Interface utilisateur interactive dans le terminal"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

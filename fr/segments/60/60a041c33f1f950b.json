@@ -1,0 +1,14 @@
+{
+  "hash": "60a041c33f1f950b",
+  "source": "Plugins are a common way for a module to add runtime logic. You can use the {0} utility to register them from your module.",
+  "text": "Les plugins sont un moyen courant pour un module d'ajouter de la logique d'exécution. Vous pouvez utiliser l'utilitaire {0} pour les enregistrer depuis votre module.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les plugins sont un moyen courant pour un module d'ajouter de la logique d'exécution. Vous pouvez utiliser l'utilitaire {0} pour les enregistrer depuis votre module."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

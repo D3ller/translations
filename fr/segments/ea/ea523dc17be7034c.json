@@ -1,0 +1,14 @@
+{
+  "hash": "ea523dc17be7034c",
+  "source": "✈️ Faster",
+  "text": "✈️ Plus rapide",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "✈️ Plus rapide"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

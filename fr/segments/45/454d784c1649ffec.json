@@ -1,0 +1,14 @@
+{
+  "hash": "454d784c1649ffec",
+  "source": "Programmatic Navigation",
+  "text": "Navigation programmatique",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Navigation programmatique"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

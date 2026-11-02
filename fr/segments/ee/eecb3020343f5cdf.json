@@ -1,0 +1,14 @@
+{
+  "hash": "eecb3020343f5cdf",
+  "source": "We commit to support each major version of Nuxt for a minimum of six months after the release of the next major version, and to providing an upgrade path for current users at that point.",
+  "text": "Nous nous engageons à prendre en charge chaque version majeure de Nuxt pendant au moins six mois après la sortie de la version majeure suivante, et à fournir à ce moment-là un chemin de mise à niveau aux utilisateurs actuels.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nous nous engageons à prendre en charge chaque version majeure de Nuxt pendant au moins six mois après la sortie de la version majeure suivante, et à fournir à ce moment-là un chemin de mise à niveau aux utilisateurs actuels."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

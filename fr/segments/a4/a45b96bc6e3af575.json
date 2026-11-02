@@ -1,0 +1,14 @@
+{
+  "hash": "a45b96bc6e3af575",
+  "source": "With the migration to Nitro v3, all dependencies are bundled into the server output by default (unlike Nitro v2, which externalized {0}). The {1} option was originally designed to keep Vue as an external dependency, which was needed to avoid multiple copies of Vue from being bundled, but since Nitro v3 bundles everything regardless, the option became a no-op.",
+  "text": "Avec la migration vers Nitro v3, toutes les dépendances sont incluses par défaut dans la sortie du serveur (contrairement à Nitro v2, qui externalisait {0}). L'option {1} avait été conçue à l'origine pour conserver Vue comme dépendance externe, ce qui était nécessaire pour éviter d'inclure plusieurs copies de Vue dans le bundle ; mais comme Nitro v3 inclut tout dans tous les cas, l'option est devenue sans effet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Avec la migration vers Nitro v3, toutes les dépendances sont incluses par défaut dans la sortie du serveur (contrairement à Nitro v2, qui externalisait {0}). L'option {1} avait été conçue à l'origine pour conserver Vue comme dépendance externe, ce qui était nécessaire pour éviter d'inclure plusieurs copies de Vue dans le bundle ; mais comme Nitro v3 inclut tout dans tous les cas, l'option est devenue sans effet."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

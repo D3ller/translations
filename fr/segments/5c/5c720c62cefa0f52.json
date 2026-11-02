@@ -1,0 +1,14 @@
+{
+  "hash": "5c720c62cefa0f52",
+  "source": "For example, you can define a custom handler utility that wraps the original handler and performs additional operations before returning the final response.",
+  "text": "Par exemple, vous pouvez définir un utilitaire de handler personnalisé qui enveloppe le handler d'origine et effectue des opérations supplémentaires avant de retourner la réponse finale.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par exemple, vous pouvez définir un utilitaire de handler personnalisé qui enveloppe le handler d'origine et effectue des opérations supplémentaires avant de retourner la réponse finale."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "7eea068c1fe1bd9a",
+  "source": "Nuxt 5 upgrades from Vite 7 to {0}Vite 8{/0}, which replaces esbuild and Rollup with {1}Rolldown{/1} as the underlying bundler. This brings significantly faster builds but includes several breaking changes.",
+  "text": "Nuxt 5 passe de Vite 7 à {0}Vite 8{/0}, qui remplace esbuild et Rollup par {1}Rolldown{/1} comme bundler sous-jacent. Cela apporte des builds nettement plus rapides, mais inclut plusieurs changements majeurs (breaking changes).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt 5 passe de Vite 7 à {0}Vite 8{/0}, qui remplace esbuild et Rollup par {1}Rolldown{/1} comme bundler sous-jacent. Cela apporte des builds nettement plus rapides, mais inclut plusieurs changements majeurs (breaking changes)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

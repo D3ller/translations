@@ -1,0 +1,14 @@
+{
+  "hash": "90b616b94a4ef7da",
+  "source": "Static islands like this work fine on {0} routes, since their HTML is embedded at render time.",
+  "text": "Des îlots statiques comme celui-ci fonctionnent très bien sur les routes {0}, puisque leur HTML est intégré au moment du rendu.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Des îlots statiques comme celui-ci fonctionnent très bien sur les routes {0}, puisque leur HTML est intégré au moment du rendu."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

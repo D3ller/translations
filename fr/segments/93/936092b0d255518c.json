@@ -1,0 +1,14 @@
+{
+  "hash": "936092b0d255518c",
+  "source": "You don't need to do anything about this notice. It's aimed at the module's author, and it's a sign that a later release of that module will no longer need the layer.",
+  "text": "Vous n'avez rien à faire concernant cet avis. Il s'adresse à l'auteur du module et indique qu'une prochaine version de ce module n'aura plus besoin du layer.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous n'avez rien à faire concernant cet avis. Il s'adresse à l'auteur du module et indique qu'une prochaine version de ce module n'aura plus besoin du layer."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

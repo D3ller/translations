@@ -1,0 +1,14 @@
+{
+  "hash": "cb2c29468396b357",
+  "source": "Extend project from a local or remote source.",
+  "text": "Étend le projet à partir d'une source locale ou distante.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Étend le projet à partir d'une source locale ou distante."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

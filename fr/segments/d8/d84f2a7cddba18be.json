@@ -1,0 +1,14 @@
+{
+  "hash": "d84f2a7cddba18be",
+  "source": "See issue #34953 for motivation.",
+  "text": "Consultez l'issue #34953 pour connaître la motivation.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Consultez l'issue #34953 pour connaître la motivation."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

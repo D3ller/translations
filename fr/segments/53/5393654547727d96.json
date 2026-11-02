@@ -1,0 +1,14 @@
+{
+  "hash": "5393654547727d96",
+  "source": "{0} - a number in milliseconds to wait before timing out the request (defaults to {1}, which means no timeout)",
+  "text": "{0} - un nombre en millisecondes à attendre avant l'expiration de la requête (par défaut : {1}, ce qui signifie aucun délai d'expiration)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} - un nombre en millisecondes à attendre avant l'expiration de la requête (par défaut : {1}, ce qui signifie aucun délai d'expiration)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "e98f693edac3ff11",
+  "source": "Access the incoming request URL with the useRequestURL composable.",
+  "text": "Accédez à l'URL de la requête entrante avec le composable useRequestURL.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Accédez à l'URL de la requête entrante avec le composable useRequestURL."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

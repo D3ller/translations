@@ -1,0 +1,14 @@
+{
+  "hash": "7cb20761ceb005ba",
+  "source": "Nuxt includes route rules and hybrid rendering support. Using route rules you can define rules for a group of nuxt routes, change rendering mode or assign a cache strategy based on route!",
+  "text": "Nuxt prend en charge les règles de route et le rendu hybride. Grâce aux règles de route, vous pouvez définir des règles pour un groupe de routes Nuxt, changer le mode de rendu ou attribuer une stratégie de cache en fonction de la route !",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt prend en charge les règles de route et le rendu hybride. Grâce aux règles de route, vous pouvez définir des règles pour un groupe de routes Nuxt, changer le mode de rendu ou attribuer une stratégie de cache en fonction de la route !"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

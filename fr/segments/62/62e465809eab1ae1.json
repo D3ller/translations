@@ -1,0 +1,14 @@
+{
+  "hash": "62e465809eab1ae1",
+  "source": "Hydration Strategies",
+  "text": "Stratégies d'hydratation",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Stratégies d'hydratation"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

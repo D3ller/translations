@@ -1,0 +1,14 @@
+{
+  "hash": "7727a80bd796f491",
+  "source": "It's possible to set some route metadata using {0}, such as the {1}, {2}, and so on. Previously these were available both on the route and on route metadata (for example, {3} and {4}).",
+  "text": "Il est possible de définir certaines métadonnées de route avec {0}, comme {1}, {2}, etc. Auparavant, celles-ci étaient disponibles à la fois sur la route et dans les métadonnées de la route (par exemple, {3} et {4}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Il est possible de définir certaines métadonnées de route avec {0}, comme {1}, {2}, etc. Auparavant, celles-ci étaient disponibles à la fois sur la route et dans les métadonnées de la route (par exemple, {3} et {4})."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

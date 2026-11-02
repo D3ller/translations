@@ -1,0 +1,14 @@
+{
+  "hash": "0f1705718093ad86",
+  "source": "Build Nuxt programmatically. It will invoke the builder (currently {0}@nuxt/vite-builder{/0} or {1}@nuxt/webpack-builder{/1}) to bundle the application.",
+  "text": "Construit Nuxt de manière programmatique. Cette fonction invoque le builder (actuellement {0}@nuxt/vite-builder{/0} ou {1}@nuxt/webpack-builder{/1}) pour créer le bundle de l'application.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Construit Nuxt de manière programmatique. Cette fonction invoque le builder (actuellement {0}@nuxt/vite-builder{/0} ou {1}@nuxt/webpack-builder{/1}) pour créer le bundle de l'application."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

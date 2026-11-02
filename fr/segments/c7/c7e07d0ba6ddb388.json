@@ -1,0 +1,14 @@
+{
+  "hash": "c7e07d0ba6ddb388",
+  "source": "If you have a layout in nested directories, the layout's name will be based on its own path directory and filename, with duplicate segments being removed.",
+  "text": "Si vous avez un layout dans des répertoires imbriqués, le nom du layout sera basé sur le répertoire de son chemin et sur son nom de fichier, les segments en double étant supprimés.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous avez un layout dans des répertoires imbriqués, le nom du layout sera basé sur le répertoire de son chemin et sur son nom de fichier, les segments en double étant supprimés."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "391b8e9e4c9f916e",
+  "source": "We are currently discussing to find a cleaner way to let you create a custom fetcher, see {0}.",
+  "text": "Nous discutons actuellement pour trouver une manière plus simple de vous permettre de créer un fetcher personnalisé, voir {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nous discutons actuellement pour trouver une manière plus simple de vous permettre de créer un fetcher personnalisé, voir {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "e532127510b61b7b",
+  "source": "Route metadata, such as OpenAPI operation info. Nitro v3 attaches it to a handler that isn't middleware.",
+  "text": "Métadonnées de la route, comme les informations d'opération OpenAPI. Nitro v3 les associe à un handler qui n'est pas un middleware.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Métadonnées de la route, comme les informations d'opération OpenAPI. Nitro v3 les associe à un handler qui n'est pas un middleware."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

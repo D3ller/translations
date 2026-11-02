@@ -1,0 +1,14 @@
+{
+  "hash": "66245c19f248b4c0",
+  "source": "Named layer aliases were introduced in Nuxt v3.16.0.",
+  "text": "Les alias nommés de layers ont été introduits dans Nuxt v3.16.0.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les alias nommés de layers ont été introduits dans Nuxt v3.16.0."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

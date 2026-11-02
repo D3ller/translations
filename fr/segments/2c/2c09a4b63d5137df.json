@@ -1,0 +1,14 @@
+{
+  "hash": "2c09a4b63d5137df",
+  "source": "If you navigate to another route, the error will be cleared automatically.",
+  "text": "Si vous naviguez vers une autre route, l'erreur sera effacée automatiquement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous naviguez vers une autre route, l'erreur sera effacée automatiquement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

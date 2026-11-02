@@ -1,0 +1,14 @@
+{
+  "hash": "762e374fd58c2b13",
+  "source": "Documentation is an essential part of Nuxt. We aim to be an intuitive framework - and a big part of that is making sure that both the developer experience and the docs are perfect across the ecosystem. 👌",
+  "text": "La documentation est une partie essentielle de Nuxt. Nous voulons que le framework soit intuitif, et il est donc essentiel que l'expérience développeur et la documentation soient parfaites dans tout l'écosystème. 👌",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La documentation est une partie essentielle de Nuxt. Nous voulons que le framework soit intuitif, et il est donc essentiel que l'expérience développeur et la documentation soient parfaites dans tout l'écosystème. 👌"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

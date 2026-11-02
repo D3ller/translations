@@ -1,0 +1,14 @@
+{
+  "hash": "f5bd943994a78949",
+  "source": "Be careful when nesting islands within other islands as each island adds some extra overhead.",
+  "text": "Soyez prudent lorsque vous imbriquez des îles dans d'autres îles, car chaque île ajoute une surcharge supplémentaire.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Soyez prudent lorsque vous imbriquez des îles dans d'autres îles, car chaque île ajoute une surcharge supplémentaire."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

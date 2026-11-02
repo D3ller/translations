@@ -1,0 +1,14 @@
+{
+  "hash": "dfc02e6ce3dd9171",
+  "source": "Here are some examples to illustrate what a page with a single root element looks like:",
+  "text": "Voici quelques exemples illustrant à quoi ressemble une page avec un seul élément racine :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Voici quelques exemples illustrant à quoi ressemble une page avec un seul élément racine :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "2576171161cdedcf",
+  "source": "Using the {0} option, you can add search parameters to your query. This option is extended from {1}unjs/ofetch{/1} and is using {2}unjs/ufo{/2} to create the URL. Objects are automatically stringified.",
+  "text": "Avec l'option {0}, vous pouvez ajouter des paramètres de recherche à votre requête. Cette option est héritée de {1}unjs/ofetch{/1} et utilise {2}unjs/ufo{/2} pour créer l'URL. Les objets sont automatiquement convertis en chaîne.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Avec l'option {0}, vous pouvez ajouter des paramètres de recherche à votre requête. Cette option est héritée de {1}unjs/ofetch{/1} et utilise {2}unjs/ufo{/2} pour créer l'URL. Les objets sont automatiquement convertis en chaîne."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

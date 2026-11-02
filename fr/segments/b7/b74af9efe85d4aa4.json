@@ -1,0 +1,14 @@
+{
+  "hash": "b74af9efe85d4aa4",
+  "source": "**Nuxt environment**: tests run inside a Nuxt app in a {0} or {1} environment, with access to auto-imports, plugins and injections. Helpers from {2} (such as {3} and {4}) require this environment, which is currently only available with Vitest.",
+  "text": "**Environnement Nuxt** : les tests s'exécutent dans une application Nuxt, dans un environnement {0} ou {1}, avec accès aux imports automatiques, aux plugins et aux injections. Les helpers de {2} (tels que {3} et {4}) nécessitent cet environnement, actuellement disponible uniquement avec Vitest.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Environnement Nuxt** : les tests s'exécutent dans une application Nuxt, dans un environnement {0} ou {1}, avec accès aux imports automatiques, aux plugins et aux injections. Les helpers de {2} (tels que {3} et {4}) nécessitent cet environnement, actuellement disponible uniquement avec Vitest."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

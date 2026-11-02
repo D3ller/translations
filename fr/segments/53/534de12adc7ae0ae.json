@@ -1,0 +1,14 @@
+{
+  "hash": "534de12adc7ae0ae",
+  "source": "A command the CLI does not provide is looked up as a {0} binary in your project, so a dependency can add a command of its own. This is how {1} works: it runs the {2} binary that {3} installs.",
+  "text": "Une commande que la CLI ne fournit pas est recherchée comme un binaire {0} dans votre projet, ce qui permet à une dépendance d'ajouter sa propre commande. C'est ainsi que fonctionne {1} : elle exécute le binaire {2} qu'installe {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une commande que la CLI ne fournit pas est recherchée comme un binaire {0} dans votre projet, ce qui permet à une dépendance d'ajouter sa propre commande. C'est ainsi que fonctionne {1} : elle exécute le binaire {2} qu'installe {3}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

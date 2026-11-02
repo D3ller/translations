@@ -1,0 +1,14 @@
+{
+  "hash": "f30a512d0a3cead1",
+  "source": "Watch Vue School video about passing and exposing Nuxt module options.",
+  "text": "Regardez la vidéo de Vue School sur le passage et l'exposition des options d'un module Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Regardez la vidéo de Vue School sur le passage et l'exposition des options d'un module Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

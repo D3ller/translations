@@ -1,0 +1,14 @@
+{
+  "hash": "0b0b1511e4174e28",
+  "source": "Import name to be detected.",
+  "text": "Nom de l'import à détecter.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nom de l'import à détecter."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

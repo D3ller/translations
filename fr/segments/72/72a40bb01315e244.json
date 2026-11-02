@@ -1,0 +1,14 @@
+{
+  "hash": "72a40bb01315e244",
+  "source": "use the {0} file extensions (recommended)",
+  "text": "utiliser les extensions de fichier {0} (recommandé)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "utiliser les extensions de fichier {0} (recommandé)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

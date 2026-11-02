@@ -1,0 +1,14 @@
+{
+  "hash": "a94775d7d43f5e92",
+  "source": "If you're missing certain fonts or their variations, please confirm the module is {0}configured to load{/0} the fonts you expected to see.",
+  "text": "S'il vous manque certaines polices ou leurs variantes, vérifiez que le module est {0}configuré pour charger{/0} les polices que vous vous attendiez à voir.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "S'il vous manque certaines polices ou leurs variantes, vérifiez que le module est {0}configuré pour charger{/0} les polices que vous vous attendiez à voir."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

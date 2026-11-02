@@ -1,0 +1,14 @@
+{
+  "hash": "40d132877da81a72",
+  "source": "For bigger changes to Nuxt itself, we recommend that you first {0}create a Nuxt module{/0} and implement the feature there. This allows for quick proof-of-concept. You can then {1}create an RFC{/1} in the form of a discussion. As users adopt it and you gather feedback, it can then be refined and either added to Nuxt core or continue as a standalone module.",
+  "text": "Pour les changements plus importants dans Nuxt lui-même, nous vous recommandons de commencer par {0}créer un module Nuxt{/0} et d'y implémenter la fonctionnalité. Cela permet de réaliser rapidement une preuve de concept. Vous pouvez ensuite {1}créer une RFC{/1} sous la forme d'une discussion. À mesure que les utilisateurs l'adoptent et que vous recueillez des retours, la fonctionnalité peut être affinée, puis ajoutée au cœur de Nuxt ou poursuivre sa vie en tant que module autonome.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour les changements plus importants dans Nuxt lui-même, nous vous recommandons de commencer par {0}créer un module Nuxt{/0} et d'y implémenter la fonctionnalité. Cela permet de réaliser rapidement une preuve de concept. Vous pouvez ensuite {1}créer une RFC{/1} sous la forme d'une discussion. À mesure que les utilisateurs l'adoptent et que vous recueillez des retours, la fonctionnalité peut être affinée, puis ajoutée au cœur de Nuxt ou poursuivre sa vie en tant que module autonome."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "7ceb8879766a3b8b",
+  "source": "If set to {0}, the directory will be prepended to the array with {1} instead of {2}.",
+  "text": "Si défini à {0}, le répertoire sera ajouté au début du tableau avec {1} au lieu de {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si défini à {0}, le répertoire sera ajouté au début du tableau avec {1} au lieu de {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "2e40abc9ab458913",
+  "source": "Set a custom response header",
+  "text": "Définir un en-tête de réponse personnalisé",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définir un en-tête de réponse personnalisé"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

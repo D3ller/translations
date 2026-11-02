@@ -1,0 +1,14 @@
+{
+  "hash": "b0a5a301bca0c242",
+  "source": "{0} only runs on the client-side.{1}It is ideal for running code that should not block the initial rendering of your app.",
+  "text": "{0} ne s'exécute que côté client.{1}Il est idéal pour exécuter du code qui ne doit pas bloquer le rendu initial de votre application.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} ne s'exécute que côté client.{1}Il est idéal pour exécuter du code qui ne doit pas bloquer le rendu initial de votre application."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

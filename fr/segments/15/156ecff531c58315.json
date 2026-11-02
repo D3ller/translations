@@ -1,0 +1,14 @@
+{
+  "hash": "156ecff531c58315",
+  "source": "{0}: A default class to apply on active links. Works the same as {1}Vue Router's {2} option{/1}. Defaults to Vue Router's default ({3})",
+  "text": "{0} : une classe par défaut à appliquer aux liens actifs. Fonctionne comme {1}l'option {2} de Vue Router{/1}. Par défaut, la valeur par défaut de Vue Router ({3})",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : une classe par défaut à appliquer aux liens actifs. Fonctionne comme {1}l'option {2} de Vue Router{/1}. Par défaut, la valeur par défaut de Vue Router ({3})"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

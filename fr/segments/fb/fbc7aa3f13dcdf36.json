@@ -1,0 +1,14 @@
+{
+  "hash": "fbc7aa3f13dcdf36",
+  "source": "Boolean flag indicating whether the current request is in progress.",
+  "text": "Indicateur booléen précisant si la requête en cours est en cours d'exécution.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Indicateur booléen précisant si la requête en cours est en cours d'exécution."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

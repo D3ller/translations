@@ -1,0 +1,14 @@
+{
+  "hash": "06862ffa9d6b888c",
+  "source": "Get the resolved directory paths for all layers in a Nuxt application. This function provides a structured way to access layer directories without directly accessing the private {0} property.",
+  "text": "Récupère les chemins de répertoires résolus de tous les layers d'une application Nuxt. Cette fonction offre un moyen structuré d'accéder aux répertoires des layers sans passer directement par la propriété privée {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Récupère les chemins de répertoires résolus de tous les layers d'une application Nuxt. Cette fonction offre un moyen structuré d'accéder aux répertoires des layers sans passer directement par la propriété privée {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

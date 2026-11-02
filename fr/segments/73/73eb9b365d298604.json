@@ -1,0 +1,14 @@
+{
+  "hash": "73eb9b365d298604",
+  "source": "For any detailed descriptions, multi-line messages, or content with non-ASCII characters, you should always use the {0} property instead.",
+  "text": "Pour toute description détaillée, tout message sur plusieurs lignes ou tout contenu contenant des caractères non ASCII, utilisez toujours la propriété {0} à la place.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour toute description détaillée, tout message sur plusieurs lignes ou tout contenu contenant des caractères non ASCII, utilisez toujours la propriété {0} à la place."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

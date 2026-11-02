@@ -1,0 +1,14 @@
+{
+  "hash": "25afbbf209a1aded",
+  "source": "Remote islands need {0} to be {1} in your {2}.",
+  "text": "Les islands distantes nécessitent que {0} soit {1} dans votre {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les islands distantes nécessitent que {0} soit {1} dans votre {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

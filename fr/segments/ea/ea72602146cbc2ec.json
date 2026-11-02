@@ -1,0 +1,14 @@
+{
+  "hash": "ea72602146cbc2ec",
+  "source": "Nuxt reads a registered file's imports to decide which API it uses, so you don't need to declare your compatibility. But if this isn't sufficient, you can set {0}:",
+  "text": "Nuxt lit les imports d'un fichier enregistré pour déterminer quelle API il utilise, vous n'avez donc pas besoin de déclarer votre compatibilité. Mais si cela ne suffit pas, vous pouvez définir {0} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt lit les imports d'un fichier enregistré pour déterminer quelle API il utilise, vous n'avez donc pas besoin de déclarer votre compatibilité. Mais si cela ne suffit pas, vous pouvez définir {0} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

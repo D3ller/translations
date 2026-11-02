@@ -1,0 +1,14 @@
+{
+  "hash": "21ad65eeadb87c01",
+  "source": "{0} and {1} serve static files only: the lightest weight in the range, the weight closest to {2}, and the heaviest.",
+  "text": "{0} et {1} servent uniquement des fichiers statiques : la graisse la plus légère de la plage, celle la plus proche de {2}, et la plus lourde.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} et {1} servent uniquement des fichiers statiques : la graisse la plus légère de la plage, celle la plus proche de {2}, et la plus lourde."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "4908eda105772238",
+  "source": "Framework functions like {0}, {1}, or {2} will still work without needing manual imports.",
+  "text": "Les fonctions du framework comme {0}, {1} ou {2} continueront de fonctionner sans import manuel.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les fonctions du framework comme {0}, {1} ou {2} continueront de fonctionner sans import manuel."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

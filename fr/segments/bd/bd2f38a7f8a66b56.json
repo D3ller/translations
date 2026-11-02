@@ -1,0 +1,14 @@
+{
+  "hash": "bd2f38a7f8a66b56",
+  "source": "**{0}** fires once, before the shell flushes, with {1} on its second argument. Mutations to {2}, {3}, {4}, and {5} reach the wire. Mutations to {6}/{7} are dropped, since the body is about to stream (a dev-mode warning is emitted). Modules that only mutate head fields (CSP injection, OG tags, analytics meta) work in streaming with no code changes.",
+  "text": "**{0}** est déclenché une fois, avant l'envoi du shell, avec {1} en second argument. Les modifications de {2}, {3}, {4} et {5} sont transmises. Les modifications de {6}/{7} sont ignorées, car le body est sur le point d'être streamé (un avertissement est émis en mode dev). Les modules qui ne modifient que les champs du head (injection de CSP, balises OG, meta d'analytics) fonctionnent avec le streaming sans changement de code.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** est déclenché une fois, avant l'envoi du shell, avec {1} en second argument. Les modifications de {2}, {3}, {4} et {5} sont transmises. Les modifications de {6}/{7} sont ignorées, car le body est sur le point d'être streamé (un avertissement est émis en mode dev). Les modules qui ne modifient que les champs du head (injection de CSP, balises OG, meta d'analytics) fonctionnent avec le streaming sans changement de code."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

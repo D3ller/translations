@@ -1,0 +1,14 @@
+{
+  "hash": "10ec83099ce618d6",
+  "source": "{0} Is No Longer a Global in the Browser",
+  "text": "{0} n'est plus une variable globale dans le navigateur",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} n'est plus une variable globale dans le navigateur"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

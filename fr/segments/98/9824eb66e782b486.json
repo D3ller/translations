@@ -1,0 +1,14 @@
+{
+  "hash": "9824eb66e782b486",
+  "source": "Use new {0} field with conditional exports. ({1}read more{/1}).",
+  "text": "Utilisez le nouveau champ {0} avec les exports conditionnels ({1}en savoir plus{/1}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utilisez le nouveau champ {0} avec les exports conditionnels ({1}en savoir plus{/1})."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

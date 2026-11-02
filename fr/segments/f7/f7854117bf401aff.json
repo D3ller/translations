@@ -1,0 +1,14 @@
+{
+  "hash": "f7854117bf401aff",
+  "source": "This feature transforms inline handler functions into dynamically imported chunks:",
+  "text": "Cette fonctionnalité transforme les fonctions de gestion en ligne en chunks importés dynamiquement :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cette fonctionnalité transforme les fonctions de gestion en ligne en chunks importés dynamiquement :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

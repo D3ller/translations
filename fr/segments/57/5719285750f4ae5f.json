@@ -1,0 +1,14 @@
+{
+  "hash": "5719285750f4ae5f",
+  "source": "The user's project is the first item in the array",
+  "text": "Le projet de l'utilisateur est le premier élément du tableau",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le projet de l'utilisateur est le premier élément du tableau"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

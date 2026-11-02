@@ -1,0 +1,14 @@
+{
+  "hash": "87be796166053f74",
+  "source": "Add a directory to be scanned for auto-imports by Nitro.",
+  "text": "Ajoute un répertoire à analyser par Nitro pour les imports automatiques.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ajoute un répertoire à analyser par Nitro pour les imports automatiques."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

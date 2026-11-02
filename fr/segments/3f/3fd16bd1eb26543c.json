@@ -1,0 +1,14 @@
+{
+  "hash": "3fd16bd1eb26543c",
+  "source": "{0} as an Error Object",
+  "text": "{0} avec un objet Error",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} avec un objet Error"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

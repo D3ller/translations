@@ -1,0 +1,14 @@
+{
+  "hash": "608d2206a9bea868",
+  "source": "During a component lifecycle, Vue tracks the temporary instance of the current component (and similarly, Nuxt tracks a temporary instance of {0}) via a global variable, and then unsets it in the same tick. This is essential when server rendering, both to avoid cross-request state pollution (leaking a shared reference between two users) and to avoid leakage between different components.",
+  "text": "Pendant le cycle de vie d'un composant, Vue suit l'instance temporaire du composant courant (et, de même, Nuxt suit une instance temporaire de {0}) via une variable globale, puis la désactive dans le même tick. C'est essentiel lors du rendu côté serveur, à la fois pour éviter la pollution d'état entre requêtes (fuite d'une référence partagée entre deux utilisateurs) et pour éviter les fuites entre différents composants.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pendant le cycle de vie d'un composant, Vue suit l'instance temporaire du composant courant (et, de même, Nuxt suit une instance temporaire de {0}) via une variable globale, puis la désactive dans le même tick. C'est essentiel lors du rendu côté serveur, à la fois pour éviter la pollution d'état entre requêtes (fuite d'une référence partagée entre deux utilisateurs) et pour éviter les fuites entre différents composants."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

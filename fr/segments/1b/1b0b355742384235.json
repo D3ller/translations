@@ -1,0 +1,14 @@
+{
+  "hash": "1b0b355742384235",
+  "source": "When using API routes (or middleware), Nitro will generate typings for these routes as long as you are returning a value instead of using {0} to send a response.",
+  "text": "Lorsque vous utilisez des routes d'API (ou des middleware), Nitro génère des types pour ces routes tant que vous retournez une valeur au lieu d'utiliser {0} pour envoyer une réponse.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque vous utilisez des routes d'API (ou des middleware), Nitro génère des types pour ces routes tant que vous retournez une valeur au lieu d'utiliser {0} pour envoyer une réponse."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

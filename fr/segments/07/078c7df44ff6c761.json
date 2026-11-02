@@ -1,0 +1,14 @@
+{
+  "hash": "078c7df44ff6c761",
+  "source": "Nuxt provides composables and utilities for first-class server-side-rendering support.",
+  "text": "Nuxt fournit des composables et des utilitaires pour une prise en charge de premier ordre du rendu côté serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt fournit des composables et des utilitaires pour une prise en charge de premier ordre du rendu côté serveur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

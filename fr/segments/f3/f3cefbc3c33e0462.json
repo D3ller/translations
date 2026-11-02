@@ -1,0 +1,14 @@
+{
+  "hash": "f3cefbc3c33e0462",
+  "source": "Route Rules: {0} Renamed to {1}",
+  "text": "Règles de route : {0} renommé en {1}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Règles de route : {0} renommé en {1}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

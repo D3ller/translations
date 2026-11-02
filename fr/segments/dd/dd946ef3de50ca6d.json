@@ -1,0 +1,14 @@
+{
+  "hash": "dd946ef3de50ca6d",
+  "source": "By default, if you haven't set it manually, Vue will assign a component name that matches the filename of the component.",
+  "text": "Par défaut, si vous ne l'avez pas défini manuellement, Vue attribue un nom de composant qui correspond au nom de fichier du composant.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par défaut, si vous ne l'avez pas défini manuellement, Vue attribue un nom de composant qui correspond au nom de fichier du composant."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

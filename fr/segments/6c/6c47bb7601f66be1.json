@@ -1,0 +1,14 @@
+{
+  "hash": "6c47bb7601f66be1",
+  "source": "Here {0} takes a {1} and returns a {2}, like {3} in the previous example. The route matches {4} and every path below it, so you don't need to register the base path as well. On a {5} v2 host, this needs {6} in your module's {7}.",
+  "text": "Ici, {0} prend un {1} et renvoie un {2}, comme {3} dans l'exemple précédent. La route correspond à {4} et à tous les chemins situés en dessous, vous n'avez donc pas besoin d'enregistrer aussi le chemin de base. Sur un hôte {5} v2, cela nécessite {6} dans {7} de votre module.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ici, {0} prend un {1} et renvoie un {2}, comme {3} dans l'exemple précédent. La route correspond à {4} et à tous les chemins situés en dessous, vous n'avez donc pas besoin d'enregistrer aussi le chemin de base. Sur un hôte {5} v2, cela nécessite {6} dans {7} de votre module."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

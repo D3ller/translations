@@ -1,0 +1,14 @@
+{
+  "hash": "99e9b7669d492ca1",
+  "source": "**Conditional Rendering:** When using {0} on a lazy component, you might not need delayed hydration. You can just use a normal lazy component.",
+  "text": "**Rendu conditionnel :** lorsque vous utilisez {0} sur un composant lazy, l'hydratation différée n'est peut-être pas nécessaire. Vous pouvez simplement utiliser un composant lazy classique.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Rendu conditionnel :** lorsque vous utilisez {0} sur un composant lazy, l'hydratation différée n'est peut-être pas nécessaire. Vous pouvez simplement utiliser un composant lazy classique."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

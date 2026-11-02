@@ -1,0 +1,14 @@
+{
+  "hash": "160fefa401988426",
+  "source": "The {0} command pre-renders every route of your application and stores the result in plain HTML files that you can deploy on any static hosting services. The command triggers the {1} command with the {2} argument set to {3}",
+  "text": "La commande {0} pré-rend chaque route de votre application et stocke le résultat dans de simples fichiers HTML que vous pouvez déployer sur n'importe quel service d'hébergement statique. Cette commande déclenche la commande {1} avec l'argument {2} défini sur {3}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La commande {0} pré-rend chaque route de votre application et stocke le résultat dans de simples fichiers HTML que vous pouvez déployer sur n'importe quel service d'hébergement statique. Cette commande déclenche la commande {1} avec l'argument {2} défini sur {3}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

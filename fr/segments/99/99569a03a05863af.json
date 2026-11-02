@@ -1,0 +1,14 @@
+{
+  "hash": "99569a03a05863af",
+  "source": "In Nuxt 2, you will have defined any nested routes (with parent and child components) using {0} and {1}. In Nuxt 3, these have been replaced with a single {2} component.",
+  "text": "Dans Nuxt 2, vous définissiez les routes imbriquées (avec des composants parent et enfant) à l'aide de {0} et {1}. Dans Nuxt 3, ils ont été remplacés par un unique composant {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans Nuxt 2, vous définissiez les routes imbriquées (avec des composants parent et enfant) à l'aide de {0} et {1}. Dans Nuxt 3, ils ont été remplacés par un unique composant {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

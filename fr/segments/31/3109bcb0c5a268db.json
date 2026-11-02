@@ -1,0 +1,14 @@
+{
+  "hash": "3109bcb0c5a268db",
+  "source": "{0}: The amount of time (in milliseconds) to allow tearing down the test environment, such as closing the browser.",
+  "text": "{0} : durée (en millisecondes) accordée pour démanteler l'environnement de test, par exemple pour fermer le navigateur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : durée (en millisecondes) accordée pour démanteler l'environnement de test, par exemple pour fermer le navigateur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

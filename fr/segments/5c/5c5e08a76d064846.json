@@ -1,0 +1,14 @@
+{
+  "hash": "5c5e08a76d064846",
+  "source": "**Local (specific option or feature):** Add a small badge next to the option or section: {0} (e.g. for {1} in useFetch, or for the {2} mode in callOnce).",
+  "text": "**Local (option ou fonctionnalité spécifique) :** ajoutez un petit badge à côté de l'option ou de la section : {0} (par ex. pour {1} dans useFetch, ou pour le mode {2} dans callOnce).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Local (option ou fonctionnalité spécifique) :** ajoutez un petit badge à côté de l'option ou de la section : {0} (par ex. pour {1} dans useFetch, ou pour le mode {2} dans callOnce)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

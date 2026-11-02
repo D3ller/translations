@@ -1,0 +1,14 @@
+{
+  "hash": "2a91570cd6fa96f6",
+  "source": "If a configured plugin is not installed, Nuxt prompts you to install it and reports the command to run.",
+  "text": "Si un plugin configuré n'est pas installé, Nuxt vous propose de l'installer et indique la commande à exécuter.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si un plugin configuré n'est pas installé, Nuxt vous propose de l'installer et indique la commande à exécuter."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

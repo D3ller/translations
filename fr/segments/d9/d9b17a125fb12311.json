@@ -1,0 +1,14 @@
+{
+  "hash": "d9b17a125fb12311",
+  "source": "If you encounter issues with module order dependencies due to needing to register a hook, consider using the {0}{1} hook{/0} for modules that need to call a hook. This is run after all other modules have been loaded, which means it is safe to use.",
+  "text": "Si vous rencontrez des problèmes de dépendances liés à l'ordre des modules parce que vous devez enregistrer un hook, envisagez d'utiliser le {0}hook {1}{/0} pour les modules qui doivent appeler un hook. Il est exécuté après le chargement de tous les autres modules, ce qui garantit une utilisation sûre.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous rencontrez des problèmes de dépendances liés à l'ordre des modules parce que vous devez enregistrer un hook, envisagez d'utiliser le {0}hook {1}{/0} pour les modules qui doivent appeler un hook. Il est exécuté après le chargement de tous les autres modules, ce qui garantit une utilisation sûre."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "56a225fbd4609a04",
+  "source": "the per-component inline-styles map",
+  "text": "la map des styles en ligne par composant",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "la map des styles en ligne par composant"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

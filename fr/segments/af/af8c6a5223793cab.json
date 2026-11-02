@@ -1,0 +1,14 @@
+{
+  "hash": "af8c6a5223793cab",
+  "source": "The only key difference is that {0} no longer returns a computed property.",
+  "text": "La seule différence essentielle est que {0} ne renvoie plus de propriété calculée.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La seule différence essentielle est que {0} ne renvoie plus de propriété calculée."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

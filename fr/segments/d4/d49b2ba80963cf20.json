@@ -1,0 +1,14 @@
+{
+  "hash": "d49b2ba80963cf20",
+  "source": "More granular control over environment-specific configuration",
+  "text": "Un contrôle plus fin de la configuration propre à chaque environnement",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un contrôle plus fin de la configuration propre à chaque environnement"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

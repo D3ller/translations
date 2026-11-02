@@ -1,0 +1,14 @@
+{
+  "hash": "827a94e32d66137e",
+  "source": "Render individual components on the server only, keeping their JavaScript out of your client bundle.",
+  "text": "Rendez des composants individuels uniquement côté serveur, sans inclure leur JavaScript dans votre bundle client.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Rendez des composants individuels uniquement côté serveur, sans inclure leur JavaScript dans votre bundle client."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

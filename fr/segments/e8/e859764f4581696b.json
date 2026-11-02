@@ -1,0 +1,14 @@
+{
+  "hash": "e859764f4581696b",
+  "source": "Remove {0} from your buildModules",
+  "text": "Supprimez {0} de vos buildModules",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Supprimez {0} de vos buildModules"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

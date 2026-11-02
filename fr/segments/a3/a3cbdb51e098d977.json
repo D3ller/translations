@@ -1,0 +1,14 @@
+{
+  "hash": "a3cbdb51e098d977",
+  "source": "**{0}**: Options to pass to the callback function. This object can have the following properties:",
+  "text": "**{0}** : options à transmettre à la fonction de rappel. Cet objet peut avoir les propriétés suivantes :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** : options à transmettre à la fonction de rappel. Cet objet peut avoir les propriétés suivantes :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

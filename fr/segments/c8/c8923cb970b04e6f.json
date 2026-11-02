@@ -1,0 +1,14 @@
+{
+  "hash": "c8923cb970b04e6f",
+  "source": "Learn more about Chrome DevTools Performance API.",
+  "text": "En savoir plus sur l'API Performance de Chrome DevTools.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En savoir plus sur l'API Performance de Chrome DevTools."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

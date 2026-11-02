@@ -1,0 +1,14 @@
+{
+  "hash": "a0ff02ba4ff8b60a",
+  "source": "Custom Providers",
+  "text": "Providers personnalisés",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Providers personnalisés"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

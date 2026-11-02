@@ -1,0 +1,14 @@
+{
+  "hash": "379840d2fcc74af9",
+  "source": "Nuxt Kit provides a set of utilities to help you work with components. You can register components globally or locally, and also add directories to be scanned for components.",
+  "text": "Nuxt Kit fournit un ensemble d'utilitaires pour vous aider à travailler avec les composants. Vous pouvez enregistrer des composants globalement ou localement, et aussi ajouter des répertoires à analyser pour y rechercher des composants.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt Kit fournit un ensemble d'utilitaires pour vous aider à travailler avec les composants. Vous pouvez enregistrer des composants globalement ou localement, et aussi ajouter des répertoires à analyser pour y rechercher des composants."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

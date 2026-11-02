@@ -1,0 +1,14 @@
+{
+  "hash": "73eda2d91c17f63d",
+  "source": "If set to {0}, the callback function will be called when building in production mode.",
+  "text": "Si la valeur est {0}, la fonction de rappel sera appelée lors du build en mode production.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si la valeur est {0}, la fonction de rappel sera appelée lors du build en mode production."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "a38d1e8ff42a19c3",
+  "source": "You can add more helpers yourself inside the {0} directory.",
+  "text": "Vous pouvez ajouter vous-même d'autres helpers dans le répertoire {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez ajouter vous-même d'autres helpers dans le répertoire {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

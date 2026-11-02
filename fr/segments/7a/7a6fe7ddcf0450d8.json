@@ -1,0 +1,14 @@
+{
+  "hash": "7a6fe7ddcf0450d8",
+  "source": "Nuxt now generates {0} itself, as one of the tsconfigs it writes per environment, rather than delegating it to the server builder. If you extended it through Nitro, use the Nuxt option instead:",
+  "text": "Nuxt génère désormais {0} lui-même, comme l'un des fichiers tsconfig qu'il écrit pour chaque environnement, au lieu de le déléguer au builder du serveur. Si vous l'étendiez via Nitro, utilisez plutôt l'option de Nuxt :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt génère désormais {0} lui-même, comme l'un des fichiers tsconfig qu'il écrit pour chaque environnement, au lieu de le déléguer au builder du serveur. Si vous l'étendiez via Nitro, utilisez plutôt l'option de Nuxt :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "7abf2caf182a7a5f",
+  "source": "In development, a builder is also responsible for serving and hot-reloading the app. Two things matter:",
+  "text": "En développement, un builder est également responsable de servir l'application et de gérer le rechargement à chaud. Deux points importants :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En développement, un builder est également responsable de servir l'application et de gérer le rechargement à chaud. Deux points importants :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

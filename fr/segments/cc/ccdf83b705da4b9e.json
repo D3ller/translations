@@ -1,0 +1,14 @@
+{
+  "hash": "ccdf83b705da4b9e",
+  "source": "For example, we can have a {0} that stores configuration data and import this data in our Nuxt components:",
+  "text": "Par exemple, vous pouvez créer un fichier {0} qui stocke des données de configuration et importer ces données dans vos composants Nuxt :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par exemple, vous pouvez créer un fichier {0} qui stocke des données de configuration et importer ces données dans vos composants Nuxt :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

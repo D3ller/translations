@@ -1,0 +1,14 @@
+{
+  "hash": "0b7806ce16f6dfe0",
+  "source": "When linking to other documentation pages, use relative paths without the domain or a version segment: {0} rather than {1}. {2}nuxt.com{/2} inserts the version segment of the branch the page was built from, so the same link resolves correctly on every version and docs changes can be cherry-picked between branches unchanged. Only write a version segment when you deliberately mean *another* version's docs, and in that case use the full URL, {3}, so the intent is obvious in review.",
+  "text": "Lorsque vous créez un lien vers d'autres pages de la documentation, utilisez des chemins relatifs sans le domaine ni segment de version : {0} plutôt que {1}. {2}nuxt.com{/2} insère le segment de version de la branche à partir de laquelle la page a été construite, de sorte que le même lien fonctionne correctement sur toutes les versions et que les modifications de la documentation peuvent être cherry-pickées d'une branche à l'autre sans changement. N'écrivez un segment de version que lorsque vous visez délibérément la documentation d'*une autre* version ; dans ce cas, utilisez l'URL complète, {3}, afin que l'intention soit évidente lors de la relecture.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque vous créez un lien vers d'autres pages de la documentation, utilisez des chemins relatifs sans le domaine ni segment de version : {0} plutôt que {1}. {2}nuxt.com{/2} insère le segment de version de la branche à partir de laquelle la page a été construite, de sorte que le même lien fonctionne correctement sur toutes les versions et que les modifications de la documentation peuvent être cherry-pickées d'une branche à l'autre sans changement. N'écrivez un segment de version que lorsque vous visez délibérément la documentation d'*une autre* version ; dans ce cas, utilisez l'URL complète, {3}, afin que l'intention soit évidente lors de la relecture."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

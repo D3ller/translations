@@ -1,0 +1,14 @@
+{
+  "hash": "a5cdd2bdfd05c0f7",
+  "source": "If your project does not use JSX, no changes are needed.",
+  "text": "Si votre projet n'utilise pas JSX, aucun changement n'est nécessaire.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si votre projet n'utilise pas JSX, aucun changement n'est nécessaire."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

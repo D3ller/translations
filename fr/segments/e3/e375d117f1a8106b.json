@@ -1,0 +1,14 @@
+{
+  "hash": "e375d117f1a8106b",
+  "source": "Read more about Nitro Storage Layer.",
+  "text": "En savoir plus sur la couche de stockage de Nitro.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En savoir plus sur la couche de stockage de Nitro."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

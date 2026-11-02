@@ -1,0 +1,14 @@
+{
+  "hash": "1da1d75df14c2953",
+  "source": "When {0} applies to a rendered page, the following are omitted from the HTML:",
+  "text": "Lorsque {0} s'applique à une page rendue, les éléments suivants sont omis du HTML :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque {0} s'applique à une page rendue, les éléments suivants sont omis du HTML :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

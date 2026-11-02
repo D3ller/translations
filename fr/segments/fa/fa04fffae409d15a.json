@@ -1,0 +1,14 @@
+{
+  "hash": "fa04fffae409d15a",
+  "source": "Builder Properties",
+  "text": "Propriétés du builder",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Propriétés du builder"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "573889dcb49dfb0b",
+  "source": "The transform only applies to top-level {0} statements in {1} whose result is not used. Calls with the {2} option (or options that cannot be statically analyzed) are not transformed, as they should not stop the current page from rendering.",
+  "text": "La transformation ne s'applique qu'aux instructions {0} de premier niveau dans {1} dont le résultat n'est pas utilisé. Les appels avec l'option {2} (ou avec des options qui ne peuvent pas être analysées statiquement) ne sont pas transformés, car ils ne doivent pas empêcher le rendu de la page courante.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La transformation ne s'applique qu'aux instructions {0} de premier niveau dans {1} dont le résultat n'est pas utilisé. Les appels avec l'option {2} (ou avec des options qui ne peuvent pas être analysées statiquement) ne sont pas transformés, car ils ne doivent pas empêcher le rendu de la page courante."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "03db94174d2e8466",
+  "source": "The first two kinds of route middleware can be defined in {0}.",
+  "text": "Les deux premiers types de middleware de route peuvent être définis dans {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les deux premiers types de middleware de route peuvent être définis dans {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

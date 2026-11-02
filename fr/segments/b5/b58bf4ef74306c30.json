@@ -1,0 +1,14 @@
+{
+  "hash": "b58bf4ef74306c30",
+  "source": "Filters to hide build warnings.",
+  "text": "Filtres pour masquer les avertissements de build.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Filtres pour masquer les avertissements de build."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

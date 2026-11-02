@@ -1,0 +1,14 @@
+{
+  "hash": "247dc02a30ca202a",
+  "source": "You use the default slot to render your content",
+  "text": "Vous utilisez le slot par défaut pour afficher votre contenu",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous utilisez le slot par défaut pour afficher votre contenu"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

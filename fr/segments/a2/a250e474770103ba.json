@@ -1,0 +1,14 @@
+{
+  "hash": "a250e474770103ba",
+  "source": "Using pinned version due to {0}",
+  "text": "Utilisation d'une version épinglée en raison de {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utilisation d'une version épinglée en raison de {0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

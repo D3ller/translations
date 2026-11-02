@@ -1,0 +1,14 @@
+{
+  "hash": "4ed6c832a59cc37f",
+  "source": "{0}: An option to either add or remove trailing slashes in the {1}. If unset or not matching the valid values {2} or {3}, it will be ignored.",
+  "text": "{0} : une option pour ajouter ou supprimer les barres obliques finales dans {1}. Si elle n'est pas définie ou ne correspond pas aux valeurs valides {2} ou {3}, elle sera ignorée.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : une option pour ajouter ou supprimer les barres obliques finales dans {1}. Si elle n'est pas définie ou ne correspond pas aux valeurs valides {2} ou {3}, elle sera ignorée."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

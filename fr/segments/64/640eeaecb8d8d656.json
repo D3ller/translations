@@ -1,0 +1,14 @@
+{
+  "hash": "640eeaecb8d8d656",
+  "source": "Used with the {0} keyword in the {1} definition, here is the above component rewritten with Composition API and Nuxt 3’s auto-imported Reactivity APIs:",
+  "text": "En utilisant le mot-clé {0} dans la définition de {1}, voici le composant ci-dessus réécrit avec la Composition API et les API de réactivité importées automatiquement de Nuxt 3 :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En utilisant le mot-clé {0} dans la définition de {1}, voici le composant ci-dessus réécrit avec la Composition API et les API de réactivité importées automatiquement de Nuxt 3 :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

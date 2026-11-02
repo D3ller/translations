@@ -1,0 +1,14 @@
+{
+  "hash": "59a00ac610961591",
+  "source": "Hydrates the component after a specified interaction (e.g., click, mouseover).",
+  "text": "Hydrate le composant après une interaction spécifiée (par exemple, click, mouseover).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Hydrate le composant après une interaction spécifiée (par exemple, click, mouseover)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

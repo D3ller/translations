@@ -1,0 +1,14 @@
+{
+  "hash": "73f5066b3cc315e7",
+  "source": "{0}: Specify the content to be rendered before the island loads (if the component is lazy) or if {1} fails to fetch the component.",
+  "text": "{0} : spécifie le contenu à afficher avant le chargement de l'island (si le composant est lazy) ou si {1} ne parvient pas à récupérer le composant.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : spécifie le contenu à afficher avant le chargement de l'island (si le composant est lazy) ou si {1} ne parvient pas à récupérer le composant."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "0a288f94afd52f21",
+  "source": "This approach is not recommended as it creates a hybrid environment where Nuxt Vite plugins run but the Nuxt entry and {0} are not initialized. This can lead to hard-to-debug errors.",
+  "text": "Cette approche n'est pas recommandée, car elle crée un environnement hybride où les plugins Vite de Nuxt s'exécutent alors que l'entrée Nuxt et {0} ne sont pas initialisés. Cela peut entraîner des erreurs difficiles à déboguer.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cette approche n'est pas recommandée, car elle crée un environnement hybride où les plugins Vite de Nuxt s'exécutent alors que l'entrée Nuxt et {0} ne sont pas initialisés. Cela peut entraîner des erreurs difficiles à déboguer."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

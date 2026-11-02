@@ -1,0 +1,14 @@
+{
+  "hash": "077e0feae1ca0c71",
+  "source": "Loading States",
+  "text": "États de chargement",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "États de chargement"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

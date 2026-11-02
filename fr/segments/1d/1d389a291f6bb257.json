@@ -1,0 +1,14 @@
+{
+  "hash": "1d389a291f6bb257",
+  "source": "If you set any of these options on a family and (perhaps unknowingly) relied on them being ignored, your generated CSS will change. Note that setting {0} on a family marks it as subsetted, so it is no longer preloaded by default; set {1} explicitly if you still want a preload link for it.",
+  "text": "Si vous définissez l'une de ces options sur une famille et que vous comptiez (peut-être sans le savoir) sur le fait qu'elles étaient ignorées, votre CSS généré changera. Notez que définir {0} sur une famille la marque comme sous-ensemble (subsetted) ; elle n'est donc plus préchargée par défaut. Définissez {1} explicitement si vous souhaitez toujours un lien de préchargement pour elle.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous définissez l'une de ces options sur une famille et que vous comptiez (peut-être sans le savoir) sur le fait qu'elles étaient ignorées, votre CSS généré changera. Notez que définir {0} sur une famille la marque comme sous-ensemble (subsetted) ; elle n'est donc plus préchargée par défaut. Définissez {1} explicitement si vous souhaitez toujours un lien de préchargement pour elle."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

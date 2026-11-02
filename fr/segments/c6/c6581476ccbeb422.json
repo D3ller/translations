@@ -1,0 +1,14 @@
+{
+  "hash": "c6581476ccbeb422",
+  "source": "{0}: route location that was attempted to access before ending up on the current route location",
+  "text": "{0} : emplacement de la route auquel on a tenté d'accéder avant d'arriver à l'emplacement de la route courante",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : emplacement de la route auquel on a tenté d'accéder avant d'arriver à l'emplacement de la route courante"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

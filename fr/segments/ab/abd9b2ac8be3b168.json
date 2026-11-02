@@ -1,0 +1,14 @@
+{
+  "hash": "abd9b2ac8be3b168",
+  "source": "It's important that this comes last if you have overrides you wish to apply",
+  "text": "Il est important que cette entrée soit placée en dernier si vous avez des surcharges à appliquer",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Il est important que cette entrée soit placée en dernier si vous avez des surcharges à appliquer"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

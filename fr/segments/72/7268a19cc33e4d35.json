@@ -1,0 +1,14 @@
+{
+  "hash": "7268a19cc33e4d35",
+  "source": "Set {0} or {1} to skip it for one run, or add {2} to your user-level {3} to opt out for good.",
+  "text": "Définissez {0} ou {1} pour l'ignorer pour une exécution, ou ajoutez {2} à votre {3} au niveau utilisateur pour la désactiver définitivement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définissez {0} ou {1} pour l'ignorer pour une exécution, ou ajoutez {2} à votre {3} au niveau utilisateur pour la désactiver définitivement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

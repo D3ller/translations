@@ -1,0 +1,14 @@
+{
+  "hash": "5a9688a49802884f",
+  "source": "Use the fetchKey option to provide a unique key",
+  "text": "Utilisez l'option fetchKey pour fournir une clé unique",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utilisez l'option fetchKey pour fournir une clé unique"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

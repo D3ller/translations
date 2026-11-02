@@ -1,0 +1,14 @@
+{
+  "hash": "3088fc31553e1835",
+  "source": "**Using supported builders:**",
+  "text": "**Utilisation des builders pris en charge :**",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Utilisation des builders pris en charge :**"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

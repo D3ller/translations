@@ -1,0 +1,14 @@
+{
+  "hash": "9e96f1e4cea5d9c3",
+  "source": "When submitting your PR, there is a simple template that you have to fill out. Please tick all appropriate \"answers\" in the checklists.",
+  "text": "Lorsque vous soumettez votre PR, vous devez remplir un template simple. Veuillez cocher toutes les « réponses » appropriées dans les listes de vérification.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque vous soumettez votre PR, vous devez remplir un template simple. Veuillez cocher toutes les « réponses » appropriées dans les listes de vérification."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

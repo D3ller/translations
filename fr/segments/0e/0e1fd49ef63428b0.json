@@ -1,0 +1,14 @@
+{
+  "hash": "0e1fd49ef63428b0",
+  "source": "Use {0} to trigger error handling in server API routes.",
+  "text": "Utilisez {0} pour déclencher la gestion des erreurs dans les routes d'API du serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utilisez {0} pour déclencher la gestion des erreurs dans les routes d'API du serveur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

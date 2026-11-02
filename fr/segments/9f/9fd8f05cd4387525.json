@@ -1,0 +1,14 @@
+{
+  "hash": "9fd8f05cd4387525",
+  "source": "In a production build, every family is resolved before Nitro builds. In development, families found in your CSS are resolved as the stylesheets that use them are requested.",
+  "text": "Dans un build de production, chaque famille est résolue avant que Nitro ne construise le projet. En développement, les familles trouvées dans votre CSS sont résolues au fur et à mesure que les feuilles de style qui les utilisent sont demandées.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans un build de production, chaque famille est résolue avant que Nitro ne construise le projet. En développement, les familles trouvées dans votre CSS sont résolues au fur et à mesure que les feuilles de style qui les utilisent sont demandées."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

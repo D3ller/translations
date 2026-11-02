@@ -1,0 +1,14 @@
+{
+  "hash": "b8aee4688a8ded29",
+  "source": "Create an issue in your repository and assign it to Copilot",
+  "text": "Créez une issue dans votre dépôt et assignez-la à Copilot",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Créez une issue dans votre dépôt et assignez-la à Copilot"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

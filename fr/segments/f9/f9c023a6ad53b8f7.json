@@ -1,0 +1,14 @@
+{
+  "hash": "f9c023a6ad53b8f7",
+  "source": "Public URL to display (used for QR code and clipboard)",
+  "text": "URL publique à afficher (utilisée pour le QR code et le presse-papiers)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "URL publique à afficher (utilisée pour le QR code et le presse-papiers)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

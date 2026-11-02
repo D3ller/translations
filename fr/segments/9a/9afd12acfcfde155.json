@@ -1,0 +1,14 @@
+{
+  "hash": "9afd12acfcfde155",
+  "source": "You can now universally call this API on {0} and get {1}.",
+  "text": "Vous pouvez désormais appeler cette API de manière universelle sur {0} et obtenir {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez désormais appeler cette API de manière universelle sur {0} et obtenir {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "228e03bc0f8b4171",
+  "source": "Not available. Use {0} and {1}.",
+  "text": "Non disponible. Utilisez {0} et {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Non disponible. Utilisez {0} et {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

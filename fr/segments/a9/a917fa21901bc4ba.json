@@ -1,0 +1,14 @@
+{
+  "hash": "a917fa21901bc4ba",
+  "source": "Adds a **Fonts** panel to {0}Nuxt DevTools{/0}, listing every family resolved for your app: the provider that served it, the faces generated for it, where each is used, and any warnings raised while resolving it.",
+  "text": "Ajoute un panneau **Fonts** à {0}Nuxt DevTools{/0}, qui liste chaque famille résolue pour votre application : le fournisseur qui l'a servie, les variantes générées pour elle, l'endroit où chacune est utilisée, ainsi que les avertissements émis lors de sa résolution.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ajoute un panneau **Fonts** à {0}Nuxt DevTools{/0}, qui liste chaque famille résolue pour votre application : le fournisseur qui l'a servie, les variantes générées pour elle, l'endroit où chacune est utilisée, ainsi que les avertissements émis lors de sa résolution."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "d141e39fb4bf08d7",
+  "source": "Some deploy targets run the build themselves, in a worker or on a platform that hands them a {0}. All they want is one module that exports {1}. If your build emits such a module, name it once the build that produced it has run:",
+  "text": "Certaines cibles de déploiement exécutent elles-mêmes le build, dans un worker ou sur une plateforme qui leur transmet un {0}. Tout ce qu'elles veulent, c'est un module qui exporte {1}. Si votre build produit un tel module, nommez-le une fois le build qui l'a produit terminé :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Certaines cibles de déploiement exécutent elles-mêmes le build, dans un worker ou sur une plateforme qui leur transmet un {0}. Tout ce qu'elles veulent, c'est un module qui exporte {1}. Si votre build produit un tel module, nommez-le une fois le build qui l'a produit terminé :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

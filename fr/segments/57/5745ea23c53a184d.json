@@ -1,0 +1,14 @@
+{
+  "hash": "5745ea23c53a184d",
+  "source": "Path to {0} file to load, relative to the root directory. Can be repeated, with later files taking precedence.",
+  "text": "Chemin du fichier {0} à charger, relatif au répertoire racine. Peut être répété, les fichiers suivants ayant la priorité.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Chemin du fichier {0} à charger, relatif au répertoire racine. Peut être répété, les fichiers suivants ayant la priorité."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

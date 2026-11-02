@@ -1,0 +1,14 @@
+{
+  "hash": "51a48b7a0bb4abfe",
+  "source": "You can use route middleware to throw errors and show helpful error messages:",
+  "text": "Vous pouvez utiliser un middleware de route pour lever des erreurs et afficher des messages d'erreur utiles :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez utiliser un middleware de route pour lever des erreurs et afficher des messages d'erreur utiles :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

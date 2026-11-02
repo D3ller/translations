@@ -1,0 +1,14 @@
+{
+  "hash": "d870334ff5a406b5",
+  "source": "Development Console Warnings",
+  "text": "Avertissements dans la console de développement",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Avertissements dans la console de développement"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "477614ac946d5601",
+  "source": "Move your {0}, {1}, {2}, {3}, {4}, {5}, {6} and {7} folders under it, as well as {8}, {9}, {10}. If you have an {11} or {12}, these paths remain the same.",
+  "text": "Déplacez-y vos dossiers {0}, {1}, {2}, {3}, {4}, {5}, {6} et {7}, ainsi que {8}, {9} et {10}. Si vous avez un {11} ou un {12}, ces chemins restent les mêmes.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Déplacez-y vos dossiers {0}, {1}, {2}, {3}, {4}, {5}, {6} et {7}, ainsi que {8}, {9} et {10}. Si vous avez un {11} ou un {12}, ces chemins restent les mêmes."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

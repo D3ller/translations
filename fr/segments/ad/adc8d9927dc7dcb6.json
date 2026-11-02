@@ -1,0 +1,14 @@
+{
+  "hash": "adc8d9927dc7dcb6",
+  "source": "{0} is only {1} while the page is being generated, so the same {2} still server-renders its data when the app is deployed with a server.",
+  "text": "{0} n'est {1} que pendant la génération de la page ; le même {2} continue donc de rendre ses données côté serveur lorsque l'application est déployée avec un serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} n'est {1} que pendant la génération de la page ; le même {2} continue donc de rendre ses données côté serveur lorsque l'application est déployée avec un serveur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

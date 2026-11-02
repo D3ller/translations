@@ -1,0 +1,14 @@
+{
+  "hash": "311cb76263e480a0",
+  "source": "With this feature, Nuxt will automatically polyfill Node.js imports in the client build using {0}.",
+  "text": "Avec cette fonctionnalité, Nuxt ajoute automatiquement des polyfills pour les imports Node.js dans le build client en utilisant {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Avec cette fonctionnalité, Nuxt ajoute automatiquement des polyfills pour les imports Node.js dans le build client en utilisant {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

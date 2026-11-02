@@ -1,0 +1,14 @@
+{
+  "hash": "44d5837689b1a83a",
+  "source": "**Official modules** are modules prefixed (scoped) with {0} (e.g. {1}). They are made and maintained actively by the Nuxt team. Like with the framework, contributions from the community are more than welcome to help make them better!",
+  "text": "Les **modules officiels** sont des modules préfixés (avec un scope) par {0} (par ex. {1}). Ils sont créés et activement maintenus par l'équipe Nuxt. Comme pour le framework, les contributions de la communauté sont plus que bienvenues pour les améliorer !",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les **modules officiels** sont des modules préfixés (avec un scope) par {0} (par ex. {1}). Ils sont créés et activement maintenus par l'équipe Nuxt. Comme pour le framework, les contributions de la communauté sont plus que bienvenues pour les améliorer !"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

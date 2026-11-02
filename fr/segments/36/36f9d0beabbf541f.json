@@ -1,0 +1,14 @@
+{
+  "hash": "36f9d0beabbf541f",
+  "source": "**{0}**: A path to resolve.",
+  "text": "**{0}** : un chemin à résoudre.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** : un chemin à résoudre."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

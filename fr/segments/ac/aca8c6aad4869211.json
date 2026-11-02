@@ -1,0 +1,14 @@
+{
+  "hash": "aca8c6aad4869211",
+  "source": "However, you can use {0}Nuxt Layers{/0} to create groupings of your app's pages:",
+  "text": "Cependant, vous pouvez utiliser les {0}Nuxt Layers (couches){/0} pour créer des regroupements des pages de votre application :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cependant, vous pouvez utiliser les {0}Nuxt Layers (couches){/0} pour créer des regroupements des pages de votre application :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

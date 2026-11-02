@@ -1,0 +1,14 @@
+{
+  "hash": "05b7135bbb6bf23d",
+  "source": "Read more about server component file conventions in the components directory documentation.",
+  "text": "Pour en savoir plus sur les conventions de fichiers des composants serveur, consultez la documentation du répertoire components.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour en savoir plus sur les conventions de fichiers des composants serveur, consultez la documentation du répertoire components."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

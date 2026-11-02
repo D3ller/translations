@@ -1,0 +1,14 @@
+{
+  "hash": "ea1e852ac4e3c316",
+  "source": "Use the first (highest priority) config found",
+  "text": "Utiliser la première configuration trouvée (priorité la plus élevée)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utiliser la première configuration trouvée (priorité la plus élevée)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

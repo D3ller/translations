@@ -1,0 +1,14 @@
+{
+  "hash": "650a3e275c228670",
+  "source": "Force override file if it already exists",
+  "text": "Force l'écrasement du fichier s'il existe déjà",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Force l'écrasement du fichier s'il existe déjà"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

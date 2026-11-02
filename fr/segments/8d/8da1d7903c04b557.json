@@ -1,0 +1,14 @@
+{
+  "hash": "8da1d7903c04b557",
+  "source": "Type checker to use",
+  "text": "Vérificateur de types à utiliser",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vérificateur de types à utiliser"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

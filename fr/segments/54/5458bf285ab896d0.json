@@ -1,0 +1,14 @@
+{
+  "hash": "5458bf285ab896d0",
+  "source": "Nuxt supports ESLint out of the box",
+  "text": "Nuxt prend en charge ESLint dès l'installation",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt prend en charge ESLint dès l'installation"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

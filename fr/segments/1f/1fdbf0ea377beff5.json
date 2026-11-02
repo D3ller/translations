@@ -1,0 +1,14 @@
+{
+  "hash": "1fdbf0ea377beff5",
+  "source": "The {0} option can be either an object or a function that receives the Nuxt instance:",
+  "text": "L'option {0} peut être soit un objet, soit une fonction qui reçoit l'instance de Nuxt :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'option {0} peut être soit un objet, soit une fonction qui reçoit l'instance de Nuxt :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

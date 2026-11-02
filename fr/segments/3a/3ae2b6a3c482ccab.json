@@ -1,0 +1,14 @@
+{
+  "hash": "3ae2b6a3c482ccab",
+  "source": "Run only unit tests",
+  "text": "Exécuter uniquement les tests unitaires",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Exécuter uniquement les tests unitaires"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

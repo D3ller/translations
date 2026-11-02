@@ -1,0 +1,14 @@
+{
+  "hash": "b26510ef5ee8e537",
+  "source": "Nuxt automatically includes smart prefetching. That means it detects when a link is visible (by default), either in the viewport or when scrolling and prefetches the JavaScript for those pages so that they are ready when the user clicks the link.",
+  "text": "Nuxt inclut automatiquement un prefetching intelligent. Cela signifie qu'il détecte quand un lien est visible (par défaut), que ce soit dans la zone d'affichage ou lors du défilement, et précharge le JavaScript de ces pages afin qu'elles soient prêtes lorsque l'utilisateur clique sur le lien.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt inclut automatiquement un prefetching intelligent. Cela signifie qu'il détecte quand un lien est visible (par défaut), que ce soit dans la zone d'affichage ou lors du défilement, et précharge le JavaScript de ces pages afin qu'elles soient prêtes lorsque l'utilisateur clique sur le lien."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

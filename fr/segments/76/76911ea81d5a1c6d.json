@@ -1,0 +1,14 @@
+{
+  "hash": "76911ea81d5a1c6d",
+  "source": "Run it without a name to browse the available modules interactively.",
+  "text": "Exécutez la commande sans nom pour parcourir les modules disponibles de manière interactive.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Exécutez la commande sans nom pour parcourir les modules disponibles de manière interactive."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

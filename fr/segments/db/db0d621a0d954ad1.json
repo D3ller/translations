@@ -1,0 +1,14 @@
+{
+  "hash": "db0d621a0d954ad1",
+  "source": "Array of reactive sources to watch and auto-refresh. {0} disables watching.",
+  "text": "Tableau de sources réactives à surveiller et à actualiser automatiquement. {0} désactive la surveillance.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Tableau de sources réactives à surveiller et à actualiser automatiquement. {0} désactive la surveillance."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

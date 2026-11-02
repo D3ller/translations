@@ -1,0 +1,14 @@
+{
+  "hash": "fd9b07e8a1578ba2",
+  "source": "Get the path of the incoming request",
+  "text": "Récupérer le chemin de la requête entrante",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Récupérer le chemin de la requête entrante"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "fcefce207bcfc93b",
+  "source": "Learn how to catch and handle errors in Nuxt.",
+  "text": "Apprenez à intercepter et à gérer les erreurs dans Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Apprenez à intercepter et à gérer les erreurs dans Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

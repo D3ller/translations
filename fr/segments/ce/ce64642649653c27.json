@@ -1,0 +1,14 @@
+{
+  "hash": "ce64642649653c27",
+  "source": "Whether to resolve files that exist in the Nuxt VFS (for example, as a Nuxt template).",
+  "text": "Indique s'il faut résoudre les fichiers qui existent dans le VFS de Nuxt (par exemple, en tant que template Nuxt).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Indique s'il faut résoudre les fichiers qui existent dans le VFS de Nuxt (par exemple, en tant que template Nuxt)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

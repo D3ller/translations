@@ -1,0 +1,14 @@
+{
+  "hash": "303278011c07efa6",
+  "source": "Direct API Calls",
+  "text": "Appels d'API directs",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appels d'API directs"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "5d9e4670f1b21457",
+  "source": "Vue Directives",
+  "text": "Directives Vue",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Directives Vue"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

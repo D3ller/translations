@@ -1,0 +1,14 @@
+{
+  "hash": "de7c054825b54b56",
+  "source": "Public directory ({0} by default)",
+  "text": "Répertoire public ({0} par défaut)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Répertoire public ({0} par défaut)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

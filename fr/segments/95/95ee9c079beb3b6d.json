@@ -1,0 +1,14 @@
+{
+  "hash": "95ee9c079beb3b6d",
+  "source": "One or more alias paths for the route. Useful for supporting multiple URLs.",
+  "text": "Un ou plusieurs chemins d'alias pour la route. Utile pour prendre en charge plusieurs URL.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un ou plusieurs chemins d'alias pour la route. Utile pour prendre en charge plusieurs URL."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

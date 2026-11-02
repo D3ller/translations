@@ -1,0 +1,14 @@
+{
+  "hash": "b334316f9b544c8f",
+  "source": "Lazy components are great for controlling the chunk sizes in your app, but they don't always enhance runtime performance, as they still load eagerly unless conditionally rendered. In real-world applications, some pages may include a lot of content and a lot of components, and most of the time not all of them need to be interactive as soon as the page is loaded. Having them all load eagerly can negatively impact performance.",
+  "text": "Les composants lazy sont parfaits pour contrôler la taille des chunks de votre application, mais ils n'améliorent pas toujours les performances à l'exécution, car ils se chargent quand même immédiatement sauf s'ils sont rendus de manière conditionnelle. Dans les applications réelles, certaines pages peuvent contenir beaucoup de contenu et de composants, et la plupart du temps, tous n'ont pas besoin d'être interactifs dès le chargement de la page. Les charger tous immédiatement peut avoir un impact négatif sur les performances.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les composants lazy sont parfaits pour contrôler la taille des chunks de votre application, mais ils n'améliorent pas toujours les performances à l'exécution, car ils se chargent quand même immédiatement sauf s'ils sont rendus de manière conditionnelle. Dans les applications réelles, certaines pages peuvent contenir beaucoup de contenu et de composants, et la plupart du temps, tous n'ont pas besoin d'être interactifs dès le chargement de la page. Les charger tous immédiatement peut avoir un impact négatif sur les performances."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

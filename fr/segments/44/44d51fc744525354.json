@@ -1,0 +1,14 @@
+{
+  "hash": "44d51fc744525354",
+  "source": "Nuxt Bridge provides direct replacements for these composables via {0} and {1}.",
+  "text": "Nuxt Bridge fournit des remplacements directs pour ces composables via {0} et {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt Bridge fournit des remplacements directs pour ces composables via {0} et {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

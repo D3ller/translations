@@ -1,0 +1,14 @@
+{
+  "hash": "8d6224c91d5c2c7a",
+  "source": "{0}: Specify a layout name to be rendered, can be a string, reactive reference or a computed property. It **must** match the name of the corresponding layout file in the {1} directory, or {2} to disable the layout.",
+  "text": "{0} : spécifiez le nom du layout à afficher, sous la forme d'une chaîne de caractères, d'une référence réactive ou d'une propriété calculée. Il **doit** correspondre au nom du fichier de layout correspondant dans le répertoire {1}, ou {2} pour désactiver le layout.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : spécifiez le nom du layout à afficher, sous la forme d'une chaîne de caractères, d'une référence réactive ou d'une propriété calculée. Il **doit** correspondre au nom du fichier de layout correspondant dans le répertoire {1}, ou {2} pour désactiver le layout."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

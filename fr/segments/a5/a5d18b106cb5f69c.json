@@ -1,0 +1,14 @@
+{
+  "hash": "a5d18b106cb5f69c",
+  "source": "{0} solves a {1}security bug{/1} in older browsers.",
+  "text": "{0} corrige une {1}faille de sécurité{/1} dans les anciens navigateurs.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} corrige une {1}faille de sécurité{/1} dans les anciens navigateurs."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

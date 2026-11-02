@@ -1,0 +1,14 @@
+{
+  "hash": "4a93b688cd3b5a4e",
+  "source": "Path to the template. If {0} is not provided, {1} must be provided instead.",
+  "text": "Chemin du template. Si {0} n'est pas fourni, {1} doit l'être à la place.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Chemin du template. Si {0} n'est pas fourni, {1} doit l'être à la place."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

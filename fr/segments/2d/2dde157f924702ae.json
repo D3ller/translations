@@ -1,0 +1,14 @@
+{
+  "hash": "2dde157f924702ae",
+  "source": "Sets the message to announce with its urgency level.",
+  "text": "Définit le message à annoncer avec son niveau d'urgence.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définit le message à annoncer avec son niveau d'urgence."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

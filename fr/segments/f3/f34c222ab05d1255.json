@@ -1,0 +1,14 @@
+{
+  "hash": "f34c222ab05d1255",
+  "source": "App manifest is not enabled.",
+  "text": "Le manifeste de l'application n'est pas activé.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le manifeste de l'application n'est pas activé."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

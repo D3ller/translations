@@ -1,0 +1,14 @@
+{
+  "hash": "ae97d4e57a73e95c",
+  "source": "The location of a font file is an implementation detail rather than a stable URL contract. Don't hard-code these paths; link to fonts through the CSS we generate, or read them from the {0} hook.",
+  "text": "L'emplacement d'un fichier de police est un détail d'implémentation et non un contrat d'URL stable. N'écrivez pas ces chemins en dur ; référencez les polices via le CSS que nous générons, ou lisez-les depuis le hook {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'emplacement d'un fichier de police est un détail d'implémentation et non un contrat d'URL stable. N'écrivez pas ces chemins en dur ; référencez les polices via le CSS que nous générons, ou lisez-les depuis le hook {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "29f3be5d227441b3",
+  "source": "In addition, you can extend from a layer by adding the {0}extends{/0} property to your {1} file.",
+  "text": "Vous pouvez aussi étendre un layer en ajoutant la propriété {0}extends{/0} à votre fichier {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez aussi étendre un layer en ajoutant la propriété {0}extends{/0} à votre fichier {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

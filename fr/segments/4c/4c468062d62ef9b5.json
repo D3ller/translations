@@ -1,0 +1,14 @@
+{
+  "hash": "4c468062d62ef9b5",
+  "source": "Include Vue compiler in runtime bundle.",
+  "text": "Inclut le compilateur Vue dans le bundle d'exécution.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Inclut le compilateur Vue dans le bundle d'exécution."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

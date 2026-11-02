@@ -1,0 +1,14 @@
+{
+  "hash": "615ad6db0ca72810",
+  "source": "You can use {0} to add a directory to be scanned by Nitro. This is useful when you want Nitro to auto-import functions from a custom server directory.",
+  "text": "Vous pouvez utiliser {0} pour ajouter un répertoire à analyser par Nitro. C'est utile lorsque vous voulez que Nitro importe automatiquement les fonctions d'un répertoire serveur personnalisé.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez utiliser {0} pour ajouter un répertoire à analyser par Nitro. C'est utile lorsque vous voulez que Nitro importe automatiquement les fonctions d'un répertoire serveur personnalisé."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "9f914faa95a3991b",
+  "source": "Target {0} end-to-end example",
+  "text": "Exemple de test de bout en bout avec {0} cible",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Exemple de test de bout en bout avec {0} cible"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

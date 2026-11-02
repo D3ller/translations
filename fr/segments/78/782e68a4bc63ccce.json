@@ -1,0 +1,14 @@
+{
+  "hash": "782e68a4bc63ccce",
+  "source": "The Nuxt instance as described in the {0} section.",
+  "text": "L'instance de Nuxt telle que décrite dans la section {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'instance de Nuxt telle que décrite dans la section {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

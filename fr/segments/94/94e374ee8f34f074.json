@@ -1,0 +1,14 @@
+{
+  "hash": "94e374ee8f34f074",
+  "source": "You can define transition properties for the {0} component that wraps your pages and layouts, or pass {1} to disable the {2} wrapper for that route. You can see {3}a list of options that can be passed{/3} or read {4}more about how transitions work{/4}.",
+  "text": "Vous pouvez définir des propriétés de transition pour le composant {0} qui enveloppe vos pages et vos layouts, ou passer {1} pour désactiver l'enveloppe {2} pour cette route. Vous pouvez consulter {3}la liste des options pouvant être transmises{/3} ou en savoir {4}plus sur le fonctionnement des transitions{/4}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez définir des propriétés de transition pour le composant {0} qui enveloppe vos pages et vos layouts, ou passer {1} pour désactiver l'enveloppe {2} pour cette route. Vous pouvez consulter {3}la liste des options pouvant être transmises{/3} ou en savoir {4}plus sur le fonctionnement des transitions{/4}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

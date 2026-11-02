@@ -1,0 +1,14 @@
+{
+  "hash": "8455452a1f265795",
+  "source": "When the placeholder {0} and the actual component root share the same tag name, Vue's runtime skips re-applying {1} during hydration. This causes scoped styles to be missing after the component mounts. Using a comment node avoids the tag name collision entirely.",
+  "text": "Lorsque le {0} de remplacement et la racine réelle du composant partagent le même nom de balise, le runtime de Vue ne réapplique pas {1} pendant l'hydratation. Les styles scoped sont alors absents une fois le composant monté. L'utilisation d'un nœud de commentaire évite complètement cette collision de noms de balise.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque le {0} de remplacement et la racine réelle du composant partagent le même nom de balise, le runtime de Vue ne réapplique pas {1} pendant l'hydratation. Les styles scoped sont alors absents une fois le composant monté. L'utilisation d'un nœud de commentaire évite complètement cette collision de noms de balise."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

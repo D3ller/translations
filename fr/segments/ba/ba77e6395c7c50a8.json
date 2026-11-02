@@ -1,0 +1,14 @@
+{
+  "hash": "ba77e6395c7c50a8",
+  "source": "A directory or an array of directories to register to be scanned for by Nitro as server dirs.",
+  "text": "Un répertoire ou un tableau de répertoires à enregistrer pour être analysés par Nitro en tant que répertoires serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un répertoire ou un tableau de répertoires à enregistrer pour être analysés par Nitro en tant que répertoires serveur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

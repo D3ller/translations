@@ -1,0 +1,14 @@
+{
+  "hash": "2b1eabb6121369af",
+  "source": "You can customize the order in which providers are checked.",
+  "text": "Vous pouvez personnaliser l'ordre dans lequel les fournisseurs sont vérifiés.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez personnaliser l'ordre dans lequel les fournisseurs sont vérifiés."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

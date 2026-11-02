@@ -1,0 +1,14 @@
+{
+  "hash": "35e11af809992b25",
+  "source": "Both {0} (recommended) and {1} alias forms as well as relative paths ({2}) are supported. Any layer in {3} that you do not list keeps its alphabetical auto-scan order, ranked below the layers you list in {4}.",
+  "text": "Les deux formes d'alias {0} (recommandée) et {1}, ainsi que les chemins relatifs ({2}), sont prises en charge. Toute layer de {3} que vous ne listez pas conserve son ordre d'analyse automatique alphabétique, classée en dessous des layers que vous listez dans {4}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les deux formes d'alias {0} (recommandée) et {1}, ainsi que les chemins relatifs ({2}), sont prises en charge. Toute layer de {3} que vous ne listez pas conserve son ordre d'analyse automatique alphabétique, classée en dessous des layers que vous listez dans {4}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

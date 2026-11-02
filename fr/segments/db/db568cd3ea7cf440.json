@@ -1,0 +1,14 @@
+{
+  "hash": "db568cd3ea7cf440",
+  "source": "Preloading components loads components that your page will need very soon, which you want to start loading early in rendering lifecycle. This ensures they are available earlier and are less likely to block the page's render, improving performance.",
+  "text": "Le préchargement des composants charge les composants dont votre page aura très bientôt besoin et dont vous souhaitez démarrer le chargement tôt dans le cycle de vie du rendu. Cela garantit qu'ils sont disponibles plus tôt et qu'ils risquent moins de bloquer le rendu de la page, ce qui améliore les performances.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le préchargement des composants charge les composants dont votre page aura très bientôt besoin et dont vous souhaitez démarrer le chargement tôt dans le cycle de vie du rendu. Cela garantit qu'ils sont disponibles plus tôt et qu'ils risquent moins de bloquer le rendu de la page, ce qui améliore les performances."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

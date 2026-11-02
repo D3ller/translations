@@ -1,0 +1,14 @@
+{
+  "hash": "b7c21436631cacaa",
+  "source": "Build it with {0}",
+  "text": "Compilez-le avec {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Compilez-le avec {0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

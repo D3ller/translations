@@ -1,0 +1,14 @@
+{
+  "hash": "47a9c4ddb8da116c",
+  "source": "This will launch your production Nuxt server that listens on port 3000 by default.",
+  "text": "Cela lancera votre serveur Nuxt de production, qui écoute par défaut sur le port 3000.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cela lancera votre serveur Nuxt de production, qui écoute par défaut sur le port 3000."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

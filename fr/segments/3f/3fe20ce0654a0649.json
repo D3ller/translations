@@ -1,0 +1,14 @@
+{
+  "hash": "3fe20ce0654a0649",
+  "source": "Documentation is linted using {0}MarkdownLint{/0} and {1}case police{/1} to keep the documentation cohesive.",
+  "text": "La documentation est vérifiée avec {0}MarkdownLint{/0} et {1}case police{/1} afin de la garder cohérente.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La documentation est vérifiée avec {0}MarkdownLint{/0} et {1}case police{/1} afin de la garder cohérente."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

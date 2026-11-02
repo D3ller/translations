@@ -1,0 +1,14 @@
+{
+  "hash": "9c0eb507eef9d269",
+  "source": "GitHub Remote Source within /base directory",
+  "text": "Source distante GitHub dans le répertoire /base",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Source distante GitHub dans le répertoire /base"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

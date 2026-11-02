@@ -1,0 +1,14 @@
+{
+  "hash": "0b9e3f4a966a17e6",
+  "source": "this will return 'decorated'",
+  "text": "ceci renverra 'decorated'",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "ceci renverra 'decorated'"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

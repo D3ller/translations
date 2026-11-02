@@ -1,0 +1,14 @@
+{
+  "hash": "e731bb92e4c0d301",
+  "source": "**Search Engine Optimization**: Indexing and updating the content delivered via client-side rendering takes more time than with a server-rendered HTML document. This is related to the performance drawback we discussed, as search engine crawlers won't wait for the interface to be fully rendered on their first try to index the page. Your content will take more time to show and update in search results pages with pure client-side rendering.",
+  "text": "**Optimisation pour les moteurs de recherche** : l'indexation et la mise à jour du contenu fourni par le rendu côté client prennent plus de temps qu'avec un document HTML rendu côté serveur. Cela est lié à l'inconvénient de performance évoqué plus haut, car les robots des moteurs de recherche n'attendent pas que l'interface soit entièrement rendue lors de leur première tentative d'indexation de la page. Votre contenu mettra plus de temps à apparaître et à être mis à jour dans les pages de résultats de recherche avec un rendu purement côté client.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Optimisation pour les moteurs de recherche** : l'indexation et la mise à jour du contenu fourni par le rendu côté client prennent plus de temps qu'avec un document HTML rendu côté serveur. Cela est lié à l'inconvénient de performance évoqué plus haut, car les robots des moteurs de recherche n'attendent pas que l'interface soit entièrement rendue lors de leur première tentative d'indexation de la page. Votre contenu mettra plus de temps à apparaître et à être mis à jour dans les pages de résultats de recherche avec un rendu purement côté client."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

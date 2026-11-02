@@ -1,0 +1,14 @@
+{
+  "hash": "a99b26288086f005",
+  "source": "Value should be a string pointing to source directory or config path relative to current config. You can use {0}, {1}, {2} or {3} to extend from a remote git repository.",
+  "text": "La valeur doit être une chaîne pointant vers un répertoire source ou un chemin de configuration relatif à la configuration actuelle. Vous pouvez utiliser {0}, {1}, {2} ou {3} pour étendre à partir d'un dépôt git distant.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La valeur doit être une chaîne pointant vers un répertoire source ou un chemin de configuration relatif à la configuration actuelle. Vous pouvez utiliser {0}, {1}, {2} ou {3} pour étendre à partir d'un dépôt git distant."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

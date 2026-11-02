@@ -1,0 +1,14 @@
+{
+  "hash": "808ece27ba2aa022",
+  "source": "Discover all the available options in the **Nuxt configuration** documentation.",
+  "text": "Découvrez toutes les options disponibles dans la documentation de la **configuration de Nuxt**.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Découvrez toutes les options disponibles dans la documentation de la **configuration de Nuxt**."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

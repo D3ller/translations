@@ -1,0 +1,14 @@
+{
+  "hash": "155ecc876736bdb7",
+  "source": "For files in nested directories",
+  "text": "Pour les fichiers dans des répertoires imbriqués",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour les fichiers dans des répertoires imbriqués"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

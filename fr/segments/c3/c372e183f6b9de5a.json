@@ -1,0 +1,14 @@
+{
+  "hash": "c372e183f6b9de5a",
+  "source": "Node does not read your system trust store, so requests made from Node to a server using a generated certificate will not trust it. Set {0} to the certificate authority that issued it.",
+  "text": "Node ne lit pas le magasin de certificats de confiance de votre système ; les requêtes effectuées depuis Node vers un serveur utilisant un certificat généré ne lui feront donc pas confiance. Définissez {0} avec l'autorité de certification qui l'a émis.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Node ne lit pas le magasin de certificats de confiance de votre système ; les requêtes effectuées depuis Node vers un serveur utilisant un certificat généré ne lui feront donc pas confiance. Définissez {0} avec l'autorité de certification qui l'a émis."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

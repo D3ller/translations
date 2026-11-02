@@ -1,0 +1,14 @@
+{
+  "hash": "acc2c0338ef3af1e",
+  "source": "Renders given template during build into the virtual file system, and optionally to disk in the project {0}",
+  "text": "Génère le template donné pendant le build dans le système de fichiers virtuel, et éventuellement sur le disque dans le projet {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Génère le template donné pendant le build dans le système de fichiers virtuel, et éventuellement sur le disque dans le projet {0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

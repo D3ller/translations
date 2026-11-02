@@ -1,0 +1,14 @@
+{
+  "hash": "ecaea90d3bddcccd",
+  "source": "Read more about Nitro KV Storage.",
+  "text": "En savoir plus sur le stockage clé-valeur de Nitro.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En savoir plus sur le stockage clé-valeur de Nitro."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

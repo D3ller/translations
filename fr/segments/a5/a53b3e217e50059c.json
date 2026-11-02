@@ -1,0 +1,14 @@
+{
+  "hash": "a53b3e217e50059c",
+  "source": "The composable doesn't return a value, but it automatically unregisters the hook when the component's scope is destroyed.",
+  "text": "Le composable ne retourne aucune valeur, mais il désenregistre automatiquement le hook lorsque le scope du composant est détruit.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le composable ne retourne aucune valeur, mais il désenregistre automatiquement le hook lorsque le scope du composant est détruit."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

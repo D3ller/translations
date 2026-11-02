@@ -1,0 +1,14 @@
+{
+  "hash": "cb9e3965b842d48f",
+  "source": "Handling Pending State",
+  "text": "Gestion de l'état pending",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Gestion de l'état pending"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

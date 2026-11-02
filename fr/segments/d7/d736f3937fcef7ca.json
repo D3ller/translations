@@ -1,0 +1,14 @@
+{
+  "hash": "d736f3937fcef7ca",
+  "source": "2\\. Migrate Vite plugins to use environments",
+  "text": "2\\. Migrer les plugins Vite pour utiliser les environnements",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "2\\. Migrer les plugins Vite pour utiliser les environnements"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

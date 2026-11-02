@@ -1,0 +1,14 @@
+{
+  "hash": "1f51f17ad74a2c9b",
+  "source": "Nuxt command to build your Nuxt module before publishing.",
+  "text": "Commande Nuxt pour compiler votre module Nuxt avant de le publier.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Commande Nuxt pour compiler votre module Nuxt avant de le publier."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "6d4057e907f231aa",
+  "source": "The priority order from highest to lowest is:",
+  "text": "L'ordre de priorité, du plus élevé au plus faible, est le suivant :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'ordre de priorité, du plus élevé au plus faible, est le suivant :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

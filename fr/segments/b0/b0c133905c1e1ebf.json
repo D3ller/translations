@@ -1,0 +1,14 @@
+{
+  "hash": "b0c133905c1e1ebf",
+  "source": "Inside a view, {0} copies the selected row and {1} copies every row the filters and search leave, keeping the newest when there is too much to paste. In the info view, {2} copies the {3} table instead.",
+  "text": "Dans une vue, {0} copie la ligne sélectionnée et {1} copie toutes les lignes que les filtres et la recherche laissent affichées, en conservant les plus récentes lorsqu'il y en a trop à coller. Dans la vue d'informations, {2} copie plutôt le tableau {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans une vue, {0} copie la ligne sélectionnée et {1} copie toutes les lignes que les filtres et la recherche laissent affichées, en conservant les plus récentes lorsqu'il y en a trop à coller. Dans la vue d'informations, {2} copie plutôt le tableau {3}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

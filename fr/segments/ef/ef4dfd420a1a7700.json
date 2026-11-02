@@ -1,0 +1,14 @@
+{
+  "hash": "ef4dfd420a1a7700",
+  "source": "Passing the URL directly will redirect to the '/blog' page",
+  "text": "Passer directement l'URL redirigera vers la page '/blog'",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Passer directement l'URL redirigera vers la page '/blog'"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

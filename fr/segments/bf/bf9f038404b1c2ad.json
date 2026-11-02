@@ -1,0 +1,14 @@
+{
+  "hash": "bf9f038404b1c2ad",
+  "source": "Conflict with End-To-End Testing",
+  "text": "Conflit avec les tests de bout en bout",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Conflit avec les tests de bout en bout"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

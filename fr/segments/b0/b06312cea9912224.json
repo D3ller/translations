@@ -1,0 +1,14 @@
+{
+  "hash": "b06312cea9912224",
+  "source": "Resolve {0}, {1}, {2} and {3} aliases located within layers with respect to their layer source and root directories.",
+  "text": "Résout les alias {0}, {1}, {2} et {3} situés dans les layers (couches) en fonction de leur source de layer et de leurs répertoires racines.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Résout les alias {0}, {1}, {2} et {3} situés dans les layers (couches) en fonction de leur source de layer et de leurs répertoires racines."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

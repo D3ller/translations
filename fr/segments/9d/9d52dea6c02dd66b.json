@@ -1,0 +1,14 @@
+{
+  "hash": "9d52dea6c02dd66b",
+  "source": "Get the full URL for a given page (including the port the test server is running on.)",
+  "text": "Récupère l'URL complète d'une page donnée (y compris le port sur lequel le serveur de test s'exécute).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Récupère l'URL complète d'une page donnée (y compris le port sur lequel le serveur de test s'exécute)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "992ee430c171ebeb",
+  "source": "Nuxt Bridge provides identical features to Nuxt 3 ({0}docs{/0}) but there are some limitations, notably that {1} and {2} composables are not available. Please read the rest of this page for details.",
+  "text": "Nuxt Bridge offre des fonctionnalités identiques à Nuxt 3 ({0}documentation{/0}), mais avec quelques limitations, notamment l'indisponibilité des composables {1} et {2}. Lisez le reste de cette page pour plus de détails.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt Bridge offre des fonctionnalités identiques à Nuxt 3 ({0}documentation{/0}), mais avec quelques limitations, notamment l'indisponibilité des composables {1} et {2}. Lisez le reste de cette page pour plus de détails."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

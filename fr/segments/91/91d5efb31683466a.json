@@ -1,0 +1,14 @@
+{
+  "hash": "91d5efb31683466a",
+  "source": "Pass {0} as a function when a value isn't final until later in the build. Nuxt calls it each time it reads the module body.",
+  "text": "Passez {0} sous forme de fonction lorsqu'une valeur n'est définitive que plus tard dans le build. Nuxt l'appelle à chaque lecture du corps du module.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Passez {0} sous forme de fonction lorsqu'une valeur n'est définitive que plus tard dans le build. Nuxt l'appelle à chaque lecture du corps du module."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

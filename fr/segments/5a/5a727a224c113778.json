@@ -1,0 +1,14 @@
+{
+  "hash": "5a727a224c113778",
+  "source": "A route or an array of routes to prerender.",
+  "text": "Une route ou un tableau de routes à prérendre.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une route ou un tableau de routes à prérendre."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

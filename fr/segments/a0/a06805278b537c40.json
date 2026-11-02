@@ -1,0 +1,14 @@
+{
+  "hash": "a06805278b537c40",
+  "source": "The {0} variant receives a {1} and reads its {2}, and the {3} variant converts the h3 v1 event with {4}. Because the module imports {5} v1, add {6} to your module's {7}.",
+  "text": "La variante {0} reçoit une {1} et lit son {2}, et la variante {3} convertit l'événement h3 v1 avec {4}. Comme le module importe {5} v1, ajoutez {6} à {7} de votre module.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La variante {0} reçoit une {1} et lit son {2}, et la variante {3} convertit l'événement h3 v1 avec {4}. Comme le module importe {5} v1, ajoutez {6} à {7} de votre module."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

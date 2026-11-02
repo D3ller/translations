@@ -1,0 +1,14 @@
+{
+  "hash": "9f93827a089b9e23",
+  "source": "Passing Props to a Layout",
+  "text": "Passer des props à un layout",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Passer des props à un layout"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

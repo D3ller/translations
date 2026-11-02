@@ -1,0 +1,14 @@
+{
+  "hash": "fc54dd9da0f252df",
+  "source": "Nuxt provides middleware to run code before navigating to a particular route.",
+  "text": "Nuxt fournit des middleware pour exécuter du code avant de naviguer vers une route donnée.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt fournit des middleware pour exécuter du code avant de naviguer vers une route donnée."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

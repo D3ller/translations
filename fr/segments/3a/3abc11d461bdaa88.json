@@ -1,0 +1,14 @@
+{
+  "hash": "3abc11d461bdaa88",
+  "source": "Internally, hooks follow a naming pattern using colons (e.g., build:done). For ease of configuration, you can also structure them as an hierarchical object in {0} (as below).",
+  "text": "En interne, les hooks suivent un modèle de nommage utilisant des deux-points (par ex. build:done). Pour faciliter la configuration, vous pouvez aussi les structurer sous forme d'objet hiérarchique dans {0} (comme ci-dessous).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En interne, les hooks suivent un modèle de nommage utilisant des deux-points (par ex. build:done). Pour faciliter la configuration, vous pouvez aussi les structurer sous forme d'objet hiérarchique dans {0} (comme ci-dessous)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

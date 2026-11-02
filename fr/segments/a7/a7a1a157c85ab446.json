@@ -1,0 +1,14 @@
+{
+  "hash": "a7a1a157c85ab446",
+  "source": "**description**: The error state",
+  "text": "**description** : l'état d'erreur",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**description** : l'état d'erreur"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

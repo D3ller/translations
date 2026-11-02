@@ -1,0 +1,14 @@
+{
+  "hash": "b50d49f22d42d884",
+  "source": "{0} and {1} mutate the resolved bundler config.",
+  "text": "{0} et {1} modifient la configuration résolue du bundler.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} et {1} modifient la configuration résolue du bundler."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

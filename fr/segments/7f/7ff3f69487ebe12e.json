@@ -1,0 +1,14 @@
+{
+  "hash": "7ff3f69487ebe12e",
+  "source": "Each audit has a reference document explaining why the audit is important, as well as how to fix it.",
+  "text": "Chaque audit dispose d'un document de référence qui explique pourquoi l'audit est important, ainsi que la manière de corriger le problème.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Chaque audit dispose d'un document de référence qui explique pourquoi l'audit est important, ainsi que la manière de corriger le problème."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

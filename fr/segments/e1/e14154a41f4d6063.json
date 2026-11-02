@@ -1,0 +1,14 @@
+{
+  "hash": "e14154a41f4d6063",
+  "source": "Install dependencies once the project has been scaffolded",
+  "text": "Installer les dépendances une fois le projet généré",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Installer les dépendances une fois le projet généré"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

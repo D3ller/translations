@@ -1,0 +1,14 @@
+{
+  "hash": "e07f437a32bcd3cd",
+  "source": "For types that are **shared between the app and server**, place the file in the {0} directory.",
+  "text": "Pour les types **partagés entre l'app et le serveur**, placez le fichier dans le répertoire {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour les types **partagés entre l'app et le serveur**, placez le fichier dans le répertoire {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

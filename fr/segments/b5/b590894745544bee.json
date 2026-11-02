@@ -1,0 +1,14 @@
+{
+  "hash": "b590894745544bee",
+  "source": "This guide covers how to write a module whose server code runs on all of them.",
+  "text": "Ce guide explique comment écrire un module dont le code serveur s'exécute sur tous ces environnements.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ce guide explique comment écrire un module dont le code serveur s'exécute sur tous ces environnements."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

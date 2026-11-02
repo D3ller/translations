@@ -1,0 +1,14 @@
+{
+  "hash": "cd711f94b9c06ae3",
+  "source": "{0} outputs a native {1} tag directly (without any wrapper around it). Use it like you would use the {2} tag:",
+  "text": "{0} produit directement une balise {1} native (sans aucun conteneur autour). Utilisez-le comme vous utiliseriez la balise {2} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} produit directement une balise {1} native (sans aucun conteneur autour). Utilisez-le comme vous utiliseriez la balise {2} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

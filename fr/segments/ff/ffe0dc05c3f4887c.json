@@ -1,0 +1,14 @@
+{
+  "hash": "ffe0dc05c3f4887c",
+  "source": "TypeScript comes with certain checks to give you more safety and analysis of your program.",
+  "text": "TypeScript comprend certaines vérifications qui vous apportent davantage de sécurité et d'analyse pour votre programme.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "TypeScript comprend certaines vérifications qui vous apportent davantage de sécurité et d'analyse pour votre programme."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "582b81a00caf5c47",
+  "source": "The main purpose of the {0}{1} directory{/0} is to allow a semantic distinction between your Vue composables and other auto-imported utility functions.",
+  "text": "L'objectif principal du {0}répertoire {1}{/0} est de permettre une distinction sémantique entre vos composables Vue et les autres fonctions utilitaires importées automatiquement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'objectif principal du {0}répertoire {1}{/0} est de permettre une distinction sémantique entre vos composables Vue et les autres fonctions utilitaires importées automatiquement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

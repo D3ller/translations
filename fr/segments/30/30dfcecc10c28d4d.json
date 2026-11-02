@@ -1,0 +1,14 @@
+{
+  "hash": "30dfcecc10c28d4d",
+  "source": "Analyze the production bundle or your Nuxt application.",
+  "text": "Analysez le bundle de production de votre application Nuxt.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Analysez le bundle de production de votre application Nuxt."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

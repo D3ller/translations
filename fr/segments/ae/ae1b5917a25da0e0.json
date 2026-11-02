@@ -1,0 +1,14 @@
+{
+  "hash": "ae1b5917a25da0e0",
+  "source": "will actually cancel the $fetch request (if dedupe: cancel)",
+  "text": "annulera réellement la requête $fetch (si dedupe : cancel)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "annulera réellement la requête $fetch (si dedupe : cancel)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

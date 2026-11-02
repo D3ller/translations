@@ -1,0 +1,14 @@
+{
+  "hash": "7613b9b366002037",
+  "source": "Setting {0} to {1} changes defaults throughout your Nuxt configuration to opt in to Nuxt v5 behaviour, including enabling the {2}Vite Environment API{/2}.",
+  "text": "Définir {0} à {1} modifie les valeurs par défaut dans toute votre configuration Nuxt afin d'adopter le comportement de Nuxt v5, notamment en activant l'{2}API Environment de Vite{/2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définir {0} à {1} modifie les valeurs par défaut dans toute votre configuration Nuxt afin d'adopter le comportement de Nuxt v5, notamment en activant l'{2}API Environment de Vite{/2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

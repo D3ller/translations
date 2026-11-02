@@ -1,0 +1,14 @@
+{
+  "hash": "110e50eed99ca223",
+  "source": "To expose config and environment variables to the rest of your app, you will need to define configuration in {0} file.",
+  "text": "Pour exposer la configuration et les variables d'environnement au reste de votre application, vous devrez définir la configuration dans le fichier {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour exposer la configuration et les variables d'environnement au reste de votre application, vous devrez définir la configuration dans le fichier {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

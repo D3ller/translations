@@ -1,0 +1,14 @@
+{
+  "hash": "3d8f8d95ade0bbe2",
+  "source": "Now, before navigation to that page can complete, the {0} route middleware will be run.",
+  "text": "Désormais, avant que la navigation vers cette page ne puisse se terminer, le middleware de route {0} sera exécuté.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Désormais, avant que la navigation vers cette page ne puisse se terminer, le middleware de route {0} sera exécuté."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

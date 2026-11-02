@@ -1,0 +1,14 @@
+{
+  "hash": "f848ac8953e88c14",
+  "source": "You can pass custom HTML or components through the route announcer's default slot.",
+  "text": "Vous pouvez passer du HTML ou des composants personnalisés via le slot par défaut du route announcer.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez passer du HTML ou des composants personnalisés via le slot par défaut du route announcer."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

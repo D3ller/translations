@@ -1,0 +1,14 @@
+{
+  "hash": "906cf7fd4e8288ca",
+  "source": "Overusing plugins",
+  "text": "Utilisation excessive des plugins",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utilisation excessive des plugins"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

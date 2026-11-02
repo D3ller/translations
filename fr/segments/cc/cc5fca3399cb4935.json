@@ -1,0 +1,14 @@
+{
+  "hash": "cc5fca3399cb4935",
+  "source": "Consider if you're looking to get help with something, or whether you think there's a bug with Nuxt itself. If it's the former, we'd love to help you - but the best way to do that is through {0}asking for help{/0} rather than reporting a bug.",
+  "text": "Demandez-vous si vous cherchez de l'aide pour quelque chose ou si vous pensez qu'il y a un bug dans Nuxt lui-même. Dans le premier cas, nous serons ravis de vous aider, mais le meilleur moyen est de {0}demander de l'aide{/0} plutôt que de signaler un bug.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Demandez-vous si vous cherchez de l'aide pour quelque chose ou si vous pensez qu'il y a un bug dans Nuxt lui-même. Dans le premier cas, nous serons ravis de vous aider, mais le meilleur moyen est de {0}demander de l'aide{/0} plutôt que de signaler un bug."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

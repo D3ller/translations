@@ -1,0 +1,14 @@
+{
+  "hash": "0a003f3d1bc68150",
+  "source": "A rule that nothing declares now reads back as {0} rather than {1}, so it needs a cast at the point of use:",
+  "text": "Une règle qu'aucune déclaration ne couvre est désormais lue comme {0} plutôt que {1} ; elle nécessite donc un cast à l'endroit où elle est utilisée :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une règle qu'aucune déclaration ne couvre est désormais lue comme {0} plutôt que {1} ; elle nécessite donc un cast à l'endroit où elle est utilisée :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

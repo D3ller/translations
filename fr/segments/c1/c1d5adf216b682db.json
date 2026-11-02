@@ -1,0 +1,14 @@
+{
+  "hash": "c1d5adf216b682db",
+  "source": "Relative imports in {0}, {1}, and layer configs need an explicit extension:",
+  "text": "Les imports relatifs dans {0}, {1} et les configurations de layer (couche) nécessitent une extension explicite :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les imports relatifs dans {0}, {1} et les configurations de layer (couche) nécessitent une extension explicite :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

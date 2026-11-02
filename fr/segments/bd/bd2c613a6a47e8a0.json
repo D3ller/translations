@@ -1,0 +1,14 @@
+{
+  "hash": "bd2c613a6a47e8a0",
+  "source": "{0}: If provided, set the launched test server port to the value.",
+  "text": "{0} : si fourni, définit le port du serveur de test lancé sur cette valeur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : si fourni, définit le port du serveur de test lancé sur cette valeur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

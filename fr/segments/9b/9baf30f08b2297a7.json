@@ -1,0 +1,14 @@
+{
+  "hash": "9baf30f08b2297a7",
+  "source": "Homepage pre-rendered at build time",
+  "text": "Page d'accueil prérendue au moment du build",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Page d'accueil prérendue au moment du build"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

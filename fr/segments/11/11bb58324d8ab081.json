@@ -1,0 +1,14 @@
+{
+  "hash": "11bb58324d8ab081",
+  "source": "Global route middleware, placed in the {0} with a {1} suffix and is run on every route change.",
+  "text": "Les middleware de route globaux, placés dans le {0} avec le suffixe {1}, qui sont exécutés à chaque changement de route.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les middleware de route globaux, placés dans le {0} avec le suffixe {1}, qui sont exécutés à chaque changement de route."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

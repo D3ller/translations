@@ -1,0 +1,14 @@
+{
+  "hash": "11ddab2c0ffb65e5",
+  "source": "Stub dist instead of actually building it for development",
+  "text": "Créer un stub de dist au lieu de le compiler réellement pour le développement",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Créer un stub de dist au lieu de le compiler réellement pour le développement"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

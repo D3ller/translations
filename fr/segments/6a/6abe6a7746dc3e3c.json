@@ -1,0 +1,14 @@
+{
+  "hash": "6abe6a7746dc3e3c",
+  "source": "callOnce fn must be a function.",
+  "text": "L'argument fn de callOnce doit être une fonction.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'argument fn de callOnce doit être une fonction."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

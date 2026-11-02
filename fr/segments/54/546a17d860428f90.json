@@ -1,0 +1,14 @@
+{
+  "hash": "546a17d860428f90",
+  "source": "See full explanation on the GitHub issue.",
+  "text": "Consultez l'explication complète dans l'issue GitHub.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Consultez l'explication complète dans l'issue GitHub."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "13ce5a63db457577",
+  "source": "Later layers in the array have lower priority",
+  "text": "Les layers suivants dans le tableau ont une priorité plus faible",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les layers suivants dans le tableau ont une priorité plus faible"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

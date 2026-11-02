@@ -1,0 +1,14 @@
+{
+  "hash": "eb087380f686173a",
+  "source": "Learn when to register one path per server API, and which key to write your handler against.",
+  "text": "Découvrez quand enregistrer un chemin par API serveur, et pour quelle clé écrire votre handler.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Découvrez quand enregistrer un chemin par API serveur, et pour quelle clé écrire votre handler."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

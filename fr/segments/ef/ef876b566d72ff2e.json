@@ -1,0 +1,14 @@
+{
+  "hash": "ef876b566d72ff2e",
+  "source": "Reactive Meta Tags",
+  "text": "Balises meta réactives",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Balises meta réactives"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

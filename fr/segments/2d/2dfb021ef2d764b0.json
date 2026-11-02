@@ -1,0 +1,14 @@
+{
+  "hash": "2dfb021ef2d764b0",
+  "source": "By default, Nuxt comes with the following plugins already pre-configured:",
+  "text": "Par défaut, Nuxt est livré avec les plugins suivants déjà préconfigurés :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par défaut, Nuxt est livré avec les plugins suivants déjà préconfigurés :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

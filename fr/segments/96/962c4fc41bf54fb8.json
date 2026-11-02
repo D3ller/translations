@@ -1,0 +1,14 @@
+{
+  "hash": "962c4fc41bf54fb8",
+  "source": "In the {0} directory, Nuxt auto-imports exported functions and variables from {1}.",
+  "text": "Dans le répertoire {0}, Nuxt importe automatiquement les fonctions et variables exportées depuis {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans le répertoire {0}, Nuxt importe automatiquement les fonctions et variables exportées depuis {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "b57848546768d7ba",
+  "source": "{0} families get font fallback metrics",
+  "text": "Les familles {0} obtiennent des métriques de police de repli",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les familles {0} obtiennent des métriques de police de repli"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

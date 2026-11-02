@@ -1,0 +1,14 @@
+{
+  "hash": "e1e4a692c3d54f35",
+  "source": "Body Handling",
+  "text": "Gestion du corps de la requête",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Gestion du corps de la requête"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

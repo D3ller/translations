@@ -1,0 +1,14 @@
+{
+  "hash": "4f14282970c5c849",
+  "source": "The example below reads the {0} request header to find out if a person can access a restricted resource.",
+  "text": "L'exemple ci-dessous lit l'en-tête de requête {0} pour savoir si une personne peut accéder à une ressource protégée.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'exemple ci-dessous lit l'en-tête de requête {0} pour savoir si une personne peut accéder à une ressource protégée."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

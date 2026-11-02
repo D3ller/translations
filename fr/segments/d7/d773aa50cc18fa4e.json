@@ -1,0 +1,14 @@
+{
+  "hash": "d773aa50cc18fa4e",
+  "source": "{0}: Function threw an error",
+  "text": "{0} : la fonction a levé une erreur",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : la fonction a levé une erreur"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

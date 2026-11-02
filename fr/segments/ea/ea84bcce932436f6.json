@@ -1,0 +1,14 @@
+{
+  "hash": "ea84bcce932436f6",
+  "source": "Declaring Route Types",
+  "text": "Déclarer des types de routes",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Déclarer des types de routes"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

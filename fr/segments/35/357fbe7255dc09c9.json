@@ -1,0 +1,14 @@
+{
+  "hash": "357fbe7255dc09c9",
+  "source": "By using the {0} prefix you can delay loading the component code until the right moment, which can be helpful for optimizing your JavaScript bundle size.",
+  "text": "En utilisant le préfixe {0}, vous pouvez retarder le chargement du code du composant jusqu'au bon moment, ce qui peut aider à optimiser la taille de votre bundle JavaScript.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En utilisant le préfixe {0}, vous pouvez retarder le chargement du code du composant jusqu'au bon moment, ce qui peut aider à optimiser la taille de votre bundle JavaScript."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

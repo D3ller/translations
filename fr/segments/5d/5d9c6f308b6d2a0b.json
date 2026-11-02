@@ -1,0 +1,14 @@
+{
+  "hash": "5d9c6f308b6d2a0b",
+  "source": "A family you did not set {0} on will resolve a bold face as well as a regular one, so you will see additional {1} rules and an additional file downloaded per family. Text that silently fell back to a synthesised bold will now render in the real one.",
+  "text": "Une famille pour laquelle vous n'avez pas défini {0} sera résolue avec une graisse bold en plus de la graisse regular ; vous verrez donc des règles {1} supplémentaires et un fichier supplémentaire téléchargé par famille. Le texte qui retombait silencieusement sur un gras synthétisé s'affichera désormais avec le vrai gras.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une famille pour laquelle vous n'avez pas défini {0} sera résolue avec une graisse bold en plus de la graisse regular ; vous verrez donc des règles {1} supplémentaires et un fichier supplémentaire téléchargé par famille. Le texte qui retombait silencieusement sur un gras synthétisé s'affichera désormais avec le vrai gras."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

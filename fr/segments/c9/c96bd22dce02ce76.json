@@ -1,0 +1,14 @@
+{
+  "hash": "c96bd22dce02ce76",
+  "source": "Creates resolver relative to base path.",
+  "text": "Crée un resolver relatif à un chemin de base.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Crée un resolver relatif à un chemin de base."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

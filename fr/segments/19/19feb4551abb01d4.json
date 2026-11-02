@@ -1,0 +1,14 @@
+{
+  "hash": "19feb4551abb01d4",
+  "source": "Requests Made With a {0}",
+  "text": "Requêtes effectuées avec un {0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Requêtes effectuées avec un {0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

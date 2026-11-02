@@ -1,0 +1,14 @@
+{
+  "hash": "5aad99b00b833c3e",
+  "source": "This example demonstrates how to use a custom {0}, but the same structure is identical for a custom {1}.",
+  "text": "Cet exemple montre comment utiliser un {0} personnalisé, mais la structure est identique pour un {1} personnalisé.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cet exemple montre comment utiliser un {0} personnalisé, mais la structure est identique pour un {1} personnalisé."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

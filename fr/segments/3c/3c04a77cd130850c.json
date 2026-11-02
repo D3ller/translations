@@ -1,0 +1,14 @@
+{
+  "hash": "3c04a77cd130850c",
+  "source": "You can use {0} and {1} from {2} package to set cookies in server API routes.",
+  "text": "Vous pouvez utiliser {0} et {1} du package {2} pour définir des cookies dans les routes d'API serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez utiliser {0} et {1} du package {2} pour définir des cookies dans les routes d'API serveur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

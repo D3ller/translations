@@ -1,0 +1,14 @@
+{
+  "hash": "60f5b05e8d1de8c2",
+  "source": "With {0} (the default when {1} is enabled), scripts are only stripped from rendered HTML in production builds. In development the page still ships JavaScript, so behavior that depends on it (lazy hydration strategies, {2} components inside server components) appears to work in dev and then silently breaks after deployment.",
+  "text": "Avec {0} (la valeur par défaut lorsque {1} est activé), les scripts ne sont supprimés du HTML rendu que dans les builds de production. En développement, la page envoie toujours du JavaScript : un comportement qui en dépend (stratégies d'hydratation différée, composants {2} dans des composants serveur) semble donc fonctionner en dev, puis cesse silencieusement de fonctionner après le déploiement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Avec {0} (la valeur par défaut lorsque {1} est activé), les scripts ne sont supprimés du HTML rendu que dans les builds de production. En développement, la page envoie toujours du JavaScript : un comportement qui en dépend (stratégies d'hydratation différée, composants {2} dans des composants serveur) semble donc fonctionner en dev, puis cesse silencieusement de fonctionner après le déploiement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "be245a4fcf7669a4",
+  "source": "This runs only when the module is first installed",
+  "text": "S'exécute uniquement lors de la première installation du module",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "S'exécute uniquement lors de la première installation du module"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

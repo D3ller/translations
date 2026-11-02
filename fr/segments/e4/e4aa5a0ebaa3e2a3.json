@@ -1,0 +1,14 @@
+{
+  "hash": "e4aa5a0ebaa3e2a3",
+  "source": "Note that these features are experimental and could be removed or modified in the future.",
+  "text": "Notez que ces fonctionnalités sont expérimentales et pourraient être supprimées ou modifiées à l'avenir.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Notez que ces fonctionnalités sont expérimentales et pourraient être supprimées ou modifiées à l'avenir."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

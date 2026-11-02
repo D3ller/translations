@@ -1,0 +1,14 @@
+{
+  "hash": "3e09e089e9217069",
+  "source": "Nuxt builds two separate bundles: the Vue app (client and server-side rendering) and the Nitro server (API routes, server middleware, server plugins). They are bundled independently and run in different contexts. Code in the {0} directory is used in both bundles, so it cannot import from either.",
+  "text": "Nuxt construit deux bundles distincts : l'application Vue (rendu côté client et côté serveur) et le serveur Nitro (routes d'API, middleware serveur, plugins serveur). Ils sont assemblés indépendamment et s'exécutent dans des contextes différents. Le code du répertoire {0} est utilisé dans les deux bundles, il ne peut donc importer ni l'un ni l'autre.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt construit deux bundles distincts : l'application Vue (rendu côté client et côté serveur) et le serveur Nitro (routes d'API, middleware serveur, plugins serveur). Ils sont assemblés indépendamment et s'exécutent dans des contextes différents. Le code du répertoire {0} est utilisé dans les deux bundles, il ne peut donc importer ni l'un ni l'autre."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "54873676df7ea611",
+  "source": "For typescript support, you can use {0}:",
+  "text": "Pour la prise en charge de TypeScript, vous pouvez utiliser {0} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour la prise en charge de TypeScript, vous pouvez utiliser {0} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

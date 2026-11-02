@@ -1,0 +1,14 @@
+{
+  "hash": "548a4accfea5c847",
+  "source": "Nuxt provides a logger instance that you can use to log messages with extra features. {0} allows you to get a logger instance.",
+  "text": "Nuxt fournit une instance de logger que vous pouvez utiliser pour journaliser des messages avec des fonctionnalités supplémentaires. {0} permet d'obtenir une instance de logger.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt fournit une instance de logger que vous pouvez utiliser pour journaliser des messages avec des fonctionnalités supplémentaires. {0} permet d'obtenir une instance de logger."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

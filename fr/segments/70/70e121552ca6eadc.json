@@ -1,0 +1,14 @@
+{
+  "hash": "70e121552ca6eadc",
+  "source": "To keep a phone number tappable, wrap it in an {0} element so the link is part of the server-rendered HTML.",
+  "text": "Pour conserver un numéro de téléphone cliquable, encapsulez-le dans un élément {0} afin que le lien fasse partie du HTML rendu côté serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour conserver un numéro de téléphone cliquable, encapsulez-le dans un élément {0} afin que le lien fasse partie du HTML rendu côté serveur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

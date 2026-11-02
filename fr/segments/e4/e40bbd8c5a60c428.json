@@ -1,0 +1,14 @@
+{
+  "hash": "e40bbd8c5a60c428",
+  "source": "Register a directory to be scanned for components and imported only when used. Keep in mind, that this does not register components globally, until you specify {0} option.",
+  "text": "Enregistrez un répertoire à analyser pour y rechercher des composants, qui ne seront importés que lorsqu'ils sont utilisés. Gardez à l'esprit que cela n'enregistre pas les composants globalement, tant que vous ne spécifiez pas l'option {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Enregistrez un répertoire à analyser pour y rechercher des composants, qui ne seront importés que lorsqu'ils sont utilisés. Gardez à l'esprit que cela n'enregistre pas les composants globalement, tant que vous ne spécifiez pas l'option {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "0e78513669a88ac0",
+  "source": "{0} and {1} - if both are present, this will launch the server in HTTPS mode. In the vast majority of cases, this should not be used other than for testing, and the Nitro server should be run behind a reverse proxy like nginx or Cloudflare which terminates SSL.",
+  "text": "{0} et {1} : si les deux sont présentes, le serveur est lancé en mode HTTPS. Dans la grande majorité des cas, cela ne devrait servir que pour des tests, et le serveur Nitro devrait être exécuté derrière un reverse proxy comme nginx ou Cloudflare, qui termine le SSL.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} et {1} : si les deux sont présentes, le serveur est lancé en mode HTTPS. Dans la grande majorité des cas, cela ne devrait servir que pour des tests, et le serveur Nitro devrait être exécuté derrière un reverse proxy comme nginx ou Cloudflare, qui termine le SSL."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

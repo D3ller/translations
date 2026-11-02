@@ -1,0 +1,14 @@
+{
+  "hash": "2d687e000b54ab17",
+  "source": "Removal of Top-Level {0} Configuration",
+  "text": "Suppression de la configuration {0} de premier niveau",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Suppression de la configuration {0} de premier niveau"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

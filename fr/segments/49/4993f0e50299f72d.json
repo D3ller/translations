@@ -1,0 +1,14 @@
+{
+  "hash": "4993f0e50299f72d",
+  "source": "Prefix all matched components with this string.",
+  "text": "Préfixe tous les composants correspondants avec cette chaîne.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Préfixe tous les composants correspondants avec cette chaîne."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

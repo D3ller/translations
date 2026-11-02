@@ -1,0 +1,14 @@
+{
+  "hash": "b8039326ff181274",
+  "source": "Upgrade Steps",
+  "text": "Étapes de mise à niveau",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Étapes de mise à niveau"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

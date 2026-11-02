@@ -1,0 +1,14 @@
+{
+  "hash": "7e347d547aeda0e3",
+  "source": "**Solution**: Inspect your plugins and see if some of them could be implemented rather as a composable or utility function instead.",
+  "text": "**Solution** : Examinez vos plugins et voyez si certains d'entre eux pourraient plutôt être implémentés sous la forme d'un composable ou d'une fonction utilitaire.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Solution** : Examinez vos plugins et voyez si certains d'entre eux pourraient plutôt être implémentés sous la forme d'un composable ou d'une fonction utilitaire."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

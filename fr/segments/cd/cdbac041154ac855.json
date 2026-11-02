@@ -1,0 +1,14 @@
+{
+  "hash": "cdbac041154ac855",
+  "source": "{0} and the {1} / {2} helpers are experimental and exported from {3}. The shape will change without a major release while a second server builder is being built out.",
+  "text": "{0} et les helpers {1} / {2} sont expérimentaux et exportés depuis {3}. Leur forme changera sans version majeure tant qu'un second builder serveur est en cours de développement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} et les helpers {1} / {2} sont expérimentaux et exportés depuis {3}. Leur forme changera sans version majeure tant qu'un second builder serveur est en cours de développement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

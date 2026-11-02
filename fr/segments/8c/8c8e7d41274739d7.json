@@ -1,0 +1,14 @@
+{
+  "hash": "8c8e7d41274739d7",
+  "source": "The {0} prop is optional. You can pass an object to customize the behavior of the {1} under the hood.",
+  "text": "La prop {0} est facultative. Vous pouvez passer un objet pour personnaliser le comportement de l'{1} sous-jacent.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La prop {0} est facultative. Vous pouvez passer un objet pour personnaliser le comportement de l'{1} sous-jacent."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

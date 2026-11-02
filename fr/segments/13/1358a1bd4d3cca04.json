@@ -1,0 +1,14 @@
+{
+  "hash": "1358a1bd4d3cca04",
+  "source": "And then access the new CDN url using {0}.",
+  "text": "Ensuite, accédez à la nouvelle URL du CDN avec {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ensuite, accédez à la nouvelle URL du CDN avec {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

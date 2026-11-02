@@ -1,0 +1,14 @@
+{
+  "hash": "528cee959abd0976",
+  "source": "By default the stylesheet shipped with the package is read from disk ({0}) rather than from a CDN, and the font files it references are read from the installed package and served from your own origin.",
+  "text": "Par défaut, la feuille de style fournie avec le package est lue depuis le disque ({0}) plutôt que depuis un CDN, et les fichiers de police qu'elle référence sont lus depuis le package installé et servis depuis votre propre origine.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par défaut, la feuille de style fournie avec le package est lue depuis le disque ({0}) plutôt que depuis un CDN, et les fichiers de police qu'elle référence sont lus depuis le package installé et servis depuis votre propre origine."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "994ae7cdbba15163",
+  "source": "In Nuxt 2, you'd fetch your data in your component using a syntax similar to:",
+  "text": "Dans Nuxt 2, vous récupériez vos données dans votre composant avec une syntaxe semblable à celle-ci :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans Nuxt 2, vous récupériez vos données dans votre composant avec une syntaxe semblable à celle-ci :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "ad0bc465282e0b99",
+  "source": "Standalone server components will always be rendered on the server, also known as Islands components.",
+  "text": "Les composants serveur autonomes seront toujours rendus sur le serveur ; on les appelle aussi composants Islands.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les composants serveur autonomes seront toujours rendus sur le serveur ; on les appelle aussi composants Islands."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

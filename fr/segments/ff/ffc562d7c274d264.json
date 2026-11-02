@@ -1,0 +1,14 @@
+{
+  "hash": "ffc562d7c274d264",
+  "source": "{0} defines a reusable extension for {1} composables created with {2}.",
+  "text": "{0} définit une extension réutilisable pour les composables {1} créés avec {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} définit une extension réutilisable pour les composables {1} créés avec {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "802e054e44120e2d",
+  "source": "Only files at the top level of the directory (or index files within any subdirectories) are registered. An index file takes its name from the folder that contains it: {0} is registered as {1}.",
+  "text": "Seuls les fichiers situés au premier niveau du répertoire (ou les fichiers index dans les sous-répertoires) sont enregistrés. Un fichier index prend son nom du dossier qui le contient : {0} est enregistré sous le nom {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Seuls les fichiers situés au premier niveau du répertoire (ou les fichiers index dans les sous-répertoires) sont enregistrés. Un fichier index prend son nom du dossier qui le contient : {0} est enregistré sous le nom {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

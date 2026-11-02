@@ -1,0 +1,14 @@
+{
+  "hash": "188b3d0cdf40cdc3",
+  "source": "The recommended way to provide head data with user input.",
+  "text": "La méthode recommandée pour fournir des données head à partir de saisies utilisateur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La méthode recommandée pour fournir des données head à partir de saisies utilisateur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

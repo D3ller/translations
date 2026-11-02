@@ -1,0 +1,14 @@
+{
+  "hash": "1f9f718d011ef921",
+  "source": "If running with {0} v2, {1} will always be preferred over {2}, and if running with {3} v3, {4} will always be preferred over {5}. So, if you need to test the {6} variant, set {7} in your test fixture to a builder that is not Nitro, such as {8}.",
+  "text": "Avec {0} v2, {1} sera toujours préféré à {2}, et avec {3} v3, {4} sera toujours préféré à {5}. Ainsi, si vous devez tester la variante {6}, définissez {7} dans votre fixture de test sur un builder autre que Nitro, tel que {8}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Avec {0} v2, {1} sera toujours préféré à {2}, et avec {3} v3, {4} sera toujours préféré à {5}. Ainsi, si vous devez tester la variante {6}, définissez {7} dans votre fixture de test sur un builder autre que Nitro, tel que {8}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

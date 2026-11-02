@@ -1,0 +1,14 @@
+{
+  "hash": "9392dbb0efb1448f",
+  "source": "Unlike reading {0} directly, this accounts for a layout set through route rules and stays in sync as the route changes.",
+  "text": "Contrairement à la lecture directe de {0}, cette approche prend en compte un layout défini par les règles de route et reste synchronisée lorsque la route change.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Contrairement à la lecture directe de {0}, cette approche prend en compte un layout défini par les règles de route et reste synchronisée lorsque la route change."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

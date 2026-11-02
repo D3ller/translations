@@ -1,0 +1,14 @@
+{
+  "hash": "4c3966912fb812bf",
+  "source": "First Step",
+  "text": "Première étape",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Première étape"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

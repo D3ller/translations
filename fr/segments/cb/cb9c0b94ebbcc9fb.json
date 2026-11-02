@@ -1,0 +1,14 @@
+{
+  "hash": "cb9c0b94ebbcc9fb",
+  "source": "The {0} option is ignored on Nuxt 5: setting it logs a warning. Unhead's legacy plugins ({1}, {2}, {3}) are no longer registered, and Capo sorting is always on. {4} is still registered, so {5}, {6} and {7} title interpolation is unaffected.",
+  "text": "L'option {0} est ignorée dans Nuxt 5 : la définir affiche un avertissement. Les plugins historiques d'Unhead ({1}, {2}, {3}) ne sont plus enregistrés, et le tri Capo est toujours actif. {4} est toujours enregistré ; l'interpolation de titre avec {5}, {6} et {7} n'est donc pas affectée.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'option {0} est ignorée dans Nuxt 5 : la définir affiche un avertissement. Les plugins historiques d'Unhead ({1}, {2}, {3}) ne sont plus enregistrés, et le tri Capo est toujours actif. {4} est toujours enregistré ; l'interpolation de titre avec {5}, {6} et {7} n'est donc pas affectée."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

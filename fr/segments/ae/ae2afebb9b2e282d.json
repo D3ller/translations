@@ -1,0 +1,14 @@
+{
+  "hash": "ae2afebb9b2e282d",
+  "source": "Some distributions give a variable font its own family name, such as {0} in the CSS from Inter's website, or {1} in {2}. Remote providers don't recognise these names. A {3} that uses one isn't resolved, no warning is logged, and the browser falls back to the next font in the stack.",
+  "text": "Certaines distributions donnent à une police variable son propre nom de famille, comme {0} dans le CSS du site web d'Inter, ou {1} dans {2}. Les fournisseurs distants ne reconnaissent pas ces noms. Un {3} qui en utilise un n'est pas résolu, aucun avertissement n'est consigné et le navigateur se rabat sur la police suivante de la pile.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Certaines distributions donnent à une police variable son propre nom de famille, comme {0} dans le CSS du site web d'Inter, ou {1} dans {2}. Les fournisseurs distants ne reconnaissent pas ces noms. Un {3} qui en utilise un n'est pas résolu, aucun avertissement n'est consigné et le navigateur se rabat sur la police suivante de la pile."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

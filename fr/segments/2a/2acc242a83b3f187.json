@@ -1,0 +1,14 @@
+{
+  "hash": "2acc242a83b3f187",
+  "source": "If you want to group components in a directory without affecting their name, you can use the parenthesis {0} {1} to name the grouping directory.",
+  "text": "Si vous souhaitez regrouper des composants dans un répertoire sans affecter leur nom, vous pouvez utiliser les parenthèses {0} {1} pour nommer le répertoire de regroupement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous souhaitez regrouper des composants dans un répertoire sans affecter leur nom, vous pouvez utiliser les parenthèses {0} {1} pour nommer le répertoire de regroupement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

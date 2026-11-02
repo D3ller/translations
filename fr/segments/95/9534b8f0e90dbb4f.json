@@ -1,0 +1,14 @@
+{
+  "hash": "9534b8f0e90dbb4f",
+  "source": "Multi-Layer Support for Nuxt Modules",
+  "text": "Prise en charge multi-layer pour les modules Nuxt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Prise en charge multi-layer pour les modules Nuxt"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

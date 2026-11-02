@@ -1,0 +1,14 @@
+{
+  "hash": "943f95c6bdbfe8eb",
+  "source": "Setting {0} will lead Nuxt to perform a reload of the current route right when a chunk fails to load (instead of waiting for navigation). This is useful for chunk errors that are not triggered by navigation, e.g., when your Nuxt app fails to load a {1}lazy component{/1}. A potential downside of this behavior is undesired reloads, e.g., when your app does not need the chunk that caused the error.",
+  "text": "Définir {0} amènera Nuxt à recharger la route actuelle dès qu'un chunk ne parvient pas à se charger (au lieu d'attendre la navigation). C'est utile pour les erreurs de chunk qui ne sont pas déclenchées par la navigation, par exemple lorsque votre application Nuxt ne parvient pas à charger un {1}composant lazy{/1}. Un inconvénient potentiel de ce comportement est de provoquer des rechargements indésirables, par exemple lorsque votre application n'a pas besoin du chunk à l'origine de l'erreur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définir {0} amènera Nuxt à recharger la route actuelle dès qu'un chunk ne parvient pas à se charger (au lieu d'attendre la navigation). C'est utile pour les erreurs de chunk qui ne sont pas déclenchées par la navigation, par exemple lorsque votre application Nuxt ne parvient pas à charger un {1}composant lazy{/1}. Un inconvénient potentiel de ce comportement est de provoquer des rechargements indésirables, par exemple lorsque votre application n'a pas besoin du chunk à l'origine de l'erreur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

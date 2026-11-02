@@ -1,0 +1,14 @@
+{
+  "hash": "381bbebfcc7b013f",
+  "source": "By default {0} is an empty shell, so your {1} (and its layout and data) only appear once the client app has booted. You can prerender it instead:",
+  "text": "Par défaut, {0} est une coquille vide : votre {1} (ainsi que son layout et ses données) n'apparaît donc qu'une fois l'application cliente démarrée. Vous pouvez à la place la prérendre :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par défaut, {0} est une coquille vide : votre {1} (ainsi que son layout et ses données) n'apparaît donc qu'une fois l'application cliente démarrée. Vous pouvez à la place la prérendre :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

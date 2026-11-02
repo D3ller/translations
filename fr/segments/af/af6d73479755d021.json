@@ -1,0 +1,14 @@
+{
+  "hash": "af6d73479755d021",
+  "source": "**Comment node placeholders**: Client-only components use {0}comment nodes instead of {1}{/0} as SSR placeholders, fixing a scoped styles hydration issue",
+  "text": "**Placeholders en nœuds de commentaire** : les composants client uniquement utilisent des {0}nœuds de commentaire au lieu de {1}{/0} comme placeholders SSR, ce qui corrige un problème d'hydratation des styles scopés",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Placeholders en nœuds de commentaire** : les composants client uniquement utilisent des {0}nœuds de commentaire au lieu de {1}{/0} comme placeholders SSR, ce qui corrige un problème d'hydratation des styles scopés"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

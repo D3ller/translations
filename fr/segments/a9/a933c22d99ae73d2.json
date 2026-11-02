@@ -1,0 +1,14 @@
+{
+  "hash": "a933c22d99ae73d2",
+  "source": "**Move all type augmentations into their appropriate context**:",
+  "text": "**Déplacez toutes les augmentations de types dans leur contexte approprié** :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Déplacez toutes les augmentations de types dans leur contexte approprié** :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

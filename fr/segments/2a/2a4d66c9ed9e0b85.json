@@ -1,0 +1,14 @@
+{
+  "hash": "2a4d66c9ed9e0b85",
+  "source": "A number in milliseconds to wait before timing out the call (defaults to {0}, which means no timeout)",
+  "text": "Nombre de millisecondes à attendre avant d'interrompre l'appel (par défaut {0}, ce qui signifie aucun délai d'expiration)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nombre de millisecondes à attendre avant d'interrompre l'appel (par défaut {0}, ce qui signifie aucun délai d'expiration)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

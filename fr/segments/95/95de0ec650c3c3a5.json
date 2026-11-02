@@ -1,0 +1,14 @@
+{
+  "hash": "95de0ec650c3c3a5",
+  "source": "And a more advanced one, exposing a folder of assets through {0}Nitro{/0}'s {1} option:",
+  "text": "Et un exemple plus avancé, qui expose un dossier de ressources via l'option {1} de {0}Nitro{/0} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Et un exemple plus avancé, qui expose un dossier de ressources via l'option {1} de {0}Nitro{/0} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

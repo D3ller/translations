@@ -1,0 +1,14 @@
+{
+  "hash": "fc04371298f3325e",
+  "source": "Move custom keys to {0} (exposed to the client) or to a top-level custom namespace (server-only):",
+  "text": "Déplacez les clés personnalisées vers {0} (exposé au client) ou vers un espace de noms personnalisé de premier niveau (réservé au serveur) :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Déplacez les clés personnalisées vers {0} (exposé au client) ou vers un espace de noms personnalisé de premier niveau (réservé au serveur) :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

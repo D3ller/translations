@@ -1,0 +1,14 @@
+{
+  "hash": "b8dc47bdcc89119a",
+  "source": "In this example, {0} will be able to access anything that was injected by {1}.",
+  "text": "Dans cet exemple, {0} pourra accéder à tout ce qui a été injecté par {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans cet exemple, {0} pourra accéder à tout ce qui a été injecté par {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

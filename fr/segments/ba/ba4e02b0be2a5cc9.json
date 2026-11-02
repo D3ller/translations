@@ -1,0 +1,14 @@
+{
+  "hash": "ba4e02b0be2a5cc9",
+  "source": "Specify a compatibility date for your app.",
+  "text": "Spécifiez une date de compatibilité pour votre application.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Spécifiez une date de compatibilité pour votre application."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

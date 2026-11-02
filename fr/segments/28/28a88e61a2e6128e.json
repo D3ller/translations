@@ -1,0 +1,14 @@
+{
+  "hash": "28a88e61a2e6128e",
+  "source": "Chrome DevTools come with two useful tabs for measuring performance; {0} and {1}.",
+  "text": "Chrome DevTools propose deux onglets utiles pour mesurer les performances : {0} et {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Chrome DevTools propose deux onglets utiles pour mesurer les performances : {0} et {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

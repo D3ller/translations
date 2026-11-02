@@ -1,0 +1,14 @@
+{
+  "hash": "dbe6a46682956770",
+  "source": "{0} returns a computed ref with the layout resolved for the current route, using the same chain as {1}: the page's {2} meta first, then the {3} set via {4}route rules{/4}, then {5}.",
+  "text": "{0} renvoie une ref calculée contenant le layout résolu pour la route courante, en suivant la même chaîne que {1} : d'abord la meta {2} de la page, puis le {3} défini via les {4}règles de route{/4}, puis {5}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} renvoie une ref calculée contenant le layout résolu pour la route courante, en suivant la même chaîne que {1} : d'abord la meta {2} de la page, puis le {3} défini via les {4}règles de route{/4}, puis {5}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

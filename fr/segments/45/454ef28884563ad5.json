@@ -1,0 +1,14 @@
+{
+  "hash": "454ef28884563ad5",
+  "source": "To improve performance, we need to first know how to measure it, starting with measuring performance during development - on local environment, and then moving to auditing application that are deployed on production.",
+  "text": "Pour améliorer les performances, vous devez d'abord savoir les mesurer : commencez par mesurer les performances pendant le développement, dans votre environnement local, puis passez à l'audit des applications déployées en production.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour améliorer les performances, vous devez d'abord savoir les mesurer : commencez par mesurer les performances pendant le développement, dans votre environnement local, puis passez à l'audit des applications déployées en production."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "0413a53dea98106e",
+  "source": "For a custom app builder, you only need to satisfy the generic contract. The Vite Environment API integration ({0}) is specific to {1}; other app builders, including custom ones, use the legacy Nitro Rollup path.",
+  "text": "Pour un app builder personnalisé, il vous suffit de respecter le contrat générique. L'intégration de la Vite Environment API ({0}) est propre à {1} ; les autres app builders, y compris les builders personnalisés, utilisent l'approche historique de Nitro basée sur Rollup.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour un app builder personnalisé, il vous suffit de respecter le contrat générique. L'intégration de la Vite Environment API ({0}) est propre à {1} ; les autres app builders, y compris les builders personnalisés, utilisent l'approche historique de Nitro basée sur Rollup."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

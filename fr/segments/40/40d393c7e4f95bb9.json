@@ -1,0 +1,14 @@
+{
+  "hash": "40d393c7e4f95bb9",
+  "source": "The spa-loading-template.html file defines the loading screen shown while a client-side rendered page initializes.",
+  "text": "Le fichier spa-loading-template.html définit l'écran de chargement affiché pendant l'initialisation d'une page rendue côté client.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le fichier spa-loading-template.html définit l'écran de chargement affiché pendant l'initialisation d'une page rendue côté client."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

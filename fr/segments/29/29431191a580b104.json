@@ -1,0 +1,14 @@
+{
+  "hash": "29431191a580b104",
+  "source": "Note that we use {0} to extend the public runtime configuration the user provides instead of overwriting it.",
+  "text": "Notez que nous utilisons {0} pour étendre la runtime config publique fournie par l'utilisateur au lieu de l'écraser.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Notez que nous utilisons {0} pour étendre la runtime config publique fournie par l'utilisateur au lieu de l'écraser."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

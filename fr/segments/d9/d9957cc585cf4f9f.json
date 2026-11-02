@@ -1,0 +1,14 @@
+{
+  "hash": "d9957cc585cf4f9f",
+  "source": "Enables CSS source map support (defaults to {0} in development).",
+  "text": "Active la prise en charge des source maps CSS (par défaut {0} en développement).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Active la prise en charge des source maps CSS (par défaut {0} en développement)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

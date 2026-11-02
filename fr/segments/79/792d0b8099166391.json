@@ -1,0 +1,14 @@
+{
+  "hash": "792d0b8099166391",
+  "source": "Nuxt no longer augments {0} with {1}, {2}, {3}, {4}, and {5}. Build-time defines for those flags remain for compatibility, but TypeScript will not treat them as known properties.",
+  "text": "Nuxt n'augmente plus {0} avec {1}, {2}, {3}, {4} et {5}. Les définitions au moment du build pour ces indicateurs sont conservées par souci de compatibilité, mais TypeScript ne les considérera pas comme des propriétés connues.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt n'augmente plus {0} avec {1}, {2}, {3}, {4} et {5}. Les définitions au moment du build pour ces indicateurs sont conservées par souci de compatibilité, mais TypeScript ne les considérera pas comme des propriétés connues."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

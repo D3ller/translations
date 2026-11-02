@@ -1,0 +1,14 @@
+{
+  "hash": "f5110aeb16be8526",
+  "source": "Navigation will occur before fetching is complete.",
+  "text": "La navigation aura lieu avant la fin de la récupération.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La navigation aura lieu avant la fin de la récupération."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

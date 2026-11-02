@@ -1,0 +1,14 @@
+{
+  "hash": "3c0b6bc9bb8fcda3",
+  "source": "Users can also completely disable a module by setting the config key to {0}. This prevents the module's setup function from running while still generating types for module options.",
+  "text": "Les utilisateurs peuvent aussi désactiver complètement un module en définissant la clé de configuration sur {0}. Cela empêche l'exécution de la fonction setup du module tout en continuant à générer les types pour les options du module.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les utilisateurs peuvent aussi désactiver complètement un module en définissant la clé de configuration sur {0}. Cela empêche l'exécution de la fonction setup du module tout en continuant à générer les types pour les options du module."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

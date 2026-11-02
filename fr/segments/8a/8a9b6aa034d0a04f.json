@@ -1,0 +1,14 @@
+{
+  "hash": "8a9b6aa034d0a04f",
+  "source": "Then you can set your {0} to match Nuxt 4 behavior:",
+  "text": "Vous pouvez ensuite définir votre {0} pour adopter le comportement de Nuxt 4 :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez ensuite définir votre {0} pour adopter le comportement de Nuxt 4 :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

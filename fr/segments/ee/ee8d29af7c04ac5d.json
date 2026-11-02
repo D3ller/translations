@@ -1,0 +1,14 @@
+{
+  "hash": "ee8d29af7c04ac5d",
+  "source": "You can use a computed ref, plain ref or a getter function as the key, allowing for dynamic data fetching that automatically updates when the key changes:",
+  "text": "Vous pouvez utiliser une ref calculée, une ref simple ou une fonction getter comme clé, ce qui permet une récupération de données dynamique qui se met à jour automatiquement lorsque la clé change :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez utiliser une ref calculée, une ref simple ou une fonction getter comme clé, ce qui permet une récupération de données dynamique qui se met à jour automatiquement lorsque la clé change :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "4aa0e1385656fe75",
+  "source": "Each module is either a string (which can refer to a package, or be a path to a file), a tuple with the module as first string and the options as a second object, or an inline module function. Nuxt tries to resolve each item in the modules array using node require path (in {0}) and then will be resolved from project {1} if {2} alias is used.",
+  "text": "Chaque module est soit une chaîne de caractères (qui peut faire référence à un package ou être un chemin vers un fichier), soit un tuple avec le module en premier élément (chaîne) et les options en second (objet), soit une fonction de module inline. Nuxt essaie de résoudre chaque élément du tableau modules en utilisant le chemin de résolution require de Node (dans {0}), puis le résout depuis le {1} du projet si l'alias {2} est utilisé.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Chaque module est soit une chaîne de caractères (qui peut faire référence à un package ou être un chemin vers un fichier), soit un tuple avec le module en premier élément (chaîne) et les options en second (objet), soit une fonction de module inline. Nuxt essaie de résoudre chaque élément du tableau modules en utilisant le chemin de résolution require de Node (dans {0}), puis le résout depuis le {1} du projet si l'alias {2} est utilisé."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

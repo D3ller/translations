@@ -1,0 +1,14 @@
+{
+  "hash": "8b645af20582c7e8",
+  "source": "In order to achieve this we can change how the routes are prerendered. Just add this to {0}your hooks{/0} in your {1}:",
+  "text": "Pour y parvenir, vous pouvez modifier la façon dont les routes sont prérendues. Ajoutez simplement ceci à {0}vos hooks{/0} dans votre {1} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pour y parvenir, vous pouvez modifier la façon dont les routes sont prérendues. Ajoutez simplement ceci à {0}vos hooks{/0} dans votre {1} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "2aade95fee2d1be4",
+  "source": "callOnce key must be a string.",
+  "text": "La clé de callOnce doit être une chaîne de caractères.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La clé de callOnce doit être une chaîne de caractères."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

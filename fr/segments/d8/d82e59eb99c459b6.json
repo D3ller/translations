@@ -1,0 +1,14 @@
+{
+  "hash": "d82e59eb99c459b6",
+  "source": "New Features",
+  "text": "Nouvelles fonctionnalités",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nouvelles fonctionnalités"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

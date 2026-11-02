@@ -1,0 +1,14 @@
+{
+  "hash": "4c0f873f642d172b",
+  "source": "Preview the {0} component.",
+  "text": "Prévisualisez le composant {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Prévisualisez le composant {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

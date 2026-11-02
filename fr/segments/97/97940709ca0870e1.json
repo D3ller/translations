@@ -1,0 +1,14 @@
+{
+  "hash": "97940709ca0870e1",
+  "source": "Set to {0} to stop printing client build errors to the terminal during development.",
+  "text": "Définissez sur {0} pour arrêter l'affichage des erreurs de build du client dans le terminal pendant le développement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définissez sur {0} pour arrêter l'affichage des erreurs de build du client dans le terminal pendant le développement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

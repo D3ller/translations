@@ -1,0 +1,14 @@
+{
+  "hash": "530d6c6a0d12a77a",
+  "source": "Custom inline middleware",
+  "text": "Middleware inline personnalisé",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Middleware inline personnalisé"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

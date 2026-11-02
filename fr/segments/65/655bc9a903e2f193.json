@@ -1,0 +1,14 @@
+{
+  "hash": "655bc9a903e2f193",
+  "source": "ignore route middleware files under foo folder except foo/bar.js",
+  "text": "ignore les fichiers de middleware de route du dossier foo, sauf foo/bar.js",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "ignore les fichiers de middleware de route du dossier foo, sauf foo/bar.js"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

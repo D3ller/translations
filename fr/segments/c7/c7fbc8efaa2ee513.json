@@ -1,0 +1,14 @@
+{
+  "hash": "c7fbc8efaa2ee513",
+  "source": "{0} returns the address the server runtime reports for the connection, or {1} if it reports none. No forwarded header is trusted by default, because a client can send any value in one.",
+  "text": "{0} retourne l'adresse que le runtime du serveur signale pour la connexion, ou {1} s'il n'en signale aucune. Aucun en-tête transféré n'est approuvé par défaut, car un client peut y envoyer n'importe quelle valeur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} retourne l'adresse que le runtime du serveur signale pour la connexion, ou {1} s'il n'en signale aucune. Aucun en-tête transféré n'est approuvé par défaut, car un client peut y envoyer n'importe quelle valeur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

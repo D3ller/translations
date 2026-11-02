@@ -1,0 +1,14 @@
+{
+  "hash": "101f4a82fb9f622f",
+  "source": "Nuxt auto-imports functions and composables to perform {0}data fetching{/0}, get access to the {1}app context{/1} and {2}runtime config{/2}, manage {3}state{/3} or define components and plugins.",
+  "text": "Nuxt importe automatiquement des fonctions et des composables pour effectuer la {0}récupération de données{/0}, accéder au {1}contexte de l'application{/1} et au {2}runtime config{/2}, gérer l'{3}état{/3} ou définir des composants et des plugins.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt importe automatiquement des fonctions et des composables pour effectuer la {0}récupération de données{/0}, accéder au {1}contexte de l'application{/1} et au {2}runtime config{/2}, gérer l'{3}état{/3} ou définir des composants et des plugins."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

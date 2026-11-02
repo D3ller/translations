@@ -1,0 +1,14 @@
+{
+  "hash": "b9038dc2a606f1e9",
+  "source": "However, in recent Node.js LTS releases, it is now possible to {0}use native ESM module{/0} within Node.js. That means that Node.js itself can process JavaScript using ESM syntax, although it doesn't do it by default. The two most common ways to enable ESM syntax are:",
+  "text": "Cependant, dans les versions LTS récentes de Node.js, il est désormais possible d'{0}utiliser des modules ESM natifs{/0} dans Node.js. Cela signifie que Node.js peut lui-même traiter du JavaScript utilisant la syntaxe ESM, bien qu'il ne le fasse pas par défaut. Les deux moyens les plus courants d'activer la syntaxe ESM sont :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cependant, dans les versions LTS récentes de Node.js, il est désormais possible d'{0}utiliser des modules ESM natifs{/0} dans Node.js. Cela signifie que Node.js peut lui-même traiter du JavaScript utilisant la syntaxe ESM, bien qu'il ne le fasse pas par défaut. Les deux moyens les plus courants d'activer la syntaxe ESM sont :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

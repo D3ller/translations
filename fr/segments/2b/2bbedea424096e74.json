@@ -1,0 +1,14 @@
+{
+  "hash": "2bbedea424096e74",
+  "source": "**{0}**: Browse all deployment providers and hosting platforms",
+  "text": "**{0}** : parcourez tous les fournisseurs de déploiement et les plateformes d'hébergement",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** : parcourez tous les fournisseurs de déploiement et les plateformes d'hébergement"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

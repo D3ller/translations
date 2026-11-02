@@ -1,0 +1,14 @@
+{
+  "hash": "680b87eadcb696a8",
+  "source": "Add authentication using the {0}20+ supported OAuth providers{/0}",
+  "text": "Ajouter l'authentification avec les {0}plus de 20 fournisseurs OAuth pris en charge{/0}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ajouter l'authentification avec les {0}plus de 20 fournisseurs OAuth pris en charge{/0}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

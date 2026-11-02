@@ -1,0 +1,14 @@
+{
+  "hash": "f765e42df0779940",
+  "source": "In the example below, we define a reducer (or a serializer) and a reviver (or deserializer) for the {0}Luxon{/0} DateTime class, using a payload plugin.",
+  "text": "Dans l'exemple ci-dessous, nous définissons un reducer (ou sérialiseur) et un reviver (ou désérialiseur) pour la classe DateTime de {0}Luxon{/0}, à l'aide d'un plugin de payload.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans l'exemple ci-dessous, nous définissons un reducer (ou sérialiseur) et un reviver (ou désérialiseur) pour la classe DateTime de {0}Luxon{/0}, à l'aide d'un plugin de payload."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

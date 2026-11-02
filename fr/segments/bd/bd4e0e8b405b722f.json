@@ -1,0 +1,14 @@
+{
+  "hash": "bd4e0e8b405b722f",
+  "source": "You can granularly opt in to deep reactivity on a per-composable basis:",
+  "text": "Vous pouvez activer la réactivité profonde de manière ciblée, composable par composable :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez activer la réactivité profonde de manière ciblée, composable par composable :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "22687fe4f7943840",
+  "source": "**Component islands are compatible with streaming.** Island slot content and selective-client ({0}) components are normally stitched into the HTML in a post-render pass, which is impossible once the body has streamed past the island anchors. Instead, the renderer emits each island teleport as an inert {1} at the end of the document and relocates it into place with an inline script that runs before hydration. This is transparent to app code. The exception is apps built with {2} and island components, which fall back to the buffered renderer since the relocation script cannot run.",
+  "text": "**Les islands de composants sont compatibles avec le streaming.** Le contenu des slots d'island et les composants à client sélectif ({0}) sont normalement insérés dans le HTML lors d'une passe postérieure au rendu, ce qui est impossible une fois que le body a dépassé les ancres d'island en streaming. À la place, le moteur de rendu émet chaque teleport d'island sous forme de {1} inerte à la fin du document et le replace à son emplacement grâce à un script inline exécuté avant l'hydratation. Cela est transparent pour le code de l'application. L'exception concerne les applications construites avec {2} et des composants island, qui reviennent au moteur de rendu avec buffer, car le script de déplacement ne peut pas s'exécuter.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Les islands de composants sont compatibles avec le streaming.** Le contenu des slots d'island et les composants à client sélectif ({0}) sont normalement insérés dans le HTML lors d'une passe postérieure au rendu, ce qui est impossible une fois que le body a dépassé les ancres d'island en streaming. À la place, le moteur de rendu émet chaque teleport d'island sous forme de {1} inerte à la fin du document et le replace à son emplacement grâce à un script inline exécuté avant l'hydratation. Cela est transparent pour le code de l'application. L'exception concerne les applications construites avec {2} et des composants island, qui reviennent au moteur de rendu avec buffer, car le script de déplacement ne peut pas s'exécuter."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

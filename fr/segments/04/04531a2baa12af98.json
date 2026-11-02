@@ -1,0 +1,14 @@
+{
+  "hash": "04531a2baa12af98",
+  "source": "Where to redirect if the route is directly matched. The redirection happens before any navigation guard and triggers a new navigation with the new target location.",
+  "text": "Où rediriger si la route correspond directement. La redirection a lieu avant tout navigation guard et déclenche une nouvelle navigation vers la nouvelle destination.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Où rediriger si la route correspond directement. La redirection a lieu avant tout navigation guard et déclenche une nouvelle navigation vers la nouvelle destination."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

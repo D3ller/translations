@@ -1,0 +1,14 @@
+{
+  "hash": "dea3058b1130c4dc",
+  "source": "When requests don't rely on each other, you can make them in parallel with {0} to boost performance.",
+  "text": "Lorsque les requêtes ne dépendent pas les unes des autres, vous pouvez les effectuer en parallèle avec {0} pour améliorer les performances.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque les requêtes ne dépendent pas les unes des autres, vous pouvez les effectuer en parallèle avec {0} pour améliorer les performances."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

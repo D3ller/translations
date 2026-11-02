@@ -1,0 +1,14 @@
+{
+  "hash": "406c1548d5c05d93",
+  "source": "Set the status code to 404 for a custom 404 page",
+  "text": "Définir le code de statut à 404 pour une page 404 personnalisée",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définir le code de statut à 404 pour une page 404 personnalisée"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

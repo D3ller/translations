@@ -1,0 +1,14 @@
+{
+  "hash": "2ea1b4ff789da11e",
+  "source": "You can control the order in which plugins are registered by prefixing with 'alphabetical' numbering to the file names.",
+  "text": "Vous pouvez contrôler l'ordre d'enregistrement des plugins en préfixant les noms de fichiers avec une numérotation « alphabétique ».",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez contrôler l'ordre d'enregistrement des plugins en préfixant les noms de fichiers avec une numérotation « alphabétique »."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

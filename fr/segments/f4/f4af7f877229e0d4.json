@@ -1,0 +1,14 @@
+{
+  "hash": "f4af7f877229e0d4",
+  "source": "The provider API is likely to evolve in the next few releases of {0}, but at the moment it looks like this:",
+  "text": "L'API des providers est susceptible d'évoluer dans les prochaines versions de {0}, mais pour le moment, elle se présente ainsi :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'API des providers est susceptible d'évoluer dans les prochaines versions de {0}, mais pour le moment, elle se présente ainsi :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

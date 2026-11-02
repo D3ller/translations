@@ -1,0 +1,14 @@
+{
+  "hash": "f7ebf11b434311fe",
+  "source": "Use {0} to get the results as machine-readable JSON.",
+  "text": "Utilisez {0} pour obtenir les résultats au format JSON lisible par une machine.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Utilisez {0} pour obtenir les résultats au format JSON lisible par une machine."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

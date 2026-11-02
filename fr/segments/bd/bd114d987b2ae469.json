@@ -1,0 +1,14 @@
+{
+  "hash": "bd114d987b2ae469",
+  "source": "Running unit, integration, and e2e tests ({0})",
+  "text": "Lançant les tests unitaires, d'intégration et e2e ({0})",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lançant les tests unitaires, d'intégration et e2e ({0})"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

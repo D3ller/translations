@@ -1,0 +1,14 @@
+{
+  "hash": "14e1e4f7886a1d0d",
+  "source": "You can now migrate to the Nuxt 3 middleware API, which is slightly different in format from Nuxt 2.",
+  "text": "Vous pouvez désormais migrer vers l'API des middleware de Nuxt 3, dont le format est légèrement différent de celui de Nuxt 2.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez désormais migrer vers l'API des middleware de Nuxt 3, dont le format est légèrement différent de celui de Nuxt 2."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "06e096118c5d4b36",
+  "source": "There are two ways to deploy a Nuxt application to any static hosting services:",
+  "text": "Il existe deux façons de déployer une application Nuxt sur n'importe quel service d'hébergement statique :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Il existe deux façons de déployer une application Nuxt sur n'importe quel service d'hébergement statique :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

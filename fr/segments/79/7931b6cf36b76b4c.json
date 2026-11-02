@@ -1,0 +1,14 @@
+{
+  "hash": "7931b6cf36b76b4c",
+  "source": "Extends the webpack configuration. Callback function can be called multiple times, when applying to both client and server builds.",
+  "text": "Étend la configuration de webpack. La fonction de rappel peut être appelée plusieurs fois, lorsqu'elle s'applique aux builds client et serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Étend la configuration de webpack. La fonction de rappel peut être appelée plusieurs fois, lorsqu'elle s'applique aux builds client et serveur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

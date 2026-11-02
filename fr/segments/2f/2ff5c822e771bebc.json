@@ -1,0 +1,14 @@
+{
+  "hash": "2ff5c822e771bebc",
+  "source": "Set an optional, third argument {0} to indicate whether the route middleware is global.",
+  "text": "Définissez un troisième argument optionnel {0} pour indiquer si le middleware de route est global.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Définissez un troisième argument optionnel {0} pour indiquer si le middleware de route est global."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "c7bb0d0ffd809edf",
+  "source": "This configuration uses Node.js LTS and enables pnpm via corepack. It forwards port 3000 for the Nuxt dev server and persists {0} in a Docker volume to avoid reinstallation on container restarts.",
+  "text": "Cette configuration utilise la version LTS de Node.js et active pnpm via corepack. Elle redirige le port 3000 pour le serveur de développement Nuxt et conserve {0} dans un volume Docker afin d'éviter une réinstallation à chaque redémarrage du conteneur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cette configuration utilise la version LTS de Node.js et active pnpm via corepack. Elle redirige le port 3000 pour le serveur de développement Nuxt et conserve {0} dans un volume Docker afin d'éviter une réinstallation à chaque redémarrage du conteneur."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

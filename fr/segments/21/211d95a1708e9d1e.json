@@ -1,0 +1,14 @@
+{
+  "hash": "211d95a1708e9d1e",
+  "source": "Under the hood, Nuxt auto generates the file {0} to declare the types.",
+  "text": "En coulisses, Nuxt génère automatiquement le fichier {0} pour déclarer les types.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "En coulisses, Nuxt génère automatiquement le fichier {0} pour déclarer les types."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

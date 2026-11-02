@@ -1,0 +1,14 @@
+{
+  "hash": "31cee7a2eebb6431",
+  "source": "It was possible to throw an error with a {0} property, but this was not parsed. Now, it is parsed and made available in the {1} object. Although a fix, this is technically a breaking change if you were relying on the previous behavior and parsing it manually.",
+  "text": "Il était possible de lever une erreur avec une propriété {0}, mais celle-ci n'était pas analysée. Désormais, elle est analysée et disponible dans l'objet {1}. Bien qu'il s'agisse d'un correctif, c'est techniquement un breaking change si vous vous appuyiez sur le comportement précédent et l'analysiez manuellement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Il était possible de lever une erreur avec une propriété {0}, mais celle-ci n'était pas analysée. Désormais, elle est analysée et disponible dans l'objet {1}. Bien qu'il s'agisse d'un correctif, c'est techniquement un breaking change si vous vous appuyiez sur le comportement précédent et l'analysiez manuellement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

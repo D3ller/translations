@@ -1,0 +1,14 @@
+{
+  "hash": "d2bca8108ef3f5c1",
+  "source": "Applying an axis is a subsetting pass, so it modifies the font files you ship. Check that the licence of each font allows it.",
+  "text": "Appliquer un axe est une passe de création de sous-ensemble, ce qui modifie les fichiers de police que vous livrez. Vérifiez que la licence de chaque police l'autorise.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appliquer un axe est une passe de création de sous-ensemble, ce qui modifie les fichiers de police que vous livrez. Vérifiez que la licence de chaque police l'autorise."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

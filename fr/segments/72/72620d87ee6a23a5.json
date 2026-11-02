@@ -1,0 +1,14 @@
+{
+  "hash": "72620d87ee6a23a5",
+  "source": "Sessions and Authentication",
+  "text": "Sessions et authentification",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sessions et authentification"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

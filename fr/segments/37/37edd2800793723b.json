@@ -1,0 +1,14 @@
+{
+  "hash": "37edd2800793723b",
+  "source": "Universal rendering allows a Nuxt application to provide quick page load times while preserving the benefits of client-side rendering. Furthermore, as the content is already present in the HTML document, crawlers can index it without overhead.",
+  "text": "Le rendu universel permet à une application Nuxt d'offrir des temps de chargement de page rapides tout en conservant les avantages du rendu côté client. De plus, comme le contenu est déjà présent dans le document HTML, les robots d'indexation peuvent l'indexer sans surcoût.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le rendu universel permet à une application Nuxt d'offrir des temps de chargement de page rapides tout en conservant les avantages du rendu côté client. De plus, comme le contenu est déjà présent dans le document HTML, les robots d'indexation peuvent l'indexer sans surcoût."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

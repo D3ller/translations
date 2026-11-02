@@ -1,0 +1,14 @@
+{
+  "hash": "cfb0273babb6dd27",
+  "source": "{0} is a drop-in replacement for the native {1} tag.",
+  "text": "{0} remplace directement la balise native {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} remplace directement la balise native {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

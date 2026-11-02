@@ -1,0 +1,14 @@
+{
+  "hash": "0db5bd31bbfdd77c",
+  "source": "Or manually create/update {0} in your project root:",
+  "text": "Ou créez/mettez à jour manuellement {0} à la racine de votre projet :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ou créez/mettez à jour manuellement {0} à la racine de votre projet :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

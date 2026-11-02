@@ -1,0 +1,14 @@
+{
+  "hash": "0041e1930f48b88f",
+  "source": "The directory font files are served from.",
+  "text": "Le répertoire à partir duquel les fichiers de polices sont servis.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le répertoire à partir duquel les fichiers de polices sont servis."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

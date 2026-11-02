@@ -1,0 +1,14 @@
+{
+  "hash": "03c8c7dbae07bc19",
+  "source": "The build tells you which modules this happened to:",
+  "text": "Le build vous indique quels modules sont concernés :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le build vous indique quels modules sont concernés :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

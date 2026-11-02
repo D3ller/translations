@@ -1,0 +1,14 @@
+{
+  "hash": "582204078dd899c0",
+  "source": "This composable will automatically pass cookies to the client",
+  "text": "Ce composable transmettra automatiquement les cookies au client",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ce composable transmettra automatiquement les cookies au client"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

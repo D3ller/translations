@@ -1,0 +1,14 @@
+{
+  "hash": "26edcbc5cc846b1e",
+  "source": "**Cost:** A server needs to be running in order to render pages on the fly. This adds a monthly cost like any traditional server. However, the server calls are highly reduced thanks to universal rendering with the browser taking over on client-side navigation. A cost reduction is possible by leveraging {0}edge-side-rendering{/0}.",
+  "text": "**Coût :** un serveur doit être en fonctionnement pour rendre les pages à la volée. Cela ajoute un coût mensuel, comme tout serveur traditionnel. Cependant, les appels au serveur sont fortement réduits grâce au rendu universel, le navigateur prenant le relais lors de la navigation côté client. Une réduction des coûts est possible en tirant parti du {0}edge-side rendering{/0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Coût :** un serveur doit être en fonctionnement pour rendre les pages à la volée. Cela ajoute un coût mensuel, comme tout serveur traditionnel. Cependant, les appels au serveur sont fortement réduits grâce au rendu universel, le navigateur prenant le relais lors de la navigation côté client. Une réduction des coûts est possible en tirant parti du {0}edge-side rendering{/0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

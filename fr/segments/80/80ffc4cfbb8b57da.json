@@ -1,0 +1,14 @@
+{
+  "hash": "80ffc4cfbb8b57da",
+  "source": "It's possible to use different {0}server builders{/0} with Nuxt: Nitro 2 ({1}, the default in Nuxt 3 and 4), Nitro 3 ({2}, from Nuxt 5), or Vite directly.",
+  "text": "Il est possible d'utiliser différents {0}server builders{/0} avec Nuxt : Nitro 2 ({1}, par défaut dans Nuxt 3 et 4), Nitro 3 ({2}, à partir de Nuxt 5), ou directement Vite.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Il est possible d'utiliser différents {0}server builders{/0} avec Nuxt : Nitro 2 ({1}, par défaut dans Nuxt 3 et 4), Nitro 3 ({2}, à partir de Nuxt 5), ou directement Vite."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

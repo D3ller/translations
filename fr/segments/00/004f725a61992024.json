@@ -1,0 +1,14 @@
+{
+  "hash": "004f725a61992024",
+  "source": "The **app builder** provides the artifacts by key, as described in the rest of this section.",
+  "text": "Le **builder d'application** fournit les artefacts par clé, comme décrit dans le reste de cette section.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le **builder d'application** fournit les artefacts par clé, comme décrit dans le reste de cette section."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

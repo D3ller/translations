@@ -1,0 +1,14 @@
+{
+  "hash": "71e37531530dc2ca",
+  "source": "The route to match, exactly. End it in {0} to match the paths below it as well. If an empty string is used, the handler is registered as middleware.",
+  "text": "La route à faire correspondre, de manière exacte. Terminez-la par {0} pour faire aussi correspondre les chemins situés en dessous. Si une chaîne vide est utilisée, le handler est enregistré comme middleware.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La route à faire correspondre, de manière exacte. Terminez-la par {0} pour faire aussi correspondre les chemins situés en dessous. Si une chaîne vide est utilisée, le handler est enregistré comme middleware."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

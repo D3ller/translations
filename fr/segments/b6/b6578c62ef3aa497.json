@@ -1,0 +1,14 @@
+{
+  "hash": "b6578c62ef3aa497",
+  "source": "Each nested island adds extra overhead, so be careful when nesting islands within other islands.",
+  "text": "Chaque island imbriquée ajoute une surcharge supplémentaire ; soyez donc prudent lorsque vous imbriquez des islands dans d'autres islands.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Chaque island imbriquée ajoute une surcharge supplémentaire ; soyez donc prudent lorsque vous imbriquez des islands dans d'autres islands."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "0a4fdbd9f2e77553",
+  "source": "Typing Runtime Config",
+  "text": "Typage de la runtime config",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Typage de la runtime config"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

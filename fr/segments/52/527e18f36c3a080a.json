@@ -1,0 +1,14 @@
+{
+  "hash": "527e18f36c3a080a",
+  "source": "Server components are currently experimental and in order to use them, you need to enable the 'component islands' feature in your nuxt.config:",
+  "text": "Les composants serveur sont actuellement expérimentaux et, pour les utiliser, vous devez activer la fonctionnalité « component islands » dans votre nuxt.config :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les composants serveur sont actuellement expérimentaux et, pour les utiliser, vous devez activer la fonctionnalité « component islands » dans votre nuxt.config :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "44135a9b3cacefdf",
+  "source": "You can overwrite some {0} defaults in your {1}",
+  "text": "Vous pouvez remplacer certaines valeurs par défaut de {0} dans votre {1}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez remplacer certaines valeurs par défaut de {0} dans votre {1}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

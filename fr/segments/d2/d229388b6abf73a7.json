@@ -1,0 +1,14 @@
+{
+  "hash": "d229388b6abf73a7",
+  "source": "Build Nuxt and prerender static routes",
+  "text": "Compile Nuxt et pré-rend les routes statiques",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Compile Nuxt et pré-rend les routes statiques"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

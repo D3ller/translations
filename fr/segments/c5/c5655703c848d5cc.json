@@ -1,0 +1,14 @@
+{
+  "hash": "c5655703c848d5cc",
+  "source": "If the type checker is killed, for example because it ran out of memory, {0} reports the signal and exits with {1} plus the signal number ({2} for {3}, {4} for {5}). To raise the heap limit yourself:",
+  "text": "Si le vérificateur de types est tué, par exemple parce qu'il a manqué de mémoire, {0} signale le signal reçu et se termine avec le code {1} plus le numéro du signal ({2} pour {3}, {4} pour {5}). Pour augmenter vous-même la limite de heap :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si le vérificateur de types est tué, par exemple parce qu'il a manqué de mémoire, {0} signale le signal reçu et se termine avec le code {1} plus le numéro du signal ({2} pour {3}, {4} pour {5}). Pour augmenter vous-même la limite de heap :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

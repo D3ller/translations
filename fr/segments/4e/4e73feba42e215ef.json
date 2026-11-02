@@ -1,0 +1,14 @@
+{
+  "hash": "4e73feba42e215ef",
+  "source": "Typing a Third-Party API",
+  "text": "Typer une API tierce",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Typer une API tierce"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

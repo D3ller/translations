@@ -1,0 +1,14 @@
+{
+  "hash": "d8941d2f171991bf",
+  "source": "If you enable {0} in your page component, ensure that the page has a single root element.",
+  "text": "Si vous activez {0} dans votre composant de page, assurez-vous que la page ne comporte qu'un seul élément racine.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous activez {0} dans votre composant de page, assurez-vous que la page ne comporte qu'un seul élément racine."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

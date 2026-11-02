@@ -1,0 +1,14 @@
+{
+  "hash": "81ec13e8ab327e67",
+  "source": "{0}PageSpeed Insights (PSI){/0} reports on the user experience of a page on both mobile and desktop devices, and provides suggestions on how that page may be improved.",
+  "text": "{0}PageSpeed Insights (PSI){/0} rend compte de l'expérience utilisateur d'une page sur mobile comme sur ordinateur, et propose des suggestions pour l'améliorer.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}PageSpeed Insights (PSI){/0} rend compte de l'expérience utilisateur d'une page sur mobile comme sur ordinateur, et propose des suggestions pour l'améliorer."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "de0c4c458c3bb322",
+  "source": "With the project-based setup, you might organize your tests as follows:",
+  "text": "Avec la configuration par projets, vous pouvez organiser vos tests comme suit :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Avec la configuration par projets, vous pouvez organiser vos tests comme suit :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

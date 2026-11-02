@@ -1,0 +1,14 @@
+{
+  "hash": "d0879411ee9cf47b",
+  "source": "Middleware handlers will run on every request before any other server route to add or check headers, log requests, or extend the event's request object.",
+  "text": "Les handlers de middleware s'exécutent à chaque requête, avant toute autre route serveur, pour ajouter ou vérifier des en-têtes, journaliser les requêtes ou étendre l'objet de requête de l'événement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les handlers de middleware s'exécutent à chaque requête, avant toute autre route serveur, pour ajouter ou vérifier des en-têtes, journaliser les requêtes ou étendre l'objet de requête de l'événement."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

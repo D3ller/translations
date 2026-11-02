@@ -1,0 +1,14 @@
+{
+  "hash": "bfd5c22173bf3d3f",
+  "source": "All options can be given a {0} or {1} value. These will be watched and new requests made automatically with any new values if they are updated.",
+  "text": "Toutes les options peuvent recevoir une valeur {0} ou {1}. Elles seront surveillées, et de nouvelles requêtes seront effectuées automatiquement avec les nouvelles valeurs si elles sont modifiées.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Toutes les options peuvent recevoir une valeur {0} ou {1}. Elles seront surveillées, et de nouvelles requêtes seront effectuées automatiquement avec les nouvelles valeurs si elles sont modifiées."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

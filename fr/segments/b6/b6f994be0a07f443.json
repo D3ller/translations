@@ -1,0 +1,14 @@
+{
+  "hash": "b6f994be0a07f443",
+  "source": "Nitro Builds as a Vite Environment",
+  "text": "Le build de Nitro en tant qu'environnement Vite",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le build de Nitro en tant qu'environnement Vite"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

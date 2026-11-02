@@ -1,0 +1,14 @@
+{
+  "hash": "d9912f0227f880d5",
+  "source": "or, to add a vite plugin to only one environment",
+  "text": "ou, pour ajouter un plugin vite à un seul environnement",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "ou, pour ajouter un plugin vite à un seul environnement"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

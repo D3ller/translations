@@ -1,0 +1,14 @@
+{
+  "hash": "2c26d5eecc45f80b",
+  "source": "{0} components are rendered only after being mounted. To access the rendered template using {1}, add {2} in the callback of the {3} hook.",
+  "text": "Les composants {0} sont rendus uniquement après avoir été montés. Pour accéder au template rendu avec {1}, ajoutez {2} dans le callback du hook {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les composants {0} sont rendus uniquement après avoir été montés. Pour accéder au template rendu avec {1}, ajoutez {2} dans le callback du hook {3}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

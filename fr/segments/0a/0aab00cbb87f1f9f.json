@@ -1,0 +1,14 @@
+{
+  "hash": "0aab00cbb87f1f9f",
+  "source": "If you're developing a Nuxt module and need to add Vite plugins, you should use the {0} utility:",
+  "text": "Si vous développez un module Nuxt et devez ajouter des plugins Vite, utilisez l'utilitaire {0} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous développez un module Nuxt et devez ajouter des plugins Vite, utilisez l'utilitaire {0} :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

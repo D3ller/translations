@@ -1,0 +1,14 @@
+{
+  "hash": "b39fb8bbb7dd20d6",
+  "source": "Listen on all network interfaces and allow any host to connect",
+  "text": "Écoute sur toutes les interfaces réseau et autorise la connexion de n'importe quel hôte",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Écoute sur toutes les interfaces réseau et autorise la connexion de n'importe quel hôte"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

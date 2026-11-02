@@ -1,0 +1,14 @@
+{
+  "hash": "ebedc274c6a14ed9",
+  "source": "An async component that is rendered *inside another async component* is instantiated only once its parent resolves, after the first chunk has streamed. Its SFC {0} misses the post-shell styles chunk and is emitted in the closing HTML instead, behind the component's own DOM. The browser paints that component unstyled until the final chunk arrives.",
+  "text": "Un composant asynchrone rendu *à l'intérieur d'un autre composant asynchrone* n'est instancié qu'une fois son parent résolu, après l'envoi du premier chunk. Son {0} de SFC manque le chunk de styles envoyé après le shell et est émis dans le HTML de fermeture, derrière le DOM du composant lui-même. Le navigateur affiche ce composant sans style jusqu'à l'arrivée du dernier chunk.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Un composant asynchrone rendu *à l'intérieur d'un autre composant asynchrone* n'est instancié qu'une fois son parent résolu, après l'envoi du premier chunk. Son {0} de SFC manque le chunk de styles envoyé après le shell et est émis dans le HTML de fermeture, derrière le DOM du composant lui-même. Le navigateur affiche ce composant sans style jusqu'à l'arrivée du dernier chunk."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

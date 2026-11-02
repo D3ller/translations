@@ -1,0 +1,14 @@
+{
+  "hash": "bfd7ff70984aa222",
+  "source": "Most of the syntax and functionality are the same for the global {0}NuxtLink{/0} component. If you have been using the shortcut {1} format, you should update this to use {2}.",
+  "text": "La plupart de la syntaxe et des fonctionnalités sont les mêmes pour le composant global {0}NuxtLink{/0}. Si vous utilisiez le format raccourci {1}, vous devez le mettre à jour pour utiliser {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La plupart de la syntaxe et des fonctionnalités sont les mêmes pour le composant global {0}NuxtLink{/0}. Si vous utilisiez le format raccourci {1}, vous devez le mettre à jour pour utiliser {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

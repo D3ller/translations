@@ -1,0 +1,14 @@
+{
+  "hash": "86081d3384a5ea73",
+  "source": "The {0} option (on {1} and on individual {2}) now accepts {3} or a filter function, so you can preload just the subsets your app needs.",
+  "text": "L'option {0} (sur {1} et sur chaque {2}) accepte désormais {3} ou une fonction de filtre, ce qui vous permet de ne précharger que les sous-ensembles dont votre application a besoin.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "L'option {0} (sur {1} et sur chaque {2}) accepte désormais {3} ou une fonction de filtre, ce qui vous permet de ne précharger que les sous-ensembles dont votre application a besoin."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

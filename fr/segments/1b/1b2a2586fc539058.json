@@ -1,0 +1,14 @@
+{
+  "hash": "1b2a2586fc539058",
+  "source": "Avoid Costly Plugin Setup",
+  "text": "Évitez les configurations de plugin coûteuses",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Évitez les configurations de plugin coûteuses"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

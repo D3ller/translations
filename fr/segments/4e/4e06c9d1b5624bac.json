@@ -1,0 +1,14 @@
+{
+  "hash": "4e06c9d1b5624bac",
+  "source": "Set up or open a Nuxt project in a dev container for a consistent development environment.",
+  "text": "Configurez ou ouvrez un projet Nuxt dans un dev container pour bénéficier d'un environnement de développement cohérent.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Configurez ou ouvrez un projet Nuxt dans un dev container pour bénéficier d'un environnement de développement cohérent."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

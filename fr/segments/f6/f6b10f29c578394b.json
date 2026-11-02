@@ -1,0 +1,14 @@
+{
+  "hash": "f6b10f29c578394b",
+  "source": "{0}: Whether to capture server process output instead of inheriting stdio. When {1} (default), server stdout/stderr is suppressed from the console and accessible via {2}. Set to {3} to restore the old inherit-stdio behavior (useful when debugging a test locally).",
+  "text": "{0} : indique s'il faut capturer la sortie du processus serveur au lieu d'hériter de stdio. Lorsque la valeur est {1} (par défaut), stdout/stderr du serveur n'est pas affiché dans la console et reste accessible via {2}. Définissez-la à {3} pour rétablir l'ancien comportement d'héritage de stdio (utile pour déboguer un test en local).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : indique s'il faut capturer la sortie du processus serveur au lieu d'hériter de stdio. Lorsque la valeur est {1} (par défaut), stdout/stderr du serveur n'est pas affiché dans la console et reste accessible via {2}. Définissez-la à {3} pour rétablir l'ancien comportement d'héritage de stdio (utile pour déboguer un test en local)."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

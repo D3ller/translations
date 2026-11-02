@@ -1,0 +1,14 @@
+{
+  "hash": "9bffc02ff4e90d58",
+  "source": "Nuxt Fonts processes all your CSS and does the following things automatically when it encounters a {0} declaration.",
+  "text": "Nuxt Fonts traite tout votre CSS et effectue automatiquement les opérations suivantes lorsqu'il rencontre une déclaration {0}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt Fonts traite tout votre CSS et effectue automatiquement les opérations suivantes lorsqu'il rencontre une déclaration {0}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

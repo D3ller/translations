@@ -1,0 +1,14 @@
+{
+  "hash": "2639c3d33184fff8",
+  "source": "Alternatively, you can use the {0} and {1} hooks to extend the TypeScript references for specific type contexts, or modify the TypeScript configuration similar to the example above.",
+  "text": "Vous pouvez aussi utiliser les hooks {0} et {1} pour étendre les références TypeScript de contextes de types spécifiques, ou modifier la configuration TypeScript de façon similaire à l'exemple ci-dessus.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous pouvez aussi utiliser les hooks {0} et {1} pour étendre les références TypeScript de contextes de types spécifiques, ou modifier la configuration TypeScript de façon similaire à l'exemple ci-dessus."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

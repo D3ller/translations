@@ -1,0 +1,14 @@
+{
+  "hash": "0a854f6b39fc6ba3",
+  "source": "Remove {0} from your dependencies (and from your modules in {1}).",
+  "text": "Supprimez {0} de vos dépendances (et de vos modules dans {1}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Supprimez {0} de vos dépendances (et de vos modules dans {1})."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "a2b49d038589a861",
+  "source": "Semver version of supported nuxt versions",
+  "text": "Version semver des versions de nuxt prises en charge",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Version semver des versions de nuxt prises en charge"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

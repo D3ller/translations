@@ -1,0 +1,14 @@
+{
+  "hash": "c0a28c4b4270a0b3",
+  "source": "In case you're new to 'alphabetical' numbering, remember that filenames are sorted as strings, not as numeric values. For example, {0} would come before {1}. This is why the example prefixes single digit numbers with {2}.",
+  "text": "Si la numérotation « alphabétique » est nouvelle pour vous, rappelez-vous que les noms de fichiers sont triés comme des chaînes de caractères, et non comme des valeurs numériques. Par exemple, {0} viendrait avant {1}. C'est pourquoi l'exemple préfixe les nombres à un chiffre avec {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si la numérotation « alphabétique » est nouvelle pour vous, rappelez-vous que les noms de fichiers sont triés comme des chaînes de caractères, et non comme des valeurs numériques. Par exemple, {0} viendrait avant {1}. C'est pourquoi l'exemple préfixe les nombres à un chiffre avec {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

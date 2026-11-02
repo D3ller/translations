@@ -1,0 +1,14 @@
+{
+  "hash": "d62d432d8f405d90",
+  "source": "As {0} is generated and not checked into version control, you'll need to generate that file before running your tests. Add {1} as a step before your tests, otherwise you'll see {2}",
+  "text": "Comme {0} est généré et n'est pas versionné, vous devrez générer ce fichier avant d'exécuter vos tests. Ajoutez {1} comme étape avant vos tests, sinon vous verrez {2}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Comme {0} est généré et n'est pas versionné, vous devrez générer ce fichier avant d'exécuter vos tests. Ajoutez {1} comme étape avant vos tests, sinon vous verrez {2}"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "ab1ce8f5039d9c5d",
+  "source": "however it is important to check {0} before redirecting or you",
+  "text": "cependant il est important de vérifier {0} avant de rediriger, sinon vous",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "cependant il est important de vérifier {0} avant de rediriger, sinon vous"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

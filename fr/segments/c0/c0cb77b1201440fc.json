@@ -1,0 +1,14 @@
+{
+  "hash": "c0cb77b1201440fc",
+  "source": "If set to a single boolean, that value applies to both server and client. Additionally, the {0} option is also available for both server and client. Available options for both client and server: - {1}: Generates sourcemaps and includes source references in the final bundle. - {2}: Does not generate any sourcemaps. - {3}: Generates sourcemaps but does not include references in the final bundle.",
+  "text": "Si une seule valeur booléenne est définie, elle s'applique à la fois au serveur et au client. De plus, l'option {0} est également disponible pour le serveur et le client. Options disponibles pour le client et le serveur : - {1} : génère des sourcemaps et inclut des références aux sources dans le bundle final. - {2} : ne génère aucune sourcemap. - {3} : génère des sourcemaps mais n'inclut pas de références dans le bundle final.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si une seule valeur booléenne est définie, elle s'applique à la fois au serveur et au client. De plus, l'option {0} est également disponible pour le serveur et le client. Options disponibles pour le client et le serveur : - {1} : génère des sourcemaps et inclut des références aux sources dans le bundle final. - {2} : ne génère aucune sourcemap. - {3} : génère des sourcemaps mais n'inclut pas de références dans le bundle final."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

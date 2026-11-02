@@ -1,0 +1,14 @@
+{
+  "hash": "56c74558450dbb41",
+  "source": "Handlers can return promises, which will be awaited ({0} and {1} are also supported)",
+  "text": "Les handlers peuvent retourner des promesses, qui seront attendues ({0} et {1} sont également pris en charge)",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les handlers peuvent retourner des promesses, qui seront attendues ({0} et {1} sont également pris en charge)"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

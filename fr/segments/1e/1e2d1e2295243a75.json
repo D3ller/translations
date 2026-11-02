@@ -1,0 +1,14 @@
+{
+  "hash": "1e2d1e2295243a75",
+  "source": "The command uninstalls the package and removes it from the {0} array in your {1}.",
+  "text": "La commande désinstalle le package et le retire du tableau {0} de votre {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La commande désinstalle le package et le retire du tableau {0} de votre {1}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

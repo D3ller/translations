@@ -1,0 +1,14 @@
+{
+  "hash": "7c772d92753d269b",
+  "source": "We would recommend you use a Vite plugin instead of {0}, {1} and {2}.",
+  "text": "Nous vous recommandons d'utiliser un plugin Vite à la place de {0}, {1} et {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nous vous recommandons d'utiliser un plugin Vite à la place de {0}, {1} et {2}."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

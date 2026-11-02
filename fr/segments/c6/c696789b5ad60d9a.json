@@ -1,0 +1,14 @@
+{
+  "hash": "c696789b5ad60d9a",
+  "source": "Route middleware does not run when rendering island components. Middleware is a routing concept that applies to pages, not components, and is not designed to control component rendering.",
+  "text": "Les middleware de route ne s'exécutent pas lors du rendu des composants îles. Le middleware est un concept de routage qui s'applique aux pages, pas aux composants, et n'est pas conçu pour contrôler le rendu des composants.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les middleware de route ne s'exécutent pas lors du rendu des composants îles. Le middleware est un concept de routage qui s'applique aux pages, pas aux composants, et n'est pas conçu pour contrôler le rendu des composants."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

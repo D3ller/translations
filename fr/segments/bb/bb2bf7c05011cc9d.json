@@ -1,0 +1,14 @@
+{
+  "hash": "bb2bf7c05011cc9d",
+  "source": "{0} is typed from the routes your server serves, so a response is typed by the handler that answers it, and a body, query or headers the handler validates are enforced on the call. A path built at runtime, an absolute URL or a {1} object resolves to {2}; naming the response type ({3}) overrides whatever Nuxt resolved.",
+  "text": "{0} est typé à partir des routes que votre serveur expose : une réponse est donc typée par le handler qui y répond, et un corps de requête, des paramètres de requête (query) ou des en-têtes validés par le handler sont appliqués lors de l'appel. Un chemin construit à l'exécution, une URL absolue ou un objet {1} se résout en {2} ; préciser le type de la réponse ({3}) remplace tout ce que Nuxt a résolu.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est typé à partir des routes que votre serveur expose : une réponse est donc typée par le handler qui y répond, et un corps de requête, des paramètres de requête (query) ou des en-têtes validés par le handler sont appliqués lors de l'appel. Un chemin construit à l'exécution, une URL absolue ou un objet {1} se résout en {2} ; préciser le type de la réponse ({3}) remplace tout ce que Nuxt a résolu."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

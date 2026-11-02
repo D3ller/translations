@@ -1,0 +1,14 @@
+{
+  "hash": "e90d76d1bec1c6c4",
+  "source": "In Nuxt 3 you can use a globally available {0} method that has the same API as {1}the Fetch API{/1} or {2} method which is using {3}unjs/ofetch{/3}. It has a number of benefits, including:",
+  "text": "Dans Nuxt 3, vous pouvez utiliser la méthode {0}, disponible globalement et dotée de la même API que {1}l'API Fetch{/1}, ou la méthode {2}, qui s'appuie sur {3}unjs/ofetch{/3}. Elle présente plusieurs avantages, notamment :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Dans Nuxt 3, vous pouvez utiliser la méthode {0}, disponible globalement et dotée de la même API que {1}l'API Fetch{/1}, ou la méthode {2}, qui s'appuie sur {3}unjs/ofetch{/3}. Elle présente plusieurs avantages, notamment :"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

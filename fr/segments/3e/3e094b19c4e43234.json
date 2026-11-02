@@ -1,0 +1,14 @@
+{
+  "hash": "3e094b19c4e43234",
+  "source": "This compiler macro works in both <script> and <script setup>",
+  "text": "Cette macro de compilation fonctionne à la fois dans <script> et <script setup>",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cette macro de compilation fonctionne à la fois dans <script> et <script setup>"
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

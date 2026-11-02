@@ -1,0 +1,14 @@
+{
+  "hash": "6e35d2c3be110b68",
+  "source": "Defaults to {0} ({1}see package{/1}).",
+  "text": "Vaut {0} par défaut ({1}voir le package{/1}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vaut {0} par défaut ({1}voir le package{/1})."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

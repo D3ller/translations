@@ -1,0 +1,14 @@
+{
+  "hash": "bc315edf9dc30054",
+  "source": "The first argument is the endpoint name (e.g. {0}). The second argument is a factory function that returns the mocked data.",
+  "text": "Le premier argument est le nom de l'endpoint (par ex. {0}). Le second argument est une fonction factory qui retourne les données mockées.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le premier argument est le nom de l'endpoint (par ex. {0}). Le second argument est une fonction factory qui retourne les données mockées."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

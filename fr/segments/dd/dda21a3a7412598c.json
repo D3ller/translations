@@ -1,0 +1,14 @@
+{
+  "hash": "dda21a3a7412598c",
+  "source": "After upgrading, most Nuxt 4 behaviors are now the default. However, some features can still be configured if you need to maintain backward compatibility during your migration.",
+  "text": "Après la mise à niveau, la plupart des comportements de Nuxt 4 sont désormais ceux par défaut. Cependant, certaines fonctionnalités peuvent encore être configurées si vous devez conserver la rétrocompatibilité pendant votre migration.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Après la mise à niveau, la plupart des comportements de Nuxt 4 sont désormais ceux par défaut. Cependant, certaines fonctionnalités peuvent encore être configurées si vous devez conserver la rétrocompatibilité pendant votre migration."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

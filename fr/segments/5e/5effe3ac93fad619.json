@@ -1,0 +1,14 @@
+{
+  "hash": "5effe3ac93fad619",
+  "source": "Called before mounting the app, called only on client side.",
+  "text": "Appelé avant le montage de l'application, uniquement côté client.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appelé avant le montage de l'application, uniquement côté client."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

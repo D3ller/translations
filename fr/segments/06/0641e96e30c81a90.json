@@ -1,0 +1,14 @@
+{
+  "hash": "0641e96e30c81a90",
+  "source": "An example v4 folder structure.",
+  "text": "Exemple de structure de dossiers de la v4.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Exemple de structure de dossiers de la v4."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}

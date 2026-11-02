@@ -1,0 +1,14 @@
+{
+  "hash": "e1fd3305a4757994",
+  "source": "This is one of the reasons why Nuxt provides a module system that makes it possible to extend the core. Nuxt modules are async functions that sequentially run when starting Nuxt in development mode using {0} or building a project for production with {1}. They can override templates, configure webpack loaders, add CSS libraries, and perform many other useful tasks.",
+  "text": "C'est l'une des raisons pour lesquelles Nuxt fournit un système de modules qui permet d'étendre le cœur du framework. Les modules Nuxt sont des fonctions asynchrones qui s'exécutent séquentiellement lors du démarrage de Nuxt en mode développement avec {0} ou lors de la compilation d'un projet pour la production avec {1}. Ils peuvent remplacer des templates, configurer des loaders webpack, ajouter des bibliothèques CSS et accomplir de nombreuses autres tâches utiles.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "C'est l'une des raisons pour lesquelles Nuxt fournit un système de modules qui permet d'étendre le cœur du framework. Les modules Nuxt sont des fonctions asynchrones qui s'exécutent séquentiellement lors du démarrage de Nuxt en mode développement avec {0} ou lors de la compilation d'un projet pour la production avec {1}. Ils peuvent remplacer des templates, configurer des loaders webpack, ajouter des bibliothèques CSS et accomplir de nombreuses autres tâches utiles."
+  },
+  "updatedAt": "2026-11-02T12:50:04.224Z"
+}
