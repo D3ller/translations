@@ -1,0 +1,11 @@
+rules:
+  - Address the reader as "vous" and use the imperative for instructions ("Ajoutez", "Créez").
+  - When the English "we" or "let's" walks the reader through a step, use "vous" or an impersonal form, not "nous"; keep "nous" only when the Nuxt team speaks.
+  - Use sentence case in headings, titles and labels, capitalising only the first word and proper nouns.
+  - Keep code identifiers, file and directory names, package names and configuration keys in English.
+  - Use French quotation marks (« ») for quoted prose.
+  - Keep list items of one list in the same grammatical form.
+# Narrow no-break space (U+202F), applied to machine output after translation.
+typography:
+  spaceBefore: ';:!?»'
+  spaceAfter: «
