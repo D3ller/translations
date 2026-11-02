@@ -18,7 +18,7 @@ The documents to translate are listed in [`sources.yml`](./sources.yml):
 
 ## Layout
 
-diglot splits each document into segments (a paragraph, a heading, a list item, a frontmatter field, a code comment). Links, inline code, components and HTML are replaced with numbered placeholders such as `{0}`, and a segment is identified by the hash of that placeholder skeleton. The same text in several pages or branches is one segment, translated once.
+diglot splits each document into segments (a paragraph, a heading, a list item, a frontmatter field, a code comment). Links, inline code, components and HTML are replaced with numbered placeholders such as `{0}`, and a segment is identified by the hash of that placeholder skeleton. The same text in several pages or branches is one segment and only needs to be translated once.
 
 | Path | Contents |
 | --- | --- |
