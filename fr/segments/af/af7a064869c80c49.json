@@ -1,0 +1,14 @@
+{
+  "hash": "af7a064869c80c49",
+  "source": "SPA Loading Template",
+  "text": "Template de chargement SPA",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Template de chargement SPA"
+  },
+  "updatedAt": "2026-11-02T20:43:55.792Z"
+}

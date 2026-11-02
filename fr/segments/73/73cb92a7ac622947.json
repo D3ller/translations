@@ -1,0 +1,14 @@
+{
+  "hash": "73cb92a7ac622947",
+  "source": "Vite Plugins",
+  "text": "Plugins Vite",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Plugins Vite"
+  },
+  "updatedAt": "2026-11-02T20:43:55.792Z"
+}

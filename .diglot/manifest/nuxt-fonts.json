@@ -2,7 +2,7 @@
   "version": 1,
   "source": "nuxt-fonts",
   "ref": "main",
-  "sha": "667cd540b5490294851e315ce723cf5a05a38087",
+  "sha": "d8c96c66929c57c28403f65c05029c3356a7cd12",
   "files": {
     "docs/.navigation.yml": [
       {"hash":"6a75f940451606f1","kind":"navigation","format":"plain","words":2,"skeleton":"Nuxt Fonts"}

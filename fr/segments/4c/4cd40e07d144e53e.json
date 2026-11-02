@@ -1,0 +1,14 @@
+{
+  "hash": "4cd40e07d144e53e",
+  "source": "LLMs.txt",
+  "text": "LLMs.txt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "LLMs.txt"
+  },
+  "updatedAt": "2026-11-02T20:43:55.792Z"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "45db4f394fe312fa",
+  "source": "The Nuxt CLI has built-in support for reading your {0} file in development, build and generate. But when you run your built server, **your {1} file will not be read**.",
+  "text": "La CLI de Nuxt prend en charge nativement la lecture de votre fichier {0} en développement, lors du build et lors de la génération. Mais lorsque vous exécutez votre serveur compilé, **votre fichier {1} ne sera pas lu**.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "3aaf73efda48021d",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La CLI de Nuxt prend en charge nativement la lecture de votre fichier {0} en développement, lors du build et lors de la génération. Mais lorsque vous exécutez votre serveur compilé, **votre fichier {1} ne sera pas lu**."
+  },
+  "updatedAt": "2026-11-02T20:43:55.792Z"
+}

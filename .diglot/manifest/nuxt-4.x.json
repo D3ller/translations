@@ -2,7 +2,7 @@
   "version": 1,
   "source": "nuxt-4.x",
   "ref": "4.x",
-  "sha": "6bc4a522fe2bfc4d07cabbf0b38772d0fdf7f1d8",
+  "sha": "b9a6b687018a87db72832620beec55bf46abd623",
   "files": {
     "docs/.navigation.yml": [
       {"hash":"e1f126038d5b2783","kind":"navigation","format":"plain","words":1,"skeleton":"Docs"}
@@ -1850,6 +1850,7 @@
     "docs/2.directory-structure/0.nuxt.md": [
       {"hash":"2f11c3f3d21e8aa6","kind":"frontmatter","format":"plain","words":1,"skeleton":".nuxt"},
       {"hash":"6e31b8d8f26b1799","kind":"frontmatter","format":"plain","words":12,"skeleton":"Nuxt uses the .nuxt/ directory in development to generate your Vue application."},
+      {"hash":"52248a4912bdd47a","kind":"frontmatter","format":"plain","words":1,"skeleton":".nuxt/"},
       {"hash":"fd572af3707dd115","kind":"component-slot","format":"markdown","words":18,"skeleton":"This directory should be added to your {0} file to avoid pushing the dev build output to your repository.","placeholders":["link"]},
       {"hash":"2ff33e59077c0ef1","kind":"paragraph","format":"markdown","words":20,"skeleton":"This directory is interesting if you want to learn more about the files Nuxt generates based on your directory structure."},
       {"hash":"8e274e4fdda13bba","kind":"paragraph","format":"markdown","words":21,"skeleton":"Nuxt also provides a Virtual File System (VFS) for modules to add templates to this directory without writing them to disk."},
@@ -1859,6 +1860,7 @@
     "docs/2.directory-structure/0.output.md": [
       {"hash":"2ca9fc148c5ec859","kind":"frontmatter","format":"plain","words":1,"skeleton":".output"},
       {"hash":"6d602082aad1de46","kind":"frontmatter","format":"plain","words":11,"skeleton":"Nuxt creates the .output/ directory when building your application for production."},
+      {"hash":"062cce970689d7c7","kind":"frontmatter","format":"plain","words":1,"skeleton":".output/"},
       {"hash":"cc5bb4b66e04b609","kind":"component-slot","format":"markdown","words":17,"skeleton":"This directory should be added to your {0} file to avoid pushing the build output to your repository.","placeholders":["link"]},
       {"hash":"b8ec8f32fc91d916","kind":"paragraph","format":"markdown","words":10,"skeleton":"Use this directory to deploy your Nuxt application to production."},
       {"hash":"9993c7f0a53244aa","kind":"component-slot","format":"markdown","words":16,"skeleton":"You should not touch any files inside since the whole directory will be re-created when running {0}.","placeholders":["link"]}
@@ -1870,6 +1872,7 @@
     "docs/2.directory-structure/1.app/1.assets.md": [
       {"hash":"ac17fedc1d9e7750","kind":"frontmatter","format":"plain","words":1,"skeleton":"assets"},
       {"hash":"41446e7cd5b2cef0","kind":"frontmatter","format":"plain","words":17,"skeleton":"The assets/ directory is used to add all the website's assets that the build tool will process."},
+      {"hash":"a7be62b09640b81d","kind":"frontmatter","format":"plain","words":1,"skeleton":"assets/"},
       {"hash":"f13c627ac3d044ee","kind":"paragraph","format":"markdown","words":9,"skeleton":"The directory usually contains the following types of files:"},
       {"hash":"51320620303a4d50","kind":"list-item","format":"markdown","words":4,"skeleton":"Stylesheets (CSS, SASS, etc.)"},
       {"hash":"3680fcad01f4bfc6","kind":"list-item","format":"markdown","words":1,"skeleton":"Fonts"},
@@ -1879,6 +1882,7 @@
     "docs/2.directory-structure/1.app/1.components.md": [
       {"hash":"cd61fd07c3072260","kind":"frontmatter","format":"plain","words":1,"skeleton":"components"},
       {"hash":"3390b02bc2f82a41","kind":"frontmatter","format":"plain","words":11,"skeleton":"The components/ directory is where you put all your Vue components."},
+      {"hash":"a426e54a9547d92d","kind":"frontmatter","format":"plain","words":1,"skeleton":"components/"},
       {"hash":"09f28e18dd6a49c8","kind":"paragraph","format":"markdown","words":21,"skeleton":"Nuxt automatically imports any components in this directory (along with components that are registered by any modules you may be using)."},
       {"hash":"3cb505b6b75894b7","kind":"code-label","format":"plain","words":2,"skeleton":"Directory Structure"},
       {"hash":"5fdb8e6f2ba98dd9","kind":"heading","format":"markdown","words":2,"skeleton":"Component Names"},
@@ -2001,6 +2005,7 @@
     "docs/2.directory-structure/1.app/1.composables.md": [
       {"hash":"036cc45cd0eef2b8","kind":"frontmatter","format":"plain","words":1,"skeleton":"composables"},
       {"hash":"65bf89cc386bc282","kind":"frontmatter","format":"plain","words":12,"skeleton":"Use the composables/ directory to auto-import your Vue composables into your application."},
+      {"hash":"6eb5911a82327769","kind":"frontmatter","format":"plain","words":1,"skeleton":"composables/"},
       {"hash":"8d59829c1e15afe1","kind":"heading","format":"markdown","words":1,"skeleton":"Usage"},
       {"hash":"79e6985d494aa022","kind":"paragraph","format":"markdown","words":4,"skeleton":"**Method 1:** Using named export"},
       {"hash":"9bc1ee40256a071b","kind":"paragraph","format":"markdown","words":4,"skeleton":"**Method 2:** Using default export"},
@@ -2031,6 +2036,7 @@
     "docs/2.directory-structure/1.app/1.layouts.md": [
       {"hash":"19eadc76c714e5db","kind":"frontmatter","format":"plain","words":1,"skeleton":"layouts"},
       {"hash":"0c817863a8869fca","kind":"frontmatter","format":"plain","words":13,"skeleton":"Nuxt provides a layouts framework to extract common UI patterns into reusable layouts."},
+      {"hash":"99f428b9060b7409","kind":"frontmatter","format":"plain","words":1,"skeleton":"layouts/"},
       {"hash":"4d649b7a1ccc3120","kind":"component-slot","format":"markdown","words":17,"skeleton":"For best performance, components placed in this directory will be automatically loaded via asynchronous import when used."},
       {"hash":"99d8a08689f45246","kind":"heading","format":"markdown","words":2,"skeleton":"Enable Layouts"},
       {"hash":"9a11bd50946431c0","kind":"paragraph","format":"markdown","words":7,"skeleton":"Layouts are enabled by adding {0} to your {1}:","placeholders":["link","link"]},
@@ -2090,6 +2096,7 @@
     "docs/2.directory-structure/1.app/1.middleware.md": [
       {"hash":"9030ed23ce9e6c57","kind":"frontmatter","format":"plain","words":1,"skeleton":"middleware"},
       {"hash":"fc54dd9da0f252df","kind":"frontmatter","format":"plain","words":12,"skeleton":"Nuxt provides middleware to run code before navigating to a particular route."},
+      {"hash":"23382bf838ec516a","kind":"frontmatter","format":"plain","words":1,"skeleton":"middleware/"},
       {"hash":"69b9341096f98c89","kind":"paragraph","format":"markdown","words":28,"skeleton":"Nuxt provides a customizable **route middleware** framework you can use throughout your application, ideal for extracting code that you want to run before navigating to a particular route."},
       {"hash":"05c3d45122fdfdcf","kind":"paragraph","format":"markdown","words":7,"skeleton":"There are three kinds of route middleware:"},
       {"hash":"3de4e0abc848df9f","kind":"list-item","format":"markdown","words":11,"skeleton":"Anonymous (or inline) route middleware are defined directly within the page."},
@@ -2162,6 +2169,7 @@
     "docs/2.directory-structure/1.app/1.pages.md": [
       {"hash":"55cbf2e243eceee5","kind":"frontmatter","format":"plain","words":1,"skeleton":"pages"},
       {"hash":"283fc84fab29b4c0","kind":"frontmatter","format":"plain","words":11,"skeleton":"Nuxt provides file-based routing to create routes within your web application."},
+      {"hash":"5ff1fdaaab79204f","kind":"frontmatter","format":"plain","words":1,"skeleton":"pages/"},
       {"hash":"d832db65e19e3df7","kind":"component-slot","format":"markdown","words":29,"skeleton":"To reduce your application's bundle size, this directory is **optional**, meaning that {0} won't be included if you only use {1}. To force the pages system, set {2} in {3} or have a {4}.","placeholders":["link","link","code","code","link"]},
       {"hash":"8d59829c1e15afe1","kind":"heading","format":"markdown","words":1,"skeleton":"Usage"},
       {"hash":"d53164b62c79ad19","kind":"paragraph","format":"markdown","words":16,"skeleton":"Pages are Vue components and can have any {0}valid extension{/0} that Nuxt supports (by default {1}, {2}, {3}, {4}, {5} or {6}).","placeholders":["link","code","code","code","code","code","code"]},
@@ -2269,6 +2277,7 @@
     "docs/2.directory-structure/1.app/1.plugins.md": [
       {"hash":"971164a4ecccb774","kind":"frontmatter","format":"plain","words":1,"skeleton":"plugins"},
       {"hash":"60788b20997f5b69","kind":"frontmatter","format":"plain","words":18,"skeleton":"Nuxt has a plugins system to use Vue plugins and more at the creation of your Vue application."},
+      {"hash":"05c4166eeab844d7","kind":"frontmatter","format":"plain","words":1,"skeleton":"plugins/"},
       {"hash":"5c9a2ebd3b13f17c","kind":"paragraph","format":"markdown","words":18,"skeleton":"Nuxt automatically reads the files in the {0} directory and loads them at the creation of the Vue application.","placeholders":["code"]},
       {"hash":"3ff344e7a6ff0ad7","kind":"component-slot","format":"markdown","words":14,"skeleton":"All plugins inside are auto-registered, you don't need to add them to your {0} separately.","placeholders":["code"]},
       {"hash":"80548ec32bab8252","kind":"component-slot","format":"markdown","words":20,"skeleton":"You can use {0} or {1} suffix in the file name to load a plugin only on the server or client side.","placeholders":["code","code"]},
@@ -2332,6 +2341,7 @@
     "docs/2.directory-structure/1.app/1.utils.md": [
       {"hash":"c844d82349c3029a","kind":"frontmatter","format":"plain","words":1,"skeleton":"utils"},
       {"hash":"06e7c7819e47aa57","kind":"frontmatter","format":"plain","words":12,"skeleton":"Use the utils/ directory to auto-import your utility functions throughout your application."},
+      {"hash":"3a16017df615cad2","kind":"frontmatter","format":"plain","words":1,"skeleton":"utils/"},
       {"hash":"582b81a00caf5c47","kind":"paragraph","format":"markdown","words":21,"skeleton":"The main purpose of the {0}{1} directory{/0} is to allow a semantic distinction between your Vue composables and other auto-imported utility functions.","placeholders":["link","code"]},
       {"hash":"8d59829c1e15afe1","kind":"heading","format":"markdown","words":1,"skeleton":"Usage"},
       {"hash":"79e6985d494aa022","kind":"paragraph","format":"markdown","words":4,"skeleton":"**Method 1:** Using named export"},
@@ -2345,6 +2355,7 @@
     "docs/2.directory-structure/1.app/3.app-config.md": [
       {"hash":"cf88d75fbc471ed5","kind":"frontmatter","format":"plain","words":3,"skeleton":"app.config.ts"},
       {"hash":"c7a7299ebbc9fed2","kind":"frontmatter","format":"plain","words":11,"skeleton":"Expose reactive configuration within your application with the App Config file."},
+      {"hash":"cf88d75fbc471ed5","kind":"frontmatter","format":"plain","words":3,"skeleton":"app.config.ts"},
       {"hash":"54aaf31fc43b50f9","kind":"paragraph","format":"markdown","words":33,"skeleton":"Nuxt provides an {0} config file to expose reactive configuration within your application with the ability to update it at runtime within lifecycle or using a nuxt plugin and editing it with HMR (hot-module-replacement).","placeholders":["code"]},
       {"hash":"06bffa07a8834372","kind":"paragraph","format":"markdown","words":16,"skeleton":"You can easily provide runtime app configuration using {0} file. It can have either of {1}, {2}, or {3} extensions.","placeholders":["code","code","code","code"]},
       {"hash":"b20b1d7638e9ebcf","kind":"component-slot","format":"markdown","words":16,"skeleton":"Do not put any secret values inside {0} file. It is exposed to the user client bundle.","placeholders":["code"]},
@@ -2391,6 +2402,7 @@
     "docs/2.directory-structure/1.app/3.app.md": [
       {"hash":"9f140a133e34228c","kind":"frontmatter","format":"plain","words":2,"skeleton":"app.vue"},
       {"hash":"47b8fb870fab09b1","kind":"frontmatter","format":"plain","words":12,"skeleton":"The app.vue file is the main component of your Nuxt application."},
+      {"hash":"9f140a133e34228c","kind":"frontmatter","format":"plain","words":2,"skeleton":"app.vue"},
       {"hash":"660f68812bcf891b","kind":"component-slot","format":"markdown","words":30,"skeleton":"If you have a {0} directory, the {1} file is optional. Nuxt will automatically include a default {2}, but you can still add your own to customize the structure and content as needed.","placeholders":["code","code","code"]},
       {"hash":"8d59829c1e15afe1","kind":"heading","format":"markdown","words":1,"skeleton":"Usage"},
       {"hash":"af137546c7014177","kind":"heading","format":"markdown","words":2,"skeleton":"Minimal Usage"},
@@ -2407,17 +2419,20 @@
     "docs/2.directory-structure/1.app/3.error.md": [
       {"hash":"922d2c4f96253160","kind":"frontmatter","format":"plain","words":2,"skeleton":"error.vue"},
       {"hash":"0b0fe7ceb77c333b","kind":"frontmatter","format":"plain","words":12,"skeleton":"The error.vue file is the error page in your Nuxt application."},
+      {"hash":"922d2c4f96253160","kind":"frontmatter","format":"plain","words":2,"skeleton":"error.vue"},
       {"hash":"d43035aa377a9a32","kind":"paragraph","format":"markdown","words":32,"skeleton":"During the lifespan of your application, some errors may appear unexpectedly at runtime. In such case, we can use the {0} file to override the default error files and display the error nicely.","placeholders":["code"]},
       {"hash":"53f85bbae1bde063","kind":"component-slot","format":"markdown","words":51,"skeleton":"Although it is called an 'error page' it's not a route and shouldn't be placed in your {0} directory. For the same reason, you shouldn't use {1} within this page. That being said, you can still use layouts in the error file, by utilizing the {2} component and specifying the name of the layout.","placeholders":["code","code","link"]},
       {"hash":"c77340a4b9a4c03e","kind":"paragraph","format":"markdown","words":15,"skeleton":"The error page has a single prop - {0} which contains an error for you to handle.","placeholders":["code"]},
       {"hash":"1bde301ef07f71b8","kind":"paragraph","format":"markdown","words":6,"skeleton":"The {0} object provides the following fields:","placeholders":["code"]},
       {"hash":"9ee4417914bd2e50","kind":"code-comment","format":"plain","words":4,"skeleton":"legacy/deprecated equivalent of {0}","placeholders":["code"]},
       {"hash":"9ee4417914bd2e50","kind":"code-comment","format":"plain","words":4,"skeleton":"legacy/deprecated equivalent of {0}","placeholders":["code"]},
+      {"hash":"8c1ace1dfe9a23a5","kind":"paragraph","format":"markdown","words":63,"skeleton":"When the error page is rendered on the server in production, it only receives the {0} and {1} of an error created with {2}. Any other error the app throws, such as a failed {3}, is marked {4} and reaches the error page and the payload with its status and a generic message. To show its details, catch it and throw a {5} with what the client may see.","placeholders":["code","code","code","code","code","code"]},
       {"hash":"63ce7afb43df508c","kind":"paragraph","format":"markdown","words":18,"skeleton":"If you have an error with custom fields they will be lost; you should assign them to {0} instead:","placeholders":["code"]}
     ],
     "docs/2.directory-structure/1.app/3.spa-loading-template.md": [
       {"hash":"acbabd63147e6e6c","kind":"frontmatter","format":"plain","words":2,"skeleton":"spa-loading-template.html"},
       {"hash":"40d393c7e4f95bb9","kind":"frontmatter","format":"plain","words":15,"skeleton":"The spa-loading-template.html file defines the loading screen shown while a client-side rendered page initializes."},
+      {"hash":"acbabd63147e6e6c","kind":"frontmatter","format":"plain","words":2,"skeleton":"spa-loading-template.html"},
       {"hash":"1cd1fc7fa92e9ef5","kind":"paragraph","format":"markdown","words":47,"skeleton":"When a page is rendered with {0} (either globally in {1} or for specific routes with {2}), the server returns an HTML shell without server-rendered application content. Your page content is not visible until the JavaScript bundle has been downloaded, Nuxt plugins have run, and the first page has rendered.","placeholders":["code","code","link"]},
       {"hash":"d70771e7c668f079","kind":"paragraph","format":"markdown","words":32,"skeleton":"You can fill that gap by adding an {0} file. Its contents are inserted directly into the HTML returned by the server, so they are visible before the Nuxt client bundle has loaded.","placeholders":["code"]},
       {"hash":"639b67d27bb90bdf","kind":"component-slot","format":"markdown","words":40,"skeleton":"This file is plain HTML that is rendered independently of Vue, so you cannot use Vue components or auto-imports in it. Include the styles needed by your loading screen directly in this file rather than relying on your application's stylesheets."},
@@ -2436,6 +2451,7 @@
     "docs/2.directory-structure/1.content.md": [
       {"hash":"b2f7ce65490e1c4f","kind":"frontmatter","format":"plain","words":1,"skeleton":"content"},
       {"hash":"395f02361487e836","kind":"frontmatter","format":"plain","words":12,"skeleton":"Use the content/ directory to create a file-based CMS for your application."},
+      {"hash":"26e15d974bf236c9","kind":"frontmatter","format":"plain","words":1,"skeleton":"content/"},
       {"hash":"81705cda73feb0f1","kind":"paragraph","format":"markdown","words":20,"skeleton":"{0}Nuxt Content{/0} reads the {1} directory in your project and parses {2}, {3}, {4} and {5} files to create a file-based CMS for your application.","placeholders":["link","code","code","code","code","code"]},
       {"hash":"05b4e0907d899cdc","kind":"list-item","format":"markdown","words":6,"skeleton":"Render your content with built-in components."},
       {"hash":"43be0c8378d48bf2","kind":"list-item","format":"markdown","words":7,"skeleton":"Query your content with a MongoDB-like API."},
@@ -2456,6 +2472,7 @@
     "docs/2.directory-structure/1.layers.md": [
       {"hash":"d4c93a328c7084d1","kind":"frontmatter","format":"plain","words":1,"skeleton":"layers"},
       {"hash":"d4b54024cc4e9fad","kind":"frontmatter","format":"plain","words":13,"skeleton":"Use the layers/ directory to organize and auto-register local layers within your application."},
+      {"hash":"c13542979519c62d","kind":"frontmatter","format":"plain","words":1,"skeleton":"layers/"},
       {"hash":"2f94989057df0283","kind":"paragraph","format":"markdown","words":30,"skeleton":"The {0} directory allows you to organize and share reusable code, components, composables, and configurations across your Nuxt application. Any layers within your project in the {1} directory will be automatically registered.","placeholders":["code","code"]},
       {"hash":"fecb82fb98f4257e","kind":"component-slot","format":"markdown","words":8,"skeleton":"The {0} directory auto-registration is available in Nuxt v3.12.0+.","placeholders":["code"]},
       {"hash":"f6441273fa211131","kind":"component-slot","format":"markdown","words":31,"skeleton":"Layers are ideal for organizing large codebases with **Domain-Driven Design (DDD)**, creating reusable **UI libraries** or **themes**, sharing **configuration presets** across projects, and separating concerns like **admin panels** or **feature modules**."},
@@ -2490,6 +2507,7 @@
     "docs/2.directory-structure/1.modules.md": [
       {"hash":"b36a599501872cd6","kind":"frontmatter","format":"plain","words":1,"skeleton":"modules"},
       {"hash":"43016128b3d24670","kind":"frontmatter","format":"plain","words":12,"skeleton":"Use the modules/ directory to automatically register local modules within your application."},
+      {"hash":"e48b03ff55cf0fa3","kind":"frontmatter","format":"plain","words":1,"skeleton":"modules/"},
       {"hash":"52df3e9c0e9f6049","kind":"paragraph","format":"markdown","words":16,"skeleton":"It is a good place to place any local modules you develop while building your application."},
       {"hash":"fe45856ef0bbd245","kind":"paragraph","format":"markdown","words":5,"skeleton":"The auto-registered files patterns are:"},
       {"hash":"a00644508de97e85","kind":"list-item","format":"markdown","words":0,"skeleton":"{0}","placeholders":["code"]},
@@ -2512,12 +2530,14 @@
     "docs/2.directory-structure/1.node_modules.md": [
       {"hash":"5a8eb8f34cca56cf","kind":"frontmatter","format":"plain","words":2,"skeleton":"node_modules"},
       {"hash":"7aa12ebda3f9b35a","kind":"frontmatter","format":"plain","words":14,"skeleton":"The package manager stores the dependencies of your project in the node_modules/ directory."},
+      {"hash":"0b87a67b4275c1b8","kind":"frontmatter","format":"plain","words":2,"skeleton":"node_modules/"},
       {"hash":"1750df04874deb48","kind":"paragraph","format":"markdown","words":17,"skeleton":"The package manager ({0} or {1} or {2} or {3} or {4}) creates this directory to store the dependencies of your project.","placeholders":["link","link","link","link","link"]},
       {"hash":"4cb3b86b23f4f9f3","kind":"component-slot","format":"markdown","words":16,"skeleton":"This directory should be added to your {0} file to avoid pushing the dependencies to your repository.","placeholders":["link"]}
     ],
     "docs/2.directory-structure/1.public.md": [
       {"hash":"4a99b882e223293d","kind":"frontmatter","format":"plain","words":1,"skeleton":"public"},
       {"hash":"523865c0aae298ec","kind":"frontmatter","format":"plain","words":11,"skeleton":"The public/ directory is used to serve your website's static assets."},
+      {"hash":"5c25992651ad3147","kind":"frontmatter","format":"plain","words":1,"skeleton":"public/"},
       {"hash":"4ff4ad2c9f01c02b","kind":"paragraph","format":"markdown","words":37,"skeleton":"Files contained within the {0} directory are served at the root and are not modified by the build process. This is suitable for files that have to keep their names (e.g. {1}) *or* likely won't change (e.g. {2}).","placeholders":["code","code","code"]},
       {"hash":"f74c16467d8ac5aa","kind":"code-label","format":"plain","words":2,"skeleton":"Directory structure"},
       {"hash":"5271eeb3a6f3c2d1","kind":"component-slot","format":"markdown","words":8,"skeleton":"This is known as the {0} directory in Nuxt 2.","placeholders":["component"]}
@@ -2525,6 +2545,7 @@
     "docs/2.directory-structure/1.server.md": [
       {"hash":"4fbff4dc0da0ef79","kind":"frontmatter","format":"plain","words":1,"skeleton":"server"},
       {"hash":"c3c997ba9af8d657","kind":"frontmatter","format":"plain","words":14,"skeleton":"The server/ directory is used to register API and server handlers to your application."},
+      {"hash":"4b945b5076e5d43c","kind":"frontmatter","format":"plain","words":1,"skeleton":"server/"},
       {"hash":"86880b725cc523c7","kind":"paragraph","format":"markdown","words":19,"skeleton":"Nuxt automatically scans files inside these directories to register API and server handlers with Hot Module Replacement (HMR) support."},
       {"hash":"3cb505b6b75894b7","kind":"code-label","format":"plain","words":2,"skeleton":"Directory Structure"},
       {"hash":"14a6601d2a46cb52","kind":"code-comment","format":"plain","words":3,"skeleton":"log all requests"},
@@ -2652,6 +2673,7 @@
     "docs/2.directory-structure/1.shared.md": [
       {"hash":"a35854af730a4948","kind":"frontmatter","format":"plain","words":1,"skeleton":"shared"},
       {"hash":"458645c8a00e4065","kind":"frontmatter","format":"plain","words":15,"skeleton":"Use the shared/ directory to share functionality between the Vue app and the Nitro server."},
+      {"hash":"8c847459524f58ab","kind":"frontmatter","format":"plain","words":1,"skeleton":"shared/"},
       {"hash":"ac71c9e09c64fa77","kind":"paragraph","format":"markdown","words":20,"skeleton":"The {0} directory allows you to share code that can be used in both the Vue app and the Nitro server.","placeholders":["code"]},
       {"hash":"2c54ffa656846c2d","kind":"component-slot","format":"markdown","words":7,"skeleton":"The {0} directory is available in Nuxt v3.14+.","placeholders":["code"]},
       {"hash":"8802ad4e2512a2b8","kind":"component-slot","format":"markdown","words":11,"skeleton":"Code in the {0} directory cannot import any Vue or Nitro code.","placeholders":["code"]},
@@ -2686,6 +2708,7 @@
     "docs/2.directory-structure/1.test.md": [
       {"hash":"0df684c24389db90","kind":"frontmatter","format":"plain","words":1,"skeleton":"test"},
       {"hash":"2d5f56f5cdb2bc3d","kind":"frontmatter","format":"plain","words":14,"skeleton":"Use the test/ directory to organize unit, Nuxt, and end-to-end tests for your application."},
+      {"hash":"e105aed664b93efa","kind":"frontmatter","format":"plain","words":1,"skeleton":"test/"},
       {"hash":"bf59c248cefba8af","kind":"paragraph","format":"markdown","words":29,"skeleton":"The {0} directory is the recommended place for your application tests. Nuxt does not scan it the way it does {1} or {2}; you choose the runner and layout yourself (typically with {3}).","placeholders":["code","code","code","link"]},
       {"hash":"8f2ef39e27f27044","kind":"paragraph","format":"markdown","words":5,"skeleton":"A common layout separates environments:"},
       {"hash":"f74c16467d8ac5aa","kind":"code-label","format":"plain","words":2,"skeleton":"Directory structure"},
@@ -2697,6 +2720,7 @@
     "docs/2.directory-structure/2.env.md": [
       {"hash":"98928e6dd7b5a6bb","kind":"frontmatter","format":"plain","words":1,"skeleton":".env"},
       {"hash":"0fd4702f481ef5a8","kind":"frontmatter","format":"plain","words":9,"skeleton":"A .env file specifies your build/dev-time environment variables."},
+      {"hash":"98928e6dd7b5a6bb","kind":"frontmatter","format":"plain","words":1,"skeleton":".env"},
       {"hash":"e2cf8ee6d595bd3a","kind":"component-slot","format":"markdown","words":15,"skeleton":"This file should be added to your {0} file to avoid pushing secrets to your repository.","placeholders":["link"]},
       {"hash":"9c5bda68ccaa9469","kind":"heading","format":"markdown","words":5,"skeleton":"Dev, Build and Generate Time"},
       {"hash":"b48560c187ecd831","kind":"paragraph","format":"markdown","words":14,"skeleton":"Nuxt CLI has built-in {0} support via {1}c12{/1} in development mode and when running {2} and {3}.","placeholders":["code","link","link","link"]},
@@ -2722,11 +2746,12 @@
       {"hash":"ac1d75a99e548b04","kind":"paragraph","format":"markdown","words":18,"skeleton":"Or you could pass the environment variables as arguments using the terminal. For example, on Linux or macOS:"},
       {"hash":"14a99b9f9dea3897","kind":"code-label","format":"plain","words":1,"skeleton":"Terminal"},
       {"hash":"c27718f26f393b3d","kind":"paragraph","format":"markdown","words":21,"skeleton":"Note that for a purely static site, it is not possible to set runtime configuration config after your project is prerendered."},
-      {"hash":"581b029500623bff","kind":"component-slot","format":"markdown","words":54,"skeleton":"If you want to use environment variables set at build time but do not care about updating these down the line (or only need to update them reactively *within* your app) then {0} may be a better choice. You can define {1} both within your {2} (using environment variables) and also within an {3} file in your project. {4}","placeholders":["code","code","code","code","component"]}
+      {"hash":"c49b8e9ff88b2dc4","kind":"component-slot","format":"markdown","words":54,"skeleton":"If you want to use environment variables set at build time but do not care about updating these down the line (or only need to update them reactively *within* your app) then {0} may be a better choice. You can define {1} both within your {2} (using environment variables) and also within an {3} file in your project.","placeholders":["code","code","code","code"]}
     ],
     "docs/2.directory-structure/2.gitignore.md": [
       {"hash":"2b611b75be85e44b","kind":"frontmatter","format":"plain","words":1,"skeleton":".gitignore"},
       {"hash":"2a4d393fd3f294ff","kind":"frontmatter","format":"plain","words":11,"skeleton":"A .gitignore file specifies intentionally untracked files that git should ignore."},
+      {"hash":"2b611b75be85e44b","kind":"frontmatter","format":"plain","words":1,"skeleton":".gitignore"},
       {"hash":"2ec7b93c40ebd6a3","kind":"paragraph","format":"markdown","words":10,"skeleton":"A {0} file specifies intentionally untracked files that git should ignore.","placeholders":["code"]},
       {"hash":"5681e01cfa73d2c1","kind":"prop","format":"plain","words":3,"skeleton":"the git documentation"},
       {"hash":"6de2b3df3492d0bd","kind":"paragraph","format":"markdown","words":13,"skeleton":"We recommend having a {0} file that has **at least** the following entries present:","placeholders":["code"]},
@@ -2737,6 +2762,7 @@
     "docs/2.directory-structure/2.nuxtignore.md": [
       {"hash":"9102ccc6533aba73","kind":"frontmatter","format":"plain","words":1,"skeleton":".nuxtignore"},
       {"hash":"b6bfc7a05577db89","kind":"frontmatter","format":"plain","words":16,"skeleton":"The .nuxtignore file lets Nuxt ignore files in your project’s root directory during the build phase."},
+      {"hash":"9102ccc6533aba73","kind":"frontmatter","format":"plain","words":1,"skeleton":".nuxtignore"},
       {"hash":"b315da9654021654","kind":"paragraph","format":"markdown","words":16,"skeleton":"The {0} file tells Nuxt to ignore files in your project’s root directory ({1}) during the build phase.","placeholders":["code","link"]},
       {"hash":"d7c4d2f58fecdb08","kind":"paragraph","format":"markdown","words":24,"skeleton":"It is subject to the same specification as {0} and {1} files, in which each line is a glob pattern indicating which files should be ignored.","placeholders":["link","code"]},
       {"hash":"afeea23c1b3bf6bc","kind":"component-slot","format":"markdown","words":8,"skeleton":"You can also configure {0}, {1} and {2} in your {3} file.","placeholders":["link","link","link","code"]},
@@ -2752,6 +2778,7 @@
     "docs/2.directory-structure/2.nuxtrc.md": [
       {"hash":"b698513bdb9fd898","kind":"frontmatter","format":"plain","words":1,"skeleton":".nuxtrc"},
       {"hash":"007fa623cb6817b1","kind":"frontmatter","format":"plain","words":13,"skeleton":"The .nuxtrc file allows you to define nuxt configurations in a flat syntax."},
+      {"hash":"b698513bdb9fd898","kind":"frontmatter","format":"plain","words":1,"skeleton":".nuxtrc"},
       {"hash":"7bc52d3d4488c812","kind":"paragraph","format":"markdown","words":16,"skeleton":"The {0} file can be used to configure Nuxt with a flat syntax. It is based on {1}.","placeholders":["code","link"]},
       {"hash":"c90afcfc07d627ed","kind":"component-slot","format":"markdown","words":5,"skeleton":"For more advanced configurations, use {0}.","placeholders":["link"]},
       {"hash":"8d59829c1e15afe1","kind":"heading","format":"markdown","words":1,"skeleton":"Usage"},
@@ -2771,6 +2798,7 @@
     "docs/2.directory-structure/3.nuxt-config.md": [
       {"hash":"5659c225c41529f3","kind":"frontmatter","format":"plain","words":3,"skeleton":"nuxt.config.ts"},
       {"hash":"7c4b83b0fa40e74f","kind":"frontmatter","format":"plain","words":11,"skeleton":"Nuxt can be easily configured with a single nuxt.config file."},
+      {"hash":"5659c225c41529f3","kind":"frontmatter","format":"plain","words":3,"skeleton":"nuxt.config.ts"},
       {"hash":"2fa80fa6588b9785","kind":"paragraph","format":"markdown","words":7,"skeleton":"The {0} file extension can either be {1}, {2} or {3}.","placeholders":["code","code","code","code"]},
       {"hash":"9521b16077ecfd32","kind":"code-comment","format":"plain","words":3,"skeleton":"My Nuxt config"},
       {"hash":"d4ee3fbc861363fe","kind":"component-slot","format":"markdown","words":6,"skeleton":"{0} helper is globally available without import.","placeholders":["code"]},
@@ -2782,12 +2810,14 @@
     "docs/2.directory-structure/3.package.md": [
       {"hash":"f8e6027bfd8a5c56","kind":"frontmatter","format":"plain","words":2,"skeleton":"package.json"},
       {"hash":"d837139d3c474418","kind":"frontmatter","format":"plain","words":13,"skeleton":"The package.json file contains all the dependencies and scripts for your application."},
+      {"hash":"f8e6027bfd8a5c56","kind":"frontmatter","format":"plain","words":2,"skeleton":"package.json"},
       {"hash":"5c0921e971798097","kind":"paragraph","format":"markdown","words":9,"skeleton":"The minimal {0} of your Nuxt application should looks like:","placeholders":["code"]},
       {"hash":"7b3708a02786b337","kind":"component-slot","format":"markdown","words":5,"skeleton":"Read more about the {0} file.","placeholders":["code"]}
     ],
     "docs/2.directory-structure/3.tsconfig.md": [
       {"hash":"24e296fc8ac2d780","kind":"frontmatter","format":"plain","words":2,"skeleton":"tsconfig.json"},
       {"hash":"3566e18e2e2f2d29","kind":"frontmatter","format":"plain","words":12,"skeleton":"Learn how Nuxt manages TypeScript configuration across different parts of your project."},
+      {"hash":"24e296fc8ac2d780","kind":"frontmatter","format":"plain","words":2,"skeleton":"tsconfig.json"},
       {"hash":"21b6e2d87dd75e0e","kind":"paragraph","format":"markdown","words":27,"skeleton":"Nuxt {0}automatically generates{/0} multiple TypeScript configuration files ({1}, {2}, {3} and {4}) that include recommended basic TypeScript configuration for your project, references to {5}auto-imports{/5}, {6}API route types{/6}, path aliases, and more.","placeholders":["link","code","code","code","code","link","link"]},
       {"hash":"75d0674accf07dca","kind":"paragraph","format":"markdown","words":14,"skeleton":"Your Nuxt project should include the following {0} file at the root of the project:","placeholders":["code"]},
       {"hash":"093c6c17770f7585","kind":"component-slot","format":"markdown","words":29,"skeleton":"We do not recommend modifying the contents of this file directly, as doing so could overwrite important settings that Nuxt or other modules rely on. Instead, extend it via {0}.","placeholders":["code"]},
@@ -2911,7 +2941,8 @@
       {"hash":"e731bb92e4c0d301","kind":"list-item","format":"markdown","words":69,"skeleton":"**Search Engine Optimization**: Indexing and updating the content delivered via client-side rendering takes more time than with a server-rendered HTML document. This is related to the performance drawback we discussed, as search engine crawlers won't wait for the interface to be fully rendered on their first try to index the page. Your content will take more time to show and update in search results pages with pure client-side rendering."},
       {"hash":"ef612290bf964e45","kind":"paragraph","format":"markdown","words":41,"skeleton":"Client-side rendering is a good choice for heavily interactive **web applications** that don't need indexing or whose users visit frequently. It can leverage browser caching to skip the download phase on subsequent visits, such as **SaaS, back-office applications, or online games**."},
       {"hash":"88fda5375e73a113","kind":"paragraph","format":"markdown","words":10,"skeleton":"You can enable client-side only rendering with Nuxt in your {0}:","placeholders":["code"]},
-      {"hash":"2600b9faa61865d3","kind":"component-slot","format":"markdown","words":30,"skeleton":"If you do use {0}, you should also place an HTML file in {1} with some HTML you would like to use to render a loading screen until your app is ready. {2}","placeholders":["code","code","component"]},
+      {"hash":"8e2bf81e4438c641","kind":"component-slot","format":"markdown","words":30,"skeleton":"If you do use {0}, you should also place an HTML file in {1} with some HTML you would like to use to render a loading screen until your app is ready.","placeholders":["code","code"]},
+      {"hash":"af7a064869c80c49","kind":"prop","format":"plain","words":3,"skeleton":"SPA Loading Template"},
       {"hash":"8ab260ce6b1b415e","kind":"prop","format":"plain","words":13,"skeleton":"Watch a video from Alexander Lichter about Building a plain SPA with Nuxt"},
       {"hash":"d9ffa44da980801e","kind":"heading","format":"markdown","words":5,"skeleton":"Deploying a Static Client-Rendered App"},
       {"hash":"047aceb0238c9ae7","kind":"paragraph","format":"markdown","words":26,"skeleton":"If you deploy your app to {0}static hosting{/0} with the {1} or {2} commands, then by default, Nuxt will render every page as a separate static HTML file.","placeholders":["link","code","code"]},
@@ -3259,7 +3290,7 @@
       {"hash":"389452eb6d488544","kind":"list-item","format":"markdown","words":12,"skeleton":"props may be visible in server access logs, CDN caches and {0} headers","placeholders":["code"]},
       {"hash":"bf4ba65b86506327","kind":"component-slot","format":"markdown","words":82,"skeleton":"Because props come from the request (URL query or body), treat them as untrusted input. Nuxt rejects the props most likely to leak through unintentionally: a top-level {0} that the island does not declare (an undeclared prop falls through as an attribute onto the island's root), and, with {1} enabled, a {2} anywhere in the props. Beyond that, avoid feeding props you have not validated into dynamic component resolution ({3}, {4}, {5}, or a polymorphic {6} / {7} prop), since a string can resolve to any registered component or HTML element.","placeholders":["code","code","code","code","code","code","code","code"]},
       {"hash":"5ac54f3235f76366","kind":"component-slot","format":"markdown","words":46,"skeleton":"Treating props as untrusted includes their size: validate or clamp numeric and array props before using them to drive a {0} or other work that grows with their value. Nuxt caps numeric {1} sources at 10,000 iterations in island renders, but only as a safety net, not as validation.","placeholders":["code","code"]},
-      {"hash":"a7f14ad588cd00df","kind":"component-slot","format":"markdown","words":44,"skeleton":"Props a component does not declare fall through as attributes onto its single root element, so an island whose root is a polymorphic component (e.g. from {0} / {1}) can receive attributes you did not bind. Set {2} on such islands, or declare the props you accept.","placeholders":["code","code","code"]},
+      {"hash":"302a6b8df65d3697","kind":"component-slot","format":"markdown","words":82,"skeleton":"Props a component does not declare fall through as attributes onto its single root element, so an island whose root is a polymorphic component (e.g. from {0} / {1}) can receive attributes you did not bind. Set {2} on such islands, or declare the props you accept. As with any Vue component, fall-through attributes include event handler attributes such as {3} or {4}, which the browser runs as JavaScript, so don't spread an object you don't control (such as {5}) onto a server component or into the {6} of {7}.","placeholders":["code","code","code","code","code","code","code","code"]},
       {"hash":"33934b2129377ccc","kind":"component-slot","format":"markdown","words":22,"skeleton":"To switch components based on caller input, map a discriminator through an allowlist of imported components rather than passing the raw prop:"},
       {"hash":"31f942474a98ed68","kind":"paragraph","format":"markdown","words":21,"skeleton":"Changing an island's props triggers a network request that re-renders the component on the server and updates its HTML in place."},
       {"hash":"bb689c08109b43e1","kind":"component-slot","format":"markdown","words":12,"skeleton":"Read the full {0} API documentation, including props, slots, events and known limitations.","placeholders":["code"]},
@@ -3431,6 +3462,7 @@
     "docs/3.guide/2.best-practices/accessibility.md": [
       {"hash":"f4eea4aaaa762f44","kind":"frontmatter","format":"plain","words":2,"skeleton":"Nuxt accessibility"},
       {"hash":"f9861bb2c4252c18","kind":"frontmatter","format":"plain","words":7,"skeleton":"Best practices for accessibility in Nuxt apps."},
+      {"hash":"b59f79dbfa152e77","kind":"frontmatter","format":"plain","words":1,"skeleton":"Accessibility"},
       {"hash":"347e5a09f9eb8e72","kind":"paragraph","format":"markdown","words":42,"skeleton":"Most of what makes an app accessible is not specific to Nuxt: color contrast, form semantics, and ARIA work the same here as in any Vue or plain HTML application, and the {0}resources{/0} at the end of this guide cover them well.","placeholders":["link"]},
       {"hash":"cbd3d75fdaeddec3","kind":"paragraph","format":"markdown","words":61,"skeleton":"What Nuxt does change is navigation. Once your app has hydrated, it routes on the client, so the document is never reloaded and the browser no longer announces a new page or resets focus for you. Nuxt ships with features that fill some of that gap, and a few conventions cover the rest. This guide outlines best practices for handling that."},
       {"hash":"c41b3dc9e2402343","kind":"component-slot","format":"markdown","words":23,"skeleton":"{0} surfaces accessibility problems in your components while you develop, alongside the practices below. It is in alpha, so expect its API to change.","placeholders":["link"]},
@@ -3466,6 +3498,7 @@
     "docs/3.guide/2.best-practices/devcontainers.md": [
       {"hash":"e071550849c9d691","kind":"frontmatter","format":"plain","words":2,"skeleton":"Dev Containers"},
       {"hash":"4e06c9d1b5624bac","kind":"frontmatter","format":"plain","words":16,"skeleton":"Set up or open a Nuxt project in a dev container for a consistent development environment."},
+      {"hash":"e071550849c9d691","kind":"frontmatter","format":"plain","words":2,"skeleton":"Dev Containers"},
       {"hash":"87121ee8346b8061","kind":"heading","format":"markdown","words":5,"skeleton":"Setting Up a Dev Container"},
       {"hash":"44d369bb5d8bd235","kind":"paragraph","format":"markdown","words":21,"skeleton":"If you're starting a new Nuxt project and want to develop inside a dev container, you can add the configuration yourself."},
       {"hash":"3f6bfff7fcec358b","kind":"component-slot","format":"markdown","words":5,"skeleton":"Read more about dev containers"},
@@ -3501,6 +3534,7 @@
     "docs/3.guide/2.best-practices/hydration.md": [
       {"hash":"05b74e1eab449546","kind":"frontmatter","format":"plain","words":3,"skeleton":"Nuxt and Hydration"},
       {"hash":"6c5a8f975084c738","kind":"frontmatter","format":"plain","words":6,"skeleton":"Why fixing hydration issues is important"},
+      {"hash":"05b74e1eab449546","kind":"frontmatter","format":"plain","words":3,"skeleton":"Nuxt and Hydration"},
       {"hash":"801212a345c27256","kind":"paragraph","format":"markdown","words":11,"skeleton":"When developing, you may face hydration issues. Don't ignore those warnings."},
       {"hash":"9ad79e018d87c91e","kind":"heading","format":"markdown","words":7,"skeleton":"Why Is It Important to Fix Them?"},
       {"hash":"5cb626c74e49ef30","kind":"paragraph","format":"markdown","words":17,"skeleton":"Hydration mismatches are not just warnings - they are indicators of serious problems that can break your application:"},
@@ -3549,6 +3583,7 @@
     "docs/3.guide/2.best-practices/performance.md": [
       {"hash":"c6b8ce05240b21dc","kind":"frontmatter","format":"plain","words":2,"skeleton":"Nuxt performance"},
       {"hash":"1d625fa7204e4fab","kind":"frontmatter","format":"plain","words":8,"skeleton":"Best practices for improving performance of Nuxt apps."},
+      {"hash":"fe9cba32ee0f1cef","kind":"frontmatter","format":"plain","words":2,"skeleton":"Nuxt Performance"},
       {"hash":"e0f56cb4c0d7aea0","kind":"paragraph","format":"markdown","words":45,"skeleton":"Nuxt comes with built-in features designed to improve your application's performance and contribute to better {0}Core Web Vitals{/0}. There are also multiple Nuxt core modules that assist in improving performance in specific areas. This guide outlines best practices to optimize performance of your Nuxt application.","placeholders":["link"]},
       {"hash":"a3398c385fced405","kind":"heading","format":"markdown","words":2,"skeleton":"Built-in Features"},
       {"hash":"01982d7ef25ef536","kind":"paragraph","format":"markdown","words":24,"skeleton":"Nuxt offers several built-in features that help you optimize performance of your website. Understanding how these features work is crucial for achieving blazingly-fast performance."},
@@ -3675,6 +3710,7 @@
     "docs/3.guide/2.best-practices/plugins.md": [
       {"hash":"a602a5e7c78902a0","kind":"frontmatter","format":"plain","words":2,"skeleton":"Nuxt Plugins"},
       {"hash":"24a5ba46df95c17a","kind":"frontmatter","format":"plain","words":6,"skeleton":"Best practices when using Nuxt plugins."},
+      {"hash":"a602a5e7c78902a0","kind":"frontmatter","format":"plain","words":2,"skeleton":"Nuxt Plugins"},
       {"hash":"a0f31d0001994b4e","kind":"paragraph","format":"markdown","words":30,"skeleton":"Plugins in Nuxt allow you to extend your application with additional functionality. However, improper use can lead to performance bottlenecks. This guide outlines best practices to optimize your Nuxt plugins."},
       {"hash":"1b2a2586fc539058","kind":"heading","format":"markdown","words":4,"skeleton":"Avoid Costly Plugin Setup"},
       {"hash":"e8291a46ecda4a55","kind":"paragraph","format":"markdown","words":38,"skeleton":"A large number of plugins can cause performance issues, especially if they require expensive computations or take too long to initialize. Since plugins run during the hydration phase, inefficient setups can block rendering and degrade the user experience."},
@@ -3690,6 +3726,7 @@
     "docs/3.guide/3.ai/1.mcp.md": [
       {"hash":"12689977a5742201","kind":"frontmatter","format":"plain","words":3,"skeleton":"Nuxt MCP Server"},
       {"hash":"ee2642127278c2ca","kind":"frontmatter","format":"plain","words":12,"skeleton":"Use Nuxt documentation in your AI assistants with Model Context Protocol support."},
+      {"hash":"12b0012f39a545ef","kind":"frontmatter","format":"plain","words":2,"skeleton":"MCP Server"},
       {"hash":"019112c0a90a57fc","kind":"heading","format":"markdown","words":3,"skeleton":"What Is MCP?"},
       {"hash":"6ad85148af77f89c","kind":"paragraph","format":"markdown","words":43,"skeleton":"MCP (Model Context Protocol) is a standardized protocol that enables AI assistants to access external data sources and tools. Nuxt provides an MCP server that allows AI assistants like Claude Code, Cursor, and Windsurf to access documentation, blog posts, and deployment guides directly."},
       {"hash":"e1fca3ebe3c10128","kind":"paragraph","format":"markdown","words":23,"skeleton":"The MCP server provides structured access to the Nuxt documentation, making it easy for AI tools to understand and assist with Nuxt development."},
@@ -3832,6 +3869,7 @@
     "docs/3.guide/3.ai/2.llms-txt.md": [
       {"hash":"5af875b24dbe07f7","kind":"frontmatter","format":"plain","words":3,"skeleton":"Nuxt LLMs.txt"},
       {"hash":"9d2057c439fef0ef","kind":"frontmatter","format":"plain","words":21,"skeleton":"How to get AI tools like Cursor, Windsurf, GitHub Copilot, ChatGPT, and Claude to understand Nuxt concepts, APIs, and best practices."},
+      {"hash":"4cd40e07d144e53e","kind":"frontmatter","format":"plain","words":2,"skeleton":"LLMs.txt"},
       {"hash":"60f4c80dfedb5567","kind":"heading","format":"markdown","words":4,"skeleton":"What Is LLMs.txt?"},
       {"hash":"8ba6efb2162fef10","kind":"paragraph","format":"markdown","words":39,"skeleton":"LLMs.txt is a structured documentation format specifically designed for large language models (LLMs). Nuxt provides LLMs.txt files that contain comprehensive information about the framework, making it easy for AI tools to understand and assist with Nuxt development."},
       {"hash":"6930900cf03e478e","kind":"paragraph","format":"markdown","words":19,"skeleton":"These files are optimized for AI consumption and contain structured information about concepts, APIs, usage patterns, and best practices."},
@@ -4093,6 +4131,7 @@
       {"hash":"ee424a38324e4883","kind":"heading","format":"markdown","words":3,"skeleton":"Add Virtual Files"},
       {"hash":"ac55039c43623cd8","kind":"paragraph","format":"markdown","words":21,"skeleton":"If you need to add a virtual file that can be imported into the user's app, you can use the {0} utility.","placeholders":["code"]},
       {"hash":"95439eb3df4527eb","kind":"code-comment","format":"plain","words":18,"skeleton":"The file is added to Nuxt's internal virtual file system and can be imported from '#build/my-module-feature.mjs'"},
+      {"hash":"16167f971b47f04f","kind":"paragraph","format":"markdown","words":43,"skeleton":"The example uses {0} to skip regeneration when an existing file is edited in development. Only use this when the output does not depend on watched file contents. For templates that read those contents, declare named dependencies or a predicate to avoid stale output.","placeholders":["code"]},
       {"hash":"9151a148a4cccf0d","kind":"paragraph","format":"markdown","words":9,"skeleton":"For the server, you should use the {0} utility instead.","placeholders":["code"]},
       {"hash":"61510461f2786f12","kind":"code-comment","format":"plain","words":20,"skeleton":"The file is added to Nitro's virtual file system and can be imported in the server code from 'my-server-module.mjs'"},
       {"hash":"2590195633ae3469","kind":"heading","format":"markdown","words":3,"skeleton":"Update Virtual Files"},
@@ -4386,6 +4425,7 @@
     "docs/3.guide/5.recipes/2.vite-plugin.md": [
       {"hash":"3d3bf0629b2a6ec7","kind":"frontmatter","format":"plain","words":5,"skeleton":"Using Vite Plugins in Nuxt"},
       {"hash":"99e5fa7cb062ecf1","kind":"frontmatter","format":"plain","words":10,"skeleton":"Learn how to integrate Vite plugins into your Nuxt project."},
+      {"hash":"73cb92a7ac622947","kind":"frontmatter","format":"plain","words":2,"skeleton":"Vite Plugins"},
       {"hash":"a7d803a89e460566","kind":"paragraph","format":"markdown","words":17,"skeleton":"While Nuxt modules offer extensive functionality, sometimes a specific Vite plugin might meet your needs more directly."},
       {"hash":"48ce57f9712bf9ad","kind":"paragraph","format":"markdown","words":13,"skeleton":"First, we need to install the Vite plugin, for our example, we'll use {0}:","placeholders":["code"]},
       {"hash":"cced44e4da83d2b1","kind":"paragraph","format":"markdown","words":11,"skeleton":"Next, we need to import and add it to our {0} file:","placeholders":["link"]},
@@ -4401,6 +4441,7 @@
     "docs/3.guide/5.recipes/3.custom-usefetch.md": [
       {"hash":"057092d5c25d9e8c","kind":"frontmatter","format":"plain","words":4,"skeleton":"Custom useFetch in Nuxt"},
       {"hash":"5c1555255924097d","kind":"frontmatter","format":"plain","words":13,"skeleton":"How to create a custom fetcher for calling your external API in Nuxt."},
+      {"hash":"3b15151978454c76","kind":"frontmatter","format":"plain","words":2,"skeleton":"Custom useFetch"},
       {"hash":"c53b8cd063a3eec2","kind":"paragraph","format":"markdown","words":29,"skeleton":"When working with Nuxt, you might be making the frontend and fetching an external API, and you might want to set some default options for fetching from your API."},
       {"hash":"e9e5a22cf9af19f0","kind":"paragraph","format":"markdown","words":38,"skeleton":"The {0} utility function (used by the {1} composable) is intentionally not globally configurable. This is important so that fetching behavior throughout your application remains consistent, and other integrations (like modules) can rely on the behavior of core utilities like {2}.","placeholders":["link","link","code"]},
       {"hash":"20c5a4a61a3c306c","kind":"paragraph","format":"markdown","words":23,"skeleton":"However, Nuxt provides a way to create a custom fetcher for your API (or multiple fetchers if you have multiple APIs to call)."},
@@ -4512,6 +4553,7 @@
     "docs/3.guide/6.going-further/1.events.md": [
       {"hash":"d6f02cccdb49a095","kind":"frontmatter","format":"plain","words":3,"skeleton":"Creating Custom Events"},
       {"hash":"26ae156d60301746","kind":"frontmatter","format":"plain","words":9,"skeleton":"Nuxt provides a powerful event system powered by hookable."},
+      {"hash":"2e4c9636fd44fd44","kind":"frontmatter","format":"plain","words":2,"skeleton":"Custom Events"},
       {"hash":"c36e84af849dbde7","kind":"paragraph","format":"markdown","words":81,"skeleton":"Using events is a great way to decouple your application and allow for more flexible and modular communication between different parts of your code. Events can have multiple listeners that do not depend on each other. For example, you may wish to send an email to your user each time an order has shipped. Instead of coupling your order processing code to your email code, you can emit an event which a listener can receive and use to dispatch an email."},
       {"hash":"8c0c1b3728c15c4c","kind":"paragraph","format":"markdown","words":20,"skeleton":"The Nuxt event system is powered by {0}unjs/hookable{/0}, which is the same library that powers the Nuxt hooks system.","placeholders":["link"]},
       {"hash":"ddbc0c8a53c585e1","kind":"heading","format":"markdown","words":4,"skeleton":"Creating Events and Listeners"},
@@ -4541,8 +4583,7 @@
       {"hash":"9f2872ea8e004bae","kind":"heading","format":"markdown","words":1,"skeleton":"asyncEntry"},
       {"hash":"5f5212eca8f0a274","kind":"paragraph","format":"markdown","words":15,"skeleton":"Enables generation of an async entry point for the Vue bundle, aiding module federation support."},
       {"hash":"cc03b098feb2ee41","kind":"heading","format":"markdown","words":1,"skeleton":"externalVue"},
-      {"hash":"f501dedba9f42df8","kind":"paragraph","format":"markdown","words":14,"skeleton":"Externalizes {0}, {1} and {2} when building, so that server dependencies importing them share the same copy.","placeholders":["code","code","code"]},
-      {"hash":"4171f328581088b5","kind":"paragraph","format":"markdown","words":18,"skeleton":"In production builds, the Vue runtime is bundled and emitted as the {0} and {1} packages in the server output.","placeholders":["code","code"]},
+      {"hash":"e1d2175dbc40f10e","kind":"paragraph","format":"markdown","words":4,"skeleton":"Externalizes {0}, {1} and {2} when building.","placeholders":["code","code","code"]},
       {"hash":"e83714bd8d45e8f4","kind":"paragraph","format":"markdown","words":12,"skeleton":"This flag is enabled by default, but you can disable this feature:"},
       {"hash":"795c808df97afd0f","kind":"component-slot","format":"markdown","words":10,"skeleton":"This feature will likely be removed in a near future."},
       {"hash":"8db6b8f42c483e48","kind":"heading","format":"markdown","words":1,"skeleton":"extractAsyncDataHandlers"},
@@ -4965,7 +5006,7 @@
       {"hash":"2098769aa98490af","kind":"paragraph","format":"markdown","words":25,"skeleton":"Instead of passing non-serializable objects or functions into your application from your {0}, you can place this code in a Nuxt or Nitro plugin or middleware.","placeholders":["code"]},
       {"hash":"1124ecc667c5f22e","kind":"heading","format":"markdown","words":2,"skeleton":"Environment Variables"},
       {"hash":"6a0f78dab346fe4a","kind":"paragraph","format":"markdown","words":12,"skeleton":"The most common way to provide configuration is by using environment variables."},
-      {"hash":"3aaf73efda48021d","kind":"component-slot","format":"markdown","words":28,"skeleton":"The Nuxt CLI has built-in support for reading your {0} file in development, build and generate. But when you run your built server, **your {1} file will not be read**. {2}","placeholders":["code","code","component"]},
+      {"hash":"45db4f394fe312fa","kind":"component-slot","format":"markdown","words":28,"skeleton":"The Nuxt CLI has built-in support for reading your {0} file in development, build and generate. But when you run your built server, **your {1} file will not be read**.","placeholders":["code","code"]},
       {"hash":"2cf2ea2f8edb5974","kind":"paragraph","format":"markdown","words":12,"skeleton":"Runtime config values are **automatically replaced by matching environment variables at runtime**."},
       {"hash":"5f7acdfb6266c257","kind":"paragraph","format":"markdown","words":5,"skeleton":"There are two key requirements:"},
       {"hash":"9db33b5a67626705","kind":"list-item","format":"markdown","words":22,"skeleton":"Custom runtime config variables must be defined in your {0}. This ensures that arbitrary environment variables are not exposed to your application code.","placeholders":["code"]},
@@ -8008,12 +8049,12 @@
       {"hash":"a00644508de97e85","kind":"table-cell","format":"markdown","words":0,"skeleton":"{0}","placeholders":["code"]},
       {"hash":"a00644508de97e85","kind":"table-cell","format":"markdown","words":0,"skeleton":"{0}","placeholders":["code"]},
       {"hash":"a00644508de97e85","kind":"table-cell","format":"markdown","words":0,"skeleton":"{0}","placeholders":["code"]},
-      {"hash":"680e9b76fbd542db","kind":"table-cell","format":"markdown","words":80,"skeleton":"The watched inputs the output of the template can depend on, beyond {0} and the resolved structure of the app. Set to {1} if the template never reads the contents of a watched file, so that Nuxt can skip recompiling it in dev mode when a file changes without any file being added or removed. List well-known keys if the template reads those sources, or pass a function to decide per change. A template that declares nothing is regenerated on every change.","placeholders":["code","code"]},
+      {"hash":"b2828720197075b8","kind":"table-cell","format":"markdown","words":96,"skeleton":"The watched inputs the output of the template can depend on, beyond {0} and the resolved structure of the app. Set to {1} if the template never reads the contents of a watched file, so that Nuxt can skip recompiling it in dev mode when a file changes without any file being added or removed. List well-known keys if the template reads those sources, or pass a function to decide per change. A template that declares nothing is regenerated on every change, unless it has a {2}, in which case it is regenerated only when that source file changes.","placeholders":["code","code","code"]},
       {"hash":"d029f87e3d80f8fd","kind":"heading","format":"markdown","words":1,"skeleton":"Example"},
       {"hash":"9ba2d613c4a82cb6","kind":"heading","format":"markdown","words":7,"skeleton":"Creating a Virtual File for Runtime Plugin"},
       {"hash":"677066183c28fc26","kind":"paragraph","format":"markdown","words":18,"skeleton":"In this example, we merge an object inside a module and consume the result in a runtime plugin."},
       {"hash":"8660a2d45849b499","kind":"heading","format":"markdown","words":4,"skeleton":"Skipping Regeneration in Development"},
-      {"hash":"2ba6c2b067fdbcb9","kind":"paragraph","format":"markdown","words":45,"skeleton":"By default, Nuxt recompiles a template on every watched file event because it cannot know what the template reads. If your template is built only from configuration and from which files exist, declare that so Nuxt can leave it alone when a file is edited:"},
+      {"hash":"5a01fabaaa1c68b2","kind":"paragraph","format":"markdown","words":57,"skeleton":"Without {0}, Nuxt recompiles a template on every watched file change because it cannot know what the template reads. Templates with {1} are an exception: they recompile only when their source file changes. If your template is built only from configuration and from which files exist, declare that so Nuxt can leave it alone when a file is edited:","placeholders":["code","code"]},
       {"hash":"328aa10957f023ef","kind":"paragraph","format":"markdown","words":10,"skeleton":"If the template reads well-known sources, declare them by key:"},
       {"hash":"49aff6e349beb2ff","kind":"paragraph","format":"markdown","words":22,"skeleton":"And if it reads files Nuxt doesn't know about, say a set of YAML files you scan yourself, pass a function instead:"},
       {"hash":"5596a717e2217b2d","kind":"paragraph","format":"markdown","words":21,"skeleton":"In the module above, we generate a virtual file named {0}. In the runtime plugin, we can import it using the {1} alias:","placeholders":["code","code"]},

@@ -1,0 +1,14 @@
+{
+  "hash": "3b15151978454c76",
+  "source": "Custom useFetch",
+  "text": "useFetch personnalisé",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "useFetch personnalisé"
+  },
+  "updatedAt": "2026-11-02T20:43:55.792Z"
+}

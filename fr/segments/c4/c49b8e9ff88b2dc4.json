@@ -1,0 +1,15 @@
+{
+  "hash": "c49b8e9ff88b2dc4",
+  "source": "If you want to use environment variables set at build time but do not care about updating these down the line (or only need to update them reactively *within* your app) then {0} may be a better choice. You can define {1} both within your {2} (using environment variables) and also within an {3} file in your project.",
+  "text": "Si vous souhaitez utiliser des variables d'environnement définies au moment du build sans vous soucier de les mettre à jour par la suite (ou si vous n'avez besoin de les mettre à jour de manière réactive que *dans* votre application), alors {0} peut être un meilleur choix. Vous pouvez définir {1} à la fois dans votre {2} (en utilisant des variables d'environnement) et dans un fichier {3} de votre projet.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "581b029500623bff",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si vous souhaitez utiliser des variables d'environnement définies au moment du build sans vous soucier de les mettre à jour par la suite (ou si vous n'avez besoin de les mettre à jour de manière réactive que *dans* votre application), alors {0} peut être un meilleur choix. Vous pouvez définir {1} à la fois dans votre {2} (en utilisant des variables d'environnement) et dans un fichier {3} de votre projet."
+  },
+  "updatedAt": "2026-11-02T20:43:55.792Z"
+}

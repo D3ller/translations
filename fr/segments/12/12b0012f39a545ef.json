@@ -1,0 +1,14 @@
+{
+  "hash": "12b0012f39a545ef",
+  "source": "MCP Server",
+  "text": "Serveur MCP",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Serveur MCP"
+  },
+  "updatedAt": "2026-11-02T20:43:55.792Z"
+}

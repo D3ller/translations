@@ -1,0 +1,14 @@
+{
+  "hash": "fe9cba32ee0f1cef",
+  "source": "Nuxt Performance",
+  "text": "Performances de Nuxt",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Performances de Nuxt"
+  },
+  "updatedAt": "2026-11-02T20:43:55.792Z"
+}

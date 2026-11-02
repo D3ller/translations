@@ -1,0 +1,14 @@
+{
+  "hash": "23382bf838ec516a",
+  "source": "middleware/",
+  "text": "middleware/",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "middleware/"
+  },
+  "updatedAt": "2026-11-02T20:43:55.792Z"
+}
