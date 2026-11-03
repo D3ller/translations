@@ -2,7 +2,7 @@
 
 Translations of the Nuxt documentation, maintained with [diglot](https://github.com/danielroe/diglot). French is the first locale.
 
-To get involved, have a look at [this discussion](https://github.com/nuxt/translations/discussions/8).
+To contribute a translation, see [`CONTRIBUTING.md`](./CONTRIBUTING.md); discussion happens in [this thread](https://github.com/nuxt/translations/discussions/8).
 
 ## Sources
 
@@ -54,7 +54,7 @@ A record looks like this:
 ```
 
 - `origin` is how the text was produced: `mt` (machine translation), `tm` (translation memory) or `human`.
-- `review` is what a person has done with it since: `none`, `edited` or `verified`.
+- `review` is what a person has done with it since: `none`, `edited`, `verified` or `rejected`.
 - `derived` is how it relates to `prev`, the record it was derived from: `fresh` (no predecessor), `carry` (same text, new hash) or `update` (updated from the source change).
 - `mt` keeps the model and its unedited output, so reviewer edits can be measured.
 
@@ -74,18 +74,13 @@ Each result is checked (placeholders, glossary terms, numbers, untranslated or t
 
 ### Human edits
 
-Translators edit records in two ways:
+Translators review and edit records either in the editor on [nuxt.com](https://nuxt.com) (coming soon) or through pull requests. See [`CONTRIBUTING.md`](./CONTRIBUTING.md) for the workflow, the review states and the placeholder rules.
 
-- in the translation editor on [nuxt.com](https://nuxt.com) (coming soon), which opens a pull request for you;
-- with a pull request against this repository: change `text`, set `review` to `edited` (or `verified` with `verifiedBy`), set `by` to your GitHub login and update `updatedAt`.
-
-Keep every placeholder of `source` (`{0}`, or a pair such as `{0}...{/0}` around linked or emphasised text) in `text`; they stand for links, code and components and are put back when the page is rendered. The workflow never overwrites an existing record, so an edited translation stays until its source segment changes. Changes under `fr/` are reviewed by the French translators.
-
-To check records locally with the [diglot CLI](https://github.com/danielroe/diglot/tree/main/packages/cli):
+To check records locally:
 
 ```bash
-pnpm dlx @diglot/cli validate
-pnpm dlx @diglot/cli status
+pnpm validate
+pnpm status
 ```
 
 ## Running the workflow
