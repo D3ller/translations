@@ -1,0 +1,13 @@
+minimumReleaseAgeExclude:
+  - '@diglot/cli@0.1.2'
+  - '@diglot/code@0.1.2'
+  - '@diglot/comark@0.1.2'
+  - '@diglot/core@0.1.2'
+  - '@diglot/mdast@0.1.2'
+  - '@diglot/store@0.1.2'
+  - '@diglot/x18n@0.1.2'
+  - '@x18n/builtins@0.1.8'
+  - '@x18n/cli@0.1.8'
+  - '@x18n/core@0.1.8'
+  - '@x18n/node@0.1.8'
+  - '@x18n/ui@0.1.8'

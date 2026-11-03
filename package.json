@@ -1,0 +1,24 @@
+{
+  "name": "nuxt-translations",
+  "type": "module",
+  "private": true,
+  "packageManager": "pnpm@12.11.2",
+  "engines": {
+    "node": ">=22.18.0"
+  },
+  "scripts": {
+    "apply-reviews": "node scripts/apply-reviews.ts",
+    "checkout": "diglot checkout",
+    "validate": "diglot validate",
+    "status": "diglot status",
+    "x18n": "x18n",
+    "ui": "x18n ui"
+  },
+  "devDependencies": {
+    "@diglot/cli": "^0.1.2",
+    "@diglot/core": "^0.1.2",
+    "@diglot/x18n": "^0.1.2",
+    "@x18n/cli": "^0.1.8",
+    "yaml": "^2.9.1"
+  }
+}
