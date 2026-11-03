@@ -1,0 +1,14 @@
+{
+  "hash": "912e662b7e999bf7",
+  "source": "If your app already names its fonts in CSS, such as {0}, that's all you need: Nuxt Fonts finds each family in your stylesheets, resolves it from Google Fonts, and serves it from your own origin. If you also added {1} tags to {2} in {3}, remove them, as Nuxt Fonts doesn't read them and they would load the fonts from Google at runtime.",
+  "text": "Si votre application nomme déjà ses polices dans le CSS, par exemple {0}, c'est tout ce qu'il vous faut : Nuxt Fonts trouve chaque famille dans vos feuilles de style, la résout depuis Google Fonts et la sert depuis votre propre origine. Si vous avez aussi ajouté des balises {1} à {2} dans {3}, supprimez-les : Nuxt Fonts ne les lit pas et elles chargeraient les polices depuis Google à l'exécution.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si votre application nomme déjà ses polices dans le CSS, par exemple {0}, c'est tout ce qu'il vous faut : Nuxt Fonts trouve chaque famille dans vos feuilles de style, la résout depuis Google Fonts et la sert depuis votre propre origine. Si vous avez aussi ajouté des balises {1} à {2} dans {3}, supprimez-les : Nuxt Fonts ne les lit pas et elles chargeraient les polices depuis Google à l'exécution."
+  },
+  "updatedAt": "2026-11-03T13:45:50.596Z"
+}

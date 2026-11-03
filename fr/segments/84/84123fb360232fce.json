@@ -1,0 +1,14 @@
+{
+  "hash": "84123fb360232fce",
+  "source": "{0} on each family. It defaults to {1}, as before.",
+  "text": "{0} sur chaque famille. La valeur par défaut est {1}, comme auparavant.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} sur chaque famille. La valeur par défaut est {1}, comme auparavant."
+  },
+  "updatedAt": "2026-11-03T13:45:50.596Z"
+}

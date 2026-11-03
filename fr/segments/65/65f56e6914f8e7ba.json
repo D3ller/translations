@@ -1,0 +1,14 @@
+{
+  "hash": "65f56e6914f8e7ba",
+  "source": "Fonts are only loaded where they're used",
+  "text": "Les polices ne sont chargées que là où elles sont utilisées",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les polices ne sont chargées que là où elles sont utilisées"
+  },
+  "updatedAt": "2026-11-03T13:45:50.596Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "552518db77f55dcd",
+  "source": "become:",
+  "text": "deviennent :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "deviennent :"
+  },
+  "updatedAt": "2026-11-03T13:45:50.596Z"
+}

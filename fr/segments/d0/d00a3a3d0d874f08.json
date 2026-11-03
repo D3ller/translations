@@ -1,0 +1,14 @@
+{
+  "hash": "d00a3a3d0d874f08",
+  "source": "Converting other options",
+  "text": "Convertir les autres options",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Convertir les autres options"
+  },
+  "updatedAt": "2026-11-03T13:45:50.596Z"
+}

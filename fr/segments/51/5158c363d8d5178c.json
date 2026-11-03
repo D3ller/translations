@@ -1,0 +1,14 @@
+{
+  "hash": "5158c363d8d5178c",
+  "source": "See {0}when a font isn't picked up{/0} for the full list.",
+  "text": "Consultez {0}quand une police n'est pas détectée{/0} pour la liste complète.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Consultez {0}quand une police n'est pas détectée{/0} pour la liste complète."
+  },
+  "updatedAt": "2026-11-03T13:45:50.596Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "588d1d7c38f6a85b",
+  "source": "Family names are written as they appear in CSS, so {0} becomes {1}. Every weight in {2} is loaded in every style in {3}, so the Raleway entry above also loads italic at weight 400.",
+  "text": "Les noms de familles s'écrivent comme dans le CSS, donc {0} devient {1}. Chaque graisse de {2} est chargée dans chaque style de {3}, donc l'entrée Raleway ci-dessus charge aussi l'italique à la graisse 400.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les noms de familles s'écrivent comme dans le CSS, donc {0} devient {1}. Chaque graisse de {2} est chargée dans chaque style de {3}, donc l'entrée Raleway ci-dessus charge aussi l'italique à la graisse 400."
+  },
+  "updatedAt": "2026-11-03T13:45:50.596Z"
+}

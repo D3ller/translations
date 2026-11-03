@@ -1,0 +1,14 @@
+{
+  "hash": "b984d0b0b9c95b46",
+  "source": "Migrating from @nuxtjs/google-fonts",
+  "text": "Migrer depuis @nuxtjs/google-fonts",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Migrer depuis @nuxtjs/google-fonts"
+  },
+  "updatedAt": "2026-11-03T13:45:50.596Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "2a71c6956f045302",
+  "source": "No equivalent. Fonts are always downloaded at build time and served from your own origin.",
+  "text": "Pas d'équivalent. Les polices sont toujours téléchargées au moment du build et servies depuis votre propre origine.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pas d'équivalent. Les polices sont toujours téléchargées au moment du build et servies depuis votre propre origine."
+  },
+  "updatedAt": "2026-11-03T13:45:50.596Z"
+}

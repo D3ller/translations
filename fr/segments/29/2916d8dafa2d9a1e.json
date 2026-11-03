@@ -1,0 +1,14 @@
+{
+  "hash": "2916d8dafa2d9a1e",
+  "source": "{0} in {1} or on each family, which preloads font files rather than the Google Fonts stylesheet.",
+  "text": "{0} dans {1} ou sur chaque famille, ce qui précharge les fichiers de police plutôt que la feuille de style de Google Fonts.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} dans {1} ou sur chaque famille, ce qui précharge les fichiers de police plutôt que la feuille de style de Google Fonts."
+  },
+  "updatedAt": "2026-11-03T13:45:50.596Z"
+}

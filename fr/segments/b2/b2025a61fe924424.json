@@ -1,0 +1,14 @@
+{
+  "hash": "b2025a61fe924424",
+  "source": "{0} is deprecated and no longer maintained. Use {1} instead: it self-hosts fonts from Google Fonts and other providers, and generates fallback metrics to reduce layout shift.",
+  "text": "{0} est obsolète et n'est plus maintenu. Utilisez plutôt {1} : il héberge les polices de Google Fonts et d'autres fournisseurs sur votre propre serveur, et génère des métriques de repli pour réduire le décalage de mise en page.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est obsolète et n'est plus maintenu. Utilisez plutôt {1} : il héberge les polices de Google Fonts et d'autres fournisseurs sur votre propre serveur, et génère des métriques de repli pour réduire le décalage de mise en page."
+  },
+  "updatedAt": "2026-11-03T13:45:50.596Z"
+}

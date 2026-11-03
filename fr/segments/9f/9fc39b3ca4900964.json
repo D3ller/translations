@@ -1,0 +1,14 @@
+{
+  "hash": "9fc39b3ca4900964",
+  "source": "A family that is only used in an inline {0} attribute, an SVG, or a family chosen at runtime is not found. Declare it with {1} to load it on every page, as before:",
+  "text": "Une famille utilisée uniquement dans un attribut {0} en ligne, dans un SVG, ou choisie à l'exécution n'est pas détectée. Déclarez-la avec {1} pour la charger sur chaque page, comme auparavant :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Une famille utilisée uniquement dans un attribut {0} en ligne, dans un SVG, ou choisie à l'exécution n'est pas détectée. Déclarez-la avec {1} pour la charger sur chaque page, comme auparavant :"
+  },
+  "updatedAt": "2026-11-03T13:45:50.596Z"
+}

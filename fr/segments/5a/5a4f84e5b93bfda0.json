@@ -1,0 +1,14 @@
+{
+  "hash": "5a4f84e5b93bfda0",
+  "source": "{0} in {1} or on each family.",
+  "text": "{0} dans {1} ou sur chaque famille.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} dans {1} ou sur chaque famille."
+  },
+  "updatedAt": "2026-11-03T13:45:50.596Z"
+}

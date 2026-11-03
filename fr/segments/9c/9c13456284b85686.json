@@ -1,0 +1,14 @@
+{
+  "hash": "9c13456284b85686",
+  "source": "No equivalent. Font files are served with long-lived cache headers instead.",
+  "text": "Pas d'équivalent. Les fichiers de police sont servis avec des en-têtes de cache à longue durée de vie.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pas d'équivalent. Les fichiers de police sont servis avec des en-têtes de cache à longue durée de vie."
+  },
+  "updatedAt": "2026-11-03T13:45:50.596Z"
+}

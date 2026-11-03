@@ -1,0 +1,14 @@
+{
+  "hash": "cb39a613a617b5a4",
+  "source": "{0} sets the directory fonts are served from. No separate stylesheet is generated.",
+  "text": "{0} définit le répertoire depuis lequel les polices sont servies. Aucune feuille de style distincte n'est générée.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} définit le répertoire depuis lequel les polices sont servies. Aucune feuille de style distincte n'est générée."
+  },
+  "updatedAt": "2026-11-03T13:45:50.596Z"
+}

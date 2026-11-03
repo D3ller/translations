@@ -1,0 +1,14 @@
+{
+  "hash": "9e997295e42c2f0f",
+  "source": "Not needed, as no request is made to Google Fonts from the browser.",
+  "text": "Inutile, car aucune requête n'est envoyée à Google Fonts depuis le navigateur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Inutile, car aucune requête n'est envoyée à Google Fonts depuis le navigateur."
+  },
+  "updatedAt": "2026-11-03T13:45:50.596Z"
+}

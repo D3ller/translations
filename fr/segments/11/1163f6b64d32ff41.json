@@ -1,0 +1,14 @@
+{
+  "hash": "1163f6b64d32ff41",
+  "source": "Not needed, as {0} rules are injected into the stylesheets that use them.",
+  "text": "Inutile, car les règles {0} sont injectées dans les feuilles de style qui les utilisent.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Inutile, car les règles {0} sont injectées dans les feuilles de style qui les utilisent."
+  },
+  "updatedAt": "2026-11-03T13:45:50.596Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "52a22cb7a274b08b",
+  "source": "{0}. Downloaded fonts are cached between builds by default.",
+  "text": "{0}. Les polices téléchargées sont mises en cache entre les builds par défaut.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}. Les polices téléchargées sont mises en cache entre les builds par défaut."
+  },
+  "updatedAt": "2026-11-03T13:45:50.596Z"
+}

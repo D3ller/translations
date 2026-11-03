@@ -1,0 +1,14 @@
+{
+  "hash": "52c246efc441153d",
+  "source": "Replace the module",
+  "text": "Remplacer le module",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Remplacer le module"
+  },
+  "updatedAt": "2026-11-03T13:45:50.596Z"
+}
