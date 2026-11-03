@@ -37,7 +37,7 @@ jobs:
           restore-keys: diglot-checkouts-
 
       - id: diglot
-        uses: danielroe/diglot/packages/action@main
+        uses: danielroe/diglot/packages/action@54cea29677e8c150326981935d4d384aa15a36b7 # v0.1.2
         with:
           sources: ${{ github.event.client_payload.sources || inputs.sources }}
           limit: ${{ inputs.limit }}
