@@ -2,7 +2,7 @@
   "version": 1,
   "source": "nuxt-main",
   "ref": "main",
-  "sha": "146df5566fe91cec850c016e95f4e6dd99684dbe",
+  "sha": "9496b7e5fe75740a5f8ef9826a2918667e4b4a82",
   "files": {
     "docs/.navigation.yml": [
       {"hash":"e1f126038d5b2783","kind":"navigation","format":"plain","words":1,"skeleton":"Docs"}
