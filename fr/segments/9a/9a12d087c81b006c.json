@@ -1,0 +1,15 @@
+{
+  "hash": "9a12d087c81b006c",
+  "source": "If it suits your app, you can go further and move focus to the main region from a plugin whenever navigation changes the path. A script can only focus {0} once it has {1}. Use {2} rather than a positive value, which would move the element in the tab order and surprise everyone else:",
+  "text": "Si cela convient à votre application, vous pouvez aller plus loin et déplacer le focus vers la région principale depuis un plugin chaque fois que la navigation modifie le chemin. Un script ne peut donner le focus à {0} qu'une fois qu'il a {1}. Utilisez {2} plutôt qu'une valeur positive, qui déplacerait l'élément dans l'ordre de tabulation et surprendrait tout le monde :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "09b8f10c6f05dd37",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si cela convient à votre application, vous pouvez aller plus loin et déplacer le focus vers la région principale depuis un plugin chaque fois que la navigation modifie le chemin. Un script ne peut donner le focus à {0} qu'une fois qu'il a {1}. Utilisez {2} plutôt qu'une valeur positive, qui déplacerait l'élément dans l'ordre de tabulation et surprendrait tout le monde :"
+  },
+  "updatedAt": "2026-11-04T17:50:07.854Z"
+}

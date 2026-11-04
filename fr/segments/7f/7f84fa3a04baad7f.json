@@ -1,0 +1,14 @@
+{
+  "hash": "7f84fa3a04baad7f",
+  "source": "If the links switch between panels of the same page, the {0}tabs pattern{/0}, with {1} and {2}, may be a better fit than {3}.",
+  "text": "Si les liens permettent de basculer entre des panneaux de la même page, le {0}pattern tabs{/0}, avec {1} et {2}, peut être mieux adapté que {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si les liens permettent de basculer entre des panneaux de la même page, le {0}pattern tabs{/0}, avec {1} et {2}, peut être mieux adapté que {3}."
+  },
+  "updatedAt": "2026-11-04T17:50:07.854Z"
+}

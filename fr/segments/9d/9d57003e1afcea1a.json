@@ -1,0 +1,14 @@
+{
+  "hash": "9d57003e1afcea1a",
+  "source": "With {0}, a click inside {1} on content that is not inside some other focusable element can focus {2} itself, because the browser focuses the nearest focusable ancestor of the clicked element. Take this into account if your app returns focus to the previously focused element, for example when closing a dialog.",
+  "text": "Avec {0}, un clic dans {1} sur un contenu qui ne se trouve pas dans un autre élément focusable peut donner le focus à {2} lui-même, car le navigateur donne le focus à l'ancêtre focusable le plus proche de l'élément cliqué. Tenez-en compte si votre application rend le focus à l'élément qui l'avait précédemment, par exemple à la fermeture d'une boîte de dialogue.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Avec {0}, un clic dans {1} sur un contenu qui ne se trouve pas dans un autre élément focusable peut donner le focus à {2} lui-même, car le navigateur donne le focus à l'ancêtre focusable le plus proche de l'élément cliqué. Tenez-en compte si votre application rend le focus à l'élément qui l'avait précédemment, par exemple à la fermeture d'une boîte de dialogue."
+  },
+  "updatedAt": "2026-11-04T17:50:07.854Z"
+}

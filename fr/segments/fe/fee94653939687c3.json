@@ -1,0 +1,14 @@
+{
+  "hash": "fee94653939687c3",
+  "source": "Vue Router decides which link matches from the route and its params, {0}not the query{/0}, so a link that differs from the current page only by its query is marked as the current page too: a set of filters or a list of {1} rows all announce \"current page\" at once. Only one element in a set should be current, so give such links an {2} of their own. It takes precedence over the router's, and {3} removes the attribute:",
+  "text": "Vue Router détermine quel lien correspond à partir de la route et de ses paramètres, {0}pas de la query{/0} ; un lien qui ne diffère de la page actuelle que par sa query est donc lui aussi marqué comme la page courante : un ensemble de filtres ou une liste de lignes {1} annoncent tous « page courante » en même temps. Un seul élément d'un ensemble devrait être courant, donc donnez à ces liens leur propre {2}. Il est prioritaire sur celui du routeur, et {3} supprime l'attribut :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vue Router détermine quel lien correspond à partir de la route et de ses paramètres, {0}pas de la query{/0} ; un lien qui ne diffère de la page actuelle que par sa query est donc lui aussi marqué comme la page courante : un ensemble de filtres ou une liste de lignes {1} annoncent tous « page courante » en même temps. Un seul élément d'un ensemble devrait être courant, donc donnez à ces liens leur propre {2}. Il est prioritaire sur celui du routeur, et {3} supprime l'attribut :"
+  },
+  "updatedAt": "2026-11-04T17:50:07.854Z"
+}

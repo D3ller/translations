@@ -1,0 +1,14 @@
+{
+  "hash": "e798f6a9e5c21feb",
+  "source": "Following a link to {0} moves the browser's sequential focus navigation starting point to {1}, even though {2} itself is not focusable, so in current browsers the next {3} moves to the first focusable element after that point: inside {4} when it contains one, otherwise past it.",
+  "text": "Suivre un lien vers {0} déplace le point de départ de la navigation séquentielle au focus du navigateur vers {1}, même si {2} n'est pas lui-même focusable ; ainsi, dans les navigateurs actuels, le prochain {3} déplace le focus vers le premier élément focusable après ce point : à l'intérieur de {4} s'il en contient un, sinon après lui.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Suivre un lien vers {0} déplace le point de départ de la navigation séquentielle au focus du navigateur vers {1}, même si {2} n'est pas lui-même focusable ; ainsi, dans les navigateurs actuels, le prochain {3} déplace le focus vers le premier élément focusable après ce point : à l'intérieur de {4} s'il en contient un, sinon après lui."
+  },
+  "updatedAt": "2026-11-04T17:50:07.854Z"
+}
