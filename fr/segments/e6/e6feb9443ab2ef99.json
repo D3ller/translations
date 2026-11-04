@@ -1,0 +1,14 @@
+{
+  "hash": "e6feb9443ab2ef99",
+  "source": "{0} is deprecated and logs a warning. It still works in Nuxt 5 and will be removed in a future major version.",
+  "text": "{0} est déprécié et affiche un avertissement. Il fonctionne toujours dans Nuxt 5 et sera supprimé dans une prochaine version majeure.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est déprécié et affiche un avertissement. Il fonctionne toujours dans Nuxt 5 et sera supprimé dans une prochaine version majeure."
+  },
+  "updatedAt": "2026-11-04T22:21:31.786Z"
+}

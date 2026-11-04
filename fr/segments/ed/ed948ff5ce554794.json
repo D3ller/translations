@@ -1,0 +1,14 @@
+{
+  "hash": "ed948ff5ce554794",
+  "source": "Type checking with {0} uses {1}, which Nuxt offers to install when it is missing.",
+  "text": "La vérification des types avec {0} utilise {1}, que Nuxt propose d'installer lorsqu'il est absent.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "La vérification des types avec {0} utilise {1}, que Nuxt propose d'installer lorsqu'il est absent."
+  },
+  "updatedAt": "2026-11-04T22:21:31.786Z"
+}

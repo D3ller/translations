@@ -1,0 +1,14 @@
+{
+  "hash": "e9ef6408c7a91037",
+  "source": "Check out Rsbuild website for more information about its configuration.",
+  "text": "Consultez le site web de Rsbuild pour plus d'informations sur sa configuration.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Consultez le site web de Rsbuild pour plus d'informations sur sa configuration."
+  },
+  "updatedAt": "2026-11-04T22:21:31.786Z"
+}

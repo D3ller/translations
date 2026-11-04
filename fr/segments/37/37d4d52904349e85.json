@@ -1,0 +1,14 @@
+{
+  "hash": "37d4d52904349e85",
+  "source": "Stylus",
+  "text": "Stylus",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Stylus"
+  },
+  "updatedAt": "2026-11-04T22:21:31.786Z"
+}

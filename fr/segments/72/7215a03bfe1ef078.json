@@ -1,0 +1,14 @@
+{
+  "hash": "7215a03bfe1ef078",
+  "source": "The {0} and {1} hooks are not called. Use {2} and {3}, which receive the environment {4}, its Rspack {5} and, once compiled, its {6}.",
+  "text": "Les hooks {0} et {1} ne sont pas appelés. Utilisez {2} et {3}, qui reçoivent l'environnement {4}, son {5} Rspack et, une fois compilé, son {6}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les hooks {0} et {1} ne sont pas appelés. Utilisez {2} et {3}, qui reçoivent l'environnement {4}, son {5} Rspack et, une fois compilé, son {6}."
+  },
+  "updatedAt": "2026-11-04T22:21:31.786Z"
+}

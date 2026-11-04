@@ -1,0 +1,14 @@
+{
+  "hash": "b0ef36077ec75ac4",
+  "source": "🚦 **Impact Level**: Medium (only if you use {0})",
+  "text": "🚦 **Niveau d'impact** : moyen (uniquement si vous utilisez {0})",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "🚦 **Niveau d'impact** : moyen (uniquement si vous utilisez {0})"
+  },
+  "updatedAt": "2026-11-04T22:21:31.786Z"
+}

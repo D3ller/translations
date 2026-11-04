@@ -1,0 +1,14 @@
+{
+  "hash": "da95ccd92a874d21",
+  "source": "Pug",
+  "text": "Pug",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Pug"
+  },
+  "updatedAt": "2026-11-04T22:21:31.786Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "7d761106cb717e3d",
+  "source": "**Rsbuild builder**: {0} is deprecated in favour of {1}",
+  "text": "**Builder Rsbuild** : {0} est déprécié au profit de {1}",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Builder Rsbuild** : {0} est déprécié au profit de {1}"
+  },
+  "updatedAt": "2026-11-04T22:21:31.786Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "a0cde72b3d592668",
+  "source": "Called right before the first compilation of an environment.",
+  "text": "Appelé juste avant la première compilation d'un environnement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appelé juste avant la première compilation d'un environnement."
+  },
+  "updatedAt": "2026-11-04T22:21:31.786Z"
+}

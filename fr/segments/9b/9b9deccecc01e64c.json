@@ -1,0 +1,14 @@
+{
+  "hash": "9b9deccecc01e64c",
+  "source": "rsbuild",
+  "text": "rsbuild",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "rsbuild"
+  },
+  "updatedAt": "2026-11-04T22:21:31.786Z"
+}

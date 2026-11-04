@@ -1,0 +1,14 @@
+{
+  "hash": "8b5a1c6700a175b8",
+  "source": "Then update the builder in your {0}:",
+  "text": "Mettez ensuite à jour le builder dans votre {0} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Mettez ensuite à jour le builder dans votre {0} :"
+  },
+  "updatedAt": "2026-11-04T22:21:31.786Z"
+}

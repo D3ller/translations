@@ -1,0 +1,15 @@
+{
+  "hash": "22aeb942669354a9",
+  "source": "Nuxt have builders based on {0}Vite{/0}, {1}webpack{/1} and {2}Rsbuild{/2}. You can extend the config passed to each one using {3}, {4} and {5} functions. You can also add additional plugins via {6}, {7}, {8} and {9}.",
+  "text": "Nuxt dispose de builders basés sur {0}Vite{/0}, {1}webpack{/1} et {2}Rsbuild{/2}. Vous pouvez étendre la configuration transmise à chacun d'eux à l'aide des fonctions {3}, {4} et {5}. Vous pouvez également ajouter des plugins supplémentaires via {6}, {7}, {8} et {9}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "e86e74b67c005840",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt dispose de builders basés sur {0}Vite{/0}, {1}webpack{/1} et {2}Rsbuild{/2}. Vous pouvez étendre la configuration transmise à chacun d'eux à l'aide des fonctions {3}, {4} et {5}. Vous pouvez également ajouter des plugins supplémentaires via {6}, {7}, {8} et {9}."
+  },
+  "updatedAt": "2026-11-04T22:21:31.786Z"
+}

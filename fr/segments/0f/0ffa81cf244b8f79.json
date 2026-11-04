@@ -1,0 +1,15 @@
+{
+  "hash": "0ffa81cf244b8f79",
+  "source": "{0}: The {1}Rsbuild{/1} bundler for Nuxt, published as {2}.",
+  "text": "{0} : le bundler {1}Rsbuild{/1} pour Nuxt, publié sous le nom {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "d24ab452814a18cc",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} : le bundler {1}Rsbuild{/1} pour Nuxt, publié sous le nom {2}."
+  },
+  "updatedAt": "2026-11-04T22:21:31.786Z"
+}

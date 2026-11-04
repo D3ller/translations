@@ -1,0 +1,15 @@
+{
+  "hash": "5c0d19e81850bdfb",
+  "source": "uses @nuxt/rsbuild-builder",
+  "text": "utilise @nuxt/rsbuild-builder",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "933cdf0b74a7786a",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "utilise @nuxt/rsbuild-builder"
+  },
+  "updatedAt": "2026-11-04T22:21:31.786Z"
+}

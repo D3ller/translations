@@ -1,0 +1,14 @@
+{
+  "hash": "fb2b4d5ae4111cc8",
+  "source": "With the Rsbuild builder, Nuxt writes an {0}Rsdoctor{/0} report to {1} unless {2} is {3}, and ignores the other options.",
+  "text": "Avec le builder Rsbuild, Nuxt écrit un rapport {0}Rsdoctor{/0} dans {1}, sauf si {2} vaut {3}, et ignore les autres options.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Avec le builder Rsbuild, Nuxt écrit un rapport {0}Rsdoctor{/0} dans {1}, sauf si {2} vaut {3}, et ignore les autres options."
+  },
+  "updatedAt": "2026-11-04T22:21:31.786Z"
+}

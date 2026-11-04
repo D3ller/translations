@@ -1,0 +1,14 @@
+{
+  "hash": "54a5c3d1cce30f5b",
+  "source": "Sass, Less, Stylus and Pug are compiled by their Rsbuild plugins ({0}, {1}, {2} and {3}), which Nuxt registers when they are installed in your project. When a file needs one that is not installed, Nuxt offers to install it.",
+  "text": "Sass, Less, Stylus et Pug sont compilés par leurs plugins Rsbuild ({0}, {1}, {2} et {3}), que Nuxt enregistre lorsqu'ils sont installés dans votre projet. Lorsqu'un fichier a besoin d'un plugin qui n'est pas installé, Nuxt propose de l'installer.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sass, Less, Stylus et Pug sont compilés par leurs plugins Rsbuild ({0}, {1}, {2} et {3}), que Nuxt enregistre lorsqu'ils sont installés dans votre projet. Lorsqu'un fichier a besoin d'un plugin qui n'est pas installé, Nuxt propose de l'installer."
+  },
+  "updatedAt": "2026-11-04T22:21:31.786Z"
+}

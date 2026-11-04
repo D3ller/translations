@@ -1,0 +1,14 @@
+{
+  "hash": "d37421b2269a8072",
+  "source": "Called after an environment has been compiled.",
+  "text": "Appelé après la compilation d'un environnement.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appelé après la compilation d'un environnement."
+  },
+  "updatedAt": "2026-11-04T22:21:31.786Z"
+}

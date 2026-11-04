@@ -1,0 +1,14 @@
+{
+  "hash": "2c52e20a203bee31",
+  "source": "Replace {0} with {1}:",
+  "text": "Remplacez {0} par {1} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Remplacez {0} par {1} :"
+  },
+  "updatedAt": "2026-11-04T22:21:31.786Z"
+}

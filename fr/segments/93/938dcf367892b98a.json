@@ -1,0 +1,14 @@
+{
+  "hash": "938dcf367892b98a",
+  "source": "The Rsbuild builder does not read the {0} options, so move any you set to the {1} option. For example, {2} becomes {3}, and options for one build go under {4} or {5}. PostCSS plugins are still configured with {6}, and {7} writes an {8}Rsdoctor{/8} report.",
+  "text": "Le builder Rsbuild ne lit pas les options {0} ; déplacez donc celles que vous avez définies vers l'option {1}. Par exemple, {2} devient {3}, et les options propres à un build se placent sous {4} ou {5}. Les plugins PostCSS se configurent toujours avec {6}, et {7} génère un rapport {8}Rsdoctor{/8}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Le builder Rsbuild ne lit pas les options {0} ; déplacez donc celles que vous avez définies vers l'option {1}. Par exemple, {2} devient {3}, et les options propres à un build se placent sous {4} ou {5}. Les plugins PostCSS se configurent toujours avec {6}, et {7} génère un rapport {8}Rsdoctor{/8}."
+  },
+  "updatedAt": "2026-11-04T22:21:31.786Z"
+}

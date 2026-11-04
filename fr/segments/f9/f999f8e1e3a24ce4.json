@@ -1,0 +1,14 @@
+{
+  "hash": "f999f8e1e3a24ce4",
+  "source": "webpack loader",
+  "text": "Loader webpack",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Loader webpack"
+  },
+  "updatedAt": "2026-11-04T22:21:31.786Z"
+}

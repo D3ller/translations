@@ -1,0 +1,14 @@
+{
+  "hash": "2b992223e24c42a8",
+  "source": "Called before creating the Rsbuild instance, with the Rsbuild config containing the {0} and {1} environments. The Rsbuild builder also calls {2} and {3} with the generated Rspack configs, named {4} and {5}.",
+  "text": "Appelé avant la création de l'instance Rsbuild, avec la configuration Rsbuild contenant les environnements {0} et {1}. Le builder Rsbuild appelle également {2} et {3} avec les configurations Rspack générées, nommées {4} et {5}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Appelé avant la création de l'instance Rsbuild, avec la configuration Rsbuild contenant les environnements {0} et {1}. Le builder Rsbuild appelle également {2} et {3} avec les configurations Rspack générées, nommées {4} et {5}."
+  },
+  "updatedAt": "2026-11-04T22:21:31.786Z"
+}

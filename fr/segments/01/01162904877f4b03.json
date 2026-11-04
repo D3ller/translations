@@ -1,0 +1,14 @@
+{
+  "hash": "01162904877f4b03",
+  "source": "**{0}**: A callback function that will be called with the Rsbuild configuration object.",
+  "text": "**{0}** : une fonction de rappel qui sera appelée avec l'objet de configuration de Rsbuild.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** : une fonction de rappel qui sera appelée avec l'objet de configuration de Rsbuild."
+  },
+  "updatedAt": "2026-11-04T22:21:31.786Z"
+}

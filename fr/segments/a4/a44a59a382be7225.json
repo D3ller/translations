@@ -1,0 +1,14 @@
+{
+  "hash": "a44a59a382be7225",
+  "source": "If set to {0}, the plugin will be registered for the server environment.",
+  "text": "Si la valeur est {0}, le plugin sera enregistré pour l'environnement serveur.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Si la valeur est {0}, le plugin sera enregistré pour l'environnement serveur."
+  },
+  "updatedAt": "2026-11-04T22:21:31.786Z"
+}

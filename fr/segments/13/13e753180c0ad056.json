@@ -1,0 +1,14 @@
+{
+  "hash": "13e753180c0ad056",
+  "source": "Append Rsbuild plugin to the config.",
+  "text": "Ajoute un plugin Rsbuild à la configuration.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Ajoute un plugin Rsbuild à la configuration."
+  },
+  "updatedAt": "2026-11-04T22:21:31.786Z"
+}

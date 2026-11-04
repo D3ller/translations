@@ -1,0 +1,14 @@
+{
+  "hash": "4e6a30852521642a",
+  "source": "Nuxt has a new builder, {0}, enabled with {1}. It builds your app with {2}Rsbuild{/2}, which runs on Rspack, and is configured with the new {3} option.",
+  "text": "Nuxt dispose d'un nouveau builder, {0}, activé avec {1}. Il construit votre application avec {2}Rsbuild{/2}, qui s'appuie sur Rspack, et se configure avec la nouvelle option {3}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Nuxt dispose d'un nouveau builder, {0}, activé avec {1}. Il construit votre application avec {2}Rsbuild{/2}, qui s'appuie sur Rspack, et se configure avec la nouvelle option {3}."
+  },
+  "updatedAt": "2026-11-04T22:21:31.786Z"
+}

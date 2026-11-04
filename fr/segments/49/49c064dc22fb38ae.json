@@ -1,0 +1,15 @@
+{
+  "hash": "49c064dc22fb38ae",
+  "source": "Specifies version constraints or disables compatibility for specific Nuxt builders like {0}, {1}, {2}, or {3}. Use {4} to disable.",
+  "text": "Spécifie des contraintes de version ou désactive la compatibilité pour certains builders de Nuxt comme {0}, {1}, {2} ou {3}. Utilisez {4} pour désactiver.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "bf78836046103bc7",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Spécifie des contraintes de version ou désactive la compatibilité pour certains builders de Nuxt comme {0}, {1}, {2} ou {3}. Utilisez {4} pour désactiver."
+  },
+  "updatedAt": "2026-11-04T22:21:31.786Z"
+}

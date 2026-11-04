@@ -1,0 +1,14 @@
+{
+  "hash": "371246e76803ff7e",
+  "source": "**{0}**: An Rsbuild plugin or an array of Rsbuild plugins. If a function is provided, it must return an Rsbuild plugin or an array of Rsbuild plugins. The function can also be async or return a Promise, enabling lazy-loading of plugins.",
+  "text": "**{0}** : un plugin Rsbuild ou un tableau de plugins Rsbuild. Si une fonction est fournie, elle doit retourner un plugin Rsbuild ou un tableau de plugins Rsbuild. La fonction peut également être asynchrone ou retourner une Promise, ce qui permet le chargement différé des plugins.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**{0}** : un plugin Rsbuild ou un tableau de plugins Rsbuild. Si une fonction est fournie, elle doit retourner un plugin Rsbuild ou un tableau de plugins Rsbuild. La fonction peut également être asynchrone ou retourner une Promise, ce qui permet le chargement différé des plugins."
+  },
+  "updatedAt": "2026-11-04T22:21:31.786Z"
+}

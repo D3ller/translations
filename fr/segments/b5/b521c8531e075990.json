@@ -1,0 +1,14 @@
+{
+  "hash": "b521c8531e075990",
+  "source": "Sass/SCSS",
+  "text": "Sass/SCSS",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Sass/SCSS"
+  },
+  "updatedAt": "2026-11-04T22:21:31.786Z"
+}
