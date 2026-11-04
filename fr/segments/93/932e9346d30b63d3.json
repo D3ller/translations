@@ -1,0 +1,14 @@
+{
+  "hash": "932e9346d30b63d3",
+  "source": "Nitro bundles your server with {0}Rolldown{/0} by default. With the webpack or Rspack app builder, you can select another {1}Nitro builder{/1} with {2} (or the {3} environment variable). For example, to build both your app and your server with {4}Rspack{/4}:",
+  "text": "Par défaut, Nitro crée le bundle de votre serveur avec {0}Rolldown{/0}. Avec le builder d'application webpack ou Rspack, vous pouvez sélectionner un autre {1}builder Nitro{/1} avec {2} (ou la variable d'environnement {3}). Par exemple, pour compiler à la fois votre application et votre serveur avec {4}Rspack{/4} :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Par défaut, Nitro crée le bundle de votre serveur avec {0}Rolldown{/0}. Avec le builder d'application webpack ou Rspack, vous pouvez sélectionner un autre {1}builder Nitro{/1} avec {2} (ou la variable d'environnement {3}). Par exemple, pour compiler à la fois votre application et votre serveur avec {4}Rspack{/4} :"
+  },
+  "updatedAt": "2026-11-04T13:30:32.767Z"
+}

@@ -2,7 +2,7 @@
   "version": 1,
   "source": "nuxt-main",
   "ref": "main",
-  "sha": "9496b7e5fe75740a5f8ef9826a2918667e4b4a82",
+  "sha": "72ae527d3cda74c48e7c10fdb35fd1c4efce525c",
   "files": {
     "docs/.navigation.yml": [
       {"hash":"e1f126038d5b2783","kind":"navigation","format":"plain","words":1,"skeleton":"Docs"}
@@ -2656,6 +2656,10 @@
       {"hash":"9d31cd2f90b921ff","kind":"heading","format":"markdown","words":2,"skeleton":"Nitro Config"},
       {"hash":"d10d3bf215079739","kind":"paragraph","format":"markdown","words":10,"skeleton":"You can use {0} key in {1} to directly set {2}Nitro configuration{/2}.","placeholders":["code","code","link"]},
       {"hash":"29f7e0d2b44dd369","kind":"component-slot","format":"markdown","words":28,"skeleton":"This is an advanced option. Custom config can affect production deployments, as the configuration interface might change over time when Nitro is upgraded in semver-minor versions of Nuxt."},
+      {"hash":"2abcfcd63cd859b3","kind":"heading","format":"markdown","words":2,"skeleton":"Nitro Builder"},
+      {"hash":"932e9346d30b63d3","kind":"paragraph","format":"markdown","words":38,"skeleton":"Nitro bundles your server with {0}Rolldown{/0} by default. With the webpack or Rspack app builder, you can select another {1}Nitro builder{/1} with {2} (or the {3} environment variable). For example, to build both your app and your server with {4}Rspack{/4}:","placeholders":["link","link","code","code","link"]},
+      {"hash":"7b992b44d45fd3a8","kind":"paragraph","format":"markdown","words":14,"skeleton":"You don't need to install {0} yourself: the Nitro {1} builder uses the one installed with {2}.","placeholders":["code","code","code"]},
+      {"hash":"9208dc1900e30bc0","kind":"component-slot","format":"markdown","words":14,"skeleton":"The Nitro {0} and {1} builders are experimental. With {2}, Vite builds the server and {3} is ignored.","placeholders":["code","code","code","code"]},
       {"hash":"2940e36e8ef7fb62","kind":"heading","format":"markdown","words":2,"skeleton":"Nested Router"},
       {"hash":"fb55102ed5071224","kind":"heading","format":"markdown","words":2,"skeleton":"Sending Streams"},
       {"hash":"07ea3e76f0d6f3af","kind":"component-slot","format":"markdown","words":11,"skeleton":"This is an experimental feature and is available in all environments."},

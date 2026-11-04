@@ -1,0 +1,14 @@
+{
+  "hash": "9208dc1900e30bc0",
+  "source": "The Nitro {0} and {1} builders are experimental. With {2}, Vite builds the server and {3} is ignored.",
+  "text": "Les builders {0} et {1} de Nitro sont expérimentaux. Avec {2}, Vite construit le serveur et {3} est ignoré.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les builders {0} et {1} de Nitro sont expérimentaux. Avec {2}, Vite construit le serveur et {3} est ignoré."
+  },
+  "updatedAt": "2026-11-04T13:30:32.767Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "7b992b44d45fd3a8",
+  "source": "You don't need to install {0} yourself: the Nitro {1} builder uses the one installed with {2}.",
+  "text": "Vous n'avez pas besoin d'installer {0} vous-même : le builder {1} de Nitro utilise celui qui est installé avec {2}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Vous n'avez pas besoin d'installer {0} vous-même : le builder {1} de Nitro utilise celui qui est installé avec {2}."
+  },
+  "updatedAt": "2026-11-04T13:30:32.767Z"
+}
