@@ -38,10 +38,9 @@ To approve a record you have read:
 
 ```bash
 pnpm x18n review approve <hash> --locale fr
-pnpm apply-reviews
 ```
 
-The first writes the approval to `.x18n/reviews.yml` (local scratch); the second writes `review: verified` and `verifiedBy` (with your GitHub login) into the record. Then commit the record and open a pull request.
+This writes `review: verified` and `verifiedBy` into the record. The `verifiedBy.by` field is your GitHub login when the commit author is a GitHub noreply address or `gh` is logged in, otherwise the git name. Then commit the record and open a pull request.
 
 ## Placeholders
 

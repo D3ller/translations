@@ -7,7 +7,6 @@
     "node": ">=22.18.0"
   },
   "scripts": {
-    "apply-reviews": "diglot-x18n apply-reviews",
     "checkout": "diglot checkout",
     "validate": "diglot validate",
     "status": "diglot status",
@@ -15,9 +14,9 @@
     "ui": "x18n ui"
   },
   "devDependencies": {
-    "@diglot/cli": "^0.1.4",
-    "@diglot/core": "^0.1.4",
-    "@diglot/x18n": "^0.1.4",
-    "@x18n/cli": "^0.1.8"
+    "@diglot/cli": "^0.2.0",
+    "@diglot/core": "^0.2.0",
+    "@diglot/x18n": "^0.2.0",
+    "@x18n/cli": "^0.1.10"
   }
 }

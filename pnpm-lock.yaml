@@ -167,17 +167,17 @@ importers:
   .:
     devDependencies:
       '@diglot/cli':
-        specifier: ^0.1.4
-        version: 0.1.4
+        specifier: ^0.2.0
+        version: 0.2.0
       '@diglot/core':
-        specifier: ^0.1.4
-        version: 0.1.4
+        specifier: ^0.2.0
+        version: 0.2.0
       '@diglot/x18n':
-        specifier: ^0.1.4
-        version: 0.1.4(@x18n/core@0.1.8)
+        specifier: ^0.2.0
+        version: 0.2.0(@x18n/core@0.1.10)
       '@x18n/cli':
-        specifier: ^0.1.8
-        version: 0.1.8(@devframes/agentic@1.2.5)(crossws@0.4.17(srvx@1.0.8))(srvx@1.0.8)
+        specifier: ^0.1.10
+        version: 0.1.10(@devframes/agentic@1.2.5)(crossws@0.4.17(srvx@1.0.8))(srvx@1.0.8)
 
 packages:
 
@@ -203,37 +203,36 @@ packages:
     peerDependencies:
       devframe: 1.2.5
 
-  '@diglot/cli@0.1.4':
-    resolution: {integrity: sha512-CgaXbl/XPwuQ/xe+U75EvJdAD2LXYLgf/MmfV9iAkIEtAdhb1udsuAN63wMP2wrmgGtASGFZG62jMFoXtbzL3g==}
+  '@diglot/cli@0.2.0':
+    resolution: {integrity: sha512-FRA6AGrHIUU1u1sQUx3Dx0Uu2TYcVusKiwSX75LK8z8nUYgMVoLiDzgHJ83JrjsnvhW5g55n8Kpzao07IZavqA==}
     engines: {node: '>=22.18.0'}
     hasBin: true
 
-  '@diglot/code@0.1.4':
-    resolution: {integrity: sha512-kCMN7uAUMNw0pNx7k2th+YWN632d71A/dUW24fLsycL/5vKU3R/MxC1JbOjrVqlFL2Y78gFiSssyPqFZhNZGSQ==}
+  '@diglot/code@0.2.0':
+    resolution: {integrity: sha512-YCWn1wr5fexZDC8TQU3vgnEoJC2on8CpwjRv77Yu4v6gmoDhNE0tKXYbHTd/Y2rL4QWOx7gkfjlKbx94k/6cYQ==}
     engines: {node: '>=22'}
 
-  '@diglot/comark@0.1.4':
-    resolution: {integrity: sha512-/9yg7WQwoRZy0dLcwgSoG8uGiWcqgDLPe3Y1xHXAgWSOtumm0uN5Z+gZGff8xtjcS/Zur2oo76euVb6jkAEuBQ==}
+  '@diglot/comark@0.2.0':
+    resolution: {integrity: sha512-0oJieyFCP6feVVybKfLpuj0TMfcg/kRtWz4BNT8H4nd7AJTo60tRg/TxbDdo4PeoqOwfzatB+0K2lXPbsasRLw==}
     engines: {node: '>=22'}
 
-  '@diglot/core@0.1.4':
-    resolution: {integrity: sha512-REeebRuleuUycfyBFff6myhTAucTiRZlNz8N0VQ+wESNdRFKzh6T1Vyse7Z0robWKKTDiM2aVZT0IDylJvr4NA==}
+  '@diglot/core@0.2.0':
+    resolution: {integrity: sha512-TG+QXsVs9K7S+2wmoJMLwskxfN4yaWF/Xh/ZiHl2uH/QwNqh6fdYyx2oNcro0Lax30UTvuWdfAD0lw/t5vDFOA==}
     engines: {node: '>=22'}
 
-  '@diglot/mdast@0.1.4':
-    resolution: {integrity: sha512-p+AF3fgvWoXd/KQMc+bFJ0GLwzY3PprdfZLI5kCirB0HM2yjsVSM9tDP9NMR+qan7j2tT3jKOfavEGDYd7J1sQ==}
+  '@diglot/mdast@0.2.0':
+    resolution: {integrity: sha512-emBjLXK0T1/CBn/QAGCXpuA/u1QCMRZaMLWsV89cvgpYCyY7VfGca1ao4QCZC73ma/eYxtiYTAzxdFRrES9pmA==}
     engines: {node: '>=22'}
 
-  '@diglot/store@0.1.4':
-    resolution: {integrity: sha512-bIriVjIkp+xHfYBS0ECj3oL+EWDCCwn92AZwmed0wuqmAG2B3KoFspGXA5Vs0cnnPz40roR8LaeO8zGBvlrPbA==}
+  '@diglot/store@0.2.0':
+    resolution: {integrity: sha512-tEJ6Cm6SBb24AOgHvaphGibAzNzye1rfewZAdVc+aHod9tXU9Hb428OCPBrNDEnfc+xviRlrLPOxUUnKmEdCfg==}
     engines: {node: '>=22.18.0'}
 
-  '@diglot/x18n@0.1.4':
-    resolution: {integrity: sha512-FKCu571skjadgyi2cEJbQL0SPNYzlI+fbAwgCsSEzz/+OeYw3x/7l54QrN7l+J2cEbmd43sHlRpewe4ekTdGzw==}
+  '@diglot/x18n@0.2.0':
+    resolution: {integrity: sha512-YsY0FhXxESyFoqbkuulQmi/rCd6XK3qre/OwRZwfkwn3qJ3mUpsKNZ3kQbrTjWeK7B4Uj+4at07NdRG2EFiPjA==}
     engines: {node: '>=22.18.0'}
-    hasBin: true
     peerDependencies:
-      '@x18n/core': ^0.1.8
+      '@x18n/core': ^0.1.10
 
   '@jridgewell/gen-mapping@0.3.13':
     resolution: {integrity: sha512-2kkt/7niJ6MgEPxF0bYdQ6etZaA+fQvDcLKckhy1yIQOzaoKjBBjSj63/aLVjYE3qhRt5dvM+uUyfCg6UKCBbA==}
@@ -437,23 +436,23 @@ packages:
   '@vue/shared@3.5.44':
     resolution: {integrity: sha512-H82XLH0DjmSOdbEwO15x3QTo1f5PWEtv237eLpYKc0mqLu+B8hnq16lFWmuBmNurkeiG3wr+oM1FhOll/YVFRg==}
 
-  '@x18n/builtins@0.1.8':
-    resolution: {integrity: sha512-M5mgnGvIq00xGtPMt7EL2PEUXy2vP3vyys6XL6t9mGRdeP5cydrk46FnPdX9cHvBLqekPr8gLhTJVKsohrsR2w==}
+  '@x18n/builtins@0.1.10':
+    resolution: {integrity: sha512-ZLEDkIPLaK7i0Yt4swVK20ZT81t6rBwFd7BV37TbpUUnqEVkW5YgCiq1kp6u96zG+CjjoK7RNoc26FWs4P2lyQ==}
 
-  '@x18n/cli@0.1.8':
-    resolution: {integrity: sha512-H1b9uDKMkc/OhGRV1YOGFCtB/D5PWlBdEOLzU2MjeSeLkYaVonnqA784FKurW3Nor71X9PRMJ9WxwkxN96ygSg==}
+  '@x18n/cli@0.1.10':
+    resolution: {integrity: sha512-oYdxM51OyaVn573HRtXkK2mG3NSRo7EcYU8j6+GwgVwH/7FaE4h8zWllXD6wRwWVdxzmZfuzw5QI0o10vONsVw==}
     engines: {node: '>=22'}
     hasBin: true
 
-  '@x18n/core@0.1.8':
-    resolution: {integrity: sha512-quJuQRX0fVgcdV8nNqZ29aWLcU3NrF53UAjh0DDlBi5qCf5YdaaVV+QzFSAGWW+MBIxbjHFTPGj5o90tyI3A2g==}
+  '@x18n/core@0.1.10':
+    resolution: {integrity: sha512-OR1KcPq8AlzF2V9WOEIuExmB+sOYOzFrMOiJEsC+P5+zoaF6Y2Az2QgWvzxmjJXkWEuWJnM+uY9lK052t3rJdg==}
 
-  '@x18n/node@0.1.8':
-    resolution: {integrity: sha512-t6QTgjZF4kgfYtlmwpJnI+bVBp+naJh5HwKBS2Y1GioGsO9UlntyqoOArSQC0qc4P1UI3M5x4J3O7nSHmhSpnA==}
+  '@x18n/node@0.1.10':
+    resolution: {integrity: sha512-nif2IyBPjsHZbOEe8Jv3GbwMKwjam1+jheYq7RopWQtRY0sWy1Y8bKVS9/9cyRP/DxPPb8KA4Kq3IQoKuOZQig==}
     engines: {node: '>=22'}
 
-  '@x18n/ui@0.1.8':
-    resolution: {integrity: sha512-4unjUhHAvUARrpyB1t/DvNcT9lVBSGVIGEASGdGycKSD8YUq1vXwjysiRt6WAoH9AEZNZ651drN1AVP7XC2yKQ==}
+  '@x18n/ui@0.1.10':
+    resolution: {integrity: sha512-MKjRIzr0ySfaK7s3qxYuu0sf2D5EAEdbLZ4gvxnu3t41JjBEza3Xm1OcJW9RKSxZN/cu7ebSFWe35SJrVdXP3Q==}
     engines: {node: '>=22'}
 
   acorn@8.19.0:
@@ -1013,12 +1012,12 @@ snapshots:
       - crossws
       - ocache
 
-  '@diglot/cli@0.1.4':
+  '@diglot/cli@0.2.0':
     dependencies:
-      '@diglot/comark': 0.1.4
-      '@diglot/core': 0.1.4
-      '@diglot/mdast': 0.1.4
-      '@diglot/store': 0.1.4
+      '@diglot/comark': 0.2.0
+      '@diglot/core': 0.2.0
+      '@diglot/mdast': 0.2.0
+      '@diglot/store': 0.2.0
       citty: 0.2.2
       pathe: 2.0.3
     transitivePeerDependencies:
@@ -1028,14 +1027,14 @@ snapshots:
       - shiki
       - supports-color
 
-  '@diglot/code@0.1.4':
+  '@diglot/code@0.2.0':
     dependencies:
-      '@diglot/core': 0.1.4
+      '@diglot/core': 0.2.0
 
-  '@diglot/comark@0.1.4':
+  '@diglot/comark@0.2.0':
     dependencies:
-      '@diglot/code': 0.1.4
-      '@diglot/core': 0.1.4
+      '@diglot/code': 0.2.0
+      '@diglot/core': 0.2.0
       comark: 0.8.1
       yaml: 2.9.1
     transitivePeerDependencies:
@@ -1044,14 +1043,14 @@ snapshots:
       - rangi
       - shiki
 
-  '@diglot/core@0.1.4':
+  '@diglot/core@0.2.0':
     dependencies:
       fastest-levenshtein: 1.0.16
 
-  '@diglot/mdast@0.1.4':
+  '@diglot/mdast@0.2.0':
     dependencies:
-      '@diglot/code': 0.1.4
-      '@diglot/core': 0.1.4
+      '@diglot/code': 0.2.0
+      '@diglot/core': 0.2.0
       remark-frontmatter: 5.0.0
       remark-gfm: 4.0.1
       remark-mdc: 3.11.1
@@ -1061,22 +1060,20 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@diglot/store@0.1.4':
+  '@diglot/store@0.2.0':
     dependencies:
-      '@diglot/core': 0.1.4
+      '@diglot/core': 0.2.0
       pathe: 2.0.3
       yaml: 2.9.1
 
-  '@diglot/x18n@0.1.4(@x18n/core@0.1.8)':
+  '@diglot/x18n@0.2.0(@x18n/core@0.1.10)':
     dependencies:
-      '@diglot/comark': 0.1.4
-      '@diglot/core': 0.1.4
-      '@diglot/mdast': 0.1.4
-      '@diglot/store': 0.1.4
-      '@x18n/core': 0.1.8
-      citty: 0.2.2
+      '@diglot/comark': 0.2.0
+      '@diglot/core': 0.2.0
+      '@diglot/mdast': 0.2.0
+      '@diglot/store': 0.2.0
+      '@x18n/core': 0.1.10
       pathe: 2.0.3
-      yaml: 2.9.1
     transitivePeerDependencies:
       - beautiful-mermaid
       - katex
@@ -1241,10 +1238,10 @@ snapshots:
 
   '@vue/shared@3.5.44': {}
 
-  '@x18n/builtins@0.1.8':
+  '@x18n/builtins@0.1.10':
     dependencies:
       '@vue/compiler-sfc': 3.5.44
-      '@x18n/core': 0.1.8
+      '@x18n/core': 0.1.10
       json5: 2.2.3
       jsonc-parser: 3.3.1
       oxc-parser: 0.155.0
@@ -1254,12 +1251,12 @@ snapshots:
       - '@typescript-eslint/types'
       - typescript
 
-  '@x18n/cli@0.1.8(@devframes/agentic@1.2.5)(crossws@0.4.17(srvx@1.0.8))(srvx@1.0.8)':
+  '@x18n/cli@0.1.10(@devframes/agentic@1.2.5)(crossws@0.4.17(srvx@1.0.8))(srvx@1.0.8)':
     dependencies:
-      '@x18n/builtins': 0.1.8
-      '@x18n/core': 0.1.8
-      '@x18n/node': 0.1.8
-      '@x18n/ui': 0.1.8(cac@7.1.0)(crossws@0.4.17(srvx@1.0.8))(srvx@1.0.8)
+      '@x18n/builtins': 0.1.10
+      '@x18n/core': 0.1.10
+      '@x18n/node': 0.1.10
+      '@x18n/ui': 0.1.10(cac@7.1.0)(crossws@0.4.17(srvx@1.0.8))(srvx@1.0.8)
       cac: 7.1.0
       devframe: 1.3.1(@devframes/agentic@1.2.5)(cac@7.1.0)(srvx@1.0.8)
       nostics: 1.3.0
@@ -1272,17 +1269,17 @@ snapshots:
       - srvx
       - typescript
 
-  '@x18n/core@0.1.8':
+  '@x18n/core@0.1.10':
     dependencies:
       nostics: 1.3.0
       valibot: 1.5.0
     transitivePeerDependencies:
       - typescript
 
-  '@x18n/node@0.1.8':
+  '@x18n/node@0.1.10':
     dependencies:
-      '@x18n/builtins': 0.1.8
-      '@x18n/core': 0.1.8
+      '@x18n/builtins': 0.1.10
+      '@x18n/core': 0.1.10
       chokidar: 6.0.0
       ignore: 7.0.14
       jiti: 2.7.0
@@ -1293,12 +1290,12 @@ snapshots:
       - '@typescript-eslint/types'
       - typescript
 
-  '@x18n/ui@0.1.8(cac@7.1.0)(crossws@0.4.17(srvx@1.0.8))(srvx@1.0.8)':
+  '@x18n/ui@0.1.10(cac@7.1.0)(crossws@0.4.17(srvx@1.0.8))(srvx@1.0.8)':
     dependencies:
       '@devframes/agentic': 1.2.5(crossws@0.4.17(srvx@1.0.8))(devframe@1.3.1)
       '@valibot/to-json-schema': 1.8.0(valibot@1.5.0)
-      '@x18n/builtins': 0.1.8
-      '@x18n/core': 0.1.8
+      '@x18n/builtins': 0.1.10
+      '@x18n/core': 0.1.10
       devframe: 1.3.1(@devframes/agentic@1.2.5)(cac@7.1.0)(srvx@1.0.8)
       valibot: 1.5.0
     transitivePeerDependencies:
