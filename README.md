@@ -32,7 +32,6 @@ diglot splits each document into segments (a paragraph, a heading, a list item, 
 | `.diglot/manifest/<source>.json` | The segments of each source at the last run |
 | `.diglot/lineage.json` | Which segments evolved from which, so a changed segment can reuse its previous translation |
 | `.diglot/rejected/<locale>.json` | Machine translations rejected by the checks, with the reasons |
-| `dist/<locale>.json` | The bundle served to the docs site |
 
 A record looks like this:
 
@@ -58,7 +57,7 @@ A record looks like this:
 - `derived` is how it relates to `prev`, the record it was derived from: `fresh` (no predecessor), `carry` (same text, new hash) or `update` (updated from the source change).
 - `mt` keeps the model and its unedited output, so reviewer edits can be measured.
 
-The `.diglot/` state and `dist/` are written by the workflow. Edit records, glossaries and style files only.
+The `.diglot/` state is written by the workflow. Edit records, glossaries and style files only.
 
 ## How translations get here
 
@@ -70,7 +69,7 @@ The [`translate`](./.github/workflows/translate.yml) workflow runs the [diglot A
 - a segment whose wording changed gets its previous translation updated from the word diff;
 - new segments are translated page by page with the glossary and style rules of the locale.
 
-Each result is checked (placeholders, glossary terms, numbers, untranslated or truncated output) before it is written; rejected segments are listed in `.diglot/rejected/<locale>.json` and skipped until their source changes. The workflow then rebuilds `dist/<locale>.json` and pushes one commit. Machine-translated records start with `review: none`.
+Each result is checked (placeholders, glossary terms, numbers, untranslated or truncated output) before it is written; rejected segments are listed in `.diglot/rejected/<locale>.json` and skipped until their source changes. The workflow then pushes one commit. Machine-translated records start with `review: none`.
 
 ### Human edits
 
@@ -107,7 +106,7 @@ mt:
   enabled: false
 ```
 
-The workflow then writes no new records for that locale. Existing records stay in the bundle, and changed segments wait for a translator.
+The workflow then writes no new records for that locale. Existing records remain, and changed segments wait for a translator.
 
 ## French style
 

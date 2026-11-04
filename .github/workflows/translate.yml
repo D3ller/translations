@@ -37,10 +37,11 @@ jobs:
           restore-keys: diglot-checkouts-
 
       - id: diglot
-        uses: danielroe/diglot/packages/action@54cea29677e8c150326981935d4d384aa15a36b7 # v0.1.2
+        uses: danielroe/diglot/packages/action@7c6694964b9effe894fae9947ae1115e2e19ce71 # v0.1.4
         with:
           sources: ${{ github.event.client_payload.sources || inputs.sources }}
           limit: ${{ inputs.limit }}
+          build-dist: 'false'
           git-user-name: nuxtbot
           git-user-email: 132644279+nuxtbot@users.noreply.github.com
         env:
