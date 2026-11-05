@@ -1,0 +1,14 @@
+{
+  "hash": "ed97d2325c40b3e9",
+  "source": "Pages that share a component with the layout import this chunk too, so a page with {0} loads the whole chunk rather than only the components it uses.",
+  "text": "Les pages qui partagent un composant avec le layout importent aussi ce chunk, si bien qu'une page avec {0} charge le chunk entier plutôt que seulement les composants qu'elle utilise.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les pages qui partagent un composant avec le layout importent aussi ce chunk, si bien qu'une page avec {0} charge le chunk entier plutôt que seulement les composants qu'elle utilise."
+  },
+  "updatedAt": "2026-11-05T17:38:06.910Z"
+}

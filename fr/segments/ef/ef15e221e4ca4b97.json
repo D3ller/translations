@@ -1,0 +1,14 @@
+{
+  "hash": "ef15e221e4ca4b97",
+  "source": "the server builds the route matcher once per distinct {0} array instead of once per request. On an app with a couple of hundred pages this roughly halves the server time of a small page.",
+  "text": "le serveur construit le route matcher une seule fois par tableau {0} distinct, au lieu d'une fois par requête. Sur une application de quelques centaines de pages, cela réduit environ de moitié le temps serveur d'une petite page.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "le serveur construit le route matcher une seule fois par tableau {0} distinct, au lieu d'une fois par requête. Sur une application de quelques centaines de pages, cela réduit environ de moitié le temps serveur d'une petite page."
+  },
+  "updatedAt": "2026-11-05T17:38:06.910Z"
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "1947a9b3cdb36b94",
+  "source": "{0}, {1} and {2} throw, and are removed from the type of the router returned by {3}. Add routes with the {4} hook instead, so they are part of the build.",
+  "text": "{0}, {1} et {2} lèvent une erreur et sont retirées du type du routeur renvoyé par {3}. Ajoutez plutôt des routes avec le hook {4}, afin qu'elles fassent partie du build.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0}, {1} et {2} lèvent une erreur et sont retirées du type du routeur renvoyé par {3}. Ajoutez plutôt des routes avec le hook {4}, afin qu'elles fassent partie du build."
+  },
+  "updatedAt": "2026-11-05T17:38:06.910Z"
+}

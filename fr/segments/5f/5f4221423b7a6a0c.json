@@ -1,0 +1,14 @@
+{
+  "hash": "5f4221423b7a6a0c",
+  "source": "Cached handlers and functions also store their entries under different keys (a custom {0} result is sanitised and suffixed with a hash), so a persistent cache starts cold after upgrading, and anything that reads cache entries by key needs updating. A cached handler or function that takes longer than 30 seconds to resolve now fails with a {1}; set {2} (in seconds) where that is expected.",
+  "text": "Les handlers et fonctions mis en cache stockent également leurs entrées sous des clés différentes (le résultat d'un {0} personnalisé est assaini et suffixé d'un hash). Un cache persistant repart donc à froid après la mise à niveau, et tout ce qui lit les entrées du cache par clé doit être mis à jour. Un handler ou une fonction mis en cache qui met plus de 30 secondes à se résoudre échoue désormais avec {1} ; définissez {2} (en secondes) lorsque c'est le comportement attendu.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les handlers et fonctions mis en cache stockent également leurs entrées sous des clés différentes (le résultat d'un {0} personnalisé est assaini et suffixé d'un hash). Un cache persistant repart donc à froid après la mise à niveau, et tout ce qui lit les entrées du cache par clé doit être mis à jour. Un handler ou une fonction mis en cache qui met plus de 30 secondes à se résoudre échoue désormais avec {1} ; définissez {2} (en secondes) lorsque c'est le comportement attendu."
+  },
+  "updatedAt": "2026-11-05T17:38:06.910Z"
+}

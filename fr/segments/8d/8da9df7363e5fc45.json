@@ -1,0 +1,14 @@
+{
+  "hash": "8da9df7363e5fc45",
+  "source": "This feature only applies to production builds with the Vite builder. It is skipped if your app has more than one layout, if the client build has more than one entry (for example with {0}), or if you have configured your own chunking in {1} ({2}, {3}, {4} or {5}).",
+  "text": "Cette fonctionnalité ne s'applique qu'aux builds de production avec le builder Vite. Elle est ignorée si votre application comporte plusieurs layouts, si le build client comporte plusieurs points d'entrée (par exemple avec {0}), ou si vous avez configuré votre propre découpage en chunks dans {1} ({2}, {3}, {4} ou {5}).",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Cette fonctionnalité ne s'applique qu'aux builds de production avec le builder Vite. Elle est ignorée si votre application comporte plusieurs layouts, si le build client comporte plusieurs points d'entrée (par exemple avec {0}), ou si vous avez configuré votre propre découpage en chunks dans {1} ({2}, {3}, {4} ou {5})."
+  },
+  "updatedAt": "2026-11-05T17:38:06.910Z"
+}

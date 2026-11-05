@@ -1,0 +1,14 @@
+{
+  "hash": "d6acea2b90b7b588",
+  "source": "{0} is enabled, unless you set it to {1} yourself.",
+  "text": "{0} est activé, sauf si vous le définissez vous-même sur {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "{0} est activé, sauf si vous le définissez vous-même sur {1}."
+  },
+  "updatedAt": "2026-11-05T17:38:06.910Z"
+}

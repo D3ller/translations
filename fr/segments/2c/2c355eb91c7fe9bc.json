@@ -1,0 +1,14 @@
+{
+  "hash": "2c355eb91c7fe9bc",
+  "source": "With the option enabled:",
+  "text": "Lorsque l'option est activée :",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Lorsque l'option est activée :"
+  },
+  "updatedAt": "2026-11-05T17:38:06.910Z"
+}
