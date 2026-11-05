@@ -2,7 +2,7 @@
   "version": 1,
   "source": "nuxt-main",
   "ref": "main",
-  "sha": "dde2c1da2730f73f7583d461a537210bd962444c",
+  "sha": "82d9fbb9cdc95a8c62f01a1ed72fc085d30c3ae5",
   "policy": "f6e446c627d4102c",
   "files": {
     "docs/.navigation.yml": [
@@ -3051,6 +3051,7 @@
       {"hash":"34f5d2b021712e06","kind":"list-item","format":"markdown","words":17,"skeleton":"{0} - Disables rendering of Nuxt scripts and JS resource hints for sections of your site. Read more about {1}.","placeholders":["code","link"]},
       {"hash":"040206a3a60f4d18","kind":"list-item","format":"markdown","words":28,"skeleton":"{0} - Allows you to define middleware that should or should not run for page paths within the Vue app part of your application (that is, not your Nitro routes)","placeholders":["code"]},
       {"hash":"a93d38e931f43c75","kind":"component-slot","format":"markdown","words":23,"skeleton":"Routes using {0} or {1} also generate {2} files alongside HTML. Client-side navigation loads these cached payloads instead of re-fetching data. Read more about {3}payload extraction{/3}.","placeholders":["code","code","code","link"]},
+      {"hash":"e495bdd3d28f61f7","kind":"component-slot","format":"markdown","words":52,"skeleton":"Route rules are not intended as a security measure, and applying middleware there is a convenience and not a security boundary. For example, {0} and {1} rules are applied before {2}server middleware{/2} and may be handled by your hosting platform without reaching your server, so do not use them for endpoints that require authorization.","placeholders":["code","code","link"]},
       {"hash":"997ab48b096f5e83","kind":"heading","format":"markdown","words":4,"skeleton":"Server Bundle Size with {0}","placeholders":["code"]},
       {"hash":"d5cfdca7307cb999","kind":"paragraph","format":"markdown","words":47,"skeleton":"A route covered by {0} is only ever rendered in the browser, so Nuxt excludes its page component from the server bundle. This applies whenever the rules covering every path that reaches the page can be resolved at build time, including dynamic routes such as {1} under a {2} rule.","placeholders":["code","code","code"]},
       {"hash":"3ee8f1e43e6ef5fc","kind":"paragraph","format":"markdown","words":21,"skeleton":"A page is kept in the server bundle when any path that reaches it might still be rendered on the server:"},

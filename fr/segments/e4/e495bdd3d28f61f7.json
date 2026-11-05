@@ -1,0 +1,14 @@
+{
+  "hash": "e495bdd3d28f61f7",
+  "source": "Route rules are not intended as a security measure, and applying middleware there is a convenience and not a security boundary. For example, {0} and {1} rules are applied before {2}server middleware{/2} and may be handled by your hosting platform without reaching your server, so do not use them for endpoints that require authorization.",
+  "text": "Les règles de route ne sont pas conçues comme une mesure de sécurité : y appliquer des middleware est une commodité, pas une barrière de sécurité. Par exemple, les règles {0} et {1} sont appliquées avant les {2}middleware serveur{/2} et peuvent être gérées par votre plateforme d'hébergement sans atteindre votre serveur ; ne les utilisez donc pas pour des endpoints qui nécessitent une autorisation.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les règles de route ne sont pas conçues comme une mesure de sécurité : y appliquer des middleware est une commodité, pas une barrière de sécurité. Par exemple, les règles {0} et {1} sont appliquées avant les {2}middleware serveur{/2} et peuvent être gérées par votre plateforme d'hébergement sans atteindre votre serveur ; ne les utilisez donc pas pour des endpoints qui nécessitent une autorisation."
+  },
+  "updatedAt": "2026-11-05T22:40:20.236Z"
+}
