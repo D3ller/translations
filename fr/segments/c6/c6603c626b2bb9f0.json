@@ -1,0 +1,15 @@
+{
+  "hash": "c6603c626b2bb9f0",
+  "source": "Preload hints take effect as soon as the HTML is parsed. Prefetch hints are rendered with {0} in place of {1}, so the browser ignores them until Nuxt activates them once the app is ready (see {2}). They are also left out of the {3} response header and 103 Early Hints. That way they do not compete with the page's own resources while it loads. You can turn this off with {4}. On a connection with data saver enabled, or a 2G connection, they are not activated at all. Routes served with {5} have no client to activate them, so their non-script prefetch hints are rendered with {6}.",
+  "text": "Les hints de preload prennent effet dès que le HTML est analysé. Les hints de prefetch sont rendus avec {0} à la place de {1}, de sorte que le navigateur les ignore jusqu'à ce que Nuxt les active une fois l'application prête (voir {2}). Ils sont également exclus de l'en-tête de réponse {3} et des 103 Early Hints. Ainsi, ils n'entrent pas en concurrence avec les propres ressources de la page pendant son chargement. Vous pouvez désactiver ce comportement avec {4}. Sur une connexion avec économiseur de données activé, ou une connexion 2G, ils ne sont pas activés du tout. Les routes servies avec {5} n'ont aucun client pour les activer, donc leurs hints de prefetch hors script sont rendus avec {6}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "d056eab990ec3be1",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Les hints de preload prennent effet dès que le HTML est analysé. Les hints de prefetch sont rendus avec {0} à la place de {1}, de sorte que le navigateur les ignore jusqu'à ce que Nuxt les active une fois l'application prête (voir {2}). Ils sont également exclus de l'en-tête de réponse {3} et des 103 Early Hints. Ainsi, ils n'entrent pas en concurrence avec les propres ressources de la page pendant son chargement. Vous pouvez désactiver ce comportement avec {4}. Sur une connexion avec économiseur de données activé, ou une connexion 2G, ils ne sont pas activés du tout. Les routes servies avec {5} n'ont aucun client pour les activer, donc leurs hints de prefetch hors script sont rendus avec {6}."
+  },
+  "updatedAt": "2026-11-05T19:38:11.891Z"
+}
