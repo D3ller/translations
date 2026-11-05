@@ -1,0 +1,14 @@
+{
+  "hash": "3c25e3ce7b92bf21",
+  "source": "**Types.** If you augment {0}, update it to the new module paths. See {1}Route Rule Types Move to {2}{/1}. The layer changes how your server code runs, not how it type-checks. {3} in a server route is still reported, because typed {4} responses check route files alongside your app code, and an {5} imported from a project dependency on h3 v1 does not match Nitro v3's event.",
+  "text": "**Types.** Si vous augmentez {0}, mettez-le à jour avec les nouveaux chemins de modules. Consultez {1}Déplacement des types de règles de route vers {2}{/1}. Le layer (couche) change la façon dont votre code serveur s'exécute, pas la façon dont il est vérifié par le typage. {3} dans une route serveur est toujours signalé, car les réponses {4} typées vérifient les fichiers de routes en même temps que le code de votre application, et un {5} importé depuis une dépendance du projet qui utilise h3 v1 ne correspond pas à l'événement de Nitro v3.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "**Types.** Si vous augmentez {0}, mettez-le à jour avec les nouveaux chemins de modules. Consultez {1}Déplacement des types de règles de route vers {2}{/1}. Le layer (couche) change la façon dont votre code serveur s'exécute, pas la façon dont il est vérifié par le typage. {3} dans une route serveur est toujours signalé, car les réponses {4} typées vérifient les fichiers de routes en même temps que le code de votre application, et un {5} importé depuis une dépendance du projet qui utilise h3 v1 ne correspond pas à l'événement de Nitro v3."
+  },
+  "updatedAt": "2026-11-05T15:02:17.702Z"
+}

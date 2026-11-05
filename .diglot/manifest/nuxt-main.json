@@ -2,7 +2,7 @@
   "version": 1,
   "source": "nuxt-main",
   "ref": "main",
-  "sha": "d67ad2c1cb23b5279464a2887cab82d94c8f5a04",
+  "sha": "0c0c8aae772bec71162e16a661d7d23fdd0643bb",
   "policy": "f6e446c627d4102c",
   "files": {
     "docs/.navigation.yml": [
@@ -1876,7 +1876,7 @@
       {"hash":"936092b0d255518c","kind":"paragraph","format":"markdown","words":32,"skeleton":"You don't need to do anything about this notice. It's aimed at the module's author, and it's a sign that a later release of that module will no longer need the layer."},
       {"hash":"82373f314a15419b","kind":"component-slot","format":"markdown","words":17,"skeleton":"If the module is yours, learn how to write server code that runs on either Nitro version."},
       {"hash":"ca3874af83d8a6f8","kind":"heading","format":"markdown","words":3,"skeleton":"Your Own {0} Directory","placeholders":["code"]},
-      {"hash":"d3788b2dd58dad95","kind":"paragraph","format":"markdown","words":53,"skeleton":"Your own server code is not covered by default, because the errors you get are what show you where the work is. When {0} is off, {1} lists the files in your {2} directory that import from {3}, use h3 v1 helpers, or read {4}. If you want to ship the upgrade before doing that work, turn on {5}:","placeholders":["code","code","code","code","code","code"]},
+      {"hash":"8b498e78b5abcec1","kind":"paragraph","format":"markdown","words":94,"skeleton":"Your own server code is not covered by default, because the errors you get are what show you where the work is. When {0} is off, {1} lists the files in your {2} directory that import from {3}, import h3 v1 helpers that h3 v2 no longer exports, or read {4}. If your project depends on h3 v1 itself, {5} imports in your server code resolve to it rather than to h3 v2, and {6} lists the files importing from {7} until you remove the dependency or turn on {8}. If you want to ship the upgrade before doing that work, turn on {9}:","placeholders":["code","code","code","code","code","code","code","code","code","code"]},
       {"hash":"cffe14d07f4ae11c","kind":"paragraph","format":"markdown","words":15,"skeleton":"With it on, {0}, {1}, {2}, {3}, {4}, auto-imports from subdirectories of {5} and handlers registered without a {6} all keep working.","placeholders":["code","code","code","code","code","code","code"]},
       {"hash":"d1e5e25337182dac","kind":"paragraph","format":"markdown","words":14,"skeleton":"Each part is a separate switch, so you can migrate one at a time:"},
       {"hash":"e2d5978fadbc54aa","kind":"code-comment","format":"plain","words":6,"skeleton":"{0} resolves to the h3 v1 helpers","placeholders":["code"]},
@@ -1886,7 +1886,7 @@
       {"hash":"27e2af24799b1539","kind":"paragraph","format":"markdown","words":33,"skeleton":"The {0} and {1} hooks need no switch. Whenever the layer is active, for your code or for a module's, Nuxt emits them from the Nitro v3 {2} hook and reports any case it can't handle.","placeholders":["code","code","code"]},
       {"hash":"71b927f7c9febe71","kind":"heading","format":"markdown","words":5,"skeleton":"What the Layer Doesn't Cover"},
       {"hash":"e2d554f14ecc93f8","kind":"list-item","format":"markdown","words":41,"skeleton":"**Undeclared dependencies.** {0} v2 put its own dependencies into the server bundle, so a file could import something like {1} without depending on it and still work. Add the package to your own dependencies, or report it to the module that needs it.","placeholders":["code","code"]},
-      {"hash":"181995a768ab9076","kind":"list-item","format":"markdown","words":17,"skeleton":"**Types.** If you augment {0}, update it to the new module paths. See {1}Route Rule Types Move to {2}{/1}.","placeholders":["code","link","code"]},
+      {"hash":"3c25e3ce7b92bf21","kind":"list-item","format":"markdown","words":62,"skeleton":"**Types.** If you augment {0}, update it to the new module paths. See {1}Route Rule Types Move to {2}{/1}. The layer changes how your server code runs, not how it type-checks. {3} in a server route is still reported, because typed {4} responses check route files alongside your app code, and an {5} imported from a project dependency on h3 v1 does not match Nitro v3's event.","placeholders":["code","link","code","code","code","code"]},
       {"hash":"0a998c77f98d7dff","kind":"list-item","format":"markdown","words":31,"skeleton":"**The event object.** With the default builder, {0} is h3 v2's event. The layer adds back some things h3 v2 dropped, such as {1}, {2} and a Node-shaped {3} on runtimes that don't have one.","placeholders":["code","code","code","code"]},
       {"hash":"08d1284a2cd89690","kind":"heading","format":"markdown","words":2,"skeleton":"Migration Steps"},
       {"hash":"6e3b6c3af1a03bcb","kind":"list-item","format":"markdown","words":24,"skeleton":"Upgrade, build, and read the notices. {0} is about modules, so it's their authors' work rather than yours. Errors in your own {1} directory are yours.","placeholders":["code","code"]},
