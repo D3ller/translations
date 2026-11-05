@@ -3,6 +3,7 @@
   "source": "nuxt-fonts",
   "ref": "main",
   "sha": "118dcf4aa6109368106d466f6dedf16878ed5bbe",
+  "policy": "f6e446c627d4102c",
   "files": {
     "docs/.navigation.yml": [
       {"hash":"6a75f940451606f1","kind":"navigation","format":"plain","words":2,"skeleton":"Nuxt Fonts"}

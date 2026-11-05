@@ -3,6 +3,7 @@
   "source": "nuxt-3.x",
   "ref": "3.x",
   "sha": "c1f13b9f2f5c9f56d883eb0e43786560ab324776",
+  "policy": "f6e446c627d4102c",
   "files": {
     "docs/.navigation.yml": [
       {"hash":"e1f126038d5b2783","kind":"navigation","format":"plain","words":1,"skeleton":"Docs"}
