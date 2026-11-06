@@ -1,14 +1,15 @@
 {
   "hash": "d7929583ba975ea3",
   "source": "Nuxt provides the following components for this purpose: {0}, {1}, {2}, {3}, {4}, {5}, {6}, {7} and {8}. Note the capitalization of these components ensuring we don't use invalid native HTML tags.",
-  "text": "Nuxt fournit les composants suivants à cet effet : {0}, {1}, {2}, {3}, {4}, {5}, {6}, {7} et {8}. Notez la capitalisation de ces composants, qui garantit que nous n'utilisons pas de balises HTML natives invalides.",
-  "origin": "mt",
-  "review": "none",
+  "text": "Nuxt fournit les composants suivants à cet effet : {0}, {1}, {2}, {3}, {4}, {5}, {6}, {7} et {8}. Notez la majuscule initiale de ces composants : elle garantit que nous n'utilisons pas de balises HTML natives invalides.",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "Nuxt fournit les composants suivants à cet effet : {0}, {1}, {2}, {3}, {4}, {5}, {6}, {7} et {8}. Notez la capitalisation de ces composants, qui garantit que nous n'utilisons pas de balises HTML natives invalides."
   },
-  "updatedAt": "2026-11-02T12:47:43.377Z"
+  "by": "D3ller",
+  "updatedAt": "2026-11-06T23:31:29.320Z"
 }
