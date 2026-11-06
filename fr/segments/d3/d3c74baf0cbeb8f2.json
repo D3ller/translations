@@ -1,14 +1,15 @@
 {
   "hash": "d3c74baf0cbeb8f2",
   "source": "{0} - Proxy requests to another URL using a string target or an object with {1} and H3 proxy options. Read more in {2}Nitro's route rules docs{/2}.",
-  "text": "{0} - Redirige les requêtes vers une autre URL à l'aide d'une chaîne cible ou d'un objet avec {1} et les options de proxy H3. Pour en savoir plus, consultez {2}la documentation des règles de route de Nitro{/2}.",
-  "origin": "mt",
-  "review": "none",
+  "text": "{0} - Transmet (proxy) les requêtes vers une autre URL à l'aide d'une chaîne cible ou d'un objet avec {1} et les options de proxy H3. Pour en savoir plus, consultez {2}la documentation des règles de route de Nitro{/2}.",
+  "origin": "human",
+  "review": "edited",
   "derived": "fresh",
   "mt": {
     "model": "anthropic/claude-sonnet-5.5",
     "promptVersion": "1",
     "candidate": "{0} - Redirige les requêtes vers une autre URL à l'aide d'une chaîne cible ou d'un objet avec {1} et les options de proxy H3. Pour en savoir plus, consultez {2}la documentation des règles de route de Nitro{/2}."
   },
-  "updatedAt": "2026-11-02T12:50:04.224Z"
+  "by": "D3ller",
+  "updatedAt": "2026-11-06T23:28:47.709Z"
 }
