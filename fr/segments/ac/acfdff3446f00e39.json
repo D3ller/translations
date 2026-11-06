@@ -1,0 +1,15 @@
+{
+  "hash": "acfdff3446f00e39",
+  "source": "Returns a string (the prehydrate id) when the callback accepts an {0} parameter, which can be used to set or access the {1} attribute for advanced use cases.",
+  "text": "Retourne une chaîne (l'identifiant de préhydratation) lorsque le callback accepte un paramètre {0}, qui peut servir à définir ou à accéder à l'attribut {1} dans des cas d'usage avancés.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "update",
+  "prev": "27e06c67f6dbc061",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Retourne une chaîne (l'identifiant de préhydratation) lorsque le callback accepte un paramètre {0}, qui peut servir à définir ou à accéder à l'attribut {1} dans des cas d'usage avancés."
+  },
+  "updatedAt": "2026-11-06T13:26:25.190Z"
+}

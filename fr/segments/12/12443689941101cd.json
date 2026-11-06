@@ -1,0 +1,14 @@
+{
+  "hash": "12443689941101cd",
+  "source": "Returns {0} when the callback does not accept an {1} parameter.",
+  "text": "Renvoie {0} lorsque le callback n'accepte pas de paramètre {1}.",
+  "origin": "mt",
+  "review": "none",
+  "derived": "fresh",
+  "mt": {
+    "model": "anthropic/claude-sonnet-5.5",
+    "promptVersion": "1",
+    "candidate": "Renvoie {0} lorsque le callback n'accepte pas de paramètre {1}."
+  },
+  "updatedAt": "2026-11-06T13:26:25.190Z"
+}
